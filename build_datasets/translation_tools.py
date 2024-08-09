@@ -17,8 +17,6 @@ from pathlib import Path
 DATA_PATH = Path(__file__).parent.parent / "data"
 
 
-
-
 def BabelCache(**kwargs):
     def deco(func):
         cached_func = Cache(**kwargs)(func)
@@ -215,11 +213,10 @@ def bn_translate(
             key=lambda s: s.synset.synset_degree,
             reverse=True,
         )
-        translations[lang] = list(dict.fromkeys(
-            [sense.lemma.lemma.replace("_", " ") for sense in sort]
-        ))
+        translations[lang] = list(
+            dict.fromkeys([sense.lemma.lemma.replace("_", " ") for sense in sort])
+        )
     return translations
-
 
 
 def filter_translations(

@@ -122,15 +122,18 @@ def generate_bn_cloze_dataset(lang, placeholder="___"):
         clozes = []
         clozes_sow = []
         definitions_wo_ref = []
-        for gloss in glosses:
+        for gloss in glosses:  # foreach definition
             found = False
-            for main_sense in senses:
+            for main_sense in senses:  # foreach sense
                 cloze = gloss
                 cloze_sow = gloss
                 acceptable_senses = [main_sense]
                 acceptable_senses_sow = [main_sense]
                 regex_sow = re.compile(r"\b" + main_sense, flags=re.IGNORECASE)
-                if re.search(regex_sow, cloze_sow):
+                if re.search(
+                    regex_sow, cloze_sow
+                ):  # if the sense is the beginning of a word in the definition
+                    # replace the sense with a placeholder in the cloze_start_of_word
                     cloze_sow = re.sub(regex_sow, placeholder, cloze_sow)
                     cloze = re.sub(
                         r"\b" + main_sense + r"\b",
@@ -141,12 +144,15 @@ def generate_bn_cloze_dataset(lang, placeholder="___"):
                     found = True
                 else:
                     continue
-                for sense in senses:
+                for sense in senses:  # foreach other sense
                     if sense == main_sense:
                         continue
                     if not re.search(r"\b" + sense + r"\b", gloss, flags=re.IGNORECASE):
+                        # if the sense is not in the definition, add it to the acceptable senses
+                        # an acceptable sense is a sense that is not in the cloze
                         acceptable_senses.append(sense)
                     if not re.search(r"\b" + sense, gloss, flags=re.IGNORECASE):
+                        # for the cloze_start_of_word variant we also check if the sense is at the beginning of a word
                         acceptable_senses_sow.append(sense)
                 if cloze != gloss:
                     clozes.append((cloze, tuple(acceptable_senses)))
@@ -164,13 +170,6 @@ def generate_bn_cloze_dataset(lang, placeholder="___"):
 
 
 def build_bn_dataset(input_lang, out_langs, expand=False, use_tqdm=False):
-    """
-    Patchscope with source hidden from:
-    index -1 and Prompt = source_input_lang: A -> source_target_lang:
-    Into target prompt:
-    into index = -1, prompt = input_lang: A -> target_lang:
-    Then plot with latent_langs, target_lang, source_target_lang
-    """
     print(f"{input_lang} -> {out_langs}")
     df = gen_word_translation_dataset(input_lang, out_langs)
     print(f"{input_lang} -> {out_langs}: Got {len(df)} translations")
@@ -201,9 +200,7 @@ def build_bn_dataset(input_lang, out_langs, expand=False, use_tqdm=False):
                 "target": str(row[target_lang]),
                 "word original": str(row["word_original"]),
             }
-        with open(
-            DATA_PATH / f"{input_lang}/{target_lang}_prompts.json", "w"
-        ) as f:
+        with open(DATA_PATH / f"{input_lang}/{target_lang}_prompts.json", "w") as f:
             json.dump(json_dic, f, indent=4)
     print(f"Done {input_lang}")
 
