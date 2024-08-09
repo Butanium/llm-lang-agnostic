@@ -1,0 +1,457 @@
+{
+    "['\u672c']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5341\" - Italiano: \"dieci\"\n\u65e5\u672c\u8a9e: \"\u571f\" - Italiano: \"sabato\"\n\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"nord\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"",
+        "target": "['libro']",
+        "word original": "book"
+    },
+    "['\u96f2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u6e56\" - Italiano: \"lago\"\n\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"linea retta\"\n\u65e5\u672c\u8a9e: \"\u4eba\" - Italiano: \"uomo\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Italiano: \"",
+        "target": "['nube', 'nuvola', 'nembo']",
+        "word original": "cloud"
+    },
+    "['\u888b', '\u9784', '\u30ec\u30b8\u888b', '\u30d3\u30cb\u30fc\u30eb\u888b', '\u30ad\u30e3\u30ea\u30a2\u30d0\u30c3\u30b0', '\u30b5\u30c3\u30af', '\u7d19\u888b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5149\" - Italiano: \"luce\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u7c73\" - Italiano: \"riso\"\n\u65e5\u672c\u8a9e: \"\u5bb6\" - Italiano: \"casa\"\n\u65e5\u672c\u8a9e: \"\u888b\" - Italiano: \"",
+        "target": "['sacchetto', 'sacco', 'borsa', 'busta', 'Sacchetto di plastica', 'busta di carta', 'sacco di plastica', 'sacchetto di carta']",
+        "word original": "bag"
+    },
+    "['\u571f', '\u571f\u66dc\u65e5', '\u571f\u66dc', '\u5730', '\u5730\u9762', '\u571f\u5730', '\u5927\u5730', '\u9678\u5730']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u7802\" - Italiano: \"sabbia\"\n\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u571f\" - Italiano: \"",
+        "target": "['sabato', 'territorio', 'terra', 'terraferma', 'superficie', 'suolo', 'terra ferma', 'continente', 'terriccio', 'terreno']",
+        "word original": "soil"
+    },
+    "['\u5c71', '\u5c71\u5cb3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"tempo\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u69cb\u9020\" - Italiano: \"modello\"\n\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"",
+        "target": "['montagna', 'monte', 'miniera']",
+        "word original": "mountain"
+    },
+    "['\u5e03', '\u7e54\u7269']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5ddd\" - Italiano: \"fiume\"\n\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"torre\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"nord\"\n\u65e5\u672c\u8a9e: \"\u5bb6\" - Italiano: \"casa\"\n\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"",
+        "target": "['prodotto tessile', 'materia tessile', 'tessuto', 'stoffa', 'tela', 'roba', 'pezza', 'panno', 'sbiadato']",
+        "word original": "cloth"
+    },
+    "['\u5fc3', '\u30cc\u30fc\u30b9', '\u5ff5\u982d', '\u30d7\u30b7\u30e5\u30b1\u30fc', '\u4e2d\u5fc3', '\u82af']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4eba\" - Italiano: \"uomo\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"ensemble musicale\"\n\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Italiano: \"",
+        "target": "['testare', 'pensiero', 'mente', 'cervello', 'Intelletto cosmico', 'psiche', 'nous', 'testa', 'psicologia', 'anima', 'nucleo']",
+        "word original": "heart"
+    },
+    "['\u624b', '\u30de\u30cc\u30b9', '\u8155', '\u4e8c\u306e\u8155', '\u4e0a\u8155', '\u4e0a\u818a', '\u81ea\u7531\u4e0a\u80a2', '\u53d6\u3063\u624b', '\u30cf\u30f3\u30c9\u30eb', '\u65b9\u6cd5', '\u65b9\u5f0f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u982d\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u5357\" - Italiano: \"sud\"\n\u65e5\u672c\u8a9e: \"\u96ea\" - Italiano: \"nevicata\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"luna\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"",
+        "target": "['mano', 'braccio', 'arto superiore libero', 'arto superiore', 'manico', 'impugnatura', 'presa', 'ansa', 'maniglia', 'manopola', 'metodo', 'procedimento', 'maniera', 'sistema', 'mossa', 'spostamento', 'movimento', 'modo', 'stile', 'guisa', 'forma', 'modalit\u00e0', 'impronta', 'passo']",
+        "word original": "hand"
+    },
+    "['\u65e5', '\u3072', '\u592a\u967d', '\u592a\u967d\u65e5', '\u65e5\u66dc\u65e5', '\u4e3b\u65e5', '\u65e5\u66dc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u571f\" - Italiano: \"sabato\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u8db3\" - Italiano: \"soldi\"\n\u65e5\u672c\u8a9e: \"\u9aea\" - Italiano: \"pelo\"\n\u65e5\u672c\u8a9e: \"\u65e5\" - Italiano: \"",
+        "target": "['sole', 'Sole', 'giorno', \"ventiquattr'ore\", 'domenica']",
+        "word original": "day"
+    },
+    "['\u661f', '\u6052\u661f', '\u6bcd\u6052\u661f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u516c\u5f0f\" - Italiano: \"formula\"\n\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"processo\"\n\u65e5\u672c\u8a9e: \"\u6a5f\u68b0\" - Italiano: \"motore\"\n\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"",
+        "target": "['stella', 'astro', 'sole']",
+        "word original": "star"
+    },
+    "['\u6625']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u304a\u8336\" - Italiano: \"t\u00e8\"\n\u65e5\u672c\u8a9e: \"\u6cd5\u5247\" - Italiano: \"regola\"\n\u65e5\u672c\u8a9e: \"\u6b4c\" - Italiano: \"canzone\"\n\u65e5\u672c\u8a9e: \"\u5ddd\" - Italiano: \"fiume\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6625\" - Italiano: \"",
+        "target": "['primavera', 'vere']",
+        "word original": "spring"
+    },
+    "['\u6708', '\u6708\u9593']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"",
+        "target": "['luna', 'Luna', 'mese', 'mese civile']",
+        "word original": "moon"
+    },
+    "['\u6728', '\u6a39\u6728', '\u6728\u6750', '\u6728\u66dc\u65e5', '\u6728\u66dc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u76ee\" - Italiano: \"bulbo oculare\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"strada\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"",
+        "target": "['albero', 'albore', 'arbore', 'legno', 'alburno', 'legname', 'gioved\u00ec']",
+        "word original": "wood"
+    },
+    "['\u6751', '\u6751\u843d', '\u7530\u820e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u516c\u5f0f\" - Italiano: \"formula\"\n\u65e5\u672c\u8a9e: \"\u5ddd\" - Italiano: \"fiume\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30d4\u30fc\u30c1\" - Italiano: \"lingua parlata\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Italiano: \"nube\"\n\u65e5\u672c\u8a9e: \"\u6751\" - Italiano: \"",
+        "target": "['paesello', 'borgo', 'paesino', 'frazione', 'villaggio', 'paese', 'borgata', 'casale', 'vico']",
+        "word original": "village"
+    },
+    "['\u68ee', '\u68ee\u6797']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"tempo\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u68ee\" - Italiano: \"",
+        "target": "['foresta', 'bosco', 'W\u00e4lder', 'selva', 'bosco misto']",
+        "word original": "forest"
+    },
+    "['\u6b4c', '\u6b4c\u66f2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6d77\" - Italiano: \"mare\"\n\u65e5\u672c\u8a9e: \"\u7701\" - Italiano: \"ministero\"\n\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"nord\"\n\u65e5\u672c\u8a9e: \"\u4e8c\" - Italiano: \"due\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u6b4c\" - Italiano: \"",
+        "target": "['canzone', 'canzonetta', 'canto']",
+        "word original": "song"
+    },
+    "['\u7802']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u592a\u967d\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u8db3\" - Italiano: \"soldi\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Italiano: \"ente\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u6b4c\" - Italiano: \"canzone\"\n\u65e5\u672c\u8a9e: \"\u7802\" - Italiano: \"",
+        "target": "['sabbia', 'rena', 'arena']",
+        "word original": "sand"
+    },
+    "['\u5ddd']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b9\u30d4\u30fc\u30c1\" - Italiano: \"lingua parlata\"\n\u65e5\u672c\u8a9e: \"\u5ca9\" - Italiano: \"pietra\"\n\u65e5\u672c\u8a9e: \"\u7db2\" - Italiano: \"rete\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Italiano: \"cavallo\"\n\u65e5\u672c\u8a9e: \"\u30da\u30a2\" - Italiano: \"coppia\"\n\u65e5\u672c\u8a9e: \"\u5ddd\" - Italiano: \"",
+        "target": "['fiume']",
+        "word original": "river"
+    },
+    "['\u6cd5\u5247', '\u898f\u5247', '\u6761\u4ee4']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8a00\u8449\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u529b\" - Italiano: \"forza\"\n\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u5730\u9762\" - Italiano: \"territorio\"\n\u65e5\u672c\u8a9e: \"\u6cd5\u5247\" - Italiano: \"",
+        "target": "['regola', 'direttiva', 'linea guida', 'norma', 'regolamento', 'disposizione', 'ordinanza']",
+        "word original": "law"
+    },
+    "['\u6ce2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a3\u30fc\u30eb\u30c9\" - Italiano: \"pianura\"\n\u65e5\u672c\u8a9e: \"\u888b\" - Italiano: \"sacchetto\"\n\u65e5\u672c\u8a9e: \"\u7802\" - Italiano: \"sabbia\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"processo\"\n\u65e5\u672c\u8a9e: \"\u6ce2\" - Italiano: \"",
+        "target": "['onda marina', 'onda del mare', 'onda', 'flutto']",
+        "word original": "wave"
+    },
+    "['\u6d77', '\u4e16\u754c\u306e\u5927\u6d0b', '\u5927\u6d0b', '\u6d77\u6d0b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4e16\u5e2f\" - Italiano: \"famiglia\"\n\u65e5\u672c\u8a9e: \"\u6625\" - Italiano: \"primavera\"\n\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"montagna\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"telaio della porta\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u6d77\" - Italiano: \"",
+        "target": "['mare', 'acque', 'ambiente marino', 'oceano']",
+        "word original": "sea"
+    },
+    "['\u6d1e\u7a9f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"strada\"\n\u65e5\u672c\u8a9e: \"\u91d1\" - Italiano: \"oro\"\n\u65e5\u672c\u8a9e: \"\u5341\" - Italiano: \"dieci\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\" - Italiano: \"",
+        "target": "['caverna', 'grotta', 'antro']",
+        "word original": "cave"
+    },
+    "['\u6e56']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u65e5\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u5b50\u4f9b\" - Italiano: \"minore\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u6e56\" - Italiano: \"",
+        "target": "['lago']",
+        "word original": "lake"
+    },
+    "['\u706b', '\u708e', '\u706b\u708e', '\u706b\u66dc\u65e5', '\u706b\u66dc', '\u30e9\u30a4\u30bf\u30fc', '\u660e\u304b\u308a', '\u30e9\u30f3\u30d7', '\u706b\u707d', '\u706b\u4e8b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\" - Italiano: \"pallone\"\n\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"montagna\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"",
+        "target": "['fuoco', 'fiamma', 'marted\u00ec', 'marte', 'accendino', 'lampada', 'accenditore', 'macchinetta', 'incendio', 'rogo']",
+        "word original": "fire"
+    },
+    "['\u70b9', '\u30dd\u30a4\u30f3\u30c8', '\u7d42\u6b62\u7b26', '\u53e5\u70b9', '\u30d4\u30ea\u30aa\u30c9', '\u3002', '\u5f97\u70b9', '\u30b9\u30b3\u30a2', '\u4f4d\u7f6e', '\u5834\u6240', '\u5730\u65b9', '\u6210\u7e3e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"nord\"\n\u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"libro\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u8d64\" - Italiano: \"rosso\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"",
+        "target": "['punto', 'punto fermo', 'stop', 'point', 'punteggio', 'risultato', 'posto', 'luogo', 'zona', 'area', 'voto', 'votazione']",
+        "word original": "point"
+    },
+    "['\u30dc\u30fc\u30eb', '\u30b5\u30c3\u30ab\u30fc\u30dc\u30fc\u30eb', '\u30dc\u30a6\u30eb', '\u677f\u7d19', '\u539a\u7d19', '\u6bb5\u30dc\u30fc\u30eb', '\u821e\u8e0f\u4f1a', '\u7c60\u7403', '\u7bed\u7403', '\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb', '\u30d0\u30b9\u30b1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5730\u9762\" - Italiano: \"territorio\"\n\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"torre\"\n\u65e5\u672c\u8a9e: \"\u5834\u6240\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"valle\"\n\u65e5\u672c\u8a9e: \"\u5ddd\" - Italiano: \"fiume\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\" - Italiano: \"",
+        "target": "['pallone', 'palla', 'pallone da calcio', 'ciotola', 'boccia', 'cartone', 'ballo', 'veglione', 'basket', 'pallacanestro', 'pallone da pallacanestro', 'palla da basket']",
+        "word original": "ball"
+    },
+    "['\u7d75', '\u7d75\u753b', '\u753b\u50cf', '\u753b', '\u30bf\u30d6\u30ed\u30fc', '\u7d75\u753b\u4f5c\u54c1', '\u7d20\u63cf', '\u30c7\u30c3\u30b5\u30f3', '\u56f3\u753b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a3\u30fc\u30eb\u30c9\" - Italiano: \"pianura\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"processo\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"",
+        "target": "['pittura', 'pittore', 'raffigurazione', 'immagine', 'dipinto', 'verniciatura', 'quadro', 'disegno', 'figura', 'riproduzione', 'illustrazione']",
+        "word original": "painting"
+    },
+    "['\u7c73', '\u7a32', '\u30e1\u30fc\u30c8\u30eb', '\u334d']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\" - Italiano: \"pallone\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"processo\"\n\u65e5\u672c\u8a9e: \"\u7c73\" - Italiano: \"",
+        "target": "['riso', 'risicoltore', 'risicultore', 'metro']",
+        "word original": "rice"
+    },
+    "['\u8d64']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"tempo\"\n\u65e5\u672c\u8a9e: \"\u91d1\" - Italiano: \"oro\"\n\u65e5\u672c\u8a9e: \"\u6ce2\" - Italiano: \"onda marina\"\n\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"prodotto tessile\"\n\u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\" - Italiano: \"caverna\"\n\u65e5\u672c\u8a9e: \"\u8d64\" - Italiano: \"",
+        "target": "['rosso']",
+        "word original": "red"
+    },
+    "['\u7dda', '\u76f4\u7dda']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u982d\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"",
+        "target": "['linea retta', 'linea', 'retta']",
+        "word original": "line"
+    },
+    "['\u7db2', '\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af', '\u7de8', '\u30e1\u30c3\u30b7\u30e5', '\u30af\u30e2\u306e\u7db2', '\u8718\u86db\u306e\u5de3', '\u304f\u3082\u306e\u5de3', '\u30af\u30e2\u306e\u5de3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5bb6\" - Italiano: \"casa\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"libro\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u7db2\" - Italiano: \"",
+        "target": "['rete', 'rete di calcolatori', 'rete informatica', 'maglia', 'reti', 'ragnatela', 'tela di ragno']",
+        "word original": "net"
+    },
+    "['\u304a\u8336', '\u8336', '\u8336\u8449', '\u304a\u8336\u3063\u8449']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"prodotto tessile\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"valle\"\n\u65e5\u672c\u8a9e: \"\u529b\" - Italiano: \"forza\"\n\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u304a\u8336\" - Italiano: \"",
+        "target": "['t\u00e8', 'th\u00e8', 'foglia di t\u00e8']",
+        "word original": "tea"
+    },
+    "['\u8db3', '\u91d1\u92ad', '\u304a\u91d1', '\u8ca8\u5e63', '\u30da\u30b9', '\u811a', '\u516c\u5171\u4ea4\u901a\u6a5f\u95a2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6a5f\u68b0\" - Italiano: \"motore\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u5229\u76ca\" - Italiano: \"guadagno\"\n\u65e5\u672c\u8a9e: \"\u5bb6\" - Italiano: \"casa\"\n\u65e5\u672c\u8a9e: \"\u8db3\" - Italiano: \"",
+        "target": "['soldi', 'moneta', 'danaro', 'denaro', 'soldo', 'piede', 'gambe', 'gamba', 'arto inferiore umano', 'arto inferiore', 'trasporto pubblico', 'transito', 'spostamento', 'passaggio', 'movimento', 'sistema di trasporto', 'trasporto']",
+        "word original": "foot"
+    },
+    "['\u91d1', '\u91d1\u92ad', '\u304a\u91d1', '\u8ca8\u5e63', '\u91d1\u5c5e', '\u91d1\u66dc\u65e5', '\u91d1\u66dc', '\u30ad\u30e3\u30c3\u30b7\u30e5', '\u73fe\u91d1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u5341\" - Italiano: \"dieci\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u592a\u967d\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u91d1\" - Italiano: \"",
+        "target": "['oro', 'soldi', 'moneta', 'danaro', 'denaro', 'soldo', 'metallo', 'venerd\u00ec', 'contanti', 'contante', 'denaro contante', 'liquidi', 'denaro liquido', 'liquido', 'denaro in contante', 'cash', 'bancomat']",
+        "word original": "gold"
+    },
+    "['\u6249', '\u9580', '\u30c9\u30a2', '\u6238', '\u6238\u53e3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u6ce2\" - Italiano: \"onda marina\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"",
+        "target": "['telaio della porta', 'porta', 'portiera', 'uscio', 'sportello', 'cancello', 'barriera']",
+        "word original": "door"
+    },
+    "['\u96ea', '\u964d\u96ea', '\u3086\u304d']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"ensemble musicale\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u8d64\" - Italiano: \"rosso\"\n\u65e5\u672c\u8a9e: \"\u96ea\" - Italiano: \"",
+        "target": "['nevicata', 'caduta di neve', 'neve']",
+        "word original": "snow"
+    },
+    "['\u99ac', '\u30a6\u30de', 'Equus caballus']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5357\" - Italiano: \"sud\"\n\u65e5\u672c\u8a9e: \"\u4e16\u5e2f\" - Italiano: \"famiglia\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\" - Italiano: \"caverna\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Italiano: \"",
+        "target": "['cavallo', 'Equus ferus caballus', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['\u4e8c', '\u4e8c\u3064']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5bb6\" - Italiano: \"casa\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u304a\u8336\" - Italiano: \"t\u00e8\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a3\u30fc\u30eb\u30c9\" - Italiano: \"pianura\"\n\u65e5\u672c\u8a9e: \"\u6625\" - Italiano: \"primavera\"\n\u65e5\u672c\u8a9e: \"\u4e8c\" - Italiano: \"",
+        "target": "['due']",
+        "word original": "two"
+    },
+    "['\u5341']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u69cb\u9020\" - Italiano: \"modello\"\n\u65e5\u672c\u8a9e: \"\u65e5\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"nord\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u5341\" - Italiano: \"",
+        "target": "['dieci']",
+        "word original": "ten"
+    },
+    "['\u982d', '\u5fc3', '\u30cc\u30fc\u30b9', '\u5ff5\u982d', '\u30d7\u30b7\u30e5\u30b1\u30fc', '\u982d\u90e8', '\u30ea\u30fc\u30c0\u30fc', '\u6307\u5c0e\u8005']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6d77\" - Italiano: \"mare\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u6a5f\u68b0\" - Italiano: \"motore\"\n\u65e5\u672c\u8a9e: \"\u982d\" - Italiano: \"",
+        "target": "['testare', 'pensiero', 'mente', 'cervello', 'Intelletto cosmico', 'psiche', 'nous', 'testa', 'psicologia', 'capo', 'capoccia', 'zucca', 'chiorba', 'cranio', 'principale', 'leader', 'direttore', 'comandante', 'responsabile']",
+        "word original": "head"
+    },
+    "['\u5e97', '\u5546\u5e97', '\u8ca9\u58f2\u5e97', '\u58f2\u5e97', '\u5e97\u92ea', '\u30b9\u30c8\u30a2', '\u30b7\u30e7\u30c3\u30d7']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Italiano: \"ente\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"velocit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5e97\" - Italiano: \"",
+        "target": "['negozio', 'magazzino', 'esercizio', 'spaccio', 'bottega', 'fondo commerciale', 'locale']",
+        "word original": "shop"
+    },
+    "['\u901a\u308a', '\u9053', '\u9053\u8def', '\u8def\u7dda', '\u901a\u8def', '\u9053\u7b4b', '\u30eb\u30fc\u30c8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5730\u9762\" - Italiano: \"territorio\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6b4c\" - Italiano: \"canzone\"\n\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"",
+        "target": "['strada', 'itinerario', 'percorso', 'via di comunicazione', 'via', 'strada di citt\u00e0', 'strada urbana']",
+        "word original": "street"
+    },
+    "['\u76ee', '\u773c\u7403', '\u773c', '\u90e8\u9580', '\u7bc4\u7587', '\u5206\u985e', '\u7a2e\u985e', '\u30af\u30e9\u30b9', '\u30ab\u30c6\u30b4\u30ea', '\u7a2e\u5225', '\u7b49\u7d1a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u6cd5\u5247\" - Italiano: \"regola\"\n\u65e5\u672c\u8a9e: \"\u592a\u967d\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u65e5\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Italiano: \"",
+        "target": "['bulbo oculare', 'occhio', 'occhi', 'classe', 'categoria', 'ceto', 'genere', 'famiglia', 'ordine', 'titolo']",
+        "word original": "eye"
+    },
+    "['\u30d5\u30a3\u30fc\u30eb\u30c9', '\u5e73\u91ce', '\u5e73\u5730', '\u7551', '\u8015\u5730', '\u5b66\u79d1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"valle\"\n\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"tempo\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a3\u30fc\u30eb\u30c9\" - Italiano: \"",
+        "target": "['pianura', 'campo', 'campagna', 'disciplina', 'materia', 'ambito', 'ramo']",
+        "word original": "field"
+    },
+    "['\u5834\u6240', '\u4f4d\u7f6e', '\u5730\u65b9', '\u5730\u70b9', '\u7acb\u5730']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"nord\"\n\u65e5\u672c\u8a9e: \"\u8db3\" - Italiano: \"soldi\"\n\u65e5\u672c\u8a9e: \"\u5834\u6240\" - Italiano: \"",
+        "target": "['luogo', 'posizione', 'ubicazione', 'posto', 'zona', 'area']",
+        "word original": "site"
+    },
+    "['\u30c0\u30f3\u30b9', '\u8e0a\u308a', '\u821e\u8e0a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"linea retta\"\n\u65e5\u672c\u8a9e: \"\u304a\u8336\" - Italiano: \"t\u00e8\"\n\u65e5\u672c\u8a9e: \"\u4e8c\" - Italiano: \"due\"\n\u65e5\u672c\u8a9e: \"\u516c\u5f0f\" - Italiano: \"formula\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"",
+        "target": "['danza', 'ballo', 'ballare', 'danzare']",
+        "word original": "dance"
+    },
+    "['\u8a00\u8449', '\u8a00\u8a9e', '\u500b\u5225\u8a00\u8a9e', '\u5358\u8a9e', '\u8a9e', '\u53e3\u8a9e', '\u97f3\u58f0', '\u97f3\u58f0\u8a00\u8a9e', '\u53e3\u982d\u8a00\u8a9e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"linea retta\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\" - Italiano: \"caverna\"\n\u65e5\u672c\u8a9e: \"\u5834\u6240\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8449\" - Italiano: \"",
+        "target": "['lingua', 'linguaggio', 'idioma', 'parola', 'termine', 'suono', 'vocabolo', 'lingua parlata', 'parlare', 'parlata', 'frase', 'attestazione', 'enunciato', 'dichiarazione', 'asserzione']",
+        "word original": "word"
+    },
+    "['\u30da\u30a2', '\u4e00\u7d44', '\u9806\u5e8f\u5bfe', '\u5bfe', '\u4e00\u5bfe']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"torre\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6771\" - Italiano: \"oriente\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"velocit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u30da\u30a2\" - Italiano: \"",
+        "target": "['coppia', 'coppia ordinata', 'paio', 'pera']",
+        "word original": "pair"
+    },
+    "['\u5149', '\u53ef\u8996\u5149', '\u53ef\u8996\u5149\u7dda']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5341\" - Italiano: \"dieci\"\n\u65e5\u672c\u8a9e: \"\u529b\" - Italiano: \"forza\"\n\u65e5\u672c\u8a9e: \"\u4f1a\u8b70\" - Italiano: \"conference\"\n\u65e5\u672c\u8a9e: \"\u5e97\" - Italiano: \"negozio\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u5149\" - Italiano: \"",
+        "target": "['luce', 'sorgente luminosa', 'radiazione visibile', 'luce visibile']",
+        "word original": "light"
+    },
+    "['\u5317']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"strada\"\n\u65e5\u672c\u8a9e: \"\u5357\" - Italiano: \"sud\"\n\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u7db2\" - Italiano: \"rete\"\n\u65e5\u672c\u8a9e: \"\u7802\" - Italiano: \"sabbia\"\n\u65e5\u672c\u8a9e: \"\u5317\" - Italiano: \"",
+        "target": "['nord', 'settentrione', 'mezzanotte', 'tramontana']",
+        "word original": "north"
+    },
+    "['\u6a5f\u68b0', '\u30e2\u30fc\u30bf\u30fc', '\u30a8\u30f3\u30b8\u30f3', '\u539f\u52d5\u6a5f', '\u6a5f\u95a2', '\u767a\u52d5\u6a5f', 'Motor']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"processo\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"valle\"\n\u65e5\u672c\u8a9e: \"\u5149\" - Italiano: \"luce\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Italiano: \"cavallo\"\n\u65e5\u672c\u8a9e: \"\u6a5f\u68b0\" - Italiano: \"",
+        "target": "['motore', 'Motor', 'macchinario', 'Machinery', 'apparato', 'congegno', 'strumento', 'apparecchio']",
+        "word original": "machine"
+    },
+    "['\u6642\u9593', '\u6642', '\u9593\u9694']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u7701\" - Italiano: \"ministero\"\n\u65e5\u672c\u8a9e: \"\u5341\" - Italiano: \"dieci\"\n\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"prodotto tessile\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"",
+        "target": "['tempo', 'data', 'ora', 'intervallo', 'finestra temporale']",
+        "word original": "time"
+    },
+    "['\u5229\u76ca', '\u7d14\u5229\u76ca', '\u53ce\u5165', '\u7d14\u5229', '\u6240\u5f97', '\u7a3c\u304e', '\u30b0\u30ed\u30b9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"luna\"\n\u65e5\u672c\u8a9e: \"\u4eba\" - Italiano: \"uomo\"\n\u65e5\u672c\u8a9e: \"\u8d64\" - Italiano: \"rosso\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Italiano: \"nube\"\n\u65e5\u672c\u8a9e: \"\u5229\u76ca\" - Italiano: \"",
+        "target": "['guadagno', 'utile netto', 'reditto netto', 'profitto', 'netto', 'provento', 'reddito netto', 'rendimento', 'utile', 'lucro', 'ricavato', 'ricavo', 'frutto', 'profitto lordo', 'proventi', 'rendita', 'yield', 'incasso']",
+        "word original": "benefit"
+    },
+    "['\u4f4d\u7f6e', '\u5730\u65b9', '\u5730\u70b9', '\u5834\u6240', '\u7acb\u5730']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"montagna\"\n\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"linea retta\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"telaio della porta\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\" - Italiano: \"",
+        "target": "['luogo', 'posizione', 'ubicazione', 'posto', 'incarico', 'carica', 'titolo', 'grado', 'zona', 'area', 'livello']",
+        "word original": "position"
+    },
+    "['\u7701']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"velocit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"torre\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u7701\" - Italiano: \"",
+        "target": "['ministero', 'ministero statale', 'dicastero']",
+        "word original": "province"
+    },
+    "['\u53cb\u4eba', '\u53cb\u60c5', '\u4ea4\u969b', '\u53cb\u9054']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8db3\" - Italiano: \"soldi\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u5b50\u4f9b\" - Italiano: \"minore\"\n\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"",
+        "target": "['cameratismo', 'amicizia', 'amist\u00e0', 'amico']",
+        "word original": "friend"
+    },
+    "['\u8272', '\u9ed2', '\u304f\u308d', '\u30ef\u30a4\u30f3\u306e\u8272']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6771\" - Italiano: \"oriente\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"libro\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"telaio della porta\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"tempo\"\n\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"",
+        "target": "['colore', 'carnagione', 'nero', 'colorazione']",
+        "word original": "color"
+    },
+    "['\u7a2e\u985e', '\u90e8\u9580', '\u7bc4\u7587', '\u5206\u985e', '\u30af\u30e9\u30b9', '\u30ab\u30c6\u30b4\u30ea', '\u7a2e\u5225', '\u7b49\u7d1a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6a5f\u68b0\" - Italiano: \"motore\"\n\u65e5\u672c\u8a9e: \"\u592a\u967d\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"ensemble musicale\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"",
+        "target": "['classe', 'categoria', 'ceto', 'genere', 'famiglia', 'ordine', 'tipo', 'modello', 'sorta', 'qualit\u00e0', 'carattere', 'natura', 'specie', 'fatta', 'forma', 'razza']",
+        "word original": "kind"
+    },
+    "['\u5b66\u6821', '\u5927\u5b66', '\u5b66\u3073\u820e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"strada\"\n\u65e5\u672c\u8a9e: \"\u888b\" - Italiano: \"sacchetto\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"",
+        "target": "['universit\u00e0', 'accademia', 'scuola', 'istituto']",
+        "word original": "school"
+    },
+    "['\u69cb\u9020', '\u69cb\u6210']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u68ee\" - Italiano: \"foresta\"\n\u65e5\u672c\u8a9e: \"\u91d1\" - Italiano: \"oro\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"telaio della porta\"\n\u65e5\u672c\u8a9e: \"\u69cb\u9020\" - Italiano: \"",
+        "target": "['modello', 'struttura', 'costruzione']",
+        "word original": "structure"
+    },
+    "['\u7d50\u3073\u3064\u304d', '\u4eba\u9593\u95a2\u4fc2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"torre\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"velocit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"telaio della porta\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"",
+        "target": "['legame', 'vincolo', 'relazione interpersonale', 'relazione', 'nesso', 'rapporto']",
+        "word original": "tie"
+    },
+    "['\u9854', '\u9762', '\u8868\u60c5']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u888b\" - Italiano: \"sacchetto\"\n\u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\" - Italiano: \"caverna\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8449\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u6625\" - Italiano: \"primavera\"\n\u65e5\u672c\u8a9e: \"\u96ea\" - Italiano: \"nevicata\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"",
+        "target": "['viso', 'faccia', 'volto', 'aria', 'espressione', 'espressione facciale', 'sguardo', 'fisonomia', 'fisionomia', 'aspetto', 'guardo', 'apparenza']",
+        "word original": "face"
+    },
+    "['\u6a4b', '\u306f\u3057']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30da\u30a2\" - Italiano: \"coppia\"\n\u65e5\u672c\u8a9e: \"\u6e56\" - Italiano: \"lago\"\n\u65e5\u672c\u8a9e: \"\u5834\u6240\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u8d64\" - Italiano: \"rosso\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"velocit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"",
+        "target": "['ponte', 'ponti romani']",
+        "word original": "bridge"
+    },
+    "['\u30b0\u30eb\u30fc\u30d7', '\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb', '\u5b98\u80fd\u57fa', '\u57fa', '\u697d\u968a', '\u30d0\u30f3\u30c9', '\u697d\u56e3', '\u30ed\u30c3\u30af\u30b0\u30eb\u30fc\u30d7', '\u30ed\u30c3\u30af\u30d0\u30f3\u30c9', '\u30ed\u30c3\u30af\u30fb\u30d0\u30f3\u30c9', '\u30ed\u30c3\u30af\u30fb\u30b0\u30eb\u30fc\u30d7']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u5ddd\" - Italiano: \"fiume\"\n\u65e5\u672c\u8a9e: \"\u7db2\" - Italiano: \"rete\"\n\u65e5\u672c\u8a9e: \"\u8d64\" - Italiano: \"rosso\"\n\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"montagna\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"",
+        "target": "['ensemble musicale', 'gruppo musicale', 'ensemble', 'complesso', 'band', 'gruppo', 'gruppo funzionale', 'radicale', 'gruppo atomico', 'banda', 'musica', 'insieme', 'gruppo rock', 'novero', 'esercito', 'orda', 'massa', 'combriccola', 'folla', 'reggimento', 'affollamento', 'sciame', 'nuvolo', 'caterva', 'pienone', 'stuolo', 'nugolo', 'frotta', 'mucchio']",
+        "word original": "group"
+    },
+    "['\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0', '\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0', '\u6b69\u5eca', '\u4e57\u308a\u5834', '\u30db\u30fc\u30e0']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6771\" - Italiano: \"oriente\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Italiano: \"cavallo\"\n\u65e5\u672c\u8a9e: \"\u5229\u76ca\" - Italiano: \"guadagno\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"generazione\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"",
+        "target": "['binario', 'piattaforma']",
+        "word original": "platform"
+    },
+    "['\u5bb6', '\u5bb6\u5c4b', '\u4f4f\u5b85', '\u4e16\u5e2f', '\u5b9f\u5bb6', '\u4f4f\u5c45', '\u5c45\u7559', '\u6545\u90f7', '\u4f4f\u6240']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"storia\"\n\u65e5\u672c\u8a9e: \"\u5834\u6240\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u6751\" - Italiano: \"paesello\"\n\u65e5\u672c\u8a9e: \"\u5bb6\" - Italiano: \"",
+        "target": "['casa', 'domicilio', 'abitazione', 'nucleo familiare', 'famiglia', 'dimora', 'residenza', 'magione']",
+        "word original": "house"
+    },
+    "['\u592a\u967d', '\u3072', '\u65e5']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Italiano: \"cavallo\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"libro\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u5149\" - Italiano: \"luce\"\n\u65e5\u672c\u8a9e: \"\u592a\u967d\" - Italiano: \"",
+        "target": "['sole', 'Sole']",
+        "word original": "sun"
+    },
+    "['\u4f1a\u8b70', '\u30b9\u30dd\u30fc\u30c4\u30ea\u30fc\u30b0', '\u4ee3\u8868\u8005\u4f1a\u8b70', '\u4ee3\u8868\u5927\u4f1a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"prodotto tessile\"\n\u65e5\u672c\u8a9e: \"\u5229\u76ca\" - Italiano: \"guadagno\"\n\u65e5\u672c\u8a9e: \"\u4f1a\u8b70\" - Italiano: \"",
+        "target": "['conference', 'lega sportiva', 'federazione', 'campionato', 'lega', 'convegno', 'convenzione', 'congresso', 'convention', 'Congresso', 'riunione', 'meeting', 'convocazione', 'adunanza', 'assemblea', 'consulta', 'consesso', 'simposio', 'conferenza', 'lettura']",
+        "word original": "meeting"
+    },
+    "['\u6b74\u53f2', '\u6cbf\u9769']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30da\u30a2\" - Italiano: \"coppia\"\n\u65e5\u672c\u8a9e: \"\u7701\" - Italiano: \"ministero\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u69cb\u9020\" - Italiano: \"modello\"\n\u65e5\u672c\u8a9e: \"\u571f\" - Italiano: \"sabato\"\n\u65e5\u672c\u8a9e: \"\u6b74\u53f2\" - Italiano: \"",
+        "target": "['storia']",
+        "word original": "history"
+    },
+    "['\u8c37']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5730\u9762\" - Italiano: \"territorio\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u4e8c\" - Italiano: \"due\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30d4\u30fc\u30c1\" - Italiano: \"lingua parlata\"\n\u65e5\u672c\u8a9e: \"\u91d1\" - Italiano: \"oro\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"",
+        "target": "['valle', 'vallata', 'conca']",
+        "word original": "valley"
+    },
+    "['\u4e16\u4ee3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u5b50\u4f9b\" - Italiano: \"minore\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"luna\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u4e16\u4ee3\" - Italiano: \"",
+        "target": "['generazione']",
+        "word original": "generation"
+    },
+    "['\u5357']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6642\u9593\" - Italiano: \"tempo\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a3\u30fc\u30eb\u30c9\" - Italiano: \"pianura\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"ensemble musicale\"\n\u65e5\u672c\u8a9e: \"\u6e56\" - Italiano: \"lago\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"luna\"\n\u65e5\u672c\u8a9e: \"\u5357\" - Italiano: \"",
+        "target": "['sud', 'meridione', 'mezzogiorno', 'austro']",
+        "word original": "south"
+    },
+    "['\u90fd\u5e02', '\u4e3b\u8981\u90fd\u5e02', '\u90fd\u5e02\u30fb\u8857', '\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9', '\u753a', '\u5927\u90fd\u5e02', '\u5927\u90fd\u4f1a', '\u90fd\u4f1a', '\u5e02']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6751\" - Italiano: \"paesello\"\n\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"montagna\"\n\u65e5\u672c\u8a9e: \"\u5ca9\" - Italiano: \"pietra\"\n\u65e5\u672c\u8a9e: \"\u5b66\u6821\" - Italiano: \"universit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6625\" - Italiano: \"primavera\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"",
+        "target": "['citt\u00e0', 'metropoli', 'citt\u00e0 o paese', 'urbe', 'centro urbano']",
+        "word original": "city"
+    },
+    "['\u8a00\u8a9e', '\u500b\u5225\u8a00\u8a9e', '\u8a00\u8449', '\u8a00\u8a9e\u5b66', '\u53e3\u8a9e', '\u97f3\u58f0', '\u97f3\u58f0\u8a00\u8a9e', '\u53e3\u982d\u8a00\u8a9e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u65e5\" - Italiano: \"sole\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u7701\" - Italiano: \"ministero\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"maternit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u5c71\" - Italiano: \"montagna\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"",
+        "target": "['lingua', 'linguaggio', 'idioma', 'linguistica', 'glottologia', 'lingua parlata', 'parlare', 'parlata']",
+        "word original": "language"
+    },
+    "['\u901f\u5ea6', '\u901f\u3055']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4e8c\" - Italiano: \"due\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Italiano: \"bulbo oculare\"\n\u65e5\u672c\u8a9e: \"\u5ca9\" - Italiano: \"pietra\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"",
+        "target": "['velocit\u00e0', 'celerit\u00e0', 'speditezza', 'andatura']",
+        "word original": "speed"
+    },
+    "['\u5730\u9762', '\u5730', '\u571f\u5730', '\u5927\u5730', '\u571f', '\u9678\u5730']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u304a\u8336\" - Italiano: \"t\u00e8\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Italiano: \"testare\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u706b\" - Italiano: \"fuoco\"\n\u65e5\u672c\u8a9e: \"\u5730\u9762\" - Italiano: \"",
+        "target": "['territorio', 'terra', 'terraferma', 'superficie', 'suolo', 'terra ferma', 'continente', 'terriccio', 'terreno']",
+        "word original": "ground"
+    },
+    "['\u8a66\u307f', '\u30c8\u30e9\u30a4\u30a2\u30eb', '\u5bfe\u5be9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u6d77\" - Italiano: \"mare\"\n\u65e5\u672c\u8a9e: \"\u5357\" - Italiano: \"sud\"\n\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"luna\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"",
+        "target": "['processo', 'sentenza', 'giudizio', 'verdetto', 'tentativo', 'prova', 'fatica', 'sforzo', 'impresa']",
+        "word original": "attempt"
+    },
+    "['\u5c3e', '\u5c3b\u5c3e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u529b\" - Italiano: \"forza\"\n\u65e5\u672c\u8a9e: \"\u30da\u30a2\" - Italiano: \"coppia\"\n\u65e5\u672c\u8a9e: \"\u8a66\u307f\" - Italiano: \"processo\"\n\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"torre\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"",
+        "target": "['coda']",
+        "word original": "tail"
+    },
+    "['\u6bcd', '\u6bcd\u89aa']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u76ee\" - Italiano: \"bulbo oculare\"\n\u65e5\u672c\u8a9e: \"\u5730\u9762\" - Italiano: \"territorio\"\n\u65e5\u672c\u8a9e: \"\u571f\" - Italiano: \"sabato\"\n\u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u6bcd\" - Italiano: \"",
+        "target": "['maternit\u00e0', 'madre', 'mamma', 'genitrice', \"ma'\", 'mammina']",
+        "word original": "mother"
+    },
+    "['\u6771', '\u6771\u65b9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u571f\" - Italiano: \"sabato\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"ensemble musicale\"\n\u65e5\u672c\u8a9e: \"\u6d77\" - Italiano: \"mare\"\n\u65e5\u672c\u8a9e: \"\u8272\" - Italiano: \"colore\"\n\u65e5\u672c\u8a9e: \"\u90fd\u5e02\" - Italiano: \"citt\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6771\" - Italiano: \"",
+        "target": "['oriente', 'est', 'levante', 'E']",
+        "word original": "east"
+    },
+    "['\u30b9\u30d4\u30fc\u30c1', '\u53e3\u8a9e', '\u97f3\u58f0', '\u97f3\u58f0\u8a00\u8a9e', '\u53e3\u982d\u8a00\u8a9e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"prodotto tessile\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u901f\u5ea6\" - Italiano: \"velocit\u00e0\"\n\u65e5\u672c\u8a9e: \"\u6a4b\" - Italiano: \"ponte\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30d4\u30fc\u30c1\" - Italiano: \"",
+        "target": "['lingua parlata', 'parlare', 'parlata', 'lingua', 'linguaggio']",
+        "word original": "speech"
+    },
+    "['\u5b50\u4f9b', '\u5b50', '\u672a\u6210\u5e74\u8005']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6b4c\" - Italiano: \"canzone\"\n\u65e5\u672c\u8a9e: \"\u9aea\" - Italiano: \"pelo\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Italiano: \"mano\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"linea retta\"\n\u65e5\u672c\u8a9e: \"\u5b50\u4f9b\" - Italiano: \"",
+        "target": "['minore', 'fanciullo', 'giovane', 'fanciullino', 'bambino', 'moccioso', 'mimmo', 'pargolo', 'bimbo', 'figlio', 'ragazzo', 'marmocchio', 'bambini', 'bambine', 'figlio piccolo']",
+        "word original": "child"
+    },
+    "['\u5854', '\u30bf\u30ef\u30fc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u888b\" - Italiano: \"sacchetto\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"valle\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8449\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u5854\" - Italiano: \"",
+        "target": "['torre']",
+        "word original": "tower"
+    },
+    "['\u9aea', '\u6bdb', '\u9aea\u306e\u6bdb (\u304b\u307f\u306e\u3051']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\" - Italiano: \"danza\"\n\u65e5\u672c\u8a9e: \"\u7dda\" - Italiano: \"linea retta\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u985e\" - Italiano: \"classe\"\n\u65e5\u672c\u8a9e: \"\u4e16\u5e2f\" - Italiano: \"famiglia\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Italiano: \"telaio della porta\"\n\u65e5\u672c\u8a9e: \"\u9aea\" - Italiano: \"",
+        "target": "['pelo', 'peluria', 'capello']",
+        "word original": "hair"
+    },
+    "['\u4e16\u5e2f', '\u5bb6\u65cf', '\u3054\u5bb6\u65cf', '\u5bb6\u5ead']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Italiano: \"viso\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"strada\"\n\u65e5\u672c\u8a9e: \"\u516c\u5f0f\" - Italiano: \"formula\"\n\u65e5\u672c\u8a9e: \"\u70b9\" - Italiano: \"punto\"\n\u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\" - Italiano: \"luogo\"\n\u65e5\u672c\u8a9e: \"\u4e16\u5e2f\" - Italiano: \"",
+        "target": "['famiglia', 'nucleo familiare', 'casa']",
+        "word original": "household"
+    },
+    "['\u4eba', '\u4eba\u9593', '\u30db\u30e2\u30fb\u30b5\u30d4\u30a8\u30f3\u30b9\u30fb\u30b5\u30d4\u30a8\u30f3\u30b9', '\u30d2\u30c8\u5c5e', '\u30d2\u30c8', '\u4eba\u985e', '\u5730\u7403', '\u4e16\u754c', '\u500b\u4eba', '\u8005', '\u65b9', '\u4eba\u7269', '\u4eba\u683c', '\u500b\u6027']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5357\" - Italiano: \"sud\"\n\u65e5\u672c\u8a9e: \"\u8db3\" - Italiano: \"soldi\"\n\u65e5\u672c\u8a9e: \"\u7802\" - Italiano: \"sabbia\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Italiano: \"ente\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Italiano: \"valle\"\n\u65e5\u672c\u8a9e: \"\u4eba\" - Italiano: \"",
+        "target": "['uomo', 'essere umano', 'Homo', 'Homo sapiens sapiens', 'umano', 'umanit\u00e0', 'mondo', 'terra', 'genere umano', \"collettivita' umana\", 'gente', 'societ\u00e0', 'razza umana', 'persona', 'individuo', 'mortale', 'anima', 'singolo', 'soggetto', 'personalit\u00e0', 'individualit\u00e0']",
+        "word original": "person"
+    },
+    "['\u516c\u5f0f', '\u6570\u5f0f', '\u5f0f', '\u8ad6\u7406\u5f0f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5149\" - Italiano: \"luce\"\n\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u30b0\u30eb\u30fc\u30d7\" - Italiano: \"ensemble musicale\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"libro\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Italiano: \"strada\"\n\u65e5\u672c\u8a9e: \"\u516c\u5f0f\" - Italiano: \"",
+        "target": "['formula', 'formula matematica', 'espressione', 'espressione matematica', 'espressione algebrica']",
+        "word original": "official"
+    },
+    "['\u30aa\u30d5\u30a3\u30b9', '\u4e8b\u52d9\u6240', '\u4e8b\u52d9\u5ba4', '\u57f7\u52d9\u5ba4', '\u5b98\u5e81', '\u653f\u5e9c\u6a5f\u95a2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\" - Italiano: \"pallone\"\n\u65e5\u672c\u8a9e: \"\u4eba\" - Italiano: \"uomo\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Italiano: \"luna\"\n\u65e5\u672c\u8a9e: \"\u8a00\u8a9e\" - Italiano: \"lingua\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Italiano: \"",
+        "target": "['ente', 'organo', 'ufficio', 'agenzia', 'fonte', 'agenzia governativa', 'istituzione', 'uffizio', 'studio']",
+        "word original": "office"
+    },
+    "['\u5ca9', '\u77f3', '\u5ca9\u77f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7d75\" - Italiano: \"pittura\"\n\u65e5\u672c\u8a9e: \"\u6728\" - Italiano: \"albero\"\n\u65e5\u672c\u8a9e: \"\u53cb\u4eba\" - Italiano: \"cameratismo\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Italiano: \"libro\"\n\u65e5\u672c\u8a9e: \"\u5149\" - Italiano: \"luce\"\n\u65e5\u672c\u8a9e: \"\u5ca9\" - Italiano: \"",
+        "target": "['pietra', 'sasso', 'roccia', 'osso', 'nocciolo']",
+        "word original": "rock"
+    },
+    "['\u529b', '\u6a29\u529b', '\u5f71\u97ff', '\u5f71\u97ff\u529b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7db2\" - Italiano: \"rete\"\n\u65e5\u672c\u8a9e: \"\u888b\" - Italiano: \"sacchetto\"\n\u65e5\u672c\u8a9e: \"\u5e97\" - Italiano: \"negozio\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Italiano: \"coda\"\n\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"stagione estiva\"\n\u65e5\u672c\u8a9e: \"\u529b\" - Italiano: \"",
+        "target": "['forza', 'energia', 'Potenza', 'potere politico', 'potere', 'potenza', 'facolt\u00e0', 'vigore', 'fibra', 'influenza', 'ascendente', 'corpo', 'lena', 'nerbo', 'possa', 'solidit\u00e0', 'gagliardia', 'robustezza', 'forza fisica', 'forza muscolare']",
+        "word original": "power"
+    },
+    "['\u590f', '\u590f\u6642']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u661f\" - Italiano: \"stella\"\n\u65e5\u672c\u8a9e: \"\u5e03\" - Italiano: \"prodotto tessile\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u3064\u304d\" - Italiano: \"legame\"\n\u65e5\u672c\u8a9e: \"\u6e56\" - Italiano: \"lago\"\n\u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\" - Italiano: \"binario\"\n\u65e5\u672c\u8a9e: \"\u590f\" - Italiano: \"",
+        "target": "['stagione estiva', 'estate']",
+        "word original": "summer"
+    }
+}

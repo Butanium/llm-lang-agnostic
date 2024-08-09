@@ -1,0 +1,527 @@
+{
+    "['libro']": {
+        "prompt": "Espa\u00f1ol: \"punta\" - English: \"head\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"tea\"\nEspa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"libro\" - English: \"",
+        "target": "['book']",
+        "word original": "book"
+    },
+    "['nube', 'nubes']": {
+        "prompt": "Espa\u00f1ol: \"red\" - English: \"network\"\nEspa\u00f1ol: \"art\u00edculo\" - English: \"evening newspaper\"\nEspa\u00f1ol: \"tienda\" - English: \"marquee\"\nEspa\u00f1ol: \"and\u00e9n\" - English: \"pavement\"\nEspa\u00f1ol: \"caballo\" - English: \"horse\"\nEspa\u00f1ol: \"nube\" - English: \"",
+        "target": "['cloud']",
+        "word original": "cloud"
+    },
+    "['bolsa', 'bolso', 'cartera', 'bulto', 'bolsa de papel', 'costal', 'saco', 'bolsa pl\u00e1stica de compra', 'bolsillo']": {
+        "prompt": "Espa\u00f1ol: \"bosque\" - English: \"forrest\"\nEspa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"and\u00e9n\" - English: \"pavement\"\nEspa\u00f1ol: \"bolsa\" - English: \"",
+        "target": "['purse', 'bag', 'handbag', 'pocketbook', 'sack', 'paper bag', 'carrier bag', 'poke', 'plastic shopping bag', 'pocket', 'trouser pocket']",
+        "word original": "bag"
+    },
+    "['boca', 'entrada', 'zagu\u00e1n', 'recibidor', 'vest\u00edbulo', 'acceso', 'v\u00eda de acceso', 'ingreso', 'nariz']": {
+        "prompt": "Espa\u00f1ol: \"cinco\" - English: \"four\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"punta\" - English: \"head\"\nEspa\u00f1ol: \"pie\" - English: \"human foot\"\nEspa\u00f1ol: \"boca\" - English: \"",
+        "target": "['entry', 'entranceway', 'entree', 'entrance', 'entryway', 'mouth', 'vestibule of mouth']",
+        "word original": "mouth"
+    },
+    "['tierra', 'globo terrestre', 'globo', 'mundo', 'globo terr\u00e1queo', 'Planeta Tierra', 'nuestro planeta', 'Mundo', 'el planeta', 'estado', 'pa\u00eds', 'naci\u00f3n', 'estado soberano', 'estado de M\u00e9xico', 'humanidad', 'raza humana', 'g\u00e9nero humano', 'especie humana', 'hombre', 'finca', 'dominio', 'propiedad de la tierra', 'terreno', 'hacienda', 'territorio', 'tierra firme', 'suelo']": {
+        "prompt": "Espa\u00f1ol: \"dos\" - English: \"one\"\nEspa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"l\u00ednea\" - English: \"sentence\"\nEspa\u00f1ol: \"pie\" - English: \"human foot\"\nEspa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"tierra\" - English: \"",
+        "target": "['Blue Planet', 'Earth', 'earth', 'globe', 'world', 'World', 'Globe', 'state', 'nation', 'country', 'sovereign state', 'land', 'state of Mexico', 'humanity', 'man', 'mankind', 'humankind', 'humans', 'human beings', 'human race', 'estate', 'landed estate', 'acres', 'demesne', 'landed property', 'ground', 'terra firma', 'solid ground', 'dry land', 'land mass', 'soil', 'dirt']",
+        "word original": "soil"
+    },
+    "['monta\u00f1a', 'monte', 'colina', 'loma', 'cerro', 'puig', 'collado', 'otero']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - English: \"cloud\"\nEspa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"mil\" - English: \"one thousand\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"monta\u00f1a\" - English: \"",
+        "target": "['mountain', 'mount', 'hill', 'loma', 'colina']",
+        "word original": "mountain"
+    },
+    "['tela', 'textil', 'tejido', 'g\u00e9nero', 'pa\u00f1o', 'trapo', 'material', 'vela', 'lona']": {
+        "prompt": "Espa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"cabeza\" - English: \"head\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"rojo\" - English: \"red\"\nEspa\u00f1ol: \"coraz\u00f3n\" - English: \"heart\"\nEspa\u00f1ol: \"tela\" - English: \"",
+        "target": "['fabric', 'cloth', 'textile', 'material', 'sail', 'canvass', 'sheet', 'canvas']",
+        "word original": "cloth"
+    },
+    "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o', 'centro', 'ojo', 'medio']": {
+        "prompt": "Espa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"talento\" - English: \"skill\"\nEspa\u00f1ol: \"coraz\u00f3n\" - English: \"",
+        "target": "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle', 'core']",
+        "word original": "heart"
+    },
+    "['mano', 'palma', 'zarpa', 'manus', 'pata']": {
+        "prompt": "Espa\u00f1ol: \"mil\" - English: \"one thousand\"\nEspa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"canci\u00f3n\" - English: \"song\"\nEspa\u00f1ol: \"mano\" - English: \"",
+        "target": "['hand', 'manus', 'mitt', 'paw', 'Manus']",
+        "word original": "hand"
+    },
+    "['d\u00eda', 'd\u00eda solar']": {
+        "prompt": "Espa\u00f1ol: \"arroz\" - English: \"rice farmer\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"mil\" - English: \"one thousand\"\nEspa\u00f1ol: \"tienda\" - English: \"marquee\"\nEspa\u00f1ol: \"punta\" - English: \"head\"\nEspa\u00f1ol: \"d\u00eda\" - English: \"",
+        "target": "['twenty-four hour period', 'solar day', 'twenty-four hours', 'mean solar day', 'day']",
+        "word original": "day"
+    },
+    "['estrella', 'astro', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha', 'artista', 'protagonista']": {
+        "prompt": "Espa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"pie\" - English: \"human foot\"\nEspa\u00f1ol: \"m\u00e1quina\" - English: \"car\"\nEspa\u00f1ol: \"bosque\" - English: \"forrest\"\nEspa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"estrella\" - English: \"",
+        "target": "['star', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']",
+        "word original": "star"
+    },
+    "['primavera']": {
+        "prompt": "Espa\u00f1ol: \"nieve\" - English: \"snow cover\"\nEspa\u00f1ol: \"bosque\" - English: \"forrest\"\nEspa\u00f1ol: \"libro\" - English: \"book\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"primavera\" - English: \"",
+        "target": "['spring', 'springtime']",
+        "word original": "spring"
+    },
+    "['madera', 'albura', 's\u00e1mago']": {
+        "prompt": "Espa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"monta\u00f1a\" - English: \"mountain\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"tea\"\nEspa\u00f1ol: \"juez\" - English: \"judge\"\nEspa\u00f1ol: \"madera\" - English: \"",
+        "target": "['sap-wood', 'wood', 'sapwood', 'alburnum']",
+        "word original": "wood"
+    },
+    "['pueblo', 'caser\u00edo', 'aldea', 'aldehuela', 'villa', 'ciudad', 'poblaci\u00f3n', 'territorio', 'estado soberano', 'pa\u00eds', 'naci\u00f3n', 'estado', 'Estado soberano', 'Estado', 'res publica', 'rep\u00fablica', 'gente', 'personas', 'p\u00fablico', 'mundo']": {
+        "prompt": "Espa\u00f1ol: \"diez\" - English: \"ten\"\nEspa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"ni\u00f1o\" - English: \"fry\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"pieza\" - English: \"coin\"\nEspa\u00f1ol: \"pueblo\" - English: \"",
+        "target": "['village', 'hamlet', 'town', 'large village', 'nation', 'sovereign state', 'state', 'country', 'land', 'res publica', 'commonwealth', 'body politic', 'people', 'public', 'world', 'populace']",
+        "word original": "village"
+    },
+    "['bosque', 'W\u00e4lder', 'bosques', 'selva', 'floresta']": {
+        "prompt": "Espa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"madera\" - English: \"sap-wood\"\nEspa\u00f1ol: \"fuego\" - English: \"flame\"\nEspa\u00f1ol: \"dos\" - English: \"one\"\nEspa\u00f1ol: \"bosque\" - English: \"",
+        "target": "['forrest', 'forest', 'wood', 'woods', 'W\u00e4lder']",
+        "word original": "forest"
+    },
+    "['fruta', 'fruto']": {
+        "prompt": "Espa\u00f1ol: \"posici\u00f3n\" - English: \"locus\"\nEspa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"pueblo\" - English: \"village\"\nEspa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"fruta\" - English: \"",
+        "target": "['fruit', 'fleshy fruit']",
+        "word original": "fruit"
+    },
+    "['cuadro', 'pintora', 'imagen', 'pintor', 'pintura', 'pintado', 'lienzo', 'cuadrado', 'gr\u00e1fica', 'tabla', 'gr\u00e1fico', 'fotograma', 'trance', 'coyuntura', 'situaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"luz\" - English: \"light\"\nEspa\u00f1ol: \"verano\" - English: \"summertime\"\nEspa\u00f1ol: \"libro\" - English: \"book\"\nEspa\u00f1ol: \"art\u00edculo\" - English: \"evening newspaper\"\nEspa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"cuadro\" - English: \"",
+        "target": "['image', 'picture', 'artist', 'painting', 'painter', 'art of painting', 'square', 'foursquare', 'graph', 'chart', 'frame', 'film frame', 'set up', 'condition', 'situation', 'position']",
+        "word original": "square"
+    },
+    "['canci\u00f3n', 'vocal']": {
+        "prompt": "Espa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"tela\" - English: \"fabric\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"canci\u00f3n\" - English: \"",
+        "target": "['song', 'vocal']",
+        "word original": "song"
+    },
+    "['agua', 'cuerpo de agua', 'extensi\u00f3n de agua', 'masa de agua']": {
+        "prompt": "Espa\u00f1ol: \"rojo\" - English: \"red\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"cueva\" - English: \"cave\"\nEspa\u00f1ol: \"ola\" - English: \"sea wave\"\nEspa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"agua\" - English: \"",
+        "target": "['water', 'body of water', 'waterbody']",
+        "word original": "water"
+    },
+    "['estanque', 'lago', 'lagos']": {
+        "prompt": "Espa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"tela\" - English: \"fabric\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"estanque\" - English: \"",
+        "target": "['lake']",
+        "word original": "pond"
+    },
+    "['arena']": {
+        "prompt": "Espa\u00f1ol: \"fuego\" - English: \"flame\"\nEspa\u00f1ol: \"funcionario\" - English: \"official\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"tipo\" - English: \"kind\"\nEspa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"arena\" - English: \"",
+        "target": "['sand']",
+        "word original": "sand"
+    },
+    "['r\u00edo', 'r\u00edos']": {
+        "prompt": "Espa\u00f1ol: \"juez\" - English: \"judge\"\nEspa\u00f1ol: \"grupo\" - English: \"musical organization\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"pueblo\" - English: \"village\"\nEspa\u00f1ol: \"pelo\" - English: \"hair\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"",
+        "target": "['river']",
+        "word original": "river"
+    },
+    "['ley', 'derecho', 'Derecho', 'jurisprudencia', 'acta', 'hecho']": {
+        "prompt": "Espa\u00f1ol: \"monta\u00f1a\" - English: \"mountain\"\nEspa\u00f1ol: \"agua\" - English: \"water\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"red\" - English: \"network\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"ley\" - English: \"",
+        "target": "['law', 'jurisprudence', 'act', 'enactment', 'file unit']",
+        "word original": "law"
+    },
+    "['ola', 'ola marina', 'onda']": {
+        "prompt": "Espa\u00f1ol: \"cara\" - English: \"face\"\nEspa\u00f1ol: \"sol\" - English: \"sun\"\nEspa\u00f1ol: \"diez\" - English: \"ten\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"ola\" - English: \"",
+        "target": "['sea wave', 'ocean surface wave', 'wave', 'moving ridge', 'wind wave']",
+        "word original": "wave"
+    },
+    "['oc\u00e9ano', 'mar', 'oc\u00e9ano mundial', 'mares', 'ambiente marino']": {
+        "prompt": "Espa\u00f1ol: \"ley\" - English: \"law\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"oficina\" - English: \"agency\"\nEspa\u00f1ol: \"sol\" - English: \"sun\"\nEspa\u00f1ol: \"historia\" - English: \"historical development\"\nEspa\u00f1ol: \"oc\u00e9ano\" - English: \"",
+        "target": "['sea', 'body of water', 'bounding main', 'ocean', 'marine environment']",
+        "word original": "ocean"
+    },
+    "['cueva', 'caverna', 'gruta']": {
+        "prompt": "Espa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"madre\" - English: \"mother\"\nEspa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"pueblo\" - English: \"village\"\nEspa\u00f1ol: \"cueva\" - English: \"",
+        "target": "['cave']",
+        "word original": "cave"
+    },
+    "['mar', 'oc\u00e9ano mundial', 'oc\u00e9ano', 'mares', 'ambiente marino', 'marzo', 'March', 'martes']": {
+        "prompt": "Espa\u00f1ol: \"m\u00e1quina\" - English: \"car\"\nEspa\u00f1ol: \"casa\" - English: \"building\"\nEspa\u00f1ol: \"talento\" - English: \"skill\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"arena\" - English: \"sand\"\nEspa\u00f1ol: \"mar\" - English: \"",
+        "target": "['sea', 'body of water', 'bounding main', 'ocean', 'marine environment', 'March', 'Tuesday', 'Tues']",
+        "word original": "sea"
+    },
+    "['lago', 'lagos', 'estanque']": {
+        "prompt": "Espa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"piedra\" - English: \"stone\"\nEspa\u00f1ol: \"posici\u00f3n\" - English: \"locus\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"persona\" - English: \"homo\"\nEspa\u00f1ol: \"lago\" - English: \"",
+        "target": "['lake']",
+        "word original": "lake"
+    },
+    "['fuente', 'manantial', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n', 'ra\u00edz', 'inicio', 'origen', 'venero', 'nacimiento', 'germen', 'principio']": {
+        "prompt": "Espa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"dos\" - English: \"one\"\nEspa\u00f1ol: \"cara\" - English: \"face\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"fuente\" - English: \"",
+        "target": "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'beginning', 'root', 'origin', 'source', 'rootage']",
+        "word original": "source"
+    },
+    "['fuego', 'llama', 'flama', 'lumbre', 'incendio', 'encendedor', 'l\u00e1mpara', 'luminaria', 'mechero', 'yesquero', 'briquet']": {
+        "prompt": "Espa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"red\" - English: \"network\"\nEspa\u00f1ol: \"madera\" - English: \"sap-wood\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"fuego\" - English: \"",
+        "target": "['flame', 'fire', 'flaming', 'light', 'lamp', 'cigarette lighter', 'lighter', 'pocket lighter', 'igniter', 'ignitor']",
+        "word original": "fire"
+    },
+    "['punta', 'mente', 'cabeza', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'clavo', 'u\u00f1a', 'propina', 'baksheesh', 'Baksheesh', 'adehala', 'pourboire']": {
+        "prompt": "Espa\u00f1ol: \"ojo\" - English: \"eye\"\nEspa\u00f1ol: \"expresi\u00f3n\" - English: \"formula\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"suelo\" - English: \"land\"\nEspa\u00f1ol: \"tela\" - English: \"fabric\"\nEspa\u00f1ol: \"punta\" - English: \"",
+        "target": "['head', 'caput', 'nail', 'spike', 'gratuity', 'tip', 'cumshaw', 'bakshish', 'pourboire', 'backsheesh', 'baksheesh', 'bakshis']",
+        "word original": "point"
+    },
+    "['pelota', 'bola', 'bal\u00f3n', 'pelota de f\u00fatbol', 'bal\u00f3n de f\u00fatbol', 'esfera']": {
+        "prompt": "Espa\u00f1ol: \"agua\" - English: \"water\"\nEspa\u00f1ol: \"torre\" - English: \"tower\"\nEspa\u00f1ol: \"tierra\" - English: \"Blue Planet\"\nEspa\u00f1ol: \"diez\" - English: \"ten\"\nEspa\u00f1ol: \"historia\" - English: \"historical development\"\nEspa\u00f1ol: \"pelota\" - English: \"",
+        "target": "['ball', 'association football ball', 'sphere', 'globe', 'orb']",
+        "word original": "ball"
+    },
+    "['pintura', 'pintora', 'imagen', 'pintor', 'pintado', 'lienzo', 'cuadro', 'pigmento']": {
+        "prompt": "Espa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"cara\" - English: \"face\"\nEspa\u00f1ol: \"arroz\" - English: \"rice farmer\"\nEspa\u00f1ol: \"pintura\" - English: \"",
+        "target": "['image', 'picture', 'artist', 'painting', 'painter', 'art of painting', 'paint', 'pigment']",
+        "word original": "painting"
+    },
+    "['estaci\u00f3n', 'estaci\u00f3n del a\u00f1o', 'estaciones del a\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"tienda\" - English: \"marquee\"\nEspa\u00f1ol: \"fuerza\" - English: \"armed forces\"\nEspa\u00f1ol: \"estaci\u00f3n\" - English: \"",
+        "target": "['season', 'time of year', 'station']",
+        "word original": "station"
+    },
+    "['arroz']": {
+        "prompt": "Espa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"caballo\" - English: \"horse\"\nEspa\u00f1ol: \"arroz\" - English: \"",
+        "target": "['rice farmer', 'rice', 'rice grower', 'Rice gadu']",
+        "word original": "rice"
+    },
+    "['rojo', 'roja', 'rojez']": {
+        "prompt": "Espa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"and\u00e9n\" - English: \"pavement\"\nEspa\u00f1ol: \"rabo\" - English: \"tail\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"tienda\" - English: \"marquee\"\nEspa\u00f1ol: \"rojo\" - English: \"",
+        "target": "['red', 'redness']",
+        "word original": "red"
+    },
+    "['l\u00ednea', 'frase', 'oraci\u00f3n', 'recta', 'cuerda', 'ton', 'melod\u00eda', 'aire', 'tonada', 'l\u00ednea telef\u00f3nica', 'circuito telef\u00f3nico', 'l\u00ednea de tel\u00e9fono', 'rengl\u00f3n', 'verso']": {
+        "prompt": "Espa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"palabra\" - English: \"word\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"and\u00e9n\" - English: \"pavement\"\nEspa\u00f1ol: \"l\u00ednea\" - English: \"",
+        "target": "['sentence', 'straight line', 'line', 'tune', 'strain', 'melody', 'air', 'melodic line', 'melodic phrase', 'telephone line', 'telephone circuit', 'phone line', 'subscriber line']",
+        "word original": "line"
+    },
+    "['red', 'red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'internet', 'ciberespacio', 'malla', 'rejilla']": {
+        "prompt": "Espa\u00f1ol: \"rojo\" - English: \"red\"\nEspa\u00f1ol: \"casa\" - English: \"building\"\nEspa\u00f1ol: \"l\u00ednea\" - English: \"sentence\"\nEspa\u00f1ol: \"medio\" - English: \"media\"\nEspa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"red\" - English: \"",
+        "target": "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'mesh', 'meshwork', 'meshing', 'knitting stitch']",
+        "word original": "net"
+    },
+    "['t\u00e9', 'tisana', 'infusi\u00f3n', 'hoja de t\u00e9']": {
+        "prompt": "Espa\u00f1ol: \"cara\" - English: \"face\"\nEspa\u00f1ol: \"norte\" - English: \"northward\"\nEspa\u00f1ol: \"ojo\" - English: \"eye\"\nEspa\u00f1ol: \"tipo\" - English: \"kind\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"",
+        "target": "['tea', 'tea leaf']",
+        "word original": "tea"
+    },
+    "['pie', 'pes', 'pata', 'base', 'subestructura', 'cimentaci\u00f3n', 'cimiento', 'fundaci\u00f3n', 'fundamento', 'tarta', 'pastel', 'pay', 'empanada', 'torta']": {
+        "prompt": "Espa\u00f1ol: \"piedra\" - English: \"stone\"\nEspa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"diez\" - English: \"ten\"\nEspa\u00f1ol: \"madera\" - English: \"sap-wood\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"tea\"\nEspa\u00f1ol: \"pie\" - English: \"",
+        "target": "['human foot', 'foot', 'pes', 'Pes', 'Foot', 'groundwork', 'understructure', 'fundament', 'base', 'substructure', 'foundation']",
+        "word original": "foot"
+    },
+    "['oro', '\u00e1mbar', 'dorado']": {
+        "prompt": "Espa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"pelo\" - English: \"hair\"\nEspa\u00f1ol: \"historia\" - English: \"historical development\"\nEspa\u00f1ol: \"bosque\" - English: \"forrest\"\nEspa\u00f1ol: \"oro\" - English: \"",
+        "target": "['gold', 'Au', 'amber', 'golden brown']",
+        "word original": "gold"
+    },
+    "['puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"verano\" - English: \"summertime\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"sol\" - English: \"sun\"\nEspa\u00f1ol: \"nube\" - English: \"cloud\"\nEspa\u00f1ol: \"puerta\" - English: \"",
+        "target": "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe', 'gate']",
+        "word original": "door"
+    },
+    "['nieve', 'nevada', 'capa de nieve', 'nevar', 'helado', 'sorbete', 'helado fr\u00edo']": {
+        "prompt": "Espa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"idioma\" - English: \"language\"\nEspa\u00f1ol: \"torre\" - English: \"tower\"\nEspa\u00f1ol: \"caballo\" - English: \"horse\"\nEspa\u00f1ol: \"dos\" - English: \"one\"\nEspa\u00f1ol: \"nieve\" - English: \"",
+        "target": "['snow cover', 'snow', 'snowfall', 'snow mantle', 'ice cream', 'icecream']",
+        "word original": "snow"
+    },
+    "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']": {
+        "prompt": "Espa\u00f1ol: \"punta\" - English: \"head\"\nEspa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"este\" - English: \"human foot\"\nEspa\u00f1ol: \"caballo\" - English: \"",
+        "target": "['horse', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['uno', 'es', 'dos']": {
+        "prompt": "Espa\u00f1ol: \"grupo\" - English: \"musical organization\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"ola\" - English: \"sea wave\"\nEspa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"l\u00ednea\" - English: \"sentence\"\nEspa\u00f1ol: \"uno\" - English: \"",
+        "target": "['one', 'ace', 'unity', 'I', 'single', 'Numero Uno']",
+        "word original": "one"
+    },
+    "['dos', 'uno', 'es']": {
+        "prompt": "Espa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"l\u00ednea\" - English: \"sentence\"\nEspa\u00f1ol: \"piedra\" - English: \"stone\"\nEspa\u00f1ol: \"dos\" - English: \"",
+        "target": "['one', 'ace', 'unity', 'I', 'single', 'Numero Uno', 'two', 'deuce', 'II']",
+        "word original": "two"
+    },
+    "['cinco', 'cuatro', 'cuarteto', 'cuaterni\u00f3n', 'quint', 'cinque']": {
+        "prompt": "Espa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"primavera\" - English: \"spring\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"arroz\" - English: \"rice farmer\"\nEspa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"cinco\" - English: \"",
+        "target": "['four', 'IV', 'quaternary', 'tetrad', 'quatern', 'foursome', 'quaternity', 'quartet', 'quadruplet', 'Little Joe', 'quaternion', 'five', 'fin', 'fivesome', 'quintet', 'cinque', 'quint', 'pentad', 'V', 'Phoebe', 'quintuplet', 'Little Phoebe']",
+        "word original": "five"
+    },
+    "['seis', 'Sexteto de m\u00fasica', 'sixer', 'sexteto', 'sise', 'hexad', 'sestet']": {
+        "prompt": "Espa\u00f1ol: \"juez\" - English: \"judge\"\nEspa\u00f1ol: \"idioma\" - English: \"language\"\nEspa\u00f1ol: \"bailar\" - English: \"dance\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"tea\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"seis\" - English: \"",
+        "target": "['six', 'half a dozen', 'sextuplet', 'VI', 'Captain Hicks', 'sise', 'sextet', 'hexad', 'sixer', 'sestet']",
+        "word original": "six"
+    },
+    "['ocho', 'octad']": {
+        "prompt": "Espa\u00f1ol: \"lago\" - English: \"lake\"\nEspa\u00f1ol: \"madera\" - English: \"sap-wood\"\nEspa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"palabra\" - English: \"word\"\nEspa\u00f1ol: \"ocho\" - English: \"",
+        "target": "['eight', 'octonary', 'ogdoad', 'VIII', 'octet', 'eighter', 'eighter from Decatur', 'octad']",
+        "word original": "eight"
+    },
+    "['diez', 'decena', 'd\u00e9cada']": {
+        "prompt": "Espa\u00f1ol: \"and\u00e9n\" - English: \"pavement\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"torre\" - English: \"tower\"\nEspa\u00f1ol: \"cinco\" - English: \"four\"\nEspa\u00f1ol: \"diez\" - English: \"",
+        "target": "['ten', 'decade', 'tenner', 'X']",
+        "word original": "ten"
+    },
+    "['cabeza', 'mente', 'psique', 'Mente', 'Nous', 'nous', 'cerebro', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta', 'l\u00edder', 'jefe', 'autoridad', 'dirigente', 'responsable']": {
+        "prompt": "Espa\u00f1ol: \"expresi\u00f3n\" - English: \"formula\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"oficina\" - English: \"agency\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"pueblo\" - English: \"village\"\nEspa\u00f1ol: \"cabeza\" - English: \"",
+        "target": "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'top dog']",
+        "word original": "head"
+    },
+    "['tienda', 'barraca de feria', 'caseta de feria', 'carpa', 'tienda de campa\u00f1a', 'toldo', 'comercio', 'negocio', 'establecimiento', 'almac\u00e9n']": {
+        "prompt": "Espa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"piedra\" - English: \"stone\"\nEspa\u00f1ol: \"red\" - English: \"network\"\nEspa\u00f1ol: \"medio\" - English: \"media\"\nEspa\u00f1ol: \"expresi\u00f3n\" - English: \"formula\"\nEspa\u00f1ol: \"tienda\" - English: \"",
+        "target": "['marquee', 'beer tent', 'tent', 'collapsible shelter', 'boutique', 'store', 'retail outlet', 'shop']",
+        "word original": "shop"
+    },
+    "['calle', 'carretera', 'camino', 'itinerario', 'ruta', 'rua']": {
+        "prompt": "Espa\u00f1ol: \"ojo\" - English: \"eye\"\nEspa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"calle\" - English: \"",
+        "target": "['road', 'route', 'street']",
+        "word original": "street"
+    },
+    "['pieza', 'moneda', 'cambio', 'divisa', 'cuarto', 'habitaci\u00f3n', 'Habitaci\u00f3n', 'aposento', 'sala', 'dormitorio', 'alcoba', 'habitaci\u00f3n de hu\u00e9spedes', 'rec\u00e1mara', 'c\u00e1mara']": {
+        "prompt": "Espa\u00f1ol: \"secci\u00f3n\" - English: \"surface area\"\nEspa\u00f1ol: \"torre\" - English: \"tower\"\nEspa\u00f1ol: \"lago\" - English: \"lake\"\nEspa\u00f1ol: \"nube\" - English: \"cloud\"\nEspa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"pieza\" - English: \"",
+        "target": "['coin', 'room', 'guest room', 'sleeping room', 'bedroom', 'guestroom', 'bedchamber', 'chamber', 'sleeping accommodation']",
+        "word original": "part"
+    },
+    "['ojo', 'ojos', 'globo ocular', 'oculus', 'centro', 'coraz\u00f3n', 'medio']": {
+        "prompt": "Espa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"luz\" - English: \"light\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"ojo\" - English: \"",
+        "target": "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']",
+        "word original": "eye"
+    },
+    "['campo', 'llanura', 'planicie', 'llano', 'campa\u00f1a', 'llanuras', 'planada', 'plana', 'labrant\u00edo', 'sembrad\u00edo', 'terreno', 'c\u00e1tedra', 'campo de estudio', 'disciplina', 'materia', 'ramo', 'area de jurisdicci\u00f3n', '\u00e1rea de estudio', '\u00e1mbito', '\u00e1rea tem\u00e1tica', '\u00e1rea', 'tema', 'estudio']": {
+        "prompt": "Espa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"expresi\u00f3n\" - English: \"formula\"\nEspa\u00f1ol: \"bailar\" - English: \"dance\"\nEspa\u00f1ol: \"cinco\" - English: \"four\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"campo\" - English: \"",
+        "target": "['plain', 'champaign', 'field', 'acre', 'countryside', 'subject', 'discipline', 'study', 'subject area', 'subject field', 'field of study', 'bailiwick']",
+        "word original": "field"
+    },
+    "['lugar', 'vecindario', 'vecindad', 'cercan\u00eda', 'barrio', 'fraccionamiento', 'inmediaciones', 'escena', 'escenario', 'h\u00e1bitat', 'suburbio', '\u00e1rea', 'territorio', 'ambiente', 'ubicaci\u00f3n', 'posici\u00f3n', 'localizaci\u00f3n geogr\u00e1fica', 'hogar', 'casa', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'empleo', 'puesto', 'oficina', 'cargo', 'sitio', 'paraje', 'zona', 'punto', 'propiedad', 'local']": {
+        "prompt": "Espa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"red\" - English: \"network\"\nEspa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"estaci\u00f3n\" - English: \"season\"\nEspa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"lugar\" - English: \"",
+        "target": "['neighbourhood', 'neighborhood', 'vicinity', 'locality', 'neck of the woods', 'apylink\u0117', 'locus', 'locale', 'location', 'geographic location', 'house', 'home', 'dwelling', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'position', 'place', 'spot', 'post', 'situation', 'berth', 'office', 'billet', 'topographic point', 'premises']",
+        "word original": "site"
+    },
+    "['bailar', 'danza', 'baile']": {
+        "prompt": "Espa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"funcionario\" - English: \"official\"\nEspa\u00f1ol: \"medio\" - English: \"media\"\nEspa\u00f1ol: \"norte\" - English: \"northward\"\nEspa\u00f1ol: \"bailar\" - English: \"",
+        "target": "['dance']",
+        "word original": "dance"
+    },
+    "['palabra', 'vocablo', 'intercambio', 'debate', 'discusi\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - English: \"door case\"\nEspa\u00f1ol: \"ni\u00f1o\" - English: \"fry\"\nEspa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"funcionario\" - English: \"official\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"palabra\" - English: \"",
+        "target": "['word', 'give-and-take', 'discussion']",
+        "word original": "word"
+    },
+    "['par', 'par ordenado']": {
+        "prompt": "Espa\u00f1ol: \"medio\" - English: \"media\"\nEspa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"oficina\" - English: \"agency\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"tea\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"par\" - English: \"",
+        "target": "['pair', 'brace', 'ordered pair']",
+        "word original": "pair"
+    },
+    "['asiento', 'silla', 'pata de silla', 'esca\u00f1o', 'seato']": {
+        "prompt": "Espa\u00f1ol: \"grupo\" - English: \"musical organization\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"arena\" - English: \"sand\"\nEspa\u00f1ol: \"mano\" - English: \"hand\"\nEspa\u00f1ol: \"historia\" - English: \"historical development\"\nEspa\u00f1ol: \"asiento\" - English: \"",
+        "target": "['chair', 'chair leg', 'seat']",
+        "word original": "seat"
+    },
+    "['luz', 'fuente luminosa', 'luz visible', 'radiaci\u00f3n visible']": {
+        "prompt": "Espa\u00f1ol: \"lago\" - English: \"lake\"\nEspa\u00f1ol: \"casa\" - English: \"building\"\nEspa\u00f1ol: \"ley\" - English: \"law\"\nEspa\u00f1ol: \"generaci\u00f3n\" - English: \"generation\"\nEspa\u00f1ol: \"bosque\" - English: \"forrest\"\nEspa\u00f1ol: \"luz\" - English: \"",
+        "target": "['light', 'light source', 'visible light', 'visible radiation']",
+        "word original": "light"
+    },
+    "['mil', 'un mil', 'chiliad', 'millar']": {
+        "prompt": "Espa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"palabra\" - English: \"word\"\nEspa\u00f1ol: \"caballo\" - English: \"horse\"\nEspa\u00f1ol: \"juez\" - English: \"judge\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"mil\" - English: \"",
+        "target": "['one thousand', 'K', 'G', 'chiliad', 'yard', 'M', 'grand', 'thou', 'thousand']",
+        "word original": "thousand"
+    },
+    "['norte']": {
+        "prompt": "Espa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"nube\" - English: \"cloud\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"mano\" - English: \"hand\"\nEspa\u00f1ol: \"norte\" - English: \"",
+        "target": "['northward', 'N', 'north', 'due north']",
+        "word original": "north"
+    },
+    "['m\u00e1quina', 'carro', 'coche', 'autom\u00f3vil', 'auto', 'veh\u00edculo', 'turismo', 'motor', 'locomotora', 'motor t\u00e9rmico', 'aparato', 'dispositivo', 'mecanismo', 'aparejo', 'maquinaria', 'Machinery', 'm\u00e1quinas']": {
+        "prompt": "Espa\u00f1ol: \"mar\" - English: \"sea\"\nEspa\u00f1ol: \"suelo\" - English: \"land\"\nEspa\u00f1ol: \"ojo\" - English: \"eye\"\nEspa\u00f1ol: \"ola\" - English: \"sea wave\"\nEspa\u00f1ol: \"pie\" - English: \"human foot\"\nEspa\u00f1ol: \"m\u00e1quina\" - English: \"",
+        "target": "['car', 'automobile', 'machine', 'auto', 'motorcar', 'motor car', 'motor', 'engine', 'device', 'machinery', 'mechanism', 'Machinery', 'mechanical device']",
+        "word original": "machine"
+    },
+    "['tiempo', 'tiempo atmosf\u00e9rico', 'clima', 'condiciones', 'condiciones metereol\u00f3gicas', 'estado del tiempo', 'condici\u00f3n atmosf\u00e9rica', 'ritmo', 'pulso', 'comp\u00e1s', 'cadencia', 'tiempo gramatical', 'periodo', 'era geol\u00f3gica', 'era', 'per\u00edodo', '\u00e9poca']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"verano\" - English: \"summertime\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"punta\" - English: \"head\"\nEspa\u00f1ol: \"tienda\" - English: \"marquee\"\nEspa\u00f1ol: \"tiempo\" - English: \"",
+        "target": "['time', 'weather', 'conditions', 'weather condition', 'atmospheric condition', 'rhythm', 'beat', 'musical rhythm', 'tense', 'grammatical tense', 'period', 'era', 'geological era']",
+        "word original": "time"
+    },
+    "['posici\u00f3n', 'escena', 'vecindad', 'escenario', 'h\u00e1bitat', 'suburbio', '\u00e1rea', 'lugar', 'territorio', 'ambiente', 'ubicaci\u00f3n', 'localizaci\u00f3n geogr\u00e1fica', 'empleo', 'puesto', 'oficina', 'cargo', 'sitio', 'visi\u00f3n', 'mirada', 'perspectiva', 'vista']": {
+        "prompt": "Espa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"secci\u00f3n\" - English: \"surface area\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"posici\u00f3n\" - English: \"",
+        "target": "['locus', 'locale', 'location', 'locality', 'geographic location', 'position', 'place', 'spot', 'post', 'situation', 'berth', 'office', 'billet', 'view', 'perspective']",
+        "word original": "position"
+    },
+    "['medio', 'medio de comunicaci\u00f3n', 'Medio informativo', 'prensa', 'medios de comunicaci\u00f3n', 'periodismo', 'medios period\u00edsticos', 'mitad', 'un medio', 'metad', 'transporte', 'transporte de pasajeros', 'medio de transporte', 'centro', 'coraz\u00f3n', 'ojo', 'modo', 'manera', 'forma', 'camino']": {
+        "prompt": "Espa\u00f1ol: \"agua\" - English: \"water\"\nEspa\u00f1ol: \"mano\" - English: \"hand\"\nEspa\u00f1ol: \"tipo\" - English: \"kind\"\nEspa\u00f1ol: \"ola\" - English: \"sea wave\"\nEspa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"medio\" - English: \"",
+        "target": "['media', 'medium', 'journalism', 'news media', 'half', 'one-half', 'one half', 'passenger transport', 'transport', 'transportation', 'conveyance', 'heart', 'eye', 'center', 'centre', 'middle', 'agency', 'means', 'way']",
+        "word original": "middle"
+    },
+    "['amigo', 'camarader\u00eda', 'amistad', 'relaci\u00f3n amistosa', 'camarada', 'hermano', 'compa\u00f1ero', 'sidekick', 'compa\u00f1era', 'edec\u00e1n', 'compinche', 'socio', 'pal', 'colega', 'amigote', 'amigueta', 'socia', 'cuate', 'amigota', 'hermana', 'acompa\u00f1ante', 'amiguete', 'asociado', 'amiga', 'novio', 'pareja', 'prometido', 'pareja sentimental', 'enamorado', 'pololo']": {
+        "prompt": "Espa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"pueblo\" - English: \"village\"\nEspa\u00f1ol: \"norte\" - English: \"northward\"\nEspa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"pie\" - English: \"human foot\"\nEspa\u00f1ol: \"amigo\" - English: \"",
+        "target": "['camaraderie', 'comradeship', 'comradery', 'chumminess', 'comradeliness', 'friendship', 'friendly relationship', 'crony', 'pal', 'sidekick', 'buddy', 'comrade', 'brother', 'chum', 'familiar', 'companion', 'associate', 'fellow', 'friend', 'swain', 'boyfriend', 'beau', 'young man']",
+        "word original": "friend"
+    },
+    "['color', 'negra', 'tez', 'negro', 'coloraci\u00f3n', 'colorido']": {
+        "prompt": "Espa\u00f1ol: \"amigo\" - English: \"camaraderie\"\nEspa\u00f1ol: \"nieve\" - English: \"snow cover\"\nEspa\u00f1ol: \"funcionario\" - English: \"official\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"tipo\" - English: \"kind\"\nEspa\u00f1ol: \"color\" - English: \"",
+        "target": "['black', 'coloring', 'colouring', 'complexion', 'colour', 'lists of colors']",
+        "word original": "color"
+    },
+    "['tipo', 'clase', 'forma', 'g\u00e9nero', 'especie', 't\u00edo', 'hombre']": {
+        "prompt": "Espa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"pelo\" - English: \"hair\"\nEspa\u00f1ol: \"corbata\" - English: \"necktie\"\nEspa\u00f1ol: \"grupo\" - English: \"musical organization\"\nEspa\u00f1ol: \"tipo\" - English: \"",
+        "target": "['kind', 'sort', 'form', 'variety', 'guy', 'hombre', 'bozo', 'sod', 'cat']",
+        "word original": "kind"
+    },
+    "['juez', 'jueza', 'magistrado', 'togado', '\u00e1rbitro']": {
+        "prompt": "Espa\u00f1ol: \"primavera\" - English: \"spring\"\nEspa\u00f1ol: \"expresi\u00f3n\" - English: \"formula\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"juez\" - English: \"",
+        "target": "['judge', 'jurist', 'justice']",
+        "word original": "judge"
+    },
+    "['colegio', 'universidad', 'academia', 'escuela', 'centro docente', 'instituto', 'logia', 'club', 'liga', 'cofrad\u00eda', 'gremio', 'german\u00eda', 'guilda', 'club social', 'lodge', 'asociaci\u00f3n', 'fraternidad', 'clube', 'sociedad']": {
+        "prompt": "Espa\u00f1ol: \"boca\" - English: \"entry\"\nEspa\u00f1ol: \"coraz\u00f3n\" - English: \"heart\"\nEspa\u00f1ol: \"art\u00edculo\" - English: \"evening newspaper\"\nEspa\u00f1ol: \"mil\" - English: \"one thousand\"\nEspa\u00f1ol: \"pelo\" - English: \"hair\"\nEspa\u00f1ol: \"colegio\" - English: \"",
+        "target": "['school', 'university', 'academy', 'guild', 'gild', 'lodge', 'association', 'order', 'fraternity', 'brotherhood', 'society', 'club', 'social club', 'corporation']",
+        "word original": "school"
+    },
+    "['edificio', 'edificaci\u00f3n', 'edificio p\u00fablico', 'casa', 'inmueble', 'edificios', 'construcci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"primavera\" - English: \"spring\"\nEspa\u00f1ol: \"idioma\" - English: \"language\"\nEspa\u00f1ol: \"estanque\" - English: \"lake\"\nEspa\u00f1ol: \"edificio\" - English: \"",
+        "target": "['building', 'public building', 'edifice']",
+        "word original": "structure"
+    },
+    "['corbata']": {
+        "prompt": "Espa\u00f1ol: \"l\u00ednea\" - English: \"sentence\"\nEspa\u00f1ol: \"pintura\" - English: \"image\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"pueblo\" - English: \"village\"\nEspa\u00f1ol: \"estaci\u00f3n\" - English: \"season\"\nEspa\u00f1ol: \"corbata\" - English: \"",
+        "target": "['necktie', 'tie']",
+        "word original": "tie"
+    },
+    "['cara', 'rostro', 'jeta', 'faz', 'rostro humano', 'reverso', 'anverso', 'dorso', 'rev\u00e9s']": {
+        "prompt": "Espa\u00f1ol: \"par\" - English: \"pair\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"medio\" - English: \"media\"\nEspa\u00f1ol: \"asiento\" - English: \"chair\"\nEspa\u00f1ol: \"cara\" - English: \"",
+        "target": "['face', 'human face', 'reverse', 'verso', 'obverse']",
+        "word original": "face"
+    },
+    "['puente', 'b\u00f3veda']": {
+        "prompt": "Espa\u00f1ol: \"ley\" - English: \"law\"\nEspa\u00f1ol: \"mar\" - English: \"sea\"\nEspa\u00f1ol: \"colegio\" - English: \"school\"\nEspa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"mano\" - English: \"hand\"\nEspa\u00f1ol: \"puente\" - English: \"",
+        "target": "['bridge', 'span', 'list of Roman bridges']",
+        "word original": "bridge"
+    },
+    "['art\u00edculo', 'diario', 'vespertino', 'peri\u00f3dico', 'prensa escrita', 'papel de peri\u00f3dico', 'mercanc\u00eda', 'bienes', 'Materia prima', 'bien econ\u00f3mico', 'bien comercial', 'art\u00edculo de consumo', 'g\u00e9nero', 'producto', 'bien', 'mercader\u00eda', 'mercanc\u00edas', 'art\u00edculo period\u00edstico', 'noticia']": {
+        "prompt": "Espa\u00f1ol: \"lago\" - English: \"lake\"\nEspa\u00f1ol: \"asiento\" - English: \"chair\"\nEspa\u00f1ol: \"puerta\" - English: \"door case\"\nEspa\u00f1ol: \"sol\" - English: \"sun\"\nEspa\u00f1ol: \"coraz\u00f3n\" - English: \"heart\"\nEspa\u00f1ol: \"art\u00edculo\" - English: \"",
+        "target": "['evening newspaper', 'evening paper', 'gazette', 'daily', 'newspaper', 'daily newspaper', 'paper', 'written news media', 'goods', 'commodity', 'good', 'trade good', 'product', 'ware', 'merchandise', 'product policy', 'article', 'newspaper article', 'news story', 'news article']",
+        "word original": "item"
+    },
+    "['grupo', 'agrupaci\u00f3n musical', 'grupo musical', 'grupo funcional', 'familia', 'radical', 'grupo qu\u00edmico', 'banda', 'equipo', 'conjunto', 'grupo de rock', 'banda de rock', 'agrupaci\u00f3n', 'colectivo', 'hato', 'colecci\u00f3n', 'acumulaci\u00f3n', 'hatajo', 'c\u00famulo', 'manojo', 'ramo', 'bonchote', 'pu\u00f1ado', 'racimo', 'amontonamiento', 'cl\u00faster']": {
+        "prompt": "Espa\u00f1ol: \"canci\u00f3n\" - English: \"song\"\nEspa\u00f1ol: \"pelota\" - English: \"ball\"\nEspa\u00f1ol: \"este\" - English: \"human foot\"\nEspa\u00f1ol: \"talento\" - English: \"skill\"\nEspa\u00f1ol: \"posici\u00f3n\" - English: \"locus\"\nEspa\u00f1ol: \"grupo\" - English: \"",
+        "target": "['musical organization', 'musical organisation', 'musical group', 'musical ensemble', 'moiety', 'functional group', 'group', 'chemical group', 'radical', 'band', 'team', 'rock band', 'rock group', 'grouping', 'collection', 'aggregation', 'accumulation', 'assemblage', 'clustering', 'cluster', 'bunch', 'clump']",
+        "word original": "group"
+    },
+    "['talento', 'aptitud', 'habilidad', 'destreza', 'ma\u00f1a', 'arte', 't\u00e9cnica']": {
+        "prompt": "Espa\u00f1ol: \"fuente\" - English: \"spring\"\nEspa\u00f1ol: \"tierra\" - English: \"Blue Planet\"\nEspa\u00f1ol: \"cara\" - English: \"face\"\nEspa\u00f1ol: \"l\u00ednea\" - English: \"sentence\"\nEspa\u00f1ol: \"suelo\" - English: \"land\"\nEspa\u00f1ol: \"talento\" - English: \"",
+        "target": "['skill', 'acquirement', 'acquisition', 'accomplishment', 'attainment']",
+        "word original": "talent"
+    },
+    "['and\u00e9n', 'v\u00eda peatonal', 'acera', 'vereda', 'banqueta', 'escarpa', 'calzada', '\u00e1ndito', 'plataforma', 'tribuna', 'estrado', 'tarima', 'entarimado']": {
+        "prompt": "Espa\u00f1ol: \"fuente\" - English: \"spring\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"monta\u00f1a\" - English: \"mountain\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"secci\u00f3n\" - English: \"surface area\"\nEspa\u00f1ol: \"and\u00e9n\" - English: \"",
+        "target": "['pavement', 'sidewalk', 'footway', 'platform']",
+        "word original": "platform"
+    },
+    "['casa', 'edificaci\u00f3n', 'edificio', 'edificio p\u00fablico', 'inmueble', 'edificios', 'construcci\u00f3n', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'manufactura', 'fabricante', 'firma', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'compa\u00f1\u00eda', 'empresa', 'empresas', 'hospedaje', 'viviendas']": {
+        "prompt": "Espa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"cinco\" - English: \"four\"\nEspa\u00f1ol: \"palabra\" - English: \"word\"\nEspa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"juez\" - English: \"judge\"\nEspa\u00f1ol: \"casa\" - English: \"",
+        "target": "['building', 'public building', 'edifice', 'house', 'home', 'dwelling', 'household', 'family', 'menage', 'private household', 'manufacturer', 'maker', 'manufacturing business', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'enterprise', 'concern', 'corporation', 'firm', 'partnership', 'venture', 'company', 'business firm', 'housing', 'lodging', 'living accommodations', 'accommodation']",
+        "word original": "house"
+    },
+    "['sol']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - English: \"fry\"\nEspa\u00f1ol: \"cara\" - English: \"face\"\nEspa\u00f1ol: \"tipo\" - English: \"kind\"\nEspa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"sol\" - English: \"",
+        "target": "['sun', 'Sun']",
+        "word original": "sun"
+    },
+    "['reuni\u00f3n', 'concurrentes', 'reuni\u00f3n grupal', 'concurrencia']": {
+        "prompt": "Espa\u00f1ol: \"madera\" - English: \"sap-wood\"\nEspa\u00f1ol: \"luz\" - English: \"light\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"cinco\" - English: \"four\"\nEspa\u00f1ol: \"tierra\" - English: \"Blue Planet\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"",
+        "target": "['meeting', 'group meeting', 'rally']",
+        "word original": "meeting"
+    },
+    "['historia', 'relato', 'narraci\u00f3n', 't\u00e9cnica literaria', 'cr\u00f3nica', 't\u00e9cnica narrativa', 'punto de vista narrativo', 'cuento', 'narrativa', 'embuste', 'mentira', 'mentirijilla', 'mentirilla', 'mentira de emergencia', 'mentira blanca', 'infundio', 'pel\u00edcula', 'trola', 'patra\u00f1a', 'falsedad', 'bola']": {
+        "prompt": "Espa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"velocidad\" - English: \"velocity\"\nEspa\u00f1ol: \"nieve\" - English: \"snow cover\"\nEspa\u00f1ol: \"bailar\" - English: \"dance\"\nEspa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"historia\" - English: \"",
+        "target": "['historical development', 'history', 'story', 'tale', 'narrative', 'narration', 'narrative point of view', 'literary technique', 'narrative mode', 'emergency lie', 'prevarication', 'white lie', 'lie', 'untruth']",
+        "word original": "history"
+    },
+    "['valle', 'dolina', 'val']": {
+        "prompt": "Espa\u00f1ol: \"tela\" - English: \"fabric\"\nEspa\u00f1ol: \"libro\" - English: \"book\"\nEspa\u00f1ol: \"red\" - English: \"network\"\nEspa\u00f1ol: \"nieve\" - English: \"snow cover\"\nEspa\u00f1ol: \"pelo\" - English: \"hair\"\nEspa\u00f1ol: \"valle\" - English: \"",
+        "target": "['valley', 'dale', 'vale']",
+        "word original": "valley"
+    },
+    "['generaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"estaci\u00f3n\" - English: \"season\"\nEspa\u00f1ol: \"mar\" - English: \"sea\"\nEspa\u00f1ol: \"seis\" - English: \"six\"\nEspa\u00f1ol: \"primavera\" - English: \"spring\"\nEspa\u00f1ol: \"fuego\" - English: \"flame\"\nEspa\u00f1ol: \"generaci\u00f3n\" - English: \"",
+        "target": "['generation']",
+        "word original": "generation"
+    },
+    "['ciudad', '\u00e1rea metropolitana', 'zona metropolitana', 'aglomeraci\u00f3n urbana', 'metr\u00f3polis', 'metr\u00f3poli', 'ciudad/pueblo', 'urbe', 'capital', 'villa', 'pueblo', 'poblaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"tela\" - English: \"fabric\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"monta\u00f1a\" - English: \"mountain\"\nEspa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"ciudad\" - English: \"",
+        "target": "['city', 'urban center', 'metropolis', 'city/town', 'town', 'large village']",
+        "word original": "city"
+    },
+    "['idioma', 'lengua', 'lenguaje', 'comunicaci\u00f3n ling\u00fc\u00edstica', 'dialecto', 'acento']": {
+        "prompt": "Espa\u00f1ol: \"tiempo\" - English: \"time\"\nEspa\u00f1ol: \"lago\" - English: \"lake\"\nEspa\u00f1ol: \"color\" - English: \"black\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"cueva\" - English: \"cave\"\nEspa\u00f1ol: \"idioma\" - English: \"",
+        "target": "['language', 'human language', 'linguistic communication', 'dialect', 'accent', 'idiom']",
+        "word original": "language"
+    },
+    "['velocidad', 'rapidez', 'celeridad', '\u00edndice', 'tasa', 'ritmo']": {
+        "prompt": "Espa\u00f1ol: \"mar\" - English: \"sea\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"caballo\" - English: \"horse\"\nEspa\u00f1ol: \"pie\" - English: \"human foot\"\nEspa\u00f1ol: \"arena\" - English: \"sand\"\nEspa\u00f1ol: \"velocidad\" - English: \"",
+        "target": "['velocity', 'speed', 'fastness', 'swiftness', 'rate', 'ratio']",
+        "word original": "speed"
+    },
+    "['suelo', 'tierra', 'territorio', 'terreno', 'tierra firme', 'piso', 'soler\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"fuerza\" - English: \"armed forces\"\nEspa\u00f1ol: \"secci\u00f3n\" - English: \"surface area\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"casa\" - English: \"building\"\nEspa\u00f1ol: \"suelo\" - English: \"",
+        "target": "['land', 'ground', 'terra firma', 'earth', 'solid ground', 'dry land', 'land mass', 'floor', 'flooring', 'soil', 'dirt']",
+        "word original": "ground"
+    },
+    "['rabo', 'cola']": {
+        "prompt": "Espa\u00f1ol: \"arena\" - English: \"sand\"\nEspa\u00f1ol: \"fuente\" - English: \"spring\"\nEspa\u00f1ol: \"ola\" - English: \"sea wave\"\nEspa\u00f1ol: \"persona\" - English: \"homo\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"rabo\" - English: \"",
+        "target": "['tail']",
+        "word original": "tail"
+    },
+    "['madre', 'maternidad', 'mam\u00e1', 'progenitora', 'mami', 'ma', 'mama']": {
+        "prompt": "Espa\u00f1ol: \"luz\" - English: \"light\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"madre\" - English: \"",
+        "target": "['mother', 'female parent', 'motherhood', 'mom', 'mammy', 'mama', 'mummy', 'mum', 'ma', 'momma', 'mamma', 'mumma', 'mommy']",
+        "word original": "mother"
+    },
+    "['este', 'pie', 'pes', 'pata', 'levante', 'oriente']": {
+        "prompt": "Espa\u00f1ol: \"madera\" - English: \"sap-wood\"\nEspa\u00f1ol: \"lugar\" - English: \"neighbourhood\"\nEspa\u00f1ol: \"pintura\" - English: \"image\"\nEspa\u00f1ol: \"monta\u00f1a\" - English: \"mountain\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"este\" - English: \"",
+        "target": "['human foot', 'foot', 'pes', 'Pes', 'Foot', 'E', 'eastward', 'east', 'due east']",
+        "word original": "east"
+    },
+    "['expresi\u00f3n', 'f\u00f3rmula', 'expresi\u00f3n matem\u00e1tica', 'aspecto', 'apariencia', 'estampa']": {
+        "prompt": "Espa\u00f1ol: \"verano\" - English: \"summertime\"\nEspa\u00f1ol: \"torre\" - English: \"tower\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"cabeza\" - English: \"head\"\nEspa\u00f1ol: \"expresi\u00f3n\" - English: \"",
+        "target": "['formula', 'expression', 'mathematical expression', 'air', 'appearance', 'manner', 'demeanor', 'look', 'mien', 'bearing', 'demeanour', 'facial expression', 'face', 'aspect']",
+        "word original": "speech"
+    },
+    "['ni\u00f1o', 'papa frita', 'ni\u00f1a', 'menor de edad', 'menor', 'joven', 'infancia', 'minor\u00eda de edad', 'jovenzuelo', 'mozalbete', 'chico', 'muchachuelo', 'chiq\u00fcelo', 'chiquillo', 'criatura', 'cr\u00edo', 'chango', 'pececillo', 'cr\u00eda', 'chaval', 'alev\u00edn', 'nene', 'tike', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'jovencito', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'mozo', 'ni\u00f1os', 'ninzzo', 'hijo', 'hija']": {
+        "prompt": "Espa\u00f1ol: \"fuente\" - English: \"spring\"\nEspa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"campo\" - English: \"plain\"\nEspa\u00f1ol: \"mano\" - English: \"hand\"\nEspa\u00f1ol: \"persona\" - English: \"homo\"\nEspa\u00f1ol: \"ni\u00f1o\" - English: \"",
+        "target": "['fry', 'french fry', 'minor', 'chip', 'child', 'youngster', 'shaver', 'small fry', 'kid', 'nestling', 'tiddler', 'tike', 'tyke', 'nipper', 'baby', 'infaneto', 'infant', 'babe', 'boy', 'male child', 'children', 'son']",
+        "word original": "child"
+    },
+    "['torre']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - English: \"cloud\"\nEspa\u00f1ol: \"asiento\" - English: \"chair\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"torre\" - English: \"",
+        "target": "['tower']",
+        "word original": "tower"
+    },
+    "['pelo', 'cabello']": {
+        "prompt": "Espa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"edificio\" - English: \"building\"\nEspa\u00f1ol: \"t\u00e9\" - English: \"tea\"\nEspa\u00f1ol: \"oro\" - English: \"gold\"\nEspa\u00f1ol: \"pelo\" - English: \"",
+        "target": "['hair', 'pilus']",
+        "word original": "hair"
+    },
+    "['persona', 'ser humano', 'hombre', 'humano', 'Homo', 'Homo sapiens sapiens', 'humanidad', 'humana', 'homo', 'ser', 'mortal', 'individuo', 'alguno', 'alma', 'alguien']": {
+        "prompt": "Espa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"estrella\" - English: \"star\"\nEspa\u00f1ol: \"rabo\" - English: \"tail\"\nEspa\u00f1ol: \"fruta\" - English: \"fruit\"\nEspa\u00f1ol: \"uno\" - English: \"one\"\nEspa\u00f1ol: \"persona\" - English: \"",
+        "target": "['homo', 'human being', 'hominid', 'human', 'man', 'Homo', 'Homo sapiens sapiens', 'someone', 'mortal', 'individual', 'person', 'somebody', 'soul']",
+        "word original": "person"
+    },
+    "['secci\u00f3n', '\u00e1rea superficial', '\u00e1rea', '\u00e1rea de superficie', 'superficie', 'regi\u00f3n', 'apartado', 'parte']": {
+        "prompt": "Espa\u00f1ol: \"m\u00e1quina\" - English: \"car\"\nEspa\u00f1ol: \"expresi\u00f3n\" - English: \"formula\"\nEspa\u00f1ol: \"calle\" - English: \"road\"\nEspa\u00f1ol: \"persona\" - English: \"homo\"\nEspa\u00f1ol: \"reuni\u00f3n\" - English: \"meeting\"\nEspa\u00f1ol: \"secci\u00f3n\" - English: \"",
+        "target": "['surface area', 'area', 'expanse', 'country', 'subdivision', 'section']",
+        "word original": "section"
+    },
+    "['funcionario', 'funcionaria p\u00fablica', 'funcionario p\u00fablico', 'oficial', 'funcionaria', 'alto cargo', '\u00e1rbitro', '\u00e1rbitro de tenis', '\u00e1rbitro de baloncesto', '\u00e1rbitro de hockey sobre hielo', '\u00e1rbitro de f\u00fatbol americano', 'jueces', '\u00e1rbitro de f\u00fatbol canadiense']": {
+        "prompt": "Espa\u00f1ol: \"piedra\" - English: \"stone\"\nEspa\u00f1ol: \"r\u00edo\" - English: \"river\"\nEspa\u00f1ol: \"ciudad\" - English: \"city\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"arena\" - English: \"sand\"\nEspa\u00f1ol: \"funcionario\" - English: \"",
+        "target": "['official', 'functionary', 'referee', 'umpire', 'tennis official', 'basketball official', 'tennis umpire']",
+        "word original": "official"
+    },
+    "['oficina', 'autoridad', 'agencia', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'empleo', 'puesto', 'cargo', 'posici\u00f3n', 'lugar']": {
+        "prompt": "Espa\u00f1ol: \"caballo\" - English: \"horse\"\nEspa\u00f1ol: \"tela\" - English: \"fabric\"\nEspa\u00f1ol: \"medio\" - English: \"media\"\nEspa\u00f1ol: \"rojo\" - English: \"red\"\nEspa\u00f1ol: \"monta\u00f1a\" - English: \"mountain\"\nEspa\u00f1ol: \"oficina\" - English: \"",
+        "target": "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'business office', 'position', 'place', 'spot', 'post', 'situation', 'berth', 'billet']",
+        "word original": "office"
+    },
+    "['piedra', 'roca', 'rocas', 'grava']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - English: \"bridge\"\nEspa\u00f1ol: \"palabra\" - English: \"word\"\nEspa\u00f1ol: \"d\u00eda\" - English: \"twenty-four hour period\"\nEspa\u00f1ol: \"casa\" - English: \"building\"\nEspa\u00f1ol: \"rabo\" - English: \"tail\"\nEspa\u00f1ol: \"piedra\" - English: \"",
+        "target": "['stone', 'rock', 'pebble']",
+        "word original": "rock"
+    },
+    "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas', 'violencia', 'vigor', 'intensidad', 'intensidad sonora', 'volumen', 'intensidad de sonido', 'sonoridad', '\u00f1eque', 'fortaleza', 'empuje', 'impulso', 'poder\u00edo', 'potencia', 'poder']": {
+        "prompt": "Espa\u00f1ol: \"nieve\" - English: \"snow cover\"\nEspa\u00f1ol: \"estaci\u00f3n\" - English: \"season\"\nEspa\u00f1ol: \"puerta\" - English: \"door case\"\nEspa\u00f1ol: \"ocho\" - English: \"eight\"\nEspa\u00f1ol: \"fuego\" - English: \"flame\"\nEspa\u00f1ol: \"fuerza\" - English: \"",
+        "target": "['armed forces', 'military', 'force', 'military unit', 'military force', 'war machine', 'armed services', 'military machine', 'violence', 'loudness', 'volume', 'intensity', 'sound intensity', 'strength', 'forcefulness', 'thrust', 'driving force', 'drive', 'power', 'muscular strength', 'might', 'physical strength', 'mightiness']",
+        "word original": "power"
+    },
+    "['verano', 'estaci\u00f3n veraniega', 'estaci\u00f3n estival', 'estaci\u00f3n de verano', 'est\u00edo']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - English: \"door case\"\nEspa\u00f1ol: \"agua\" - English: \"water\"\nEspa\u00f1ol: \"arroz\" - English: \"rice farmer\"\nEspa\u00f1ol: \"cuadro\" - English: \"image\"\nEspa\u00f1ol: \"rojo\" - English: \"red\"\nEspa\u00f1ol: \"verano\" - English: \"",
+        "target": "['summertime', 'summer season', 'summer']",
+        "word original": "summer"
+    }
+}

@@ -1,0 +1,462 @@
+{
+    "['nuage']": {
+        "prompt": "Fran\u00e7ais: \"tour\" - \u65e5\u672c\u8a9e: \"\u5854\"\nFran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"\u5e73\u91ce\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"milieu\" - \u65e5\u672c\u8a9e: \"\u30e1\u30c7\u30a3\u30a2\"\nFran\u00e7ais: \"grotte\" - \u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u96f2']",
+        "word original": "cloud"
+    },
+    "['sac', 'sac plastique', 'sac de caisse', 'sac en papier', 'valise', 'valoche']": {
+        "prompt": "Fran\u00e7ais: \"ville\" - \u65e5\u672c\u8a9e: \"\u4e3b\u8981\u90fd\u5e02\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"rue\" - \u65e5\u672c\u8a9e: \"\u9053\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"\u6bcd\u89aa\"\nFran\u00e7ais: \"sac\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u888b', '\u9784', '\u30ec\u30b8\u888b', '\u30d3\u30cb\u30fc\u30eb\u888b', '\u30ad\u30e3\u30ea\u30a2\u30d0\u30c3\u30b0', '\u30b5\u30c3\u30af', '\u7d19\u888b', '\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9', '\u30c8\u30e9\u30f3\u30af']",
+        "word original": "bag"
+    },
+    "['sol', 'Soleil', 'soleil', 'territoire', 'terre ferme', 'plancher des vaches', 'terre', 'plancher']": {
+        "prompt": "Fran\u00e7ais: \"lumi\u00e8re\" - \u65e5\u672c\u8a9e: \"\u5149\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\"\nFran\u00e7ais: \"sac\" - \u65e5\u672c\u8a9e: \"\u888b\"\nFran\u00e7ais: \"t\u00eate\" - \u65e5\u672c\u8a9e: \"\u5fc3\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u3072', '\u65e5', '\u592a\u967d', '\u5730', '\u5730\u9762', '\u571f\u5730', '\u5927\u5730', '\u571f', '\u9678\u5730', '\u5e8a']",
+        "word original": "ground"
+    },
+    "['montagne']": {
+        "prompt": "Fran\u00e7ais: \"vall\u00e9e\" - \u65e5\u672c\u8a9e: \"\u8c37\"\nFran\u00e7ais: \"ressort\" - \u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30ea\u30f3\u30b0\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"\u30dd\u30a4\u30f3\u30c8\"\nFran\u00e7ais: \"roche\" - \u65e5\u672c\u8a9e: \"\u77f3\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"montagne\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5c71\u5cb3', '\u5c71']",
+        "word original": "mountain"
+    },
+    "['c\u0153ur', 'myocarde', 'c\u0153ur humain', 'cavit\u00e9 cardiaque', 'Philia', 'affection', 'philia', 'centre']": {
+        "prompt": "Fran\u00e7ais: \"filet\" - \u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"\u4e8c\"\nFran\u00e7ais: \"vall\u00e9e\" - \u65e5\u672c\u8a9e: \"\u8c37\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"th\u00e9\" - \u65e5\u672c\u8a9e: \"\u8336\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5fc3\u81d3', '\u5fc3\u8154', '\u30d2\u30c8\u306e\u5fc3\u81d3', '\u30cf\u30fc\u30c8', '\u611b\u7740', '\u30d5\u30a3\u30ea\u30a2', '\u5fc3\u5f62', '\u4e2d\u5fc3', '\u82af']",
+        "word original": "heart"
+    },
+    "['main', 'patte']": {
+        "prompt": "Fran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"bureau\" - \u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\"\nFran\u00e7ais: \"village\" - \u65e5\u672c\u8a9e: \"\u6751\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u624b', '\u30de\u30cc\u30b9']",
+        "word original": "hand"
+    },
+    "['jour', 'jour solaire']": {
+        "prompt": "Fran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\"\nFran\u00e7ais: \"grotte\" - \u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\"\nFran\u00e7ais: \"position\" - \u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\"\nFran\u00e7ais: \"huit\" - \u65e5\u672c\u8a9e: \"\u516b\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u65e5', '\u592a\u967d\u65e5']",
+        "word original": "day"
+    },
+    "['\u00e9toile', 'superstar', 'sp\u00e9cialiste', 'vedette', 'connaisseur', 'as', 'machine', 'expert', 'champion', 'Maven', 'virtuose', 'g\u00e9nie', 'b\u00eate', 'effet superstar', 'star', 'sommit\u00e9']": {
+        "prompt": "Fran\u00e7ais: \"un\" - \u65e5\u672c\u8a9e: \"\u4e00\"\nFran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"\u4e03\"\nFran\u00e7ais: \"si\u00e8ge\" - \u65e5\u672c\u8a9e: \"\u6905\u5b50\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"\u00e9toile\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6052\u661f', '\u661f', '\u6bcd\u6052\u661f', '\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc', '\u8457\u540d\u4eba', '\u82b1\u5f62', '\u6709\u540d\u4eba', '\u5927\u7269', '\u30a2\u30c7\u30d7\u30c8', '\u30e1\u30a4\u30f4\u30f3']",
+        "word original": "star"
+    },
+    "['ressort']": {
+        "prompt": "Fran\u00e7ais: \"ligne\" - \u65e5\u672c\u8a9e: \"\u76f4\u7dda\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"filet\" - \u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\"\nFran\u00e7ais: \"si\u00e8ge\" - \u65e5\u672c\u8a9e: \"\u6905\u5b50\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"ressort\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30b9\u30d7\u30ea\u30f3\u30b0', '\u30d0\u30cd', '\u767a\u6761', '\u3070\u306d']",
+        "word original": "spring"
+    },
+    "['lune']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"couleur\" - \u65e5\u672c\u8a9e: \"\u9ed2\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"\u5b9f\"\nFran\u00e7ais: \"filet\" - \u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\"\nFran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6708']",
+        "word original": "moon"
+    },
+    "['bois', 'for\u00eat', 'brousse', 'W\u00e4lder', 'aubier']": {
+        "prompt": "Fran\u00e7ais: \"maison\" - \u65e5\u672c\u8a9e: \"\u5efa\u7269\"\nFran\u00e7ais: \"village\" - \u65e5\u672c\u8a9e: \"\u6751\"\nFran\u00e7ais: \"visage\" - \u65e5\u672c\u8a9e: \"\u9854\"\nFran\u00e7ais: \"bureau\" - \u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"bois\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u68ee\u6797', '\u68ee', '\u6728\u6750', '\u6728']",
+        "word original": "wood"
+    },
+    "['village', 'hameau']": {
+        "prompt": "Fran\u00e7ais: \"oc\u00e9an\" - \u65e5\u672c\u8a9e: \"\u5927\u6d0b\"\nFran\u00e7ais: \"lac\" - \u65e5\u672c\u8a9e: \"\u6e56\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"\u4e8c\"\nFran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"\u30c7\u30d0\u30a4\u30b9\"\nFran\u00e7ais: \"position\" - \u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\"\nFran\u00e7ais: \"village\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6751', '\u6751\u843d', '\u7530\u820e']",
+        "word original": "village"
+    },
+    "['for\u00eat', 'bois', 'brousse', 'W\u00e4lder']": {
+        "prompt": "Fran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"filet\" - \u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\"\nFran\u00e7ais: \"personne\" - \u65e5\u672c\u8a9e: \"\u4eba\"\nFran\u00e7ais: \"neige\" - \u65e5\u672c\u8a9e: \"\u96ea\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"\u30dd\u30a4\u30f3\u30c8\"\nFran\u00e7ais: \"for\u00eat\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u68ee\u6797', '\u68ee']",
+        "word original": "forest"
+    },
+    "['fruit', 'fruit charnu']": {
+        "prompt": "Fran\u00e7ais: \"dix\" - \u65e5\u672c\u8a9e: \"\u5341\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"\u4e8c\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5b9f', '\u679c\u5b9f', '\u6db2\u679c']",
+        "word original": "fruit"
+    },
+    "['chanson']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"ligne\" - \u65e5\u672c\u8a9e: \"\u76f4\u7dda\"\nFran\u00e7ais: \"version\" - \u65e5\u672c\u8a9e: \"\u7ffb\u8a33\"\nFran\u00e7ais: \"cravate\" - \u65e5\u672c\u8a9e: \"\u30cd\u30af\u30bf\u30a4\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"chanson\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6b4c\u66f2', '\u6b4c']",
+        "word original": "song"
+    },
+    "['sable']": {
+        "prompt": "Fran\u00e7ais: \"onde\" - \u65e5\u672c\u8a9e: \"\u6ce2\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"\u5fc3\u81d3\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"ligne\" - \u65e5\u672c\u8a9e: \"\u76f4\u7dda\"\nFran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\"\nFran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u7802']",
+        "word original": "sand"
+    },
+    "['loi', 'droit', 'police', 'gendarmerie', 'forces de l\u2019ordre', 'dossier', 'Archives notariales en France', 'fichier', 'acte']": {
+        "prompt": "Fran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\"\nFran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"vitesse\" - \u65e5\u672c\u8a9e: \"\u901f\u5ea6\"\nFran\u00e7ais: \"ressort\" - \u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30ea\u30f3\u30b0\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6cd5', '\u8b66\u5bdf']",
+        "word original": "law"
+    },
+    "['onde', 'vague']": {
+        "prompt": "Fran\u00e7ais: \"lac\" - \u65e5\u672c\u8a9e: \"\u6e56\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"\u5b9f\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"\u6bcd\u89aa\"\nFran\u00e7ais: \"couleur\" - \u65e5\u672c\u8a9e: \"\u9ed2\"\nFran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"\u8a00\u8449\"\nFran\u00e7ais: \"onde\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6ce2']",
+        "word original": "wave"
+    },
+    "['oc\u00e9an', 'milieu marin']": {
+        "prompt": "Fran\u00e7ais: \"source\" - \u65e5\u672c\u8a9e: \"\u6cc9\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"\u6b74\u53f2\"\nFran\u00e7ais: \"personne\" - \u65e5\u672c\u8a9e: \"\u4eba\"\nFran\u00e7ais: \"neige\" - \u65e5\u672c\u8a9e: \"\u96ea\"\nFran\u00e7ais: \"oc\u00e9an\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5927\u6d0b', '\u6d77\u6d0b']",
+        "word original": "ocean"
+    },
+    "['grotte', 'caverne']": {
+        "prompt": "Fran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"bande\" - \u65e5\u672c\u8a9e: \"\u30ae\u30e3\u30f3\u30b0\"\nFran\u00e7ais: \"ville\" - \u65e5\u672c\u8a9e: \"\u4e3b\u8981\u90fd\u5e02\"\nFran\u00e7ais: \"vall\u00e9e\" - \u65e5\u672c\u8a9e: \"\u8c37\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"\u516d\"\nFran\u00e7ais: \"grotte\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6d1e\u7a9f']",
+        "word original": "cave"
+    },
+    "['mer']": {
+        "prompt": "Fran\u00e7ais: \"ballon\" - \u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\"\nFran\u00e7ais: \"village\" - \u65e5\u672c\u8a9e: \"\u6751\"\nFran\u00e7ais: \"th\u00e9\" - \u65e5\u672c\u8a9e: \"\u8336\"\nFran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"pont\" - \u65e5\u672c\u8a9e: \"\u306f\u3057\"\nFran\u00e7ais: \"mer\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6d77', '\u4e16\u754c\u306e\u5927\u6d0b']",
+        "word original": "sea"
+    },
+    "['lac']": {
+        "prompt": "Fran\u00e7ais: \"maison\" - \u65e5\u672c\u8a9e: \"\u5efa\u7269\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"lac\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6e56']",
+        "word original": "lake"
+    },
+    "['source', 'origine', 'd\u00e9but', 'racine']": {
+        "prompt": "Fran\u00e7ais: \"riz\" - \u65e5\u672c\u8a9e: \"\u7c73\"\nFran\u00e7ais: \"juge\" - \u65e5\u672c\u8a9e: \"\u88c1\u5224\u5b98\"\nFran\u00e7ais: \"bande\" - \u65e5\u672c\u8a9e: \"\u30ae\u30e3\u30f3\u30b0\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"\u516d\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"source\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6cc9', '\u6e67\u6c34', '\u6e29\u6cc9', '\u8d77\u6e90', '\u539f\u521d', '\u539f\u56e0']",
+        "word original": "source"
+    },
+    "['point', 'point final', 'couture', 'Points', 'points', 'nombre de points', 'score', 'lieu', 'endroit', 'zone', 'entr\u00e9e', 'th\u00e8me', 'question']": {
+        "prompt": "Fran\u00e7ais: \"for\u00eat\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"ressort\" - \u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30ea\u30f3\u30b0\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"\u516d\"\nFran\u00e7ais: \"juge\" - \u65e5\u672c\u8a9e: \"\u88c1\u5224\u5b98\"\nFran\u00e7ais: \"onde\" - \u65e5\u672c\u8a9e: \"\u6ce2\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30dd\u30a4\u30f3\u30c8', '\u7d42\u6b62\u7b26', '\u53e5\u70b9', '\u70b9', '\u30d4\u30ea\u30aa\u30c9', '\u3002', '\u88c1\u7e2b', '\u5f97\u70b9', '\u30b9\u30b3\u30a2', '\u4f4d\u7f6e', '\u5834\u6240', '\u5730\u65b9']",
+        "word original": "point"
+    },
+    "['version', 'rendu', 'rendu graphique', 'traduction']": {
+        "prompt": "Fran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"\u76ee\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"cravate\" - \u65e5\u672c\u8a9e: \"\u30cd\u30af\u30bf\u30a4\"\nFran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"version\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u7ffb\u8a33', '\u7ffb\u8a33\u4f5c\u54c1']",
+        "word original": "version"
+    },
+    "['ballon', 'balle', 'ballon de football', 'Codes du Football', 'sports de ballon', 'ballon de foot', 'football', 'foot', 'globe', 'basket-ball', 'ballon de basket-ball', 'basketball', 'ballon-panier']": {
+        "prompt": "Fran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"\u5e73\u91ce\"\nFran\u00e7ais: \"for\u00eat\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"sac\" - \u65e5\u672c\u8a9e: \"\u888b\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"\u5fc3\u81d3\"\nFran\u00e7ais: \"ballon\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30dc\u30fc\u30eb', '\u30b5\u30c3\u30ab\u30fc\u30dc\u30fc\u30eb', '\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb', '\u98a8\u8239', '\u6c17\u7403', '\u7c60\u7403', '\u7bed\u7403', '\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb', '\u30d0\u30b9\u30b1']",
+        "word original": "ball"
+    },
+    "['riz', 'riziculteur', 'riz paddy']": {
+        "prompt": "Fran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"for\u00eat\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"riz\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u7c73', '\u7a32']",
+        "word original": "rice"
+    },
+    "['rouge']": {
+        "prompt": "Fran\u00e7ais: \"paire\" - \u65e5\u672c\u8a9e: \"\u4e00\u7d44\"\nFran\u00e7ais: \"est\" - \u65e5\u672c\u8a9e: \"\u6771\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"\u5b9f\"\nFran\u00e7ais: \"danse\" - \u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\"\nFran\u00e7ais: \"rouge\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u8d64']",
+        "word original": "red"
+    },
+    "['ligne', 'droite', 'ligne droite', 'ligne t\u00e9l\u00e9phonique']": {
+        "prompt": "Fran\u00e7ais: \"milieu\" - \u65e5\u672c\u8a9e: \"\u30e1\u30c7\u30a3\u30a2\"\nFran\u00e7ais: \"tour\" - \u65e5\u672c\u8a9e: \"\u5854\"\nFran\u00e7ais: \"pied\" - \u65e5\u672c\u8a9e: \"\u30da\u30b9\"\nFran\u00e7ais: \"version\" - \u65e5\u672c\u8a9e: \"\u7ffb\u8a33\"\nFran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"\u5e73\u91ce\"\nFran\u00e7ais: \"ligne\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u76f4\u7dda', '\u96fb\u8a71\u56de\u7dda', '\u8a69\u884c']",
+        "word original": "line"
+    },
+    "['filet', 'r\u00e9seau', 'r\u00e9seau informatique', 'maille de tricot', 'maillage', 'tissus']": {
+        "prompt": "Fran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"\u7802\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"visage\" - \u65e5\u672c\u8a9e: \"\u9854\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"montagne\" - \u65e5\u672c\u8a9e: \"\u5c71\u5cb3\"\nFran\u00e7ais: \"filet\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af', '\u7de8', '\u7db2', '\u30e1\u30c3\u30b7\u30e5']",
+        "word original": "net"
+    },
+    "['th\u00e9', 'feuille de th\u00e9']": {
+        "prompt": "Fran\u00e7ais: \"position\" - \u65e5\u672c\u8a9e: \"\u4f4d\u7f6e\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"sac\" - \u65e5\u672c\u8a9e: \"\u888b\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"th\u00e9\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u8336', '\u8336\u8449', '\u304a\u8336\u3063\u8449']",
+        "word original": "tea"
+    },
+    "['pied', 'fondation', 'substruction', 'soubassement', 'infrastructure', 'substructure', 'fondement', 'base']": {
+        "prompt": "Fran\u00e7ais: \"est\" - \u65e5\u672c\u8a9e: \"\u6771\"\nFran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"\u7802\"\nFran\u00e7ais: \"neige\" - \u65e5\u672c\u8a9e: \"\u96ea\"\nFran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"dix\" - \u65e5\u672c\u8a9e: \"\u5341\"\nFran\u00e7ais: \"pied\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30da\u30b9', '\u8db3', '\u57fa\u790e']",
+        "word original": "foot"
+    },
+    "['or', 'ambre']": {
+        "prompt": "Fran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"chanson\" - \u65e5\u672c\u8a9e: \"\u6b4c\u66f2\"\nFran\u00e7ais: \"est\" - \u65e5\u672c\u8a9e: \"\u6771\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"pied\" - \u65e5\u672c\u8a9e: \"\u30da\u30b9\"\nFran\u00e7ais: \"or\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u91d1', '\u91d1\u8272', '\u6a59\u8272', '\u9ec4\u91d1\u8272', '\u3053\u306f\u304f\u8272']",
+        "word original": "gold"
+    },
+    "['porte', 'encadrement de porte', 'porti\u00e8re', 'huis']": {
+        "prompt": "Fran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"roche\" - \u65e5\u672c\u8a9e: \"\u77f3\"\nFran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"\u7802\"\nFran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"\u76ee\"\nFran\u00e7ais: \"juge\" - \u65e5\u672c\u8a9e: \"\u88c1\u5224\u5b98\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u9580', '\u30c9\u30a2', '\u6249', '\u6238', '\u6238\u53e3']",
+        "word original": "door"
+    },
+    "['neige', 'couche de neige', 'chute de neige']": {
+        "prompt": "Fran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"\u4e8c\"\nFran\u00e7ais: \"source\" - \u65e5\u672c\u8a9e: \"\u6cc9\"\nFran\u00e7ais: \"riz\" - \u65e5\u672c\u8a9e: \"\u7c73\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"neige\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u96ea', '\u964d\u96ea', '\u3086\u304d']",
+        "word original": "snow"
+    },
+    "['cheval', 'equus caballus']": {
+        "prompt": "Fran\u00e7ais: \"un\" - \u65e5\u672c\u8a9e: \"\u4e00\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"\u30c7\u30d0\u30a4\u30b9\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"\u516d\"\nFran\u00e7ais: \"chanson\" - \u65e5\u672c\u8a9e: \"\u6b4c\u66f2\"\nFran\u00e7ais: \"cheval\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u99ac', '\u30a6\u30de', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['un']": {
+        "prompt": "Fran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"rue\" - \u65e5\u672c\u8a9e: \"\u9053\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"nord\" - \u65e5\u672c\u8a9e: \"\u5317\"\nFran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"\u5e73\u91ce\"\nFran\u00e7ais: \"un\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e00', '\u4e00\u3064']",
+        "word original": "one"
+    },
+    "['deux']": {
+        "prompt": "Fran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\"\nFran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"\u4e03\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"sac\" - \u65e5\u672c\u8a9e: \"\u888b\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e8c', '\u4e8c\u3064']",
+        "word original": "two"
+    },
+    "['cinq', 'quintette']": {
+        "prompt": "Fran\u00e7ais: \"personne\" - \u65e5\u672c\u8a9e: \"\u4eba\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"maison\" - \u65e5\u672c\u8a9e: \"\u5efa\u7269\"\nFran\u00e7ais: \"for\u00eat\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"danse\" - \u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\"\nFran\u00e7ais: \"cinq\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e94']",
+        "word original": "five"
+    },
+    "['six', 'demi-douzaine', 'sextuor']": {
+        "prompt": "Fran\u00e7ais: \"temps\" - \u65e5\u672c\u8a9e: \"\u6642\u9593\"\nFran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"bois\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"\u5b9f\"\nFran\u00e7ais: \"riz\" - \u65e5\u672c\u8a9e: \"\u7c73\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u516d', '\u30b7\u30c3\u30af\u30b9', '\u516d\u3064']",
+        "word original": "six"
+    },
+    "['sept', 'septembre']": {
+        "prompt": "Fran\u00e7ais: \"bureau\" - \u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"ballon\" - \u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\"\nFran\u00e7ais: \"dix\" - \u65e5\u672c\u8a9e: \"\u5341\"\nFran\u00e7ais: \"exemple\" - \u65e5\u672c\u8a9e: \"\u6a19\u672c\"\nFran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e03', '\u4e5d\u6708', '\u9577\u6708']",
+        "word original": "seven"
+    },
+    "['huit']": {
+        "prompt": "Fran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"\u00e9t\u00e9\" - \u65e5\u672c\u8a9e: \"\u590f\"\nFran\u00e7ais: \"neige\" - \u65e5\u672c\u8a9e: \"\u96ea\"\nFran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"\u00e9toile\" - \u65e5\u672c\u8a9e: \"\u6052\u661f\"\nFran\u00e7ais: \"huit\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u516b']",
+        "word original": "eight"
+    },
+    "['dix', 'dizaine', 'd\u00e9cennie']": {
+        "prompt": "Fran\u00e7ais: \"si\u00e8ge\" - \u65e5\u672c\u8a9e: \"\u6905\u5b50\"\nFran\u00e7ais: \"un\" - \u65e5\u672c\u8a9e: \"\u4e00\"\nFran\u00e7ais: \"bureau\" - \u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"\u4e8c\"\nFran\u00e7ais: \"bois\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"dix\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5341']",
+        "word original": "ten"
+    },
+    "['t\u00eate', 'psych\u00e9', 'esprit', 'no\u00fbs', 'No\u00fbs', 'cerveau', 'marteau']": {
+        "prompt": "Fran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"mer\" - \u65e5\u672c\u8a9e: \"\u6d77\"\nFran\u00e7ais: \"huit\" - \u65e5\u672c\u8a9e: \"\u516b\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"\u4e03\"\nFran\u00e7ais: \"t\u00eate\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5fc3', '\u30cc\u30fc\u30b9', '\u5ff5\u982d', '\u30d7\u30b7\u30e5\u30b1\u30fc', '\u91d1\u69cc', '\u69cc', '\u982d', '\u982d\u90e8']",
+        "word original": "head"
+    },
+    "['bande', 'bande criminelle', 'gang', 'rayure']": {
+        "prompt": "Fran\u00e7ais: \"version\" - \u65e5\u672c\u8a9e: \"\u7ffb\u8a33\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"\u8a00\u8449\"\nFran\u00e7ais: \"structure\" - \u65e5\u672c\u8a9e: \"\u69cb\u9020\"\nFran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"\u30c7\u30d0\u30a4\u30b9\"\nFran\u00e7ais: \"bande\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30ae\u30e3\u30f3\u30b0', '\u30b9\u30c8\u30ea\u30fc\u30c8\u30ae\u30e3\u30f3\u30b0', '\u66b4\u529b\u56e3', '\u7e1e\u6a21\u69d8']",
+        "word original": "strip"
+    },
+    "['rue', 'route', 'itin\u00e9raire', 'chemin']": {
+        "prompt": "Fran\u00e7ais: \"vall\u00e9e\" - \u65e5\u672c\u8a9e: \"\u8c37\"\nFran\u00e7ais: \"ligne\" - \u65e5\u672c\u8a9e: \"\u76f4\u7dda\"\nFran\u00e7ais: \"cinq\" - \u65e5\u672c\u8a9e: \"\u4e94\"\nFran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"\u5e73\u91ce\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"\u6bcd\u89aa\"\nFran\u00e7ais: \"rue\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u9053', '\u9053\u8def', '\u8def\u7dda', '\u901a\u8def', '\u9053\u7b4b', '\u30eb\u30fc\u30c8', '\u901a\u308a']",
+        "word original": "street"
+    },
+    "['\u0153il', 'yeux', \"globe de l'oeil\", 'globe oculaire']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"discours\" - \u65e5\u672c\u8a9e: \"\u8ad6\u6587\"\nFran\u00e7ais: \"est\" - \u65e5\u672c\u8a9e: \"\u6771\"\nFran\u00e7ais: \"nord\" - \u65e5\u672c\u8a9e: \"\u5317\"\nFran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u76ee', '\u773c\u7403', '\u773c']",
+        "word original": "eye"
+    },
+    "['champ', 'plaine']": {
+        "prompt": "Fran\u00e7ais: \"or\" - \u65e5\u672c\u8a9e: \"\u91d1\"\nFran\u00e7ais: \"queue\" - \u65e5\u672c\u8a9e: \"\u5c3e\"\nFran\u00e7ais: \"oc\u00e9an\" - \u65e5\u672c\u8a9e: \"\u5927\u6d0b\"\nFran\u00e7ais: \"temps\" - \u65e5\u672c\u8a9e: \"\u6642\u9593\"\nFran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"\u8a00\u8449\"\nFran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5e73\u91ce', '\u5e73\u5730', '\u7551', '\u8015\u5730']",
+        "word original": "field"
+    },
+    "['site', 'site Web', 'site Internet', 'site web', 'site internet', 'casino', '\u00e9tablissement industriel', 'usine']": {
+        "prompt": "Fran\u00e7ais: \"cheval\" - \u65e5\u672c\u8a9e: \"\u99ac\"\nFran\u00e7ais: \"queue\" - \u65e5\u672c\u8a9e: \"\u5c3e\"\nFran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"\u30c7\u30d0\u30a4\u30b9\"\nFran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"\u516d\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8', '\u30b5\u30a4\u30c8', '\u30ab\u30b8\u30ce', '\u8ced\u5834']",
+        "word original": "site"
+    },
+    "['danse', 'danser']": {
+        "prompt": "Fran\u00e7ais: \"source\" - \u65e5\u672c\u8a9e: \"\u6cc9\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"rue\" - \u65e5\u672c\u8a9e: \"\u9053\"\nFran\u00e7ais: \"nord\" - \u65e5\u672c\u8a9e: \"\u5317\"\nFran\u00e7ais: \"danse\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30c0\u30f3\u30b9', '\u8e0a\u308a', '\u821e\u8e0a']",
+        "word original": "dance"
+    },
+    "['mot']": {
+        "prompt": "Fran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"version\" - \u65e5\u672c\u8a9e: \"\u7ffb\u8a33\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"\u6bcd\u89aa\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u8a00\u8449', '\u5358\u8a9e', '\u8a9e']",
+        "word original": "word"
+    },
+    "['paire', 'couple']": {
+        "prompt": "Fran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\"\nFran\u00e7ais: \"g\u00e9n\u00e9ration\" - \u65e5\u672c\u8a9e: \"\u4e16\u4ee3\"\nFran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\"\nFran\u00e7ais: \"visage\" - \u65e5\u672c\u8a9e: \"\u9854\"\nFran\u00e7ais: \"paire\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e00\u7d44', '\u9806\u5e8f\u5bfe', '\u5bfe', '\u30da\u30a2', '\u4e00\u5bfe']",
+        "word original": "pair"
+    },
+    "['si\u00e8ge', 'pied de chaise', 'chaise', 'fauteuil', 'place']": {
+        "prompt": "Fran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"pont\" - \u65e5\u672c\u8a9e: \"\u306f\u3057\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"\u5fc3\u81d3\"\nFran\u00e7ais: \"six\" - \u65e5\u672c\u8a9e: \"\u516d\"\nFran\u00e7ais: \"si\u00e8ge\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6905\u5b50', '\u30bd\u30d5\u30a1', '\u5ea7\u4f4d', '\u5ea7\u5e2d', '\u8170\u639b\u3051', '\u5e2d', '\u30b7\u30fc\u30c8']",
+        "word original": "seat"
+    },
+    "['lumi\u00e8re', 'source lumineuse', 'lumi\u00e8re visible']": {
+        "prompt": "Fran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"\u30c7\u30d0\u30a4\u30b9\"\nFran\u00e7ais: \"g\u00e9n\u00e9ration\" - \u65e5\u672c\u8a9e: \"\u4e16\u4ee3\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"cinq\" - \u65e5\u672c\u8a9e: \"\u4e94\"\nFran\u00e7ais: \"lumi\u00e8re\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5149', '\u53ef\u8996\u5149', '\u53ef\u8996\u5149\u7dda']",
+        "word original": "light"
+    },
+    "['mille', 'mil']": {
+        "prompt": "Fran\u00e7ais: \"montagne\" - \u65e5\u672c\u8a9e: \"\u5c71\u5cb3\"\nFran\u00e7ais: \"village\" - \u65e5\u672c\u8a9e: \"\u6751\"\nFran\u00e7ais: \"deux\" - \u65e5\u672c\u8a9e: \"\u4e8c\"\nFran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"chanson\" - \u65e5\u672c\u8a9e: \"\u6b4c\u66f2\"\nFran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5343', '\u30de\u30a4\u30eb']",
+        "word original": "thousand"
+    },
+    "['nord']": {
+        "prompt": "Fran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"lumi\u00e8re\" - \u65e5\u672c\u8a9e: \"\u5149\"\nFran\u00e7ais: \"carr\u00e9\" - \u65e5\u672c\u8a9e: \"\u6b63\u65b9\u5f62\"\nFran\u00e7ais: \"structure\" - \u65e5\u672c\u8a9e: \"\u69cb\u9020\"\nFran\u00e7ais: \"visage\" - \u65e5\u672c\u8a9e: \"\u9854\"\nFran\u00e7ais: \"nord\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5317']",
+        "word original": "north"
+    },
+    "['machine', 'dispositif', 'appareil', 'syst\u00e8me', 'm\u00e9canisme', 'superstar', 'sp\u00e9cialiste', 'vedette', '\u00e9toile', 'connaisseur', 'as', 'expert', 'champion', 'Maven', 'virtuose', 'g\u00e9nie', 'b\u00eate', 'effet superstar', 'star', 'sommit\u00e9', 'machinerie', 'parc de machines', 'machines', 'Machinery']": {
+        "prompt": "Fran\u00e7ais: \"roche\" - \u65e5\u672c\u8a9e: \"\u77f3\"\nFran\u00e7ais: \"ville\" - \u65e5\u672c\u8a9e: \"\u4e3b\u8981\u90fd\u5e02\"\nFran\u00e7ais: \"bois\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"couleur\" - \u65e5\u672c\u8a9e: \"\u9ed2\"\nFran\u00e7ais: \"mer\" - \u65e5\u672c\u8a9e: \"\u6d77\"\nFran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30c7\u30d0\u30a4\u30b9', '\u88c5\u7f6e', '\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc', '\u8457\u540d\u4eba', '\u82b1\u5f62', '\u6709\u540d\u4eba', '\u5927\u7269', '\u30a2\u30c7\u30d7\u30c8', '\u30e1\u30a4\u30f4\u30f3', '\u6a5f\u68b0']",
+        "word original": "machine"
+    },
+    "['temps', 'm\u00e9t\u00e9o', 'm\u00e9t\u00e9orologie', 'tempo musical', 'tempo', 'Rythme', 'rythme', 'temps grammatical']": {
+        "prompt": "Fran\u00e7ais: \"vitesse\" - \u65e5\u672c\u8a9e: \"\u901f\u5ea6\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"\u30dd\u30a4\u30f3\u30c8\"\nFran\u00e7ais: \"pied\" - \u65e5\u672c\u8a9e: \"\u30da\u30b9\"\nFran\u00e7ais: \"montagne\" - \u65e5\u672c\u8a9e: \"\u5c71\u5cb3\"\nFran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\"\nFran\u00e7ais: \"temps\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6642\u9593', '\u5929\u6c17', '\u3066\u3093\u304d', '\u6c17\u8c61', '\u5929\u5019', '\u30d3\u30fc\u30c8', '\u30ea\u30ba\u30e0', '\u6642\u5236']",
+        "word original": "time"
+    },
+    "['position', 'localit\u00e9', 'emplacement', 'lieu', 'position g\u00e9ographique', 'localisation', 'situation', 'emploi', 'place', 'fonction', 'regard', 'vue', 'perspective', 'cadre']": {
+        "prompt": "Fran\u00e7ais: \"cinq\" - \u65e5\u672c\u8a9e: \"\u4e94\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"un\" - \u65e5\u672c\u8a9e: \"\u4e00\"\nFran\u00e7ais: \"position\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4f4d\u7f6e', '\u5730\u65b9', '\u5730\u70b9', '\u5834\u6240', '\u7acb\u5730']",
+        "word original": "position"
+    },
+    "['milieu', 'm\u00e9dium', 'support', 'm\u00e9dia', 'moyen', 'centre']": {
+        "prompt": "Fran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"visage\" - \u65e5\u672c\u8a9e: \"\u9854\"\nFran\u00e7ais: \"or\" - \u65e5\u672c\u8a9e: \"\u91d1\"\nFran\u00e7ais: \"queue\" - \u65e5\u672c\u8a9e: \"\u5c3e\"\nFran\u00e7ais: \"milieu\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30e1\u30c7\u30a3\u30a2']",
+        "word original": "middle"
+    },
+    "['couleur', 'noir', 'teinte', 'teint']": {
+        "prompt": "Fran\u00e7ais: \"source\" - \u65e5\u672c\u8a9e: \"\u6cc9\"\nFran\u00e7ais: \"mer\" - \u65e5\u672c\u8a9e: \"\u6d77\"\nFran\u00e7ais: \"lumi\u00e8re\" - \u65e5\u672c\u8a9e: \"\u5149\"\nFran\u00e7ais: \"lac\" - \u65e5\u672c\u8a9e: \"\u6e56\"\nFran\u00e7ais: \"cinq\" - \u65e5\u672c\u8a9e: \"\u4e94\"\nFran\u00e7ais: \"couleur\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u9ed2', '\u8272', '\u304f\u308d', '\u30ef\u30a4\u30f3\u306e\u8272']",
+        "word original": "color"
+    },
+    "['genre', 'sexe', 'sexualit\u00e9', 'type', 'sorte', 'acabit', 'forme']": {
+        "prompt": "Fran\u00e7ais: \"juge\" - \u65e5\u672c\u8a9e: \"\u88c1\u5224\u5b98\"\nFran\u00e7ais: \"discours\" - \u65e5\u672c\u8a9e: \"\u8ad6\u6587\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"\u6b74\u53f2\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"\u30dd\u30a4\u30f3\u30c8\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30b8\u30a7\u30f3\u30c0\u30fc', '\u6027\u540c\u4e00\u6027', '\u7a2e\u985e']",
+        "word original": "kind"
+    },
+    "['juge', 'proc\u00e8s', 'affaire judiciaire', 'Proc\u00e8s en droit fran\u00e7ais']": {
+        "prompt": "Fran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"\u6bcd\u89aa\"\nFran\u00e7ais: \"temps\" - \u65e5\u672c\u8a9e: \"\u6642\u9593\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"\u30dd\u30a4\u30f3\u30c8\"\nFran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\"\nFran\u00e7ais: \"juge\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u88c1\u5224\u5b98', '\u30c8\u30e9\u30a4\u30a2\u30eb', '\u5bfe\u5be9']",
+        "word original": "judge"
+    },
+    "['\u00e9cole', 'acad\u00e9mie', 'universit\u00e9', 'coll\u00e8ge']": {
+        "prompt": "Fran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"\u76ee\"\nFran\u00e7ais: \"nord\" - \u65e5\u672c\u8a9e: \"\u5317\"\nFran\u00e7ais: \"ressort\" - \u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30ea\u30f3\u30b0\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5927\u5b66', '\u5b66\u6821', '\u5b66\u3073\u820e']",
+        "word original": "school"
+    },
+    "['structure', 'mod\u00e8le', 'sch\u00e9ma', 'construction']": {
+        "prompt": "Fran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"\u76ee\"\nFran\u00e7ais: \"lac\" - \u65e5\u672c\u8a9e: \"\u6e56\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"\u5b9f\"\nFran\u00e7ais: \"structure\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u69cb\u9020', '\u69cb\u6210']",
+        "word original": "structure"
+    },
+    "['cravate']": {
+        "prompt": "Fran\u00e7ais: \"huit\" - \u65e5\u672c\u8a9e: \"\u516b\"\nFran\u00e7ais: \"point\" - \u65e5\u672c\u8a9e: \"\u30dd\u30a4\u30f3\u30c8\"\nFran\u00e7ais: \"bureau\" - \u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\"\nFran\u00e7ais: \"cinq\" - \u65e5\u672c\u8a9e: \"\u4e94\"\nFran\u00e7ais: \"oc\u00e9an\" - \u65e5\u672c\u8a9e: \"\u5927\u6d0b\"\nFran\u00e7ais: \"cravate\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30cd\u30af\u30bf\u30a4']",
+        "word original": "tie"
+    },
+    "['exemple', \"technique d'\u00e9chantillonnage\", '\u00e9chantillon', '\u00e9chantillonnage', 'pr\u00e9l\u00e8vement', 'mod\u00e8le']": {
+        "prompt": "Fran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"\u8a00\u8449\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"pied\" - \u65e5\u672c\u8a9e: \"\u30da\u30b9\"\nFran\u00e7ais: \"g\u00e9n\u00e9ration\" - \u65e5\u672c\u8a9e: \"\u4e16\u4ee3\"\nFran\u00e7ais: \"exemple\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6a19\u672c']",
+        "word original": "example"
+    },
+    "['visage', 'face', 'figure', 'joue', 'joues']": {
+        "prompt": "Fran\u00e7ais: \"onde\" - \u65e5\u672c\u8a9e: \"\u6ce2\"\nFran\u00e7ais: \"couleur\" - \u65e5\u672c\u8a9e: \"\u9ed2\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"nuage\" - \u65e5\u672c\u8a9e: \"\u96f2\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"visage\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u9854', '\u9762', '\u982c']",
+        "word original": "face"
+    },
+    "['pont', 'liste de ponts romains', 'passerelle']": {
+        "prompt": "Fran\u00e7ais: \"un\" - \u65e5\u672c\u8a9e: \"\u4e00\"\nFran\u00e7ais: \"neige\" - \u65e5\u672c\u8a9e: \"\u96ea\"\nFran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"maison\" - \u65e5\u672c\u8a9e: \"\u5efa\u7269\"\nFran\u00e7ais: \"huit\" - \u65e5\u672c\u8a9e: \"\u516b\"\nFran\u00e7ais: \"pont\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u306f\u3057', '\u6a4b']",
+        "word original": "bridge"
+    },
+    "['groupe', 'ensemble musical', 'famille', 'groupe fonctionnel', 'orchestre', '\u00e9quipe', 'groupe de rock', 'cat\u00e9gorie', 'classe', 'bouquet', 'botte', 'regroupement']": {
+        "prompt": "Fran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"\u76ee\"\nFran\u00e7ais: \"lac\" - \u65e5\u672c\u8a9e: \"\u6e56\"\nFran\u00e7ais: \"milieu\" - \u65e5\u672c\u8a9e: \"\u30e1\u30c7\u30a3\u30a2\"\nFran\u00e7ais: \"cheval\" - \u65e5\u672c\u8a9e: \"\u99ac\"\nFran\u00e7ais: \"roche\" - \u65e5\u672c\u8a9e: \"\u77f3\"\nFran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb', '\u5b98\u80fd\u57fa', '\u57fa', '\u697d\u968a', '\u30d0\u30f3\u30c9', '\u697d\u56e3', '\u30ed\u30c3\u30af\u30b0\u30eb\u30fc\u30d7', '\u30ed\u30c3\u30af\u30d0\u30f3\u30c9', '\u30ed\u30c3\u30af\u30fb\u30d0\u30f3\u30c9', '\u30ed\u30c3\u30af\u30fb\u30b0\u30eb\u30fc\u30d7', '\u90e8\u9580', '\u7bc4\u7587', '\u5206\u985e', '\u7a2e\u985e', '\u30af\u30e9\u30b9', '\u30ab\u30c6\u30b4\u30ea', '\u7a2e\u5225', '\u7b49\u7d1a', '\u623f', '\u675f']",
+        "word original": "group"
+    },
+    "['talent', 'aptitude', 'capacit\u00e9', 'habilet\u00e9', 'accomplissement', 'comp\u00e9tence', 'don', 'connaissance', 'qualification']": {
+        "prompt": "Fran\u00e7ais: \"exemple\" - \u65e5\u672c\u8a9e: \"\u6a19\u672c\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"\u5fc3\u81d3\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"bois\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u624b\u8155', '\u5b9f\u7e3e', '\u8155', '\u6280\u8853', '\u6280', '\u6280\u5de7', '\u6280\u80fd', '\u30b9\u30ad\u30eb']",
+        "word original": "talent"
+    },
+    "['plate-forme', 'quai']": {
+        "prompt": "Fran\u00e7ais: \"cheval\" - \u65e5\u672c\u8a9e: \"\u99ac\"\nFran\u00e7ais: \"tour\" - \u65e5\u672c\u8a9e: \"\u5854\"\nFran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"\u7802\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"\u6b74\u53f2\"\nFran\u00e7ais: \"plate-forme\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0', '\u6b69\u5eca', '\u4e57\u308a\u5834', '\u30db\u30fc\u30e0']",
+        "word original": "platform"
+    },
+    "['maison', 'b\u00e2timent', 'b\u00e2timent public', '\u00e9difice', 'immeuble', 'domicile', 'habitation', 'r\u00e9sidence', 'logement', 'foyer', 'demeure']": {
+        "prompt": "Fran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"tour\" - \u65e5\u672c\u8a9e: \"\u5854\"\nFran\u00e7ais: \"pont\" - \u65e5\u672c\u8a9e: \"\u306f\u3057\"\nFran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"\u4e03\"\nFran\u00e7ais: \"maison\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5efa\u7269', '\u30d3\u30eb', '\u5efa\u7bc9\u7269', '\u5efa\u5c4b', '\u5bb6', '\u5bb6\u5c4b', '\u4f4f\u5b85', '\u5b9f\u5bb6', '\u4f4f\u5c45', '\u5c45\u7559', '\u6545\u90f7', '\u4f4f\u6240']",
+        "word original": "house"
+    },
+    "['soleil']": {
+        "prompt": "Fran\u00e7ais: \"cravate\" - \u65e5\u672c\u8a9e: \"\u30cd\u30af\u30bf\u30a4\"\nFran\u00e7ais: \"mille\" - \u65e5\u672c\u8a9e: \"\u5343\"\nFran\u00e7ais: \"mer\" - \u65e5\u672c\u8a9e: \"\u6d77\"\nFran\u00e7ais: \"rue\" - \u65e5\u672c\u8a9e: \"\u9053\"\nFran\u00e7ais: \"oc\u00e9an\" - \u65e5\u672c\u8a9e: \"\u5927\u6d0b\"\nFran\u00e7ais: \"soleil\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u3072', '\u65e5', '\u592a\u967d']",
+        "word original": "sun"
+    },
+    "['r\u00e9union', 'rencontre']": {
+        "prompt": "Fran\u00e7ais: \"grotte\" - \u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\"\nFran\u00e7ais: \"ville\" - \u65e5\u672c\u8a9e: \"\u4e3b\u8981\u90fd\u5e02\"\nFran\u00e7ais: \"fruit\" - \u65e5\u672c\u8a9e: \"\u5b9f\"\nFran\u00e7ais: \"structure\" - \u65e5\u672c\u8a9e: \"\u69cb\u9020\"\nFran\u00e7ais: \"queue\" - \u65e5\u672c\u8a9e: \"\u5c3e\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4f1a\u8b70']",
+        "word original": "meeting"
+    },
+    "['histoire', 'd\u00e9veloppement historique', 'mode narratif', 'narration', 'conte', 'r\u00e9cit', 'technique litt\u00e9raire', 'point de vue narratif', 'intrigue', 'sc\u00e9nario', 'fabula', 'Intrigue']": {
+        "prompt": "Fran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"\u8a00\u8449\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"\u5fc3\u81d3\"\nFran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"\u7802\"\nFran\u00e7ais: \"rouge\" - \u65e5\u672c\u8a9e: \"\u8d64\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6b74\u53f2', '\u6cbf\u9769', '\u6587\u82b8\u306e\u6280\u6cd5', '\u7269\u8a9e', '\u8a71', '\u30ca\u30ec\u30fc\u30b7\u30e7\u30f3', '\u5c0f\u8aac', '\u30b9\u30c8\u30fc\u30ea\u30fc', '\u30d5\u30a1\u30fc\u30d6\u30e9\u3068\u30b7\u30e5\u30b8\u30a7\u30fc\u30c8', '\u30d7\u30ed\u30c3\u30c8']",
+        "word original": "history"
+    },
+    "['vall\u00e9e', 'val']": {
+        "prompt": "Fran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"vitesse\" - \u65e5\u672c\u8a9e: \"\u901f\u5ea6\"\nFran\u00e7ais: \"paire\" - \u65e5\u672c\u8a9e: \"\u4e00\u7d44\"\nFran\u00e7ais: \"lune\" - \u65e5\u672c\u8a9e: \"\u6708\"\nFran\u00e7ais: \"vall\u00e9e\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u8c37']",
+        "word original": "valley"
+    },
+    "['carr\u00e9', 'carr\u00e9 en je broertjte']": {
+        "prompt": "Fran\u00e7ais: \"grotte\" - \u65e5\u672c\u8a9e: \"\u6d1e\u7a9f\"\nFran\u00e7ais: \"th\u00e9\" - \u65e5\u672c\u8a9e: \"\u8336\"\nFran\u00e7ais: \"riz\" - \u65e5\u672c\u8a9e: \"\u7c73\"\nFran\u00e7ais: \"pont\" - \u65e5\u672c\u8a9e: \"\u306f\u3057\"\nFran\u00e7ais: \"onde\" - \u65e5\u672c\u8a9e: \"\u6ce2\"\nFran\u00e7ais: \"carr\u00e9\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6b63\u65b9\u5f62', '\u81ea\u4e57', '\u5e73\u65b9', '\u4e8c\u4e57, nij\u014d']",
+        "word original": "square"
+    },
+    "['g\u00e9n\u00e9ration']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9toile\" - \u65e5\u672c\u8a9e: \"\u6052\u661f\"\nFran\u00e7ais: \"pied\" - \u65e5\u672c\u8a9e: \"\u30da\u30b9\"\nFran\u00e7ais: \"vitesse\" - \u65e5\u672c\u8a9e: \"\u901f\u5ea6\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"carr\u00e9\" - \u65e5\u672c\u8a9e: \"\u6b63\u65b9\u5f62\"\nFran\u00e7ais: \"g\u00e9n\u00e9ration\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e16\u4ee3']",
+        "word original": "generation"
+    },
+    "['sud', 'midi']": {
+        "prompt": "Fran\u00e7ais: \"or\" - \u65e5\u672c\u8a9e: \"\u91d1\"\nFran\u00e7ais: \"nord\" - \u65e5\u672c\u8a9e: \"\u5317\"\nFran\u00e7ais: \"porte\" - \u65e5\u672c\u8a9e: \"\u9580\"\nFran\u00e7ais: \"loi\" - \u65e5\u672c\u8a9e: \"\u6cd5\"\nFran\u00e7ais: \"\u00e9t\u00e9\" - \u65e5\u672c\u8a9e: \"\u590f\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5357']",
+        "word original": "south"
+    },
+    "['ville', 'agglom\u00e9ration urbaine', 'm\u00e9tropole', 'cit\u00e9', 'grande-ville', 'bourgade', 'bourg']": {
+        "prompt": "Fran\u00e7ais: \"jour\" - \u65e5\u672c\u8a9e: \"\u65e5\"\nFran\u00e7ais: \"groupe\" - \u65e5\u672c\u8a9e: \"\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"\u6b74\u53f2\"\nFran\u00e7ais: \"or\" - \u65e5\u672c\u8a9e: \"\u91d1\"\nFran\u00e7ais: \"site\" - \u65e5\u672c\u8a9e: \"\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\"\nFran\u00e7ais: \"ville\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4e3b\u8981\u90fd\u5e02', '\u90fd\u5e02', '\u90fd\u5e02\u30fb\u8857', '\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9', '\u753a', '\u5927\u90fd\u5e02', '\u5927\u90fd\u4f1a', '\u90fd\u4f1a', '\u5e02', '\u8857']",
+        "word original": "city"
+    },
+    "['vitesse', 'v\u00e9locit\u00e9', 'vecteur vitesse', 'rapidit\u00e9', 'train', 'groupe motopropulseur', 'engrenage']": {
+        "prompt": "Fran\u00e7ais: \"ressort\" - \u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30ea\u30f3\u30b0\"\nFran\u00e7ais: \"\u00e9t\u00e9\" - \u65e5\u672c\u8a9e: \"\u590f\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"carr\u00e9\" - \u65e5\u672c\u8a9e: \"\u6b63\u65b9\u5f62\"\nFran\u00e7ais: \"bois\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"vitesse\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u901f\u5ea6', '\u901f\u3055', '\u30d1\u30ef\u30fc\u30c8\u30ec\u30a4\u30f3', '\u30ae\u30a2\u30c8\u30ec\u30fc\u30f3']",
+        "word original": "speed"
+    },
+    "['queue']": {
+        "prompt": "Fran\u00e7ais: \"roche\" - \u65e5\u672c\u8a9e: \"\u77f3\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"\u6b74\u53f2\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"\u5b50\"\nFran\u00e7ais: \"c\u0153ur\" - \u65e5\u672c\u8a9e: \"\u5fc3\u81d3\"\nFran\u00e7ais: \"vall\u00e9e\" - \u65e5\u672c\u8a9e: \"\u8c37\"\nFran\u00e7ais: \"queue\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5c3e', '\u5c3b\u5c3e']",
+        "word original": "tail"
+    },
+    "['m\u00e8re', 'maman', 'maternit\u00e9']": {
+        "prompt": "Fran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"machine\" - \u65e5\u672c\u8a9e: \"\u30c7\u30d0\u30a4\u30b9\"\nFran\u00e7ais: \"\u0153il\" - \u65e5\u672c\u8a9e: \"\u76ee\"\nFran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"mot\" - \u65e5\u672c\u8a9e: \"\u8a00\u8449\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6bcd\u89aa']",
+        "word original": "mother"
+    },
+    "['est', 'levant', 'orient']": {
+        "prompt": "Fran\u00e7ais: \"maison\" - \u65e5\u672c\u8a9e: \"\u5efa\u7269\"\nFran\u00e7ais: \"sable\" - \u65e5\u672c\u8a9e: \"\u7802\"\nFran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"rouge\" - \u65e5\u672c\u8a9e: \"\u8d64\"\nFran\u00e7ais: \"for\u00eat\" - \u65e5\u672c\u8a9e: \"\u68ee\u6797\"\nFran\u00e7ais: \"est\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u6771', '\u6771\u65b9']",
+        "word original": "east"
+    },
+    "['discours', 'discussion', 'd\u00e9bat', 'talk']": {
+        "prompt": "Fran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"champ\" - \u65e5\u672c\u8a9e: \"\u5e73\u91ce\"\nFran\u00e7ais: \"ballon\" - \u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"carr\u00e9\" - \u65e5\u672c\u8a9e: \"\u6b63\u65b9\u5f62\"\nFran\u00e7ais: \"discours\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u8ad6\u6587', '\u8b70\u8ad6', '\u8a0e\u8ad6', 'talk']",
+        "word original": "speech"
+    },
+    "['enfant', 'mineur', 'frite', 'gosse', 'pomme frite', 'jeune', 'responsabilit\u00e9 p\u00e9nale des mineurs', 'nourrisson', 'nourisson', 'b\u00e9b\u00e9', 'enfant en bas \u00e2ge', 'poupon', 'enfants']": {
+        "prompt": "Fran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"\u4e03\"\nFran\u00e7ais: \"\u00e9t\u00e9\" - \u65e5\u672c\u8a9e: \"\u590f\"\nFran\u00e7ais: \"cheval\" - \u65e5\u672c\u8a9e: \"\u99ac\"\nFran\u00e7ais: \"\u00e9toile\" - \u65e5\u672c\u8a9e: \"\u6052\u661f\"\nFran\u00e7ais: \"milieu\" - \u65e5\u672c\u8a9e: \"\u30e1\u30c7\u30a3\u30a2\"\nFran\u00e7ais: \"enfant\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5b50', '\u5b50\u4f9b', '\u672a\u6210\u5e74\u8005', '\u8d64\u3061\u3083\u3093', '\u8d64\u3093\u574a', '\u4e73\u5150', '\u5e7c\u5150']",
+        "word original": "child"
+    },
+    "['tour', 'ornement', 'd\u00e9coration', 'parure', 'visite guid\u00e9e', 'voyage', 'cycle', 'rythme']": {
+        "prompt": "Fran\u00e7ais: \"mer\" - \u65e5\u672c\u8a9e: \"\u6d77\"\nFran\u00e7ais: \"main\" - \u65e5\u672c\u8a9e: \"\u624b\"\nFran\u00e7ais: \"g\u00e9n\u00e9ration\" - \u65e5\u672c\u8a9e: \"\u4e16\u4ee3\"\nFran\u00e7ais: \"danse\" - \u65e5\u672c\u8a9e: \"\u30c0\u30f3\u30b9\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"tour\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u5854', '\u30bf\u30ef\u30fc', '\u88c5\u98fe', '\u98fe\u308a', '\u88c5\u98fe\u97f3', '\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3', '\u88c5\u98fe\uff08\u82b8\u8853\uff09']",
+        "word original": "tower"
+    },
+    "['personne', 'mortel', \"quelqu'un\", 'individu']": {
+        "prompt": "Fran\u00e7ais: \"sud\" - \u65e5\u672c\u8a9e: \"\u5357\"\nFran\u00e7ais: \"histoire\" - \u65e5\u672c\u8a9e: \"\u6b74\u53f2\"\nFran\u00e7ais: \"\u00e9t\u00e9\" - \u65e5\u672c\u8a9e: \"\u590f\"\nFran\u00e7ais: \"exemple\" - \u65e5\u672c\u8a9e: \"\u6a19\u672c\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"personne\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u4eba', '\u4eba\u9593', '\u500b\u4eba', '\u8005', '\u65b9', '\u4eba\u7269']",
+        "word original": "person"
+    },
+    "['bureau', 'organisme', 'autorit\u00e9', 'agence', 'agence publique', 'minist\u00e8re', 'office', 'administration f\u00e9d\u00e9rale']": {
+        "prompt": "Fran\u00e7ais: \"vitesse\" - \u65e5\u672c\u8a9e: \"\u901f\u5ea6\"\nFran\u00e7ais: \"\u00e9toile\" - \u65e5\u672c\u8a9e: \"\u6052\u661f\"\nFran\u00e7ais: \"\u00e9cole\" - \u65e5\u672c\u8a9e: \"\u5927\u5b66\"\nFran\u00e7ais: \"tour\" - \u65e5\u672c\u8a9e: \"\u5854\"\nFran\u00e7ais: \"r\u00e9union\" - \u65e5\u672c\u8a9e: \"\u4f1a\u8b70\"\nFran\u00e7ais: \"bureau\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u30aa\u30d5\u30a3\u30b9', '\u4e8b\u52d9\u6240', '\u4e8b\u52d9\u5ba4', '\u57f7\u52d9\u5ba4', '\u5b98\u5e81', '\u653f\u5e9c\u6a5f\u95a2', '\u673a']",
+        "word original": "office"
+    },
+    "['roche', 'pierre']": {
+        "prompt": "Fran\u00e7ais: \"sol\" - \u65e5\u672c\u8a9e: \"\u3072\"\nFran\u00e7ais: \"huit\" - \u65e5\u672c\u8a9e: \"\u516b\"\nFran\u00e7ais: \"talent\" - \u65e5\u672c\u8a9e: \"\u624b\u8155\"\nFran\u00e7ais: \"sept\" - \u65e5\u672c\u8a9e: \"\u4e03\"\nFran\u00e7ais: \"est\" - \u65e5\u672c\u8a9e: \"\u6771\"\nFran\u00e7ais: \"roche\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u77f3', '\u5ca9', '\u5ca9\u77f3']",
+        "word original": "rock"
+    },
+    "['\u00e9t\u00e9', 'saison estivale', \"saison d'\u00e9t\u00e9\", 'p\u00e9riode estivale']": {
+        "prompt": "Fran\u00e7ais: \"juge\" - \u65e5\u672c\u8a9e: \"\u88c1\u5224\u5b98\"\nFran\u00e7ais: \"genre\" - \u65e5\u672c\u8a9e: \"\u30b8\u30a7\u30f3\u30c0\u30fc\"\nFran\u00e7ais: \"m\u00e8re\" - \u65e5\u672c\u8a9e: \"\u6bcd\u89aa\"\nFran\u00e7ais: \"\u00e9toile\" - \u65e5\u672c\u8a9e: \"\u6052\u661f\"\nFran\u00e7ais: \"discours\" - \u65e5\u672c\u8a9e: \"\u8ad6\u6587\"\nFran\u00e7ais: \"\u00e9t\u00e9\" - \u65e5\u672c\u8a9e: \"",
+        "target": "['\u590f', '\u590f\u6642']",
+        "word original": "summer"
+    }
+}

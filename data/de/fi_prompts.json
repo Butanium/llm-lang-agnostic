@@ -1,0 +1,452 @@
+{
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Versuch\" - Suomi: \"kokeilu\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Richter\" - Suomi: \"tuomari\"\nDeutsch: \"Buch\" - Suomi: \"",
+        "target": "['kirja', 'paperi']",
+        "word original": "book"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Kind\" - Suomi: \"alaik\u00e4inen\"\nDeutsch: \"Tasche\" - Suomi: \"laukku\"\nDeutsch: \"Wolke\" - Suomi: \"",
+        "target": "['pilvi']",
+        "word original": "cloud"
+    },
+    "['Tasche', 'Sack', 'Beutel', 'T\u00fcte', 'Tragetasche', 'Plastikt\u00fcte', 'Papiersack', 'Traget\u00fcte', 'Hosentasche']": {
+        "prompt": "Deutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"Herz\" - Suomi: \"syd\u00e4n\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Meer\" - Suomi: \"meri\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Tasche\" - Suomi: \"",
+        "target": "['laukku', 'pussi', 'kassi', 'muovikassi', 'paperikassi', 'paperipussi', 's\u00e4kki', 'tasku']",
+        "word original": "bag"
+    },
+    "['Boden', 'Land', 'Festland', 'Grund', 'Erdboden', 'Erde', 'L\u00e4nder', 'fester Boden', 'Fu\u00dfboden', 'Blumenerde']": {
+        "prompt": "Deutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"f\u00fcnf\" - Suomi: \"viisi\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Boden\" - Suomi: \"",
+        "target": "['maa', 'maanpinta', 'kuiva maa', 'lattia', 'sora', 'irtomaa', 'multa', 'alap\u00e4\u00e4', 'alaosa', 'alalaita']",
+        "word original": "ground"
+    },
+    "['Tuch', 'Gewebe', 'Textilien', 'Stoff', 'Textil', 'Textilie']": {
+        "prompt": "Deutsch: \"zehn\" - Suomi: \"kymmenen\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Krawatte\" - Suomi: \"solmio\"\nDeutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Tuch\" - Suomi: \"",
+        "target": "['tekstiili', 'kangas', 'kudos', 'materiaali']",
+        "word original": "cloth"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"eins\" - Suomi: \"yksi\"\nDeutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"tausend\" - Suomi: \"tuhat\"\nDeutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"Herz\" - Suomi: \"",
+        "target": "['syd\u00e4n', 'syd\u00e4nlihas', 'pumppu', 'kiintymys', 'rakkaus', 'mieltymys', 'syd\u00e4mellisyys', 'l\u00e4mp\u00f6', 'l\u00e4mminsyd\u00e4misyys', 'rakastavuus', 'filia', 'hellyys', 'heikkous']",
+        "word original": "heart"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"Gesetz\" - Suomi: \"laki\"\nDeutsch: \"Feld\" - Suomi: \"tasanko\"\nDeutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"Fluss\" - Suomi: \"joki\"\nDeutsch: \"Tasche\" - Suomi: \"laukku\"\nDeutsch: \"Hand\" - Suomi: \"",
+        "target": "['k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus']",
+        "word original": "hand"
+    },
+    "['Tag', 'Solartag', 'Sonnentag']": {
+        "prompt": "Deutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"rot\" - Suomi: \"punainen\"\nDeutsch: \"Kind\" - Suomi: \"alaik\u00e4inen\"\nDeutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"Tag\" - Suomi: \"",
+        "target": "['vuorokausi', 'aurinkovuorokausi', 'p\u00e4iv\u00e4']",
+        "word original": "day"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"zehn\" - Suomi: \"kymmenen\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Tal\" - Suomi: \"laakso\"\nDeutsch: \"S\u00fcden\" - Suomi: \"etel\u00e4\"\nDeutsch: \"Stern\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti']",
+        "word original": "star"
+    },
+    "['Feder', 'Strahlen', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder', 'Sprungfeder', 'F\u00fcller', 'Schreibstift']": {
+        "prompt": "Deutsch: \"Osten\" - Suomi: \"it\u00e4\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Quadrat\" - Suomi: \"neli\u00f6\"\nDeutsch: \"Ozean\" - Suomi: \"valtameri\"\nDeutsch: \"Turm\" - Suomi: \"torni\"\nDeutsch: \"Feder\" - Suomi: \"",
+        "target": "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka', 'jousi', 'vieteri', 'joustin', 'kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "spring"
+    },
+    "['Mond', 'Frau Luna', 'Luna', 'Erdmond']": {
+        "prompt": "Deutsch: \"Wald\" - Suomi: \"mets\u00e4\"\nDeutsch: \"T\u00fcr\" - Suomi: \"ovi\"\nDeutsch: \"Turm\" - Suomi: \"torni\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"Mond\" - Suomi: \"",
+        "target": "['Kuu', 'kuu']",
+        "word original": "moon"
+    },
+    "['Holz', 'Busch', 'Wald', 'Forst', 'W\u00e4lder', 'Splintholz']": {
+        "prompt": "Deutsch: \"Art\" - Suomi: \"luokka\"\nDeutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"eins\" - Suomi: \"yksi\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Holz\" - Suomi: \"",
+        "target": "['mets\u00e4', 'W\u00e4lder', 'puu', 'puumaila', 'pintapuu', 'puuaines']",
+        "word original": "wood"
+    },
+    "['Dorf', 'Ortschaft', 'Weiler', 'D\u00f6rfchen']": {
+        "prompt": "Deutsch: \"Ozean\" - Suomi: \"valtameri\"\nDeutsch: \"Schnee\" - Suomi: \"lumi\"\nDeutsch: \"Buch\" - Suomi: \"kirja\"\nDeutsch: \"Person\" - Suomi: \"ihminen\"\nDeutsch: \"Hand\" - Suomi: \"k\u00e4si\"\nDeutsch: \"Dorf\" - Suomi: \"",
+        "target": "['kyl\u00e4', 'pieni kyl\u00e4']",
+        "word original": "village"
+    },
+    "['Wald', 'Busch', 'Forst', 'W\u00e4lder', 'Holz']": {
+        "prompt": "Deutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"Sprache\" - Suomi: \"kieli\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Richter\" - Suomi: \"tuomari\"\nDeutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"Wald\" - Suomi: \"",
+        "target": "['mets\u00e4', 'W\u00e4lder', 'puu', 'puumaila']",
+        "word original": "forest"
+    },
+    "['Gitter', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Gittergewebe']": {
+        "prompt": "Deutsch: \"Meer\" - Suomi: \"meri\"\nDeutsch: \"Stra\u00dfe\" - Suomi: \"tie\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Haushalt\" - Suomi: \"talous\"\nDeutsch: \"Gitter\" - Suomi: \"",
+        "target": "['verkko', 'seula']",
+        "word original": "grid"
+    },
+    "['Lied']": {
+        "prompt": "Deutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Buch\" - Suomi: \"kirja\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Ball\" - Suomi: \"pallo\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Lied\" - Suomi: \"",
+        "target": "['laulu', 's\u00e4velm\u00e4', 'lauluosuus']",
+        "word original": "song"
+    },
+    "['Wasser', 'Gew\u00e4sser']": {
+        "prompt": "Deutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Punkt\" - Suomi: \"piste\"\nDeutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Holz\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Wasser\" - Suomi: \"",
+        "target": "['vesi', 'vedet', 'vesimuodostuma', 'vesialue']",
+        "word original": "water"
+    },
+    "['Fluss', 'Flu\u00df', 'Hydrodynamik', 'Fluiddynamik']": {
+        "prompt": "Deutsch: \"eins\" - Suomi: \"yksi\"\nDeutsch: \"Wald\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Mond\" - Suomi: \"Kuu\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Fluss\" - Suomi: \"",
+        "target": "['joki', 'virtaus', 'virtaaminen']",
+        "word original": "river"
+    },
+    "['Gesetz', 'Recht']": {
+        "prompt": "Deutsch: \"Holz\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"Kopf\" - Suomi: \"Nous\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Netz\" - Suomi: \"internet\"\nDeutsch: \"Gesetz\" - Suomi: \"",
+        "target": "['laki', 'juridiikka']",
+        "word original": "law"
+    },
+    "['Welle', 'Meereswelle', 'Wasserwelle']": {
+        "prompt": "Deutsch: \"Br\u00fccke\" - Suomi: \"silta\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Freund\" - Suomi: \"yst\u00e4vyys\"\nDeutsch: \"Tal\" - Suomi: \"laakso\"\nDeutsch: \"Art\" - Suomi: \"luokka\"\nDeutsch: \"Welle\" - Suomi: \"",
+        "target": "['aalto']",
+        "word original": "wave"
+    },
+    "['Ozean', 'Meeresumwelt']": {
+        "prompt": "Deutsch: \"Mond\" - Suomi: \"Kuu\"\nDeutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Kind\" - Suomi: \"alaik\u00e4inen\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Maschine\" - Suomi: \"lentokone\"\nDeutsch: \"Ozean\" - Suomi: \"",
+        "target": "['valtameri', 'meriymp\u00e4rist\u00f6']",
+        "word original": "ocean"
+    },
+    "['H\u00f6hle']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Stra\u00dfe\" - Suomi: \"tie\"\nDeutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"Art\" - Suomi: \"luokka\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"",
+        "target": "['luola', 'luolasto']",
+        "word original": "cave"
+    },
+    "['Meer']": {
+        "prompt": "Deutsch: \"Osten\" - Suomi: \"it\u00e4\"\nDeutsch: \"Stadt\" - Suomi: \"kaupunki\"\nDeutsch: \"Freund\" - Suomi: \"yst\u00e4vyys\"\nDeutsch: \"Sonne\" - Suomi: \"t\u00e4hti\"\nDeutsch: \"Gesetz\" - Suomi: \"laki\"\nDeutsch: \"Meer\" - Suomi: \"",
+        "target": "['meri']",
+        "word original": "sea"
+    },
+    "['See']": {
+        "prompt": "Deutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Freund\" - Suomi: \"yst\u00e4vyys\"\nDeutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Wald\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"See\" - Suomi: \"",
+        "target": "['j\u00e4rvi']",
+        "word original": "lake"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Gem\u00e4lde\" - Suomi: \"kuva\"\nDeutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"rot\" - Suomi: \"punainen\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Quelle\" - Suomi: \"",
+        "target": "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde', 'kaivo', 'alku', 'alkuper\u00e4', 'juuristo', 'juuri', 'alkul\u00e4hde']",
+        "word original": "source"
+    },
+    "['Feuer', 'Flamme', 'Feuergarbe', 'Lohe', 'Feuerzunge', 'Brand']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Haushalt\" - Suomi: \"talous\"\nDeutsch: \"tausend\" - Suomi: \"tuhat\"\nDeutsch: \"Tal\" - Suomi: \"laakso\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Feuer\" - Suomi: \"",
+        "target": "['tuli', 'liekki', 'palo', 'tulipalo']",
+        "word original": "fire"
+    },
+    "['Punkt', 'Scorerpunkt', 'Spielergebnis', 'Spielstand', 'Stichwort']": {
+        "prompt": "Deutsch: \"Mond\" - Suomi: \"Kuu\"\nDeutsch: \"Kind\" - Suomi: \"alaik\u00e4inen\"\nDeutsch: \"Krawatte\" - Suomi: \"solmio\"\nDeutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"Ozean\" - Suomi: \"valtameri\"\nDeutsch: \"Punkt\" - Suomi: \"",
+        "target": "['piste', 'Piste', 'tehopiste', 'pistem\u00e4\u00e4r\u00e4', 'Tehopiste', 'kohta']",
+        "word original": "point"
+    },
+    "['Ball', 'Fu\u00dfball', 'Kugel', 'Geschoss', 'Flugk\u00f6rper', 'Projektil', 'Tanzball']": {
+        "prompt": "Deutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Sitz\" - Suomi: \"istuin\"\nDeutsch: \"Tuch\" - Suomi: \"tekstiili\"\nDeutsch: \"Farbe\" - Suomi: \"v\u00e4ri\"\nDeutsch: \"Punkt\" - Suomi: \"piste\"\nDeutsch: \"Ball\" - Suomi: \"",
+        "target": "['pallo', 'jalkapallo', 'ammus', 'luoti', 'kuula', 'tanssiaiset', 'Tanssiaiset']",
+        "word original": "ball"
+    },
+    "['Gem\u00e4lde', 'Abbild', 'Maler', 'Darstellung', 'Malerei']": {
+        "prompt": "Deutsch: \"Maschine\" - Suomi: \"lentokone\"\nDeutsch: \"Br\u00fccke\" - Suomi: \"silta\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Paar\" - Suomi: \"j\u00e4rjestetty pari\"\nDeutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"Gem\u00e4lde\" - Suomi: \"",
+        "target": "['kuva', 'maalaustaide', 'maalaus']",
+        "word original": "painting"
+    },
+    "['Reis']": {
+        "prompt": "Deutsch: \"Tuch\" - Suomi: \"tekstiili\"\nDeutsch: \"Person\" - Suomi: \"ihminen\"\nDeutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"Netz\" - Suomi: \"internet\"\nDeutsch: \"Reis\" - Suomi: \"",
+        "target": "['riisi', 'riisikasvi']",
+        "word original": "rice"
+    },
+    "['rot']": {
+        "prompt": "Deutsch: \"Standort\" - Suomi: \"sijainti\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Maschine\" - Suomi: \"lentokone\"\nDeutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Holz\" - Suomi: \"mets\u00e4\"\nDeutsch: \"rot\" - Suomi: \"",
+        "target": "['punainen', 'punaisuus']",
+        "word original": "red"
+    },
+    "['Linie', 'Gerade']": {
+        "prompt": "Deutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Sprache\" - Suomi: \"kieli\"\nDeutsch: \"Br\u00fccke\" - Suomi: \"silta\"\nDeutsch: \"Quadrat\" - Suomi: \"neli\u00f6\"\nDeutsch: \"sechs\" - Suomi: \"kuusi\"\nDeutsch: \"Linie\" - Suomi: \"",
+        "target": "['suora', 'muoto']",
+        "word original": "line"
+    },
+    "['Netz', 'Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Cyberspace', 'Gittergewebe', 'Gitter']": {
+        "prompt": "Deutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Sitz\" - Suomi: \"istuin\"\nDeutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Netz\" - Suomi: \"",
+        "target": "['internet', 'netti', 'Internet', 'kyberavaruus', 'verkko', 'seula']",
+        "word original": "net"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"Stadt\" - Suomi: \"kaupunki\"\nDeutsch: \"Paar\" - Suomi: \"j\u00e4rjestetty pari\"\nDeutsch: \"Farbe\" - Suomi: \"v\u00e4ri\"\nDeutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"Fu\u00df\" - Suomi: \"",
+        "target": "['jalkater\u00e4', 'jalka']",
+        "word original": "foot"
+    },
+    "['Gold', 'Bernsteinfarben']": {
+        "prompt": "Deutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"Netz\" - Suomi: \"internet\"\nDeutsch: \"Fluss\" - Suomi: \"joki\"\nDeutsch: \"f\u00fcnf\" - Suomi: \"viisi\"\nDeutsch: \"Haushalt\" - Suomi: \"talous\"\nDeutsch: \"Gold\" - Suomi: \"",
+        "target": "['kulta', 'Au', 'kullankeltainen', 'meripihkan v\u00e4rinen']",
+        "word original": "gold"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Tasche\" - Suomi: \"laukku\"\nDeutsch: \"Fluss\" - Suomi: \"joki\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"Gem\u00e4lde\" - Suomi: \"kuva\"\nDeutsch: \"Tal\" - Suomi: \"laakso\"\nDeutsch: \"T\u00fcr\" - Suomi: \"",
+        "target": "['ovi']",
+        "word original": "door"
+    },
+    "['Schnee', 'Schneedecke', 'Schneefall']": {
+        "prompt": "Deutsch: \"Punkt\" - Suomi: \"piste\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"Ozean\" - Suomi: \"valtameri\"\nDeutsch: \"Schnee\" - Suomi: \"",
+        "target": "['lumi', 'lumisade']",
+        "word original": "snow"
+    },
+    "['Pferd', 'Gaul', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"Tal\" - Suomi: \"laakso\"\nDeutsch: \"Rede\" - Suomi: \"puhe\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Gitter\" - Suomi: \"verkko\"\nDeutsch: \"Pferd\" - Suomi: \"",
+        "target": "['hevonen', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['eins', 'ein']": {
+        "prompt": "Deutsch: \"Schule\" - Suomi: \"yliopisto\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Gitter\" - Suomi: \"verkko\"\nDeutsch: \"Gesetz\" - Suomi: \"laki\"\nDeutsch: \"Linie\" - Suomi: \"suora\"\nDeutsch: \"eins\" - Suomi: \"",
+        "target": "['yksi', 'ykk\u00f6nen', 'I']",
+        "word original": "one"
+    },
+    "['zwei']": {
+        "prompt": "Deutsch: \"Gesetz\" - Suomi: \"laki\"\nDeutsch: \"Br\u00fccke\" - Suomi: \"silta\"\nDeutsch: \"Freund\" - Suomi: \"yst\u00e4vyys\"\nDeutsch: \"Versuch\" - Suomi: \"kokeilu\"\nDeutsch: \"tausend\" - Suomi: \"tuhat\"\nDeutsch: \"zwei\" - Suomi: \"",
+        "target": "['kakkonen', 'kaksi', 'II']",
+        "word original": "two"
+    },
+    "['f\u00fcnf']": {
+        "prompt": "Deutsch: \"Osten\" - Suomi: \"it\u00e4\"\nDeutsch: \"Talent\" - Suomi: \"kyky\"\nDeutsch: \"Feder\" - Suomi: \"h\u00f6yhenet\"\nDeutsch: \"Farbe\" - Suomi: \"v\u00e4ri\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"f\u00fcnf\" - Suomi: \"",
+        "target": "['viisi', 'V']",
+        "word original": "five"
+    },
+    "['sechs', 'Schwindler', 'halbes Dutzend']": {
+        "prompt": "Deutsch: \"S\u00fcden\" - Suomi: \"etel\u00e4\"\nDeutsch: \"Haushalt\" - Suomi: \"talous\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"sechs\" - Suomi: \"",
+        "target": "['kuusi', 'puoli tusinaa', 'sekstetti', 'kuusikko', 'Captain Hicks', 'VI', 'heksa', 'kuutonen']",
+        "word original": "six"
+    },
+    "['zehn']": {
+        "prompt": "Deutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"Farbe\" - Suomi: \"v\u00e4ri\"\nDeutsch: \"Krawatte\" - Suomi: \"solmio\"\nDeutsch: \"Sitz\" - Suomi: \"istuin\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"zehn\" - Suomi: \"",
+        "target": "['kymmenen', 'kymppi', 'dekadi', 'kyb\u00e4', 'X', 'kyp\u00e4']",
+        "word original": "ten"
+    },
+    "['Kopf', 'Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Haupt', 'Avers']": {
+        "prompt": "Deutsch: \"Krawatte\" - Suomi: \"solmio\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Netz\" - Suomi: \"internet\"\nDeutsch: \"Ozean\" - Suomi: \"valtameri\"\nDeutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Kopf\" - Suomi: \"",
+        "target": "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'nous', 'j\u00e4rki', '\u00e4lli', 'lanttu', 'kallo', 'klaava', 'k\u00e4\u00e4nt\u00f6puoli']",
+        "word original": "head"
+    },
+    "['Stra\u00dfe', 'Strasse', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"Hand\" - Suomi: \"k\u00e4si\"\nDeutsch: \"Linie\" - Suomi: \"suora\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Stra\u00dfe\" - Suomi: \"",
+        "target": "['tie', 'maantie', 'reitti', 'katu']",
+        "word original": "street"
+    },
+    "['Auge', 'Augapfel', 'Augen']": {
+        "prompt": "Deutsch: \"Tasche\" - Suomi: \"laukku\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Dorf\" - Suomi: \"kyl\u00e4\"\nDeutsch: \"Auge\" - Suomi: \"",
+        "target": "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']",
+        "word original": "eye"
+    },
+    "['Feld', 'Ebene', 'Acker', 'Anbaufl\u00e4che', 'Ackergrund', 'landwirtschaftliche Nutzfl\u00e4che', 'Ackerland', 'Weide', 'Esch', 'Flur', 'Weideland', 'Trade']": {
+        "prompt": "Deutsch: \"eins\" - Suomi: \"yksi\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Schule\" - Suomi: \"yliopisto\"\nDeutsch: \"Maschine\" - Suomi: \"lentokone\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Feld\" - Suomi: \"",
+        "target": "['tasanko', 'tasamaa', 'aukea', 'lakeus', 'pelto', 'vainio', 'laidun']",
+        "word original": "field"
+    },
+    "['Standort', 'geographische Lage', 'Platz', 'Ort', 'Lage', 'Habitat', 'nat\u00fcrlicher Lebensraum', 'Heimat', 'Stelle']": {
+        "prompt": "Deutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Schnee\" - Suomi: \"lumi\"\nDeutsch: \"Maschine\" - Suomi: \"lentokone\"\nDeutsch: \"tausend\" - Suomi: \"tuhat\"\nDeutsch: \"Ball\" - Suomi: \"pallo\"\nDeutsch: \"Standort\" - Suomi: \"",
+        "target": "['sijainti', 'paikka', 'kasvuymp\u00e4rist\u00f6', 'elinpaikka', 'elinymp\u00e4rist\u00f6', 'elinpiiri', 'kasvupaikka', 'pikkupaikka', 'seutu', 'kohta', 'topografinen sijainti']",
+        "word original": "site"
+    },
+    "['Wort']": {
+        "prompt": "Deutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"Mutter\" - Suomi: \"\u00e4iti\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Kopf\" - Suomi: \"Nous\"\nDeutsch: \"Wort\" - Suomi: \"",
+        "target": "['sana']",
+        "word original": "word"
+    },
+    "['Paar', 'geordnetes Paar']": {
+        "prompt": "Deutsch: \"Osten\" - Suomi: \"it\u00e4\"\nDeutsch: \"Dorf\" - Suomi: \"kyl\u00e4\"\nDeutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Netz\" - Suomi: \"internet\"\nDeutsch: \"Paar\" - Suomi: \"",
+        "target": "['j\u00e4rjestetty pari', 'pari']",
+        "word original": "pair"
+    },
+    "['Sitz', 'Sitzgelegenheit', 'Sitzplatz']": {
+        "prompt": "Deutsch: \"Talent\" - Suomi: \"kyky\"\nDeutsch: \"Gitter\" - Suomi: \"verkko\"\nDeutsch: \"Plattform\" - Suomi: \"laituri\"\nDeutsch: \"Tuch\" - Suomi: \"tekstiili\"\nDeutsch: \"Person\" - Suomi: \"ihminen\"\nDeutsch: \"Sitz\" - Suomi: \"",
+        "target": "['istuin', 'istumapaikka', 'paikka']",
+        "word original": "seat"
+    },
+    "['Licht', 'Lichtquelle']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"Art\" - Suomi: \"luokka\"\nDeutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"sechs\" - Suomi: \"kuusi\"\nDeutsch: \"Licht\" - Suomi: \"",
+        "target": "['valo', 'n\u00e4kyv\u00e4 valo', 'n\u00e4kyv\u00e4 s\u00e4teily']",
+        "word original": "light"
+    },
+    "['tausend']": {
+        "prompt": "Deutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Kopf\" - Suomi: \"Nous\"\nDeutsch: \"tausend\" - Suomi: \"",
+        "target": "['tuhat', 'K', 'G', 'M', 'jaardi', 'tuhat dollaria', 'yksi tuhat', 'tuhatluku']",
+        "word original": "thousand"
+    },
+    "['Norden']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - Suomi: \"ovi\"\nDeutsch: \"Tuch\" - Suomi: \"tekstiili\"\nDeutsch: \"Gitter\" - Suomi: \"verkko\"\nDeutsch: \"tausend\" - Suomi: \"tuhat\"\nDeutsch: \"Haar\" - Suomi: \"karvoitus\"\nDeutsch: \"Norden\" - Suomi: \"",
+        "target": "['pohjoinen', 'suoraan pohjoiseen', 'N']",
+        "word original": "north"
+    },
+    "['Maschine', 'Flugzeug', 'Flieger', 'Einrichtung', 'Einheit', 'Baustein', 'Instrument', 'Hilfsmittel', 'Vorrichtung', 'Apparat', 'Ger\u00e4t', 'Maschinenanlage', 'Maschinerie', 'Machinery', 'maschinelle Ausr\u00fcstung', 'mechanisches Ger\u00e4t']": {
+        "prompt": "Deutsch: \"Hand\" - Suomi: \"k\u00e4si\"\nDeutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"See\" - Suomi: \"j\u00e4rvi\"\nDeutsch: \"Haar\" - Suomi: \"karvoitus\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Maschine\" - Suomi: \"",
+        "target": "['lentokone', 'kone', 'laite', 'koneisto', 'koneet']",
+        "word original": "machine"
+    },
+    "['Zeit', 'Zeitform', 'Tempus']": {
+        "prompt": "Deutsch: \"Feder\" - Suomi: \"h\u00f6yhenet\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Person\" - Suomi: \"ihminen\"\nDeutsch: \"Buch\" - Suomi: \"kirja\"\nDeutsch: \"Punkt\" - Suomi: \"piste\"\nDeutsch: \"Zeit\" - Suomi: \"",
+        "target": "['aika', 'aikamuoto', 'tempus']",
+        "word original": "time"
+    },
+    "['B\u00f6rse', 'Geldtasche', 'Geldbeutel', 'Geldb\u00f6rse', 'Portemonnaie', 'Brieftasche', 'Portmonee']": {
+        "prompt": "Deutsch: \"Gruppe\" - Suomi: \"yhtye\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Rede\" - Suomi: \"puhe\"\nDeutsch: \"B\u00f6rse\" - Suomi: \"",
+        "target": "['lompakko', 'Lompakko', 'kirjetasku']",
+        "word original": "exchange"
+    },
+    "['Freund', 'Kameradschaft', 'Freundschaft', 'Freundin', 'Verwandte', 'Verwandter', 'Blutsfreundin', 'Blutsverwandter', 'Blutsverwandte', 'Familienangeh\u00f6riger', 'Familienangeh\u00f6rige', 'Angeh\u00f6riger', 'Angeh\u00f6rige', 'Blutsfreund']": {
+        "prompt": "Deutsch: \"Kind\" - Suomi: \"alaik\u00e4inen\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Fluss\" - Suomi: \"joki\"\nDeutsch: \"Meer\" - Suomi: \"meri\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Freund\" - Suomi: \"",
+        "target": "['yst\u00e4vyys', 'yst\u00e4vyyssuhde', 'yst\u00e4v\u00e4', 'poikayst\u00e4v\u00e4', 'kundikaveri', 'nuorikko', 'sulho', 'poikakaveri', 'sukulainen']",
+        "word original": "friend"
+    },
+    "['Farbe', 'Schwarz', 'Teint', 'Gesichtsfarbe', 'Lack', 'Anstrichmittel', 'Malfarbe']": {
+        "prompt": "Deutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"Tasche\" - Suomi: \"laukku\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Herz\" - Suomi: \"syd\u00e4n\"\nDeutsch: \"Osten\" - Suomi: \"it\u00e4\"\nDeutsch: \"Farbe\" - Suomi: \"",
+        "target": "['v\u00e4ri', 'musta', 'v\u00e4ritys', 'maali', 'pigmentti']",
+        "word original": "color"
+    },
+    "['Art', 'Sorte']": {
+        "prompt": "Deutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"S\u00fcden\" - Suomi: \"etel\u00e4\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Versuch\" - Suomi: \"kokeilu\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Art\" - Suomi: \"",
+        "target": "['luokka', 'moninaisuus', 'laji', 'laatu', 'tyyppi', '-lainen', 'monimuotoisuus', 'valikoima']",
+        "word original": "kind"
+    },
+    "['Richter']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Schule\" - Suomi: \"yliopisto\"\nDeutsch: \"S\u00fcden\" - Suomi: \"etel\u00e4\"\nDeutsch: \"Sitz\" - Suomi: \"istuin\"\nDeutsch: \"rot\" - Suomi: \"punainen\"\nDeutsch: \"Richter\" - Suomi: \"",
+        "target": "['tuomari', 'juristi', 'lakimies']",
+        "word original": "judge"
+    },
+    "['Schule', 'Uni', 'Universit\u00e4t', 'Akademie', 'Hirt', 'Herde', 'Hirte']": {
+        "prompt": "Deutsch: \"Freund\" - Suomi: \"yst\u00e4vyys\"\nDeutsch: \"T\u00fcr\" - Suomi: \"ovi\"\nDeutsch: \"Pferd\" - Suomi: \"hevonen\"\nDeutsch: \"Stern\" - Suomi: \"t\u00e4hti\"\nDeutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Schule\" - Suomi: \"",
+        "target": "['yliopisto', 'koulu', 'paimen', 'Lauma', 'lauma']",
+        "word original": "school"
+    },
+    "['Krawatte', 'Schlips']": {
+        "prompt": "Deutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Stamm\" - Suomi: \"puu\"\nDeutsch: \"Meer\" - Suomi: \"meri\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Paar\" - Suomi: \"j\u00e4rjestetty pari\"\nDeutsch: \"Krawatte\" - Suomi: \"",
+        "target": "['solmio', 'kravatti', 'Solmio']",
+        "word original": "tie"
+    },
+    "['Gesicht', 'Visage', 'Angesicht', 'Antlitz']": {
+        "prompt": "Deutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Quadrat\" - Suomi: \"neli\u00f6\"\nDeutsch: \"Versuch\" - Suomi: \"kokeilu\"\nDeutsch: \"Gesicht\" - Suomi: \"",
+        "target": "['naama', 'kasvot', 'p\u00e4rst\u00e4']",
+        "word original": "face"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Haar\" - Suomi: \"karvoitus\"\nDeutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"rot\" - Suomi: \"punainen\"\nDeutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"Br\u00fccke\" - Suomi: \"",
+        "target": "['silta']",
+        "word original": "bridge"
+    },
+    "['Gruppe', 'Ensemble', 'Bruchteil', 'funktionelle Gruppe', 'Band', 'Combo', 'Kapelle', 'Musikkapelle', 'Musikbande', 'Rockgruppe', 'Rock-Gruppe', 'Rockband', 'Klasse', 'Kategorie', 'Strau\u00df', 'Bund']": {
+        "prompt": "Deutsch: \"Herz\" - Suomi: \"syd\u00e4n\"\nDeutsch: \"Tal\" - Suomi: \"laakso\"\nDeutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"H\u00f6hle\" - Suomi: \"luola\"\nDeutsch: \"Norden\" - Suomi: \"pohjoinen\"\nDeutsch: \"Gruppe\" - Suomi: \"",
+        "target": "['yhtye', 'musiikkiorganisaatio', 'musiikkij\u00e4rjest\u00f6', 'musiikkiryhm\u00e4', 'funktionaalinen ryhm\u00e4', 'Funktionaalinen ryhm\u00e4', 'radikaali', 'kemiallinen ryhm\u00e4', 'ryhm\u00e4', 'b\u00e4ndi', 'soittokunta', 'orkesteri', 'rock-yhtye', 'rokkib\u00e4ndi', 'rockyhtye', 'ryhmittym\u00e4', 'joukko', 'Luokka', 'luokka', 'kategoria', 'nippu', 'kimppu', 'rykelm\u00e4', 'parvi']",
+        "word original": "group"
+    },
+    "['Talent', 'Fertigkeit', 'F\u00e4higkeit', 'Kunst', 'Kompetenz', 'Errungenschaft', 'Geschicklichkeit']": {
+        "prompt": "Deutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"Plattform\" - Suomi: \"laituri\"\nDeutsch: \"Osten\" - Suomi: \"it\u00e4\"\nDeutsch: \"Richter\" - Suomi: \"tuomari\"\nDeutsch: \"B\u00f6rse\" - Suomi: \"lompakko\"\nDeutsch: \"Talent\" - Suomi: \"",
+        "target": "['kyky', 'taito', 'saavutus', 'hankittu tieto', 'hankittu taito', 'hankinta']",
+        "word original": "talent"
+    },
+    "['Plattform', 'Perron', 'Bahnsteig']": {
+        "prompt": "Deutsch: \"Linie\" - Suomi: \"suora\"\nDeutsch: \"Tuch\" - Suomi: \"tekstiili\"\nDeutsch: \"Tag\" - Suomi: \"vuorokausi\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"rot\" - Suomi: \"punainen\"\nDeutsch: \"Plattform\" - Suomi: \"",
+        "target": "['laituri', 'asemalaituri', 'lava']",
+        "word original": "platform"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"Meer\" - Suomi: \"meri\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"Tuch\" - Suomi: \"tekstiili\"\nDeutsch: \"Licht\" - Suomi: \"valo\"\nDeutsch: \"Haus\" - Suomi: \"",
+        "target": "['talo', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4']",
+        "word original": "house"
+    },
+    "['Sonne', 'Stern', 'Fixstern']": {
+        "prompt": "Deutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Holz\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Sitz\" - Suomi: \"istuin\"\nDeutsch: \"Richter\" - Suomi: \"tuomari\"\nDeutsch: \"Sonne\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti', 'Aurinko', 'aurinko']",
+        "word original": "sun"
+    },
+    "['Geschichte', 'historische Entwicklung', 'Geschichtswissenschaft', 'Erz\u00e4hlung', 'Erz\u00e4hlperspektive', 'Erz\u00e4hlweise', 'literarisches Stilmittel', 'Plot', 'Stoff', 'Fabula und Sujet', 'Handlung', 'Fabula']": {
+        "prompt": "Deutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Herz\" - Suomi: \"syd\u00e4n\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Farbe\" - Suomi: \"v\u00e4ri\"\nDeutsch: \"Rede\" - Suomi: \"puhe\"\nDeutsch: \"Geschichte\" - Suomi: \"",
+        "target": "['historia', 'historiantutkimus', 'tarina', 'selostus', 'kertomus', 'kerronta', 'juttu', 'juoni']",
+        "word original": "history"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Stern\" - Suomi: \"t\u00e4hti\"\nDeutsch: \"Plattform\" - Suomi: \"laituri\"\nDeutsch: \"Reis\" - Suomi: \"riisi\"\nDeutsch: \"Talent\" - Suomi: \"kyky\"\nDeutsch: \"Tal\" - Suomi: \"",
+        "target": "['laakso']",
+        "word original": "valley"
+    },
+    "['Quadrat', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Hand\" - Suomi: \"k\u00e4si\"\nDeutsch: \"Linie\" - Suomi: \"suora\"\nDeutsch: \"eins\" - Suomi: \"yksi\"\nDeutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"Quadrat\" - Suomi: \"",
+        "target": "['neli\u00f6', 'nelikulmio', 'Neli\u00f6', 'toinen potenssi']",
+        "word original": "square"
+    },
+    "['S\u00fcden']": {
+        "prompt": "Deutsch: \"Haushalt\" - Suomi: \"talous\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Lied\" - Suomi: \"laulu\"\nDeutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"S\u00fcden\" - Suomi: \"",
+        "target": "['etel\u00e4', 'S', 'suoraan etel\u00e4\u00e4n']",
+        "word original": "south"
+    },
+    "['Stamm', 'Baum', 'Baumstamm']": {
+        "prompt": "Deutsch: \"Stadt\" - Suomi: \"kaupunki\"\nDeutsch: \"Sitz\" - Suomi: \"istuin\"\nDeutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"Maschine\" - Suomi: \"lentokone\"\nDeutsch: \"Quadrat\" - Suomi: \"neli\u00f6\"\nDeutsch: \"Stamm\" - Suomi: \"",
+        "target": "['puu', 'runko', 'puunrunko', 'puuvarsi']",
+        "word original": "tribe"
+    },
+    "['Stadt', 'Metropole', 'Gro\u00dfstadt', 'Weltstadt', 'Stadtsiedlung', 'Kleinstadt', 'Bourg']": {
+        "prompt": "Deutsch: \"Zeit\" - Suomi: \"aika\"\nDeutsch: \"B\u00fcro\" - Suomi: \"virka\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Boden\" - Suomi: \"maa\"\nDeutsch: \"Stadt\" - Suomi: \"",
+        "target": "['kaupunki', 'suurkaupunki', 'metropoli', 'kaupunkikeskus', 'pikkukaupunki']",
+        "word original": "city"
+    },
+    "['Sprache', 'Zunge', 'menschliche Sprache', 'Einzelsprache', 'Akzent', 'Idiom', 'Dialekt', 'Ausdrucksweise', 'Mundart']": {
+        "prompt": "Deutsch: \"Feuer\" - Suomi: \"tuli\"\nDeutsch: \"Schnee\" - Suomi: \"lumi\"\nDeutsch: \"Hand\" - Suomi: \"k\u00e4si\"\nDeutsch: \"Gold\" - Suomi: \"kulta\"\nDeutsch: \"Ball\" - Suomi: \"pallo\"\nDeutsch: \"Sprache\" - Suomi: \"",
+        "target": "['kieli', 'kielellinen kommunikaatio', 'murre', 'korostus', 'Korostus', 'aluemurre', 'kielimuunnos']",
+        "word original": "language"
+    },
+    "['Geschwindigkeit', 'Schnelligkeit', 'Geschwindigkeitsvektor']": {
+        "prompt": "Deutsch: \"Gem\u00e4lde\" - Suomi: \"kuva\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Gitter\" - Suomi: \"verkko\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"",
+        "target": "['nopeus', 'vauhti', 'vauhdikkuus']",
+        "word original": "speed"
+    },
+    "['Versuch', 'Experiment', 'Experimentieren']": {
+        "prompt": "Deutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Br\u00fccke\" - Suomi: \"silta\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"S\u00fcden\" - Suomi: \"etel\u00e4\"\nDeutsch: \"Versuch\" - Suomi: \"",
+        "target": "['kokeilu', 'koe', 'Koe', 'yritys', 'ponnistus', 'pyrkimys', 'vaivann\u00e4k\u00f6']",
+        "word original": "attempt"
+    },
+    "['Schwanz']": {
+        "prompt": "Deutsch: \"Licht\" - Suomi: \"valo\"\nDeutsch: \"Schule\" - Suomi: \"yliopisto\"\nDeutsch: \"Wald\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Welle\" - Suomi: \"aalto\"\nDeutsch: \"Schnee\" - Suomi: \"lumi\"\nDeutsch: \"Schwanz\" - Suomi: \"",
+        "target": "['pyrst\u00f6', 'h\u00e4nt\u00e4']",
+        "word original": "tail"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Standort\" - Suomi: \"sijainti\"\nDeutsch: \"Farbe\" - Suomi: \"v\u00e4ri\"\nDeutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Sommer\" - Suomi: \"kes\u00e4\"\nDeutsch: \"Mutter\" - Suomi: \"",
+        "target": "['\u00e4iti', '\u00e4itiys', 'naispuolinen vanhempi', 'mutteri', 'Mutteri']",
+        "word original": "mother"
+    },
+    "['Osten', 'Ost']": {
+        "prompt": "Deutsch: \"Quadrat\" - Suomi: \"neli\u00f6\"\nDeutsch: \"Talent\" - Suomi: \"kyky\"\nDeutsch: \"Turm\" - Suomi: \"torni\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Fluss\" - Suomi: \"joki\"\nDeutsch: \"Osten\" - Suomi: \"",
+        "target": "['it\u00e4', 'I']",
+        "word original": "east"
+    },
+    "['Rede', 'gesprochene Sprache', 'Sprechen', 'Gesprochene Sprache']": {
+        "prompt": "Deutsch: \"Geschichte\" - Suomi: \"historia\"\nDeutsch: \"Kopf\" - Suomi: \"Nous\"\nDeutsch: \"rot\" - Suomi: \"punainen\"\nDeutsch: \"Sonne\" - Suomi: \"t\u00e4hti\"\nDeutsch: \"Haushalt\" - Suomi: \"talous\"\nDeutsch: \"Rede\" - Suomi: \"",
+        "target": "['puhe', 'puhekieli', '\u00e4\u00e4niviestint\u00e4', 'puheviestint\u00e4', 'kieli', 'puhuttu kieli', 'puhuminen', 'suullinen viestint\u00e4']",
+        "word original": "speech"
+    },
+    "['Kind', 'Minderj\u00e4hrige', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling', 'Kindheit', 'Kinder']": {
+        "prompt": "Deutsch: \"f\u00fcnf\" - Suomi: \"viisi\"\nDeutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"eins\" - Suomi: \"yksi\"\nDeutsch: \"Paar\" - Suomi: \"j\u00e4rjestetty pari\"\nDeutsch: \"Wolke\" - Suomi: \"pilvi\"\nDeutsch: \"Kind\" - Suomi: \"",
+        "target": "['alaik\u00e4inen', 'lapsi', 'vekara', 'pikkumies', 'vinti\u00f6', 'napero', 'lapsukainen', 'kersa', 'pentu', 'tenava', 'ipana', 'muksu', 'pikkulapsi', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4', 'lapsuus']",
+        "word original": "child"
+    },
+    "['Turm']": {
+        "prompt": "Deutsch: \"Rede\" - Suomi: \"puhe\"\nDeutsch: \"Person\" - Suomi: \"ihminen\"\nDeutsch: \"Wasser\" - Suomi: \"vesi\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Turm\" - Suomi: \"",
+        "target": "['torni']",
+        "word original": "tower"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"Person\" - Suomi: \"ihminen\"\nDeutsch: \"Wort\" - Suomi: \"sana\"\nDeutsch: \"Geschwindigkeit\" - Suomi: \"nopeus\"\nDeutsch: \"Fu\u00df\" - Suomi: \"jalkater\u00e4\"\nDeutsch: \"Punkt\" - Suomi: \"piste\"\nDeutsch: \"Haar\" - Suomi: \"",
+        "target": "['karvoitus', 'karva', 'hius', 'jouhi', 'ihokarva']",
+        "word original": "hair"
+    },
+    "['Haushalt', 'Privathaushalt', 'Budget', '\u00f6ffentlicher Haushalt', 'Etat']": {
+        "prompt": "Deutsch: \"Licht\" - Suomi: \"valo\"\nDeutsch: \"zehn\" - Suomi: \"kymmenen\"\nDeutsch: \"Holz\" - Suomi: \"mets\u00e4\"\nDeutsch: \"Schule\" - Suomi: \"yliopisto\"\nDeutsch: \"Gitter\" - Suomi: \"verkko\"\nDeutsch: \"Haushalt\" - Suomi: \"",
+        "target": "['talous', 'kotitalous', 'suku', 'ruokakunta', 'perhekunta', 'perhe', 'kustannusarvio', 'budjetti', 'talousarvio']",
+        "word original": "household"
+    },
+    "['Person', 'Mensch', 'Hominid', 'Homo', 'Homo sapiens sapiens', 'Sterbliche', 'Jemand', 'Sterblicher', 'Individuum']": {
+        "prompt": "Deutsch: \"Quelle\" - Suomi: \"l\u00e4hde\"\nDeutsch: \"Kopf\" - Suomi: \"Nous\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Herz\" - Suomi: \"syd\u00e4n\"\nDeutsch: \"Schnee\" - Suomi: \"lumi\"\nDeutsch: \"Person\" - Suomi: \"",
+        "target": "['ihminen', 'ihmiset', 'Homo sapiens sapiens', 'henkil\u00f6', 'yksil\u00f6', 'luonnollinen henkil\u00f6', 'persoona']",
+        "word original": "person"
+    },
+    "['B\u00fcro', 'Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'Beh\u00f6rde', 'Kontor', 'B\u00fcrogeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Gem\u00e4lde\" - Suomi: \"kuva\"\nDeutsch: \"Linie\" - Suomi: \"suora\"\nDeutsch: \"Auge\" - Suomi: \"silm\u00e4muna\"\nDeutsch: \"Feld\" - Suomi: \"tasanko\"\nDeutsch: \"Feder\" - Suomi: \"h\u00f6yhenet\"\nDeutsch: \"B\u00fcro\" - Suomi: \"",
+        "target": "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'taloustoimisto']",
+        "word original": "office"
+    },
+    "['Sommer', 'Sommersaison', 'Sommerzeit']": {
+        "prompt": "Deutsch: \"Standort\" - Suomi: \"sijainti\"\nDeutsch: \"Gesicht\" - Suomi: \"naama\"\nDeutsch: \"Haus\" - Suomi: \"talo\"\nDeutsch: \"Schwanz\" - Suomi: \"pyrst\u00f6\"\nDeutsch: \"zehn\" - Suomi: \"kymmenen\"\nDeutsch: \"Sommer\" - Suomi: \"",
+        "target": "['kes\u00e4', 'kes\u00e4aika']",
+        "word original": "summer"
+    }
+}

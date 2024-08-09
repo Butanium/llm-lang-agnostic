@@ -1,0 +1,452 @@
+{
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Turm\" - Espa\u00f1ol: \"torre\"\nDeutsch: \"Zeit\" - Espa\u00f1ol: \"tiempo\"\nDeutsch: \"Gesicht\" - Espa\u00f1ol: \"rostro\"\nDeutsch: \"Farbe\" - Espa\u00f1ol: \"negra\"\nDeutsch: \"Sommer\" - Espa\u00f1ol: \"estaci\u00f3n veraniega\"\nDeutsch: \"Buch\" - Espa\u00f1ol: \"",
+        "target": "['libro', 'papel']",
+        "word original": "book"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Richter\" - Espa\u00f1ol: \"jueza\"\nDeutsch: \"Wort\" - Espa\u00f1ol: \"palabra\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Wolke\" - Espa\u00f1ol: \"",
+        "target": "['nube', 'nubes']",
+        "word original": "cloud"
+    },
+    "['Tasche', 'Sack', 'Beutel', 'T\u00fcte', 'Tragetasche', 'Plastikt\u00fcte', 'Papiersack', 'Traget\u00fcte', 'Hosentasche']": {
+        "prompt": "Deutsch: \"Licht\" - Espa\u00f1ol: \"fuente luminosa\"\nDeutsch: \"Stamm\" - Espa\u00f1ol: \"\u00e1rbol\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Kind\" - Espa\u00f1ol: \"papa frita\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"agua\"\nDeutsch: \"Tasche\" - Espa\u00f1ol: \"",
+        "target": "['bolso', 'bolsa', 'bolsa de papel', 'costal', 'saco', 'bolsa pl\u00e1stica de compra', 'bolsillo']",
+        "word original": "bag"
+    },
+    "['Boden', 'Land', 'Festland', 'Grund', 'Erdboden', 'Erde', 'L\u00e4nder', 'fester Boden', 'Fu\u00dfboden', 'Blumenerde']": {
+        "prompt": "Deutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"sechs\" - Espa\u00f1ol: \"seis\"\nDeutsch: \"B\u00f6rse\" - Espa\u00f1ol: \"cartera\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"tausend\" - Espa\u00f1ol: \"un mil\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"",
+        "target": "['tierra', 'territorio', 'terreno', 'tierra firme', 'suelo', 'piso', 'soler\u00eda', 'parte inferior']",
+        "word original": "ground"
+    },
+    "['Tuch', 'Gewebe', 'Textilien', 'Stoff', 'Textil', 'Textilie']": {
+        "prompt": "Deutsch: \"Richter\" - Espa\u00f1ol: \"jueza\"\nDeutsch: \"Freund\" - Espa\u00f1ol: \"camarader\u00eda\"\nDeutsch: \"Feld\" - Espa\u00f1ol: \"llanura\"\nDeutsch: \"Buch\" - Espa\u00f1ol: \"libro\"\nDeutsch: \"Sitz\" - Espa\u00f1ol: \"asiento\"\nDeutsch: \"Tuch\" - Espa\u00f1ol: \"",
+        "target": "['textil', 'tela', 'tejido', 'g\u00e9nero', 'pa\u00f1o', 'trapo', 'material']",
+        "word original": "cloth"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Sonne\" - Espa\u00f1ol: \"estrella\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"zehn\" - Espa\u00f1ol: \"diez\"\nDeutsch: \"Buch\" - Espa\u00f1ol: \"libro\"\nDeutsch: \"Herz\" - Espa\u00f1ol: \"",
+        "target": "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o']",
+        "word original": "heart"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"Feld\" - Espa\u00f1ol: \"llanura\"\nDeutsch: \"Licht\" - Espa\u00f1ol: \"fuente luminosa\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Fu\u00df\" - Espa\u00f1ol: \"pie\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"",
+        "target": "['mano', 'palma', 'zarpa', 'manus', 'pata']",
+        "word original": "hand"
+    },
+    "['Tag', 'Solartag', 'Sonnentag']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Espa\u00f1ol: \"velocidad\"\nDeutsch: \"Meer\" - Espa\u00f1ol: \"mar\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"Tuch\" - Espa\u00f1ol: \"textil\"\nDeutsch: \"Tag\" - Espa\u00f1ol: \"",
+        "target": "['d\u00eda', 'd\u00eda solar']",
+        "word original": "day"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Stra\u00dfe\" - Espa\u00f1ol: \"carretera\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Ozean\" - Espa\u00f1ol: \"oc\u00e9ano\"\nDeutsch: \"Wald\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Stern\" - Espa\u00f1ol: \"",
+        "target": "['estrella', 'astro']",
+        "word original": "star"
+    },
+    "['Feder', 'Strahlen', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder', 'Sprungfeder', 'F\u00fcller', 'Schreibstift']": {
+        "prompt": "Deutsch: \"Schule\" - Espa\u00f1ol: \"universidad\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Zeit\" - Espa\u00f1ol: \"tiempo\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Feder\" - Espa\u00f1ol: \"",
+        "target": "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'resorte', 'muelle', 'boli', 'bol\u00edgrafo']",
+        "word original": "spring"
+    },
+    "['Mond', 'Frau Luna', 'Luna', 'Erdmond']": {
+        "prompt": "Deutsch: \"Maschine\" - Espa\u00f1ol: \"avi\u00f3n\"\nDeutsch: \"Gold\" - Espa\u00f1ol: \"oro\"\nDeutsch: \"Norden\" - Espa\u00f1ol: \"norte\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Mond\" - Espa\u00f1ol: \"",
+        "target": "['Luna', 'luna']",
+        "word original": "moon"
+    },
+    "['Holz', 'Busch', 'Wald', 'Forst', 'W\u00e4lder', 'Splintholz']": {
+        "prompt": "Deutsch: \"Paar\" - Espa\u00f1ol: \"par\"\nDeutsch: \"Tasche\" - Espa\u00f1ol: \"bolso\"\nDeutsch: \"Richter\" - Espa\u00f1ol: \"jueza\"\nDeutsch: \"Wald\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Gesicht\" - Espa\u00f1ol: \"rostro\"\nDeutsch: \"Holz\" - Espa\u00f1ol: \"",
+        "target": "['bosque', 'W\u00e4lder', 'bosques', 'selva', 'floresta', 'albura', 's\u00e1mago', 'madera']",
+        "word original": "wood"
+    },
+    "['Dorf', 'Ortschaft', 'Weiler', 'D\u00f6rfchen']": {
+        "prompt": "Deutsch: \"Mutter\" - Espa\u00f1ol: \"madre\"\nDeutsch: \"Welle\" - Espa\u00f1ol: \"ola\"\nDeutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"zehn\" - Espa\u00f1ol: \"diez\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Dorf\" - Espa\u00f1ol: \"",
+        "target": "['caser\u00edo', 'pueblo', 'aldea', 'aldehuela']",
+        "word original": "village"
+    },
+    "['Wald', 'Busch', 'Forst', 'W\u00e4lder', 'Holz']": {
+        "prompt": "Deutsch: \"Stadt\" - Espa\u00f1ol: \"\u00e1rea metropolitana\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Paar\" - Espa\u00f1ol: \"par\"\nDeutsch: \"Tasche\" - Espa\u00f1ol: \"bolso\"\nDeutsch: \"Stern\" - Espa\u00f1ol: \"estrella\"\nDeutsch: \"Wald\" - Espa\u00f1ol: \"",
+        "target": "['bosque', 'W\u00e4lder', 'bosques', 'selva', 'floresta']",
+        "word original": "forest"
+    },
+    "['Gitter', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Gittergewebe']": {
+        "prompt": "Deutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Gold\" - Espa\u00f1ol: \"oro\"\nDeutsch: \"Quelle\" - Espa\u00f1ol: \"manantial\"\nDeutsch: \"Gitter\" - Espa\u00f1ol: \"",
+        "target": "['malla', 'red inform\u00e1tica', 'red de computadoras', 'red', 'red de ordenadores', 'rejilla']",
+        "word original": "grid"
+    },
+    "['Lied']": {
+        "prompt": "Deutsch: \"sechs\" - Espa\u00f1ol: \"seis\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Gruppe\" - Espa\u00f1ol: \"agrupaci\u00f3n musical\"\nDeutsch: \"Turm\" - Espa\u00f1ol: \"torre\"\nDeutsch: \"Mond\" - Espa\u00f1ol: \"Luna\"\nDeutsch: \"Lied\" - Espa\u00f1ol: \"",
+        "target": "['canci\u00f3n', 'vocal']",
+        "word original": "song"
+    },
+    "['Wasser', 'Gew\u00e4sser']": {
+        "prompt": "Deutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"See\" - Espa\u00f1ol: \"lago\"\nDeutsch: \"Art\" - Espa\u00f1ol: \"tipo\"\nDeutsch: \"Plattform\" - Espa\u00f1ol: \"plataforma\"\nDeutsch: \"Wald\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"",
+        "target": "['agua', 'cuerpo de agua', 'extensi\u00f3n de agua', 'masa de agua']",
+        "word original": "water"
+    },
+    "['Fluss', 'Flu\u00df', 'Hydrodynamik', 'Fluiddynamik']": {
+        "prompt": "Deutsch: \"Zeit\" - Espa\u00f1ol: \"tiempo\"\nDeutsch: \"T\u00fcr\" - Espa\u00f1ol: \"puerta\"\nDeutsch: \"Auge\" - Espa\u00f1ol: \"ojos\"\nDeutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Mutter\" - Espa\u00f1ol: \"madre\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"",
+        "target": "['r\u00edo', 'r\u00edos', 'flujo', 'din\u00e1mica de fluidos']",
+        "word original": "river"
+    },
+    "['Gesetz', 'Recht']": {
+        "prompt": "Deutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Feld\" - Espa\u00f1ol: \"llanura\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Stra\u00dfe\" - Espa\u00f1ol: \"carretera\"\nDeutsch: \"Gesetz\" - Espa\u00f1ol: \"",
+        "target": "['derecho', 'ley', 'Derecho', 'jurisprudencia']",
+        "word original": "law"
+    },
+    "['Welle', 'Meereswelle', 'Wasserwelle']": {
+        "prompt": "Deutsch: \"Ozean\" - Espa\u00f1ol: \"oc\u00e9ano\"\nDeutsch: \"Zeit\" - Espa\u00f1ol: \"tiempo\"\nDeutsch: \"See\" - Espa\u00f1ol: \"lago\"\nDeutsch: \"Freund\" - Espa\u00f1ol: \"camarader\u00eda\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Welle\" - Espa\u00f1ol: \"",
+        "target": "['ola', 'ola marina', 'onda']",
+        "word original": "wave"
+    },
+    "['Ozean', 'Meeresumwelt']": {
+        "prompt": "Deutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Gold\" - Espa\u00f1ol: \"oro\"\nDeutsch: \"Quelle\" - Espa\u00f1ol: \"manantial\"\nDeutsch: \"Herz\" - Espa\u00f1ol: \"coraz\u00f3n\"\nDeutsch: \"Ozean\" - Espa\u00f1ol: \"",
+        "target": "['oc\u00e9ano', 'ambiente marino', 'mar']",
+        "word original": "ocean"
+    },
+    "['H\u00f6hle']": {
+        "prompt": "Deutsch: \"rot\" - Espa\u00f1ol: \"rojo\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Gitter\" - Espa\u00f1ol: \"malla\"\nDeutsch: \"eins\" - Espa\u00f1ol: \"uno\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"H\u00f6hle\" - Espa\u00f1ol: \"",
+        "target": "['caverna', 'cueva', 'gruta']",
+        "word original": "cave"
+    },
+    "['Meer']": {
+        "prompt": "Deutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"Stern\" - Espa\u00f1ol: \"estrella\"\nDeutsch: \"T\u00fcr\" - Espa\u00f1ol: \"puerta\"\nDeutsch: \"Tuch\" - Espa\u00f1ol: \"textil\"\nDeutsch: \"Gesetz\" - Espa\u00f1ol: \"derecho\"\nDeutsch: \"Meer\" - Espa\u00f1ol: \"",
+        "target": "['mar', 'oc\u00e9ano mundial', 'oc\u00e9ano', 'mares']",
+        "word original": "sea"
+    },
+    "['See']": {
+        "prompt": "Deutsch: \"Wolke\" - Espa\u00f1ol: \"nube\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"eins\" - Espa\u00f1ol: \"uno\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Gruppe\" - Espa\u00f1ol: \"agrupaci\u00f3n musical\"\nDeutsch: \"See\" - Espa\u00f1ol: \"",
+        "target": "['lago', 'lagos', 'estanque']",
+        "word original": "lake"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"Netz\" - Espa\u00f1ol: \"red de computadoras\"\nDeutsch: \"Mond\" - Espa\u00f1ol: \"Luna\"\nDeutsch: \"Mutter\" - Espa\u00f1ol: \"madre\"\nDeutsch: \"Lied\" - Espa\u00f1ol: \"canci\u00f3n\"\nDeutsch: \"Stra\u00dfe\" - Espa\u00f1ol: \"carretera\"\nDeutsch: \"Quelle\" - Espa\u00f1ol: \"",
+        "target": "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n', 'pozo', 'aljibe', 'ra\u00edz', 'inicio', 'origen', 'venero', 'nacimiento', 'germen', 'principio']",
+        "word original": "source"
+    },
+    "['Feuer', 'Flamme', 'Feuergarbe', 'Lohe', 'Feuerzunge', 'Brand']": {
+        "prompt": "Deutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Wort\" - Espa\u00f1ol: \"palabra\"\nDeutsch: \"Maschine\" - Espa\u00f1ol: \"avi\u00f3n\"\nDeutsch: \"Feuer\" - Espa\u00f1ol: \"",
+        "target": "['fuego', 'llama', 'flama', 'lumbre', 'incendio']",
+        "word original": "fire"
+    },
+    "['Punkt', 'Scorerpunkt', 'Spielergebnis', 'Spielstand', 'Stichwort']": {
+        "prompt": "Deutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Freund\" - Espa\u00f1ol: \"camarader\u00eda\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"",
+        "target": "['punto', 'punto final', 'puntaje', 'puntuaci\u00f3n', 'point', 'tantos', '\u00edtem', 'entrada']",
+        "word original": "point"
+    },
+    "['Ball', 'Fu\u00dfball', 'Kugel', 'Geschoss', 'Flugk\u00f6rper', 'Projektil', 'Tanzball']": {
+        "prompt": "Deutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Wolke\" - Espa\u00f1ol: \"nube\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"agua\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"",
+        "target": "['pelota', 'bola', 'bal\u00f3n', 'pelota de f\u00fatbol', 'bal\u00f3n de f\u00fatbol', 'bala', 'proyectil', 'ojiva', 'baile']",
+        "word original": "ball"
+    },
+    "['Gem\u00e4lde', 'Abbild', 'Maler', 'Darstellung', 'Malerei']": {
+        "prompt": "Deutsch: \"Richter\" - Espa\u00f1ol: \"jueza\"\nDeutsch: \"Mond\" - Espa\u00f1ol: \"Luna\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"Paar\" - Espa\u00f1ol: \"par\"\nDeutsch: \"Holz\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Gem\u00e4lde\" - Espa\u00f1ol: \"",
+        "target": "['pintora', 'imagen', 'pintor', 'pintura', 'pintado', 'lienzo', 'cuadro']",
+        "word original": "painting"
+    },
+    "['Reis']": {
+        "prompt": "Deutsch: \"Sitz\" - Espa\u00f1ol: \"asiento\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Feuer\" - Espa\u00f1ol: \"fuego\"\nDeutsch: \"Dorf\" - Espa\u00f1ol: \"caser\u00edo\"\nDeutsch: \"Schule\" - Espa\u00f1ol: \"universidad\"\nDeutsch: \"Reis\" - Espa\u00f1ol: \"",
+        "target": "['arroz']",
+        "word original": "rice"
+    },
+    "['rot']": {
+        "prompt": "Deutsch: \"Feuer\" - Espa\u00f1ol: \"fuego\"\nDeutsch: \"Farbe\" - Espa\u00f1ol: \"negra\"\nDeutsch: \"Turm\" - Espa\u00f1ol: \"torre\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Plattform\" - Espa\u00f1ol: \"plataforma\"\nDeutsch: \"rot\" - Espa\u00f1ol: \"",
+        "target": "['rojo', 'roja', 'rojez']",
+        "word original": "red"
+    },
+    "['Linie', 'Gerade']": {
+        "prompt": "Deutsch: \"Standort\" - Espa\u00f1ol: \"escena\"\nDeutsch: \"See\" - Espa\u00f1ol: \"lago\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Lied\" - Espa\u00f1ol: \"canci\u00f3n\"\nDeutsch: \"Mutter\" - Espa\u00f1ol: \"madre\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"",
+        "target": "['recta', 'l\u00ednea']",
+        "word original": "line"
+    },
+    "['Netz', 'Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Cyberspace', 'Gittergewebe', 'Gitter']": {
+        "prompt": "Deutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"Schule\" - Espa\u00f1ol: \"universidad\"\nDeutsch: \"Gold\" - Espa\u00f1ol: \"oro\"\nDeutsch: \"Licht\" - Espa\u00f1ol: \"fuente luminosa\"\nDeutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"Netz\" - Espa\u00f1ol: \"",
+        "target": "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio', 'malla', 'rejilla']",
+        "word original": "net"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Quelle\" - Espa\u00f1ol: \"manantial\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"T\u00fcr\" - Espa\u00f1ol: \"puerta\"\nDeutsch: \"Fu\u00df\" - Espa\u00f1ol: \"",
+        "target": "['pie', 'pes', 'pata']",
+        "word original": "foot"
+    },
+    "['Gold', 'Bernsteinfarben']": {
+        "prompt": "Deutsch: \"Gruppe\" - Espa\u00f1ol: \"agrupaci\u00f3n musical\"\nDeutsch: \"Maschine\" - Espa\u00f1ol: \"avi\u00f3n\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Gesetz\" - Espa\u00f1ol: \"derecho\"\nDeutsch: \"Dorf\" - Espa\u00f1ol: \"caser\u00edo\"\nDeutsch: \"Gold\" - Espa\u00f1ol: \"",
+        "target": "['oro', '\u00e1mbar', 'dorado']",
+        "word original": "gold"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Herz\" - Espa\u00f1ol: \"coraz\u00f3n\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Freund\" - Espa\u00f1ol: \"camarader\u00eda\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"T\u00fcr\" - Espa\u00f1ol: \"",
+        "target": "['puerta', 'marco de puerta', 'seguro']",
+        "word original": "door"
+    },
+    "['Schnee', 'Schneedecke', 'Schneefall']": {
+        "prompt": "Deutsch: \"Licht\" - Espa\u00f1ol: \"fuente luminosa\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Quadrat\" - Espa\u00f1ol: \"cuadrado\"\nDeutsch: \"Feder\" - Espa\u00f1ol: \"pluma\"\nDeutsch: \"Zeit\" - Espa\u00f1ol: \"tiempo\"\nDeutsch: \"Schnee\" - Espa\u00f1ol: \"",
+        "target": "['nevada', 'capa de nieve', 'nieve', 'nevar']",
+        "word original": "snow"
+    },
+    "['Pferd', 'Gaul', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Haus\" - Espa\u00f1ol: \"casa\"\nDeutsch: \"Farbe\" - Espa\u00f1ol: \"negra\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Pferd\" - Espa\u00f1ol: \"",
+        "target": "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']",
+        "word original": "horse"
+    },
+    "['eins', 'ein']": {
+        "prompt": "Deutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Lied\" - Espa\u00f1ol: \"canci\u00f3n\"\nDeutsch: \"Gesetz\" - Espa\u00f1ol: \"derecho\"\nDeutsch: \"Sommer\" - Espa\u00f1ol: \"estaci\u00f3n veraniega\"\nDeutsch: \"Feder\" - Espa\u00f1ol: \"pluma\"\nDeutsch: \"eins\" - Espa\u00f1ol: \"",
+        "target": "['uno', 'es', 'dos']",
+        "word original": "one"
+    },
+    "['zwei']": {
+        "prompt": "Deutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Stamm\" - Espa\u00f1ol: \"\u00e1rbol\"\nDeutsch: \"Gesicht\" - Espa\u00f1ol: \"rostro\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"",
+        "target": "['dos']",
+        "word original": "two"
+    },
+    "['f\u00fcnf']": {
+        "prompt": "Deutsch: \"Dorf\" - Espa\u00f1ol: \"caser\u00edo\"\nDeutsch: \"H\u00f6hle\" - Espa\u00f1ol: \"caverna\"\nDeutsch: \"Sprache\" - Espa\u00f1ol: \"lengua\"\nDeutsch: \"Stra\u00dfe\" - Espa\u00f1ol: \"carretera\"\nDeutsch: \"Stern\" - Espa\u00f1ol: \"estrella\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"",
+        "target": "['cinco', 'quint', 'cinque']",
+        "word original": "five"
+    },
+    "['sechs', 'Schwindler', 'halbes Dutzend']": {
+        "prompt": "Deutsch: \"Tuch\" - Espa\u00f1ol: \"textil\"\nDeutsch: \"Sitz\" - Espa\u00f1ol: \"asiento\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Auge\" - Espa\u00f1ol: \"ojos\"\nDeutsch: \"Paar\" - Espa\u00f1ol: \"par\"\nDeutsch: \"sechs\" - Espa\u00f1ol: \"",
+        "target": "['seis', 'Sexteto de m\u00fasica', 'sixer', 'sexteto', 'sise', 'hexad', 'sestet']",
+        "word original": "six"
+    },
+    "['zehn']": {
+        "prompt": "Deutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"Gitter\" - Espa\u00f1ol: \"malla\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Wolke\" - Espa\u00f1ol: \"nube\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"zehn\" - Espa\u00f1ol: \"",
+        "target": "['diez', 'decena', 'd\u00e9cada']",
+        "word original": "ten"
+    },
+    "['Kopf', 'Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Haupt', 'Avers']": {
+        "prompt": "Deutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Maschine\" - Espa\u00f1ol: \"avi\u00f3n\"\nDeutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Wolke\" - Espa\u00f1ol: \"nube\"\nDeutsch: \"Kopf\" - Espa\u00f1ol: \"",
+        "target": "['mente', 'psique', 'Mente', 'Nous', 'nous', 'cabeza', 'cerebro', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta', 'reverso', 'anverso', 'dorso', 'rev\u00e9s']",
+        "word original": "head"
+    },
+    "['Stra\u00dfe', 'Strasse', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Quadrat\" - Espa\u00f1ol: \"cuadrado\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"Gesicht\" - Espa\u00f1ol: \"rostro\"\nDeutsch: \"Maschine\" - Espa\u00f1ol: \"avi\u00f3n\"\nDeutsch: \"Fu\u00df\" - Espa\u00f1ol: \"pie\"\nDeutsch: \"Stra\u00dfe\" - Espa\u00f1ol: \"",
+        "target": "['carretera', 'calle', 'camino', 'itinerario', 'ruta', 'rua']",
+        "word original": "street"
+    },
+    "['Auge', 'Augapfel', 'Augen']": {
+        "prompt": "Deutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Richter\" - Espa\u00f1ol: \"jueza\"\nDeutsch: \"Tasche\" - Espa\u00f1ol: \"bolso\"\nDeutsch: \"See\" - Espa\u00f1ol: \"lago\"\nDeutsch: \"Plattform\" - Espa\u00f1ol: \"plataforma\"\nDeutsch: \"Auge\" - Espa\u00f1ol: \"",
+        "target": "['ojos', 'ojo', 'globo ocular', 'oculus']",
+        "word original": "eye"
+    },
+    "['Feld', 'Ebene', 'Acker', 'Anbaufl\u00e4che', 'Ackergrund', 'landwirtschaftliche Nutzfl\u00e4che', 'Ackerland', 'Weide', 'Esch', 'Flur', 'Weideland', 'Trade']": {
+        "prompt": "Deutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Meer\" - Espa\u00f1ol: \"mar\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Feld\" - Espa\u00f1ol: \"",
+        "target": "['llanura', 'planicie', 'llano', 'campo', 'campa\u00f1a', 'llanuras', 'planada', 'plana', 'labrant\u00edo', 'sembrad\u00edo', 'terreno']",
+        "word original": "field"
+    },
+    "['Standort', 'geographische Lage', 'Platz', 'Ort', 'Lage', 'Habitat', 'nat\u00fcrlicher Lebensraum', 'Heimat', 'Stelle']": {
+        "prompt": "Deutsch: \"Plattform\" - Espa\u00f1ol: \"plataforma\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Sitz\" - Espa\u00f1ol: \"asiento\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Buch\" - Espa\u00f1ol: \"libro\"\nDeutsch: \"Standort\" - Espa\u00f1ol: \"",
+        "target": "['escena', 'vecindad', 'escenario', 'h\u00e1bitat', 'suburbio', '\u00e1rea', 'lugar', 'territorio', 'ambiente', 'ubicaci\u00f3n', 'posici\u00f3n', 'localizaci\u00f3n geogr\u00e1fica', 'microh\u00e1bitat', 'microambiente', 'habitaci\u00f3n', 'habitat', 'sitio', 'paraje', 'zona', 'punto']",
+        "word original": "site"
+    },
+    "['Wort']": {
+        "prompt": "Deutsch: \"tausend\" - Espa\u00f1ol: \"un mil\"\nDeutsch: \"Dorf\" - Espa\u00f1ol: \"caser\u00edo\"\nDeutsch: \"H\u00f6hle\" - Espa\u00f1ol: \"caverna\"\nDeutsch: \"Quadrat\" - Espa\u00f1ol: \"cuadrado\"\nDeutsch: \"Sonne\" - Espa\u00f1ol: \"estrella\"\nDeutsch: \"Wort\" - Espa\u00f1ol: \"",
+        "target": "['palabra', 'vocablo']",
+        "word original": "word"
+    },
+    "['Paar', 'geordnetes Paar']": {
+        "prompt": "Deutsch: \"Tag\" - Espa\u00f1ol: \"d\u00eda\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"Kind\" - Espa\u00f1ol: \"papa frita\"\nDeutsch: \"Herz\" - Espa\u00f1ol: \"coraz\u00f3n\"\nDeutsch: \"T\u00fcr\" - Espa\u00f1ol: \"puerta\"\nDeutsch: \"Paar\" - Espa\u00f1ol: \"",
+        "target": "['par', 'par ordenado']",
+        "word original": "pair"
+    },
+    "['Sitz', 'Sitzgelegenheit', 'Sitzplatz']": {
+        "prompt": "Deutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"sechs\" - Espa\u00f1ol: \"seis\"\nDeutsch: \"Mond\" - Espa\u00f1ol: \"Luna\"\nDeutsch: \"Schwanz\" - Espa\u00f1ol: \"cola\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Sitz\" - Espa\u00f1ol: \"",
+        "target": "['asiento', 'esca\u00f1o', 'seato']",
+        "word original": "seat"
+    },
+    "['Licht', 'Lichtquelle']": {
+        "prompt": "Deutsch: \"Lied\" - Espa\u00f1ol: \"canci\u00f3n\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"Welle\" - Espa\u00f1ol: \"ola\"\nDeutsch: \"Paar\" - Espa\u00f1ol: \"par\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Licht\" - Espa\u00f1ol: \"",
+        "target": "['fuente luminosa', 'luz', 'luz visible', 'radiaci\u00f3n visible']",
+        "word original": "light"
+    },
+    "['tausend']": {
+        "prompt": "Deutsch: \"Dorf\" - Espa\u00f1ol: \"caser\u00edo\"\nDeutsch: \"Licht\" - Espa\u00f1ol: \"fuente luminosa\"\nDeutsch: \"Tal\" - Espa\u00f1ol: \"dolina\"\nDeutsch: \"Sonne\" - Espa\u00f1ol: \"estrella\"\nDeutsch: \"Holz\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"tausend\" - Espa\u00f1ol: \"",
+        "target": "['un mil', 'mil', 'chiliad', 'millar']",
+        "word original": "thousand"
+    },
+    "['Norden']": {
+        "prompt": "Deutsch: \"Quelle\" - Espa\u00f1ol: \"manantial\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"Tag\" - Espa\u00f1ol: \"d\u00eda\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Wolke\" - Espa\u00f1ol: \"nube\"\nDeutsch: \"Norden\" - Espa\u00f1ol: \"",
+        "target": "['norte']",
+        "word original": "north"
+    },
+    "['Maschine', 'Flugzeug', 'Flieger', 'Einrichtung', 'Einheit', 'Baustein', 'Instrument', 'Hilfsmittel', 'Vorrichtung', 'Apparat', 'Ger\u00e4t', 'Maschinenanlage', 'Maschinerie', 'Machinery', 'maschinelle Ausr\u00fcstung', 'mechanisches Ger\u00e4t']": {
+        "prompt": "Deutsch: \"Gesetz\" - Espa\u00f1ol: \"derecho\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"Gesicht\" - Espa\u00f1ol: \"rostro\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Maschine\" - Espa\u00f1ol: \"",
+        "target": "['avi\u00f3n', 'aeroplano', 'Avi\u00f3n', 'aeronave', 'm\u00e1quina', 'aparato', 'dispositivo', 'mecanismo', 'aparejo', 'maquinaria', 'Machinery', 'm\u00e1quinas']",
+        "word original": "machine"
+    },
+    "['Zeit', 'Zeitform', 'Tempus']": {
+        "prompt": "Deutsch: \"Stadt\" - Espa\u00f1ol: \"\u00e1rea metropolitana\"\nDeutsch: \"Tag\" - Espa\u00f1ol: \"d\u00eda\"\nDeutsch: \"Tal\" - Espa\u00f1ol: \"dolina\"\nDeutsch: \"Standort\" - Espa\u00f1ol: \"escena\"\nDeutsch: \"Lied\" - Espa\u00f1ol: \"canci\u00f3n\"\nDeutsch: \"Zeit\" - Espa\u00f1ol: \"",
+        "target": "['tiempo', 'tiempo gramatical']",
+        "word original": "time"
+    },
+    "['B\u00f6rse', 'Geldtasche', 'Geldbeutel', 'Geldb\u00f6rse', 'Portemonnaie', 'Brieftasche', 'Portmonee']": {
+        "prompt": "Deutsch: \"Feder\" - Espa\u00f1ol: \"pluma\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"Sommer\" - Espa\u00f1ol: \"estaci\u00f3n veraniega\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Sitz\" - Espa\u00f1ol: \"asiento\"\nDeutsch: \"B\u00f6rse\" - Espa\u00f1ol: \"",
+        "target": "['cartera', 'billetera', 'billetero']",
+        "word original": "exchange"
+    },
+    "['Freund', 'Kameradschaft', 'Freundschaft', 'Freundin', 'Verwandte', 'Verwandter', 'Blutsfreundin', 'Blutsverwandter', 'Blutsverwandte', 'Familienangeh\u00f6riger', 'Familienangeh\u00f6rige', 'Angeh\u00f6riger', 'Angeh\u00f6rige', 'Blutsfreund']": {
+        "prompt": "Deutsch: \"Tag\" - Espa\u00f1ol: \"d\u00eda\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Freund\" - Espa\u00f1ol: \"",
+        "target": "['camarader\u00eda', 'amistad', 'relaci\u00f3n amistosa', 'amigo', 'amiga', 'camarada', 'novio', 'compa\u00f1ero', 'pareja', 'prometido', 'pareja sentimental', 'enamorado', 'pololo', 'pariente', 'familiar', 'deudo', 'parienta', 'parentela']",
+        "word original": "friend"
+    },
+    "['Farbe', 'Schwarz', 'Teint', 'Gesichtsfarbe', 'Lack', 'Anstrichmittel', 'Malfarbe']": {
+        "prompt": "Deutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"tausend\" - Espa\u00f1ol: \"un mil\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"Farbe\" - Espa\u00f1ol: \"",
+        "target": "['negra', 'color', 'tez', 'negro', 'coloraci\u00f3n', 'colorido', 'pintura', 'pigmento']",
+        "word original": "color"
+    },
+    "['Art', 'Sorte']": {
+        "prompt": "Deutsch: \"Norden\" - Espa\u00f1ol: \"norte\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"rot\" - Espa\u00f1ol: \"rojo\"\nDeutsch: \"Haus\" - Espa\u00f1ol: \"casa\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"Art\" - Espa\u00f1ol: \"",
+        "target": "['tipo', 'clase', 'forma', 'g\u00e9nero', 'especie']",
+        "word original": "kind"
+    },
+    "['Richter']": {
+        "prompt": "Deutsch: \"Auge\" - Espa\u00f1ol: \"ojos\"\nDeutsch: \"Farbe\" - Espa\u00f1ol: \"negra\"\nDeutsch: \"Gem\u00e4lde\" - Espa\u00f1ol: \"pintora\"\nDeutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Freund\" - Espa\u00f1ol: \"camarader\u00eda\"\nDeutsch: \"Richter\" - Espa\u00f1ol: \"",
+        "target": "['jueza', 'juez', 'magistrado', 'togado', '\u00e1rbitro']",
+        "word original": "judge"
+    },
+    "['Schule', 'Uni', 'Universit\u00e4t', 'Akademie', 'Hirt', 'Herde', 'Hirte']": {
+        "prompt": "Deutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Welle\" - Espa\u00f1ol: \"ola\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Schule\" - Espa\u00f1ol: \"",
+        "target": "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'reba\u00f1o', 'reba\u00f1ador', 'manada', 'pastor', 'piara']",
+        "word original": "school"
+    },
+    "['Krawatte', 'Schlips']": {
+        "prompt": "Deutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"Ozean\" - Espa\u00f1ol: \"oc\u00e9ano\"\nDeutsch: \"Quadrat\" - Espa\u00f1ol: \"cuadrado\"\nDeutsch: \"Buch\" - Espa\u00f1ol: \"libro\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"",
+        "target": "['corbata']",
+        "word original": "tie"
+    },
+    "['Gesicht', 'Visage', 'Angesicht', 'Antlitz']": {
+        "prompt": "Deutsch: \"Farbe\" - Espa\u00f1ol: \"negra\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"Tag\" - Espa\u00f1ol: \"d\u00eda\"\nDeutsch: \"T\u00fcr\" - Espa\u00f1ol: \"puerta\"\nDeutsch: \"Sprache\" - Espa\u00f1ol: \"lengua\"\nDeutsch: \"Gesicht\" - Espa\u00f1ol: \"",
+        "target": "['rostro', 'cara', 'jeta', 'faz', 'rostro humano']",
+        "word original": "face"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Meer\" - Espa\u00f1ol: \"mar\"\nDeutsch: \"Richter\" - Espa\u00f1ol: \"jueza\"\nDeutsch: \"Art\" - Espa\u00f1ol: \"tipo\"\nDeutsch: \"Feuer\" - Espa\u00f1ol: \"fuego\"\nDeutsch: \"Wald\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"",
+        "target": "['puente', 'b\u00f3veda']",
+        "word original": "bridge"
+    },
+    "['Gruppe', 'Ensemble', 'Bruchteil', 'funktionelle Gruppe', 'Band', 'Combo', 'Kapelle', 'Musikkapelle', 'Musikbande', 'Rockgruppe', 'Rock-Gruppe', 'Rockband', 'Klasse', 'Kategorie', 'Strau\u00df', 'Bund']": {
+        "prompt": "Deutsch: \"Kind\" - Espa\u00f1ol: \"papa frita\"\nDeutsch: \"Geschwindigkeit\" - Espa\u00f1ol: \"velocidad\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Tuch\" - Espa\u00f1ol: \"textil\"\nDeutsch: \"Haar\" - Espa\u00f1ol: \"cabello\"\nDeutsch: \"Gruppe\" - Espa\u00f1ol: \"",
+        "target": "['agrupaci\u00f3n musical', 'grupo musical', 'grupo funcional', 'familia', 'grupo', 'radical', 'grupo qu\u00edmico', 'banda', 'equipo', 'conjunto', 'grupo de rock', 'banda de rock', 'agrupaci\u00f3n', 'colectivo', 'clase', 'categor\u00eda', 'manojo', 'ramo', 'bonchote', 'pu\u00f1ado', 'racimo', 'c\u00famulo', 'amontonamiento', 'cl\u00faster']",
+        "word original": "group"
+    },
+    "['Talent', 'Fertigkeit', 'F\u00e4higkeit', 'Kunst', 'Kompetenz', 'Errungenschaft', 'Geschicklichkeit']": {
+        "prompt": "Deutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"Maschine\" - Espa\u00f1ol: \"avi\u00f3n\"\nDeutsch: \"Farbe\" - Espa\u00f1ol: \"negra\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Standort\" - Espa\u00f1ol: \"escena\"\nDeutsch: \"Talent\" - Espa\u00f1ol: \"",
+        "target": "['aptitud', 'habilidad', 'destreza', 'ma\u00f1a', 'talento', 'arte', 't\u00e9cnica']",
+        "word original": "talent"
+    },
+    "['Plattform', 'Perron', 'Bahnsteig']": {
+        "prompt": "Deutsch: \"Haar\" - Espa\u00f1ol: \"cabello\"\nDeutsch: \"Tag\" - Espa\u00f1ol: \"d\u00eda\"\nDeutsch: \"Gesetz\" - Espa\u00f1ol: \"derecho\"\nDeutsch: \"Dorf\" - Espa\u00f1ol: \"caser\u00edo\"\nDeutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Plattform\" - Espa\u00f1ol: \"",
+        "target": "['plataforma', 'tribuna', 'estrado', 'and\u00e9n', 'tarima', 'entarimado']",
+        "word original": "platform"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"Tal\" - Espa\u00f1ol: \"dolina\"\nDeutsch: \"Boden\" - Espa\u00f1ol: \"tierra\"\nDeutsch: \"tausend\" - Espa\u00f1ol: \"un mil\"\nDeutsch: \"Schwanz\" - Espa\u00f1ol: \"cola\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Haus\" - Espa\u00f1ol: \"",
+        "target": "['casa', 'hogar', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso']",
+        "word original": "house"
+    },
+    "['Sonne', 'Stern', 'Fixstern']": {
+        "prompt": "Deutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Welle\" - Espa\u00f1ol: \"ola\"\nDeutsch: \"Gitter\" - Espa\u00f1ol: \"malla\"\nDeutsch: \"Wort\" - Espa\u00f1ol: \"palabra\"\nDeutsch: \"Sonne\" - Espa\u00f1ol: \"",
+        "target": "['estrella', 'astro', 'Sol', 'sol']",
+        "word original": "sun"
+    },
+    "['Geschichte', 'historische Entwicklung', 'Geschichtswissenschaft', 'Erz\u00e4hlung', 'Erz\u00e4hlperspektive', 'Erz\u00e4hlweise', 'literarisches Stilmittel', 'Plot', 'Stoff', 'Fabula und Sujet', 'Handlung', 'Fabula']": {
+        "prompt": "Deutsch: \"Mutter\" - Espa\u00f1ol: \"madre\"\nDeutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"Herz\" - Espa\u00f1ol: \"coraz\u00f3n\"\nDeutsch: \"Haar\" - Espa\u00f1ol: \"cabello\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"",
+        "target": "['historia', 'relato', 'narraci\u00f3n', 't\u00e9cnica literaria', 'cr\u00f3nica', 't\u00e9cnica narrativa', 'punto de vista narrativo', 'cuento', 'narrativa', 'argumento', 'trama', 'fabula', 'tema literario', 'asunto']",
+        "word original": "history"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Holz\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Quelle\" - Espa\u00f1ol: \"manantial\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"agua\"\nDeutsch: \"Wald\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"Tal\" - Espa\u00f1ol: \"",
+        "target": "['dolina', 'valle', 'val']",
+        "word original": "valley"
+    },
+    "['Quadrat', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Wald\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Feld\" - Espa\u00f1ol: \"llanura\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"Quadrat\" - Espa\u00f1ol: \"",
+        "target": "['cuadrado', 'cuadro', 'cuadrado perfecto']",
+        "word original": "square"
+    },
+    "['S\u00fcden']": {
+        "prompt": "Deutsch: \"Lied\" - Espa\u00f1ol: \"canci\u00f3n\"\nDeutsch: \"Quelle\" - Espa\u00f1ol: \"manantial\"\nDeutsch: \"Feld\" - Espa\u00f1ol: \"llanura\"\nDeutsch: \"f\u00fcnf\" - Espa\u00f1ol: \"cinco\"\nDeutsch: \"H\u00f6hle\" - Espa\u00f1ol: \"caverna\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"",
+        "target": "['sur', 'sud']",
+        "word original": "south"
+    },
+    "['Stamm', 'Baum', 'Baumstamm']": {
+        "prompt": "Deutsch: \"Schnee\" - Espa\u00f1ol: \"nevada\"\nDeutsch: \"Wort\" - Espa\u00f1ol: \"palabra\"\nDeutsch: \"Feld\" - Espa\u00f1ol: \"llanura\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"autoridad\"\nDeutsch: \"Gruppe\" - Espa\u00f1ol: \"agrupaci\u00f3n musical\"\nDeutsch: \"Stamm\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1rbol', 'arbol', 'tronco']",
+        "word original": "tribe"
+    },
+    "['Stadt', 'Metropole', 'Gro\u00dfstadt', 'Weltstadt', 'Stadtsiedlung', 'Kleinstadt', 'Bourg']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Espa\u00f1ol: \"velocidad\"\nDeutsch: \"Fluss\" - Espa\u00f1ol: \"r\u00edo\"\nDeutsch: \"Fu\u00df\" - Espa\u00f1ol: \"pie\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"agua\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Stadt\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1rea metropolitana', 'zona metropolitana', 'ciudad', 'aglomeraci\u00f3n urbana', 'metr\u00f3polis', 'metr\u00f3poli', 'ciudad/pueblo', 'urbe', 'capital', 'villa', 'pueblo', 'poblaci\u00f3n']",
+        "word original": "city"
+    },
+    "['Sprache', 'Zunge', 'menschliche Sprache', 'Einzelsprache', 'Akzent', 'Idiom', 'Dialekt', 'Ausdrucksweise', 'Mundart']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - Espa\u00f1ol: \"caverna\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Auge\" - Espa\u00f1ol: \"ojos\"\nDeutsch: \"Stra\u00dfe\" - Espa\u00f1ol: \"carretera\"\nDeutsch: \"Fu\u00df\" - Espa\u00f1ol: \"pie\"\nDeutsch: \"Sprache\" - Espa\u00f1ol: \"",
+        "target": "['lengua', 'idioma', 'lenguaje', 'comunicaci\u00f3n ling\u00fc\u00edstica', 'dialecto', 'acento']",
+        "word original": "language"
+    },
+    "['Geschwindigkeit', 'Schnelligkeit', 'Geschwindigkeitsvektor']": {
+        "prompt": "Deutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Hand\" - Espa\u00f1ol: \"mano\"\nDeutsch: \"Punkt\" - Espa\u00f1ol: \"punto\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Tal\" - Espa\u00f1ol: \"dolina\"\nDeutsch: \"Geschwindigkeit\" - Espa\u00f1ol: \"",
+        "target": "['velocidad', 'rapidez', 'celeridad']",
+        "word original": "speed"
+    },
+    "['Versuch', 'Experiment', 'Experimentieren']": {
+        "prompt": "Deutsch: \"Meer\" - Espa\u00f1ol: \"mar\"\nDeutsch: \"Haus\" - Espa\u00f1ol: \"casa\"\nDeutsch: \"Sprache\" - Espa\u00f1ol: \"lengua\"\nDeutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Schwanz\" - Espa\u00f1ol: \"cola\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"",
+        "target": "['experimentaci\u00f3n', 'experimento', 'intento', 'esfuerzo', 'tentativa', 'conato', 'deber']",
+        "word original": "attempt"
+    },
+    "['Schwanz']": {
+        "prompt": "Deutsch: \"Art\" - Espa\u00f1ol: \"tipo\"\nDeutsch: \"Quadrat\" - Espa\u00f1ol: \"cuadrado\"\nDeutsch: \"Wolke\" - Espa\u00f1ol: \"nube\"\nDeutsch: \"Gem\u00e4lde\" - Espa\u00f1ol: \"pintora\"\nDeutsch: \"B\u00f6rse\" - Espa\u00f1ol: \"cartera\"\nDeutsch: \"Schwanz\" - Espa\u00f1ol: \"",
+        "target": "['cola']",
+        "word original": "tail"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Rede\" - Espa\u00f1ol: \"lengua hablada\"\nDeutsch: \"Plattform\" - Espa\u00f1ol: \"plataforma\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"agua\"\nDeutsch: \"Person\" - Espa\u00f1ol: \"ser humano\"\nDeutsch: \"Auge\" - Espa\u00f1ol: \"ojos\"\nDeutsch: \"Mutter\" - Espa\u00f1ol: \"",
+        "target": "['madre', 'maternidad', 'mam\u00e1', 'progenitora', 'mami', 'ma', 'mama', 'tuerca']",
+        "word original": "mother"
+    },
+    "['Osten', 'Ost']": {
+        "prompt": "Deutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Linie\" - Espa\u00f1ol: \"recta\"\nDeutsch: \"Tal\" - Espa\u00f1ol: \"dolina\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"Feuer\" - Espa\u00f1ol: \"fuego\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"",
+        "target": "['este', 'levante', 'oriente']",
+        "word original": "east"
+    },
+    "['Rede', 'gesprochene Sprache', 'Sprechen', 'Gesprochene Sprache']": {
+        "prompt": "Deutsch: \"Buch\" - Espa\u00f1ol: \"libro\"\nDeutsch: \"Gitter\" - Espa\u00f1ol: \"malla\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"n\u00facleo familiar\"\nDeutsch: \"Holz\" - Espa\u00f1ol: \"bosque\"\nDeutsch: \"Kopf\" - Espa\u00f1ol: \"mente\"\nDeutsch: \"Rede\" - Espa\u00f1ol: \"",
+        "target": "['lengua hablada', 'habla', 'lenguaje oral', 'comunicaci\u00f3n oral', 'comunicaci\u00f3n verbal', 'lenguaje verbal', 'lenguaje']",
+        "word original": "speech"
+    },
+    "['Kind', 'Minderj\u00e4hrige', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling', 'Kindheit', 'Kinder']": {
+        "prompt": "Deutsch: \"Gold\" - Espa\u00f1ol: \"oro\"\nDeutsch: \"Buch\" - Espa\u00f1ol: \"libro\"\nDeutsch: \"Mond\" - Espa\u00f1ol: \"Luna\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Meer\" - Espa\u00f1ol: \"mar\"\nDeutsch: \"Kind\" - Espa\u00f1ol: \"",
+        "target": "['papa frita', 'ni\u00f1a', 'menor de edad', 'menor', 'ni\u00f1o', 'joven', 'infancia', 'minor\u00eda de edad', 'jovenzuelo', 'mozalbete', 'chico', 'muchachuelo', 'chiq\u00fcelo', 'chiquillo', 'criatura', 'cr\u00edo', 'chango', 'pececillo', 'cr\u00eda', 'chaval', 'alev\u00edn', 'nene', 'tike', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'ni\u00f1ez', 'ni\u00f1os', 'ninzzo', 'hijo', 'hija']",
+        "word original": "child"
+    },
+    "['Turm']": {
+        "prompt": "Deutsch: \"zehn\" - Espa\u00f1ol: \"diez\"\nDeutsch: \"Paar\" - Espa\u00f1ol: \"par\"\nDeutsch: \"Wasser\" - Espa\u00f1ol: \"agua\"\nDeutsch: \"Ball\" - Espa\u00f1ol: \"pelota\"\nDeutsch: \"Versuch\" - Espa\u00f1ol: \"experimentaci\u00f3n\"\nDeutsch: \"Turm\" - Espa\u00f1ol: \"",
+        "target": "['torre']",
+        "word original": "tower"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"zehn\" - Espa\u00f1ol: \"diez\"\nDeutsch: \"Art\" - Espa\u00f1ol: \"tipo\"\nDeutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"sechs\" - Espa\u00f1ol: \"seis\"\nDeutsch: \"Schnee\" - Espa\u00f1ol: \"nevada\"\nDeutsch: \"Haar\" - Espa\u00f1ol: \"",
+        "target": "['cabello', 'pelo']",
+        "word original": "hair"
+    },
+    "['Haushalt', 'Privathaushalt', 'Budget', '\u00f6ffentlicher Haushalt', 'Etat']": {
+        "prompt": "Deutsch: \"Haus\" - Espa\u00f1ol: \"casa\"\nDeutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Geschichte\" - Espa\u00f1ol: \"historia\"\nDeutsch: \"Quadrat\" - Espa\u00f1ol: \"cuadrado\"\nDeutsch: \"Osten\" - Espa\u00f1ol: \"este\"\nDeutsch: \"Haushalt\" - Espa\u00f1ol: \"",
+        "target": "['n\u00facleo familiar', 'familia', 'casa', 'hogar', 'menaje', 'presupuesto p\u00fablico', 'presupuesto']",
+        "word original": "household"
+    },
+    "['Person', 'Mensch', 'Hominid', 'Homo', 'Homo sapiens sapiens', 'Sterbliche', 'Jemand', 'Sterblicher', 'Individuum']": {
+        "prompt": "Deutsch: \"Br\u00fccke\" - Espa\u00f1ol: \"puente\"\nDeutsch: \"Plattform\" - Espa\u00f1ol: \"plataforma\"\nDeutsch: \"Schule\" - Espa\u00f1ol: \"universidad\"\nDeutsch: \"Norden\" - Espa\u00f1ol: \"norte\"\nDeutsch: \"Wort\" - Espa\u00f1ol: \"palabra\"\nDeutsch: \"Person\" - Espa\u00f1ol: \"",
+        "target": "['ser humano', 'hombre', 'humano', 'Homo', 'Homo sapiens sapiens', 'humanidad', 'humana', 'homo', 'ser', 'persona', 'mortal', 'individuo', 'alguno', 'alma', 'alguien']",
+        "word original": "person"
+    },
+    "['B\u00fcro', 'Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'Beh\u00f6rde', 'Kontor', 'B\u00fcrogeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Pferd\" - Espa\u00f1ol: \"caballo\"\nDeutsch: \"Ozean\" - Espa\u00f1ol: \"oc\u00e9ano\"\nDeutsch: \"Krawatte\" - Espa\u00f1ol: \"corbata\"\nDeutsch: \"Art\" - Espa\u00f1ol: \"tipo\"\nDeutsch: \"zwei\" - Espa\u00f1ol: \"dos\"\nDeutsch: \"B\u00fcro\" - Espa\u00f1ol: \"",
+        "target": "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento']",
+        "word original": "office"
+    },
+    "['Sommer', 'Sommersaison', 'Sommerzeit']": {
+        "prompt": "Deutsch: \"Gitter\" - Espa\u00f1ol: \"malla\"\nDeutsch: \"Talent\" - Espa\u00f1ol: \"aptitud\"\nDeutsch: \"Tuch\" - Espa\u00f1ol: \"textil\"\nDeutsch: \"Sitz\" - Espa\u00f1ol: \"asiento\"\nDeutsch: \"S\u00fcden\" - Espa\u00f1ol: \"sur\"\nDeutsch: \"Sommer\" - Espa\u00f1ol: \"",
+        "target": "['estaci\u00f3n veraniega', 'estaci\u00f3n estival', 'estaci\u00f3n de verano', 'verano', 'est\u00edo']",
+        "word original": "summer"
+    }
+}

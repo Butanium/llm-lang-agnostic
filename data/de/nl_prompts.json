@@ -1,0 +1,452 @@
+{
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Sitz\" - Nederlands: \"zetel\"\nDeutsch: \"Meer\" - Nederlands: \"zee\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Buch\" - Nederlands: \"",
+        "target": "['boek', 'boeken', 'album', 'boekwerk', 'boekje', 'papier']",
+        "word original": "book"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Stamm\" - Nederlands: \"boom\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Reis\" - Nederlands: \"rijst\"\nDeutsch: \"Gem\u00e4lde\" - Nederlands: \"schilder\"\nDeutsch: \"Wolke\" - Nederlands: \"",
+        "target": "['wolk']",
+        "word original": "cloud"
+    },
+    "['Tasche', 'Sack', 'Beutel', 'T\u00fcte', 'Tragetasche', 'Plastikt\u00fcte', 'Papiersack', 'Traget\u00fcte', 'Hosentasche']": {
+        "prompt": "Deutsch: \"Dorf\" - Nederlands: \"dorp\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Welle\" - Nederlands: \"zeegolven\"\nDeutsch: \"Feuer\" - Nederlands: \"vuur\"\nDeutsch: \"Tasche\" - Nederlands: \"",
+        "target": "['tas', 'zak', 'papieren tas', 'buil', 'broekzak']",
+        "word original": "bag"
+    },
+    "['Boden', 'Land', 'Festland', 'Grund', 'Erdboden', 'Erde', 'L\u00e4nder', 'fester Boden', 'Fu\u00dfboden', 'Blumenerde']": {
+        "prompt": "Deutsch: \"Gold\" - Nederlands: \"goud\"\nDeutsch: \"See\" - Nederlands: \"meer\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Schwanz\" - Nederlands: \"staart\"\nDeutsch: \"Talent\" - Nederlands: \"vernuft\"\nDeutsch: \"Boden\" - Nederlands: \"",
+        "target": "['land', 'aarde', 'droge land', 'vaste grond', 'grond', 'bodem', 'vasteland', 'vloer', 'teelaarde', 'omgeving', 'onderzijde', 'onderkant', 'onderzij']",
+        "word original": "ground"
+    },
+    "['Tuch', 'Gewebe', 'Textilien', 'Stoff', 'Textil', 'Textilie']": {
+        "prompt": "Deutsch: \"Wasser\" - Nederlands: \"water\"\nDeutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Tuch\" - Nederlands: \"",
+        "target": "['textiel', 'geweven stof', 'weefsel', 'kleed', 'doek', 'stof', 'vod']",
+        "word original": "cloth"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"eins\" - Nederlands: \"\u00e9\u00e9n\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"B\u00fcro\" - Nederlands: \"kantoor\"\nDeutsch: \"Herz\" - Nederlands: \"",
+        "target": "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid']",
+        "word original": "heart"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"B\u00f6rse\" - Nederlands: \"portefeuille\"\nDeutsch: \"Schnee\" - Nederlands: \"sneeuw\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Hand\" - Nederlands: \"",
+        "target": "['klauw', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken']",
+        "word original": "hand"
+    },
+    "['Tag', 'Solartag', 'Sonnentag']": {
+        "prompt": "Deutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"Wort\" - Nederlands: \"woord\"\nDeutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Mond\" - Nederlands: \"maan\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Tag\" - Nederlands: \"",
+        "target": "['dag', 'zonnedag']",
+        "word original": "day"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Plattform\" - Nederlands: \"platform\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Stern\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje']",
+        "word original": "star"
+    },
+    "['Feder', 'Strahlen', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder', 'Sprungfeder', 'F\u00fcller', 'Schreibstift']": {
+        "prompt": "Deutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Licht\" - Nederlands: \"lichtbron\"\nDeutsch: \"Dorf\" - Nederlands: \"dorp\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"baan\"\nDeutsch: \"Feder\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder', 'pen']",
+        "word original": "spring"
+    },
+    "['Mond', 'Frau Luna', 'Luna', 'Erdmond']": {
+        "prompt": "Deutsch: \"Schnee\" - Nederlands: \"sneeuw\"\nDeutsch: \"Tag\" - Nederlands: \"dag\"\nDeutsch: \"Gesetz\" - Nederlands: \"wet\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Mond\" - Nederlands: \"",
+        "target": "['maan', 'Maan']",
+        "word original": "moon"
+    },
+    "['Holz', 'Busch', 'Wald', 'Forst', 'W\u00e4lder', 'Splintholz']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Wald\" - Nederlands: \"bos\"\nDeutsch: \"Schule\" - Nederlands: \"universiteit\"\nDeutsch: \"Dorf\" - Nederlands: \"dorp\"\nDeutsch: \"See\" - Nederlands: \"meer\"\nDeutsch: \"Holz\" - Nederlands: \"",
+        "target": "['bos', 'woud', 'W\u00e4lder', 'bosje', 'foreest', 'hout', 'spinthout', 'houtsoort']",
+        "word original": "wood"
+    },
+    "['Dorf', 'Ortschaft', 'Weiler', 'D\u00f6rfchen']": {
+        "prompt": "Deutsch: \"Krawatte\" - Nederlands: \"stropdas\"\nDeutsch: \"S\u00fcden\" - Nederlands: \"zuid\"\nDeutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Welle\" - Nederlands: \"zeegolven\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Dorf\" - Nederlands: \"",
+        "target": "['dorp', 'gehucht', 'gat', 'buurt', 'buurtschap', 'vlek']",
+        "word original": "village"
+    },
+    "['Wald', 'Busch', 'Forst', 'W\u00e4lder', 'Holz']": {
+        "prompt": "Deutsch: \"Plattform\" - Nederlands: \"platform\"\nDeutsch: \"Gesicht\" - Nederlands: \"tronie\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Geschwindigkeit\" - Nederlands: \"snelheid\"\nDeutsch: \"Wald\" - Nederlands: \"",
+        "target": "['bos', 'woud', 'W\u00e4lder', 'bosje', 'foreest']",
+        "word original": "forest"
+    },
+    "['Gitter', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Gittergewebe']": {
+        "prompt": "Deutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Pferd\" - Nederlands: \"paard\"\nDeutsch: \"Plattform\" - Nederlands: \"platform\"\nDeutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"See\" - Nederlands: \"meer\"\nDeutsch: \"Gitter\" - Nederlands: \"",
+        "target": "['gaas', 'computernetwerk', 'netwerk', 'net', 'breisteek', 'vangnet']",
+        "word original": "grid"
+    },
+    "['Lied']": {
+        "prompt": "Deutsch: \"Versuch\" - Nederlands: \"proefneming\"\nDeutsch: \"Pferd\" - Nederlands: \"paard\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Rede\" - Nederlands: \"spreektaal\"\nDeutsch: \"Lied\" - Nederlands: \"",
+        "target": "['zang', 'liedje', 'een appel en een ei', 'nummer']",
+        "word original": "song"
+    },
+    "['Wasser', 'Gew\u00e4sser']": {
+        "prompt": "Deutsch: \"See\" - Nederlands: \"meer\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Geschichte\" - Nederlands: \"geschiedenis\"\nDeutsch: \"Tag\" - Nederlands: \"dag\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Wasser\" - Nederlands: \"",
+        "target": "['water', 'zoetwater', 'majem', 'wateren', 'waterlichaam']",
+        "word original": "water"
+    },
+    "['Fluss', 'Flu\u00df', 'Hydrodynamik', 'Fluiddynamik']": {
+        "prompt": "Deutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"zehn\" - Nederlands: \"tien\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Sonne\" - Nederlands: \"zon\"\nDeutsch: \"Fluss\" - Nederlands: \"",
+        "target": "['rivier', 'stroom', 'vloeien']",
+        "word original": "river"
+    },
+    "['Gesetz', 'Recht']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Nederlands: \"snelheid\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Gesetz\" - Nederlands: \"",
+        "target": "['wet', 'recht']",
+        "word original": "law"
+    },
+    "['Welle', 'Meereswelle', 'Wasserwelle']": {
+        "prompt": "Deutsch: \"Krawatte\" - Nederlands: \"stropdas\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Welle\" - Nederlands: \"",
+        "target": "['zeegolven', 'vloeistofoppervlaktegolf', 'oppervlaktegolf', 'golf']",
+        "word original": "wave"
+    },
+    "['Ozean', 'Meeresumwelt']": {
+        "prompt": "Deutsch: \"Pferd\" - Nederlands: \"paard\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Stamm\" - Nederlands: \"boom\"\nDeutsch: \"Zeit\" - Nederlands: \"tijd\"\nDeutsch: \"B\u00f6rse\" - Nederlands: \"portefeuille\"\nDeutsch: \"Ozean\" - Nederlands: \"",
+        "target": "['mariene milieu', 'oceaan', 'plas', 'wereldzee']",
+        "word original": "ocean"
+    },
+    "['H\u00f6hle']": {
+        "prompt": "Deutsch: \"Tag\" - Nederlands: \"dag\"\nDeutsch: \"Auge\" - Nederlands: \"oogbol\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"baan\"\nDeutsch: \"Gitter\" - Nederlands: \"gaas\"\nDeutsch: \"H\u00f6hle\" - Nederlands: \"",
+        "target": "['hol', 'grot']",
+        "word original": "cave"
+    },
+    "['Meer']": {
+        "prompt": "Deutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Reis\" - Nederlands: \"rijst\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"Meer\" - Nederlands: \"",
+        "target": "['zee']",
+        "word original": "sea"
+    },
+    "['See']": {
+        "prompt": "Deutsch: \"Krawatte\" - Nederlands: \"stropdas\"\nDeutsch: \"Geschwindigkeit\" - Nederlands: \"snelheid\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"Schnee\" - Nederlands: \"sneeuw\"\nDeutsch: \"Feuer\" - Nederlands: \"vuur\"\nDeutsch: \"See\" - Nederlands: \"",
+        "target": "['meer']",
+        "word original": "lake"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Tag\" - Nederlands: \"dag\"\nDeutsch: \"Auge\" - Nederlands: \"oogbol\"\nDeutsch: \"Tuch\" - Nederlands: \"textiel\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"Quelle\" - Nederlands: \"",
+        "target": "['bron', 'wel', 'fontein', 'put', 'boorput', 'aanvang', 'oorsprong', 'start', 'begin', 'herkomst', 'wortel', 'origine', 'oerbron', 'kiem']",
+        "word original": "source"
+    },
+    "['Feuer', 'Flamme', 'Feuergarbe', 'Lohe', 'Feuerzunge', 'Brand']": {
+        "prompt": "Deutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"eins\" - Nederlands: \"\u00e9\u00e9n\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Feuer\" - Nederlands: \"",
+        "target": "['vuur', 'fik', 'vlam', 'laai', 'brand', 'ontbranding']",
+        "word original": "fire"
+    },
+    "['Punkt', 'Scorerpunkt', 'Spielergebnis', 'Spielstand', 'Stichwort']": {
+        "prompt": "Deutsch: \"Licht\" - Nederlands: \"lichtbron\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Ozean\" - Nederlands: \"mariene milieu\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"Gesetz\" - Nederlands: \"wet\"\nDeutsch: \"Punkt\" - Nederlands: \"",
+        "target": "['punt', 'puntkomma', 'dubbele punt', 'komma', 'oord', 'plaats', 'stand', 'doelpunt', 'locatie', 'winstpunt', 'tijdpunt', 'plek', 'exemplaar', 'artikel', 'object']",
+        "word original": "point"
+    },
+    "['Ball', 'Fu\u00dfball', 'Kugel', 'Geschoss', 'Flugk\u00f6rper', 'Projektil', 'Tanzball']": {
+        "prompt": "Deutsch: \"Licht\" - Nederlands: \"lichtbron\"\nDeutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"Wort\" - Nederlands: \"woord\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"baan\"\nDeutsch: \"Auge\" - Nederlands: \"oogbol\"\nDeutsch: \"Ball\" - Nederlands: \"",
+        "target": "['bal', 'voetbal', 'kogel', 'geweerkogel']",
+        "word original": "ball"
+    },
+    "['Gem\u00e4lde', 'Abbild', 'Maler', 'Darstellung', 'Malerei']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Nederlands: \"snelheid\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"Meer\" - Nederlands: \"zee\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Gem\u00e4lde\" - Nederlands: \"",
+        "target": "['schilder', 'verven', 'plaatje', 'schilderen', 'kunstschilder', 'afbeelding', 'schilderkunst', 'geschilder', 'schilderij', 'schilderstuk', 'schilderwerk', 'doek']",
+        "word original": "painting"
+    },
+    "['Reis']": {
+        "prompt": "Deutsch: \"Quadrat\" - Nederlands: \"vierkant\"\nDeutsch: \"Ball\" - Nederlands: \"bal\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Meer\" - Nederlands: \"zee\"\nDeutsch: \"Reis\" - Nederlands: \"",
+        "target": "['rijst', 'rijstboer', 'Aziatische rijst']",
+        "word original": "rice"
+    },
+    "['rot']": {
+        "prompt": "Deutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Richter\" - Nederlands: \"rechter\"\nDeutsch: \"Tuch\" - Nederlands: \"textiel\"\nDeutsch: \"zehn\" - Nederlands: \"tien\"\nDeutsch: \"rot\" - Nederlands: \"",
+        "target": "['rood', 'keel']",
+        "word original": "red"
+    },
+    "['Linie', 'Gerade']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Ozean\" - Nederlands: \"mariene milieu\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Linie\" - Nederlands: \"",
+        "target": "['rechte lijn', 'lijn', 'touw']",
+        "word original": "line"
+    },
+    "['Netz', 'Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Cyberspace', 'Gittergewebe', 'Gitter']": {
+        "prompt": "Deutsch: \"Schwanz\" - Nederlands: \"staart\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Netz\" - Nederlands: \"",
+        "target": "['netwerk', 'computernetwerk', 'Internet', 'cyberspace', 'internet', 'gaas', 'net', 'breisteek', 'vangnet']",
+        "word original": "net"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"Mond\" - Nederlands: \"maan\"\nDeutsch: \"Stadt\" - Nederlands: \"stad\"\nDeutsch: \"Kind\" - Nederlands: \"patat\"\nDeutsch: \"Gem\u00e4lde\" - Nederlands: \"schilder\"\nDeutsch: \"eins\" - Nederlands: \"\u00e9\u00e9n\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"",
+        "target": "['voet', 'voeten', 'poot', 'pootje']",
+        "word original": "foot"
+    },
+    "['Gold', 'Bernsteinfarben']": {
+        "prompt": "Deutsch: \"Mond\" - Nederlands: \"maan\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"baan\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Talent\" - Nederlands: \"vernuft\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Gold\" - Nederlands: \"",
+        "target": "['goud', 'guld', 'amber']",
+        "word original": "gold"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Gitter\" - Nederlands: \"gaas\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur']",
+        "word original": "door"
+    },
+    "['Schnee', 'Schneedecke', 'Schneefall']": {
+        "prompt": "Deutsch: \"Mond\" - Nederlands: \"maan\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Schnee\" - Nederlands: \"",
+        "target": "['sneeuw', 'sneeuwlaag', 'sneeuwval', 'sneeuwwit', 'sneeuwen']",
+        "word original": "snow"
+    },
+    "['Pferd', 'Gaul', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Meer\" - Nederlands: \"zee\"\nDeutsch: \"Freund\" - Nederlands: \"kameraadschap\"\nDeutsch: \"Fluss\" - Nederlands: \"rivier\"\nDeutsch: \"Gruppe\" - Nederlands: \"muziekensemble\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Pferd\" - Nederlands: \"",
+        "target": "['paard', 'peerd', 'viervoeter', 'ros']",
+        "word original": "horse"
+    },
+    "['eins', 'ein']": {
+        "prompt": "Deutsch: \"Gesicht\" - Nederlands: \"tronie\"\nDeutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"Schule\" - Nederlands: \"universiteit\"\nDeutsch: \"Tag\" - Nederlands: \"dag\"\nDeutsch: \"eins\" - Nederlands: \"",
+        "target": "['\u00e9\u00e9n', 'een', 'i', 'twee']",
+        "word original": "one"
+    },
+    "['zwei']": {
+        "prompt": "Deutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Fluss\" - Nederlands: \"rivier\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Paar\" - Nederlands: \"koppel\"\nDeutsch: \"zwei\" - Nederlands: \"",
+        "target": "['twee']",
+        "word original": "two"
+    },
+    "['f\u00fcnf']": {
+        "prompt": "Deutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"B\u00f6rse\" - Nederlands: \"portefeuille\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"",
+        "target": "['vijf', 'quintool', 'vijftal']",
+        "word original": "five"
+    },
+    "['sechs', 'Schwindler', 'halbes Dutzend']": {
+        "prompt": "Deutsch: \"Gold\" - Nederlands: \"goud\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Sitz\" - Nederlands: \"zetel\"\nDeutsch: \"Schwanz\" - Nederlands: \"staart\"\nDeutsch: \"sechs\" - Nederlands: \"",
+        "target": "['zes', 'sextool']",
+        "word original": "six"
+    },
+    "['zehn']": {
+        "prompt": "Deutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Schwanz\" - Nederlands: \"staart\"\nDeutsch: \"Gesetz\" - Nederlands: \"wet\"\nDeutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"zehn\" - Nederlands: \"",
+        "target": "['tien', 'tientje']",
+        "word original": "ten"
+    },
+    "['Kopf', 'Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Haupt', 'Avers']": {
+        "prompt": "Deutsch: \"Gesicht\" - Nederlands: \"tronie\"\nDeutsch: \"zehn\" - Nederlands: \"tien\"\nDeutsch: \"Sonne\" - Nederlands: \"zon\"\nDeutsch: \"Talent\" - Nederlands: \"vernuft\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Kopf\" - Nederlands: \"",
+        "target": "['brein', 'verstand', 'psyche', 'Nous', 'geest', 'nous', 'denkvermogen', 'rede', 'kop', 'hoofd', 'baas', 'bazin', 'leider', 'op uw plaatsen, klaar, af!', 'voorzijde']",
+        "word original": "head"
+    },
+    "['Stra\u00dfe', 'Strasse', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Netz\" - Nederlands: \"netwerk\"\nDeutsch: \"sechs\" - Nederlands: \"zes\"\nDeutsch: \"Auge\" - Nederlands: \"oogbol\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"",
+        "target": "['baan', 'straat', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']",
+        "word original": "street"
+    },
+    "['Auge', 'Augapfel', 'Augen']": {
+        "prompt": "Deutsch: \"rot\" - Nederlands: \"rood\"\nDeutsch: \"Schnee\" - Nederlands: \"sneeuw\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Dorf\" - Nederlands: \"dorp\"\nDeutsch: \"Stadt\" - Nederlands: \"stad\"\nDeutsch: \"Auge\" - Nederlands: \"",
+        "target": "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']",
+        "word original": "eye"
+    },
+    "['Feld', 'Ebene', 'Acker', 'Anbaufl\u00e4che', 'Ackergrund', 'landwirtschaftliche Nutzfl\u00e4che', 'Ackerland', 'Weide', 'Esch', 'Flur', 'Weideland', 'Trade']": {
+        "prompt": "Deutsch: \"Gold\" - Nederlands: \"goud\"\nDeutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Fluss\" - Nederlands: \"rivier\"\nDeutsch: \"Feld\" - Nederlands: \"",
+        "target": "['vlakte', 'laagvlakte', 'vlak', 'veld', 'akkerland', 'land', 'akker', 'landbouwgrond', 'wei', 'weide', 'weiland']",
+        "word original": "field"
+    },
+    "['Standort', 'geographische Lage', 'Platz', 'Ort', 'Lage', 'Habitat', 'nat\u00fcrlicher Lebensraum', 'Heimat', 'Stelle']": {
+        "prompt": "Deutsch: \"Zeit\" - Nederlands: \"tijd\"\nDeutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"Meer\" - Nederlands: \"zee\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"voet\"\nDeutsch: \"Standort\" - Nederlands: \"",
+        "target": "['locatie', 'plaats', 'geografische locatie', 'habitat', 'territorium', 'standplaats', 'leefgebied', 'woonplaats', 'woongebied', 'biotoop', 'plek', 'oord']",
+        "word original": "site"
+    },
+    "['Wort']": {
+        "prompt": "Deutsch: \"Plattform\" - Nederlands: \"platform\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"Gruppe\" - Nederlands: \"muziekensemble\"\nDeutsch: \"zwei\" - Nederlands: \"twee\"\nDeutsch: \"Wort\" - Nederlands: \"",
+        "target": "['woord']",
+        "word original": "word"
+    },
+    "['Paar', 'geordnetes Paar']": {
+        "prompt": "Deutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"zwei\" - Nederlands: \"twee\"\nDeutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Paar\" - Nederlands: \"",
+        "target": "['koppel', 'tweetal', 'duo']",
+        "word original": "pair"
+    },
+    "['Sitz', 'Sitzgelegenheit', 'Sitzplatz']": {
+        "prompt": "Deutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"B\u00fcro\" - Nederlands: \"kantoor\"\nDeutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Schule\" - Nederlands: \"universiteit\"\nDeutsch: \"Sitz\" - Nederlands: \"",
+        "target": "['zetel', 'stoel', 'leunstoel', 'fauteuil', 'zitje', 'zitplaats', 'zitmeubel', 'zitting']",
+        "word original": "seat"
+    },
+    "['Licht', 'Lichtquelle']": {
+        "prompt": "Deutsch: \"S\u00fcden\" - Nederlands: \"zuid\"\nDeutsch: \"Wald\" - Nederlands: \"bos\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Geschichte\" - Nederlands: \"geschiedenis\"\nDeutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Licht\" - Nederlands: \"",
+        "target": "['lichtbron']",
+        "word original": "light"
+    },
+    "['tausend']": {
+        "prompt": "Deutsch: \"B\u00f6rse\" - Nederlands: \"portefeuille\"\nDeutsch: \"Geschichte\" - Nederlands: \"geschiedenis\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"baan\"\nDeutsch: \"Gitter\" - Nederlands: \"gaas\"\nDeutsch: \"Netz\" - Nederlands: \"netwerk\"\nDeutsch: \"tausend\" - Nederlands: \"",
+        "target": "['duizend', 'Chiliad', 'duizendvoud', 'chiliade', 'mille', 'duizendtal', 'gij']",
+        "word original": "thousand"
+    },
+    "['Norden']": {
+        "prompt": "Deutsch: \"Osten\" - Nederlands: \"oosten\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Norden\" - Nederlands: \"",
+        "target": "['noord', 'noorden']",
+        "word original": "north"
+    },
+    "['Maschine', 'Flugzeug', 'Flieger', 'Einrichtung', 'Einheit', 'Baustein', 'Instrument', 'Hilfsmittel', 'Vorrichtung', 'Apparat', 'Ger\u00e4t', 'Maschinenanlage', 'Maschinerie', 'Machinery', 'maschinelle Ausr\u00fcstung', 'mechanisches Ger\u00e4t']": {
+        "prompt": "Deutsch: \"B\u00fcro\" - Nederlands: \"kantoor\"\nDeutsch: \"Tag\" - Nederlands: \"dag\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"Maschine\" - Nederlands: \"",
+        "target": "['vliegtuig', 'toestel', 'vliegmachine', 'kist', 'machine', 'apparaat', 'mechanisme', 'machinery', 'machinepark', 'mechanisch apparaat', 'machinerie']",
+        "word original": "machine"
+    },
+    "['Zeit', 'Zeitform', 'Tempus']": {
+        "prompt": "Deutsch: \"Talent\" - Nederlands: \"vernuft\"\nDeutsch: \"zehn\" - Nederlands: \"tien\"\nDeutsch: \"See\" - Nederlands: \"meer\"\nDeutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"Stadt\" - Nederlands: \"stad\"\nDeutsch: \"Zeit\" - Nederlands: \"",
+        "target": "['tijd', 'werkwoordstijd']",
+        "word original": "time"
+    },
+    "['B\u00f6rse', 'Geldtasche', 'Geldbeutel', 'Geldb\u00f6rse', 'Portemonnaie', 'Brieftasche', 'Portmonee']": {
+        "prompt": "Deutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Reis\" - Nederlands: \"rijst\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Paar\" - Nederlands: \"koppel\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"B\u00f6rse\" - Nederlands: \"",
+        "target": "['portefeuille', 'brieventas', 'portemonnee', 'beurs']",
+        "word original": "exchange"
+    },
+    "['Freund', 'Kameradschaft', 'Freundschaft', 'Freundin', 'Verwandte', 'Verwandter', 'Blutsfreundin', 'Blutsverwandter', 'Blutsverwandte', 'Familienangeh\u00f6riger', 'Familienangeh\u00f6rige', 'Angeh\u00f6riger', 'Angeh\u00f6rige', 'Blutsfreund']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - Nederlands: \"hol\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Geschichte\" - Nederlands: \"geschiedenis\"\nDeutsch: \"Zeit\" - Nederlands: \"tijd\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Freund\" - Nederlands: \"",
+        "target": "['kameraadschap', 'vriendschap', 'vriendschapsband', 'vriendschappelijkheid', 'vriendschapsbanden', 'maat', 'gabber', 'vriend', 'compagnon', 'makker', 'kameraad', 'amice', 'vriendin', 'gezel', 'vrind', 'kornuit', 'deelgenoot', 'kompaan', 'vriendje', 'minnaar', 'lief', 'familielid', 'verwant', 'bloedverwant', 'naverwant', 'maag']",
+        "word original": "friend"
+    },
+    "['Farbe', 'Schwarz', 'Teint', 'Gesichtsfarbe', 'Lack', 'Anstrichmittel', 'Malfarbe']": {
+        "prompt": "Deutsch: \"Wort\" - Nederlands: \"woord\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Talent\" - Nederlands: \"vernuft\"\nDeutsch: \"Tasche\" - Nederlands: \"tas\"\nDeutsch: \"Farbe\" - Nederlands: \"",
+        "target": "['gelaatskleur', 'teint', 'zwart', 'kleur', 'kleurtje', 'verf', 'tjet']",
+        "word original": "color"
+    },
+    "['Art', 'Sorte']": {
+        "prompt": "Deutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Welle\" - Nederlands: \"zeegolven\"\nDeutsch: \"Gold\" - Nederlands: \"goud\"\nDeutsch: \"Quadrat\" - Nederlands: \"vierkant\"\nDeutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Art\" - Nederlands: \"",
+        "target": "['soort', 'type', 'ras', 'genre', 'categorie', 'aard']",
+        "word original": "kind"
+    },
+    "['Richter']": {
+        "prompt": "Deutsch: \"Sonne\" - Nederlands: \"zon\"\nDeutsch: \"Reis\" - Nederlands: \"rijst\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Gesicht\" - Nederlands: \"tronie\"\nDeutsch: \"Richter\" - Nederlands: \"",
+        "target": "['rechter', 'kenner', 'scheidsrechter']",
+        "word original": "judge"
+    },
+    "['Schule', 'Uni', 'Universit\u00e4t', 'Akademie', 'Hirt', 'Herde', 'Hirte']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - Nederlands: \"voet\"\nDeutsch: \"Stadt\" - Nederlands: \"stad\"\nDeutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"eins\" - Nederlands: \"\u00e9\u00e9n\"\nDeutsch: \"Gruppe\" - Nederlands: \"muziekensemble\"\nDeutsch: \"Schule\" - Nederlands: \"",
+        "target": "['universiteit', 'academie', 'school', 'kudde', 'herder']",
+        "word original": "school"
+    },
+    "['Krawatte', 'Schlips']": {
+        "prompt": "Deutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Netz\" - Nederlands: \"netwerk\"\nDeutsch: \"Quadrat\" - Nederlands: \"vierkant\"\nDeutsch: \"Paar\" - Nederlands: \"koppel\"\nDeutsch: \"Person\" - Nederlands: \"homo sapiens\"\nDeutsch: \"Krawatte\" - Nederlands: \"",
+        "target": "['stropdas', 'das', 'strop']",
+        "word original": "tie"
+    },
+    "['Gesicht', 'Visage', 'Angesicht', 'Antlitz']": {
+        "prompt": "Deutsch: \"Linie\" - Nederlands: \"rechte lijn\"\nDeutsch: \"Meer\" - Nederlands: \"zee\"\nDeutsch: \"zwei\" - Nederlands: \"twee\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Sitz\" - Nederlands: \"zetel\"\nDeutsch: \"Gesicht\" - Nederlands: \"",
+        "target": "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']",
+        "word original": "face"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Pferd\" - Nederlands: \"paard\"\nDeutsch: \"Schnee\" - Nederlands: \"sneeuw\"\nDeutsch: \"B\u00fcro\" - Nederlands: \"kantoor\"\nDeutsch: \"Stadt\" - Nederlands: \"stad\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"",
+        "target": "['brug', 'lijst van Romeinse bruggen']",
+        "word original": "bridge"
+    },
+    "['Gruppe', 'Ensemble', 'Bruchteil', 'funktionelle Gruppe', 'Band', 'Combo', 'Kapelle', 'Musikkapelle', 'Musikbande', 'Rockgruppe', 'Rock-Gruppe', 'Rockband', 'Klasse', 'Kategorie', 'Strau\u00df', 'Bund']": {
+        "prompt": "Deutsch: \"S\u00fcden\" - Nederlands: \"zuid\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Geschwindigkeit\" - Nederlands: \"snelheid\"\nDeutsch: \"zwei\" - Nederlands: \"twee\"\nDeutsch: \"Person\" - Nederlands: \"homo sapiens\"\nDeutsch: \"Gruppe\" - Nederlands: \"",
+        "target": "['muziekensemble', 'muziekgroep', 'muziekgezelschap', 'functionele groep', 'band', 'muziekformatie', 'bandje', 'groep', 'ploeg', 'rockgroep', 'rockband', 'partij', 'klasse', 'categorie', 'klas', 'laag', 'bos', 'unit', 'troep', 'tros', 'cluster', 'span', 'sterrenhoop', 'stel']",
+        "word original": "group"
+    },
+    "['Talent', 'Fertigkeit', 'F\u00e4higkeit', 'Kunst', 'Kompetenz', 'Errungenschaft', 'Geschicklichkeit']": {
+        "prompt": "Deutsch: \"Feder\" - Nederlands: \"pluim\"\nDeutsch: \"Gold\" - Nederlands: \"goud\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Plattform\" - Nederlands: \"platform\"\nDeutsch: \"Schule\" - Nederlands: \"universiteit\"\nDeutsch: \"Talent\" - Nederlands: \"",
+        "target": "['vernuft', 'handigheid', 'competentie', 'vermogen', 'geschiktheid', 'capaciteit', 'gave', 'bekwaamheid', 'begaafdheid', 'vaardigheid', 'habiliteit', 'bedrevenheid', 'kundigheid', 'behendigheid', 'aanleg', 'prestatie', 'kwalificatie', 'geoefendheid', 'verworvenheid']",
+        "word original": "talent"
+    },
+    "['Plattform', 'Perron', 'Bahnsteig']": {
+        "prompt": "Deutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Quadrat\" - Nederlands: \"vierkant\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"eins\" - Nederlands: \"\u00e9\u00e9n\"\nDeutsch: \"Plattform\" - Nederlands: \"",
+        "target": "['platform', 'podium', 'perron', 'verhoging']",
+        "word original": "platform"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Tasche\" - Nederlands: \"tas\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"rot\" - Nederlands: \"rood\"\nDeutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Haus\" - Nederlands: \"",
+        "target": "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte']",
+        "word original": "house"
+    },
+    "['Sonne', 'Stern', 'Fixstern']": {
+        "prompt": "Deutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"B\u00f6rse\" - Nederlands: \"portefeuille\"\nDeutsch: \"Feder\" - Nederlands: \"pluim\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"voet\"\nDeutsch: \"Wald\" - Nederlands: \"bos\"\nDeutsch: \"Sonne\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje', 'koperen ploert', 'Zon', 'zonnetje']",
+        "word original": "sun"
+    },
+    "['Geschichte', 'historische Entwicklung', 'Geschichtswissenschaft', 'Erz\u00e4hlung', 'Erz\u00e4hlperspektive', 'Erz\u00e4hlweise', 'literarisches Stilmittel', 'Plot', 'Stoff', 'Fabula und Sujet', 'Handlung', 'Fabula']": {
+        "prompt": "Deutsch: \"Stadt\" - Nederlands: \"stad\"\nDeutsch: \"S\u00fcden\" - Nederlands: \"zuid\"\nDeutsch: \"Gem\u00e4lde\" - Nederlands: \"schilder\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Ball\" - Nederlands: \"bal\"\nDeutsch: \"Geschichte\" - Nederlands: \"",
+        "target": "['geschiedenis', 'verhaal', 'vertelling', 'literaire techniek', 'vertelperspectief', 'verhalende stijl', 'vertelsel', 'verhalend', 'vertelde', 'vertellen', 'plot', 'intrige', 'fabula en syuzhet', 'perceel', 'verwikkeling']",
+        "word original": "history"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Ozean\" - Nederlands: \"mariene milieu\"\nDeutsch: \"Gruppe\" - Nederlands: \"muziekensemble\"\nDeutsch: \"Tuch\" - Nederlands: \"textiel\"\nDeutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Tal\" - Nederlands: \"",
+        "target": "['dal', 'vallei']",
+        "word original": "valley"
+    },
+    "['Quadrat', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Gesetz\" - Nederlands: \"wet\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Wasser\" - Nederlands: \"water\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Quadrat\" - Nederlands: \"",
+        "target": "['vierkant', 'carr\u00e9', 'kwadraat', 'tweede macht']",
+        "word original": "square"
+    },
+    "['S\u00fcden']": {
+        "prompt": "Deutsch: \"Schnee\" - Nederlands: \"sneeuw\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Schule\" - Nederlands: \"universiteit\"\nDeutsch: \"sechs\" - Nederlands: \"zes\"\nDeutsch: \"Licht\" - Nederlands: \"lichtbron\"\nDeutsch: \"S\u00fcden\" - Nederlands: \"",
+        "target": "['zuid', 'zuiden']",
+        "word original": "south"
+    },
+    "['Stamm', 'Baum', 'Baumstamm']": {
+        "prompt": "Deutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Ball\" - Nederlands: \"bal\"\nDeutsch: \"Dorf\" - Nederlands: \"dorp\"\nDeutsch: \"Gem\u00e4lde\" - Nederlands: \"schilder\"\nDeutsch: \"Stamm\" - Nederlands: \"",
+        "target": "['boom', 'boomstam', 'stam']",
+        "word original": "tribe"
+    },
+    "['Stadt', 'Metropole', 'Gro\u00dfstadt', 'Weltstadt', 'Stadtsiedlung', 'Kleinstadt', 'Bourg']": {
+        "prompt": "Deutsch: \"Welle\" - Nederlands: \"zeegolven\"\nDeutsch: \"Freund\" - Nederlands: \"kameraadschap\"\nDeutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Netz\" - Nederlands: \"netwerk\"\nDeutsch: \"Stadt\" - Nederlands: \"",
+        "target": "['stad', 'wereldstad', 'grootstad', 'metropool', 'moederstad', 'town', 'middelgrote plaats of stadje', 'plaats', 'gemeente']",
+        "word original": "city"
+    },
+    "['Sprache', 'Zunge', 'menschliche Sprache', 'Einzelsprache', 'Akzent', 'Idiom', 'Dialekt', 'Ausdrucksweise', 'Mundart']": {
+        "prompt": "Deutsch: \"Paar\" - Nederlands: \"koppel\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Quadrat\" - Nederlands: \"vierkant\"\nDeutsch: \"Gitter\" - Nederlands: \"gaas\"\nDeutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"Sprache\" - Nederlands: \"",
+        "target": "['taal', 'spraak', 'tong', 'mondaard', 'dialect', 'Tongval', 'tongval', 'streektaal', 'accent', 'patois']",
+        "word original": "language"
+    },
+    "['Geschwindigkeit', 'Schnelligkeit', 'Geschwindigkeitsvektor']": {
+        "prompt": "Deutsch: \"Sprache\" - Nederlands: \"taal\"\nDeutsch: \"Richter\" - Nederlands: \"rechter\"\nDeutsch: \"Kind\" - Nederlands: \"patat\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Geschwindigkeit\" - Nederlands: \"",
+        "target": "['snelheid', 'vaart', 'gezwindheid', 'vlugheid', 'grootte van de snelheid', 'gang', 'vaartje', 'gangetje', 'tempo']",
+        "word original": "speed"
+    },
+    "['Versuch', 'Experiment', 'Experimentieren']": {
+        "prompt": "Deutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"Licht\" - Nederlands: \"lichtbron\"\nDeutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"Turm\" - Nederlands: \"toren\"\nDeutsch: \"Versuch\" - Nederlands: \"",
+        "target": "['proefneming', 'experiment', 'proef', 'toetssteen', 'toets', 'test', 'experimenteren', 'onderzoeking', 'poging', 'probeersel', 'wagen', 'onderneming', 'ijveren', 'inspanning']",
+        "word original": "attempt"
+    },
+    "['Schwanz']": {
+        "prompt": "Deutsch: \"Freund\" - Nederlands: \"kameraadschap\"\nDeutsch: \"Welle\" - Nederlands: \"zeegolven\"\nDeutsch: \"Gesetz\" - Nederlands: \"wet\"\nDeutsch: \"Art\" - Nederlands: \"soort\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Schwanz\" - Nederlands: \"",
+        "target": "['staart']",
+        "word original": "tail"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Lied\" - Nederlands: \"zang\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"voet\"\nDeutsch: \"Gitter\" - Nederlands: \"gaas\"\nDeutsch: \"Haushalt\" - Nederlands: \"huishouden\"\nDeutsch: \"Mutter\" - Nederlands: \"",
+        "target": "['moeder', 'moederschap', 'moes', 'moesje', 'moederlief', 'mam', 'mama', 'ma', 'mammie', 'moe', 'mamma', 'moer', 'Moer', 'teelbal', 'zot', 'zottin', 'kop', 'gekkin', 'gek', 'bal']",
+        "word original": "mother"
+    },
+    "['Osten', 'Ost']": {
+        "prompt": "Deutsch: \"Schwanz\" - Nederlands: \"staart\"\nDeutsch: \"Ozean\" - Nederlands: \"mariene milieu\"\nDeutsch: \"Person\" - Nederlands: \"homo sapiens\"\nDeutsch: \"Gold\" - Nederlands: \"goud\"\nDeutsch: \"Stra\u00dfe\" - Nederlands: \"baan\"\nDeutsch: \"Osten\" - Nederlands: \"",
+        "target": "['oosten', 'oost']",
+        "word original": "east"
+    },
+    "['Rede', 'gesprochene Sprache', 'Sprechen', 'Gesprochene Sprache']": {
+        "prompt": "Deutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Tuch\" - Nederlands: \"textiel\"\nDeutsch: \"Holz\" - Nederlands: \"bos\"\nDeutsch: \"zwei\" - Nederlands: \"twee\"\nDeutsch: \"Standort\" - Nederlands: \"locatie\"\nDeutsch: \"Rede\" - Nederlands: \"",
+        "target": "['spreektaal', 'spraak', 'gesproken taal']",
+        "word original": "speech"
+    },
+    "['Kind', 'Minderj\u00e4hrige', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling', 'Kindheit', 'Kinder']": {
+        "prompt": "Deutsch: \"rot\" - Nederlands: \"rood\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Farbe\" - Nederlands: \"gelaatskleur\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Kopf\" - Nederlands: \"brein\"\nDeutsch: \"Kind\" - Nederlands: \"",
+        "target": "['patat', 'friet', 'jongere', 'jongeling', 'minderjarige', 'ding', 'baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje', 'kindsheid', 'kinderen', 'loot', 'spruit', 'koter']",
+        "word original": "child"
+    },
+    "['Turm']": {
+        "prompt": "Deutsch: \"Versuch\" - Nederlands: \"proefneming\"\nDeutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Gesicht\" - Nederlands: \"tronie\"\nDeutsch: \"Tasche\" - Nederlands: \"tas\"\nDeutsch: \"Maschine\" - Nederlands: \"vliegtuig\"\nDeutsch: \"Turm\" - Nederlands: \"",
+        "target": "['toren']",
+        "word original": "tower"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"Pferd\" - Nederlands: \"paard\"\nDeutsch: \"Norden\" - Nederlands: \"noord\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"sechs\" - Nederlands: \"zes\"\nDeutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Haar\" - Nederlands: \"",
+        "target": "['kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']",
+        "word original": "hair"
+    },
+    "['Haushalt', 'Privathaushalt', 'Budget', '\u00f6ffentlicher Haushalt', 'Etat']": {
+        "prompt": "Deutsch: \"Feld\" - Nederlands: \"vlakte\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"f\u00fcnf\" - Nederlands: \"vijf\"\nDeutsch: \"Geschichte\" - Nederlands: \"geschiedenis\"\nDeutsch: \"Dorf\" - Nederlands: \"dorp\"\nDeutsch: \"Haushalt\" - Nederlands: \"",
+        "target": "['huishouden', 'huisgezin', 'familie', 'huishouding', 'gezin', 'begroting', 'budget', 'overheidsbegroting']",
+        "word original": "household"
+    },
+    "['Person', 'Mensch', 'Hominid', 'Homo', 'Homo sapiens sapiens', 'Sterbliche', 'Jemand', 'Sterblicher', 'Individuum']": {
+        "prompt": "Deutsch: \"Punkt\" - Nederlands: \"punt\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Stamm\" - Nederlands: \"boom\"\nDeutsch: \"Sommer\" - Nederlands: \"zomer\"\nDeutsch: \"Licht\" - Nederlands: \"lichtbron\"\nDeutsch: \"Person\" - Nederlands: \"",
+        "target": "['homo sapiens', 'ziel', 'wereldburger', 'mensenkind', 'sterveling', 'mens', 'mensachtige', 'Homo', 'Homo sapiens sapiens', 'iemand', 'persoon', 'individu', 'man', 'figuur', 'deze of gene']",
+        "word original": "person"
+    },
+    "['B\u00fcro', 'Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'Beh\u00f6rde', 'Kontor', 'B\u00fcrogeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Freund\" - Nederlands: \"kameraadschap\"\nDeutsch: \"Sonne\" - Nederlands: \"zon\"\nDeutsch: \"tausend\" - Nederlands: \"duizend\"\nDeutsch: \"Mond\" - Nederlands: \"maan\"\nDeutsch: \"See\" - Nederlands: \"meer\"\nDeutsch: \"B\u00fcro\" - Nederlands: \"",
+        "target": "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'kantoorgebouw', 'kabinet']",
+        "word original": "office"
+    },
+    "['Sommer', 'Sommersaison', 'Sommerzeit']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - Nederlands: \"hol\"\nDeutsch: \"Schule\" - Nederlands: \"universiteit\"\nDeutsch: \"Welle\" - Nederlands: \"zeegolven\"\nDeutsch: \"Boden\" - Nederlands: \"land\"\nDeutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Sommer\" - Nederlands: \"",
+        "target": "['zomer', 'zomerseizoen', 'zomertijd']",
+        "word original": "summer"
+    }
+}

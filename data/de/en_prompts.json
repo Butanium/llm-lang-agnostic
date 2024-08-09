@@ -1,0 +1,452 @@
+{
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Stamm\" - English: \"tree\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"Freund\" - English: \"camaraderie\"\nDeutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Feuer\" - English: \"flame\"\nDeutsch: \"Buch\" - English: \"",
+        "target": "['book', 'paper']",
+        "word original": "book"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Haus\" - English: \"house\"\nDeutsch: \"Sonne\" - English: \"star\"\nDeutsch: \"Reis\" - English: \"rice farmer\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"Wolke\" - English: \"",
+        "target": "['cloud']",
+        "word original": "cloud"
+    },
+    "['Tasche', 'Sack', 'Beutel', 'T\u00fcte', 'Tragetasche', 'Plastikt\u00fcte', 'Papiersack', 'Traget\u00fcte', 'Hosentasche']": {
+        "prompt": "Deutsch: \"Turm\" - English: \"tower\"\nDeutsch: \"Lied\" - English: \"song\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"Feld\" - English: \"plain\"\nDeutsch: \"Tasche\" - English: \"",
+        "target": "['sack', 'bag', 'paper bag', 'carrier bag', 'poke', 'plastic shopping bag', 'pocket', 'trouser pocket']",
+        "word original": "bag"
+    },
+    "['Boden', 'Land', 'Festland', 'Grund', 'Erdboden', 'Erde', 'L\u00e4nder', 'fester Boden', 'Fu\u00dfboden', 'Blumenerde']": {
+        "prompt": "Deutsch: \"Linie\" - English: \"straight line\"\nDeutsch: \"zehn\" - English: \"ten\"\nDeutsch: \"Maschine\" - English: \"aeroplane\"\nDeutsch: \"Mutter\" - English: \"mother\"\nDeutsch: \"Ball\" - English: \"association football ball\"\nDeutsch: \"Boden\" - English: \"",
+        "target": "['land', 'ground', 'terra firma', 'earth', 'solid ground', 'dry land', 'land mass', 'floor', 'flooring', 'soil', 'dirt', 'bottom', 'underside', 'undersurface']",
+        "word original": "ground"
+    },
+    "['Tuch', 'Gewebe', 'Textilien', 'Stoff', 'Textil', 'Textilie']": {
+        "prompt": "Deutsch: \"Schnee\" - English: \"snow cover\"\nDeutsch: \"B\u00fcro\" - English: \"agency\"\nDeutsch: \"sechs\" - English: \"six\"\nDeutsch: \"Schwanz\" - English: \"tail\"\nDeutsch: \"Stadt\" - English: \"city\"\nDeutsch: \"Tuch\" - English: \"",
+        "target": "['fabric', 'cloth', 'textile', 'material']",
+        "word original": "cloth"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"Lied\" - English: \"song\"\nDeutsch: \"Zeit\" - English: \"time\"\nDeutsch: \"Linie\" - English: \"straight line\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"Herz\" - English: \"",
+        "target": "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio']",
+        "word original": "heart"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Norden\" - English: \"northward\"\nDeutsch: \"Hand\" - English: \"",
+        "target": "['manus', 'mitt', 'paw', 'Manus']",
+        "word original": "hand"
+    },
+    "['Tag', 'Solartag', 'Sonnentag']": {
+        "prompt": "Deutsch: \"tausend\" - English: \"one thousand\"\nDeutsch: \"Standort\" - English: \"locus\"\nDeutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"rot\" - English: \"red\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Tag\" - English: \"",
+        "target": "['twenty-four hour period', 'solar day', 'twenty-four hours', 'mean solar day', 'day']",
+        "word original": "day"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Herz\" - English: \"heart\"\nDeutsch: \"Auge\" - English: \"eye\"\nDeutsch: \"Sprache\" - English: \"language\"\nDeutsch: \"Turm\" - English: \"tower\"\nDeutsch: \"Ozean\" - English: \"sea\"\nDeutsch: \"Stern\" - English: \"",
+        "target": "['star']",
+        "word original": "star"
+    },
+    "['Feder', 'Strahlen', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder', 'Sprungfeder', 'F\u00fcller', 'Schreibstift']": {
+        "prompt": "Deutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Stamm\" - English: \"tree\"\nDeutsch: \"See\" - English: \"lake\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Feder\" - English: \"",
+        "target": "['plume', 'feathers', 'feather', 'plumage', 'barbule', 'spring', 'pen']",
+        "word original": "spring"
+    },
+    "['Mond', 'Frau Luna', 'Luna', 'Erdmond']": {
+        "prompt": "Deutsch: \"Geschichte\" - English: \"historical development\"\nDeutsch: \"Welle\" - English: \"sea wave\"\nDeutsch: \"Holz\" - English: \"forrest\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Tuch\" - English: \"fabric\"\nDeutsch: \"Mond\" - English: \"",
+        "target": "['Luna', 'Moon', 'moon']",
+        "word original": "moon"
+    },
+    "['Holz', 'Busch', 'Wald', 'Forst', 'W\u00e4lder', 'Splintholz']": {
+        "prompt": "Deutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Tuch\" - English: \"fabric\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"Haus\" - English: \"house\"\nDeutsch: \"Lied\" - English: \"song\"\nDeutsch: \"Holz\" - English: \"",
+        "target": "['forrest', 'forest', 'wood', 'woods', 'W\u00e4lder', 'sap-wood', 'sapwood', 'alburnum']",
+        "word original": "wood"
+    },
+    "['Dorf', 'Ortschaft', 'Weiler', 'D\u00f6rfchen']": {
+        "prompt": "Deutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Geschichte\" - English: \"historical development\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Talent\" - English: \"skill\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Dorf\" - English: \"",
+        "target": "['village', 'hamlet']",
+        "word original": "village"
+    },
+    "['Wald', 'Busch', 'Forst', 'W\u00e4lder', 'Holz']": {
+        "prompt": "Deutsch: \"Stadt\" - English: \"city\"\nDeutsch: \"Haushalt\" - English: \"household\"\nDeutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"Mond\" - English: \"Luna\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Wald\" - English: \"",
+        "target": "['forrest', 'forest', 'wood', 'woods', 'W\u00e4lder']",
+        "word original": "forest"
+    },
+    "['Gitter', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Gittergewebe']": {
+        "prompt": "Deutsch: \"Boden\" - English: \"land\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Dorf\" - English: \"village\"\nDeutsch: \"Gitter\" - English: \"",
+        "target": "['net', 'computer network', 'mesh', 'network', 'meshwork', 'meshing', 'knitting stitch']",
+        "word original": "grid"
+    },
+    "['Lied']": {
+        "prompt": "Deutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"Plattform\" - English: \"platform\"\nDeutsch: \"Linie\" - English: \"straight line\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"Lied\" - English: \"",
+        "target": "['song', 'vocal']",
+        "word original": "song"
+    },
+    "['Wasser', 'Gew\u00e4sser']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - English: \"velocity\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Feld\" - English: \"plain\"\nDeutsch: \"Buch\" - English: \"book\"\nDeutsch: \"Wasser\" - English: \"",
+        "target": "['water', 'body of water', 'waterbody']",
+        "word original": "water"
+    },
+    "['Fluss', 'Flu\u00df', 'Hydrodynamik', 'Fluiddynamik']": {
+        "prompt": "Deutsch: \"Boden\" - English: \"land\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Tag\" - English: \"twenty-four hour period\"\nDeutsch: \"Quadrat\" - English: \"square\"\nDeutsch: \"Fluss\" - English: \"",
+        "target": "['river', 'flow', 'flowing', 'fluid dynamics']",
+        "word original": "river"
+    },
+    "['Gesetz', 'Recht']": {
+        "prompt": "Deutsch: \"Schnee\" - English: \"snow cover\"\nDeutsch: \"B\u00fcro\" - English: \"agency\"\nDeutsch: \"eins\" - English: \"one\"\nDeutsch: \"Fluss\" - English: \"river\"\nDeutsch: \"Feuer\" - English: \"flame\"\nDeutsch: \"Gesetz\" - English: \"",
+        "target": "['law', 'jurisprudence']",
+        "word original": "law"
+    },
+    "['Welle', 'Meereswelle', 'Wasserwelle']": {
+        "prompt": "Deutsch: \"Farbe\" - English: \"black\"\nDeutsch: \"Schnee\" - English: \"snow cover\"\nDeutsch: \"Tuch\" - English: \"fabric\"\nDeutsch: \"Mutter\" - English: \"mother\"\nDeutsch: \"Feuer\" - English: \"flame\"\nDeutsch: \"Welle\" - English: \"",
+        "target": "['sea wave', 'ocean surface wave', 'wave', 'moving ridge', 'wind wave']",
+        "word original": "wave"
+    },
+    "['Ozean', 'Meeresumwelt']": {
+        "prompt": "Deutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"Schwanz\" - English: \"tail\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Welle\" - English: \"sea wave\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Ozean\" - English: \"",
+        "target": "['sea', 'body of water', 'bounding main', 'ocean', 'marine environment']",
+        "word original": "ocean"
+    },
+    "['H\u00f6hle']": {
+        "prompt": "Deutsch: \"Art\" - English: \"kind\"\nDeutsch: \"Gold\" - English: \"Au\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"Feld\" - English: \"plain\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"H\u00f6hle\" - English: \"",
+        "target": "['cave']",
+        "word original": "cave"
+    },
+    "['Meer']": {
+        "prompt": "Deutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Feuer\" - English: \"flame\"\nDeutsch: \"H\u00f6hle\" - English: \"cave\"\nDeutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"Dorf\" - English: \"village\"\nDeutsch: \"Meer\" - English: \"",
+        "target": "['sea']",
+        "word original": "sea"
+    },
+    "['See']": {
+        "prompt": "Deutsch: \"Wolke\" - English: \"cloud\"\nDeutsch: \"Gesetz\" - English: \"law\"\nDeutsch: \"Ball\" - English: \"association football ball\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Talent\" - English: \"skill\"\nDeutsch: \"See\" - English: \"",
+        "target": "['lake']",
+        "word original": "lake"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"S\u00fcden\" - English: \"southward\"\nDeutsch: \"Haar\" - English: \"hair\"\nDeutsch: \"Sommer\" - English: \"summertime\"\nDeutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Maschine\" - English: \"aeroplane\"\nDeutsch: \"Quelle\" - English: \"",
+        "target": "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'well', 'beginning', 'root', 'origin', 'source', 'rootage']",
+        "word original": "source"
+    },
+    "['Feuer', 'Flamme', 'Feuergarbe', 'Lohe', 'Feuerzunge', 'Brand']": {
+        "prompt": "Deutsch: \"Stadt\" - English: \"city\"\nDeutsch: \"Feld\" - English: \"plain\"\nDeutsch: \"Maschine\" - English: \"aeroplane\"\nDeutsch: \"Licht\" - English: \"light\"\nDeutsch: \"Ball\" - English: \"association football ball\"\nDeutsch: \"Feuer\" - English: \"",
+        "target": "['flame', 'fire', 'flaming']",
+        "word original": "fire"
+    },
+    "['Punkt', 'Scorerpunkt', 'Spielergebnis', 'Spielstand', 'Stichwort']": {
+        "prompt": "Deutsch: \"Tuch\" - English: \"fabric\"\nDeutsch: \"Pferd\" - English: \"horse\"\nDeutsch: \"eins\" - English: \"one\"\nDeutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Punkt\" - English: \"",
+        "target": "['period', 'full stop', 'dot', 'point', 'stop', 'full point', 'score', 'item']",
+        "word original": "point"
+    },
+    "['Ball', 'Fu\u00dfball', 'Kugel', 'Geschoss', 'Flugk\u00f6rper', 'Projektil', 'Tanzball']": {
+        "prompt": "Deutsch: \"Auge\" - English: \"eye\"\nDeutsch: \"Art\" - English: \"kind\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Feder\" - English: \"plume\"\nDeutsch: \"Norden\" - English: \"northward\"\nDeutsch: \"Ball\" - English: \"",
+        "target": "['association football ball', 'bullet', 'slug', 'Slug', 'formal']",
+        "word original": "ball"
+    },
+    "['Gem\u00e4lde', 'Abbild', 'Maler', 'Darstellung', 'Malerei']": {
+        "prompt": "Deutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Wasser\" - English: \"water\"\nDeutsch: \"Holz\" - English: \"forrest\"\nDeutsch: \"Sommer\" - English: \"summertime\"\nDeutsch: \"Gem\u00e4lde\" - English: \"",
+        "target": "['image', 'picture', 'artist', 'painting', 'painter', 'art of painting']",
+        "word original": "painting"
+    },
+    "['Reis']": {
+        "prompt": "Deutsch: \"eins\" - English: \"one\"\nDeutsch: \"Haar\" - English: \"hair\"\nDeutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Dorf\" - English: \"village\"\nDeutsch: \"H\u00f6hle\" - English: \"cave\"\nDeutsch: \"Reis\" - English: \"",
+        "target": "['rice farmer', 'rice', 'rice grower', 'Rice gadu']",
+        "word original": "rice"
+    },
+    "['rot']": {
+        "prompt": "Deutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Boden\" - English: \"land\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"eins\" - English: \"one\"\nDeutsch: \"Turm\" - English: \"tower\"\nDeutsch: \"rot\" - English: \"",
+        "target": "['red', 'redness']",
+        "word original": "red"
+    },
+    "['Linie', 'Gerade']": {
+        "prompt": "Deutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Haus\" - English: \"house\"\nDeutsch: \"Sommer\" - English: \"summertime\"\nDeutsch: \"tausend\" - English: \"one thousand\"\nDeutsch: \"Meer\" - English: \"sea\"\nDeutsch: \"Linie\" - English: \"",
+        "target": "['straight line', 'line']",
+        "word original": "line"
+    },
+    "['Netz', 'Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Cyberspace', 'Gittergewebe', 'Gitter']": {
+        "prompt": "Deutsch: \"Wasser\" - English: \"water\"\nDeutsch: \"Gold\" - English: \"Au\"\nDeutsch: \"Plattform\" - English: \"platform\"\nDeutsch: \"Sprache\" - English: \"language\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Netz\" - English: \"",
+        "target": "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'mesh', 'meshwork', 'meshing', 'knitting stitch']",
+        "word original": "net"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"Welle\" - English: \"sea wave\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Gold\" - English: \"Au\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Fu\u00df\" - English: \"",
+        "target": "['human foot', 'foot', 'pes', 'Pes', 'Foot']",
+        "word original": "foot"
+    },
+    "['Gold', 'Bernsteinfarben']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"Br\u00fccke\" - English: \"bridge\"\nDeutsch: \"Kopf\" - English: \"head\"\nDeutsch: \"Freund\" - English: \"camaraderie\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Gold\" - English: \"",
+        "target": "['Au', 'amber', 'golden brown']",
+        "word original": "gold"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Standort\" - English: \"locus\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Ball\" - English: \"association football ball\"\nDeutsch: \"Schwanz\" - English: \"tail\"\nDeutsch: \"tausend\" - English: \"one thousand\"\nDeutsch: \"T\u00fcr\" - English: \"",
+        "target": "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe']",
+        "word original": "door"
+    },
+    "['Schnee', 'Schneedecke', 'Schneefall']": {
+        "prompt": "Deutsch: \"Tuch\" - English: \"fabric\"\nDeutsch: \"Gesetz\" - English: \"law\"\nDeutsch: \"Meer\" - English: \"sea\"\nDeutsch: \"Person\" - English: \"homo\"\nDeutsch: \"Schule\" - English: \"school\"\nDeutsch: \"Schnee\" - English: \"",
+        "target": "['snow cover', 'snow', 'snowfall', 'snow mantle']",
+        "word original": "snow"
+    },
+    "['Pferd', 'Gaul', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Feder\" - English: \"plume\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Ozean\" - English: \"sea\"\nDeutsch: \"Pferd\" - English: \"",
+        "target": "['horse', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['eins', 'ein']": {
+        "prompt": "Deutsch: \"Kopf\" - English: \"head\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"Reis\" - English: \"rice farmer\"\nDeutsch: \"Stamm\" - English: \"tree\"\nDeutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"eins\" - English: \"",
+        "target": "['one', 'ace', 'unity', 'I', 'single', 'Numero Uno']",
+        "word original": "one"
+    },
+    "['zwei']": {
+        "prompt": "Deutsch: \"Schnee\" - English: \"snow cover\"\nDeutsch: \"Gesetz\" - English: \"law\"\nDeutsch: \"Maschine\" - English: \"aeroplane\"\nDeutsch: \"Quadrat\" - English: \"square\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"zwei\" - English: \"",
+        "target": "['two', 'deuce', 'II']",
+        "word original": "two"
+    },
+    "['f\u00fcnf']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - English: \"cave\"\nDeutsch: \"Turm\" - English: \"tower\"\nDeutsch: \"Haushalt\" - English: \"household\"\nDeutsch: \"Paar\" - English: \"pair\"\nDeutsch: \"Reis\" - English: \"rice farmer\"\nDeutsch: \"f\u00fcnf\" - English: \"",
+        "target": "['five', 'fin', 'fivesome', 'quintet', 'cinque', 'quint', 'pentad', 'V', 'Phoebe', 'quintuplet', 'Little Phoebe']",
+        "word original": "five"
+    },
+    "['sechs', 'Schwindler', 'halbes Dutzend']": {
+        "prompt": "Deutsch: \"Linie\" - English: \"straight line\"\nDeutsch: \"Art\" - English: \"kind\"\nDeutsch: \"Licht\" - English: \"light\"\nDeutsch: \"Paar\" - English: \"pair\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"sechs\" - English: \"",
+        "target": "['six', 'half a dozen', 'sextuplet', 'VI', 'Captain Hicks', 'sise', 'sextet', 'hexad', 'sixer', 'sestet']",
+        "word original": "six"
+    },
+    "['zehn']": {
+        "prompt": "Deutsch: \"Hand\" - English: \"manus\"\nDeutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"Plattform\" - English: \"platform\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"zehn\" - English: \"",
+        "target": "['ten', 'decade', 'tenner', 'X']",
+        "word original": "ten"
+    },
+    "['Kopf', 'Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Haupt', 'Avers']": {
+        "prompt": "Deutsch: \"sechs\" - English: \"six\"\nDeutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Quadrat\" - English: \"square\"\nDeutsch: \"Ozean\" - English: \"sea\"\nDeutsch: \"Kopf\" - English: \"",
+        "target": "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'reverse', 'verso', 'obverse']",
+        "word original": "head"
+    },
+    "['Stra\u00dfe', 'Strasse', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Person\" - English: \"homo\"\nDeutsch: \"Wolke\" - English: \"cloud\"\nDeutsch: \"S\u00fcden\" - English: \"southward\"\nDeutsch: \"Pferd\" - English: \"horse\"\nDeutsch: \"Stra\u00dfe\" - English: \"",
+        "target": "['road', 'route', 'street']",
+        "word original": "street"
+    },
+    "['Auge', 'Augapfel', 'Augen']": {
+        "prompt": "Deutsch: \"S\u00fcden\" - English: \"southward\"\nDeutsch: \"Sonne\" - English: \"star\"\nDeutsch: \"Tag\" - English: \"twenty-four hour period\"\nDeutsch: \"Sitz\" - English: \"seat\"\nDeutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Auge\" - English: \"",
+        "target": "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus']",
+        "word original": "eye"
+    },
+    "['Feld', 'Ebene', 'Acker', 'Anbaufl\u00e4che', 'Ackergrund', 'landwirtschaftliche Nutzfl\u00e4che', 'Ackerland', 'Weide', 'Esch', 'Flur', 'Weideland', 'Trade']": {
+        "prompt": "Deutsch: \"rot\" - English: \"red\"\nDeutsch: \"Meer\" - English: \"sea\"\nDeutsch: \"Gesetz\" - English: \"law\"\nDeutsch: \"Fu\u00df\" - English: \"human foot\"\nDeutsch: \"Maschine\" - English: \"aeroplane\"\nDeutsch: \"Feld\" - English: \"",
+        "target": "['plain', 'champaign', 'field', 'acre']",
+        "word original": "field"
+    },
+    "['Standort', 'geographische Lage', 'Platz', 'Ort', 'Lage', 'Habitat', 'nat\u00fcrlicher Lebensraum', 'Heimat', 'Stelle']": {
+        "prompt": "Deutsch: \"Meer\" - English: \"sea\"\nDeutsch: \"Lied\" - English: \"song\"\nDeutsch: \"zwei\" - English: \"two\"\nDeutsch: \"Art\" - English: \"kind\"\nDeutsch: \"Br\u00fccke\" - English: \"bridge\"\nDeutsch: \"Standort\" - English: \"",
+        "target": "['locus', 'locale', 'location', 'locality', 'geographic location', 'habitat', 'microhabitat', 'microenvironment', 'microsite', 'home ground', 'place', 'situation', 'topographic point', 'spot']",
+        "word original": "site"
+    },
+    "['Wort']": {
+        "prompt": "Deutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"Stamm\" - English: \"tree\"\nDeutsch: \"Tag\" - English: \"twenty-four hour period\"\nDeutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"Wort\" - English: \"",
+        "target": "['word']",
+        "word original": "word"
+    },
+    "['Paar', 'geordnetes Paar']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - English: \"human foot\"\nDeutsch: \"Licht\" - English: \"light\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"Tag\" - English: \"twenty-four hour period\"\nDeutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Paar\" - English: \"",
+        "target": "['pair', 'brace', 'ordered pair']",
+        "word original": "pair"
+    },
+    "['Sitz', 'Sitzgelegenheit', 'Sitzplatz']": {
+        "prompt": "Deutsch: \"Ozean\" - English: \"sea\"\nDeutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Sonne\" - English: \"star\"\nDeutsch: \"Mond\" - English: \"Luna\"\nDeutsch: \"Wasser\" - English: \"water\"\nDeutsch: \"Sitz\" - English: \"",
+        "target": "['seat']",
+        "word original": "seat"
+    },
+    "['Licht', 'Lichtquelle']": {
+        "prompt": "Deutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Farbe\" - English: \"black\"\nDeutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"rot\" - English: \"red\"\nDeutsch: \"Licht\" - English: \"",
+        "target": "['light', 'light source', 'visible light', 'visible radiation']",
+        "word original": "light"
+    },
+    "['tausend']": {
+        "prompt": "Deutsch: \"Mutter\" - English: \"mother\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"Gold\" - English: \"Au\"\nDeutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"tausend\" - English: \"",
+        "target": "['one thousand', 'K', 'G', 'chiliad', 'yard', 'M', 'grand', 'thou', 'thousand']",
+        "word original": "thousand"
+    },
+    "['Norden']": {
+        "prompt": "Deutsch: \"Sonne\" - English: \"star\"\nDeutsch: \"B\u00fcro\" - English: \"agency\"\nDeutsch: \"Farbe\" - English: \"black\"\nDeutsch: \"Tag\" - English: \"twenty-four hour period\"\nDeutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"Norden\" - English: \"",
+        "target": "['northward', 'N', 'north', 'due north']",
+        "word original": "north"
+    },
+    "['Maschine', 'Flugzeug', 'Flieger', 'Einrichtung', 'Einheit', 'Baustein', 'Instrument', 'Hilfsmittel', 'Vorrichtung', 'Apparat', 'Ger\u00e4t', 'Maschinenanlage', 'Maschinerie', 'Machinery', 'maschinelle Ausr\u00fcstung', 'mechanisches Ger\u00e4t']": {
+        "prompt": "Deutsch: \"sechs\" - English: \"six\"\nDeutsch: \"Sprache\" - English: \"language\"\nDeutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"Gold\" - English: \"Au\"\nDeutsch: \"Kopf\" - English: \"head\"\nDeutsch: \"Maschine\" - English: \"",
+        "target": "['aeroplane', 'fixed-wing aircraft', 'plane', 'airplane', 'machine', 'device', 'machinery', 'mechanism', 'Machinery', 'mechanical device']",
+        "word original": "machine"
+    },
+    "['Zeit', 'Zeitform', 'Tempus']": {
+        "prompt": "Deutsch: \"Lied\" - English: \"song\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"sechs\" - English: \"six\"\nDeutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"Plattform\" - English: \"platform\"\nDeutsch: \"Zeit\" - English: \"",
+        "target": "['time', 'tense', 'grammatical tense']",
+        "word original": "time"
+    },
+    "['B\u00f6rse', 'Geldtasche', 'Geldbeutel', 'Geldb\u00f6rse', 'Portemonnaie', 'Brieftasche', 'Portmonee']": {
+        "prompt": "Deutsch: \"Zeit\" - English: \"time\"\nDeutsch: \"Tag\" - English: \"twenty-four hour period\"\nDeutsch: \"Plattform\" - English: \"platform\"\nDeutsch: \"Boden\" - English: \"land\"\nDeutsch: \"eins\" - English: \"one\"\nDeutsch: \"B\u00f6rse\" - English: \"",
+        "target": "['notecase', 'pocketbook', 'wallet', 'billfold']",
+        "word original": "exchange"
+    },
+    "['Freund', 'Kameradschaft', 'Freundschaft', 'Freundin', 'Verwandte', 'Verwandter', 'Blutsfreundin', 'Blutsverwandter', 'Blutsverwandte', 'Familienangeh\u00f6riger', 'Familienangeh\u00f6rige', 'Angeh\u00f6riger', 'Angeh\u00f6rige', 'Blutsfreund']": {
+        "prompt": "Deutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"Welle\" - English: \"sea wave\"\nDeutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"eins\" - English: \"one\"\nDeutsch: \"Mond\" - English: \"Luna\"\nDeutsch: \"Freund\" - English: \"",
+        "target": "['camaraderie', 'comradeship', 'comradery', 'chumminess', 'comradeliness', 'friendship', 'friendly relationship', 'friend', 'swain', 'boyfriend', 'fellow', 'beau', 'young man', 'relative', 'relation']",
+        "word original": "friend"
+    },
+    "['Farbe', 'Schwarz', 'Teint', 'Gesichtsfarbe', 'Lack', 'Anstrichmittel', 'Malfarbe']": {
+        "prompt": "Deutsch: \"Auge\" - English: \"eye\"\nDeutsch: \"Geschwindigkeit\" - English: \"velocity\"\nDeutsch: \"Standort\" - English: \"locus\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Farbe\" - English: \"",
+        "target": "['black', 'color', 'coloring', 'colouring', 'complexion', 'colour', 'lists of colors', 'paint', 'pigment']",
+        "word original": "color"
+    },
+    "['Art', 'Sorte']": {
+        "prompt": "Deutsch: \"Freund\" - English: \"camaraderie\"\nDeutsch: \"Feld\" - English: \"plain\"\nDeutsch: \"Haus\" - English: \"house\"\nDeutsch: \"rot\" - English: \"red\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Art\" - English: \"",
+        "target": "['kind', 'sort', 'form', 'variety']",
+        "word original": "kind"
+    },
+    "['Richter']": {
+        "prompt": "Deutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"Holz\" - English: \"forrest\"\nDeutsch: \"Stern\" - English: \"star\"\nDeutsch: \"Feder\" - English: \"plume\"\nDeutsch: \"Richter\" - English: \"",
+        "target": "['judge', 'jurist', 'justice']",
+        "word original": "judge"
+    },
+    "['Schule', 'Uni', 'Universit\u00e4t', 'Akademie', 'Hirt', 'Herde', 'Hirte']": {
+        "prompt": "Deutsch: \"Kopf\" - English: \"head\"\nDeutsch: \"B\u00fcro\" - English: \"agency\"\nDeutsch: \"Welle\" - English: \"sea wave\"\nDeutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Schule\" - English: \"",
+        "target": "['school', 'university', 'academy', 'herd']",
+        "word original": "school"
+    },
+    "['Krawatte', 'Schlips']": {
+        "prompt": "Deutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Mond\" - English: \"Luna\"\nDeutsch: \"Haushalt\" - English: \"household\"\nDeutsch: \"Talent\" - English: \"skill\"\nDeutsch: \"Geschichte\" - English: \"historical development\"\nDeutsch: \"Krawatte\" - English: \"",
+        "target": "['necktie', 'tie']",
+        "word original": "tie"
+    },
+    "['Gesicht', 'Visage', 'Angesicht', 'Antlitz']": {
+        "prompt": "Deutsch: \"Freund\" - English: \"camaraderie\"\nDeutsch: \"Schule\" - English: \"school\"\nDeutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Dorf\" - English: \"village\"\nDeutsch: \"Fu\u00df\" - English: \"human foot\"\nDeutsch: \"Gesicht\" - English: \"",
+        "target": "['face', 'human face']",
+        "word original": "face"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"Mutter\" - English: \"mother\"\nDeutsch: \"Feder\" - English: \"plume\"\nDeutsch: \"Person\" - English: \"homo\"\nDeutsch: \"Dorf\" - English: \"village\"\nDeutsch: \"Br\u00fccke\" - English: \"",
+        "target": "['bridge', 'span', 'list of Roman bridges']",
+        "word original": "bridge"
+    },
+    "['Gruppe', 'Ensemble', 'Bruchteil', 'funktionelle Gruppe', 'Band', 'Combo', 'Kapelle', 'Musikkapelle', 'Musikbande', 'Rockgruppe', 'Rock-Gruppe', 'Rockband', 'Klasse', 'Kategorie', 'Strau\u00df', 'Bund']": {
+        "prompt": "Deutsch: \"Fluss\" - English: \"river\"\nDeutsch: \"Auge\" - English: \"eye\"\nDeutsch: \"Sommer\" - English: \"summertime\"\nDeutsch: \"Br\u00fccke\" - English: \"bridge\"\nDeutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Gruppe\" - English: \"",
+        "target": "['musical organization', 'musical organisation', 'musical group', 'musical ensemble', 'moiety', 'functional group', 'group', 'chemical group', 'radical', 'band', 'team', 'rock band', 'rock group', 'grouping', 'family', 'category', 'class', 'clustering', 'cluster', 'bunch', 'clump']",
+        "word original": "group"
+    },
+    "['Talent', 'Fertigkeit', 'F\u00e4higkeit', 'Kunst', 'Kompetenz', 'Errungenschaft', 'Geschicklichkeit']": {
+        "prompt": "Deutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"Boden\" - English: \"land\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"Mutter\" - English: \"mother\"\nDeutsch: \"Geschichte\" - English: \"historical development\"\nDeutsch: \"Talent\" - English: \"",
+        "target": "['skill', 'acquirement', 'acquisition', 'accomplishment', 'attainment']",
+        "word original": "talent"
+    },
+    "['Plattform', 'Perron', 'Bahnsteig']": {
+        "prompt": "Deutsch: \"Gold\" - English: \"Au\"\nDeutsch: \"Ball\" - English: \"association football ball\"\nDeutsch: \"Auge\" - English: \"eye\"\nDeutsch: \"Zeit\" - English: \"time\"\nDeutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"Plattform\" - English: \"",
+        "target": "['platform']",
+        "word original": "platform"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Geschwindigkeit\" - English: \"velocity\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Geschichte\" - English: \"historical development\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"Haus\" - English: \"",
+        "target": "['house', 'home', 'dwelling', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence']",
+        "word original": "house"
+    },
+    "['Sonne', 'Stern', 'Fixstern']": {
+        "prompt": "Deutsch: \"Haus\" - English: \"house\"\nDeutsch: \"Gruppe\" - English: \"musical organization\"\nDeutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"B\u00fcro\" - English: \"agency\"\nDeutsch: \"Haushalt\" - English: \"household\"\nDeutsch: \"Sonne\" - English: \"",
+        "target": "['star', 'sun', 'Sun']",
+        "word original": "sun"
+    },
+    "['Geschichte', 'historische Entwicklung', 'Geschichtswissenschaft', 'Erz\u00e4hlung', 'Erz\u00e4hlperspektive', 'Erz\u00e4hlweise', 'literarisches Stilmittel', 'Plot', 'Stoff', 'Fabula und Sujet', 'Handlung', 'Fabula']": {
+        "prompt": "Deutsch: \"Schwanz\" - English: \"tail\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Reis\" - English: \"rice farmer\"\nDeutsch: \"Talent\" - English: \"skill\"\nDeutsch: \"Hand\" - English: \"manus\"\nDeutsch: \"Geschichte\" - English: \"",
+        "target": "['historical development', 'history', 'story', 'tale', 'narrative', 'narration', 'narrative point of view', 'literary technique', 'narrative mode', 'plot', 'storyline', 'fabula and syuzhet', 'plot kernel']",
+        "word original": "history"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Mond\" - English: \"Luna\"\nDeutsch: \"Buch\" - English: \"book\"\nDeutsch: \"Gesicht\" - English: \"face\"\nDeutsch: \"Wolke\" - English: \"cloud\"\nDeutsch: \"Geschwindigkeit\" - English: \"velocity\"\nDeutsch: \"Tal\" - English: \"",
+        "target": "['valley', 'dale', 'vale']",
+        "word original": "valley"
+    },
+    "['Quadrat', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Gesetz\" - English: \"law\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Fu\u00df\" - English: \"human foot\"\nDeutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"Quadrat\" - English: \"",
+        "target": "['square', 'foursquare', 'second power']",
+        "word original": "square"
+    },
+    "['S\u00fcden']": {
+        "prompt": "Deutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"tausend\" - English: \"one thousand\"\nDeutsch: \"Herz\" - English: \"heart\"\nDeutsch: \"Art\" - English: \"kind\"\nDeutsch: \"S\u00fcden\" - English: \"",
+        "target": "['southward', 'due south', 'south', 'S']",
+        "word original": "south"
+    },
+    "['Stamm', 'Baum', 'Baumstamm']": {
+        "prompt": "Deutsch: \"Auge\" - English: \"eye\"\nDeutsch: \"Talent\" - English: \"skill\"\nDeutsch: \"T\u00fcr\" - English: \"door case\"\nDeutsch: \"Wald\" - English: \"forrest\"\nDeutsch: \"Linie\" - English: \"straight line\"\nDeutsch: \"Stamm\" - English: \"",
+        "target": "['tree', 'tree trunk', 'trunk', 'bole']",
+        "word original": "tribe"
+    },
+    "['Stadt', 'Metropole', 'Gro\u00dfstadt', 'Weltstadt', 'Stadtsiedlung', 'Kleinstadt', 'Bourg']": {
+        "prompt": "Deutsch: \"tausend\" - English: \"one thousand\"\nDeutsch: \"Kopf\" - English: \"head\"\nDeutsch: \"Tal\" - English: \"valley\"\nDeutsch: \"Rede\" - English: \"spoken language\"\nDeutsch: \"Mond\" - English: \"Luna\"\nDeutsch: \"Stadt\" - English: \"",
+        "target": "['city', 'urban center', 'metropolis', 'city/town', 'town', 'large village']",
+        "word original": "city"
+    },
+    "['Sprache', 'Zunge', 'menschliche Sprache', 'Einzelsprache', 'Akzent', 'Idiom', 'Dialekt', 'Ausdrucksweise', 'Mundart']": {
+        "prompt": "Deutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Turm\" - English: \"tower\"\nDeutsch: \"Lied\" - English: \"song\"\nDeutsch: \"Feuer\" - English: \"flame\"\nDeutsch: \"Wort\" - English: \"word\"\nDeutsch: \"Sprache\" - English: \"",
+        "target": "['language', 'human language', 'linguistic communication', 'dialect', 'accent', 'idiom']",
+        "word original": "language"
+    },
+    "['Geschwindigkeit', 'Schnelligkeit', 'Geschwindigkeitsvektor']": {
+        "prompt": "Deutsch: \"Schule\" - English: \"school\"\nDeutsch: \"Versuch\" - English: \"experimentation\"\nDeutsch: \"Holz\" - English: \"forrest\"\nDeutsch: \"Ozean\" - English: \"sea\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Geschwindigkeit\" - English: \"",
+        "target": "['velocity', 'speed', 'fastness', 'swiftness']",
+        "word original": "speed"
+    },
+    "['Versuch', 'Experiment', 'Experimentieren']": {
+        "prompt": "Deutsch: \"Geschichte\" - English: \"historical development\"\nDeutsch: \"Stadt\" - English: \"city\"\nDeutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"Linie\" - English: \"straight line\"\nDeutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Versuch\" - English: \"",
+        "target": "['experimentation', 'experiment', 'try', 'attempt', 'endeavor', 'endeavour', 'effort']",
+        "word original": "attempt"
+    },
+    "['Schwanz']": {
+        "prompt": "Deutsch: \"Osten\" - English: \"E\"\nDeutsch: \"Maschine\" - English: \"aeroplane\"\nDeutsch: \"zwei\" - English: \"two\"\nDeutsch: \"Punkt\" - English: \"period\"\nDeutsch: \"Pferd\" - English: \"horse\"\nDeutsch: \"Schwanz\" - English: \"",
+        "target": "['tail']",
+        "word original": "tail"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"B\u00f6rse\" - English: \"notecase\"\nDeutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"Plattform\" - English: \"platform\"\nDeutsch: \"Richter\" - English: \"judge\"\nDeutsch: \"Mutter\" - English: \"",
+        "target": "['mother', 'female parent', 'motherhood', 'mom', 'mammy', 'mama', 'mummy', 'mum', 'ma', 'momma', 'mamma', 'mumma', 'mommy', 'nut']",
+        "word original": "mother"
+    },
+    "['Osten', 'Ost']": {
+        "prompt": "Deutsch: \"Wolke\" - English: \"cloud\"\nDeutsch: \"H\u00f6hle\" - English: \"cave\"\nDeutsch: \"Quelle\" - English: \"spring\"\nDeutsch: \"Schwanz\" - English: \"tail\"\nDeutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Osten\" - English: \"",
+        "target": "['E', 'eastward', 'east', 'due east']",
+        "word original": "east"
+    },
+    "['Rede', 'gesprochene Sprache', 'Sprechen', 'Gesprochene Sprache']": {
+        "prompt": "Deutsch: \"Turm\" - English: \"tower\"\nDeutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Haus\" - English: \"house\"\nDeutsch: \"Gem\u00e4lde\" - English: \"image\"\nDeutsch: \"Pferd\" - English: \"horse\"\nDeutsch: \"Rede\" - English: \"",
+        "target": "['spoken language', 'speech', 'oral communication', 'spoken communication', 'language', 'voice communication', 'speech communication']",
+        "word original": "speech"
+    },
+    "['Kind', 'Minderj\u00e4hrige', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling', 'Kindheit', 'Kinder']": {
+        "prompt": "Deutsch: \"f\u00fcnf\" - English: \"five\"\nDeutsch: \"Freund\" - English: \"camaraderie\"\nDeutsch: \"See\" - English: \"lake\"\nDeutsch: \"Ball\" - English: \"association football ball\"\nDeutsch: \"Haar\" - English: \"hair\"\nDeutsch: \"Kind\" - English: \"",
+        "target": "['fry', 'french fry', 'minor', 'chip', 'child', 'youngster', 'shaver', 'small fry', 'kid', 'nestling', 'tiddler', 'tike', 'tyke', 'nipper', 'baby', 'infaneto', 'infant', 'babe', 'puerility', 'childhood', 'history of childhood in Europe', 'children']",
+        "word original": "child"
+    },
+    "['Turm']": {
+        "prompt": "Deutsch: \"Kind\" - English: \"fry\"\nDeutsch: \"Wasser\" - English: \"water\"\nDeutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"Boden\" - English: \"land\"\nDeutsch: \"H\u00f6hle\" - English: \"cave\"\nDeutsch: \"Turm\" - English: \"",
+        "target": "['tower']",
+        "word original": "tower"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"rot\" - English: \"red\"\nDeutsch: \"Stra\u00dfe\" - English: \"road\"\nDeutsch: \"Wolke\" - English: \"cloud\"\nDeutsch: \"Krawatte\" - English: \"necktie\"\nDeutsch: \"zwei\" - English: \"two\"\nDeutsch: \"Haar\" - English: \"",
+        "target": "['hair', 'pilus']",
+        "word original": "hair"
+    },
+    "['Haushalt', 'Privathaushalt', 'Budget', '\u00f6ffentlicher Haushalt', 'Etat']": {
+        "prompt": "Deutsch: \"zwei\" - English: \"two\"\nDeutsch: \"Ozean\" - English: \"sea\"\nDeutsch: \"Norden\" - English: \"northward\"\nDeutsch: \"Paar\" - English: \"pair\"\nDeutsch: \"Fu\u00df\" - English: \"human foot\"\nDeutsch: \"Haushalt\" - English: \"",
+        "target": "['household', 'family', 'home', 'menage', 'house', 'private household', 'budget', 'public budget']",
+        "word original": "household"
+    },
+    "['Person', 'Mensch', 'Hominid', 'Homo', 'Homo sapiens sapiens', 'Sterbliche', 'Jemand', 'Sterblicher', 'Individuum']": {
+        "prompt": "Deutsch: \"Tasche\" - English: \"sack\"\nDeutsch: \"Lied\" - English: \"song\"\nDeutsch: \"zehn\" - English: \"ten\"\nDeutsch: \"Fu\u00df\" - English: \"human foot\"\nDeutsch: \"Gesetz\" - English: \"law\"\nDeutsch: \"Person\" - English: \"",
+        "target": "['homo', 'human being', 'hominid', 'human', 'man', 'Homo', 'Homo sapiens sapiens', 'someone', 'mortal', 'individual', 'somebody', 'soul']",
+        "word original": "person"
+    },
+    "['B\u00fcro', 'Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'Beh\u00f6rde', 'Kontor', 'B\u00fcrogeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Wasser\" - English: \"water\"\nDeutsch: \"Licht\" - English: \"light\"\nDeutsch: \"Hand\" - English: \"manus\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Feld\" - English: \"plain\"\nDeutsch: \"B\u00fcro\" - English: \"",
+        "target": "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'business office']",
+        "word original": "office"
+    },
+    "['Sommer', 'Sommersaison', 'Sommerzeit']": {
+        "prompt": "Deutsch: \"Feder\" - English: \"plume\"\nDeutsch: \"Feuer\" - English: \"flame\"\nDeutsch: \"Gitter\" - English: \"net\"\nDeutsch: \"Netz\" - English: \"network\"\nDeutsch: \"Stadt\" - English: \"city\"\nDeutsch: \"Sommer\" - English: \"",
+        "target": "['summertime', 'summer season', 'summer']",
+        "word original": "summer"
+    }
+}

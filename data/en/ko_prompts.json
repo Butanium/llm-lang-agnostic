@@ -1,0 +1,472 @@
+{
+    "['book']": {
+        "prompt": "English: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"red\" - \ud55c\uad6d\uc5b4: \"\ube68\uac15\"\nEnglish: \"cloud\" - \ud55c\uad6d\uc5b4: \"\uad6c\ub984\"\nEnglish: \"book\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ucc45']",
+        "word original": "book"
+    },
+    "['cloud']": {
+        "prompt": "English: \"village\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uc744\"\nEnglish: \"face\" - \ud55c\uad6d\uc5b4: \"\uc5bc\uad74\"\nEnglish: \"east\" - \ud55c\uad6d\uc5b4: \"\ub3d9\ucabd\"\nEnglish: \"child\" - \ud55c\uad6d\uc5b4: \"\uc544\uc774\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"cloud\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uad6c\ub984']",
+        "word original": "cloud"
+    },
+    "['bag', 'purse', 'handbag', 'pocketbook', 'sack', 'paper bag', 'carrier bag', 'poke', 'plastic shopping bag', 'case', 'suitcase', 'traveling bag', 'travelling bag', 'grip']": {
+        "prompt": "English: \"power\" - \ud55c\uad6d\uc5b4: \"\uad8c\ub825\"\nEnglish: \"forest\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"eye\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"song\" - \ud55c\uad6d\uc5b4: \"\ub178\ub798\"\nEnglish: \"bag\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc190\uac00\ubc29', '\uac00\ubc29', '\ube44\ub2d0\ubd09\ud22c', '\uc790\ub8e8', '\uc1fc\ud551 \ubc31', '\uc885\uc774 \uac00\ubc29', '\uc5ec\ud589 \uac00\ubc29', '\ud2b8\ub801\ud06c', '\uc288\ud2b8\ucf00\uc774\uc2a4']",
+        "word original": "bag"
+    },
+    "['mountain', 'mount']": {
+        "prompt": "English: \"wood\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"star\" - \ud55c\uad6d\uc5b4: \"\ubcc4\"\nEnglish: \"village\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uc744\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"sea\" - \ud55c\uad6d\uc5b4: \"\ubc14\ub2e4\"\nEnglish: \"mountain\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc0b0']",
+        "word original": "mountain"
+    },
+    "['cloth', 'fabric', 'textile', 'material']": {
+        "prompt": "English: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"snow\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"point\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uce68\ud45c\"\nEnglish: \"six\" - \ud55c\uad6d\uc5b4: \"\ub959\"\nEnglish: \"sea\" - \ud55c\uad6d\uc5b4: \"\ubc14\ub2e4\"\nEnglish: \"cloth\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc9c1\ubb3c', '\uc637\uac10']",
+        "word original": "cloth"
+    },
+    "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"gold\" - \ud55c\uad6d\uc5b4: \"\uae08\"\nEnglish: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4\"\nEnglish: \"eye\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"heart\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc2ec\uc7a5', '\uc560\ucc29', '\ud585\ud2f1', '\ud544\ub9ac\uc544']",
+        "word original": "heart"
+    },
+    "['day', 'twenty-four hour period', 'solar day', 'twenty-four hours', 'mean solar day']": {
+        "prompt": "English: \"ground\" - \ud55c\uad6d\uc5b4: \"\ub545\"\nEnglish: \"summer\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub984\"\nEnglish: \"history\" - \ud55c\uad6d\uc5b4: \"\uc5ed\uc0ac\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"structure\" - \ud55c\uad6d\uc5b4: \"\uad6c\uc870\"\nEnglish: \"day\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub0a0', '\uc77c']",
+        "word original": "day"
+    },
+    "['star', 'asterisk', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"red\" - \ud55c\uad6d\uc5b4: \"\ube68\uac15\"\nEnglish: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"star\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubcc4', '\ud56d\uc131', '\uc678\uacc4 \ud589\uc131 \uc8fc\uc778\ubcc4', '\ubcc4\ud45c', '\uc288\ud37c\uc2a4\ud0c0', '\uc720\uba85\uc778', '\uc2a4\ud0c0', '\uba54\uc774\ube10', '\ub9c8\ubca4']",
+        "word original": "star"
+    },
+    "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'season', 'time of year', 'springtime']": {
+        "prompt": "English: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"square\" - \ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\"\nEnglish: \"judge\" - \ud55c\uad6d\uc5b4: \"\ud310\uc0ac\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"\uc624\"\nEnglish: \"book\" - \ud55c\uad6d\uc5b4: \"\ucc45\"\nEnglish: \"spring\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc0d8\ud130', '\uc0d8', '\uacc4\uc808', '\ubd04', '\ucd9c\ub801\uc1e0', '\uc6a9\uc218\ucca0']",
+        "word original": "spring"
+    },
+    "['moon', 'Luna']": {
+        "prompt": "English: \"water\" - \ud55c\uad6d\uc5b4: \"\ubb3c\"\nEnglish: \"word\" - \ud55c\uad6d\uc5b4: \"\ub0b1\ub9d0\"\nEnglish: \"east\" - \ud55c\uad6d\uc5b4: \"\ub3d9\ucabd\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"cloud\" - \ud55c\uad6d\uc5b4: \"\uad6c\ub984\"\nEnglish: \"moon\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub2ec']",
+        "word original": "moon"
+    },
+    "['wood', 'forrest', 'forest', 'woods', 'W\u00e4lder', 'sap-wood', 'sapwood', 'alburnum']": {
+        "prompt": "English: \"red\" - \ud55c\uad6d\uc5b4: \"\ube68\uac15\"\nEnglish: \"word\" - \ud55c\uad6d\uc5b4: \"\ub0b1\ub9d0\"\nEnglish: \"mountain\" - \ud55c\uad6d\uc5b4: \"\uc0b0\"\nEnglish: \"bag\" - \ud55c\uad6d\uc5b4: \"\uc190\uac00\ubc29\"\nEnglish: \"site\" - \ud55c\uad6d\uc5b4: \"\uc6f9\uc0ac\uc774\ud2b8\"\nEnglish: \"wood\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc232', '\uc0bc\ub9bc', '\ub098\ubb34', '\ubaa9\uc7ac']",
+        "word original": "wood"
+    },
+    "['village', 'hamlet']": {
+        "prompt": "English: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"language\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"spring\" - \ud55c\uad6d\uc5b4: \"\uc0d8\ud130\"\nEnglish: \"fruit\" - \ud55c\uad6d\uc5b4: \"\uc5f4\ub9e4\"\nEnglish: \"line\" - \ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\"\nEnglish: \"village\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub9c8\uc744', '\ucd0c\ub77d']",
+        "word original": "village"
+    },
+    "['forest', 'forrest', 'wood', 'woods', 'W\u00e4lder']": {
+        "prompt": "English: \"door\" - \ud55c\uad6d\uc5b4: \"\ubb38\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"language\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"face\" - \ud55c\uad6d\uc5b4: \"\uc5bc\uad74\"\nEnglish: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"forest\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc232', '\uc0bc\ub9bc']",
+        "word original": "forest"
+    },
+    "['fruit', 'fleshy fruit']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"ground\" - \ud55c\uad6d\uc5b4: \"\ub545\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"two\" - \ud55c\uad6d\uc5b4: \"\ub458\"\nEnglish: \"fruit\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5f4\ub9e4']",
+        "word original": "fruit"
+    },
+    "['song', 'vocal']": {
+        "prompt": "English: \"water\" - \ud55c\uad6d\uc5b4: \"\ubb3c\"\nEnglish: \"power\" - \ud55c\uad6d\uc5b4: \"\uad8c\ub825\"\nEnglish: \"foot\" - \ud55c\uad6d\uc5b4: \"\ubc1c\"\nEnglish: \"line\" - \ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\"\nEnglish: \"thousand\" - \ud55c\uad6d\uc5b4: \"\ucc9c\"\nEnglish: \"song\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub178\ub798']",
+        "word original": "song"
+    },
+    "['water', 'body of water', 'waterbody', 'ice', 'water ice']": {
+        "prompt": "English: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"version\" - \ud55c\uad6d\uc5b4: \"\ubc88\uc5ed\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"water\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubb3c', '\uc218\uc5ed', '\uc5bc\uc74c']",
+        "word original": "water"
+    },
+    "['river', 'stream', 'watercourse', 'brook', 'lake system']": {
+        "prompt": "English: \"sun\" - \ud55c\uad6d\uc5b4: \"\ud0dc\uc591\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"speech\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"wood\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"face\" - \ud55c\uad6d\uc5b4: \"\uc5bc\uad74\"\nEnglish: \"river\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uac15', '\uc2dc\ub0b4', '\ubb3c\uae38', '\ub0b4', '\uac1c\uc6b8']",
+        "word original": "river"
+    },
+    "['law', 'jurisprudence', 'police', 'police force', 'constabulary', 'Constabulary']": {
+        "prompt": "English: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"moon\" - \ud55c\uad6d\uc5b4: \"\ub2ec\"\nEnglish: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"bridge\" - \ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\"\nEnglish: \"fruit\" - \ud55c\uad6d\uc5b4: \"\uc5f4\ub9e4\"\nEnglish: \"law\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubc95', '\uacbd\ucc30']",
+        "word original": "law"
+    },
+    "['wave', 'sea wave', 'ocean surface wave', 'moving ridge', 'wind wave']": {
+        "prompt": "English: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"face\" - \ud55c\uad6d\uc5b4: \"\uc5bc\uad74\"\nEnglish: \"tea\" - \ud55c\uad6d\uc5b4: \"\ucc28\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"cave\" - \ud55c\uad6d\uc5b4: \"\ub3d9\uad74\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud30c\ub3c4']",
+        "word original": "wave"
+    },
+    "['ocean', 'sea', 'body of water', 'bounding main', 'marine environment']": {
+        "prompt": "English: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"pair\" - \ud55c\uad6d\uc5b4: \"\ucf24\ub808\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"cloud\" - \ud55c\uad6d\uc5b4: \"\uad6c\ub984\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub300\uc591']",
+        "word original": "ocean"
+    },
+    "['cave']": {
+        "prompt": "English: \"line\" - \ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"history\" - \ud55c\uad6d\uc5b4: \"\uc5ed\uc0ac\"\nEnglish: \"tie\" - \ud55c\uad6d\uc5b4: \"\ub125\ud0c0\uc774\"\nEnglish: \"cave\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub3d9\uad74']",
+        "word original": "cave"
+    },
+    "['sea', 'body of water', 'bounding main', 'ocean', 'marine environment']": {
+        "prompt": "English: \"rice\" - \ud55c\uad6d\uc5b4: \"\uc300\"\nEnglish: \"sun\" - \ud55c\uad6d\uc5b4: \"\ud0dc\uc591\"\nEnglish: \"tie\" - \ud55c\uad6d\uc5b4: \"\ub125\ud0c0\uc774\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"lake\" - \ud55c\uad6d\uc5b4: \"\ud638\uc218\"\nEnglish: \"sea\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubc14\ub2e4', '\ub300\uc591']",
+        "word original": "sea"
+    },
+    "['lake']": {
+        "prompt": "English: \"rock\" - \ud55c\uad6d\uc5b4: \"\ub85d\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"bridge\" - \ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\"\nEnglish: \"one\" - \ud55c\uad6d\uc5b4: \"\ud55c\"\nEnglish: \"forest\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"lake\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud638\uc218']",
+        "word original": "lake"
+    },
+    "['fire', 'flame', 'flaming']": {
+        "prompt": "English: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"shop\" - \ud55c\uad6d\uc5b4: \"\uac00\uac8c\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"door\" - \ud55c\uad6d\uc5b4: \"\ubb38\"\nEnglish: \"rock\" - \ud55c\uad6d\uc5b4: \"\ub85d\"\nEnglish: \"fire\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubd88', '\ud654\uc5fc', '\ubd88\uaf43', '\ubd88\uae38', '\ud070\ubd88', '\ud654\uc7ac']",
+        "word original": "fire"
+    },
+    "['point', 'period', 'full stop', 'dot', 'stop', 'full point', 'score', 'item']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"village\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uc744\"\nEnglish: \"ten\" - \ud55c\uad6d\uc5b4: \"\uc5f4\"\nEnglish: \"point\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub9c8\uce68\ud45c', '\ud3ec\uc778\ud2b8', '\ub4dd\uc810']",
+        "word original": "point"
+    },
+    "['version', 'translation', 'compilation', 'interlingual rendition', 'rendering', 'translated work', 'interpretation', 'reading']": {
+        "prompt": "English: \"square\" - \ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"mother\" - \ud55c\uad6d\uc5b4: \"\uc5b4\uba38\ub2c8\"\nEnglish: \"shop\" - \ud55c\uad6d\uc5b4: \"\uac00\uac8c\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4\"\nEnglish: \"version\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubc88\uc5ed', '\ubc88\uc5ed\ubb3c']",
+        "word original": "version"
+    },
+    "['ball', 'baseball', 'baseball game', 'association football ball', 'sphere', 'globe', 'orb', 'bullet', 'slug', 'Slug', 'formal', 'Football', 'football']": {
+        "prompt": "English: \"cloth\" - \ud55c\uad6d\uc5b4: \"\uc9c1\ubb3c\"\nEnglish: \"six\" - \ud55c\uad6d\uc5b4: \"\ub959\"\nEnglish: \"sea\" - \ud55c\uad6d\uc5b4: \"\ubc14\ub2e4\"\nEnglish: \"law\" - \ud55c\uad6d\uc5b4: \"\ubc95\"\nEnglish: \"valley\" - \ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\"\nEnglish: \"ball\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc57c\uad6c', '\uacf5', '\ucd95\uad6c\uacf5', '\uad6c', '\uad6c\uccb4', '\ud0c4\uc54c', '\ucd1d\uc54c', '\ubb34\ub3c4\ud68c', '\ucc9c\uccb4', '\ud48b\ubcfc', '\ucd95\uad6c']",
+        "word original": "ball"
+    },
+    "['painting', 'image', 'picture', 'artist', 'painter', 'art of painting']": {
+        "prompt": "English: \"site\" - \ud55c\uad6d\uc5b4: \"\uc6f9\uc0ac\uc774\ud2b8\"\nEnglish: \"pair\" - \ud55c\uad6d\uc5b4: \"\ucf24\ub808\"\nEnglish: \"red\" - \ud55c\uad6d\uc5b4: \"\ube68\uac15\"\nEnglish: \"ten\" - \ud55c\uad6d\uc5b4: \"\uc5f4\"\nEnglish: \"hair\" - \ud55c\uad6d\uc5b4: \"\ud138\"\nEnglish: \"painting\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud68c\ud654']",
+        "word original": "painting"
+    },
+    "['rice', 'rice farmer', 'rice grower', 'Rice gadu']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"south\" - \ud55c\uad6d\uc5b4: \"\ub0a8\ucabd\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"painting\" - \ud55c\uad6d\uc5b4: \"\ud68c\ud654\"\nEnglish: \"rice\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc300', '\ubcbc']",
+        "word original": "rice"
+    },
+    "['red', 'redness']": {
+        "prompt": "English: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"two\" - \ud55c\uad6d\uc5b4: \"\ub458\"\nEnglish: \"history\" - \ud55c\uad6d\uc5b4: \"\uc5ed\uc0ac\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"red\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ube68\uac15', '\ube68\uac04\uc0c9']",
+        "word original": "red"
+    },
+    "['line', 'television', 'video', 'TV', 'telecasting', 'videotape recording', 'work', 'occupation', 'employment', 'job', 'business', 'line of work', 'day job', 'sentence', 'straight line', 'tune', 'strain', 'melody', 'air', 'melodic line', 'melodic phrase', 'string', 'twine', 'telephone line', 'telephone circuit', 'phone line', 'subscriber line', 'band', 'stripe', 'banding']": {
+        "prompt": "English: \"gold\" - \ud55c\uad6d\uc5b4: \"\uae08\"\nEnglish: \"eight\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub35f\"\nEnglish: \"mother\" - \ud55c\uad6d\uc5b4: \"\uc5b4\uba38\ub2c8\"\nEnglish: \"river\" - \ud55c\uad6d\uc5b4: \"\uac15\"\nEnglish: \"two\" - \ud55c\uad6d\uc5b4: \"\ub458\"\nEnglish: \"line\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud154\ub808\ube44\uc804', '\ud2f0\ubdd4', '\ube44\ub514\uc624', '\ud2f0\ube44', '\ud154\ub808\ube44', '\uc804\uc2dc', '\ud14c\ub808\ube44', '\ud2f0\ube0c\uc774', '\uc9c1\uc5c5', '\uc54c\ubc14', '\uc77c', '\uc544\ub974\ubc14\uc774\ud2b8', '\uc77c\uc790\ub9ac', '\ubb38\uc7a5', '\uc13c\ud150\uc2a4', '\uc9c1\uc120', '\uace1\uc870', '\uc120\uc728', '\uba5c\ub85c\ub514', '\uc545\uace1', '\uace1', '\ub048', '\uc804\ud654\uc120', '\uc904\ubb34\ub2ac']",
+        "word original": "line"
+    },
+    "['net', 'network', 'Internet', 'computer network', 'internet', 'cyberspace', 'mesh', 'meshwork', 'meshing', 'knitting stitch', 'profit', 'lucre', 'profits', 'earnings', 'net income', 'net profit']": {
+        "prompt": "English: \"cloth\" - \ud55c\uad6d\uc5b4: \"\uc9c1\ubb3c\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"red\" - \ud55c\uad6d\uc5b4: \"\ube68\uac15\"\nEnglish: \"forest\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"net\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc778\ud130\ub137', '\uc778\ud130\ub124\ud2b8', '\ub204\ub9ac\ub9dd', '\ub137', '\uac00\uc0c1 \uacf5\uac04', '\uadf8\ubb3c', '\ub9dd', '\uc21c\uc774\uc775', '\uc774\uc775']",
+        "word original": "net"
+    },
+    "['tea', 'dinner', 'evening meal', 'supper', 'tea leaf']": {
+        "prompt": "English: \"word\" - \ud55c\uad6d\uc5b4: \"\ub0b1\ub9d0\"\nEnglish: \"moon\" - \ud55c\uad6d\uc5b4: \"\ub2ec\"\nEnglish: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"tie\" - \ud55c\uad6d\uc5b4: \"\ub125\ud0c0\uc774\"\nEnglish: \"snow\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"tea\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ucc28', '\uc800\ub141', '\uc8fc\ucc2c', '\ucc28\uc78e', '\ucc3b\uc78e', '\ub2e4\uc5fd']",
+        "word original": "tea"
+    },
+    "['foot', 'human foot', 'pes', 'Pes', 'groundwork', 'understructure', 'fundament', 'base', 'substructure', 'foundation']": {
+        "prompt": "English: \"eight\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub35f\"\nEnglish: \"history\" - \ud55c\uad6d\uc5b4: \"\uc5ed\uc0ac\"\nEnglish: \"cloth\" - \ud55c\uad6d\uc5b4: \"\uc9c1\ubb3c\"\nEnglish: \"field\" - \ud55c\uad6d\uc5b4: \"\ud3c9\uc57c\"\nEnglish: \"generation\" - \ud55c\uad6d\uc5b4: \"\uc138\ub300\"\nEnglish: \"foot\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubc1c', '\uae30\ucd08']",
+        "word original": "foot"
+    },
+    "['gold', 'Au', 'amber', 'golden brown']": {
+        "prompt": "English: \"field\" - \ud55c\uad6d\uc5b4: \"\ud3c9\uc57c\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"\uc624\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"gold\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uae08', '\uae08\uc0c9', '\uace8\ub4dc', '\ud638\ubc15\uc0c9', '\ub4f1\uc0c9']",
+        "word original": "gold"
+    },
+    "['door', 'door case', 'doorcase', 'door frame', 'doorway', 'doorframe']": {
+        "prompt": "English: \"cloth\" - \ud55c\uad6d\uc5b4: \"\uc9c1\ubb3c\"\nEnglish: \"city\" - \ud55c\uad6d\uc5b4: \"\uc2dc\ub0b4\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"mountain\" - \ud55c\uad6d\uc5b4: \"\uc0b0\"\nEnglish: \"sea\" - \ud55c\uad6d\uc5b4: \"\ubc14\ub2e4\"\nEnglish: \"door\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubb38']",
+        "word original": "door"
+    },
+    "['snow', 'snow cover', 'snowfall', 'snow mantle']": {
+        "prompt": "English: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"heart\" - \ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"snow\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub208']",
+        "word original": "snow"
+    },
+    "['horse', 'Equus caballus']": {
+        "prompt": "English: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"valley\" - \ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\"\nEnglish: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"bag\" - \ud55c\uad6d\uc5b4: \"\uc190\uac00\ubc29\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub9d0']",
+        "word original": "horse"
+    },
+    "['one', 'ace', 'unity', 'I', 'single', 'Numero Uno']": {
+        "prompt": "English: \"lake\" - \ud55c\uad6d\uc5b4: \"\ud638\uc218\"\nEnglish: \"east\" - \ud55c\uad6d\uc5b4: \"\ub3d9\ucabd\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"one\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud55c', '\ud558\ub098', '\uc77c']",
+        "word original": "one"
+    },
+    "['two', 'deuce', 'II']": {
+        "prompt": "English: \"wood\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"village\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uc744\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"spring\" - \ud55c\uad6d\uc5b4: \"\uc0d8\ud130\"\nEnglish: \"two\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub458', '\uc774', '\ub450']",
+        "word original": "two"
+    },
+    "['five', 'fin', 'fivesome', 'quintet', 'cinque', 'quint', 'pentad', 'V', 'Phoebe', 'quintuplet', 'Little Phoebe']": {
+        "prompt": "English: \"face\" - \ud55c\uad6d\uc5b4: \"\uc5bc\uad74\"\nEnglish: \"power\" - \ud55c\uad6d\uc5b4: \"\uad8c\ub825\"\nEnglish: \"shop\" - \ud55c\uad6d\uc5b4: \"\uac00\uac8c\"\nEnglish: \"speed\" - \ud55c\uad6d\uc5b4: \"\ube60\ub974\uae30\"\nEnglish: \"six\" - \ud55c\uad6d\uc5b4: \"\ub959\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc624', '\ub2e4\uc12f']",
+        "word original": "five"
+    },
+    "['six', 'half a dozen', 'sextuplet', 'VI', 'Captain Hicks', 'sise', 'sextet', 'hexad', 'sixer', 'sestet']": {
+        "prompt": "English: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"forest\" - \ud55c\uad6d\uc5b4: \"\uc232\"\nEnglish: \"rice\" - \ud55c\uad6d\uc5b4: \"\uc300\"\nEnglish: \"valley\" - \ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\"\nEnglish: \"book\" - \ud55c\uad6d\uc5b4: \"\ucc45\"\nEnglish: \"six\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub959', '\uc5ec\uc12f', '\uc721']",
+        "word original": "six"
+    },
+    "['eight', 'octonary', 'ogdoad', 'VIII', 'octet', 'eighter', 'eighter from Decatur', 'octad']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"pair\" - \ud55c\uad6d\uc5b4: \"\ucf24\ub808\"\nEnglish: \"language\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"word\" - \ud55c\uad6d\uc5b4: \"\ub0b1\ub9d0\"\nEnglish: \"structure\" - \ud55c\uad6d\uc5b4: \"\uad6c\uc870\"\nEnglish: \"eight\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5ec\ub35f']",
+        "word original": "eight"
+    },
+    "['ten', 'decade', 'tenner', 'X']": {
+        "prompt": "English: \"fire\" - \ud55c\uad6d\uc5b4: \"\ubd88\"\nEnglish: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"bag\" - \ud55c\uad6d\uc5b4: \"\uc190\uac00\ubc29\"\nEnglish: \"ten\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5f4', '\uc2ed']",
+        "word original": "ten"
+    },
+    "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'managing director', 'manager', 'top dog', 'question']": {
+        "prompt": "English: \"lake\" - \ud55c\uad6d\uc5b4: \"\ud638\uc218\"\nEnglish: \"machine\" - \ud55c\uad6d\uc5b4: \"\uc790\ub3d9\ucc28\"\nEnglish: \"spring\" - \ud55c\uad6d\uc5b4: \"\uc0d8\ud130\"\nEnglish: \"mountain\" - \ud55c\uad6d\uc5b4: \"\uc0b0\"\nEnglish: \"kind\" - \ud55c\uad6d\uc5b4: \"\uc885\ub958\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub204\uc2a4', '\ud504\uc2dc\ucf00', '\ub9c8\uc74c', '\uba38\ub9ac', '\ubd80\uc11c\uc7a5']",
+        "word original": "head"
+    },
+    "['shop', 'boutique', 'store', 'retail outlet']": {
+        "prompt": "English: \"rock\" - \ud55c\uad6d\uc5b4: \"\ub85d\"\nEnglish: \"painting\" - \ud55c\uad6d\uc5b4: \"\ud68c\ud654\"\nEnglish: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"line\" - \ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\"\nEnglish: \"tower\" - \ud55c\uad6d\uc5b4: \"\ud0d1\"\nEnglish: \"shop\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uac00\uac8c', '\ud310\ub9e4\uc810', '\uc0c1\uc810']",
+        "word original": "shop"
+    },
+    "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"point\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uce68\ud45c\"\nEnglish: \"two\" - \ud55c\uad6d\uc5b4: \"\ub458\"\nEnglish: \"eye\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub208']",
+        "word original": "eye"
+    },
+    "['field', 'plain', 'champaign', 'acre', 'subject', 'discipline', 'study', 'subject area', 'subject field', 'field of study', 'bailiwick']": {
+        "prompt": "English: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"thousand\" - \ud55c\uad6d\uc5b4: \"\ucc9c\"\nEnglish: \"mother\" - \ud55c\uad6d\uc5b4: \"\uc5b4\uba38\ub2c8\"\nEnglish: \"summer\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub984\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"field\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud3c9\uc57c', '\ud3c9\uc9c0', '\ubc2d', '\ud559\uacfc']",
+        "word original": "field"
+    },
+    "['site', 'Web site', 'website', 'internet site', 'web site', 'locus', 'locale', 'location', 'locality', 'geographic location']": {
+        "prompt": "English: \"power\" - \ud55c\uad6d\uc5b4: \"\uad8c\ub825\"\nEnglish: \"net\" - \ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\"\nEnglish: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"square\" - \ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\"\nEnglish: \"site\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc6f9\uc0ac\uc774\ud2b8', '\uc0ac\uc774\ud2b8', '\uc704\uce58', '\uc9c0\uc810', '\uc9c0\ub9ac\uc801 \uc704\uce58', '\uc7a5\uc18c']",
+        "word original": "site"
+    },
+    "['dance', 'dancing', 'saltation', 'terpsichore']": {
+        "prompt": "English: \"cloud\" - \ud55c\uad6d\uc5b4: \"\uad6c\ub984\"\nEnglish: \"moon\" - \ud55c\uad6d\uc5b4: \"\ub2ec\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4\"\nEnglish: \"pair\" - \ud55c\uad6d\uc5b4: \"\ucf24\ub808\"\nEnglish: \"north\" - \ud55c\uad6d\uc5b4: \"\ubd81\ucabd\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ucda4', '\ub304\uc2a4']",
+        "word original": "dance"
+    },
+    "['word', 'give-and-take', 'discussion']": {
+        "prompt": "English: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"mother\" - \ud55c\uad6d\uc5b4: \"\uc5b4\uba38\ub2c8\"\nEnglish: \"cave\" - \ud55c\uad6d\uc5b4: \"\ub3d9\uad74\"\nEnglish: \"kind\" - \ud55c\uad6d\uc5b4: \"\uc885\ub958\"\nEnglish: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"word\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub0b1\ub9d0']",
+        "word original": "word"
+    },
+    "['pair', 'brace', 'ordered pair']": {
+        "prompt": "English: \"mother\" - \ud55c\uad6d\uc5b4: \"\uc5b4\uba38\ub2c8\"\nEnglish: \"east\" - \ud55c\uad6d\uc5b4: \"\ub3d9\ucabd\"\nEnglish: \"power\" - \ud55c\uad6d\uc5b4: \"\uad8c\ub825\"\nEnglish: \"child\" - \ud55c\uad6d\uc5b4: \"\uc544\uc774\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"pair\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ucf24\ub808', '\uc21c\uc11c\uc30d', '\ud55c\uc30d', '\ud398\uc5b4']",
+        "word original": "pair"
+    },
+    "['seat']": {
+        "prompt": "English: \"tower\" - \ud55c\uad6d\uc5b4: \"\ud0d1\"\nEnglish: \"ten\" - \ud55c\uad6d\uc5b4: \"\uc5f4\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"speech\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"rock\" - \ud55c\uad6d\uc5b4: \"\ub85d\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc88c\uc11d', '\uc790\ub9ac', '\uc2dc\ud2b8']",
+        "word original": "seat"
+    },
+    "['light', 'light source', 'visible light', 'visible radiation', 'sill', 'window ledge', 'window', 'window sill', 'ledge-sill', 'lamp', 'cigarette lighter', 'lighter', 'pocket lighter', 'igniter', 'ignitor']": {
+        "prompt": "English: \"cloud\" - \ud55c\uad6d\uc5b4: \"\uad6c\ub984\"\nEnglish: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"generation\" - \ud55c\uad6d\uc5b4: \"\uc138\ub300\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uac00\uc2dc\uad11\uc120', '\ube5b', '\ucc3d', '\ucc3d\ubb38', '\ub77c\uc774\ud130', '\ubd88']",
+        "word original": "light"
+    },
+    "['thousand', 'one thousand', 'K', 'G', 'chiliad', 'yard', 'M', 'grand', 'thou']": {
+        "prompt": "English: \"tower\" - \ud55c\uad6d\uc5b4: \"\ud0d1\"\nEnglish: \"city\" - \ud55c\uad6d\uc5b4: \"\uc2dc\ub0b4\"\nEnglish: \"summer\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub984\"\nEnglish: \"net\" - \ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"thousand\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ucc9c']",
+        "word original": "thousand"
+    },
+    "['north', 'northward', 'N', 'due north']": {
+        "prompt": "English: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"sea\" - \ud55c\uad6d\uc5b4: \"\ubc14\ub2e4\"\nEnglish: \"two\" - \ud55c\uad6d\uc5b4: \"\ub458\"\nEnglish: \"north\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubd81\ucabd']",
+        "word original": "north"
+    },
+    "['machine', 'car', 'automobile', 'auto', 'motorcar', 'motor car', 'device']": {
+        "prompt": "English: \"door\" - \ud55c\uad6d\uc5b4: \"\ubb38\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"ground\" - \ud55c\uad6d\uc5b4: \"\ub545\"\nEnglish: \"kind\" - \ud55c\uad6d\uc5b4: \"\uc885\ub958\"\nEnglish: \"hair\" - \ud55c\uad6d\uc5b4: \"\ud138\"\nEnglish: \"machine\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc790\ub3d9\ucc28', '\uc0ac\ub95c\ucc28', '\uc2b9\uc6a9\ucc28', '\ucc28', '\uc2b9\uc6a9\uc790\ub3d9\ucc28', '\uc7a5\uce58', '\ub514\ubc14\uc774\uc2a4']",
+        "word original": "machine"
+    },
+    "['time', 'tense', 'grammatical tense']": {
+        "prompt": "English: \"judge\" - \ud55c\uad6d\uc5b4: \"\ud310\uc0ac\"\nEnglish: \"cave\" - \ud55c\uad6d\uc5b4: \"\ub3d9\uad74\"\nEnglish: \"red\" - \ud55c\uad6d\uc5b4: \"\ube68\uac15\"\nEnglish: \"mountain\" - \ud55c\uad6d\uc5b4: \"\uc0b0\"\nEnglish: \"book\" - \ud55c\uad6d\uc5b4: \"\ucc45\"\nEnglish: \"time\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc2dc\uac04', '\uc2dc\uc81c']",
+        "word original": "time"
+    },
+    "['friend', 'camaraderie', 'comradeship', 'comradery', 'chumminess', 'comradeliness', 'friendship', 'friendly relationship']": {
+        "prompt": "English: \"sun\" - \ud55c\uad6d\uc5b4: \"\ud0dc\uc591\"\nEnglish: \"snow\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"version\" - \ud55c\uad6d\uc5b4: \"\ubc88\uc5ed\"\nEnglish: \"gold\" - \ud55c\uad6d\uc5b4: \"\uae08\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc6b0\uc815']",
+        "word original": "friend"
+    },
+    "['color', 'black', 'coloring', 'colouring', 'complexion', 'colour', 'lists of colors']": {
+        "prompt": "English: \"valley\" - \ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\"\nEnglish: \"fire\" - \ud55c\uad6d\uc5b4: \"\ubd88\"\nEnglish: \"rice\" - \ud55c\uad6d\uc5b4: \"\uc300\"\nEnglish: \"ground\" - \ud55c\uad6d\uc5b4: \"\ub545\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uac80\uc815', '\uac80\uc740\uc0c9', '\uc0c9\uae54', '\uc0c9']",
+        "word original": "color"
+    },
+    "['kind', 'sort', 'form', 'variety']": {
+        "prompt": "English: \"square\" - \ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\"\nEnglish: \"tower\" - \ud55c\uad6d\uc5b4: \"\ud0d1\"\nEnglish: \"sun\" - \ud55c\uad6d\uc5b4: \"\ud0dc\uc591\"\nEnglish: \"six\" - \ud55c\uad6d\uc5b4: \"\ub959\"\nEnglish: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"kind\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc885\ub958']",
+        "word original": "kind"
+    },
+    "['judge', 'jurist', 'justice']": {
+        "prompt": "English: \"water\" - \ud55c\uad6d\uc5b4: \"\ubb3c\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"book\" - \ud55c\uad6d\uc5b4: \"\ucc45\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"spring\" - \ud55c\uad6d\uc5b4: \"\uc0d8\ud130\"\nEnglish: \"judge\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud310\uc0ac', '\ubc95\uad00']",
+        "word original": "judge"
+    },
+    "['school', 'university', 'academy', 'faculty', 'staff', 'honorary society']": {
+        "prompt": "English: \"fruit\" - \ud55c\uad6d\uc5b4: \"\uc5f4\ub9e4\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"book\" - \ud55c\uad6d\uc5b4: \"\ucc45\"\nEnglish: \"school\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub300\ud559\uad50', '\ud559\uad50', '\ud559\ubd80', '\ud559\uacfc', '\uc544\uce74\ub370\ubbf8', '\ud559\ud68c', '\ub300\ud559']",
+        "word original": "school"
+    },
+    "['structure', 'model', 'construction']": {
+        "prompt": "English: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"door\" - \ud55c\uad6d\uc5b4: \"\ubb38\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"star\" - \ud55c\uad6d\uc5b4: \"\ubcc4\"\nEnglish: \"structure\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uad6c\uc870', '\uad6c\uc131']",
+        "word original": "structure"
+    },
+    "['tie', 'necktie']": {
+        "prompt": "English: \"tower\" - \ud55c\uad6d\uc5b4: \"\ud0d1\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"cloth\" - \ud55c\uad6d\uc5b4: \"\uc9c1\ubb3c\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"tie\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub125\ud0c0\uc774', '\uac08\uc4f0\ub69d', '\ubb34\uc2b9\ubd80']",
+        "word original": "tie"
+    },
+    "['face', 'human face', 'air', 'appearance', 'manner', 'demeanor', 'look', 'expression', 'mien', 'bearing', 'demeanour', 'facial expression', 'aspect']": {
+        "prompt": "English: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"net\" - \ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"face\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5bc\uad74']",
+        "word original": "face"
+    },
+    "['bridge', 'span', 'list of Roman bridges']": {
+        "prompt": "English: \"word\" - \ud55c\uad6d\uc5b4: \"\ub0b1\ub9d0\"\nEnglish: \"seat\" - \ud55c\uad6d\uc5b4: \"\uc88c\uc11d\"\nEnglish: \"fire\" - \ud55c\uad6d\uc5b4: \"\ubd88\"\nEnglish: \"structure\" - \ud55c\uad6d\uc5b4: \"\uad6c\uc870\"\nEnglish: \"hair\" - \ud55c\uad6d\uc5b4: \"\ud138\"\nEnglish: \"bridge\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub2e4\ub9ac', '\uad50\ub7c9']",
+        "word original": "bridge"
+    },
+    "['group', 'organizational', 'organisational', 'organization', 'organisation', 'musical organization', 'musical organisation', 'musical group', 'musical ensemble', 'moiety', 'functional group', 'chemical group', 'radical', 'team', 'rock band', 'rock group', 'grouping']": {
+        "prompt": "English: \"point\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uce68\ud45c\"\nEnglish: \"snow\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"\uc624\"\nEnglish: \"speech\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uae30\uad6c', '\ub2e8\uccb4', '\uc870\uc9c1', '\uc545\ub2e8', '\uc791\uc6a9\uae30', '\ub85d \ubc34\ub4dc', '\ub77d \uadf8\ub8f9', '\ub77d \ubc34\ub4dc', '\ub85d \uadf8\ub8f9']",
+        "word original": "group"
+    },
+    "['platform', 'pavement', 'sidewalk', 'footway']": {
+        "prompt": "English: \"rock\" - \ud55c\uad6d\uc5b4: \"\ub85d\"\nEnglish: \"summer\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub984\"\nEnglish: \"fire\" - \ud55c\uad6d\uc5b4: \"\ubd88\"\nEnglish: \"field\" - \ud55c\uad6d\uc5b4: \"\ud3c9\uc57c\"\nEnglish: \"eight\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub35f\"\nEnglish: \"platform\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ubcf4\ub3c4', '\uc778\ub3c4', '\ud50c\ub7ab\ud2b8\ud648', '\ud50c\ub7ab\ud3fc', '\ud648', '\uc2b9\uac15\uc7a5', '\ud50c\ub7ab\ud648']",
+        "word original": "platform"
+    },
+    "['house', 'home', 'dwelling', 'theater', 'theatre', 'playhouse', 'business firm', 'casino', 'establishment', 'firm', 'gambling casino', 'household', 'family', 'menage', 'private household', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'auditorium', 'enterprise', 'concern', 'corporation', 'partnership', 'venture', 'company']": {
+        "prompt": "English: \"bag\" - \ud55c\uad6d\uc5b4: \"\uc190\uac00\ubc29\"\nEnglish: \"net\" - \ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\"\nEnglish: \"ten\" - \ud55c\uad6d\uc5b4: \"\uc5f4\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc9d1', '\uadf9\uc7a5', '\uce74\uc9c0\ub178', '\uc138\ub300', '\uc8fc\uac70', '\uac70\ub958', '\uc8fc\ud0dd', '\uc624\ub514\ud1a0\ub9ac\uc5c4']",
+        "word original": "house"
+    },
+    "['sun', 'Sunday', \"Lord's Day\", 'Dominicus']": {
+        "prompt": "English: \"city\" - \ud55c\uad6d\uc5b4: \"\uc2dc\ub0b4\"\nEnglish: \"law\" - \ud55c\uad6d\uc5b4: \"\ubc95\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"\uc624\"\nEnglish: \"village\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uc744\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"sun\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud0dc\uc591', '\ud574', '\uc77c', '\uc77c\uc694\uc77c', '\uc8fc\uc77c']",
+        "word original": "sun"
+    },
+    "['meeting', 'convention', 'group meeting', 'rally']": {
+        "prompt": "English: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"machine\" - \ud55c\uad6d\uc5b4: \"\uc790\ub3d9\ucc28\"\nEnglish: \"bag\" - \ud55c\uad6d\uc5b4: \"\uc190\uac00\ubc29\"\nEnglish: \"tea\" - \ud55c\uad6d\uc5b4: \"\ucc28\"\nEnglish: \"river\" - \ud55c\uad6d\uc5b4: \"\uac15\"\nEnglish: \"meeting\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ucee8\ubca4\uc158', '\ud68c\uc758']",
+        "word original": "meeting"
+    },
+    "['history', 'historical development']": {
+        "prompt": "English: \"shop\" - \ud55c\uad6d\uc5b4: \"\uac00\uac8c\"\nEnglish: \"friend\" - \ud55c\uad6d\uc5b4: \"\uc6b0\uc815\"\nEnglish: \"tie\" - \ud55c\uad6d\uc5b4: \"\ub125\ud0c0\uc774\"\nEnglish: \"one\" - \ud55c\uad6d\uc5b4: \"\ud55c\"\nEnglish: \"thousand\" - \ud55c\uad6d\uc5b4: \"\ucc9c\"\nEnglish: \"history\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5ed\uc0ac', '\uc0ac\ud559']",
+        "word original": "history"
+    },
+    "['valley', 'dale', 'vale']": {
+        "prompt": "English: \"ground\" - \ud55c\uad6d\uc5b4: \"\ub545\"\nEnglish: \"speech\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"one\" - \ud55c\uad6d\uc5b4: \"\ud55c\"\nEnglish: \"word\" - \ud55c\uad6d\uc5b4: \"\ub0b1\ub9d0\"\nEnglish: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"valley\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uace8\uc9dc\uae30', '\uacc4\uace1']",
+        "word original": "valley"
+    },
+    "['square', 'foursquare', 'second power']": {
+        "prompt": "English: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"eight\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub35f\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"\uc624\"\nEnglish: \"mother\" - \ud55c\uad6d\uc5b4: \"\uc5b4\uba38\ub2c8\"\nEnglish: \"square\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc815\uc0ac\uac01\ud615', '\ud3c9\ubc29']",
+        "word original": "square"
+    },
+    "['generation']": {
+        "prompt": "English: \"tea\" - \ud55c\uad6d\uc5b4: \"\ucc28\"\nEnglish: \"spring\" - \ud55c\uad6d\uc5b4: \"\uc0d8\ud130\"\nEnglish: \"tie\" - \ud55c\uad6d\uc5b4: \"\ub125\ud0c0\uc774\"\nEnglish: \"kind\" - \ud55c\uad6d\uc5b4: \"\uc885\ub958\"\nEnglish: \"site\" - \ud55c\uad6d\uc5b4: \"\uc6f9\uc0ac\uc774\ud2b8\"\nEnglish: \"generation\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc138\ub300']",
+        "word original": "generation"
+    },
+    "['south', 'southward', 'due south', 'S']": {
+        "prompt": "English: \"valley\" - \ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\"\nEnglish: \"point\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uce68\ud45c\"\nEnglish: \"hair\" - \ud55c\uad6d\uc5b4: \"\ud138\"\nEnglish: \"foot\" - \ud55c\uad6d\uc5b4: \"\ubc1c\"\nEnglish: \"lake\" - \ud55c\uad6d\uc5b4: \"\ud638\uc218\"\nEnglish: \"south\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub0a8\ucabd']",
+        "word original": "south"
+    },
+    "['city', 'urban center', 'metropolis', 'city/town']": {
+        "prompt": "English: \"power\" - \ud55c\uad6d\uc5b4: \"\uad8c\ub825\"\nEnglish: \"summer\" - \ud55c\uad6d\uc5b4: \"\uc5ec\ub984\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"law\" - \ud55c\uad6d\uc5b4: \"\ubc95\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"city\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc2dc\ub0b4', '\ub3c4\uc2dc', '\uc2dc', '\uba54\ud2b8\ub85c\ud3f4\ub9ac\uc2a4', '\ub300\ub3c4\uc2dc']",
+        "word original": "city"
+    },
+    "['language', 'human language', 'linguistic communication', 'spoken language', 'speech', 'oral communication', 'spoken communication', 'voice communication', 'speech communication']": {
+        "prompt": "English: \"heart\" - \ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"\uc9c1\uc6d0\"\nEnglish: \"lake\" - \ud55c\uad6d\uc5b4: \"\ud638\uc218\"\nEnglish: \"dance\" - \ud55c\uad6d\uc5b4: \"\ucda4\"\nEnglish: \"door\" - \ud55c\uad6d\uc5b4: \"\ubb38\"\nEnglish: \"language\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5b8\uc5b4', '\ub9d0', '\uac1c\uac1c\uc758 \uc5b8\uc5b4', '\ub9d0\ud558\uae30', '\ub791\uadf8\uc640 \ud30c\ub864', '\uad6c\uc5b4']",
+        "word original": "language"
+    },
+    "['speed', 'velocity', 'fastness', 'swiftness', 'rate', 'ratio']": {
+        "prompt": "English: \"fruit\" - \ud55c\uad6d\uc5b4: \"\uc5f4\ub9e4\"\nEnglish: \"generation\" - \ud55c\uad6d\uc5b4: \"\uc138\ub300\"\nEnglish: \"door\" - \ud55c\uad6d\uc5b4: \"\ubb38\"\nEnglish: \"hair\" - \ud55c\uad6d\uc5b4: \"\ud138\"\nEnglish: \"star\" - \ud55c\uad6d\uc5b4: \"\ubcc4\"\nEnglish: \"speed\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ube60\ub974\uae30', '\uc18d\ub3c4', '\uc18d\ub825', '\ube44\uc728']",
+        "word original": "speed"
+    },
+    "['ground', 'land', 'terra firma', 'earth', 'solid ground', 'dry land', 'land mass', 'soil', 'dirt', 'reason', 'occasion', 'background']": {
+        "prompt": "English: \"six\" - \ud55c\uad6d\uc5b4: \"\ub959\"\nEnglish: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"city\" - \ud55c\uad6d\uc5b4: \"\uc2dc\ub0b4\"\nEnglish: \"foot\" - \ud55c\uad6d\uc5b4: \"\ubc1c\"\nEnglish: \"star\" - \ud55c\uad6d\uc5b4: \"\ubcc4\"\nEnglish: \"ground\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub545', '\uc721\uc9c0', '\ub959\uc9c0', '\ub300\uc9c0', '\ubb4d', '\ud1a0\uc9c0', '\ubc30\uacbd']",
+        "word original": "ground"
+    },
+    "['tail']": {
+        "prompt": "English: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"water\" - \ud55c\uad6d\uc5b4: \"\ubb3c\"\nEnglish: \"gold\" - \ud55c\uad6d\uc5b4: \"\uae08\"\nEnglish: \"thousand\" - \ud55c\uad6d\uc5b4: \"\ucc9c\"\nEnglish: \"tail\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uaf2c\ub9ac']",
+        "word original": "tail"
+    },
+    "['mother', 'female parent', 'motherhood', 'parents', 'parent', 'parenthood']": {
+        "prompt": "English: \"cave\" - \ud55c\uad6d\uc5b4: \"\ub3d9\uad74\"\nEnglish: \"generation\" - \ud55c\uad6d\uc5b4: \"\uc138\ub300\"\nEnglish: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"meeting\" - \ud55c\uad6d\uc5b4: \"\ucee8\ubca4\uc158\"\nEnglish: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"mother\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5b4\uba38\ub2c8', '\ubd80\ubaa8']",
+        "word original": "mother"
+    },
+    "['east', 'E', 'eastward', 'due east']": {
+        "prompt": "English: \"tower\" - \ud55c\uad6d\uc5b4: \"\ud0d1\"\nEnglish: \"law\" - \ud55c\uad6d\uc5b4: \"\ubc95\"\nEnglish: \"horse\" - \ud55c\uad6d\uc5b4: \"\ub9d0\"\nEnglish: \"moon\" - \ud55c\uad6d\uc5b4: \"\ub2ec\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"east\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub3d9\ucabd', '\uc0c8', '\ub3d9']",
+        "word original": "east"
+    },
+    "['speech', 'language', 'human language', 'linguistic communication', 'spoken language', 'oral communication', 'spoken communication', 'voice communication', 'speech communication', 'lecture', 'lecturing']": {
+        "prompt": "English: \"line\" - \ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\"\nEnglish: \"ocean\" - \ud55c\uad6d\uc5b4: \"\ub300\uc591\"\nEnglish: \"bridge\" - \ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\"\nEnglish: \"field\" - \ud55c\uad6d\uc5b4: \"\ud3c9\uc57c\"\nEnglish: \"meeting\" - \ud55c\uad6d\uc5b4: \"\ucee8\ubca4\uc158\"\nEnglish: \"speech\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5b8\uc5b4', '\ub9d0', '\uac1c\uac1c\uc758 \uc5b8\uc5b4', '\ub9d0\ud558\uae30', '\ub791\uadf8\uc640 \ud30c\ub864', '\uad6c\uc5b4', '\uac15\uc758']",
+        "word original": "speech"
+    },
+    "['child', 'fry', 'french fry', 'minor', 'chip', 'youngster', 'shaver', 'small fry', 'kid', 'nestling', 'tiddler', 'tike', 'tyke', 'nipper', 'daughter', 'girl', 'children']": {
+        "prompt": "English: \"foot\" - \ud55c\uad6d\uc5b4: \"\ubc1c\"\nEnglish: \"wave\" - \ud55c\uad6d\uc5b4: \"\ud30c\ub3c4\"\nEnglish: \"snow\" - \ud55c\uad6d\uc5b4: \"\ub208\"\nEnglish: \"water\" - \ud55c\uad6d\uc5b4: \"\ubb3c\"\nEnglish: \"time\" - \ud55c\uad6d\uc5b4: \"\uc2dc\uac04\"\nEnglish: \"child\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc544\uc774', '\uc5b4\ub9b0\uc774', '\ubbf8\uc131\ub144\uc790', '\ub538', '\ub530\ub2d8']",
+        "word original": "child"
+    },
+    "['tower']": {
+        "prompt": "English: \"ground\" - \ud55c\uad6d\uc5b4: \"\ub545\"\nEnglish: \"office\" - \ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\"\nEnglish: \"lake\" - \ud55c\uad6d\uc5b4: \"\ud638\uc218\"\nEnglish: \"platform\" - \ud55c\uad6d\uc5b4: \"\ubcf4\ub3c4\"\nEnglish: \"moon\" - \ud55c\uad6d\uc5b4: \"\ub2ec\"\nEnglish: \"tower\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud0d1']",
+        "word original": "tower"
+    },
+    "['hair', 'pilus']": {
+        "prompt": "English: \"spring\" - \ud55c\uad6d\uc5b4: \"\uc0d8\ud130\"\nEnglish: \"foot\" - \ud55c\uad6d\uc5b4: \"\ubc1c\"\nEnglish: \"city\" - \ud55c\uad6d\uc5b4: \"\uc2dc\ub0b4\"\nEnglish: \"star\" - \ud55c\uad6d\uc5b4: \"\ubcc4\"\nEnglish: \"head\" - \ud55c\uad6d\uc5b4: \"\ub204\uc2a4\"\nEnglish: \"hair\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud138', '\uba38\ub9ac', '\uba38\ub9ac\uce74\ub77d', '\uba38\ub9ac\uce7c']",
+        "word original": "hair"
+    },
+    "['person', 'homo', 'human being', 'hominid', 'human', 'man', 'Homo', 'Homo sapiens sapiens', 'someone', 'mortal', 'individual', 'somebody', 'soul']": {
+        "prompt": "English: \"structure\" - \ud55c\uad6d\uc5b4: \"\uad6c\uc870\"\nEnglish: \"machine\" - \ud55c\uad6d\uc5b4: \"\uc790\ub3d9\ucc28\"\nEnglish: \"group\" - \ud55c\uad6d\uc5b4: \"\uae30\uad6c\"\nEnglish: \"face\" - \ud55c\uad6d\uc5b4: \"\uc5bc\uad74\"\nEnglish: \"law\" - \ud55c\uad6d\uc5b4: \"\ubc95\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4', '\uc0ac\ub78c', '\uc0ac\ub78c\uc18d', 'Homo sapiens', '\ubd84', '\uc778\uaca9\uccb4', '\uc778']",
+        "word original": "person"
+    },
+    "['official', 'functionary', 'referee', 'umpire', 'tennis official', 'basketball official', 'tennis umpire']": {
+        "prompt": "English: \"rock\" - \ud55c\uad6d\uc5b4: \"\ub85d\"\nEnglish: \"school\" - \ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\"\nEnglish: \"five\" - \ud55c\uad6d\uc5b4: \"\uc624\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"pair\" - \ud55c\uad6d\uc5b4: \"\ucf24\ub808\"\nEnglish: \"official\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc9c1\uc6d0', '\uacf5\ubb34\uc6d0', '\uc2ec\ud310']",
+        "word original": "official"
+    },
+    "['office', 'agency', 'authority', 'federal agency', 'government agency', 'bureau', 'government office', 'business office', 'position', 'place', 'spot', 'post', 'situation', 'berth', 'billet']": {
+        "prompt": "English: \"ball\" - \ud55c\uad6d\uc5b4: \"\uc57c\uad6c\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"city\" - \ud55c\uad6d\uc5b4: \"\uc2dc\ub0b4\"\nEnglish: \"point\" - \ud55c\uad6d\uc5b4: \"\ub9c8\uce68\ud45c\"\nEnglish: \"field\" - \ud55c\uad6d\uc5b4: \"\ud3c9\uc57c\"\nEnglish: \"office\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc0ac\ubb34\uc2e4', '\uc815\ubd80 \uae30\uad00', '\uad00\uccad', '\uc624\ud53c\uc2a4']",
+        "word original": "office"
+    },
+    "['rock', 'rock music', \"rock 'n' roll\", \"rock'n'roll\", 'rock and roll', 'rock-and-roll', 'stone', 'pebble']": {
+        "prompt": "English: \"child\" - \ud55c\uad6d\uc5b4: \"\uc544\uc774\"\nEnglish: \"mountain\" - \ud55c\uad6d\uc5b4: \"\uc0b0\"\nEnglish: \"speed\" - \ud55c\uad6d\uc5b4: \"\ube60\ub974\uae30\"\nEnglish: \"color\" - \ud55c\uad6d\uc5b4: \"\uac80\uc815\"\nEnglish: \"version\" - \ud55c\uad6d\uc5b4: \"\ubc88\uc5ed\"\nEnglish: \"rock\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\ub85d', '\ub77d', '\ub85c\ud070\ub864', '\ub77d \uc74c\uc545', '\ub85d \uc74c\uc545', '\ubc14\uc704', '\uc554\uc11d']",
+        "word original": "rock"
+    },
+    "['power', 'political power', 'powerfulness', 'muscular strength', 'strength', 'might', 'physical strength', 'mightiness']": {
+        "prompt": "English: \"bridge\" - \ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\"\nEnglish: \"cloud\" - \ud55c\uad6d\uc5b4: \"\uad6c\ub984\"\nEnglish: \"person\" - \ud55c\uad6d\uc5b4: \"\ud638\ubaa8 \uc0ac\ud53c\uc5d4\uc2a4 \uc0ac\ud53c\uc5d4\uc2a4\"\nEnglish: \"day\" - \ud55c\uad6d\uc5b4: \"\ub0a0\"\nEnglish: \"version\" - \ud55c\uad6d\uc5b4: \"\ubc88\uc5ed\"\nEnglish: \"power\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uad8c\ub825', '\uc77c\ub960']",
+        "word original": "power"
+    },
+    "['summer', 'summertime', 'summer season']": {
+        "prompt": "English: \"sea\" - \ud55c\uad6d\uc5b4: \"\ubc14\ub2e4\"\nEnglish: \"house\" - \ud55c\uad6d\uc5b4: \"\uc9d1\"\nEnglish: \"child\" - \ud55c\uad6d\uc5b4: \"\uc544\uc774\"\nEnglish: \"speech\" - \ud55c\uad6d\uc5b4: \"\uc5b8\uc5b4\"\nEnglish: \"light\" - \ud55c\uad6d\uc5b4: \"\uac00\uc2dc\uad11\uc120\"\nEnglish: \"summer\" - \ud55c\uad6d\uc5b4: \"",
+        "target": "['\uc5ec\ub984']",
+        "word original": "summer"
+    }
+}

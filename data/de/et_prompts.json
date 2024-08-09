@@ -1,0 +1,452 @@
+{
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"f\u00fcnf\" - Eesti: \"viis\"\nDeutsch: \"Gold\" - Eesti: \"kuld\"\nDeutsch: \"Tal\" - Eesti: \"org\"\nDeutsch: \"Turm\" - Eesti: \"torn\"\nDeutsch: \"Buch\" - Eesti: \"",
+        "target": "['raamat', 'paber']",
+        "word original": "book"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"Plattform\" - Eesti: \"perroon\"\nDeutsch: \"Haushalt\" - Eesti: \"majapidamine\"\nDeutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Wolke\" - Eesti: \"",
+        "target": "['pilv', 'Pilv']",
+        "word original": "cloud"
+    },
+    "['Tasche', 'Sack', 'Beutel', 'T\u00fcte', 'Tragetasche', 'Plastikt\u00fcte', 'Papiersack', 'Traget\u00fcte', 'Hosentasche']": {
+        "prompt": "Deutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Feld\" - Eesti: \"tasandik\"\nDeutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"Linie\" - Eesti: \"sirge\"\nDeutsch: \"zwei\" - Eesti: \"kaks\"\nDeutsch: \"Tasche\" - Eesti: \"",
+        "target": "['Kott', 'Paberkott', 'kott', 'kilekott', 'tasku', 'Tasku']",
+        "word original": "bag"
+    },
+    "['Boden', 'Land', 'Festland', 'Grund', 'Erdboden', 'Erde', 'L\u00e4nder', 'fester Boden', 'Fu\u00dfboden', 'Blumenerde']": {
+        "prompt": "Deutsch: \"Holz\" - Eesti: \"laas\"\nDeutsch: \"tausend\" - Eesti: \"Tuhat\"\nDeutsch: \"Maschine\" - Eesti: \"lennuk\"\nDeutsch: \"Paar\" - Eesti: \"J\u00e4rjestatud paar\"\nDeutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Boden\" - Eesti: \"",
+        "target": "['maa', 'maismaa', 'p\u00f5rand', 'P\u00f5rand']",
+        "word original": "ground"
+    },
+    "['Tuch', 'Gewebe', 'Textilien', 'Stoff', 'Textil', 'Textilie']": {
+        "prompt": "Deutsch: \"Feder\" - Eesti: \"sulg\"\nDeutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"Krawatte\" - Eesti: \"lips\"\nDeutsch: \"Wasser\" - Eesti: \"vesi\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Tuch\" - Eesti: \"",
+        "target": "['tekstiil', 'riie', 'kangas']",
+        "word original": "cloth"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"B\u00f6rse\" - Eesti: \"rahatasku\"\nDeutsch: \"Richter\" - Eesti: \"kohtunik\"\nDeutsch: \"Tag\" - Eesti: \"\u00f6\u00f6p\u00e4ev\"\nDeutsch: \"Feuer\" - Eesti: \"p\u00f5leng\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Herz\" - Eesti: \"",
+        "target": "['s\u00fcda', 'Afektsioon']",
+        "word original": "heart"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Stadt\" - Eesti: \"linn\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"zehn\" - Eesti: \"k\u00fcmme\"\nDeutsch: \"Hand\" - Eesti: \"",
+        "target": "['labak\u00e4si']",
+        "word original": "hand"
+    },
+    "['Tag', 'Solartag', 'Sonnentag']": {
+        "prompt": "Deutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Kind\" - Eesti: \"alaealine\"\nDeutsch: \"tausend\" - Eesti: \"Tuhat\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Tag\" - Eesti: \"",
+        "target": "['\u00f6\u00f6p\u00e4ev']",
+        "word original": "day"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Ball\" - Eesti: \"pall\"\nDeutsch: \"Welle\" - Eesti: \"merelaine\"\nDeutsch: \"B\u00fcro\" - Eesti: \"kontor\"\nDeutsch: \"Haushalt\" - Eesti: \"majapidamine\"\nDeutsch: \"Schule\" - Eesti: \"\u00fclikool\"\nDeutsch: \"Stern\" - Eesti: \"",
+        "target": "['t\u00e4ht', 'T\u00e4ht']",
+        "word original": "star"
+    },
+    "['Feder', 'Strahlen', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder', 'Sprungfeder', 'F\u00fcller', 'Schreibstift']": {
+        "prompt": "Deutsch: \"Norden\" - Eesti: \"p\u00f5hi\"\nDeutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Feder\" - Eesti: \"",
+        "target": "['sulg', 'sulestik', 'Sulestik', 'vedru', 'Vedru', 'sulepea']",
+        "word original": "spring"
+    },
+    "['Mond', 'Frau Luna', 'Luna', 'Erdmond']": {
+        "prompt": "Deutsch: \"Br\u00fccke\" - Eesti: \"sild\"\nDeutsch: \"H\u00f6hle\" - Eesti: \"koobas\"\nDeutsch: \"sechs\" - Eesti: \"kuus\"\nDeutsch: \"Mutter\" - Eesti: \"ema\"\nDeutsch: \"Gem\u00e4lde\" - Eesti: \"maal\"\nDeutsch: \"Mond\" - Eesti: \"",
+        "target": "['Kuu']",
+        "word original": "moon"
+    },
+    "['Holz', 'Busch', 'Wald', 'Forst', 'W\u00e4lder', 'Splintholz']": {
+        "prompt": "Deutsch: \"sechs\" - Eesti: \"kuus\"\nDeutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Maschine\" - Eesti: \"lennuk\"\nDeutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Holz\" - Eesti: \"",
+        "target": "['laas', 'mets', 'W\u00e4lder', 'puit', 'puu']",
+        "word original": "wood"
+    },
+    "['Dorf', 'Ortschaft', 'Weiler', 'D\u00f6rfchen']": {
+        "prompt": "Deutsch: \"rot\" - Eesti: \"punane\"\nDeutsch: \"Schule\" - Eesti: \"\u00fclikool\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Holz\" - Eesti: \"laas\"\nDeutsch: \"Richter\" - Eesti: \"kohtunik\"\nDeutsch: \"Dorf\" - Eesti: \"",
+        "target": "['k\u00fcla']",
+        "word original": "village"
+    },
+    "['Wald', 'Busch', 'Forst', 'W\u00e4lder', 'Holz']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - Eesti: \"uks\"\nDeutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Tasche\" - Eesti: \"Kott\"\nDeutsch: \"Farbe\" - Eesti: \"must\"\nDeutsch: \"Punkt\" - Eesti: \"skoor, punktiseis\"\nDeutsch: \"Wald\" - Eesti: \"",
+        "target": "['laas', 'mets', 'W\u00e4lder']",
+        "word original": "forest"
+    },
+    "['Gitter', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Gittergewebe']": {
+        "prompt": "Deutsch: \"Norden\" - Eesti: \"p\u00f5hi\"\nDeutsch: \"Wolke\" - Eesti: \"pilv\"\nDeutsch: \"Freund\" - Eesti: \"s\u00f5prus\"\nDeutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"Ball\" - Eesti: \"pall\"\nDeutsch: \"Gitter\" - Eesti: \"",
+        "target": "['v\u00f5rk']",
+        "word original": "grid"
+    },
+    "['Lied']": {
+        "prompt": "Deutsch: \"Mond\" - Eesti: \"Kuu\"\nDeutsch: \"Versuch\" - Eesti: \"katse\"\nDeutsch: \"Gem\u00e4lde\" - Eesti: \"maal\"\nDeutsch: \"Reis\" - Eesti: \"riis\"\nDeutsch: \"Licht\" - Eesti: \"valgus\"\nDeutsch: \"Lied\" - Eesti: \"",
+        "target": "['laul']",
+        "word original": "song"
+    },
+    "['Wasser', 'Gew\u00e4sser']": {
+        "prompt": "Deutsch: \"Wolke\" - Eesti: \"pilv\"\nDeutsch: \"Kind\" - Eesti: \"alaealine\"\nDeutsch: \"B\u00f6rse\" - Eesti: \"rahatasku\"\nDeutsch: \"Gesetz\" - Eesti: \"\u00f5igus\"\nDeutsch: \"Sprache\" - Eesti: \"keel\"\nDeutsch: \"Wasser\" - Eesti: \"",
+        "target": "['vesi', 'veekogu']",
+        "word original": "water"
+    },
+    "['Fluss', 'Flu\u00df', 'Hydrodynamik', 'Fluiddynamik']": {
+        "prompt": "Deutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"rot\" - Eesti: \"punane\"\nDeutsch: \"Sonne\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"zehn\" - Eesti: \"k\u00fcmme\"\nDeutsch: \"Mutter\" - Eesti: \"ema\"\nDeutsch: \"Fluss\" - Eesti: \"",
+        "target": "['j\u00f5gi']",
+        "word original": "river"
+    },
+    "['Gesetz', 'Recht']": {
+        "prompt": "Deutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"Gesetz\" - Eesti: \"",
+        "target": "['\u00f5igus', 'seadus']",
+        "word original": "law"
+    },
+    "['Welle', 'Meereswelle', 'Wasserwelle']": {
+        "prompt": "Deutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"zwei\" - Eesti: \"kaks\"\nDeutsch: \"Maschine\" - Eesti: \"lennuk\"\nDeutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"Wasser\" - Eesti: \"vesi\"\nDeutsch: \"Welle\" - Eesti: \"",
+        "target": "['merelaine', 'Veelained', 'veelained']",
+        "word original": "wave"
+    },
+    "['Ozean', 'Meeresumwelt']": {
+        "prompt": "Deutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"f\u00fcnf\" - Eesti: \"viis\"\nDeutsch: \"Meer\" - Eesti: \"Maailmameri\"\nDeutsch: \"T\u00fcr\" - Eesti: \"uks\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Ozean\" - Eesti: \"",
+        "target": "['ookean', 'merekeskkond']",
+        "word original": "ocean"
+    },
+    "['H\u00f6hle']": {
+        "prompt": "Deutsch: \"Maschine\" - Eesti: \"lennuk\"\nDeutsch: \"Feld\" - Eesti: \"tasandik\"\nDeutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Osten\" - Eesti: \"idakaar\"\nDeutsch: \"Richter\" - Eesti: \"kohtunik\"\nDeutsch: \"H\u00f6hle\" - Eesti: \"",
+        "target": "['koobas']",
+        "word original": "cave"
+    },
+    "['Meer']": {
+        "prompt": "Deutsch: \"zehn\" - Eesti: \"k\u00fcmme\"\nDeutsch: \"Tal\" - Eesti: \"org\"\nDeutsch: \"Turm\" - Eesti: \"torn\"\nDeutsch: \"Tasche\" - Eesti: \"Kott\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Meer\" - Eesti: \"",
+        "target": "['Maailmameri', 'meri']",
+        "word original": "sea"
+    },
+    "['See']": {
+        "prompt": "Deutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Norden\" - Eesti: \"p\u00f5hi\"\nDeutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Standort\" - Eesti: \"asukoht\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"See\" - Eesti: \"",
+        "target": "['j\u00e4rv']",
+        "word original": "lake"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"Feld\" - Eesti: \"tasandik\"\nDeutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Hand\" - Eesti: \"labak\u00e4si\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Wolke\" - Eesti: \"pilv\"\nDeutsch: \"Quelle\" - Eesti: \"",
+        "target": "['allikas', 'l\u00e4te', 'veesilm', 'kaev']",
+        "word original": "source"
+    },
+    "['Feuer', 'Flamme', 'Feuergarbe', 'Lohe', 'Feuerzunge', 'Brand']": {
+        "prompt": "Deutsch: \"Rede\" - Eesti: \"K\u00f5ne\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"Stadt\" - Eesti: \"linn\"\nDeutsch: \"Feuer\" - Eesti: \"",
+        "target": "['p\u00f5leng', 'leek', 'Tuli', 'tuli', 'Leek']",
+        "word original": "fire"
+    },
+    "['Punkt', 'Scorerpunkt', 'Spielergebnis', 'Spielstand', 'Stichwort']": {
+        "prompt": "Deutsch: \"Mutter\" - Eesti: \"ema\"\nDeutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Plattform\" - Eesti: \"perroon\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Punkt\" - Eesti: \"",
+        "target": "['skoor, punktiseis']",
+        "word original": "point"
+    },
+    "['Ball', 'Fu\u00dfball', 'Kugel', 'Geschoss', 'Flugk\u00f6rper', 'Projektil', 'Tanzball']": {
+        "prompt": "Deutsch: \"Wasser\" - Eesti: \"vesi\"\nDeutsch: \"Fu\u00df\" - Eesti: \"Labajalg\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Welle\" - Eesti: \"merelaine\"\nDeutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Ball\" - Eesti: \"",
+        "target": "['pall', 'kera', 'Kuul', 'kuul']",
+        "word original": "ball"
+    },
+    "['Gem\u00e4lde', 'Abbild', 'Maler', 'Darstellung', 'Malerei']": {
+        "prompt": "Deutsch: \"Tal\" - Eesti: \"org\"\nDeutsch: \"B\u00fcro\" - Eesti: \"kontor\"\nDeutsch: \"Sprache\" - Eesti: \"keel\"\nDeutsch: \"Feder\" - Eesti: \"sulg\"\nDeutsch: \"Tag\" - Eesti: \"\u00f6\u00f6p\u00e4ev\"\nDeutsch: \"Gem\u00e4lde\" - Eesti: \"",
+        "target": "['maal', 'maalimine', 'maalikunst']",
+        "word original": "painting"
+    },
+    "['Reis']": {
+        "prompt": "Deutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Richter\" - Eesti: \"kohtunik\"\nDeutsch: \"Turm\" - Eesti: \"torn\"\nDeutsch: \"Linie\" - Eesti: \"sirge\"\nDeutsch: \"Rede\" - Eesti: \"K\u00f5ne\"\nDeutsch: \"Reis\" - Eesti: \"",
+        "target": "['riis']",
+        "word original": "rice"
+    },
+    "['rot']": {
+        "prompt": "Deutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"Maschine\" - Eesti: \"lennuk\"\nDeutsch: \"Farbe\" - Eesti: \"must\"\nDeutsch: \"Turm\" - Eesti: \"torn\"\nDeutsch: \"Kind\" - Eesti: \"alaealine\"\nDeutsch: \"rot\" - Eesti: \"",
+        "target": "['punane']",
+        "word original": "red"
+    },
+    "['Linie', 'Gerade']": {
+        "prompt": "Deutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Zeit\" - Eesti: \"aeg\"\nDeutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Lied\" - Eesti: \"laul\"\nDeutsch: \"Linie\" - Eesti: \"",
+        "target": "['sirge']",
+        "word original": "line"
+    },
+    "['Netz', 'Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Cyberspace', 'Gittergewebe', 'Gitter']": {
+        "prompt": "Deutsch: \"B\u00fcro\" - Eesti: \"kontor\"\nDeutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"Standort\" - Eesti: \"asukoht\"\nDeutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"Mond\" - Eesti: \"Kuu\"\nDeutsch: \"Netz\" - Eesti: \"",
+        "target": "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'internet', 'k\u00fcbermaailm']",
+        "word original": "net"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"Haushalt\" - Eesti: \"majapidamine\"\nDeutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Zeit\" - Eesti: \"aeg\"\nDeutsch: \"Fu\u00df\" - Eesti: \"",
+        "target": "['Labajalg']",
+        "word original": "foot"
+    },
+    "['Gold', 'Bernsteinfarben']": {
+        "prompt": "Deutsch: \"Reis\" - Eesti: \"riis\"\nDeutsch: \"Plattform\" - Eesti: \"perroon\"\nDeutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"Gold\" - Eesti: \"",
+        "target": "['kuld', 'merevaikkollane', 'Merevaikkollane']",
+        "word original": "gold"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Art\" - Eesti: \"sort\"\nDeutsch: \"Linie\" - Eesti: \"sirge\"\nDeutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Lied\" - Eesti: \"laul\"\nDeutsch: \"T\u00fcr\" - Eesti: \"",
+        "target": "['uks']",
+        "word original": "door"
+    },
+    "['Schnee', 'Schneedecke', 'Schneefall']": {
+        "prompt": "Deutsch: \"zwei\" - Eesti: \"kaks\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Versuch\" - Eesti: \"katse\"\nDeutsch: \"Wald\" - Eesti: \"laas\"\nDeutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Schnee\" - Eesti: \"",
+        "target": "['lumi']",
+        "word original": "snow"
+    },
+    "['Pferd', 'Gaul', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Osten\" - Eesti: \"idakaar\"\nDeutsch: \"Sonne\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"zwei\" - Eesti: \"kaks\"\nDeutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Pferd\" - Eesti: \"",
+        "target": "['hobune']",
+        "word original": "horse"
+    },
+    "['eins', 'ein']": {
+        "prompt": "Deutsch: \"tausend\" - Eesti: \"Tuhat\"\nDeutsch: \"Plattform\" - Eesti: \"perroon\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Holz\" - Eesti: \"laas\"\nDeutsch: \"Feuer\" - Eesti: \"p\u00f5leng\"\nDeutsch: \"eins\" - Eesti: \"",
+        "target": "['\u00fcks', '\u00dcks']",
+        "word original": "one"
+    },
+    "['zwei']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - Eesti: \"uks\"\nDeutsch: \"Kind\" - Eesti: \"alaealine\"\nDeutsch: \"Osten\" - Eesti: \"idakaar\"\nDeutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Gesetz\" - Eesti: \"\u00f5igus\"\nDeutsch: \"zwei\" - Eesti: \"",
+        "target": "['kaks', 'Kaks']",
+        "word original": "two"
+    },
+    "['f\u00fcnf']": {
+        "prompt": "Deutsch: \"Wolke\" - Eesti: \"pilv\"\nDeutsch: \"Meer\" - Eesti: \"Maailmameri\"\nDeutsch: \"Versuch\" - Eesti: \"katse\"\nDeutsch: \"Gold\" - Eesti: \"kuld\"\nDeutsch: \"Gem\u00e4lde\" - Eesti: \"maal\"\nDeutsch: \"f\u00fcnf\" - Eesti: \"",
+        "target": "['viis', 'Viis']",
+        "word original": "five"
+    },
+    "['sechs', 'Schwindler', 'halbes Dutzend']": {
+        "prompt": "Deutsch: \"Haus\" - Eesti: \"hoone\"\nDeutsch: \"Ball\" - Eesti: \"pall\"\nDeutsch: \"H\u00f6hle\" - Eesti: \"koobas\"\nDeutsch: \"Stadt\" - Eesti: \"linn\"\nDeutsch: \"Herz\" - Eesti: \"s\u00fcda\"\nDeutsch: \"sechs\" - Eesti: \"",
+        "target": "['kuus', 'Kuus']",
+        "word original": "six"
+    },
+    "['zehn']": {
+        "prompt": "Deutsch: \"Dorf\" - Eesti: \"k\u00fcla\"\nDeutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"Stadt\" - Eesti: \"linn\"\nDeutsch: \"Stra\u00dfe\" - Eesti: \"maantee\"\nDeutsch: \"Plattform\" - Eesti: \"perroon\"\nDeutsch: \"zehn\" - Eesti: \"",
+        "target": "['k\u00fcmme']",
+        "word original": "ten"
+    },
+    "['Kopf', 'Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Haupt', 'Avers']": {
+        "prompt": "Deutsch: \"Linie\" - Eesti: \"sirge\"\nDeutsch: \"Norden\" - Eesti: \"p\u00f5hi\"\nDeutsch: \"Krawatte\" - Eesti: \"lips\"\nDeutsch: \"Freund\" - Eesti: \"s\u00f5prus\"\nDeutsch: \"rot\" - Eesti: \"punane\"\nDeutsch: \"Kopf\" - Eesti: \"",
+        "target": "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'Nous', 'vaim', 'Vaim', 'pea']",
+        "word original": "head"
+    },
+    "['Stra\u00dfe', 'Strasse', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Schule\" - Eesti: \"\u00fclikool\"\nDeutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"Licht\" - Eesti: \"valgus\"\nDeutsch: \"Ozean\" - Eesti: \"ookean\"\nDeutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"Stra\u00dfe\" - Eesti: \"",
+        "target": "['maantee', 'tee', 'marsruut', 'teekond']",
+        "word original": "street"
+    },
+    "['Auge', 'Augapfel', 'Augen']": {
+        "prompt": "Deutsch: \"f\u00fcnf\" - Eesti: \"viis\"\nDeutsch: \"B\u00fcro\" - Eesti: \"kontor\"\nDeutsch: \"Welle\" - Eesti: \"merelaine\"\nDeutsch: \"B\u00f6rse\" - Eesti: \"rahatasku\"\nDeutsch: \"Standort\" - Eesti: \"asukoht\"\nDeutsch: \"Auge\" - Eesti: \"",
+        "target": "['silm', 'silmamuna']",
+        "word original": "eye"
+    },
+    "['Feld', 'Ebene', 'Acker', 'Anbaufl\u00e4che', 'Ackergrund', 'landwirtschaftliche Nutzfl\u00e4che', 'Ackerland', 'Weide', 'Esch', 'Flur', 'Weideland', 'Trade']": {
+        "prompt": "Deutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Talent\" - Eesti: \"Oskus\"\nDeutsch: \"Feld\" - Eesti: \"",
+        "target": "['tasandik', 'p\u00f5ld', 'nurm', 'v\u00e4li']",
+        "word original": "field"
+    },
+    "['Standort', 'geographische Lage', 'Platz', 'Ort', 'Lage', 'Habitat', 'nat\u00fcrlicher Lebensraum', 'Heimat', 'Stelle']": {
+        "prompt": "Deutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Norden\" - Eesti: \"p\u00f5hi\"\nDeutsch: \"Kopf\" - Eesti: \"nous\"\nDeutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Feder\" - Eesti: \"sulg\"\nDeutsch: \"Standort\" - Eesti: \"",
+        "target": "['asukoht', 'geograafiline asend', 'ruum', 'kasvukoht', 'elupaik', 'koht', 'paik']",
+        "word original": "site"
+    },
+    "['Wort']": {
+        "prompt": "Deutsch: \"Br\u00fccke\" - Eesti: \"sild\"\nDeutsch: \"Herz\" - Eesti: \"s\u00fcda\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Schule\" - Eesti: \"\u00fclikool\"\nDeutsch: \"Linie\" - Eesti: \"sirge\"\nDeutsch: \"Wort\" - Eesti: \"",
+        "target": "['s\u00f5na']",
+        "word original": "word"
+    },
+    "['Paar', 'geordnetes Paar']": {
+        "prompt": "Deutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"H\u00f6hle\" - Eesti: \"koobas\"\nDeutsch: \"S\u00fcden\" - Eesti: \"L\u00f5una\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Stra\u00dfe\" - Eesti: \"maantee\"\nDeutsch: \"Paar\" - Eesti: \"",
+        "target": "['J\u00e4rjestatud paar', 'j\u00e4rjestatud paar']",
+        "word original": "pair"
+    },
+    "['Sitz', 'Sitzgelegenheit', 'Sitzplatz']": {
+        "prompt": "Deutsch: \"Sonne\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Licht\" - Eesti: \"valgus\"\nDeutsch: \"tausend\" - Eesti: \"Tuhat\"\nDeutsch: \"Turm\" - Eesti: \"torn\"\nDeutsch: \"Sitz\" - Eesti: \"",
+        "target": "['iste']",
+        "word original": "seat"
+    },
+    "['Licht', 'Lichtquelle']": {
+        "prompt": "Deutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Fu\u00df\" - Eesti: \"Labajalg\"\nDeutsch: \"Rede\" - Eesti: \"K\u00f5ne\"\nDeutsch: \"Stadt\" - Eesti: \"linn\"\nDeutsch: \"Geschwindigkeit\" - Eesti: \"kiirus\"\nDeutsch: \"Licht\" - Eesti: \"",
+        "target": "['valgus']",
+        "word original": "light"
+    },
+    "['tausend']": {
+        "prompt": "Deutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"Gold\" - Eesti: \"kuld\"\nDeutsch: \"sechs\" - Eesti: \"kuus\"\nDeutsch: \"Wald\" - Eesti: \"laas\"\nDeutsch: \"Haushalt\" - Eesti: \"majapidamine\"\nDeutsch: \"tausend\" - Eesti: \"",
+        "target": "['Tuhat', 'tuhat']",
+        "word original": "thousand"
+    },
+    "['Norden']": {
+        "prompt": "Deutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Tag\" - Eesti: \"\u00f6\u00f6p\u00e4ev\"\nDeutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Norden\" - Eesti: \"",
+        "target": "['p\u00f5hi']",
+        "word original": "north"
+    },
+    "['Maschine', 'Flugzeug', 'Flieger', 'Einrichtung', 'Einheit', 'Baustein', 'Instrument', 'Hilfsmittel', 'Vorrichtung', 'Apparat', 'Ger\u00e4t', 'Maschinenanlage', 'Maschinerie', 'Machinery', 'maschinelle Ausr\u00fcstung', 'mechanisches Ger\u00e4t']": {
+        "prompt": "Deutsch: \"Paar\" - Eesti: \"J\u00e4rjestatud paar\"\nDeutsch: \"Gitter\" - Eesti: \"v\u00f5rk\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Maschine\" - Eesti: \"",
+        "target": "['lennuk', 'aeroplaan', 'seade', 'aparaat', 'masinad', 'mehhanismid']",
+        "word original": "machine"
+    },
+    "['Zeit', 'Zeitform', 'Tempus']": {
+        "prompt": "Deutsch: \"rot\" - Eesti: \"punane\"\nDeutsch: \"Pferd\" - Eesti: \"hobune\"\nDeutsch: \"Licht\" - Eesti: \"valgus\"\nDeutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Gold\" - Eesti: \"kuld\"\nDeutsch: \"Zeit\" - Eesti: \"",
+        "target": "['aeg']",
+        "word original": "time"
+    },
+    "['B\u00f6rse', 'Geldtasche', 'Geldbeutel', 'Geldb\u00f6rse', 'Portemonnaie', 'Brieftasche', 'Portmonee']": {
+        "prompt": "Deutsch: \"Kopf\" - Eesti: \"nous\"\nDeutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Quelle\" - Eesti: \"allikas\"\nDeutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Gold\" - Eesti: \"kuld\"\nDeutsch: \"B\u00f6rse\" - Eesti: \"",
+        "target": "['rahatasku', 'rahakott', 'Rahakott']",
+        "word original": "exchange"
+    },
+    "['Freund', 'Kameradschaft', 'Freundschaft', 'Freundin', 'Verwandte', 'Verwandter', 'Blutsfreundin', 'Blutsverwandter', 'Blutsverwandte', 'Familienangeh\u00f6riger', 'Familienangeh\u00f6rige', 'Angeh\u00f6riger', 'Angeh\u00f6rige', 'Blutsfreund']": {
+        "prompt": "Deutsch: \"Art\" - Eesti: \"sort\"\nDeutsch: \"Lied\" - Eesti: \"laul\"\nDeutsch: \"Kopf\" - Eesti: \"nous\"\nDeutsch: \"Versuch\" - Eesti: \"katse\"\nDeutsch: \"Rede\" - Eesti: \"K\u00f5ne\"\nDeutsch: \"Freund\" - Eesti: \"",
+        "target": "['s\u00f5prus', 'sugulane']",
+        "word original": "friend"
+    },
+    "['Farbe', 'Schwarz', 'Teint', 'Gesichtsfarbe', 'Lack', 'Anstrichmittel', 'Malfarbe']": {
+        "prompt": "Deutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Tasche\" - Eesti: \"Kott\"\nDeutsch: \"Br\u00fccke\" - Eesti: \"sild\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Haushalt\" - Eesti: \"majapidamine\"\nDeutsch: \"Farbe\" - Eesti: \"",
+        "target": "['must', 'v\u00e4rv', 'v\u00e4rvus', 'V\u00e4rvuste loendid']",
+        "word original": "color"
+    },
+    "['Art', 'Sorte']": {
+        "prompt": "Deutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"Tuch\" - Eesti: \"tekstiil\"\nDeutsch: \"Fu\u00df\" - Eesti: \"Labajalg\"\nDeutsch: \"Art\" - Eesti: \"",
+        "target": "['sort', 't\u00f5ug', 'liik']",
+        "word original": "kind"
+    },
+    "['Richter']": {
+        "prompt": "Deutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"H\u00f6hle\" - Eesti: \"koobas\"\nDeutsch: \"Meer\" - Eesti: \"Maailmameri\"\nDeutsch: \"Geschichte\" - Eesti: \"ajalugu\"\nDeutsch: \"Richter\" - Eesti: \"",
+        "target": "['kohtunik']",
+        "word original": "judge"
+    },
+    "['Schule', 'Uni', 'Universit\u00e4t', 'Akademie', 'Hirt', 'Herde', 'Hirte']": {
+        "prompt": "Deutsch: \"zehn\" - Eesti: \"k\u00fcmme\"\nDeutsch: \"Schnee\" - Eesti: \"lumi\"\nDeutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"Talent\" - Eesti: \"Oskus\"\nDeutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Schule\" - Eesti: \"",
+        "target": "['\u00fclikool', 'kool', 'Kari', 'kari']",
+        "word original": "school"
+    },
+    "['Krawatte', 'Schlips']": {
+        "prompt": "Deutsch: \"Paar\" - Eesti: \"J\u00e4rjestatud paar\"\nDeutsch: \"Tuch\" - Eesti: \"tekstiil\"\nDeutsch: \"Tal\" - Eesti: \"org\"\nDeutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"Holz\" - Eesti: \"laas\"\nDeutsch: \"Krawatte\" - Eesti: \"",
+        "target": "['lips']",
+        "word original": "tie"
+    },
+    "['Gesicht', 'Visage', 'Angesicht', 'Antlitz']": {
+        "prompt": "Deutsch: \"Plattform\" - Eesti: \"perroon\"\nDeutsch: \"Stra\u00dfe\" - Eesti: \"maantee\"\nDeutsch: \"Standort\" - Eesti: \"asukoht\"\nDeutsch: \"Sonne\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Maschine\" - Eesti: \"lennuk\"\nDeutsch: \"Gesicht\" - Eesti: \"",
+        "target": "['n\u00e4gu', 'N\u00e4gu']",
+        "word original": "face"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"Gem\u00e4lde\" - Eesti: \"maal\"\nDeutsch: \"Wald\" - Eesti: \"laas\"\nDeutsch: \"Quelle\" - Eesti: \"allikas\"\nDeutsch: \"Person\" - Eesti: \"inimene\"\nDeutsch: \"Br\u00fccke\" - Eesti: \"",
+        "target": "['sild']",
+        "word original": "bridge"
+    },
+    "['Gruppe', 'Ensemble', 'Bruchteil', 'funktionelle Gruppe', 'Band', 'Combo', 'Kapelle', 'Musikkapelle', 'Musikbande', 'Rockgruppe', 'Rock-Gruppe', 'Rockband', 'Klasse', 'Kategorie', 'Strau\u00df', 'Bund']": {
+        "prompt": "Deutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"Tuch\" - Eesti: \"tekstiil\"\nDeutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"Sonne\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Ball\" - Eesti: \"pall\"\nDeutsch: \"Gruppe\" - Eesti: \"",
+        "target": "['ansambel', 'funktsionaalr\u00fchm', 'Funktsionaalr\u00fchm', 'b\u00e4nd', 'klass', 'r\u00fchm', 'kategooria']",
+        "word original": "group"
+    },
+    "['Talent', 'Fertigkeit', 'F\u00e4higkeit', 'Kunst', 'Kompetenz', 'Errungenschaft', 'Geschicklichkeit']": {
+        "prompt": "Deutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Norden\" - Eesti: \"p\u00f5hi\"\nDeutsch: \"Ozean\" - Eesti: \"ookean\"\nDeutsch: \"Osten\" - Eesti: \"idakaar\"\nDeutsch: \"Sprache\" - Eesti: \"keel\"\nDeutsch: \"Talent\" - Eesti: \"",
+        "target": "['Oskus', 'oskus']",
+        "word original": "talent"
+    },
+    "['Plattform', 'Perron', 'Bahnsteig']": {
+        "prompt": "Deutsch: \"Sprache\" - Eesti: \"keel\"\nDeutsch: \"Mutter\" - Eesti: \"ema\"\nDeutsch: \"f\u00fcnf\" - Eesti: \"viis\"\nDeutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Plattform\" - Eesti: \"",
+        "target": "['perroon', 'platvorm']",
+        "word original": "platform"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"Freund\" - Eesti: \"s\u00f5prus\"\nDeutsch: \"Gitter\" - Eesti: \"v\u00f5rk\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"Dorf\" - Eesti: \"k\u00fcla\"\nDeutsch: \"Stadt\" - Eesti: \"linn\"\nDeutsch: \"Haus\" - Eesti: \"",
+        "target": "['hoone', 'maja', 's\u00fcnnikodu']",
+        "word original": "house"
+    },
+    "['Sonne', 'Stern', 'Fixstern']": {
+        "prompt": "Deutsch: \"Gitter\" - Eesti: \"v\u00f5rk\"\nDeutsch: \"Farbe\" - Eesti: \"must\"\nDeutsch: \"T\u00fcr\" - Eesti: \"uks\"\nDeutsch: \"Turm\" - Eesti: \"torn\"\nDeutsch: \"Kopf\" - Eesti: \"nous\"\nDeutsch: \"Sonne\" - Eesti: \"",
+        "target": "['t\u00e4ht', 'P\u00e4ike', 'p\u00e4ike']",
+        "word original": "sun"
+    },
+    "['Geschichte', 'historische Entwicklung', 'Geschichtswissenschaft', 'Erz\u00e4hlung', 'Erz\u00e4hlperspektive', 'Erz\u00e4hlweise', 'literarisches Stilmittel', 'Plot', 'Stoff', 'Fabula und Sujet', 'Handlung', 'Fabula']": {
+        "prompt": "Deutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"tausend\" - Eesti: \"Tuhat\"\nDeutsch: \"Br\u00fccke\" - Eesti: \"sild\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"Lied\" - Eesti: \"laul\"\nDeutsch: \"Geschichte\" - Eesti: \"",
+        "target": "['ajalugu', 'narratiiv', 'lugu', 'S\u00fcndmustik', 'faabula', 'Faabula']",
+        "word original": "history"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Farbe\" - Eesti: \"must\"\nDeutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Dorf\" - Eesti: \"k\u00fcla\"\nDeutsch: \"Mond\" - Eesti: \"Kuu\"\nDeutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"Tal\" - Eesti: \"",
+        "target": "['org']",
+        "word original": "valley"
+    },
+    "['Quadrat', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Licht\" - Eesti: \"valgus\"\nDeutsch: \"Standort\" - Eesti: \"asukoht\"\nDeutsch: \"Quadrat\" - Eesti: \"",
+        "target": "['ruut', 'Ruut']",
+        "word original": "square"
+    },
+    "['S\u00fcden']": {
+        "prompt": "Deutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"Sprache\" - Eesti: \"keel\"\nDeutsch: \"S\u00fcden\" - Eesti: \"",
+        "target": "['L\u00f5una', 'l\u00f5una']",
+        "word original": "south"
+    },
+    "['Stamm', 'Baum', 'Baumstamm']": {
+        "prompt": "Deutsch: \"Sitz\" - Eesti: \"iste\"\nDeutsch: \"Linie\" - Eesti: \"sirge\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Haar\" - Eesti: \"karv\"\nDeutsch: \"Tal\" - Eesti: \"org\"\nDeutsch: \"Stamm\" - Eesti: \"",
+        "target": "['puu', 't\u00fcvi']",
+        "word original": "tribe"
+    },
+    "['Stadt', 'Metropole', 'Gro\u00dfstadt', 'Weltstadt', 'Stadtsiedlung', 'Kleinstadt', 'Bourg']": {
+        "prompt": "Deutsch: \"sechs\" - Eesti: \"kuus\"\nDeutsch: \"Br\u00fccke\" - Eesti: \"sild\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Zeit\" - Eesti: \"aeg\"\nDeutsch: \"Gitter\" - Eesti: \"v\u00f5rk\"\nDeutsch: \"Stadt\" - Eesti: \"",
+        "target": "['linn', 'pealinn', 'suurlinn', 'Suurlinn']",
+        "word original": "city"
+    },
+    "['Sprache', 'Zunge', 'menschliche Sprache', 'Einzelsprache', 'Akzent', 'Idiom', 'Dialekt', 'Ausdrucksweise', 'Mundart']": {
+        "prompt": "Deutsch: \"Quadrat\" - Eesti: \"ruut\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"Sonne\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Boden\" - Eesti: \"maa\"\nDeutsch: \"Sprache\" - Eesti: \"",
+        "target": "['keel', 'murre', 'aktsent', 'Aktsent']",
+        "word original": "language"
+    },
+    "['Geschwindigkeit', 'Schnelligkeit', 'Geschwindigkeitsvektor']": {
+        "prompt": "Deutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Tal\" - Eesti: \"org\"\nDeutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"Stra\u00dfe\" - Eesti: \"maantee\"\nDeutsch: \"Mond\" - Eesti: \"Kuu\"\nDeutsch: \"Geschwindigkeit\" - Eesti: \"",
+        "target": "['kiirus', 'Keskmine kiirus', 'keskmine kiirus']",
+        "word original": "speed"
+    },
+    "['Versuch', 'Experiment', 'Experimentieren']": {
+        "prompt": "Deutsch: \"Haus\" - Eesti: \"hoone\"\nDeutsch: \"Wasser\" - Eesti: \"vesi\"\nDeutsch: \"Farbe\" - Eesti: \"must\"\nDeutsch: \"Punkt\" - Eesti: \"skoor, punktiseis\"\nDeutsch: \"B\u00f6rse\" - Eesti: \"rahatasku\"\nDeutsch: \"Versuch\" - Eesti: \"",
+        "target": "['katse', 'eksperiment']",
+        "word original": "attempt"
+    },
+    "['Schwanz']": {
+        "prompt": "Deutsch: \"H\u00f6hle\" - Eesti: \"koobas\"\nDeutsch: \"Talent\" - Eesti: \"Oskus\"\nDeutsch: \"Feuer\" - Eesti: \"p\u00f5leng\"\nDeutsch: \"Wasser\" - Eesti: \"vesi\"\nDeutsch: \"Freund\" - Eesti: \"s\u00f5prus\"\nDeutsch: \"Schwanz\" - Eesti: \"",
+        "target": "['saba']",
+        "word original": "tail"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Geschwindigkeit\" - Eesti: \"kiirus\"\nDeutsch: \"Gesetz\" - Eesti: \"\u00f5igus\"\nDeutsch: \"Hand\" - Eesti: \"labak\u00e4si\"\nDeutsch: \"Fluss\" - Eesti: \"j\u00f5gi\"\nDeutsch: \"eins\" - Eesti: \"\u00fcks\"\nDeutsch: \"Mutter\" - Eesti: \"",
+        "target": "['ema']",
+        "word original": "mother"
+    },
+    "['Osten', 'Ost']": {
+        "prompt": "Deutsch: \"Stern\" - Eesti: \"t\u00e4ht\"\nDeutsch: \"Geschwindigkeit\" - Eesti: \"kiirus\"\nDeutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"Licht\" - Eesti: \"valgus\"\nDeutsch: \"Schule\" - Eesti: \"\u00fclikool\"\nDeutsch: \"Osten\" - Eesti: \"",
+        "target": "['idakaar', 'ida', 'Ida']",
+        "word original": "east"
+    },
+    "['Rede', 'gesprochene Sprache', 'Sprechen', 'Gesprochene Sprache']": {
+        "prompt": "Deutsch: \"Osten\" - Eesti: \"idakaar\"\nDeutsch: \"Holz\" - Eesti: \"laas\"\nDeutsch: \"Wort\" - Eesti: \"s\u00f5na\"\nDeutsch: \"Mutter\" - Eesti: \"ema\"\nDeutsch: \"Ball\" - Eesti: \"pall\"\nDeutsch: \"Rede\" - Eesti: \"",
+        "target": "['K\u00f5ne', 'Suuline keel', 'suuline keel', 'k\u00f5ne']",
+        "word original": "speech"
+    },
+    "['Kind', 'Minderj\u00e4hrige', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling', 'Kindheit', 'Kinder']": {
+        "prompt": "Deutsch: \"Kopf\" - Eesti: \"nous\"\nDeutsch: \"Herz\" - Eesti: \"s\u00fcda\"\nDeutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Krawatte\" - Eesti: \"lips\"\nDeutsch: \"Farbe\" - Eesti: \"must\"\nDeutsch: \"Kind\" - Eesti: \"",
+        "target": "['alaealine', 'laps', 'alaealisus', 'v\u00e4ikelaps', 'beebi', 'Imik', 'imik', 'lapsep\u00f5lv', 'Lapsep\u00f5lv', 'lapsed']",
+        "word original": "child"
+    },
+    "['Turm']": {
+        "prompt": "Deutsch: \"Holz\" - Eesti: \"laas\"\nDeutsch: \"Dorf\" - Eesti: \"k\u00fcla\"\nDeutsch: \"Feuer\" - Eesti: \"p\u00f5leng\"\nDeutsch: \"Welle\" - Eesti: \"merelaine\"\nDeutsch: \"Ozean\" - Eesti: \"ookean\"\nDeutsch: \"Turm\" - Eesti: \"",
+        "target": "['torn']",
+        "word original": "tower"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"Mond\" - Eesti: \"Kuu\"\nDeutsch: \"Zeit\" - Eesti: \"aeg\"\nDeutsch: \"Feuer\" - Eesti: \"p\u00f5leng\"\nDeutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Wald\" - Eesti: \"laas\"\nDeutsch: \"Haar\" - Eesti: \"",
+        "target": "['karv', 'karvad', 'juuksed']",
+        "word original": "hair"
+    },
+    "['Haushalt', 'Privathaushalt', 'Budget', '\u00f6ffentlicher Haushalt', 'Etat']": {
+        "prompt": "Deutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"Haus\" - Eesti: \"hoone\"\nDeutsch: \"Sommer\" - Eesti: \"suvi\"\nDeutsch: \"Sprache\" - Eesti: \"keel\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Haushalt\" - Eesti: \"",
+        "target": "['majapidamine', 'Majapidamine', 'eelarve']",
+        "word original": "household"
+    },
+    "['Person', 'Mensch', 'Hominid', 'Homo', 'Homo sapiens sapiens', 'Sterbliche', 'Jemand', 'Sterblicher', 'Individuum']": {
+        "prompt": "Deutsch: \"Versuch\" - Eesti: \"katse\"\nDeutsch: \"Kopf\" - Eesti: \"nous\"\nDeutsch: \"Schwanz\" - Eesti: \"saba\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"Gesicht\" - Eesti: \"n\u00e4gu\"\nDeutsch: \"Person\" - Eesti: \"",
+        "target": "['inimene', 'Inimene', 'Homo sapiens sapiens', 'isik', 'indiviid']",
+        "word original": "person"
+    },
+    "['B\u00fcro', 'Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'Beh\u00f6rde', 'Kontor', 'B\u00fcrogeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - Eesti: \"Labajalg\"\nDeutsch: \"Gruppe\" - Eesti: \"ansambel\"\nDeutsch: \"S\u00fcden\" - Eesti: \"L\u00f5una\"\nDeutsch: \"Netz\" - Eesti: \"Internet\"\nDeutsch: \"Buch\" - Eesti: \"raamat\"\nDeutsch: \"B\u00fcro\" - Eesti: \"",
+        "target": "['kontor', 'b\u00fcroo', 'asutus', 'Kontor']",
+        "word original": "office"
+    },
+    "['Sommer', 'Sommersaison', 'Sommerzeit']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - Eesti: \"uks\"\nDeutsch: \"Stamm\" - Eesti: \"puu\"\nDeutsch: \"Auge\" - Eesti: \"silm\"\nDeutsch: \"See\" - Eesti: \"j\u00e4rv\"\nDeutsch: \"Stra\u00dfe\" - Eesti: \"maantee\"\nDeutsch: \"Sommer\" - Eesti: \"",
+        "target": "['suvi']",
+        "word original": "summer"
+    }
+}
