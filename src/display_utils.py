@@ -276,7 +276,7 @@ def plot_results(
         )
     if target_baseline is not None:
         ax.axhline(
-            source_baseline,
+            target_baseline,
             color=colors[0],
             linestyle="-.",
             alpha=0.6,

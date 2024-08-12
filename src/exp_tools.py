@@ -96,7 +96,7 @@ def run_prompts(
     prompts: list[Prompt],
     batch_size: int = 32,
     get_probs: GetProbFunction | None = None,
-    get_prob_kwargs: dict | None = None,
+    get_probs_kwargs: dict | None = None,
     scan: bool = True,
     tqdm=tqdm,
 ) -> tuple[th.Tensor, dict[str, th.Tensor]]:
@@ -108,7 +108,7 @@ def run_prompts(
         prompts: A list of prompts
         batch_size: The batch size to use
         get_probs: The function to get the probabilities of the next token, default to next token prediction
-        get_prob_kwargs: The kwargs to pass to the get_probs function
+        get_probs_kwargs: The kwargs to pass to the get_probs function
         scan: Whether to use nnsight's scan
         tqdm: The tqdm function to use, default to tqdm.auto.tqdm. Use None to disable tqdm
 
@@ -120,12 +120,12 @@ def run_prompts(
     probs = []
     if get_probs is None:
         get_probs = next_token_probs_unsqueeze
-    if get_prob_kwargs is None:
-        get_prob_kwargs = {}
+    if get_probs_kwargs is None:
+        get_probs_kwargs = {}
     if tqdm is None:
         tqdm = lambda x, **kwargs: x
     for prompt_batch in tqdm(dataloader, total=len(dataloader), desc="Running prompts"):
-        probs.append(get_probs(nn_model, prompt_batch, scan=scan, **get_prob_kwargs))
+        probs.append(get_probs(nn_model, prompt_batch, scan=scan, **get_probs_kwargs))
         scan = False  # Not sure if this is a good idea
     probs = th.cat(probs)
     target_probs = []
@@ -150,10 +150,6 @@ def filter_prompts_by_prob(prompts, model, treshold=0.3, batch_size=32):
     return [
         prompt for prompt, prob in zip(prompts, target_probs) if prob.max() >= treshold
     ]
-
-
-def prompts_to_str(prompts):
-    return [prompt.prompt for prompt in prompts]
 
 
 def prompts_to_df(prompts, tokenizer=None):

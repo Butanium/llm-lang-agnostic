@@ -250,7 +250,7 @@ def translation_prompts(
     latent_langs: str | list[str] | None = None,
     n=5,
     only_best=False,
-    augment_tokens=True,
+    augment_tokens=False,
     input_lang_name=None,
     target_lang_name=None,
     cut_at_obj=False,
