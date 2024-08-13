@@ -1,7 +1,7 @@
-This repo contains minimal code to reproduce results from {}
+This repo contains minimal code to reproduce results from [How Do Llamas Process Multilingual Text? A Latent Exploration through Activation Patching](https://openreview.net/forum?id=0ku2hIm4BS), spotlight at the ICML 2024 Mechanistic interpretability workshop.
 
 # Setup
-Create a python environment and `pip install -r requirements.txt`. We think code probably work with `python>=3.7` but only tested it with `python=3.11.x`.
+Create a python environment and `pip install -r requirements.txt`. We think the code probably work with `python>=3.7` but only tested it with `python=3.11.x`.
 
 If this happens to not work you can use the versions specified in `pip.freeze` which contains all the package we have installed with their version in our local `conda` environment.
 
