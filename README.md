@@ -11,7 +11,7 @@ chmod +x compute_results.sh
 ./compute_results.sh
 ```
 
-# Datasets
+# Datasets used in the paper
 The code to rebuild the datasets is located in the `build_datasets` folder but are provided in the repo because you'd need to ask for extra Babelnet API credits / ask for the local index (and make them run 👻) which you don't want to.
 
 ## `word_translation.csv`
@@ -22,6 +22,9 @@ This translated word is the first of each list in the $\ell$ column of the csv.
 
 Then, using babelnet we find all meanings or "senses" related to this word, and then collect all the words or "lemma" that expresse those senses, for each language (including $\ell$)
 
+**Disclaimer:** For some languages we didn't compute the `word_translation.csv` file so you can only use them as output language. If you need one of those, shoot us an email and we'll add it.
+
+# Extra datasets that did not make it yet in the paper
 ## `synset_dataset.csv`
 Those files are computed using the `main_synset_dataset` function of `build_dataset/build_bn_dataset.py`.
 
@@ -37,6 +40,3 @@ The dataset contains several columns:
 - `clozes` (`cloze: str, acceptable_sense: tuple[str]`): definitions where we replaced one of the sense by a placeholder `____`. The `acceptable_sense` is the list of senses that don't appear in the cloze.
 - `clozes_with_start_of_word` (`cloze: str, acceptable_sense: tuple[str]`): same as `clozes` but we search both for the sense alone and for words that start with the sense.
 - `definitions_wo_ref` (`str`): definitions without the reference to any sense. 
-
-## Disclaimer
-For some languages we didn't compute the `word_translation.csv` file but you can only use them as output language
