@@ -4,7 +4,7 @@ from itertools import product
 from copy import deepcopy
 from typing import Optional, Callable
 from dataclasses import dataclass
-from utils import get_tokenizer, ulist
+from .utils import get_tokenizer, ulist
 import torch as th
 import re
 
@@ -78,36 +78,41 @@ def process_tokens(words: str | list[str], tok_vocab):
     return ulist(final_tokens)
 
 
-def process_tokens_with_tokenization(words: str | list[str], tokenizer):
+def process_tokens_with_tokenization(
+    words: str | list[str], tokenizer, i_am_hacky=False
+):
     if isinstance(words, str):
         words = [words]
     final_tokens = []
     for word in words:
         # If you get the value error even with add_prefix_space=False,
         # you can use the following hacky code to get the token without the prefix
-        # hacky_token = tokenizer("🍐", add_special_tokens=False).input_ids
-        # length = len(hacky_token)
-        # tokens = tokenizer("🍐" + word, add_special_tokens=False).input_ids
-        # assert (
-        #     tokens[:length] == hacky_token
-        # ), "I didn't expect this to happen, please check this code"
-        # if len(tokens) > length:
-        #     final_tokens.append(tokens[length])
-
-        token = tokenizer(word, add_special_tokens=False).input_ids[0]
-        token_with_start_of_word = tokenizer(
-            " " + word, add_special_tokens=False
-        ).input_ids[0]
-        if token == token_with_start_of_word:
-            raise ValueError(
-                "Seems like you use a tokenizer that wasn't initialized with add_prefix_space=False. Not good :("
-            )
-        final_tokens.append(token)
-        if (
-            token_with_start_of_word
-            != tokenizer(" ", add_special_tokens=False).input_ids[0]
-        ):
-            final_tokens.append(token_with_start_of_word)
+        if i_am_hacky:
+            hacky_token = tokenizer("🍐", add_special_tokens=False).input_ids
+            length = len(hacky_token)
+            tokens = tokenizer("🍐" + word, add_special_tokens=False).input_ids
+            if tokens[:length] != hacky_token:
+                raise ValueError(
+                    "I didn't expect this to happen, please check this code"
+                )
+            if len(tokens) > length:
+                final_tokens.append(tokens[length])
+        else:
+            # Assuming the tokenizer was initialized with add_prefix_space=False
+            token = tokenizer(word, add_special_tokens=False).input_ids[0]
+            token_with_start_of_word = tokenizer(
+                " " + word, add_special_tokens=False
+            ).input_ids[0]
+            if token == token_with_start_of_word:
+                raise ValueError(
+                    "Seems like you use a tokenizer that wasn't initialized with add_prefix_space=False. Not good :("
+                )
+            final_tokens.append(token)
+            if (
+                token_with_start_of_word
+                != tokenizer(" ", add_special_tokens=False).input_ids[0]
+            ):
+                final_tokens.append(token_with_start_of_word)
     return ulist(final_tokens)
 
 
