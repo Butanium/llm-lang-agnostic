@@ -9,9 +9,9 @@ from typing import Callable
 from interventions import TargetPrompt
 from nnsight_utils import collect_activations, get_num_layers
 from typing import Optional
-from prompt_tools import Prompt
 from transformers import AutoTokenizer
 from interventions import NNLanguageModel
+from prompt_tools import Prompt
 
 GetProbFunction = Callable[[NNLanguageModel, str | list[str], bool], th.Tensor]
 

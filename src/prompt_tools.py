@@ -4,7 +4,7 @@ from itertools import product
 from copy import deepcopy
 from typing import Optional, Callable
 from dataclasses import dataclass
-from .utils import get_tokenizer, ulist
+from utils import get_tokenizer, ulist
 import torch as th
 import re
 
