@@ -1,9 +1,12 @@
 import pandas as pd
 import ast
 from pathlib import Path
+import json
 
 DATA_PATH = Path(__file__).parent.parent / "data"
 
+class NoDatasetFound(Exception):
+    pass
 
 def load_cloze(lang):
     path = DATA_PATH / lang / "cloze_dataset.csv"
@@ -82,3 +85,45 @@ def get_cloze_dataset(
         }
     )
     return merged_df
+
+
+id_to_en = {
+    "zh": "chinese",
+    "ja": "japanese",
+    "es": "spanish",
+    "de": "german",
+    "fr": "french",
+    "en": "english",
+    "fi": "finnish",
+    "nl": "dutch",
+}
+
+
+def get_feature_dataset(feature, lang):
+    path = DATA_PATH / "features" / feature / (id_to_en[lang] + ".json")
+    if not path.exists():
+        raise NoDatasetFound(f"No dataset found for {feature} in {lang}")
+    dic = json.load(open(path))
+    data = []
+    for item in dic:
+        data.append(
+            {
+                "language": lang,
+                "context": item["clean_prefix"],
+                "completion": item["clean_answer"],
+                "wrong completion": item["patch_answer"],
+                "label": item["clean_label"],
+            }
+        )
+        data.append(
+            {
+                "language": lang,
+                "context": item["patch_prefix"],
+                "completion": item["patch_answer"],
+                "wrong completion": item["clean_answer"],
+                "label": item["patch_label"],
+            }
+        )
+
+    df = pd.DataFrame(data)
+    return df

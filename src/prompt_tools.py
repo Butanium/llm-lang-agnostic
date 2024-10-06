@@ -7,9 +7,9 @@ from dataclasses import dataclass
 from utils import get_tokenizer, ulist
 import torch as th
 import re
+from warnings import warn
 
-
-SPACE_TOKENS = ["▁", "Ġ", " "]
+SPACE_TOKENS = [" ", "Ġ", " "]
 
 
 def token_prefixes(token_str: str):
@@ -79,7 +79,7 @@ def process_tokens(words: str | list[str], tok_vocab):
 
 
 def process_tokens_with_tokenization(
-    words: str | list[str], tokenizer, i_am_hacky=False
+    words: str | list[str], tokenizer, i_am_hacky=False, ignore_start_of_word=False
 ):
     if isinstance(words, str):
         words = [words]
@@ -109,7 +109,8 @@ def process_tokens_with_tokenization(
                 )
             final_tokens.append(token)
             if (
-                token_with_start_of_word
+                not ignore_start_of_word
+                and token_with_start_of_word
                 != tokenizer(" ", add_special_tokens=False).input_ids[0]
             ):
                 final_tokens.append(token_with_start_of_word)
@@ -209,19 +210,21 @@ def prompts_from_df(
     df: pd.DataFrame,
     n: int = 5,
     input_lang_name=None,
-    target_lang_name=None,
+    output_lang_name=None,
     cut_at_obj=False,
+    quotes='"',
+    sep=" - ",
 ):
     prompts = []
     pref_input = (
         input_lang_name if input_lang_name is not None else lang2name[input_lang]
     )
     pref_target = (
-        target_lang_name if target_lang_name is not None else lang2name[target_lang]
+        output_lang_name if output_lang_name is not None else lang2name[target_lang]
     )
-    if pref_input:
+    if pref_input != "":
         pref_input += ": "
-    if pref_target:
+    if pref_target != "":
         pref_target += ": "
     for idx, row in df.iterrows():
         idxs = df.index.tolist()
@@ -236,13 +239,13 @@ def prompts_from_df(
                 in_word = in_word[0]
             if isinstance(target_word, list):
                 target_word = target_word[0]
-            prompt += f'{pref_input}"{in_word}" - {pref_target}"{target_word}"\n'
+            prompt += f"{pref_input}{quotes}{in_word}{quotes}{sep}{pref_target}{quotes}{target_word}{quotes}\n"
         in_word = row[input_lang]
         if isinstance(in_word, list):
             in_word = in_word[0]
-        prompt += f'{pref_input}"{in_word}'
+        prompt += f"{pref_input}{quotes}{in_word}"
         if not cut_at_obj:
-            prompt += f'" - {pref_target}"'
+            prompt += f"{quotes}{sep}{pref_target}{quotes}"
         prompts.append(prompt)
     return prompts
 
@@ -256,10 +259,9 @@ def translation_prompts(
     n=5,
     only_best=False,
     augment_tokens=False,
-    input_lang_name=None,
-    target_lang_name=None,
-    cut_at_obj=False,
+    ignore_start_of_word=False,
     return_strings=False,
+    **prompt_kwargs,
 ) -> list[Prompt] | list[str]:
     """
     Get a translation prompt from input_lang to target_lang for each row in the dataframe.
@@ -290,9 +292,7 @@ def translation_prompts(
         target_lang,
         df,
         n=n,
-        input_lang_name=input_lang_name,
-        target_lang_name=target_lang_name,
-        cut_at_obj=cut_at_obj,
+        **prompt_kwargs,
     )
     if return_strings:
         return prompts_str
@@ -303,7 +303,9 @@ def translation_prompts(
         if augment_tokens:
             target_tokens = process_tokens(target_words, tok_vocab)
         else:
-            target_tokens = process_tokens_with_tokenization(target_words, tokenizer)
+            target_tokens = process_tokens_with_tokenization(
+                target_words, tokenizer, ignore_start_of_word=ignore_start_of_word
+            )
         latent_tokens = {}
         latent_words = {}
         for lang in latent_langs:
@@ -315,7 +317,7 @@ def translation_prompts(
                 latent_tokens[lang] = process_tokens(l_words, tok_vocab)
             else:
                 latent_tokens[lang] = process_tokens_with_tokenization(
-                    l_words, tokenizer
+                    l_words, tokenizer, ignore_start_of_word=ignore_start_of_word
                 )
         if len(target_tokens) and all(
             len(latent_tokens_) for latent_tokens_ in latent_tokens.values()
@@ -330,6 +332,26 @@ def translation_prompts(
                     row[input_lang],
                 )
             )
+    return prompts
+
+
+def feature_prompts(df, lang, tokenizer, **kwargs):
+    prompts = translation_prompts(
+        df,
+        tokenizer,
+        "context",
+        "completion",
+        latent_langs=["wrong completion"],
+        input_lang_name="",
+        output_lang_name="",
+        quotes="",
+        sep="",
+        **kwargs,
+    )
+    # rename wrong completion to counterfactual lang
+    for p in prompts:
+        p.latent_tokens[f"cfact {lang}"] = p.latent_tokens.pop("wrong completion")
+        p.latent_strings[f"cfact {lang}"] = p.latent_strings.pop("wrong completion")
     return prompts
 
 
@@ -366,7 +388,7 @@ def def_prompt(df, tokenizer, lang, latent_langs=None, **kwargs):
         f"senses_{lang}",
         [f"senses_{l}" for l in latent_langs],
         input_lang_name="",
-        target_lang_name="",
+        output_lang_name="",
         **kwargs,
     )
     for p in prompts:
@@ -428,6 +450,7 @@ def get_shifted_prompt_pairs(
     extra_langs,
     num_pairs,
     merge_extra_langs=True,
+    label_col="word_original",
 ) -> tuple[list[Prompt], list[Prompt]]:
     check_source_tokens = (
         source_input_lang is not None or source_output_lang is not None
@@ -440,7 +463,7 @@ def get_shifted_prompt_pairs(
     selected_source_rows = set()
     selected_target_rows = set()
     for (i, source_row), (j, target_row) in source_target:
-        if source_row["word_original"] == target_row["word_original"]:
+        if source_row[label_col] == target_row[label_col]:
             continue
         src_p = deepcopy(_source_prompts[i])
         targ_p = deepcopy(_target_prompts[j])
@@ -499,7 +522,17 @@ def get_obj_id(sample_prompt, tokenizer):
     tok_end = tokenizer.encode(end, add_special_tokens=False)
     full = tokenizer.encode(sample_prompt, add_special_tokens=False)
     if tok_start + tok_end != full:
-        raise ValueError("This is weird, check code")
+        # Decode the token IDs to their corresponding tokens
+        start_tokens = [tokenizer.decode([id]) for id in tok_start]
+        end_tokens = [tokenizer.decode([id]) for id in tok_end]
+        full_tokens = [tokenizer.decode([id]) for id in full]
+
+        warn(
+            f"Unexpected tokenization issue detected. Please verify the tokenizer settings and input format.\n"
+            f"tok_start: {start_tokens}\n"
+            f"tok_end: {end_tokens}\n"
+            f"full: {full_tokens}"
+        )
     idx = -len(tok_end) - 1
     return idx
 

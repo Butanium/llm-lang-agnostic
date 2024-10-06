@@ -44,7 +44,7 @@ if __name__ == "__main__":
     save_path = root / "results" / notebook
     save_path.mkdir(exist_ok=True, parents=True)
     source_notebook_path = notebook_root / f"{notebook}.ipynb"
-    exp_id = str(int(time())) + "_" + kwargs.get("exp_id", generate_slug(2))
+    exp_id = str(int(time())) + "_" + (kwargs.get("exp_id", None) or generate_slug(2))
     target_notebook_path = save_path / (
         args.model.replace("/", "_") + f"_{exp_id}.ipynb"
     )

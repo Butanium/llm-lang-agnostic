@@ -6,44 +6,15 @@ from tqdm.auto import tqdm
 from nnsight.models.UnifiedTransformer import UnifiedTransformer
 from nnsight import LanguageModel
 from typing import Callable
-from interventions import TargetPrompt
+from nnterp.interventions import TargetPrompt
 from nnsight_utils import collect_activations, get_num_layers
 from typing import Optional
 from transformers import AutoTokenizer
-from interventions import NNLanguageModel
+from nnterp.interventions import NNLanguageModel
 from prompt_tools import Prompt
+from nnterp.nnsight_utils import next_token_probs
 
 GetProbFunction = Callable[[NNLanguageModel, str | list[str], bool], th.Tensor]
-
-
-def load_model(model_name: str, trust_remote_code=False, use_tl=False, **kwargs_):
-    """
-    Load a model into nnsight. If use_tl is True, a TransformerLens model is loaded.
-    Default device is "auto" and default torch_dtype is th.float16.
-    """
-    kwargs = dict(torch_dtype=th.float16, trust_remote_code=trust_remote_code)
-    if use_tl:
-        if "device" not in kwargs_:
-            kwargs["n_devices"] = th.cuda.device_count() if th.cuda.is_available() else 1
-        kwargs["device"] = "cuda" if th.cuda.is_available() else "cpu"
-
-        kwargs["processing"] = False
-        tokenizer_kwargs = kwargs_.pop("tokenizer_kwargs", {})
-        tokenizer_kwargs.update(
-            dict(add_prefix_space=False, trust_remote_code=trust_remote_code)
-        )
-        tokenizer = AutoTokenizer.from_pretrained(model_name, **tokenizer_kwargs)
-        kwargs["tokenizer"] = tokenizer
-        kwargs.update(kwargs_)
-        return UnifiedTransformer(model_name, **kwargs)
-    else:
-        kwargs["device_map"] = "auto"
-        tokenizer_kwargs = kwargs_.pop("tokenizer_kwargs", {})
-        tokenizer_kwargs.update(
-            dict(add_prefix_space=False, trust_remote_code=trust_remote_code)
-        )
-        kwargs.update(kwargs_)
-        return LanguageModel(model_name, tokenizer_kwargs=tokenizer_kwargs, **kwargs)
 
 
 def get_mean_activations(nn_model, prompts_str, batch_size=32, remote=False):
@@ -56,15 +27,6 @@ def get_mean_activations(nn_model, prompts_str, batch_size=32, remote=False):
     for layer in range(num_layers):
         mean_activations.append(th.cat([a[layer] for a in acts]).mean(0))
     return mean_activations
-
-
-def next_token_probs(
-    nn_model: NNLanguageModel, prompt: str | list[str], remote=False
-) -> th.Tensor:
-    out = nn_model.trace(prompt, trace=False, remote=remote)
-    if not isinstance(nn_model, UnifiedTransformer):
-        out = out.logits
-    return out[:, -1].softmax(-1).cpu()
 
 
 def description_prompt(placeholder="?"):
@@ -175,6 +137,3 @@ def prompts_to_df(prompts, tokenizer=None):
 
 def remove_colliding_prompts(prompts, ignore_langs: Optional[str | list[str]] = None):
     return [prompt for prompt in prompts if prompt.has_no_collisions(ignore_langs)]
-
-
-filter_prompts = remove_colliding_prompts  # todo: remove this alias
