@@ -1,5 +1,5 @@
-This repo contains minimal code to reproduce results from [How Do Llamas Process Multilingual Text? A Latent Exploration through Activation Patching](https://openreview.net/forum?id=0ku2hIm4BS), spotlight at the ICML 2024 Mechanistic interpretability workshop.
-
+This repo contains minimal code to reproduce results from [Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers](https://arxiv.org/abs/2411.08745)
+ previously published under the title [How Do Llamas Process Multilingual Text? A Latent Exploration through Activation Patching](https://openreview.net/forum?id=0ku2hIm4BS), spotlight at the ICML 2024 Mechanistic interpretability workshop. 
 # Setup
 Create a python environment and `pip install -r requirements.txt`. We think the code probably work with `python>=3.7` but only tested it with `python=3.11.x`.
 
