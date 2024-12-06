@@ -12,6 +12,7 @@ from contextlib import nullcontext
 from IPython.display import display
 from nnsight import LanguageModel
 from nnsight.models.UnifiedTransformer import UnifiedTransformer
+from nnterp.display import plot_topk_tokens
 
 PATH = Path(os.path.dirname(os.path.realpath(__file__))).parent
 
@@ -153,106 +154,6 @@ def k_subplots(k, size=(5, 4)) -> tuple[plt.Figure, list[plt.Axes]]:
     for i in range(k, len(axes)):
         axes[i].axis("off")
     return fig, axes
-
-
-def plot_topk_tokens(
-    next_token_probs,
-    tokenizer,
-    k=4,
-    title=None,
-    dynamic_size=True,
-    dynamic_color_scale=False,
-    use_token_ids=False,
-    file=None,
-):
-    """
-    Plot the top k tokens for each layer
-    :param probs: Probability tensor of shape (num_layers, vocab_size)
-    :param k: Number of top tokens to plot
-    :param title: Title of the plot
-    :param dynamic_size: If True, the size of the plot will be adjusted based on the length of the tokens
-    """
-    if isinstance(tokenizer, LanguageModel) or isinstance(
-        tokenizer, UnifiedTransformer
-    ):
-        tokenizer = tokenizer.tokenizer
-    if next_token_probs.dim() == 1:
-        next_token_probs = next_token_probs.unsqueeze(0)
-    if next_token_probs.dim() == 2:
-        next_token_probs = next_token_probs.unsqueeze(0)
-    num_layers = next_token_probs.shape[1]
-    max_token_length_sum = 0
-    top_token_indices_list = []
-    top_probs_list = []
-    for probs in next_token_probs:
-        top_tokens = th.topk(probs, k=k, dim=-1)
-        top_probs = top_tokens.values
-        if not use_token_ids:
-            top_token_indices = [
-                ["'" + tokenizer.convert_ids_to_tokens(t.item()) + "'" for t in l]
-                for l in top_tokens.indices
-            ]
-        else:
-            top_token_indices = [[str(t.item()) for t in l] for l in top_tokens.indices]
-        top_token_indices_list.append(top_token_indices)
-        top_probs_list.append(top_probs)
-    for top_token_indices in top_token_indices_list:
-        max_token_length_sum += max(
-            [len(token) for sublist in top_token_indices for token in sublist]
-        )
-    has_chinese = any(
-        any("\u4e00" <= c <= "\u9fff" for c in token)
-        for top_token_indices in top_token_indices_list
-        for sublist in top_token_indices
-        for token in sublist
-    )
-
-    context = (
-        mpl.rc_context(rc={"font.sans-serif": [simsun, "Arial"]})
-        if has_chinese
-        else nullcontext()
-    )
-    with context:
-        if dynamic_size:
-            fig, axes = plt.subplots(
-                1,
-                len(next_token_probs),
-                figsize=(max_token_length_sum * k * 0.25, num_layers / 2 + 1),
-            )
-        else:
-            fig, axes = k_subplots(len(next_token_probs), size=(12, 8))
-        if len(next_token_probs) == 1:
-            axes = [axes]
-        for i, (ax, top_probs, top_token_indices) in enumerate(
-            zip(axes, top_probs_list, top_token_indices_list)
-        ):
-            cmap = sns.diverging_palette(255, 0, as_cmap=True)
-            sns_kwargs = {}
-            if not dynamic_color_scale:
-                sns_kwargs.update(dict(vmin=0, vmax=1, cbar=i == len(axes) - 1))
-            sns.heatmap(
-                top_probs.detach().numpy(),
-                annot=top_token_indices,
-                fmt="",
-                cmap=cmap,
-                linewidths=0.5,
-                cbar_kws={"label": "Probability"},
-                ax=ax,
-                **sns_kwargs,
-            )
-            ax.set_xlabel("Tokens")
-            ax.set_ylabel("Layers")
-            ax.set_yticks(np.arange(num_layers) + 0.5, range(num_layers))
-        if title is None:
-            fig.suptitle(f"Top {k} Tokens Heatmap")
-        else:
-            fig.suptitle(f"Top {k} Tokens Heatmap - {title}")
-
-        plt.tight_layout()
-        if file is not None:
-            fig.savefig(file, bbox_inches="tight", dpi=300)
-        fig.show()
-        plt.show()
 
 
 def plot_results(

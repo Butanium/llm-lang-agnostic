@@ -4,7 +4,7 @@ from itertools import product
 from copy import deepcopy
 from typing import Optional, Callable
 from dataclasses import dataclass
-from utils import get_tokenizer, ulist
+from .utils import get_tokenizer, ulist
 import torch as th
 import re
 
@@ -201,6 +201,22 @@ lang2name = {
     "A": "A",
     "B": "B",
 }
+def get_df_iterrrows(df, words, words_column):
+    if words is None:
+        iterrrows = df.iterrows()
+    else:
+        if isinstance(words, str):
+            words = [words]
+        words_idx = [df.index[df[words_column] == w] for w in words]
+        for i, word in enumerate(words):
+            if len(words_idx[i]) == 0:
+                raise ValueError(f"Word {word} not found in dataframe")
+            if len(words_idx[i]) > 1:
+                raise ValueError(f"Word {word} found multiple times in dataframe")
+        words_idx = [w[0] for w in words_idx]
+        rows = [df.loc[idx] for idx in words_idx]
+        iterrrows = zip(words_idx, rows)
+    return iterrrows
 
 
 def prompts_from_df(
@@ -211,6 +227,8 @@ def prompts_from_df(
     input_lang_name=None,
     target_lang_name=None,
     cut_at_obj=False,
+    words: None | str | list[str] = None,
+    words_column="word_original",
 ):
     prompts = []
     pref_input = (
@@ -223,7 +241,7 @@ def prompts_from_df(
         pref_input += ": "
     if pref_target:
         pref_target += ": "
-    for idx, row in df.iterrows():
+    for idx, row in get_df_iterrrows(df, words, words_column):
         idxs = df.index.tolist()
         idxs.remove(idx)
         fs_idxs = sample(idxs, n)
@@ -260,6 +278,8 @@ def translation_prompts(
     target_lang_name=None,
     cut_at_obj=False,
     return_strings=False,
+    words: None | str | list[str] = None,
+    words_column="word_original",
 ) -> list[Prompt] | list[str]:
     """
     Get a translation prompt from input_lang to target_lang for each row in the dataframe.
@@ -293,10 +313,12 @@ def translation_prompts(
         input_lang_name=input_lang_name,
         target_lang_name=target_lang_name,
         cut_at_obj=cut_at_obj,
+        words=words,
+        words_column=words_column,
     )
     if return_strings:
         return prompts_str
-    for prompt, (_, row) in zip(prompts_str, df.iterrows()):
+    for prompt, (_, row) in zip(prompts_str, get_df_iterrrows(df, words, words_column)):
         target_words = row[target_lang]
         if only_best and isinstance(target_words, list):
             target_words = target_words[0]
@@ -356,22 +378,72 @@ def random_prompts(df, tokenizer, n=5, **kwargs):
     return prompts
 
 
-def def_prompt(df, tokenizer, lang, latent_langs=None, **kwargs):
+def def_prompt(df, tokenizer, lang, latent_langs=None, use_word_to_def=False, words=None, words_column="word_original", **kwargs):
     if latent_langs is None:
         latent_langs = []
     prompts = translation_prompts(
         df,
         tokenizer,
-        f"definitions_wo_ref_{lang}",
-        f"senses_{lang}",
-        [f"senses_{l}" for l in latent_langs],
+        f"definitions_wo_ref_{lang}" if not use_word_to_def else f"senses_{lang}",
+        f"senses_{lang}" if not use_word_to_def else f"definitions_wo_ref_{lang}",
+        [
+            f"senses_{l}" if not use_word_to_def else f"definitions_wo_ref_{l}"
+            for l in latent_langs
+        ]
+        + [f"senses_{lang}", f"definitions_wo_ref_{lang}"],
         input_lang_name="",
         target_lang_name="",
+        words=words,
+        words_column=words_column,
         **kwargs,
     )
-    for p in prompts:
-        p.latent_tokens = {k.split("_")[-1]: v for k, v in p.latent_tokens.items()}
-        p.latent_strings = {k.split("_")[-1]: v for k, v in p.latent_strings.items()}
+    for p, (_, row) in zip(prompts, get_df_iterrrows(df, words, words_column)):
+        p.target_strings = (
+            p.latent_strings[f"senses_{lang}"]
+            if not use_word_to_def
+            else p.latent_strings[f"definitions_wo_ref_{lang}"]
+        )
+        p.target_tokens = (
+            p.latent_tokens[f"senses_{lang}"]
+            if not use_word_to_def
+            else p.latent_tokens[f"definitions_wo_ref_{lang}"]
+        )
+        p.input_string = (
+            row[f"senses_{lang}"]
+            if use_word_to_def
+            else row[f"definitions_wo_ref_{lang}"]
+        )
+        if isinstance(p.input_string, list):
+            p.input_string = p.input_string[0]
+        p.latent_tokens = {
+            k.split("_")[-1]: v
+            for k, v in p.latent_tokens.items()
+            if not (
+                k == f"senses_{lang}"
+                and not use_word_to_def
+                and lang not in latent_langs
+            )
+            and not (
+                k == f"definitions_wo_ref_{lang}"
+                and use_word_to_def
+                and lang not in latent_langs
+            )
+        }
+        p.latent_strings = {
+            k.split("_")[-1]: v
+            for k, v in p.latent_strings.items()
+            if not (
+                k == f"senses_{lang}"
+                and not use_word_to_def
+                and lang not in latent_langs
+            )
+            and not (
+                k == f"definitions_wo_ref_{lang}"
+                and use_word_to_def
+                and lang not in latent_langs
+            )
+        }
+
     return prompts
 
 
@@ -499,7 +571,9 @@ def get_obj_id(sample_prompt, tokenizer):
     tok_end = tokenizer.encode(end, add_special_tokens=False)
     full = tokenizer.encode(sample_prompt, add_special_tokens=False)
     if tok_start + tok_end != full:
-        raise ValueError("This is weird, check code")
+        raise ValueError(
+            f"This is weird, check code, tokens don't match: {tokenizer.convert_ids_to_tokens(tok_start)} + {tokenizer.convert_ids_to_tokens(tok_end)} != {tokenizer.convert_ids_to_tokens(full)}"
+        )
     idx = -len(tok_end) - 1
     return idx
 
