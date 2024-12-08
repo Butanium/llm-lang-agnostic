@@ -1,0 +1,842 @@
+{
+    "['\ub9de\uaf2d\uc9c0\uac01', '\uac01\ub3c4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"ahi\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Eesti: \"perekonnanimi\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"Klaas\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Eesti: \"",
+        "target": "['nurk', 'Nurk']",
+        "word original": "angle"
+    },
+    "['\uac1c\ubbf8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Eesti: \"riietus\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"putukas\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"ruut\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Eesti: \"",
+        "target": "['sipelgas', 'sipelglased', 'Sipelglased']",
+        "word original": "ant"
+    },
+    "['\uc0ac\uacfc', '\uc0ac\uacfc\ub098\ubb34']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"lusikas\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Eesti: \"inimf\u00fcsioloogia\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Eesti: \"Vahistamine\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"film\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Eesti: \"madu\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Eesti: \"",
+        "target": "['\u00f5un']",
+        "word original": "apple"
+    },
+    "['\uc544\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"jakk\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"huuled\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Eesti: \"t\u00f5bi\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Eesti: \"",
+        "target": "['Kaar', 'kaar']",
+        "word original": "arch"
+    },
+    "['\ubb34\uae30', '\ubcd1\uae30', '\uc804\uc7c1\ubb34\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Eesti: \"",
+        "target": "['relv', 'Relv']",
+        "word original": "arm"
+    },
+    "['\uad70\uc0ac', '\uad70\ub300', '\ubcd1', '\ubcd1\uc0ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Eesti: \"ihunuhtlus\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Eesti: \"inimf\u00fcsioloogia\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Eesti: \"\u00f6konoomika\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Eesti: \"poiss\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"huuled\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Eesti: \"",
+        "target": "['relvaj\u00f5ud', 's\u00f5jav\u00e4gi', 's\u00f5dur']",
+        "word original": "army"
+    },
+    "['\uc544\uae30', '\uc720\uc544']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Eesti: \"jalgratas\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Eesti: \"p\u00f5lv\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"joonistus\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Eesti: \"\u00fclikool\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Eesti: \"",
+        "target": "['v\u00e4ikelaps', 'beebi', 'Imik', 'imik']",
+        "word original": "baby"
+    },
+    "['\uc57c\uad6c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Eesti: \"video\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"Sokk\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Eesti: \"Vahistamine\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"",
+        "target": "['pesapall']",
+        "word original": "ball"
+    },
+    "['\uac00\ub77d\uc9c0', '\ubc18\uc9c0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Eesti: \"Kook\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"k\u00e4sn\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"",
+        "target": "['s\u00f5rmus']",
+        "word original": "ring"
+    },
+    "['\uac1c\uc218\ub300', '\uc2f1\ud06c', '\uc138\uba74\uae30', '\uc2f1\ud06c\ub300']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Eesti: \"kamm\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Eesti: \"lennuk\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Eesti: \"ihunuhtlus\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Eesti: \"",
+        "target": "['kraanikauss', 'bassein', 'Bassein', 'valamu']",
+        "word original": "basin"
+    },
+    "['\ud654\uc7a5\uc2e4', '\uc694\uac15', '\ubcc0\uc18c', '\ubcc0\uae30', '\ubaa9\uc695\uc2e4', '\uc695\uc2e4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc78e\" - Eesti: \"leht\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Eesti: \"sulg\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'vannituba', 'tualett', 'Tualett']",
+        "word original": "pot"
+    },
+    "['\uce68\ub300', '\uc7a0\uc790\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"seelik\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Eesti: \"pliiats\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"",
+        "target": "['voodi']",
+        "word original": "bed"
+    },
+    "['\ubc8c', '\uafc0\ubc8c\ub958', '\ubc00\ubd09', '\ud615\ubc8c', '\ucc98\ubc8c', '\uc9d5\ubc8c', '\uafc0\ubc8c\ub958\uac00 \uc544\ub2cc \ubc8c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Eesti: \"pidur\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Eesti: \"saar\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Eesti: \"Kaar\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"putukas\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"",
+        "target": "['mesilane', 'Mesilased', 'karistus', 'Karistus', 'herilane', 'Herilased', 'herilased']",
+        "word original": "bee"
+    },
+    "['\uc804\ub839', '\ubb38\uc7a5\ud559', '\ucd08\uc778\uc885', '\ub3c4\uc5b4\ud3f0', '\ubca8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Eesti: \"ahv\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Eesti: \"p\u00fchap\u00e4ev\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"laud\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Eesti: \"",
+        "target": "['heraldika', 'Heraldika', 'uksekell']",
+        "word original": "bell"
+    },
+    "['\uc0c8', 'Aves', '\ub2ed', 'Gallus gallus domesticus', '\ucc38\uc0c8\uacfc', '\ub3d9\ucabd', '\ub3d9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Eesti: \"k\u00e4ekell\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Eesti: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Eesti: \"pirn\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Eesti: \"kamm\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"",
+        "target": "['lind', 'linnud', 'Kana', 'kana', 'varblaslased', 'idakaar', 'ida', 'Ida']",
+        "word original": "bird"
+    },
+    "['\ub3c4\uac80', '\uce7c', '\uac80']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"p\u00f6ial\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Eesti: \"sipelgas\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"",
+        "target": "['m\u00f5\u00f5k']",
+        "word original": "blade"
+    },
+    "['\uc704\uc6d0\ud68c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Eesti: \"puu\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"ahi\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Eesti: \"ader\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Eesti: \"kaapk\u00fcbar\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Eesti: \"",
+        "target": "['komitee', 'komisjon']",
+        "word original": "board"
+    },
+    "['\ubcf4\ud2b8', '\uc7a0\uc218\ud568', '\ubc30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Eesti: \"s\u00f5lm\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Eesti: \"kala\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Eesti: \"sealiha\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"",
+        "target": "['allveelaev', 'paat']",
+        "word original": "boat"
+    },
+    "['\ubf08', '\ub300\uc704', '\uac1c\uc694', '\uacbd\uac1c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Eesti: \"treipink\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Eesti: \"k\u00f5ht\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Eesti: \"",
+        "target": "['kont', 'luu', 'abstraktsioon', 'res\u00fcmee', 'kokkuv\u00f5te']",
+        "word original": "bone"
+    },
+    "['\ucc45', '\uc758\ubb34', '\uadfc\ubb34', '\uc5c5\ubb34', '\uc784\ubb34', '\ub2f4', '\uc6b8\ud0c0\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Eesti: \"aed\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Eesti: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Eesti: \"s\u00f5lm\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"",
+        "target": "['raamat', 'vastutus', 'kohustus', 'tara']",
+        "word original": "book"
+    },
+    "['\ubcd1', '\uc9c8\ubcd1', '\ubcd1\uc0ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc54c\" - Eesti: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Eesti: \"nahk\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Eesti: \"inimasula\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Eesti: \"",
+        "target": "['t\u00f5bi', 'haigus', 's\u00f5dur', 'pudel']",
+        "word original": "bottle"
+    },
+    "['\uc0c1\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Eesti: \"kala\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Eesti: \"pilv\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Eesti: \"kass\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"",
+        "target": "['Kast']",
+        "word original": "box"
+    },
+    "['\uc18c\ub144']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Eesti: \"saar\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"jakk\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Eesti: \"teekann\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Eesti: \"",
+        "target": "['poiss']",
+        "word original": "boy"
+    },
+    "['\ub204\uc2a4', '\ud504\uc2dc\ucf00', '\ub9c8\uc74c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Eesti: \"elektrimootor\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Eesti: \"B\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"seelik\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Eesti: \"",
+        "target": "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'Nous', 'vaim', 'Vaim']",
+        "word original": "head"
+    },
+    "['\uc81c\ub3d9\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Eesti: \"sein\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Eesti: \"",
+        "target": "['pidur', 'Pidur']",
+        "word original": "brake"
+    },
+    "['\uacbd\uc81c\ud559', '\u7d93\u6fdf\u5b78', '\uc815\uce58\uacbd\uc81c\ud559']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"Kirst\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"joonistus\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Eesti: \"",
+        "target": "['\u00f6konoomika', 'majandusteadus', 'Poliitiline \u00f6konoomia', 'poliitiline \u00f6konoomia']",
+        "word original": "branch"
+    },
+    "['\ubcbd\ub3cc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Eesti: \"funktsioon\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"org\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Eesti: \"ID-kaart\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Eesti: \"elektrimootor\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Eesti: \"",
+        "target": "['tellis']",
+        "word original": "brick"
+    },
+    "['\ub2e4\ub9ac', '\uad50\ub7c9', '\ubc1c', '\uc0ac\ub78c\uc758 \ub2e4\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\" - Eesti: \"koer\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"lusikas\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Eesti: \"relvaj\u00f5ud\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"",
+        "target": "['sild', 'Labajalg']",
+        "word original": "pin"
+    },
+    "['\uc194', '\uc18c\ub098\ubb34\uc18d', '\uc18c\ub098\ubb34', '\ube0c\ub7ec\uc2dc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Eesti: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Eesti: \"Kaar\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Eesti: \"koer\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Eesti: \"haamer\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Eesti: \"",
+        "target": "['m\u00e4nd', 'Hari', 'hari', 'pintsel']",
+        "word original": "brush"
+    },
+    "['\uc591\ub3d9\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"Kast\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"Sokk\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Eesti: \"kraanikauss\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"",
+        "target": "['\u00c4mber', 'pang', '\u00e4mber']",
+        "word original": "bucket"
+    },
+    "['\uc804\uad6c', '\ubc31\uc5f4\ub4f1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"Sokk\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Eesti: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Eesti: \"v\u00e4ikelaps\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Eesti: \"t\u00e4ht\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Eesti: \"",
+        "target": "['pirn', 'elektripirn', 'lamp', 'Elektervalgustus', 'elektervalgustus', 'h\u00f5\u00f5glamp']",
+        "word original": "bulb"
+    },
+    "['\ucf00\uc774\ud06c', '\uacfc\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"org\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Eesti: \"jalgratas\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"kontor\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Eesti: \"",
+        "target": "['Kook', 'kook']",
+        "word original": "cake"
+    },
+    "['\uce74\uba54\ub77c', '\uc0ac\uc9c4\uae30', '\uc6f9\ucea0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Eesti: \"\u00fclikool\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Eesti: \"poiss\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Eesti: \"relvaj\u00f5ud\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Eesti: \"kartul\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"",
+        "target": "['kaamera', 'fotoaparaat', 'Kaamera', 'Veebikaamera', 'veebikaamera']",
+        "word original": "camera"
+    },
+    "['\uc2e0\ubd84\uc99d', 'ID \uce74\ub4dc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Eesti: \"haigla\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Eesti: \"lennuk\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Eesti: \"sealiha\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Eesti: \"",
+        "target": "['ID-kaart', 'isikutunnistus']",
+        "word original": "card"
+    },
+    "['\uc218\ub808', '\uc790\ub3d9\ucc28', '\uc0ac\ub95c\ucc28', '\uc2b9\uc6a9\ucc28', '\ucc28', '\uc2b9\uc6a9\uc790\ub3d9\ucc28']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Eesti: \"s\u00e4rk\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Eesti: \"heraldika\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"org\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Eesti: \"",
+        "target": "['auto', 'automobiil', 'masin', 'kaarik']",
+        "word original": "cart"
+    },
+    "['\ub9c8\ucc28', '\uac1d\ucc28', '\uc218\ub808']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Eesti: \"komitee\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Eesti: \"t\u00e4ht\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"jakk\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Eesti: \"kariloomad\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"",
+        "target": "['reisivagun', 'raudtees\u00f5iduk', 't\u00f5ld', 'T\u00f5ld', 'kaarik']",
+        "word original": "carriage"
+    },
+    "['\uace0\uc591\uc774', 'Felis silvestris catus']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"huuled\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Eesti: \"tuletikk\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"seadus\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Eesti: \"",
+        "target": "['kass']",
+        "word original": "cat"
+    },
+    "['\uac74\ub77d', '\uce58\uc988']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"laud\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Eesti: \"haamer\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"seadus\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Eesti: \"pidur\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Eesti: \"teekann\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Eesti: \"",
+        "target": "['juust', 's\u00f5ir']",
+        "word original": "cheese"
+    },
+    "['\uada4', '\ubd88\uad50 \uc6a9\uc5b4 \ubaa9\ub85d', '\ubd88\uad50 \uc6a9\uc5b4 \ubaa9\ub85d/\uad6c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Eesti: \"kedrus\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"",
+        "target": "['Kirst', 'kirst']",
+        "word original": "chest"
+    },
+    "['\ud131', '\uc544\ub798\ud131', '\ub4f1\uae09']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Eesti: \"kohtuasi\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Eesti: \"ader\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Eesti: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Eesti: \"madu\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"",
+        "target": "['l\u00f5ug', 'L\u00f5ug']",
+        "word original": "chin"
+    },
+    "['\uad50\ud68c', '\uc131\ub2f9', '\uad50\ud68c\ub2f9', '\ub840\ubc30\ub2f9', '\uc608\ubc30\ub2f9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub208\" - Eesti: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"huuled\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Eesti: \"relv\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"laud\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Eesti: \"",
+        "target": "['kirik']",
+        "word original": "church"
+    },
+    "['\uc6d0', '\ub3d9\uadf8\ub77c\ubbf8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud39c\" - Eesti: \"sulg\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Eesti: \"kirik\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"putukas\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"",
+        "target": "['ringjoon', 'ring']",
+        "word original": "circle"
+    },
+    "['\uc2dc\uacc4', '\uc2dc\uac04\ud314\ucc0c', '\ud734\ub300\uc6a9 \uc2dc\uacc4', '\uc190\ubaa9 \uc2dc\uacc4', '\uc6cc\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"l\u00f5ug\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Eesti: \"k\u00e4ekell\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Eesti: \"p\u00fchap\u00e4ev\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Eesti: \"inimf\u00fcsioloogia\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"",
+        "target": "['kell', 'k\u00e4ekell']",
+        "word original": "clock"
+    },
+    "['\uad6c\ub984']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"lusikas\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Eesti: \"v\u00f5ti\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Eesti: \"Kook\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Eesti: \"kohtuasi\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Eesti: \"",
+        "target": "['pilv', 'Pilv']",
+        "word original": "cloud"
+    },
+    "['\uc7ac\ud0b7']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Eesti: \"Vahistamine\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Eesti: \"k\u00e4ekell\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"Kirst\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Eesti: \"pliiats\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"",
+        "target": "['jakk']",
+        "word original": "coat"
+    },
+    "['\uccb4\ud3ec']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Eesti: \"funktsioon\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Eesti: \"sulg\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Eesti: \"",
+        "target": "['Vahistamine']",
+        "word original": "collar"
+    },
+    "['\ube57']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"Klaas\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Eesti: \"Sukad\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"reisivagun\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Eesti: \"ihunuhtlus\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Eesti: \"",
+        "target": "['kamm']",
+        "word original": "comb"
+    },
+    "['\uc18c', '\uc7ac\ud310', '\uc18c\uc1a1', 'Bos primigenius taurus', '\ud669\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Eesti: \"pirn\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Eesti: \"aed\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Eesti: \"",
+        "target": "['kohtuasi', 'kohtulik arutamine', 'kaasus', 'Kaasus', 'Hagi', 'veised', 'veis']",
+        "word original": "cow"
+    },
+    "['\ucef5', '\uc794', '\uc720\ub9ac\uc794', '\uba38\uadf8\uc794']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9d0\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Eesti: \"pilv\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"",
+        "target": "['Klaas', 'Tass', 'tass', 'klaas', 'kruus', 'Kruus']",
+        "word original": "cup"
+    },
+    "['\ucee4\ud2bc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc18c\" - Eesti: \"kohtuasi\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Eesti: \"",
+        "target": "['eesriie', 'kardin', 'Kardin']",
+        "word original": "curtain"
+    },
+    "['\uc644\ucda9\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Eesti: \"Internet\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Eesti: \"treipink\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"seadus\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Eesti: \"m\u00e4nd\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"",
+        "target": "['amortisaator']",
+        "word original": "cushion"
+    },
+    "['\uac1c', 'Canis lupus familiaris', '\uc9c0\ubd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Eesti: \"purjekas\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Eesti: \"t\u00e4ht\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Eesti: \"riietus\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Eesti: \"kurk\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Eesti: \"kirik\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Eesti: \"",
+        "target": "['koer', 'Canis lupus familiaris', 'katus']",
+        "word original": "dog"
+    },
+    "['\ubb38', '\ucc3d', '\ucc3d\ubb38', '\uad00\ubb38', '\ub300\ubb38']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Eesti: \"talu\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Eesti: \"m\u00fcts\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Eesti: \"v\u00e4ikelaps\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"",
+        "target": "['aken', 'uks', 'v\u00e4rav']",
+        "word original": "drain"
+    },
+    "['\ub3c4\ud654', '\uadf8\ub9bc', '\uc18c\ubb18']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Eesti: \"kartul\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Eesti: \"relvaj\u00f5ud\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Eesti: \"relv\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Eesti: \"purjekas\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"",
+        "target": "['joonistus', 'joonistamine']",
+        "word original": "drawer"
+    },
+    "['\uc637', '\ub4dc\ub808\uc2a4', '\uc758\ubcf5', '\uc6d0\ud53c\uc2a4', '\uc591\ubcf5', '\u6d0b\u670d', '\uc288\ud2b8', '\uc815\uc7a5', '\ubcf5\uc7a5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"org\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Eesti: \"inimasula\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"reisivagun\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Eesti: \"",
+        "target": "['riietus', 'Riietus', 'kleit', 'Kleit', '\u00dclikond', 'kost\u00fc\u00fcm']",
+        "word original": "dress"
+    },
+    "['\ubc29\uc6b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc78e\" - Eesti: \"leht\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Eesti: \"Soomuk\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Eesti: \"juust\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Eesti: \"",
+        "target": "['tilk', 'Tilk']",
+        "word original": "drop"
+    },
+    "['\uadc0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"l\u00f5ug\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"",
+        "target": "['k\u00f5rv', 'auk', 'Auk']",
+        "word original": "ear"
+    },
+    "['\uc54c', '\ub2ec\uac40', '\uad8c\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Eesti: \"p\u00f5lv\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Eesti: \"treipink\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"huuled\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"Kast\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Eesti: \"",
+        "target": "['muna', '\u00f5igused']",
+        "word original": "egg"
+    },
+    "['\ubaa8\ud130', '\uc804\ub3d9\uae30', '\uc5d4\uc9c4', '\uae30\uad00', 'Motor']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Eesti: \"Kahetiivalised\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Eesti: \"\u00f5un\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"l\u00f5ug\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Eesti: \"",
+        "target": "['elektrimootor', 'mootor', 'Motor']",
+        "word original": "engine"
+    },
+    "['\ub208']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\" - Eesti: \"koer\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"ahi\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Eesti: \"",
+        "target": "['lumi', 'silm', 'silmamuna']",
+        "word original": "eye"
+    },
+    "['\uc5bc\uad74']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Eesti: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Eesti: \"juust\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"seadus\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"",
+        "target": "['n\u00e4gu', 'N\u00e4gu']",
+        "word original": "face"
+    },
+    "['\ub18d\uc7a5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Eesti: \"koer\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Eesti: \"",
+        "target": "['talu', 'farm']",
+        "word original": "farm"
+    },
+    "['\uae43', '\uae43\ud138']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Eesti: \"auto\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Eesti: \"",
+        "target": "['sulg', 'sulestik', 'Sulestik']",
+        "word original": "feather"
+    },
+    "['\uc190\uac00\ub77d', '\uc190\ubc1c\uac00\ub77d', '\ubc1c\uac00\ub77d', '\uc5c4\uc9c0', '\uc5c4\uc9c0\uc190\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Eesti: \"tilk\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Eesti: \"aed\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Eesti: \"tuletikk\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Eesti: \"",
+        "target": "['s\u00f5rmed ja varbad', 'p\u00f6ial', 's\u00f5rm', 'n\u00e4pp', 's\u00f5rmed']",
+        "word original": "finger"
+    },
+    "['\ubb3c\uace0\uae30', '\uc5b4\ub958', '\uace0\uae30', '\uc0dd\uc120', 'Pisces']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Eesti: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Eesti: \"s\u00e4rk\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Eesti: \"tilk\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Eesti: \"",
+        "target": "['kala', 'kalad', 'Pisces']",
+        "word original": "fish"
+    },
+    "['\uae30', '\ub2e8\uc704', '\uce21\uc815 \ub2e8\uc704', '\uae30\uac04', '\ub2e8\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Eesti: \"tellis\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Eesti: \"ihunuhtlus\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Eesti: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Eesti: \"",
+        "target": "['lipp', 'm\u00f5\u00f5t\u00fchik', '\u00fchik', 'ajastu', 'faas']",
+        "word original": "flag"
+    },
+    "['\uace8\uc9dc\uae30', '\uacc4\uace1', '\ud611\uace1', '\uc0b0\uace8\uc9dc\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Eesti: \"piits\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"",
+        "target": "['org', 'kuristik']",
+        "word original": "floor"
+    },
+    "['\ud30c\ub9ac\ubaa9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Eesti: \"pidur\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Eesti: \"soomus\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Eesti: \"pilv\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Eesti: \"",
+        "target": "['Kahetiivalised', 'kahetiivalised']",
+        "word original": "fly"
+    },
+    "['\ubc1c', '\uc911\uc808\ubaa8\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Eesti: \"\u00fclikool\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"Klaas\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Eesti: \"tilk\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Eesti: \"",
+        "target": "['kaapk\u00fcbar', 'Kaapk\u00fcbar', 'Labajalg']",
+        "word original": "foot"
+    },
+    "['\ud3ec\ud06c', '\ub3fc\uc9c0\uace0\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Eesti: \"p\u00f5lv\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Eesti: \"pirn\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Eesti: \"katus\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Eesti: \"nahk\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Eesti: \"nous\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Eesti: \"",
+        "target": "['sealiha', 'kahvel', 'Kahvel']",
+        "word original": "fork"
+    },
+    "['\uac00\uae08', '\uac00\ucd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"ahi\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Eesti: \"kornet\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Eesti: \"Kook\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Eesti: \"matus\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Eesti: \"",
+        "target": "['kariloomad', 'p\u00f5llumajandusloomad', 'kari', 'p\u00f5llumajandusloom', 'elusloom']",
+        "word original": "fowl"
+    },
+    "['\uc778\uccb4\uc0dd\ub9ac\ud559', '\uccb4\uaca9', '\uc778\uac04\uc758 \ubab8', '\ubab8\ub9e4', '\uc778\uccb4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Eesti: \"kariloomad\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Eesti: \"lambad\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Eesti: \"",
+        "target": "['inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha']",
+        "word original": "frame"
+    },
+    "['\uc815\uc6d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Eesti: \"haigla\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Eesti: \"lennuk\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"Kirst\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Eesti: \"",
+        "target": "['aed']",
+        "word original": "garden"
+    },
+    "['\uc5ec\uc790', '\uc5ec\uc131', '\uacc4\uc9d1', '\uc18c\ub140', '\ub140\uc790', '\ubd80\uc778', '\uc544\ub0b4', '\uc554\ucef7', '\uc5ec\uc778']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"kontor\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Eesti: \"pliiats\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Eesti: \"kariloomad\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"",
+        "target": "['naine', 't\u00fcdruk', 'plika', 'abielunaine', 'Abielunaine', 'emane', 'naissugu', 'naissoost inimene']",
+        "word original": "girl"
+    },
+    "['\uc7a5\uac11', '\uac11\uc637', '\uac11\uc8fc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"kontor\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"putukas\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Eesti: \"vihmavari\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Eesti: \"",
+        "target": "['soomus', 's\u00f5rmik', 'Kindad', 'kindad']",
+        "word original": "glove"
+    },
+    "['\uc5fc\uc18c', 'Capra aegagrus hircus']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Eesti: \"kont\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"",
+        "target": "['kloor', 'kits', 'kodukits', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['\ucd1d', '\ub300\ud3ec', '\ud654\uae30', '\uc18c\ucd1d', '\ub77c\uc774\ud50c \ucd1d', '\ub77c\uc774\ud50c', '\ucd1d\ud654', '\ud569\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Eesti: \"lipp\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"",
+        "target": "['Suurt\u00fckiv\u00e4gi', 'suurt\u00fckiv\u00e4gi', 'tulirelv', 'Vintp\u00fcss', 'vintp\u00fcss']",
+        "word original": "gun"
+    },
+    "['\ud138', '\ucf67\uc218\uc5fc', '\uc218\uc5fc', '\ud131\uc218\uc5fc', '\uba38\ub9ac', '\uae43', '\uae43\ud138', '\uba38\ub9ac\uce74\ub77d', '\uba38\ub9ac\uce7c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc591\" - Eesti: \"lambad\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Eesti: \"kirik\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Eesti: \"Kaar\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Eesti: \"video\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"",
+        "target": "['vurrud', 'habe', 'karv', 'karvad', 'sulg', 'sulestik', 'Sulestik', 'vuntsid', 'juuksed']",
+        "word original": "root"
+    },
+    "['\ub9dd\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"kontor\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"ruut\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Eesti: \"talu\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Eesti: \"",
+        "target": "['haamer', 'vasar']",
+        "word original": "hammer"
+    },
+    "['\uc190', '\u00de', '\uac12', '\u8cc8\u683c', '\uac00\uaca9', '\uc190\uac00\ub77d', '\uc810\uc720\uad8c', '\uc190\uc8fc', '\uc190\ubc14\ub2e5', '\ub3c4\uc6c0', '\uc6d0\uc870', '\uc9c0\uc6d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"jakk\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Eesti: \"k\u00f5ht\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Eesti: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"",
+        "target": "['hind', 'labak\u00e4si', 's\u00f5rm', 'n\u00e4pp', 's\u00f5rmed', 'valdamine', 'omandus', 't\u00fctret\u00fctar', 't\u00fctrepoeg', 'pojapoeg', 'pojat\u00fctar', 'lapselaps', 'k\u00e4mmal', 'abi']",
+        "word original": "hand"
+    },
+    "['\ubaa8\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\" - Eesti: \"koer\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"l\u00f5ug\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Eesti: \"kont\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Eesti: \"auto\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"ruut\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Eesti: \"",
+        "target": "['m\u00fcts', 'k\u00fcbar']",
+        "word original": "hat"
+    },
+    "['\uc2ec\uc7a5', '\uc6a9\uae30', '\uc6a9\uac10\uc131', '\uc6a9\uac10']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Eesti: \"katus\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Eesti: \"satelliit\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Eesti: \"teekann\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"",
+        "target": "['s\u00fcda', 'Vaprus', 'vaprus']",
+        "word original": "pump"
+    },
+    "['\ud2b8\ub7fc\ud3ab', '\ucf54\ub137']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Eesti: \"istmik\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Eesti: \"\u00f6konoomika\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Eesti: \"nahk\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"allikas\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Eesti: \"",
+        "target": "['kornet', 'parmupill', 'trompet', 'Kornet']",
+        "word original": "horn"
+    },
+    "['\ub9d0', '\ub9c8\uc744', '\ucd0c\ub77d', '\uc5b8\uc5b4', '\uac1c\uac1c\uc758 \uc5b8\uc5b4', '\uc18c', 'Bos primigenius taurus', '\ud669\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"ruut\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Eesti: \"",
+        "target": "['k\u00fcla', 'keel', 'hobune', 'veised', 'veis']",
+        "word original": "horse"
+    },
+    "['\ubcd1\uc6d0', '\u75c5\u9662']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Eesti: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Eesti: \"ader\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"org\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Eesti: \"video\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Eesti: \"",
+        "target": "['haigla']",
+        "word original": "hospital"
+    },
+    "['\uc9d1', '\uc8fc\uac70\uc9c0', '\uc815\ucc29\uc9c0', '\uc8fc\uc2a4', '\uacfc\uc77c \uc8fc\uc2a4', '\uacfc\uc999', '\uc999', '\uacfc\uc77c\ub2e8\ubb3c', '\uc138\ub300', '\uc8fc\uac70', '\uac70\ub958', '\uc8fc\ud0dd']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"lusikas\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"k\u00e4sn\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Eesti: \"",
+        "target": "['inimasula', 'asula', 'hoone', 'maja', 'mahl', 'Mahl', 'majapidamine', 'Majapidamine', 's\u00fcnnikodu']",
+        "word original": "house"
+    },
+    "['\uc12c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"seadus\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"Klaas\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Eesti: \"",
+        "target": "['saar']",
+        "word original": "island"
+    },
+    "['\ubcf4\uc11d', '\ubcf4\uc11d\ub958', '\uc8fc\uc5bc\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Eesti: \"B\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Eesti: \"kont\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"reisivagun\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"",
+        "target": "['ehted']",
+        "word original": "jewel"
+    },
+    "['\uc8fc\uc804\uc790', '\ucc3b\uc8fc\uc804\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Eesti: \"madu\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Eesti: \"",
+        "target": "['teekann']",
+        "word original": "kettle"
+    },
+    "['\uc5f4\uc1e0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Eesti: \"funktsioon\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Eesti: \"ahv\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"p\u00f6ial\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Eesti: \"",
+        "target": "['v\u00f5ti', 'toon', 'klahv', 'V\u00f5ti']",
+        "word original": "key"
+    },
+    "['\ubb34\ub98e']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Eesti: \"komitee\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Eesti: \"relvaj\u00f5ud\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Eesti: \"siga\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Eesti: \"",
+        "target": "['p\u00f5lv']",
+        "word original": "knee"
+    },
+    "['\ub098\uc774\ud504', '\uce7c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Eesti: \"nahk\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Eesti: \"kariloomad\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"",
+        "target": "['nuga']",
+        "word original": "knife"
+    },
+    "['\ub9e4\ub4ed']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Eesti: \"kornet\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Eesti: \"B\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Eesti: \"nuga\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Eesti: \"",
+        "target": "['s\u00f5lm', 'S\u00f5lm']",
+        "word original": "knot"
+    },
+    "['\uc78e']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"Klaas\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Eesti: \"kaapk\u00fcbar\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Eesti: \"pidur\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Eesti: \"auto\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"Kast\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Eesti: \"",
+        "target": "['leht', 'lehestik']",
+        "word original": "leaf"
+    },
+    "['\ud154\ub808\ube44\uc804', '\ud2f0\ubdd4', '\ube44\ub514\uc624', '\ud2f0\ube44', '\ud154\ub808\ube44', '\uc804\uc2dc', '\ud14c\ub808\ube44', '\ud2f0\ube0c\uc774', '\ud154\ub808\ube44\uc804 \uc218\uc0c1\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Eesti: \"relvaj\u00f5ud\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Eesti: \"",
+        "target": "['video', 'televisioon', 'teler', 'televiisor', 'Televiisor']",
+        "word original": "line"
+    },
+    "['\uc785\uc220']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc194\" - Eesti: \"m\u00e4nd\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"p\u00f6ial\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"ahi\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"",
+        "target": "['huuled', 'Huuled']",
+        "word original": "lip"
+    },
+    "['\uac00\ub9c8', '\uc804\ucc28', '\uc7a5\uac11\uc804\ud22c\ucc28\ub7c9', '\uae30\uac11\uc804\ud22c\ucc28\ub7c9', '\uc8fc\uc804\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Eesti: \"sipelgas\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Eesti: \"sealiha\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Eesti: \"",
+        "target": "['Soomuk', 'tank', 'soomuk', 'Tank', 'teekann', 'Pijpenkrul']",
+        "word original": "lock"
+    },
+    "['\uc77c\uac00\ud568\uc218', '\ub9f5\ud551', '\ud568\uc218']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"kontor\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Eesti: \"n\u00e4riline\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"Kirst\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Eesti: \"tellis\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Eesti: \"",
+        "target": "['funktsioon']",
+        "word original": "map"
+    },
+    "['\uc131\ub0e5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Eesti: \"pliiats\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Eesti: \"haamer\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Eesti: \"",
+        "target": "['tuletikk', 'Tuletikk', 'tikk']",
+        "word original": "match"
+    },
+    "['\uc6d0\uc22d\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Eesti: \"ID-kaart\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Eesti: \"kedrus\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Eesti: \"poiss\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Eesti: \"",
+        "target": "['ahv', 'Ahv']",
+        "word original": "monkey"
+    },
+    "['\uc704\uc131', '\uc778\uacf5\uc704\uc131', '\uc0c8\ud2c0\ub77c\uc774\ud2b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Eesti: \"vangla\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Eesti: \"pilv\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Eesti: \"s\u00e4rk\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"k\u00e4sn\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Eesti: \"",
+        "target": "['satelliit', 'tehiskaaslane', 'Tehiskaaslane']",
+        "word original": "moon"
+    },
+    "['\uadfc\uc721', '\ud749\uadfc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"Sokk\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Eesti: \"kala\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"Kast\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Eesti: \"",
+        "target": "['lihas', 'Lihas']",
+        "word original": "muscle"
+    },
+    "['\uc190\ud1b1', '\uc190\ubc1c\ud1b1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"joonistus\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Eesti: \"saar\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Eesti: \"purjekas\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"k\u00e4sn\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"",
+        "target": "['k\u00fc\u00fcs', 'K\u00fc\u00fcs']",
+        "word original": "nail"
+    },
+    "['\ubaa9', '\ub208', '\uba38\ub9ac', '\uba71\uc0b4', '\ubaa9\uad6c\uba4d', '\uba71']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"jakk\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"",
+        "target": "['silm', 'silmamuna', 'kael', 'kaelus', 'pea', 'kurk']",
+        "word original": "neck"
+    },
+    "['\uc2e0\uacbd', '\uc2e0\uacbd\uacc4', '\uc2e0\uacbd\uacc4\ud1b5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"seadus\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Eesti: \"sealiha\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"reisivagun\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Eesti: \"lipp\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"",
+        "target": "['n\u00e4rvis\u00fcsteem', 'n\u00e4rv']",
+        "word original": "nerve"
+    },
+    "['\uc778\ud130\ub137', '\uc778\ud130\ub124\ud2b8', '\ub204\ub9ac\ub9dd', '\ub137', '\uac00\uc0c1 \uacf5\uac04']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Eesti: \"tilk\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Eesti: \"inimasula\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Eesti: \"Vahistamine\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Eesti: \"",
+        "target": "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'internet', 'k\u00fcbermaailm']",
+        "word original": "net"
+    },
+    "['\ucf54', '\ud3ec\uc778\ud2b8', '\ub4dd\uc810', '\uc8fc\ub465\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"Kast\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Eesti: \"pliiats\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Eesti: \"ader\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Eesti: \"Internet\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"",
+        "target": "['nina', 'Nina', 'skoor, punktiseis', 'punkt', 'k\u00e4rss', 'koon']",
+        "word original": "nose"
+    },
+    "['\uc0ac\ubb34\uc2e4', '\uc815\ubd80 \uae30\uad00', '\uad00\uccad', '\uc624\ud53c\uc2a4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"ruut\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Eesti: \"Kasakad\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"laud\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"Kirst\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Eesti: \"ahv\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"",
+        "target": "['kontor', 'b\u00fcroo', 'asutus', 'Kontor']",
+        "word original": "office"
+    },
+    "['\uc8fc\ud669', '\uc8fc\ud669\uc0c9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Eesti: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Eesti: \"piits\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Eesti: \"leht\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"",
+        "target": "['oran\u017e']",
+        "word original": "orange"
+    },
+    "['\uc624\ube10']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Eesti: \"matus\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Eesti: \"perekonnanimi\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Eesti: \"Kasakad\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"",
+        "target": "['ahi', 'Ahi']",
+        "word original": "oven"
+    },
+    "['\ud39c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc704\" - Eesti: \"k\u00f5ht\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Eesti: \"funktsioon\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Eesti: \"",
+        "target": "['sulg', 'sulepea']",
+        "word original": "pen"
+    },
+    "['\uc5f0\ud544']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"allikas\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Eesti: \"lambad\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Eesti: \"riietus\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Eesti: \"treipink\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Eesti: \"",
+        "target": "['pliiats']",
+        "word original": "pencil"
+    },
+    "['\uc601\ud654', '\ud30c\uc6b4\ub4dc \uc2a4\ud138\ub9c1', '\ud30c\uc6b4\ub4dc', '\u00a3']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc637\" - Eesti: \"riietus\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"seelik\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"allikas\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Eesti: \"puu\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"",
+        "target": "['film', 'Suurbritannia naelsterling', 'naelsterling', 'nael', '\u00a3']",
+        "word original": "picture"
+    },
+    "['\ub3fc\uc9c0', '\uba67\ub3fc\uc9c0\uc18d', 'Sus scrofa domestica']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Eesti: \"nurk\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Eesti: \"nous\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Eesti: \"tellis\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Eesti: \"n\u00e4riline\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Eesti: \"",
+        "target": "['siga', 'sigalane', 'Sus scrofa domestica']",
+        "word original": "pig"
+    },
+    "['\ube44\ud589\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Eesti: \"nahk\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Eesti: \"B\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"reisivagun\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"k\u00e4sn\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Eesti: \"",
+        "target": "['lennuk', 'aeroplaan']",
+        "word original": "plane"
+    },
+    "['\uc7c1\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Eesti: \"\u00fclikool\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Eesti: \"Kahetiivalised\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Eesti: \"",
+        "target": "['ader', 'Ader']",
+        "word original": "plough"
+    },
+    "['\ud638\uc8fc\uba38\ub2c8', '\uc8fc\uba38\ub2c8', '\ud3ec\ucf13']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Eesti: \"siga\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Eesti: \"kaapk\u00fcbar\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Eesti: \"s\u00f5lm\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Eesti: \"",
+        "target": "['tasku', 'Tasku']",
+        "word original": "pocket"
+    },
+    "['\uac10\uc790', 'Solanum tuberosum']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Eesti: \"s\u00f5lm\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"allikas\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Eesti: \"heraldika\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Eesti: \"Kasakad\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Eesti: \"",
+        "target": "['kartul', 'harilik kartul']",
+        "word original": "potato"
+    },
+    "['\uad50\ub3c4\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Eesti: \"talu\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Eesti: \"lipp\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Eesti: \"kass\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Eesti: \"",
+        "target": "['vangla']",
+        "word original": "prison"
+    },
+    "['\uc950', '\uc124\uce58\ub958', '\uc0dd\uc950\uc18d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc3d\" - Eesti: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Eesti: \"puu\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Eesti: \"haamer\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Eesti: \"siga\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Eesti: \"",
+        "target": "['n\u00e4riline', 'n\u00e4rilised', 'N\u00e4rilised', 'Hiir', 'hiir']",
+        "word original": "rat"
+    },
+    "['\uc1a1\uc7a5', '\uc7a5\ub840', '\uc7a5\ub840\uc2dd', '\uc778\ubcf4\uc774\uc2a4', '\uacc4\uc0b0\uc11c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae30\" - Eesti: \"lipp\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Eesti: \"",
+        "target": "['matus', 'matused', 'arve']",
+        "word original": "receipt"
+    },
+    "['\uccb4\ubc8c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Eesti: \"inimasula\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Eesti: \"ID-kaart\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Eesti: \"",
+        "target": "['ihunuhtlus', 'Ihunuhtlus']",
+        "word original": "rod"
+    },
+    "['\uc9c0\ubd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"seelik\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Eesti: \"Sigar\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Eesti: \"Kirst\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Eesti: \"",
+        "target": "['katus']",
+        "word original": "roof"
+    },
+    "['\ubc94\uc120']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Eesti: \"Kahetiivalised\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Eesti: \"kedrus\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Eesti: \"Vahistamine\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Eesti: \"",
+        "target": "['purjekas', 'purjelaev']",
+        "word original": "sail"
+    },
+    "['\ub300\ud559\uad50', '\ud559\uad50', '\uc544\uce74\ub370\ubbf8', '\ud559\ud68c', '\ub300\ud559']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Eesti: \"kartul\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Eesti: \"eesriie\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Eesti: \"",
+        "target": "['\u00fclikool', 'kool', 'akadeemia']",
+        "word original": "school"
+    },
+    "['\uac00\uc704']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubf08\" - Eesti: \"kont\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Eesti: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Eesti: \"lennuk\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Eesti: \"",
+        "target": "['k\u00e4\u00e4rid', 'K\u00e4\u00e4rid']",
+        "word original": "scissors"
+    },
+    "['\uc528', '\uc131\uc528', '\uc528\uc557']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"Jumalus\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Eesti: \"nous\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Eesti: \"p\u00fchap\u00e4ev\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"p\u00f6ial\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Eesti: \"",
+        "target": "['perekonnanimi', 'seeme']",
+        "word original": "seed"
+    },
+    "['\uc591', 'Ovis aries', '\ub458', '\uc774', '\ub450', '\ube44\uc728', '\uae08\uc561', '\uc561\uc218']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Eesti: \"pirn\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"p\u00f6ial\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Eesti: \"perekonnanimi\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Eesti: \"",
+        "target": "['lambad', 'lammas', 'kaks', 'Kaks', 'kvantiteet', 'muutumiskiirus', 'kiirus']",
+        "word original": "sheep"
+    },
+    "['\uc120\ubc18']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Eesti: \"t\u00f5bi\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Eesti: \"m\u00e4nd\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Eesti: \"k\u00f5rv\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Eesti: \"",
+        "target": "['treipink', 'Treipink', 'Riiul', 'riiul']",
+        "word original": "shelf"
+    },
+    "['\uc120\ubc15', '\ubc30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Eesti: \"rong\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Eesti: \"elektrimootor\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Eesti: \"vangla\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Eesti: \"voodi\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"",
+        "target": "['laev', 'vees\u00f5iduk', 'Vees\u00f5iduk']",
+        "word original": "ship"
+    },
+    "['\uc154\uce20', '\uc640\uc774\uc154\uce20', '\ub0a8\ubc29']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"lusikas\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Eesti: \"haigla\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Eesti: \"aed\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Eesti: \"",
+        "target": "['s\u00e4rk']",
+        "word original": "shirt"
+    },
+    "['\uc2e0', '\uc2e0\ubc1c', '\uc2e0\uc7a5', '\ucf69\ud325', '\ud658\ud76c', '\uae30\uc068', '\uc990\uac70\uc6c0', '\ud30c\ub178\ub77c\ub9c8', 'panorama', '\uc5f4\uad11']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Eesti: \"nous\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Eesti: \"nurk\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Eesti: \"Sigar\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Eesti: \"",
+        "target": "['Jumalus', 'jumalus', 'king', 'kingad', 'neer', 'neerud', 'r\u00f5\u00f5m', 'panoraam', 'panorama', 'Entusiasm']",
+        "word original": "tongue"
+    },
+    "['\uc0b4\uac17', '\ud53c\ubd80']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Eesti: \"kornet\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Eesti: \"talu\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Eesti: \"Internet\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"M\u00e4lu\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Eesti: \"",
+        "target": "['nahk']",
+        "word original": "skin"
+    },
+    "['\uce58\ub9c8', '\uc2a4\ucee4\ud2b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"l\u00f5ug\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Eesti: \"inimasula\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Eesti: \"k\u00f5ht\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"",
+        "target": "['seelik', 'Seelik']",
+        "word original": "skirt"
+    },
+    "['\ubc40']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Eesti: \"pirn\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Eesti: \"komitee\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Eesti: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Eesti: \"",
+        "target": "['madu', 'maolised']",
+        "word original": "snake"
+    },
+    "['\uc591\ub9d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"joonistus\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Eesti: \"jakk\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Eesti: \"p\u00f5lv\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Eesti: \"satelliit\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"",
+        "target": "['Sokk', 'sokk']",
+        "word original": "sock"
+    },
+    "['\ud574\uba74\ub3d9\ubb3c', 'Porifera']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Eesti: \"reisivagun\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"film\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Eesti: \"piits\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Eesti: \"juust\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"",
+        "target": "['k\u00e4sn', 'k\u00e4snad']",
+        "word original": "sponge"
+    },
+    "['\uc2a4\ud47c', '\uc21f\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Eesti: \"madu\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Eesti: \"katus\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Eesti: \"Kook\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"",
+        "target": "['lusikas', 'Lusikas']",
+        "word original": "spoon"
+    },
+    "['\uc0d8\ud130', '\uc0d8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Eesti: \"kurk\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Eesti: \"Internet\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"",
+        "target": "['allikas', 'l\u00e4te', 'veesilm']",
+        "word original": "spring"
+    },
+    "['\uc815\uc0ac\uac01\ud615']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"putukas\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Eesti: \"k\u00fc\u00fcs\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"film\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Eesti: \"tellis\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"",
+        "target": "['ruut']",
+        "word original": "square"
+    },
+    "['\uc6b0\ud45c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc950\" - Eesti: \"n\u00e4riline\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Eesti: \"Soomuk\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Eesti: \"piits\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Eesti: \"auto\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Eesti: \"kell\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"",
+        "target": "['postmark', 'mark']",
+        "word original": "stamp"
+    },
+    "['\ubcc4', '\ud56d\uc131', '\uc678\uacc4 \ud589\uc131 \uc8fc\uc778\ubcc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Eesti: \"istmik\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Eesti: \"lusikas\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Eesti: \"\u00f6konoomika\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Eesti: \"satelliit\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Eesti: \"inimf\u00fcsioloogia\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Eesti: \"",
+        "target": "['t\u00e4ht']",
+        "word original": "star"
+    },
+    "['\uc904\uae30', '\uadfc\uc721', '\uac00\uc9c0', '\ub098\ubb47\uac00\uc9c0', '\ub098\ubb34\uc904\uae30', '\uadf8\ub8e8', '\uad11\uc120\ube54', '\uad11\uc120']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Eesti: \"Sukad\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Eesti: \"s\u00f5rmus\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Eesti: \"k\u00e4sn\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Eesti: \"kedrus\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Eesti: \"naine\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Eesti: \"",
+        "target": "['lihas', 'Lihas', 'oks', 'Oks', 't\u00fcvi', 'kiir', 'kiiritus']",
+        "word original": "stem"
+    },
+    "['\uc5fd\uad90\ub828']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"film\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Eesti: \"ruut\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Eesti: \"ahi\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Eesti: \"kartul\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Eesti: \"",
+        "target": "['Sigar', 'sigar']",
+        "word original": "stick"
+    },
+    "['\uc2a4\ud0c0\ud0b9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Eesti: \"ahv\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"laud\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Eesti: \"sein\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Eesti: \"n\u00e4gu\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Eesti: \"",
+        "target": "['Sukad']",
+        "word original": "stocking"
+    },
+    "['\uc704', '\uc704\uc7a5', '\uba38\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcd1\" - Eesti: \"t\u00f5bi\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Eesti: \"vihmavari\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Eesti: \"n\u00e4riline\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Eesti: \"\u00c4mber\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Eesti: \"k\u00e4ekell\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Eesti: \"",
+        "target": "['k\u00f5ht', 'magu', 'Magu', 'pea', 'arusaam']",
+        "word original": "stomach"
+    },
+    "['\uc8fc\uae30\uc5b5\uc7a5\uce58', '\uae30\uc5b5 \uc7a5\uce58', '\uba54\ubaa8\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Eesti: \"video\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Eesti: \"ID-kaart\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Eesti: \"",
+        "target": "['M\u00e4lu', 'm\u00e4lu', 'arvuti m\u00e4lu']",
+        "word original": "store"
+    },
+    "['\uc77c\uc694\uc77c', '\uc8fc\uc77c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud138\" - Eesti: \"vurrud\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Eesti: \"vihmavari\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Eesti: \"kirik\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Eesti: \"",
+        "target": "['p\u00fchap\u00e4ev']",
+        "word original": "sun"
+    },
+    "['\ud14c\uc774\ube14', '\ud0c1\uc790', '\ubc25\uc0c1', '\uc0c1', '\ucc45\uc0c1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Eesti: \"talu\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"allikas\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Eesti: \"postmark\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Eesti: \"haigla\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Eesti: \"Kahetiivalised\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"",
+        "target": "['laud', 'Kirjutuslaud']",
+        "word original": "table"
+    },
+    "['\uaf2c\ub9ac', '\ubcfc\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Eesti: \"vangla\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Eesti: \"tuletikk\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Eesti: \"treipink\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Eesti: \"",
+        "target": "['istmik', 'Istmik', 'saba']",
+        "word original": "tail"
+    },
+    "['\uc2e4', '\ud138\uc2e4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"Sokk\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Eesti: \"t\u00f5bi\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Eesti: \"kaamera\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Eesti: \"",
+        "target": "['kedrus', 'l\u00f5ng', 'niit']",
+        "word original": "thread"
+    },
+    "['\uba71\uc0b4', '\ubaa9\uad6c\uba4d', '\uba71']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Eesti: \"siga\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Eesti: \"k\u00fcla\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Eesti: \"Kahetiivalised\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Eesti: \"pilv\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"m\u00f5\u00f5k\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Eesti: \"",
+        "target": "['kurk']",
+        "word original": "throat"
+    },
+    "['\uc5c4\uc9c0', '\uc5c4\uc9c0\uc190\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc54c\" - Eesti: \"muna\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Eesti: \"s\u00fcda\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Eesti: \"istmik\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Eesti: \"k\u00e4\u00e4rid\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"",
+        "target": "['p\u00f6ial']",
+        "word original": "thumb"
+    },
+    "['\ube44', 'B', '\ub959', '\uc5ec\uc12f', '\uc721', '\uacfc\uae08', '\uc694\uae08', '\ub8cc\uae08', '\uc6b4\uc784']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Eesti: \"allikas\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Eesti: \"Klaas\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Eesti: \"jalgratas\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Eesti: \"nous\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Eesti: \"s\u00e4rk\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Eesti: \"",
+        "target": "['B', 'vihmavesi', 'vihm', 'Vihm', 'kuus', 'Kuus', 'tasu']",
+        "word original": "ticket"
+    },
+    "['\ubc1c\uac00\ub77d', '\uc190\uac00\ub77d', '\uc190\ubc1c\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Eesti: \"purjekas\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Eesti: \"Sokk\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Eesti: \"lipp\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Eesti: \"nurk\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"",
+        "target": "['s\u00f5rmed ja varbad', 'varvas']",
+        "word original": "toe"
+    },
+    "['\uc774', '\uc790\uc5f0\ubc95', '\ubc95\ub960', '\ub458', '\ub450', '\uc0ac\ub78c\uc758 \uc774', '\uadc0', '\ud131', '\uc544\ub798\ud131', '\uc624\uc58f', '\uc11c\uc591\uc790\ub450', '\uc790\ub450', '\uc21c\uc774\uc775', '\uc774\uc775']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud39c\" - Eesti: \"sulg\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Eesti: \"allveelaev\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Eesti: \"ringjoon\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Eesti: \"ader\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Eesti: \"",
+        "target": "['seadus', '\u00f5igus', 'Loomu\u00f5igus', 'loomu\u00f5igus', 'kaks', 'Kaks', 'Hambad', 'hammas', 'hambad', 'k\u00f5rv', 'l\u00f5ug', 'L\u00f5ug', 'ploom', 'Netosissetulek', 'Kasum', 'kasvik', 'intress']",
+        "word original": "tooth"
+    },
+    "['\ub9c8\uc744', '\ucd0c\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Eesti: \"kartul\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Eesti: \"Sukad\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Eesti: \"katus\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Eesti: \"l\u00f5ug\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Eesti: \"",
+        "target": "['k\u00fcla', 'linn']",
+        "word original": "town"
+    },
+    "['\uae30\ucc28', '\uc5f4\ucc28']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Eesti: \"\u00f5un\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Eesti: \"Soomuk\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Eesti: \"t\u00f5bi\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Eesti: \"istmik\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Eesti: \"",
+        "target": "['rong']",
+        "word original": "train"
+    },
+    "['\ub098\ubb34', '\ubaa9\uc7ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"film\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Eesti: \"soomus\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Eesti: \"",
+        "target": "['puu', 'puit']",
+        "word original": "tree"
+    },
+    "['\ubc14\uc9c0', '\uce74\uc790\ud06c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Eesti: \"ehted\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Eesti: \"Sigar\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Eesti: \"silm\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"joonistus\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Eesti: \"sild\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Eesti: \"",
+        "target": "['Kasakad', 'kasakas', 'kasakad', 'p\u00fcksid', 'P\u00fcksid']",
+        "word original": "trousers"
+    },
+    "['\uc6b0\uc0b0\uacfc \uc591\uc0b0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\" - Eesti: \"sein\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Eesti: \"ahv\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Eesti: \"p\u00f6ial\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Eesti: \"pesapall\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Eesti: \"",
+        "target": "['vihmavari']",
+        "word original": "umbrella"
+    },
+    "['\ubcbd']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Eesti: \"org\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"putukas\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Eesti: \"laev\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Eesti: \"oran\u017e\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Eesti: \"",
+        "target": "['sein', 'm\u00fc\u00fcr']",
+        "word original": "wall"
+    },
+    "['\uc2dc\uac04\ud314\ucc0c', '\ud734\ub300\uc6a9 \uc2dc\uacc4', '\uc190\ubaa9 \uc2dc\uacc4', '\uc6cc\uce58', '\uc2dc\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc45\" - Eesti: \"raamat\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Eesti: \"haamer\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Eesti: \"amortisaator\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"seelik\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Eesti: \"n\u00e4rvis\u00fcsteem\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Eesti: \"",
+        "target": "['k\u00e4ekell', 'kell']",
+        "word original": "watch"
+    },
+    "['\u81ea\u8f49\u8eca', '\uc790\uc804\uac70']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Eesti: \"Kast\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Eesti: \"s\u00f5rmed ja varbad\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Eesti: \"tilk\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Eesti: \"perekonnanimi\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Eesti: \"puu\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Eesti: \"",
+        "target": "['jalgratas', 'ratas']",
+        "word original": "wheel"
+    },
+    "['\ucc44\ucc0d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud39c\" - Eesti: \"sulg\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Eesti: \"m\u00fcts\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Eesti: \"aken\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Eesti: \"lind\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Eesti: \"saar\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Eesti: \"",
+        "target": "['piits', 'Piits']",
+        "word original": "whip"
+    },
+    "['\ucc3d', '\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc708\ub3c4\uc6b0', '\uc708\ub3c4', '\uc708\ub3c4\uc6b0', '\ub3c4\uac80', '\uce7c', '\uac80', '\ucc3d\ubb38']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Eesti: \"film\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Eesti: \"n\u00e4riline\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Eesti: \"hind\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Eesti: \"huuled\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Eesti: \"joonistus\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Eesti: \"",
+        "target": "['Microsoft Windows', 'm\u00f5\u00f5k', 'aken']",
+        "word original": "window"
+    },
+    "['\ub0a0\uac1c', '\ub3c4\uac80', '\uce7c', '\uac80', '\uae43', '\uae43\ud138', '\ud314\ub2e4\ub9ac', '\uc0ac\uc9c0', '\uc9c0', '\ud314', '\ub0a0', '\uaca8\ub4dc\ub791\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Eesti: \"kloor\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Eesti: \"nina\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Eesti: \"kontor\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Eesti: \"k\u00f5ht\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Eesti: \"laud\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Eesti: \"",
+        "target": "['m\u00f5\u00f5k', 'sulg', 'sulestik', 'Sulestik', 'tiib', 'Tiib', 'j\u00e4se', 'J\u00e4semed', 'j\u00e4semed', 'tera', 'Tera', 'kaenlaauk', 'Kaenlaalune']",
+        "word original": "wing"
+    },
+    "['\ubc8c\ub808', '\uace4\ucda9', 'Insecta']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\" - Eesti: \"mesilane\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Eesti: \"video\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Eesti: \"k\u00e4imla\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Eesti: \"seelik\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Eesti: \"\u00f5un\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Eesti: \"",
+        "target": "['putukas', 'putukad', 'Putukad', 'uss', 'ussid', 'Ussid', 'mardikas', 'p\u00f5rnikas', 'lutikas']",
+        "word original": "worm"
+    }
+}

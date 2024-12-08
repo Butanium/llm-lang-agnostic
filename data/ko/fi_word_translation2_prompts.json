@@ -1,0 +1,842 @@
+{
+    "['\ub9de\uaf2d\uc9c0\uac01', '\uac01\ub3c4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Suomi: \"poika\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Suomi: \"rihma\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"",
+        "target": "['suplementtikulmat', 'Suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma']",
+        "word original": "angle"
+    },
+    "['\uac1c\ubbf8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Suomi: \"panssarivaunu\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"",
+        "target": "['muurahainen', 'muurahaiset', 'kusiainen']",
+        "word original": "ant"
+    },
+    "['\uc0ac\uacfc', '\uc0ac\uacfc\ub098\ubb34']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Suomi: \"kaksisiipiset\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"naama\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Suomi: \"kamera\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Suomi: \"",
+        "target": "['omena']",
+        "word original": "apple"
+    },
+    "['\uc544\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Suomi: \"asevoimat\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Suomi: \"kasakat\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"ase\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Suomi: \"",
+        "target": "['holvikaari', 'Kaari', 'kaari', 'holvi']",
+        "word original": "arch"
+    },
+    "['\ubb34\uae30', '\ubcd1\uae30', '\uc804\uc7c1\ubb34\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Suomi: \"hy\u00f6nteiset\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Suomi: \"kloori\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Suomi: \"sianliha\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"",
+        "target": "['ase', 'astalo', 'aseet', 'aseistus', 'sotatarvike', 'asej\u00e4rjestelm\u00e4', 'sotatarvikkeet']",
+        "word original": "arm"
+    },
+    "['\uad70\uc0ac', '\uad70\ub300', '\ubcd1', '\ubcd1\uc0ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Suomi: \"huuli\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"kynsi\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Suomi: \"",
+        "target": "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat', 'sotilas', 'soturi', 'ty\u00f6l\u00e4inen']",
+        "word original": "army"
+    },
+    "['\uc544\uae30', '\uc720\uc544']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Suomi: \"neli\u00f6\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"lyijykyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Suomi: \"",
+        "target": "['pikkulapsi', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4']",
+        "word original": "baby"
+    },
+    "['\uc57c\uad6c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"m\u00e4nty\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Suomi: \"poika\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Suomi: \"vasara\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Suomi: \"",
+        "target": "['baseball', 'baseball-peli']",
+        "word original": "ball"
+    },
+    "['\uac00\ub77d\uc9c0', '\ubc18\uc9c0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Suomi: \"veitsi\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Suomi: \"rannekello\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Suomi: \"peukalo\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"korva\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"sika\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"",
+        "target": "['sormus']",
+        "word original": "ring"
+    },
+    "['\uac1c\uc218\ub300', '\uc2f1\ud06c', '\uc138\uba74\uae30', '\uc2f1\ud06c\ub300']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Suomi: \"linna\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Suomi: \"vasara\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Suomi: \"sukunimi\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Suomi: \"rannekello\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Suomi: \"",
+        "target": "['amme', 'pesuallas', 'lavuaari', 'Lavuaari', 'viem\u00e4riallas']",
+        "word original": "basin"
+    },
+    "['\ud654\uc7a5\uc2e4', '\uc694\uac15', '\ubcc0\uc18c', '\ubcc0\uae30', '\ubaa9\uc695\uc2e4', '\uc695\uc2e4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'kylpyhuone', 'kylpyl\u00e4', 'toiletti', 'pesuhuone']",
+        "word original": "pot"
+    },
+    "['\uce68\ub300', '\uc7a0\uc790\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Suomi: \"sieniel\u00e4imet\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Suomi: \"sateenvarjo\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"",
+        "target": "['vuode', 's\u00e4nky', 'peti']",
+        "word original": "bed"
+    },
+    "['\ubc8c', '\uafc0\ubc8c\ub958', '\ubc00\ubd09', '\ud615\ubc8c', '\ucc98\ubc8c', '\uc9d5\ubc8c', '\uafc0\ubc8c\ub958\uac00 \uc544\ub2cc \ubc8c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"sika\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Suomi: \"ruoska\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Suomi: \"kyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Suomi: \"puutarha\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Suomi: \"kaksisiipiset\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"",
+        "target": "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset', 'rangaistus', 'rankaiseminen', 'rankaisu', 'rangaistusseuraamus', 'ampiainen', 'Ampiainen']",
+        "word original": "bee"
+    },
+    "['\uc804\ub839', '\ubb38\uc7a5\ud559', '\ucd08\uc778\uc885', '\ub3c4\uc5b4\ud3f0', '\ubca8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Suomi: \"juusto\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"",
+        "target": "['heraldiikka', 'vaakunaoppi', 'ovikello', 'Ovikello', 'ovisummeri']",
+        "word original": "bell"
+    },
+    "['\uc0c8', 'Aves', '\ub2ed', 'Gallus gallus domesticus', '\ucc38\uc0c8\uacfc', '\ub3d9\ucabd', '\ub3d9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Suomi: \"neli\u00f6\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"korva\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Suomi: \"poika\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"",
+        "target": "['linnut', 'lintu', 'kana', 'Gallus gallus domesticus', 'Gallus gallus', 'varpunen', 'varpuset', 'it\u00e4', 'I']",
+        "word original": "bird"
+    },
+    "['\ub3c4\uac80', '\uce7c', '\uac80']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Suomi: \"kirja\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Suomi: \"Arkku\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Suomi: \"",
+        "target": "['miekka', 'kalpa']",
+        "word original": "blade"
+    },
+    "['\uc704\uc6d0\ud68c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Suomi: \"nainen\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Suomi: \"pikkulapsi\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Suomi: \"",
+        "target": "['komitea', 'valiokunta', 'toimikunta', 'lautakunta']",
+        "word original": "board"
+    },
+    "['\ubcf4\ud2b8', '\uc7a0\uc218\ud568', '\ubc30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"kakku\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Suomi: \"",
+        "target": "['sukellusvene', 'vene']",
+        "word original": "boat"
+    },
+    "['\ubf08', '\ub300\uc704', '\uac1c\uc694', '\uacbd\uac1c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Suomi: \"Jarru\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Suomi: \"kuppi\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Suomi: \"hame\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Suomi: \"",
+        "target": "['luu', 'os', 'tiivistelm\u00e4', 'k\u00e4site', 'synopsis', 'yhteenveto', 'abstraktio', 'lyhennelm\u00e4', 'yleiskatsaus']",
+        "word original": "bone"
+    },
+    "['\ucc45', '\uc758\ubb34', '\uadfc\ubb34', '\uc5c5\ubb34', '\uc784\ubb34', '\ub2f4', '\uc6b8\ud0c0\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Suomi: \"rannekello\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Suomi: \"hy\u00f6nteiset\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"lyijykyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Suomi: \"",
+        "target": "['kirja', 'vastuu', 'velvollisuus', 'aita', 'aitaus']",
+        "word original": "book"
+    },
+    "['\ubcd1', '\uc9c8\ubcd1', '\ubcd1\uc0ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Suomi: \"karja\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"heraldiikka\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Suomi: \"mirri\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"sunnuntai\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Suomi: \"",
+        "target": "['tauti', 'sairaus', 'sotilas', 'soturi', 'ty\u00f6l\u00e4inen', 'pullo', 'kipeys', 'huonovointisuus']",
+        "word original": "bottle"
+    },
+    "['\uc0c1\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Suomi: \"s\u00e4hk\u00f6moottori\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"kakku\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Suomi: \"",
+        "target": "['laatikko', 'rasia', 'aski']",
+        "word original": "box"
+    },
+    "['\uc18c\ub144']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Suomi: \"talosel\u00e4m\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"ruumiinrangaistus\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Suomi: \"",
+        "target": "['poika']",
+        "word original": "boy"
+    },
+    "['\ub204\uc2a4', '\ud504\uc2dc\ucf00', '\ub9c8\uc74c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Suomi: \"tykist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Suomi: \"piirros\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Suomi: \"",
+        "target": "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'nous', 'j\u00e4rki', '\u00e4lli']",
+        "word original": "head"
+    },
+    "['\uc81c\ub3d9\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"naama\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Suomi: \"",
+        "target": "['Jarru', 'jarru']",
+        "word original": "brake"
+    },
+    "['\uacbd\uc81c\ud559', '\u7d93\u6fdf\u5b78', '\uc815\uce58\uacbd\uc81c\ud559']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"kynsi\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Suomi: \"laakso\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Suomi: \"virka\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Suomi: \"",
+        "target": "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia']",
+        "word original": "branch"
+    },
+    "['\ubcbd\ub3cc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"vaunu\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Suomi: \"haarniska\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"naama\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"",
+        "target": "['tiili', 'tiiliskivi']",
+        "word original": "brick"
+    },
+    "['\ub2e4\ub9ac', '\uad50\ub7c9', '\ubc1c', '\uc0ac\ub78c\uc758 \ub2e4\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Suomi: \"p\u00f6yt\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"solmu\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"",
+        "target": "['silta', 'jalkater\u00e4', 'jalka', 's\u00e4\u00e4ri']",
+        "word original": "pin"
+    },
+    "['\uc194', '\uc18c\ub098\ubb34\uc18d', '\uc18c\ub098\ubb34', '\ube0c\ub7ec\uc2dc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Suomi: \"uuni\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"l\u00e4hde\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"",
+        "target": "['m\u00e4nty', 'm\u00e4nnyt', 'harja', 'suti', 'sivellin', 'suka']",
+        "word original": "brush"
+    },
+    "['\uc591\ub3d9\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Suomi: \"sukellusvene\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Suomi: \"juusto\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"",
+        "target": "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']",
+        "word original": "bucket"
+    },
+    "['\uc804\uad6c', '\ubc31\uc5f4\ub4f1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc704\" - Suomi: \"vatsa\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Suomi: \"p\u00f6yt\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Suomi: \"tauti\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"",
+        "target": "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']",
+        "word original": "bulb"
+    },
+    "['\ucf00\uc774\ud06c', '\uacfc\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Suomi: \"kasakat\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Suomi: \"Nous\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Suomi: \"sukellusvene\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Suomi: \"laiva\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"",
+        "target": "['kakku']",
+        "word original": "cake"
+    },
+    "['\uce74\uba54\ub77c', '\uc0ac\uc9c4\uae30', '\uc6f9\ucea0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc12c\" - Suomi: \"saari\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Suomi: \"Arkku\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Suomi: \"",
+        "target": "['kamera', 'valokuvakamera', 'verkkokamera', 'webbikamera']",
+        "word original": "camera"
+    },
+    "['\uc2e0\ubd84\uc99d', 'ID \uce74\ub4dc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Suomi: \"funktio\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Suomi: \"vatsa\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"",
+        "target": "['henkil\u00f6kortti', 'henkil\u00f6llisyystodistus', 'henkil\u00f6todistus', 'I.D.', 'ID']",
+        "word original": "card"
+    },
+    "['\uc218\ub808', '\uc790\ub3d9\ucc28', '\uc0ac\ub95c\ucc28', '\uc2b9\uc6a9\ucc28', '\ucc28', '\uc2b9\uc6a9\uc790\ub3d9\ucc28']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Suomi: \"p\u00f6yt\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Suomi: \"lammas\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Suomi: \"kamera\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Suomi: \"ulkokatto\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"",
+        "target": "['auto', 'henkil\u00f6auto', 'automobiili', 'moottoriajoneuvo', 'ajoneuvo', 'k\u00e4sik\u00e4rryt', 'ty\u00f6nt\u00f6k\u00e4rry', 'K\u00e4rry', 'k\u00e4sik\u00e4rry', 'ty\u00f6nt\u00f6k\u00e4rryt', 'k\u00e4rryt', 'rattaat']",
+        "word original": "cart"
+    },
+    "['\ub9c8\ucc28', '\uac1d\ucc28', '\uc218\ub808']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Suomi: \"Jarru\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Suomi: \"kloori\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"",
+        "target": "['vaunu', 'junavaunu', 'matkustajavaunu', 'rautatieajoneuvo', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat', 'k\u00e4sik\u00e4rryt', 'ty\u00f6nt\u00f6k\u00e4rry', 'K\u00e4rry', 'k\u00e4sik\u00e4rry', 'ty\u00f6nt\u00f6k\u00e4rryt']",
+        "word original": "carriage"
+    },
+    "['\uace0\uc591\uc774', 'Felis silvestris catus']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Suomi: \"maatila\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Suomi: \"tasku\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Suomi: \"kloori\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Suomi: \"",
+        "target": "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']",
+        "word original": "cat"
+    },
+    "['\uac74\ub77d', '\uce58\uc988']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"iho\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Suomi: \"paita\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Suomi: \"sorvi\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Suomi: \"",
+        "target": "['juusto']",
+        "word original": "cheese"
+    },
+    "['\uada4', '\ubd88\uad50 \uc6a9\uc5b4 \ubaa9\ub85d', '\ubd88\uad50 \uc6a9\uc5b4 \ubaa9\ub85d/\uad6c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Suomi: \"talosel\u00e4m\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"viikset\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Suomi: \"",
+        "target": "['Arkku', 'arkku', 'kirstu']",
+        "word original": "chest"
+    },
+    "['\ud131', '\uc544\ub798\ud131', '\ub4f1\uae09']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"heraldiikka\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"l\u00e4hde\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Suomi: \"satelliitti\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"lyijykyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Suomi: \"",
+        "target": "['leuka', 'leukakyhmy', 'mentum', 'leuat', 'leukaper\u00e4', 'taso', 'laatu', 'aste', 'syy', 'peruste']",
+        "word original": "chin"
+    },
+    "['\uad50\ud68c', '\uc131\ub2f9', '\uad50\ud68c\ub2f9', '\ub840\ubc30\ub2f9', '\uc608\ubc30\ub2f9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Suomi: \"huuli\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"sunnuntai\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"",
+        "target": "['kirkko', 'kirkkorakennus']",
+        "word original": "church"
+    },
+    "['\uc6d0', '\ub3d9\uadf8\ub77c\ubbf8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"",
+        "target": "['ympyr\u00e4']",
+        "word original": "circle"
+    },
+    "['\uc2dc\uacc4', '\uc2dc\uac04\ud314\ucc0c', '\ud734\ub300\uc6a9 \uc2dc\uacc4', '\uc190\ubaa9 \uc2dc\uacc4', '\uc6cc\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Suomi: \"holvikaari\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Suomi: \"talosel\u00e4m\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Suomi: \"leuka\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"",
+        "target": "['kello', 'rannekello', 'taskukello']",
+        "word original": "clock"
+    },
+    "['\uad6c\ub984']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Suomi: \"s\u00e4hk\u00f6moottori\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Suomi: \"kuppi\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Suomi: \"poika\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Suomi: \"",
+        "target": "['pilvi']",
+        "word original": "cloud"
+    },
+    "['\uc7ac\ud0b7']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Suomi: \"oikeudenk\u00e4ynti\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Suomi: \"puu\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Suomi: \"amme\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Suomi: \"teekannu\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"",
+        "target": "['takki', 'pusakka', 'pikkutakki']",
+        "word original": "coat"
+    },
+    "['\uccb4\ud3ec']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Suomi: \"sorvi\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"l\u00e4hde\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"",
+        "target": "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni']",
+        "word original": "collar"
+    },
+    "['\ube57']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"",
+        "target": "['kampa']",
+        "word original": "comb"
+    },
+    "['\uc18c', '\uc7ac\ud310', '\uc18c\uc1a1', 'Bos primigenius taurus', '\ud669\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Suomi: \"filmi\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"ase\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"korva\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Suomi: \"",
+        "target": "['oikeudenk\u00e4ynti', 'siviilikanne', 'oikeustapaus', 'kanne', 'oikeusjuttu', 'Oikeusjuttu', 'tapaus', 'juttu', 'asia', 'karja', 'Bos taurus', 'nauta', 'nautakarja', 'h\u00e4rk\u00e4', 'sonni', 'koiras', 'uros']",
+        "word original": "cow"
+    },
+    "['\ucef5', '\uc794', '\uc720\ub9ac\uc794', '\uba38\uadf8\uc794']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Suomi: \"veitsi\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Suomi: \"",
+        "target": "['kuppi', 'juomalasi', 'juomapikari', 'Juomalasi', 'muki', 'Muki']",
+        "word original": "cup"
+    },
+    "['\ucee4\ud2bc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Suomi: \"polvi\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"heraldiikka\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"",
+        "target": "['verho', 'verhot']",
+        "word original": "curtain"
+    },
+    "['\uc644\ucda9\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf54\" - Suomi: \"nen\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"",
+        "target": "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']",
+        "word original": "cushion"
+    },
+    "['\uac1c', 'Canis lupus familiaris', '\uc9c0\ubd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Suomi: \"laatikko\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Suomi: \"peruna\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"ruumiinrangaistus\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"",
+        "target": "['koira', 'Canis lupus familiaris', 'Canis familiaris', 'ulkokatto', 'katto']",
+        "word original": "dog"
+    },
+    "['\ubb38', '\ucc3d', '\ucc3d\ubb38', '\uad00\ubb38', '\ub300\ubb38']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"m\u00e4nty\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Suomi: \"uuni\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Suomi: \"sukellusvene\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"",
+        "target": "['ikkuna', 'akkuna', 'ovi', 'portti', 'kirjallisuus']",
+        "word original": "drain"
+    },
+    "['\ub3c4\ud654', '\uadf8\ub9bc', '\uc18c\ubb18']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc40\" - Suomi: \"k\u00e4\u00e4rmeet\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Suomi: \"oranssius\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Suomi: \"",
+        "target": "['piirros', 'piirustus']",
+        "word original": "drawer"
+    },
+    "['\uc637', '\ub4dc\ub808\uc2a4', '\uc758\ubcf5', '\uc6d0\ud53c\uc2a4', '\uc591\ubcf5', '\u6d0b\u670d', '\uc288\ud2b8', '\uc815\uc7a5', '\ubcf5\uc7a5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"m\u00e4nty\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Suomi: \"yliopisto\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Suomi: \"lammas\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"",
+        "target": "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku', 'leninki', 'mekko', 'kokopuku', 'vaatekerta', 'vaateparsi']",
+        "word original": "dress"
+    },
+    "['\ubc29\uc6b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Suomi: \"teekannu\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Suomi: \"s\u00e4hk\u00f6moottori\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"heraldiikka\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"",
+        "target": "['tippa', 'pisara', 'tilkka', 'kello', 'kulkunen']",
+        "word original": "drop"
+    },
+    "['\uadc0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Suomi: \"funktio\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Suomi: \"tykist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"ase\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Suomi: \"filmi\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"",
+        "target": "['korva', 'aukko', 'reik\u00e4']",
+        "word original": "ear"
+    },
+    "['\uc54c', '\ub2ec\uac40', '\uad8c\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Suomi: \"hermoj\u00e4rjestelm\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"iho\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"",
+        "target": "['muna', 'kananmuna', 'munat', 'laki', 'oikeus', 'oikeudet']",
+        "word original": "egg"
+    },
+    "['\ubaa8\ud130', '\uc804\ub3d9\uae30', '\uc5d4\uc9c4', '\uae30\uad00', 'Motor']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Suomi: \"laiva\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"iho\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Suomi: \"lehvist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Suomi: \"",
+        "target": "['s\u00e4hk\u00f6moottori', 'moottori', 'Motor']",
+        "word original": "engine"
+    },
+    "['\ub208']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Suomi: \"hame\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Suomi: \"juna\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"",
+        "target": "['lumi', 'lumisade', 'silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']",
+        "word original": "eye"
+    },
+    "['\uc5bc\uad74']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Suomi: \"vasara\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Suomi: \"sukunimi\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Suomi: \"pikkulapsi\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Suomi: \"kasakat\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"",
+        "target": "['naama', 'kasvot', 'p\u00e4rst\u00e4']",
+        "word original": "face"
+    },
+    "['\ub18d\uc7a5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Suomi: \"pilvi\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Suomi: \"lusikka\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Suomi: \"",
+        "target": "['maatila', 'tila', 'farmi']",
+        "word original": "farm"
+    },
+    "['\uae43', '\uae43\ud138']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Suomi: \"hy\u00f6nteiset\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Suomi: \"",
+        "target": "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka']",
+        "word original": "feather"
+    },
+    "['\uc190\uac00\ub77d', '\uc190\ubc1c\uac00\ub77d', '\ubc1c\uac00\ub77d', '\uc5c4\uc9c0', '\uc5c4\uc9c0\uc190\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"kynsi\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Suomi: \"linna\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Suomi: \"puutarha\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Suomi: \"karja\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Suomi: \"maatila\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Suomi: \"",
+        "target": "['varvas', 'sormi', 'peukalo', 'pollex', 'n\u00e4ppi']",
+        "word original": "finger"
+    },
+    "['\ubb3c\uace0\uae30', '\uc5b4\ub958', '\uace0\uae30', '\uc0dd\uc120', 'Pisces']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"sika\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Suomi: \"nainen\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Suomi: \"",
+        "target": "['kala', 'kalat', 'Pisces']",
+        "word original": "fish"
+    },
+    "['\uae30', '\ub2e8\uc704', '\uce21\uc815 \ub2e8\uc704', '\uae30\uac04', '\ub2e8\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Suomi: \"k\u00e4\u00e4rmeet\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"ruumiinrangaistus\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"sika\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"",
+        "target": "['lippu', 'yksikk\u00f6', 'mittayksikk\u00f6', 'vaihe', 'kausi', 'jakso', 'geologinen kausi', 'aika', 'ajanjakso', 'historian jakso']",
+        "word original": "flag"
+    },
+    "['\uace8\uc9dc\uae30', '\uacc4\uace1', '\ud611\uace1', '\uc0b0\uace8\uc9dc\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Suomi: \"kyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"viikset\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Suomi: \"",
+        "target": "['laakso', 'rotko', 'kuilu']",
+        "word original": "floor"
+    },
+    "['\ud30c\ub9ac\ubaa9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Suomi: \"nainen\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"kynsi\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Suomi: \"avain\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Suomi: \"",
+        "target": "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']",
+        "word original": "fly"
+    },
+    "['\ubc1c', '\uc911\uc808\ubaa8\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Suomi: \"sieniel\u00e4imet\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Suomi: \"rihma\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Suomi: \"vatsa\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"",
+        "target": "['huopahattu', 'Fedora-hattu', 'fedora-hattu', 'stetson', 'edenhattu', 'jalkater\u00e4', 'jalka']",
+        "word original": "foot"
+    },
+    "['\ud3ec\ud06c', '\ub3fc\uc9c0\uace0\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Suomi: \"sieniel\u00e4imet\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Suomi: \"sairaala\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"solmu\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Suomi: \"",
+        "target": "['sianliha', 'sika', 'possu', 'porsas', 'haarukka']",
+        "word original": "fork"
+    },
+    "['\uac00\uae08', '\uac00\ucd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Suomi: \"laakso\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Suomi: \"baseball\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Suomi: \"talosel\u00e4m\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Suomi: \"t\u00e4hti\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Suomi: \"",
+        "target": "['karja', 'kotiel\u00e4in']",
+        "word original": "fowl"
+    },
+    "['\uc778\uccb4\uc0dd\ub9ac\ud559', '\uccb4\uaca9', '\uc778\uac04\uc758 \ubab8', '\ubab8\ub9e4', '\uc778\uccb4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Suomi: \"linna\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Suomi: \"rihma\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"",
+        "target": "['ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']",
+        "word original": "frame"
+    },
+    "['\uc815\uc6d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"iho\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Suomi: \"sairaala\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"kakku\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Suomi: \"",
+        "target": "['puutarha', 'kasvimaa']",
+        "word original": "garden"
+    },
+    "['\uc5ec\uc790', '\uc5ec\uc131', '\uacc4\uc9d1', '\uc18c\ub140', '\ub140\uc790', '\ubd80\uc778', '\uc544\ub0b4', '\uc554\ucef7', '\uc5ec\uc778']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"kynsi\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Suomi: \"tykist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Suomi: \"h\u00f6yhenet\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Suomi: \"pilvi\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Suomi: \"",
+        "target": "['nainen', 'aikuinen nainen', 'tytt\u00f6', 'neiti', 'nuori nainen', 'aviovaimo', 'vaimo', 'naimisissa oleva nainen', 'naaras']",
+        "word original": "girl"
+    },
+    "['\uc7a5\uac11', '\uac11\uc637', '\uac11\uc8fc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Suomi: \"sorvi\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"sunnuntai\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Suomi: \"",
+        "target": "['haarniska', 'panssari', 'panssariliivit', 'panssaripaita', 'hansikas', 'sormikas', 'hanska', 'k\u00e4sine']",
+        "word original": "glove"
+    },
+    "['\uc5fc\uc18c', 'Capra aegagrus hircus']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Suomi: \"ulkokatto\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Suomi: \"komitea\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Suomi: \"",
+        "target": "['kloori', 'Cl', 'vuohi', 'vuohiel\u00e4in']",
+        "word original": "goat"
+    },
+    "['\ucd1d', '\ub300\ud3ec', '\ud654\uae30', '\uc18c\ucd1d', '\ub77c\uc774\ud50c \ucd1d', '\ub77c\uc774\ud50c', '\ucd1d\ud654', '\ud569\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Suomi: \"laiva\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Suomi: \"ruoska\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Suomi: \"panssarivaunu\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Suomi: \"",
+        "target": "['tykist\u00f6', 'tykki', 'tykit', 'ampuma-ase', 'tuliase', 'pistooli', 'pyssy', 'kiv\u00e4\u00e4ri', 'summa', 'kokonaism\u00e4\u00e4r\u00e4', 'yhteism\u00e4\u00e4r\u00e4', 'm\u00e4\u00e4r\u00e4']",
+        "word original": "gun"
+    },
+    "['\ud138', '\ucf67\uc218\uc5fc', '\uc218\uc5fc', '\ud131\uc218\uc5fc', '\uba38\ub9ac', '\uae43', '\uae43\ud138', '\uba38\ub9ac\uce74\ub77d', '\uba38\ub9ac\uce7c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"korva\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Suomi: \"panssarivaunu\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Suomi: \"linna\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Suomi: \"funktio\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"",
+        "target": "['viikset', 'parta', 'poskiparta', 'karvoitus', 'karva', 'hius', 'jouhi', 'h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka', 'viiksi-', 'ihokarva']",
+        "word original": "root"
+    },
+    "['\ub9dd\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Suomi: \"kala\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Suomi: \"sukunimi\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Suomi: \"",
+        "target": "['vasara']",
+        "word original": "hammer"
+    },
+    "['\uc190', '\u00de', '\uac12', '\u8cc8\u683c', '\uac00\uaca9', '\uc190\uac00\ub77d', '\uc810\uc720\uad8c', '\uc190\uc8fc', '\uc190\ubc14\ub2e5', '\ub3c4\uc6c0', '\uc6d0\uc870', '\uc9c0\uc6d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Suomi: \"perskannikka\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Suomi: \"kamera\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Suomi: \"",
+        "target": "['thorn', '\u00de', 'hinta', 'v\u00e4hitt\u00e4ismyyntihinta', 'v\u00e4hitt\u00e4ishinta', 'korvaus', 'k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus', 'sormi', 'n\u00e4ppi', 'omistaminen', 'Hallinta', 'hallinta', 'omistus', 'pojanpoika', 'pojantyt\u00e4r', 'tytt\u00e4renpoika', 'tytt\u00e4rentyt\u00e4r', 'lapsenlapsi', 'k\u00e4mmen', 'p\u00e4ki\u00e4', 'apu', 'ohje', 'avustaminen', 'tuki', 'apuv\u00e4line', 'avustus', 'my\u00f6t\u00e4vaikutus', 'auttaminen']",
+        "word original": "hand"
+    },
+    "['\ubaa8\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"naama\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Suomi: \"omena\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Suomi: \"laiva\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Suomi: \"hame\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Suomi: \"nen\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"",
+        "target": "['hattu', 'lakki', 'p\u00e4\u00e4hine']",
+        "word original": "hat"
+    },
+    "['\uc2ec\uc7a5', '\uc6a9\uae30', '\uc6a9\uac10\uc131', '\uc6a9\uac10']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Suomi: \"saari\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Suomi: \"juna\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Suomi: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"",
+        "target": "['syd\u00e4n', 'syd\u00e4nlihas', 'pumppu', 'urheus', 'rohkeus', 'miehuullisuus', 'urhoollisuus', 'pelottomuus', 'keskusta', 'keskus', 'silm\u00e4', 'keskipiste']",
+        "word original": "pump"
+    },
+    "['\ud2b8\ub7fc\ud3ab', '\ucf54\ub137']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Suomi: \"laakso\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Suomi: \"mirri\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"",
+        "target": "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']",
+        "word original": "horn"
+    },
+    "['\ub9d0', '\ub9c8\uc744', '\ucd0c\ub77d', '\uc5b8\uc5b4', '\uac1c\uac1c\uc758 \uc5b8\uc5b4', '\uc18c', 'Bos primigenius taurus', '\ud669\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Suomi: \"luu\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Suomi: \"uuni\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Suomi: \"koru\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Suomi: \"",
+        "target": "['kyl\u00e4', 'pieni kyl\u00e4', 'kieli', 'kielellinen kommunikaatio', 'hevonen', 'Equus caballus', 'karja', 'Bos taurus', 'nauta', 'nautakarja', 'h\u00e4rk\u00e4', 'sonni', 'koiras', 'uros']",
+        "word original": "horse"
+    },
+    "['\ubcd1\uc6d0', '\u75c5\u9662']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Suomi: \"kaksisiipiset\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Suomi: \"satelliitti\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Suomi: \"",
+        "target": "['sairaala', 'sairasosasto']",
+        "word original": "hospital"
+    },
+    "['\uc9d1', '\uc8fc\uac70\uc9c0', '\uc815\ucc29\uc9c0', '\uc8fc\uc2a4', '\uacfc\uc77c \uc8fc\uc2a4', '\uacfc\uc999', '\uc999', '\uacfc\uc77c\ub2e8\ubb3c', '\uc138\ub300', '\uc8fc\uac70', '\uac70\ub958', '\uc8fc\ud0dd']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Suomi: \"Nous\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"sunnuntai\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Suomi: \"",
+        "target": "['asutuskeskus', 'ihmisasutus', 'yhteis\u00f6', 'kyl\u00e4', 'pikkukaupunki', 'asutusalue', 'talo', 'mehu', 'hedelm\u00e4mehu', 'neste', 'talous', 'kotitalous', 'suku', 'ruokakunta', 'perhekunta', 'perhe', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4']",
+        "word original": "house"
+    },
+    "['\uc12c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Suomi: \"poika\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"vaunu\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Suomi: \"",
+        "target": "['saari', 'saareke']",
+        "word original": "island"
+    },
+    "['\ubcf4\uc11d', '\ubcf4\uc11d\ub958', '\uc8fc\uc5bc\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Suomi: \"juusto\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Suomi: \"maatila\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Suomi: \"",
+        "target": "['koru', 'korut']",
+        "word original": "jewel"
+    },
+    "['\uc8fc\uc804\uc790', '\ucc3b\uc8fc\uc804\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Suomi: \"sairaala\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Suomi: \"kala\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Suomi: \"haarniska\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Suomi: \"",
+        "target": "['teekannu', 'teepannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']",
+        "word original": "kettle"
+    },
+    "['\uc5f4\uc1e0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Suomi: \"sianliha\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Suomi: \"lehvist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Suomi: \"",
+        "target": "['avain']",
+        "word original": "key"
+    },
+    "['\ubb34\ub98e']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Suomi: \"tasku\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"ase\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Suomi: \"",
+        "target": "['polvi', 'polvinivel', 'articulatio genus']",
+        "word original": "knee"
+    },
+    "['\ub098\uc774\ud504', '\uce7c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Suomi: \"pikkulapsi\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Suomi: \"komitea\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Suomi: \"",
+        "target": "['veitsi', 'puukko']",
+        "word original": "knife"
+    },
+    "['\ub9e4\ub4ed']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"",
+        "target": "['solmu', 'Solmu']",
+        "word original": "knot"
+    },
+    "['\uc78e']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Suomi: \"hame\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Suomi: \"kamera\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Suomi: \"paita\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Suomi: \"",
+        "target": "['lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti']",
+        "word original": "leaf"
+    },
+    "['\ud154\ub808\ube44\uc804', '\ud2f0\ubdd4', '\ube44\ub514\uc624', '\ud2f0\ube44', '\ud154\ub808\ube44', '\uc804\uc2dc', '\ud14c\ub808\ube44', '\ud2f0\ube0c\uc774', '\ud154\ub808\ube44\uc804 \uc218\uc0c1\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Suomi: \"vasara\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Suomi: \"puutarha\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Suomi: \"kurkku\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"",
+        "target": "['televisio', 'video', 'TV', 'televisiointi', 'televisiovastaanotin', 't\u00f6ll\u00f6tin', 'telkkari', 'telkka', 'televisiolaite', 'p\u00f6ntt\u00f6', 'telkku', 'tv']",
+        "word original": "line"
+    },
+    "['\uc785\uc220']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Suomi: \"hame\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Suomi: \"",
+        "target": "['huuli', 'huulet']",
+        "word original": "lip"
+    },
+    "['\uac00\ub9c8', '\uc804\ucc28', '\uc7a5\uac11\uc804\ud22c\ucc28\ub7c9', '\uae30\uac11\uc804\ud22c\ucc28\ub7c9', '\uc8fc\uc804\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Suomi: \"leuka\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Suomi: \"sateenvarjo\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Suomi: \"pilvi\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Suomi: \"",
+        "target": "['panssarivaunu', 'tankki', 'panssaroitu taisteluajoneuvo', 'hy\u00f6kk\u00e4ysvaunu', 'teepannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri', 'kihara', 'Pijpenkrul', 'kiehkura', 'hiussuortuva']",
+        "word original": "lock"
+    },
+    "['\uc77c\uac00\ud568\uc218', '\ub9f5\ud551', '\ud568\uc218']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Suomi: \"ulkokatto\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Suomi: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Suomi: \"maatila\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Suomi: \"",
+        "target": "['funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio']",
+        "word original": "map"
+    },
+    "['\uc131\ub0e5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Suomi: \"sakset\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Suomi: \"satelliitti\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Suomi: \"virka\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Suomi: \"",
+        "target": "['tulitikku', 'rikkitulitikku']",
+        "word original": "match"
+    },
+    "['\uc6d0\uc22d\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Suomi: \"sianliha\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Suomi: \"",
+        "target": "['apina', 'apinat']",
+        "word original": "monkey"
+    },
+    "['\uc704\uc131', '\uc778\uacf5\uc704\uc131', '\uc0c8\ud2c0\ub77c\uc774\ud2b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Suomi: \"apina\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Suomi: \"Arkku\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Suomi: \"tulitikku\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"solmu\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Suomi: \"",
+        "target": "['satelliitti', 'tekokuu']",
+        "word original": "moon"
+    },
+    "['\uadfc\uc721', '\ud749\uadfc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Suomi: \"kuppi\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Suomi: \"ruoska\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Suomi: \"",
+        "target": "['lihas', 'lihaskudos', 'musculus pectoralis', 'rintalihas']",
+        "word original": "muscle"
+    },
+    "['\uc190\ud1b1', '\uc190\ubc1c\ud1b1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Suomi: \"kurkku\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"",
+        "target": "['kynsi', 'Kynsi']",
+        "word original": "nail"
+    },
+    "['\ubaa9', '\ub208', '\uba38\ub9ac', '\uba71\uc0b4', '\ubaa9\uad6c\uba4d', '\uba71']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"l\u00e4hde\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Suomi: \"p\u00f6yt\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Suomi: \"suplementtikulmat\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"",
+        "target": "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6', 'kaula', 'p\u00e4\u00e4', 'lanttu', 'kallo', 'kurkku', 'pharynx', 'nielu']",
+        "word original": "neck"
+    },
+    "['\uc2e0\uacbd', '\uc2e0\uacbd\uacc4', '\uc2e0\uacbd\uacc4\ud1b5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc528\" - Suomi: \"sukunimi\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Suomi: \"nen\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Suomi: \"neli\u00f6\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"kakku\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Suomi: \"",
+        "target": "['hermoj\u00e4rjestelm\u00e4', 'hermosto', 'systema nervosum', 'hermo']",
+        "word original": "nerve"
+    },
+    "['\uc778\ud130\ub137', '\uc778\ud130\ub124\ud2b8', '\ub204\ub9ac\ub9dd', '\ub137', '\uac00\uc0c1 \uacf5\uac04']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"lyijykyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Suomi: \"kirja\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Suomi: \"s\u00e4hk\u00f6moottori\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"sunnuntai\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Suomi: \"sorvi\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"",
+        "target": "['internet', 'netti', 'Internet', 'kyberavaruus', 'verkko']",
+        "word original": "net"
+    },
+    "['\ucf54', '\ud3ec\uc778\ud2b8', '\ub4dd\uc810', '\uc8fc\ub465\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Suomi: \"sorvi\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Suomi: \"teekannu\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Suomi: \"",
+        "target": "['nen\u00e4', 'hajuelin', 'piste', 'tehopiste', 'pistem\u00e4\u00e4r\u00e4', 'Tehopiste', 'kuono', 'turpa', 'k\u00e4rs\u00e4', 'nokka']",
+        "word original": "nose"
+    },
+    "['\uc0ac\ubb34\uc2e4', '\uc815\ubd80 \uae30\uad00', '\uad00\uccad', '\uc624\ud53c\uc2a4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Suomi: \"ulkokatto\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Suomi: \"kala\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Suomi: \"laakso\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Suomi: \"",
+        "target": "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'taloustoimisto']",
+        "word original": "office"
+    },
+    "['\uc8fc\ud669', '\uc8fc\ud669\uc0c9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Suomi: \"rannekello\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Suomi: \"",
+        "target": "['oranssius', 'oranssi', 'oranssisuus']",
+        "word original": "orange"
+    },
+    "['\uc624\ube10']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Suomi: \"saari\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Suomi: \"",
+        "target": "['uuni']",
+        "word original": "oven"
+    },
+    "['\ud39c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Suomi: \"holvikaari\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"kakku\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"heraldiikka\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Suomi: \"",
+        "target": "['kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "pen"
+    },
+    "['\uc5f0\ud544']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Suomi: \"juna\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"",
+        "target": "['lyijykyn\u00e4', 'kyn\u00e4']",
+        "word original": "pencil"
+    },
+    "['\uc601\ud654', '\ud30c\uc6b4\ub4dc \uc2a4\ud138\ub9c1', '\ud30c\uc6b4\ub4dc', '\u00a3']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"solmu\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Suomi: \"haarniska\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Suomi: \"",
+        "target": "['filmi', 'ohut kalvo', 'elokuva', 'leffa', 'elokuvan\u00e4yt\u00f6s', 'punta', 'Englannin punta', '\u00a3', 'elokuvateollisuus']",
+        "word original": "picture"
+    },
+    "['\ub3fc\uc9c0', '\uba67\ub3fc\uc9c0\uc18d', 'Sus scrofa domestica']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Suomi: \"Nous\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Suomi: \"puu\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"",
+        "target": "['sika', 'siat', 'Siat', 'possu', 'Sus scrofa', 'sy\u00f6tt\u00f6karju']",
+        "word original": "pig"
+    },
+    "['\ube44\ud589\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Suomi: \"panssarivaunu\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Suomi: \"k\u00e4\u00e4rmeet\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Suomi: \"lammas\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Suomi: \"",
+        "target": "['lentokone', 'kone']",
+        "word original": "plane"
+    },
+    "['\uc7c1\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Suomi: \"funktio\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"naama\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Suomi: \"virka\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"",
+        "target": "['aura']",
+        "word original": "plough"
+    },
+    "['\ud638\uc8fc\uba38\ub2c8', '\uc8fc\uba38\ub2c8', '\ud3ec\ucf13']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Suomi: \"kaksisiipiset\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Suomi: \"",
+        "target": "['tasku']",
+        "word original": "pocket"
+    },
+    "['\uac10\uc790', 'Solanum tuberosum']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Suomi: \"polkupy\u00f6r\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Suomi: \"kala\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Suomi: \"",
+        "target": "['peruna', 'potaatti', 'pottu']",
+        "word original": "potato"
+    },
+    "['\uad50\ub3c4\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"iho\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Suomi: \"miekka\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Suomi: \"",
+        "target": "['linna', 'vankila', 'tyrm\u00e4']",
+        "word original": "prison"
+    },
+    "['\uc950', '\uc124\uce58\ub958', '\uc0dd\uc950\uc18d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"viikset\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Suomi: \"verho\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"",
+        "target": "['jyrsij\u00e4', 'jyrsij\u00e4t', 'hiiri', 'kotihiiret', 'Kotihiiret']",
+        "word original": "rat"
+    },
+    "['\uc1a1\uc7a5', '\uc7a5\ub840', '\uc7a5\ub840\uc2dd', '\uc778\ubcf4\uc774\uc2a4', '\uacc4\uc0b0\uc11c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Suomi: \"sakset\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Suomi: \"asevoimat\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Suomi: \"",
+        "target": "['hautajaiset', 'lasku', 'tili', 'ravintolalasku', 'tavaralasku']",
+        "word original": "receipt"
+    },
+    "['\uccb4\ubc8c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Suomi: \"kloori\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Suomi: \"sukellusvene\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Suomi: \"tauti\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Suomi: \"lusikka\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"",
+        "target": "['ruumiinrangaistus', 'ruumiillinen rangaistus']",
+        "word original": "rod"
+    },
+    "['\uc9c0\ubd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Suomi: \"veitsi\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Suomi: \"apina\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Suomi: \"",
+        "target": "['ulkokatto', 'katto']",
+        "word original": "roof"
+    },
+    "['\ubc94\uc120']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Suomi: \"kurkku\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Suomi: \"peukalo\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Suomi: \"pilvi\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Suomi: \"",
+        "target": "['purjealus', 'purjehdusalus', 'purjelaiva']",
+        "word original": "sail"
+    },
+    "['\ub300\ud559\uad50', '\ud559\uad50', '\uc544\uce74\ub370\ubbf8', '\ud559\ud68c', '\ub300\ud559']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"sunnuntai\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Suomi: \"sukellusvene\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"m\u00e4nty\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Suomi: \"panssarivaunu\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Suomi: \"",
+        "target": "['yliopisto', 'koulu', 'akatemia', 'tiedeakatemia', 'taideakatemia']",
+        "word original": "school"
+    },
+    "['\uac00\uc704']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Suomi: \"pikkulapsi\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Suomi: \"oikeudenk\u00e4ynti\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Suomi: \"kirja\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Suomi: \"",
+        "target": "['sakset']",
+        "word original": "scissors"
+    },
+    "['\uc528', '\uc131\uc528', '\uc528\uc557']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Suomi: \"puutarha\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Suomi: \"paita\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Suomi: \"varvas\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Suomi: \"",
+        "target": "['sukunimi', 'siemen', 'aiheuttaja', 'syy']",
+        "word original": "seed"
+    },
+    "['\uc591', 'Ovis aries', '\ub458', '\uc774', '\ub450', '\ube44\uc728', '\uae08\uc561', '\uc561\uc218']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"solmu\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Suomi: \"hy\u00f6nteiset\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Suomi: \"",
+        "target": "['lammas', 'lampaat', 'Ovis aries', 'Ovis orientalis aries', 'kakkonen', 'kaksi', 'II', 'm\u00e4\u00e4r\u00e4', 'mitta', 'summa', 'tahti', 'vauhti', 'tuntipalkka', 'nopeus', 'asteikko', 'mittari', 'mittapuu', 'normi', 'raham\u00e4\u00e4r\u00e4', 'rahaer\u00e4', 'rahasumma']",
+        "word original": "sheep"
+    },
+    "['\uc120\ubc18']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Suomi: \"kynsi\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Suomi: \"puu\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Suomi: \"amme\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Suomi: \"",
+        "target": "['sorvi', 'hylly']",
+        "word original": "shelf"
+    },
+    "['\uc120\ubc15', '\ubc30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"m\u00e4nty\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Suomi: \"mirri\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Suomi: \"",
+        "target": "['laiva', 'alus', 'vesikulkuneuvo', 'vesialus']",
+        "word original": "ship"
+    },
+    "['\uc154\uce20', '\uc640\uc774\uc154\uce20', '\ub0a8\ubc29']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"lyijykyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"korva\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"ruumiinrangaistus\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Suomi: \"",
+        "target": "['paita', 'aluspaita', 'paitapusero']",
+        "word original": "shirt"
+    },
+    "['\uc2e0', '\uc2e0\ubc1c', '\uc2e0\uc7a5', '\ucf69\ud325', '\ud658\ud76c', '\uae30\uc068', '\uc990\uac70\uc6c0', '\ud30c\ub178\ub77c\ub9c8', 'panorama', '\uc5f4\uad11']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Suomi: \"lyijykyn\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Suomi: \"munniharppu\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"",
+        "target": "['jumaluus', 'jumalatar', 'jumalolento', 'jumala', 'ylimaallinen olento', 'kuolematon', 'kenk\u00e4', 'munuainen', 'ilo', 'riemu', 'onni', 'iloisuus', 'riemukkuus', 'panoraamakuva', 'mielikuva', 'tulevaisuudenn\u00e4kym\u00e4', 'maisema', 'n\u00e4kym\u00e4', 'n\u00e4k\u00f6ala', 'yleisn\u00e4kym\u00e4', 'n\u00e4k\u00f6kulma', 'panorama', 'innostus', 'luottavaisuus', 'luotettavuus', 'luottamus', 'hilpeys']",
+        "word original": "tongue"
+    },
+    "['\uc0b4\uac17', '\ud53c\ubd80']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"l\u00e4hde\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Suomi: \"amme\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"",
+        "target": "['iho', 'nahka', 'tegumentti', 'cutis']",
+        "word original": "skin"
+    },
+    "['\uce58\ub9c8', '\uc2a4\ucee4\ud2b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Suomi: \"peruna\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Suomi: \"p\u00f6yt\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Suomi: \"silta\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"ase\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Suomi: \"",
+        "target": "['hame']",
+        "word original": "skirt"
+    },
+    "['\ubc40']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Suomi: \"linna\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"vaunu\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"ruumiinrangaistus\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Suomi: \"h\u00f6yhenet\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Suomi: \"",
+        "target": "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']",
+        "word original": "snake"
+    },
+    "['\uc591\ub9d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Suomi: \"solmu\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Suomi: \"tykist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Suomi: \"lentokone\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Suomi: \"neli\u00f6\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "sock"
+    },
+    "['\ud574\uba74\ub3d9\ubb3c', 'Porifera']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Suomi: \"sormus\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Suomi: \"virka\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Suomi: \"sairaala\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"sika\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Suomi: \"",
+        "target": "['sieniel\u00e4imet', 'sieniel\u00e4in']",
+        "word original": "sponge"
+    },
+    "['\uc2a4\ud47c', '\uc21f\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Suomi: \"maatila\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Suomi: \"tauti\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Suomi: \"hautajaiset\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Suomi: \"tiili\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Suomi: \"pikkulapsi\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Suomi: \"",
+        "target": "['lusikka', 'kapusta']",
+        "word original": "spoon"
+    },
+    "['\uc0d8\ud130', '\uc0d8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud131\" - Suomi: \"leuka\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Suomi: \"s\u00e4hk\u00f6moottori\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"",
+        "target": "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde']",
+        "word original": "spring"
+    },
+    "['\uc815\uc0ac\uac01\ud615']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf54\" - Suomi: \"nen\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Suomi: \"lehvist\u00f6\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Suomi: \"hautajaiset\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Suomi: \"",
+        "target": "['neli\u00f6', 'nelikulmio']",
+        "word original": "square"
+    },
+    "['\uc6b0\ud45c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Suomi: \"iho\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Suomi: \"lammas\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Suomi: \"l\u00e4hde\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"",
+        "target": "['postimerkki', 'merkki']",
+        "word original": "stamp"
+    },
+    "['\ubcc4', '\ud56d\uc131', '\uc678\uacc4 \ud589\uc131 \uc8fc\uc778\ubcc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"vaunu\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Suomi: \"juusto\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Suomi: \"ruumiinrangaistus\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Suomi: \"holvikaari\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti']",
+        "word original": "star"
+    },
+    "['\uc904\uae30', '\uadfc\uc721', '\uac00\uc9c0', '\ub098\ubb47\uac00\uc9c0', '\ub098\ubb34\uc904\uae30', '\uadf8\ub8e8', '\uad11\uc120\ube54', '\uad11\uc120']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"vaunu\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Suomi: \"virka\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Suomi: \"ase\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Suomi: \"",
+        "target": "['lihas', 'lihaskudos', 'oksa', 'varpu', 'vitsa', 'haara', 'runko', 'puunrunko', 'puuvarsi', 'valokeila', 's\u00e4de', 's\u00e4teilytys', 'valons\u00e4de', 'pilkahdus']",
+        "word original": "stem"
+    },
+    "['\uc5fd\uad90\ub828']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Suomi: \"polkupy\u00f6r\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Suomi: \"rannekello\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"viikset\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Suomi: \"baseball\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"",
+        "target": "['sikari']",
+        "word original": "stick"
+    },
+    "['\uc2a4\ud0c0\ud0b9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Suomi: \"Nous\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Suomi: \"\u00e4mp\u00e4ri\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Suomi: \"naama\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "stocking"
+    },
+    "['\uc704', '\uc704\uc7a5', '\uba38\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Suomi: \"iskunvaimennin\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Suomi: \"oranssius\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Suomi: \"puutarha\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Suomi: \"mirri\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Suomi: \"",
+        "target": "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu', 'p\u00e4\u00e4', 'lanttu', 'kallo', 'n\u00e4kemys', 'perspektiivi', 'mielipide', 'kanta', 'n\u00e4k\u00f6kulma']",
+        "word original": "stomach"
+    },
+    "['\uc8fc\uae30\uc5b5\uc7a5\uce58', '\uae30\uc5b5 \uc7a5\uce58', '\uba54\ubaa8\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Suomi: \"tulitikku\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Suomi: \"koru\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Suomi: \"mirri\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Suomi: \"t\u00e4hti\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Suomi: \"polvi\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"",
+        "target": "['muisti', 'muistikortti', 'tietokonemuisti']",
+        "word original": "store"
+    },
+    "['\uc77c\uc694\uc77c', '\uc8fc\uc77c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Suomi: \"auto\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Suomi: \"kurkku\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Suomi: \"koru\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Suomi: \"peukalo\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Suomi: \"",
+        "target": "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']",
+        "word original": "sun"
+    },
+    "['\ud14c\uc774\ube14', '\ud0c1\uc790', '\ubc25\uc0c1', '\uc0c1', '\ucc45\uc0c1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\" - Suomi: \"huopahattu\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Suomi: \"potta\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Suomi: \"tippa\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Suomi: \"sikari\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Suomi: \"koru\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Suomi: \"",
+        "target": "['p\u00f6yt\u00e4', 'kirjoitusp\u00f6yt\u00e4']",
+        "word original": "table"
+    },
+    "['\uaf2c\ub9ac', '\ubcfc\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Suomi: \"piirros\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Suomi: \"silm\u00e4muna\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Suomi: \"oikeudenk\u00e4ynti\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Suomi: \"",
+        "target": "['perskannikka', 'kannikka', 'peppu', 'satula', 'takamus', 'istuin', 'per\u00e4', 'pylly', 'pakarat', 'persus', 'perse', 'pyrst\u00f6', 'takapuoli', 'ahteri', 'per\u00e4p\u00e4\u00e4', 'h\u00e4nt\u00e4']",
+        "word original": "tail"
+    },
+    "['\uc2e4', '\ud138\uc2e4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"Microsoft Windows\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"B\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Suomi: \"",
+        "target": "['rihma', 'lanka', 'kuitu', 's\u00e4ie']",
+        "word original": "thread"
+    },
+    "['\uba71\uc0b4', '\ubaa9\uad6c\uba4d', '\uba71']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Suomi: \"vaunu\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Suomi: \"apina\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Suomi: \"amme\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Suomi: \"ympyr\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Suomi: \"lippu\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Suomi: \"",
+        "target": "['kurkku', 'pharynx', 'nielu']",
+        "word original": "throat"
+    },
+    "['\uc5c4\uc9c0', '\uc5c4\uc9c0\uc190\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"sein\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Suomi: \"tauti\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Suomi: \"",
+        "target": "['peukalo', 'pollex']",
+        "word original": "thumb"
+    },
+    "['\ube44', 'B', '\ub959', '\uc5ec\uc12f', '\uc721', '\uacfc\uae08', '\uc694\uae08', '\ub8cc\uae08', '\uc6b4\uc784']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Suomi: \"heraldiikka\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Suomi: \"internet\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Suomi: \"",
+        "target": "['B', 'b', 'sadevesi', 'vesisade', 'sade', 'kuusi', 'puoli tusinaa', 'sekstetti', 'kuusikko', 'Captain Hicks', 'VI', 'heksa', 'kuutonen', 'maksu', 'palkkio', 'hinta', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta', 'suhde']",
+        "word original": "ticket"
+    },
+    "['\ubc1c\uac00\ub77d', '\uc190\uac00\ub77d', '\uc190\ubc1c\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Suomi: \"kello\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Suomi: \"jumaluus\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Suomi: \"korva\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"kyl\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Suomi: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Suomi: \"",
+        "target": "['varvas', 'sormi']",
+        "word original": "toe"
+    },
+    "['\uc774', '\uc790\uc5f0\ubc95', '\ubc95\ub960', '\ub458', '\ub450', '\uc0ac\ub78c\uc758 \uc774', '\uadc0', '\ud131', '\uc544\ub798\ud131', '\uc624\uc58f', '\uc11c\uc591\uc790\ub450', '\uc790\ub450', '\uc21c\uc774\uc775', '\uc774\uc775']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc12c\" - Suomi: \"saari\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Suomi: \"mehil\u00e4iset\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Suomi: \"vasara\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Suomi: \"kakku\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Suomi: \"",
+        "target": "['lait', 'luonnonoikeus', 'laki', 'Luonnonoikeus', 'lains\u00e4\u00e4d\u00e4nt\u00f6', 'luonnonlaki', 'kakkonen', 'kaksi', 'II', 'hammas', 'Hammas', 'korva', 'leuka', 'leukakyhmy', 'mentum', 'luumut', 'luumu', 'Luumut', 'luumunpunainen', 'nettoansio', 'Netto', 'netto', 'p\u00e4t\u00e4kk\u00e4', 'nettovoitto', 'Tilikauden voitto', 'nettotulos', 'nettotulo', 'ansiot', 'tulos', 'voitto', 'liikevoitto', 'mammona', 'tuotto', 'ansiotulot', 'myyntitulot', 'voittaminen']",
+        "word original": "tooth"
+    },
+    "['\ub9c8\uc744', '\ucd0c\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Suomi: \"henkil\u00f6kortti\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"viikset\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Suomi: \"karja\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Suomi: \"hattu\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Suomi: \"",
+        "target": "['kyl\u00e4', 'pieni kyl\u00e4', 'pikkukaupunki', 'kaupunki']",
+        "word original": "town"
+    },
+    "['\uae30\ucc28', '\uc5f4\ucc28']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Suomi: \"vuode\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Suomi: \"koira\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Suomi: \"aura\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Suomi: \"luu\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Suomi: \"huuli\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Suomi: \"",
+        "target": "['juna', 'opettaa', 'harjoittaa']",
+        "word original": "train"
+    },
+    "['\ub098\ubb34', '\ubaa9\uc7ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Suomi: \"juusto\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Suomi: \"syd\u00e4n\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Suomi: \"muna\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Suomi: \"",
+        "target": "['puu', 'pintapuu', 'puuaines']",
+        "word original": "tree"
+    },
+    "['\ubc14\uc9c0', '\uce74\uc790\ud06c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Suomi: \"huuli\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Suomi: \"viikset\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Suomi: \"postimerkki\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Suomi: \"tulitikku\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Suomi: \"perskannikka\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Suomi: \"",
+        "target": "['kasakat', 'Kasakat', 'kasakka', 'housut']",
+        "word original": "trousers"
+    },
+    "['\uc6b0\uc0b0\uacfc \uc591\uc0b0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Suomi: \"laiva\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Suomi: \"lumi\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Suomi: \"sairaala\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Suomi: \"",
+        "target": "['sateenvarjo']",
+        "word original": "umbrella"
+    },
+    "['\ubcbd']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf54\" - Suomi: \"nen\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Suomi: \"hautajaiset\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Suomi: \"jyrsij\u00e4\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Suomi: \"muisti\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Suomi: \"lait\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Suomi: \"",
+        "target": "['sein\u00e4', 'muuri']",
+        "word original": "wall"
+    },
+    "['\uc2dc\uac04\ud314\ucc0c', '\ud734\ub300\uc6a9 \uc2dc\uacc4', '\uc190\ubaa9 \uc2dc\uacc4', '\uc6cc\uce58', '\uc2dc\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Suomi: \"baseball\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Suomi: \"vaatetus\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Suomi: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Suomi: \"pilvi\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Suomi: \"m\u00e4nty\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Suomi: \"",
+        "target": "['rannekello', 'taskukello', 'kello']",
+        "word original": "watch"
+    },
+    "['\u81ea\u8f49\u8eca', '\uc790\uc804\uac70']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb38\" - Suomi: \"ikkuna\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Suomi: \"Jarru\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Suomi: \"k\u00e4\u00e4rmeet\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Suomi: \"piirros\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Suomi: \"omena\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Suomi: \"",
+        "target": "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari']",
+        "word original": "wheel"
+    },
+    "['\ucc44\ucc0d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Suomi: \"lihas\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Suomi: \"lusikka\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Suomi: \"sieniel\u00e4imet\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Suomi: \"muurahainen\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Suomi: \"sukka\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Suomi: \"",
+        "target": "['ruoska', 'piiska']",
+        "word original": "whip"
+    },
+    "['\ucc3d', '\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc708\ub3c4\uc6b0', '\uc708\ub3c4', '\uc708\ub3c4\uc6b0', '\ub3c4\uac80', '\uce7c', '\uac80', '\ucc3d\ubb38']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubf08\" - Suomi: \"luu\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Suomi: \"kampa\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Suomi: \"Nous\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Suomi: \"hehkulamppu\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Suomi: \"takki\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Suomi: \"",
+        "target": "['Microsoft Windows', 'Windows', 'miekka', 'kalpa', 'ikkuna', 'akkuna']",
+        "word original": "window"
+    },
+    "['\ub0a0\uac1c', '\ub3c4\uac80', '\uce7c', '\uac80', '\uae43', '\uae43\ud138', '\ud314\ub2e4\ub9ac', '\uc0ac\uc9c0', '\uc9c0', '\ud314', '\ub0a0', '\uaca8\ub4dc\ub791\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Suomi: \"baseball\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Suomi: \"Jarru\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Suomi: \"ihmisruumis\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Suomi: \"sika\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Suomi: \"vatsa\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Suomi: \"",
+        "target": "['miekka', 'kalpa', 'h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka', 'siipi', 'raaja', 'j\u00e4sen', 'ter\u00e4', 'kainalo', 'Kainalo', 'axilla']",
+        "word original": "wing"
+    },
+    "['\ubc8c\ub808', '\uace4\ucda9', 'Insecta']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Suomi: \"sateenvarjo\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Suomi: \"televisio\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Suomi: \"pid\u00e4tys\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Suomi: \"kirkko\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Suomi: \"linnut\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Suomi: \"",
+        "target": "['hy\u00f6nteiset', 'hy\u00f6nteinen', 'mato', 'toukka', 'luteet', 'nivelk\u00e4rs\u00e4iset', 'hemiptera-hy\u00f6nteinen', 'hemipteron', '\u00f6t\u00f6kk\u00e4']",
+        "word original": "worm"
+    }
+}

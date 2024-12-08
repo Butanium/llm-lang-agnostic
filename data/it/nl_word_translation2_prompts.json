@@ -1,0 +1,867 @@
+{
+    "['angolo', 'angolo supplementare', 'Teorema degli angoli opposti al vertice', 'angolo complementare', 'Angolo complementare', 'angoli opposti al vertice', 'cantonata', 'angolo della strada']": {
+        "prompt": "Italiano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"calzino\" - Nederlands: \"sok\"\nItaliano: \"coda\" - Nederlands: \"wachtkamer\"\nItaliano: \"cavallo\" - Nederlands: \"paard\"\nItaliano: \"angolo\" - Nederlands: \"",
+        "target": "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek', 'straathoek']",
+        "word original": "angle"
+    },
+    "['formica', 'Formicidae']": {
+        "prompt": "Italiano: \"stella\" - Nederlands: \"zon\"\nItaliano: \"denti\" - Nederlands: \"gebitselement\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"formaggio\" - Nederlands: \"kaas\"\nItaliano: \"formica\" - Nederlands: \"",
+        "target": "['mier', 'mieren']",
+        "word original": "ant"
+    },
+    "['buccia di mela', 'mela', 'pomo']": {
+        "prompt": "Italiano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"viso\" - Nederlands: \"tronie\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"tariffa\" - Nederlands: \"douanerechten\"\nItaliano: \"buccia di mela\" - Nederlands: \"",
+        "target": "['appelschil', 'appel']",
+        "word original": "apple"
+    },
+    "['arco', 'arco e freccie', 'arco e freccia', 'scintilla', 'scintilla elettrica', 'ionizzazione dei gas', 'Ionizzazione dei gas', 'scarica elettrica']": {
+        "prompt": "Italiano: \"neonato\" - Nederlands: \"baby\"\nItaliano: \"secchio\" - Nederlands: \"emmer\"\nItaliano: \"arma da fuoco\" - Nederlands: \"geweer\"\nItaliano: \"mattone\" - Nederlands: \"klinker\"\nItaliano: \"imbarcazione\" - Nederlands: \"boot\"\nItaliano: \"arco\" - Nederlands: \"",
+        "target": "['boog en pijlen', 'boog', 'pijl en boog', 'schietboog', 'vonk', 'vlamboog']",
+        "word original": "arch"
+    },
+    "['arma', 'stemma', 'blasonatura', 'blasone', 'scudo', 'ordigno']": {
+        "prompt": "Italiano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"nervo\" - Nederlands: \"zenuw\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"spazzola\" - Nederlands: \"borstel\"\nItaliano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"arma\" - Nederlands: \"",
+        "target": "['blazonry', 'heraldisch wapen', 'rijkswapen', 'wapen', 'blazoen', 'staatswapen', 'wapenschild', 'gevechtswapen', 'strijdmiddel']",
+        "word original": "arm"
+    },
+    "['unit\u00e0 militare', 'unit\u00e0 militari terrestri', 'unit\u00e0 militare terrestre', 'forze di polizia', \"forze dell'ordine\", 'forze militari', 'militari', 'forze armate', 'forza armata', 'militare', 'esercito']": {
+        "prompt": "Italiano: \"giardino\" - Nederlands: \"tuin\"\nItaliano: \"calzino\" - Nederlands: \"sok\"\nItaliano: \"cappello\" - Nederlands: \"hoed\"\nItaliano: \"camicia\" - Nederlands: \"hemd\"\nItaliano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"unit\u00e0 militare\" - Nederlands: \"",
+        "target": "['militaire eenheid', 'legereenheid', 'strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e']",
+        "word original": "army"
+    },
+    "['neonato', 'bambino piccolo', 'bambina', 'bambino', 'beb\u00e8', 'piccino', 'fantolino', 'bimbo', 'beb\u00e9', 'infante', 'piccolo', 'creatura', 'pupo', 'baby', 'lattante', 'poppante']": {
+        "prompt": "Italiano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"universit\u00e0\" - Nederlands: \"universiteit\"\nItaliano: \"nube\" - Nederlands: \"wolk\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"micio\" - Nederlands: \"kat\"\nItaliano: \"neonato\" - Nederlands: \"",
+        "target": "['baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje']",
+        "word original": "baby"
+    },
+    "['anello']": {
+        "prompt": "Italiano: \"tazza\" - Nederlands: \"toilet\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"ponte\" - Nederlands: \"brug\"\nItaliano: \"luna\" - Nederlands: \"maan\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"anello\" - Nederlands: \"",
+        "target": "['ring']",
+        "word original": "ring"
+    },
+    "['lavello', 'lavandino', 'acquaio', 'lavabo', 'bacino', 'toilette']": {
+        "prompt": "Italiano: \"piede\" - Nederlands: \"Engelse voet\"\nItaliano: \"biblioteca\" - Nederlands: \"bibliotheek\"\nItaliano: \"ago\" - Nederlands: \"augustus\"\nItaliano: \"scacciapensieri\" - Nederlands: \"trompet\"\nItaliano: \"foglia\" - Nederlands: \"lover\"\nItaliano: \"lavello\" - Nederlands: \"",
+        "target": "['lavabo', 'wasbak', 'wastafel', 'waskom', 'Lavabo', 'bassin', 'bekken', 'gootsteen', 'afwasbak']",
+        "word original": "basin"
+    },
+    "['bagno', 'abluzione', 'stanza da bagno', 'ritirata', 'toilette', 'latrina', 'cesso', 'gabinetto', 'cacatoio', 'toletta']": {
+        "prompt": "Italiano: \"capra\" - Nederlands: \"geit\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"luna\" - Nederlands: \"maan\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"isola\" - Nederlands: \"eiland\"\nItaliano: \"bagno\" - Nederlands: \"",
+        "target": "['baden', 'zwemmen', 'wasgelegenheid', 'badkamer', 'badkuip', 'bad', 'privaat', 'toilet', 'wc', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']",
+        "word original": "bath"
+    },
+    "['letto', 'giaciglio']": {
+        "prompt": "Italiano: \"pantaloni\" - Nederlands: \"broek\"\nItaliano: \"torta\" - Nederlands: \"cake\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"domenica\" - Nederlands: \"zondag\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"letto\" - Nederlands: \"",
+        "target": "['bed', 'legerstede', 'sponde', 'bedstede', 'ledikant', 'nest']",
+        "word original": "bed"
+    },
+    "['ape', 'Anthophila', 'pecchia']": {
+        "prompt": "Italiano: \"secchio\" - Nederlands: \"emmer\"\nItaliano: \"angolo\" - Nederlands: \"hoek\"\nItaliano: \"bandiera\" - Nederlands: \"vaan\"\nItaliano: \"unit\u00e0 militare\" - Nederlands: \"militaire eenheid\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"ape\" - Nederlands: \"",
+        "target": "['bij', 'honingbij', 'imme', 'bijen']",
+        "word original": "bee"
+    },
+    "['campanello', 'campana', 'soneria']": {
+        "prompt": "Italiano: \"cappotto\" - Nederlands: \"jas\"\nItaliano: \"cavallo\" - Nederlands: \"paard\"\nItaliano: \"scaffale\" - Nederlands: \"plank\"\nItaliano: \"dito grosso\" - Nederlands: \"duim\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"campanello\" - Nederlands: \"",
+        "target": "['Altaarschel', 'altaarschel', 'deurbel', 'bel', 'zoemer', 'huisbel', 'klingel', 'schel', 'door Bell', 'ding-dong', 'klok']",
+        "word original": "bell"
+    },
+    "['uccello', 'Aves', 'volatile', 'volativo', 'volatio', 'pennuto', 'augello']": {
+        "prompt": "Italiano: \"veliero\" - Nederlands: \"zeilschip\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"bollitore da t\u00e8\" - Nederlands: \"theeketel\"\nItaliano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"uccello\" - Nederlands: \"",
+        "target": "['vogel', 'vogels', 'Eu-', 'vogeltje']",
+        "word original": "bird"
+    },
+    "['spada', 'gladio', 'brando', 'stocco', 'durindana', 'durlindana', 'lama', 'ferro', 'acciaro']": {
+        "prompt": "Italiano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"luna\" - Nederlands: \"maan\"\nItaliano: \"tetto\" - Nederlands: \"dak\"\nItaliano: \"mattone\" - Nederlands: \"klinker\"\nItaliano: \"spada\" - Nederlands: \"",
+        "target": "['zwaard', 'degen']",
+        "word original": "blade"
+    },
+    "['commissione', 'comitato', 'consiglio', 'consulta', 'giunta', 'provvigione', 'percentuale', 'sentenza', 'provvedimento', 'giudizio', 'commessa', 'ordinazione', 'ordine di acquisto', 'ordinativo', 'ord.', 'ordine', 'collegio', 'censura', 'coordinamento']": {
+        "prompt": "Italiano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"nervo\" - Nederlands: \"zenuw\"\nItaliano: \"penna\" - Nederlands: \"pluim\"\nItaliano: \"matita\" - Nederlands: \"crayon\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"commissione\" - Nederlands: \"",
+        "target": "['comit\u00e9', 'commissie', 'kamer', 'cie', 'college', 'raad', 'raadscollege', 'beheerraad', 'board', 'provisie', 'commissieloon', 'afsluitpremie', 'wat is je baan?', 'orde', 'bestelling', 'order', 'bestelbon', 'inkooporder', 'bestuur', 'directie']",
+        "word original": "board"
+    },
+    "['imbarcazione', 'nave', 'barca', 'scialuppa', 'lancia', 'schifo', 'battello', 'natante', 'bastimento', 'transatlantico', 'chiatta', 'barcone', 'vascello']": {
+        "prompt": "Italiano: \"quadrato\" - Nederlands: \"vierkant\"\nItaliano: \"casa\" - Nederlands: \"optrekje\"\nItaliano: \"barbula\" - Nederlands: \"pluim\"\nItaliano: \"serpente\" - Nederlands: \"slang\"\nItaliano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"imbarcazione\" - Nederlands: \"",
+        "target": "['boot', 'schip', 'vaartuig', 'watervaartuig']",
+        "word original": "boat"
+    },
+    "['osso', 'pietra', 'sasso', 'roccia', 'nocciolo']": {
+        "prompt": "Italiano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"internet\" - Nederlands: \"netwerk\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"osso\" - Nederlands: \"",
+        "target": "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat', 'kiezel', 'steen', 'steenrots', 'rots']",
+        "word original": "bone"
+    },
+    "['bottiglia']": {
+        "prompt": "Italiano: \"motore\" - Nederlands: \"motor\"\nItaliano: \"sigaro\" - Nederlands: \"sigaar\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"bottiglia\" - Nederlands: \"",
+        "target": "['fles']",
+        "word original": "bottle"
+    },
+    "['scatola', 'cassetta', 'astuccio', 'cassa', 'barattolo', 'lattina', 'bussolotto', 'latta']": {
+        "prompt": "Italiano: \"commissione\" - Nederlands: \"comit\u00e9\"\nItaliano: \"cucchiaio\" - Nederlands: \"lepel\"\nItaliano: \"ragazzo\" - Nederlands: \"patat\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"spazzola\" - Nederlands: \"borstel\"\nItaliano: \"scatola\" - Nederlands: \"",
+        "target": "['dozen', 'doos', 'bak', 'conservenblik', 'blik', 'blikje', 'bakvorm', 'taartvorm']",
+        "word original": "box"
+    },
+    "['ragazzo', 'minore', 'fanciullo', 'giovane', 'fanciullino', 'bambino', 'moccioso', 'mimmo', 'pargolo', 'bimbo', 'figlio', 'marmocchio', 'figliuolo', 'figliolo', 'ragazzino', 'guaglione', 'maschietto', 'fidanzato', 'damo', 'innamorato', 'amoroso', 'bello', 'boy-friend', 'moroso', 'boy', 'figlio maschio', 'maschio']": {
+        "prompt": "Italiano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"punizione corporale\" - Nederlands: \"lijfstraf\"\nItaliano: \"riccio\" - Nederlands: \"egel\"\nItaliano: \"scaffale\" - Nederlands: \"plank\"\nItaliano: \"ragazzo\" - Nederlands: \"",
+        "target": "['patat', 'kind', 'friet', 'jongere', 'jongeling', 'minderjarige', 'ding', 'joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen', 'vriendje', 'vriend', 'minnaar', 'lief', 'zoonlief', 'zoon', 'gasten', 'jongens']",
+        "word original": "boy"
+    },
+    "['testare', 'pensiero', 'mente', 'cervello', 'Intelletto cosmico', 'psiche', 'nous', 'testa', 'psicologia']": {
+        "prompt": "Italiano: \"neonato\" - Nederlands: \"baby\"\nItaliano: \"bocca\" - Nederlands: \"passage\"\nItaliano: \"aratro\" - Nederlands: \"ploeg\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"testare\" - Nederlands: \"",
+        "target": "['brein', 'verstand', 'psyche', 'Nous', 'geest', 'nous', 'denkvermogen', 'rede']",
+        "word original": "head"
+    },
+    "['economia', 'scienze economiche', 'economia politica', 'sistema economico', 'risparmio']": {
+        "prompt": "Italiano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"calzino\" - Nederlands: \"sok\"\nItaliano: \"camicia\" - Nederlands: \"hemd\"\nItaliano: \"economia\" - Nederlands: \"",
+        "target": "['economie', 'politieke economie', 'economisch systeem', 'besparing', 'sparen', 'ombuiging', 'bezuiniging', 'uitsparing']",
+        "word original": "branch"
+    },
+    "['mattone', 'tegola', 'laterizio', 'mattonella']": {
+        "prompt": "Italiano: \"spada\" - Nederlands: \"zwaard\"\nItaliano: \"spazzola\" - Nederlands: \"borstel\"\nItaliano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"scaffale\" - Nederlands: \"plank\"\nItaliano: \"mattone\" - Nederlands: \"",
+        "target": "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']",
+        "word original": "brick"
+    },
+    "['ponte', 'ponti romani']": {
+        "prompt": "Italiano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"camicia\" - Nederlands: \"hemd\"\nItaliano: \"ponte\" - Nederlands: \"",
+        "target": "['brug', 'lijst van Romeinse bruggen']",
+        "word original": "bridge"
+    },
+    "['spazzola', 'pennello']": {
+        "prompt": "Italiano: \"seme\" - Nederlands: \"speelkaart\"\nItaliano: \"serpente\" - Nederlands: \"slang\"\nItaliano: \"cappotto\" - Nederlands: \"jas\"\nItaliano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"chiesa\" - Nederlands: \"kerk\"\nItaliano: \"spazzola\" - Nederlands: \"",
+        "target": "['borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']",
+        "word original": "brush"
+    },
+    "['secchio', 'secchia', 'bugliolo']": {
+        "prompt": "Italiano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"forno\" - Nederlands: \"bakoven\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"arma da fuoco\" - Nederlands: \"geweer\"\nItaliano: \"secchio\" - Nederlands: \"",
+        "target": "['emmer']",
+        "word original": "bucket"
+    },
+    "['lampadina', 'lampada a incandescenza', 'luce elettrica', 'bulbo']": {
+        "prompt": "Italiano: \"seme\" - Nederlands: \"speelkaart\"\nItaliano: \"nervo\" - Nederlands: \"zenuw\"\nItaliano: \"denti\" - Nederlands: \"gebitselement\"\nItaliano: \"filo\" - Nederlands: \"garen\"\nItaliano: \"scacciapensieri\" - Nederlands: \"trompet\"\nItaliano: \"lampadina\" - Nederlands: \"",
+        "target": "['gloeilamp', 'elektrisch licht', 'peer']",
+        "word original": "bulb"
+    },
+    "['torta', 'cake', 'pie', 'crostata', 'pasticcio']": {
+        "prompt": "Italiano: \"angolo\" - Nederlands: \"hoek\"\nItaliano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"torta\" - Nederlands: \"",
+        "target": "['cake', 'taart', 'pastei', 'pie', 'gebak']",
+        "word original": "cake"
+    },
+    "['camera', 'fotocamera', 'macchina fotografica', 'apparecchio fotografico', 'vano', 'stanza', 'locale', 'ambiente', 'stanza per gli ospiti', 'camera per gli ospiti', 'camera da letto', 'stanza degli ospiti', 'camera degli ospiti', 'alcova', 'videocamera', 'telecamera', 'aula parlamentare']": {
+        "prompt": "Italiano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"capra\" - Nederlands: \"geit\"\nItaliano: \"camera\" - Nederlands: \"",
+        "target": "['fotocamera', 'videocamera', 'filmcamera', 'fototoestel', 'kamer', 'ruimte', 'vertrek', 'plaats', 'slaapvertrek', 'gastenkamer', 'slaapkamer', 'logeerkamer', 'televisiecamera']",
+        "word original": "camera"
+    },
+    "[\"documento d'identit\u00e0\", \"carta d'identit\u00e0\", 'carta di identit\u00e0', 'documento']": {
+        "prompt": "Italiano: \"pantaloni\" - Nederlands: \"broek\"\nItaliano: \"capra\" - Nederlands: \"geit\"\nItaliano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"unit\u00e0 militare\" - Nederlands: \"militaire eenheid\"\nItaliano: \"documento d'identit\u00e0\" - Nederlands: \"",
+        "target": "['identiteitsbewijs', 'legitimatiebewijs', 'identiteitskaart', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']",
+        "word original": "card"
+    },
+    "['vagone', 'veicolo su rotaia', 'automotrice', 'carrozza', 'cabina', 'bisarca', 'carro merci']": {
+        "prompt": "Italiano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"motore\" - Nederlands: \"motor\"\nItaliano: \"arancione\" - Nederlands: \"oranje\"\nItaliano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"maiale\" - Nederlands: \"varken\"\nItaliano: \"vagone\" - Nederlands: \"",
+        "target": "['wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'motorrijtuig', 'railvoertuig', 'motorwagen', 'spoorrijtuig', 'treinwagon', 'koets', 'break', 'brik', 'janplezier']",
+        "word original": "carriage"
+    },
+    "['micio', 'gatto', 'gatto domestico', 'micino', 'Felis silvestris catus']": {
+        "prompt": "Italiano: \"motore\" - Nederlands: \"motor\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"micio\" - Nederlands: \"",
+        "target": "['kat', 'huiskat']",
+        "word original": "cat"
+    },
+    "['catena', 'catena montuosa', 'giogaia', 'gruppo montuoso', 'catena di montagne', 'serie']": {
+        "prompt": "Italiano: \"francobollo\" - Nederlands: \"postzegel\"\nItaliano: \"dito\" - Nederlands: \"middelvinger\"\nItaliano: \"scaffale\" - Nederlands: \"plank\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"catena\" - Nederlands: \"",
+        "target": "['bergrug', 'bergketen', 'gebergte', 'bergformatie', 'bergland', 'reeks', 'aaneenschakeling']",
+        "word original": "chain"
+    },
+    "['formaggio', 'cacio']": {
+        "prompt": "Italiano: \"ago\" - Nederlands: \"augustus\"\nItaliano: \"tetto\" - Nederlands: \"dak\"\nItaliano: \"patata\" - Nederlands: \"patat\"\nItaliano: \"fiammifero\" - Nederlands: \"zwavelstokje\"\nItaliano: \"motore\" - Nederlands: \"motor\"\nItaliano: \"formaggio\" - Nederlands: \"",
+        "target": "['kaas']",
+        "word original": "cheese"
+    },
+    "['baule', 'cassapanca', 'cassa', 'cofano']": {
+        "prompt": "Italiano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"spada\" - Nederlands: \"zwaard\"\nItaliano: \"baule\" - Nederlands: \"",
+        "target": "['kist']",
+        "word original": "chest"
+    },
+    "['mento', 'bazza']": {
+        "prompt": "Italiano: \"ape\" - Nederlands: \"bij\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"vagone\" - Nederlands: \"wagon\"\nItaliano: \"mento\" - Nederlands: \"",
+        "target": "['kin', 'kinnebak']",
+        "word original": "chin"
+    },
+    "['chiesa']": {
+        "prompt": "Italiano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"piede\" - Nederlands: \"Engelse voet\"\nItaliano: \"nervo\" - Nederlands: \"zenuw\"\nItaliano: \"economia\" - Nederlands: \"economie\"\nItaliano: \"chiesa\" - Nederlands: \"",
+        "target": "['kerk', 'kerkgebouw', 'godshuis']",
+        "word original": "church"
+    },
+    "['cerchio', 'circonferenza', 'circolo', 'disco', 'piatto']": {
+        "prompt": "Italiano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"tasca dei calzoni\" - Nederlands: \"zak\"\nItaliano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"cerchio\" - Nederlands: \"",
+        "target": "['kring', 'cirkel', 'schijf']",
+        "word original": "circle"
+    },
+    "['orologio', 'oriolo', 'orologio da polso', 'orologio da tasca', 'cipolla']": {
+        "prompt": "Italiano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"nube\" - Nederlands: \"wolk\"\nItaliano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"orologio\" - Nederlands: \"",
+        "target": "['uurwerk', 'klok', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje']",
+        "word original": "watch"
+    },
+    "['nube', 'nuvola', 'nembo']": {
+        "prompt": "Italiano: \"sigaro\" - Nederlands: \"sigaar\"\nItaliano: \"camicia\" - Nederlands: \"hemd\"\nItaliano: \"penna\" - Nederlands: \"pluim\"\nItaliano: \"angolo\" - Nederlands: \"hoek\"\nItaliano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"nube\" - Nederlands: \"",
+        "target": "['wolk']",
+        "word original": "cloud"
+    },
+    "['cappotto', 'mantello', 'giacca', 'casacca', 'giacchetta', 'giubba', 'soprabito', 'palt\u00f2', 'paletot']": {
+        "prompt": "Italiano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"punizione corporale\" - Nederlands: \"lijfstraf\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"ragazzo\" - Nederlands: \"patat\"\nItaliano: \"cappotto\" - Nederlands: \"",
+        "target": "['jas', 'jack', 'mantel', 'overjas']",
+        "word original": "coat"
+    },
+    "['arresto', 'detenzione', 'carcere', 'carcerazione', 'imprigionamento', 'incarceramento', 'reclusione', 'fermo', 'interruzione']": {
+        "prompt": "Italiano: \"torta\" - Nederlands: \"cake\"\nItaliano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"economia\" - Nederlands: \"economie\"\nItaliano: \"portiera\" - Nederlands: \"poort\"\nItaliano: \"spada\" - Nederlands: \"zwaard\"\nItaliano: \"arresto\" - Nederlands: \"",
+        "target": "['internering', 'aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand', 'onderbreking']",
+        "word original": "collar"
+    },
+    "['mucca', 'bestiame bovino', 'vacca', 'bestiame', 'Bos taurus', 'Bos taurus taurus', 'bovini', 'bue', 'Bos primigenius taurus']": {
+        "prompt": "Italiano: \"serpente\" - Nederlands: \"slang\"\nItaliano: \"fisiologia umana\" - Nederlands: \"menselijke verrichtingsleer\"\nItaliano: \"torta\" - Nederlands: \"cake\"\nItaliano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"domenica\" - Nederlands: \"zondag\"\nItaliano: \"mucca\" - Nederlands: \"",
+        "target": "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus', 'melkkoe']",
+        "word original": "cow"
+    },
+    "['tazza', 'gabinetto', 'vaso', 'water', 'orinale', 'pitale', 'vaso da notte', 'coppa', 'bicchiere', 'boccale', 'mug', 'gotto']": {
+        "prompt": "Italiano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"orecchio\" - Nederlands: \"oor\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"tazza\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'kop', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'mok']",
+        "word original": "pot"
+    },
+    "['tenda', 'drappo', 'drappeggio', 'tappezzeria', 'tendina', 'tendaggio', 'panneggiamento', 'cortina', 'velario']": {
+        "prompt": "Italiano: \"buccia di mela\" - Nederlands: \"appelschil\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"riccio\" - Nederlands: \"egel\"\nItaliano: \"gemma\" - Nederlands: \"edelsteen\"\nItaliano: \"tenda\" - Nederlands: \"",
+        "target": "['biertent', 'tent', 'gordijn', 'voorhangsel', 'lijkkleed', 'doek']",
+        "word original": "curtain"
+    },
+    "['ammortizzatore', 'scossa']": {
+        "prompt": "Italiano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"piede\" - Nederlands: \"Engelse voet\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"bagno\" - Nederlands: \"baden\"\nItaliano: \"ammortizzatore\" - Nederlands: \"",
+        "target": "['schokbreker', 'schokdemper', 'schok', 'kussen']",
+        "word original": "cushion"
+    },
+    "['cane', 'Canis lupus familiaris', 'Canis familiaris']": {
+        "prompt": "Italiano: \"uccello\" - Nederlands: \"vogel\"\nItaliano: \"ala\" - Nederlands: \"vleugel\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"camera\" - Nederlands: \"fotocamera\"\nItaliano: \"tariffa\" - Nederlands: \"douanerechten\"\nItaliano: \"cane\" - Nederlands: \"",
+        "target": "['hond', 'Canis lupus familiaris', 'joekel']",
+        "word original": "dog"
+    },
+    "['telaio della porta', 'porta', 'portiera', 'uscio', 'sportello']": {
+        "prompt": "Italiano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"internet\" - Nederlands: \"netwerk\"\nItaliano: \"forbici\" - Nederlands: \"schaar\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"documento d'identit\u00e0\" - Nederlands: \"identiteitsbewijs\"\nItaliano: \"telaio della porta\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur']",
+        "word original": "door"
+    },
+    "['portiera', 'telaio della porta', 'porta', 'uscio', 'sportello']": {
+        "prompt": "Italiano: \"cittadina\" - Nederlands: \"nederzetting\"\nItaliano: \"calze\" - Nederlands: \"sok\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"camera\" - Nederlands: \"fotocamera\"\nItaliano: \"gonna\" - Nederlands: \"rok\"\nItaliano: \"portiera\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur']",
+        "word original": "drain"
+    },
+    "['disegno', 'figura', 'riproduzione', 'illustrazione', 'immagine', 'progetto', 'piano', 'programma', 'ideazione', 'proponimento', 'idea', 'proposito', 'intento', 'intenzione', 'finalit\u00e0', 'mira', 'intendimento', 'pensamento', 'scopo', 'meta', 'animo', 'fine']": {
+        "prompt": "Italiano: \"ape\" - Nederlands: \"bij\"\nItaliano: \"economia\" - Nederlands: \"economie\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"seme\" - Nederlands: \"speelkaart\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"disegno\" - Nederlands: \"",
+        "target": "['afbeelding', 'tekening', 'tekenkunst', 'prent', 'illustratie', 'figuur', 'portret', 'plaatje', 'plan', 'idee', 'ontwerp', 'bedoeling', 'voornemen', 'bestek', 'intentie', 'opzet', 'Intentie', 'intensie', 'inzicht', 'zin']",
+        "word original": "drawer"
+    },
+    "['vestiti', 'vestiario', 'abbigliamento', 'indumento', 'vestito', 'abito', 'vestire', 'abiti', 'veste']": {
+        "prompt": "Italiano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"cerchio\" - Nederlands: \"kring\"\nItaliano: \"collo\" - Nederlands: \"hals\"\nItaliano: \"chiesa\" - Nederlands: \"kerk\"\nItaliano: \"vestiti\" - Nederlands: \"",
+        "target": "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed']",
+        "word original": "dress"
+    },
+    "['goccia di pioggia', 'goccia', 'gocciola', 'lagrima', 'gocciolo', 'lacrima', 'goccio']": {
+        "prompt": "Italiano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"nube\" - Nederlands: \"wolk\"\nItaliano: \"fisiologia umana\" - Nederlands: \"menselijke verrichtingsleer\"\nItaliano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"camicia\" - Nederlands: \"hemd\"\nItaliano: \"goccia di pioggia\" - Nederlands: \"",
+        "target": "['druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop']",
+        "word original": "drop"
+    },
+    "['orecchio', 'oreia', 'orecchie', 'orecchia']": {
+        "prompt": "Italiano: \"secchio\" - Nederlands: \"emmer\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"funzione\" - Nederlands: \"functie\"\nItaliano: \"ombrello\" - Nederlands: \"paraplu\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"orecchio\" - Nederlands: \"",
+        "target": "['oor', 'oren', 'gehoororgaan']",
+        "word original": "ear"
+    },
+    "['uovo', 'uovo di gallina', 'ovo']": {
+        "prompt": "Italiano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"buccia di mela\" - Nederlands: \"appelschil\"\nItaliano: \"denti\" - Nederlands: \"gebitselement\"\nItaliano: \"torta\" - Nederlands: \"cake\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"uovo\" - Nederlands: \"",
+        "target": "['ei', 'kippenei']",
+        "word original": "egg"
+    },
+    "['motore', 'Motor']": {
+        "prompt": "Italiano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"cappello\" - Nederlands: \"hoed\"\nItaliano: \"serpente\" - Nederlands: \"slang\"\nItaliano: \"muscolo\" - Nederlands: \"spier\"\nItaliano: \"bottiglia\" - Nederlands: \"fles\"\nItaliano: \"motore\" - Nederlands: \"",
+        "target": "['motor', 'aandrijving', 'locomotief', 'elektromotor']",
+        "word original": "engine"
+    },
+    "['bulbo oculare', 'occhio', 'occhi']": {
+        "prompt": "Italiano: \"pesce\" - Nederlands: \"vissen\"\nItaliano: \"neonato\" - Nederlands: \"baby\"\nItaliano: \"tazza\" - Nederlands: \"toilet\"\nItaliano: \"pellicola\" - Nederlands: \"film\"\nItaliano: \"pollame\" - Nederlands: \"gevogelte\"\nItaliano: \"bulbo oculare\" - Nederlands: \"",
+        "target": "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']",
+        "word original": "eye"
+    },
+    "['viso', 'faccia', 'volto']": {
+        "prompt": "Italiano: \"scaffale\" - Nederlands: \"plank\"\nItaliano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"patata\" - Nederlands: \"patat\"\nItaliano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"viso\" - Nederlands: \"",
+        "target": "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']",
+        "word original": "face"
+    },
+    "['fattoria', 'tenuta agricola', 'masseria', 'podere', 'allevamento']": {
+        "prompt": "Italiano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"muscolo\" - Nederlands: \"spier\"\nItaliano: \"lampadina\" - Nederlands: \"gloeilamp\"\nItaliano: \"buccia di mela\" - Nederlands: \"appelschil\"\nItaliano: \"internet\" - Nederlands: \"netwerk\"\nItaliano: \"fattoria\" - Nederlands: \"",
+        "target": "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee']",
+        "word original": "farm"
+    },
+    "['barbula', 'piumaggio', 'piuma', 'penna', 'piume']": {
+        "prompt": "Italiano: \"cerchio\" - Nederlands: \"kring\"\nItaliano: \"vite\" - Nederlands: \"Vitis vinifera\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"documento d'identit\u00e0\" - Nederlands: \"identiteitsbewijs\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"barbula\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder']",
+        "word original": "feather"
+    },
+    "['dito', 'gesto del dito medio alzato', 'gesto del dito medio', 'digito', 'dito della mano', 'dita', 'minolo', 'quinto dito', 'dito del piede', 'alluce']": {
+        "prompt": "Italiano: \"ponte\" - Nederlands: \"brug\"\nItaliano: \"internet\" - Nederlands: \"netwerk\"\nItaliano: \"cittadina\" - Nederlands: \"nederzetting\"\nItaliano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"dito\" - Nederlands: \"",
+        "target": "['middelvinger', 'the finger', 'digit', 'Digit', 'vinger', 'teen', 'cijfer', 'kleine teen', 'tenen', 'kom nou']",
+        "word original": "finger"
+    },
+    "['pesce', 'Pisces']": {
+        "prompt": "Italiano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"pollame\" - Nederlands: \"gevogelte\"\nItaliano: \"bagno\" - Nederlands: \"baden\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"pesce\" - Nederlands: \"",
+        "target": "['vissen', 'vis', 'Pisces']",
+        "word original": "fish"
+    },
+    "['bandiera', 'insegna']": {
+        "prompt": "Italiano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"torta\" - Nederlands: \"cake\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"formaggio\" - Nederlands: \"kaas\"\nItaliano: \"calze\" - Nederlands: \"sok\"\nItaliano: \"bandiera\" - Nederlands: \"",
+        "target": "['vaan', 'vlag']",
+        "word original": "flag"
+    },
+    "['valle', 'vallata', 'conca']": {
+        "prompt": "Italiano: \"bicicletta\" - Nederlands: \"fiets\"\nItaliano: \"isola\" - Nederlands: \"eiland\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"vite\" - Nederlands: \"Vitis vinifera\"\nItaliano: \"valle\" - Nederlands: \"",
+        "target": "['dal', 'vallei']",
+        "word original": "floor"
+    },
+    "['mosca', 'Ditteri', 'Diptera']": {
+        "prompt": "Italiano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"veliero\" - Nederlands: \"zeilschip\"\nItaliano: \"ape\" - Nederlands: \"bij\"\nItaliano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"minolo\" - Nederlands: \"kleine teen\"\nItaliano: \"mosca\" - Nederlands: \"",
+        "target": "['vlieg', 'tweevleugeligen']",
+        "word original": "fly"
+    },
+    "['piede', 'base', 'fondazione', 'fondazioni', 'piedistallo', 'piedestallo', 'sottofondo']": {
+        "prompt": "Italiano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"cittadina\" - Nederlands: \"nederzetting\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"unit\u00e0 militare\" - Nederlands: \"militaire eenheid\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"piede\" - Nederlands: \"",
+        "target": "['Engelse voet', 'voeten', 'voet', 'poot', 'pootje', 'fundament', 'basis', 'fundering', 'grondvesting', 'grondslag', 'grondvest', 'bedding']",
+        "word original": "foot"
+    },
+    "['forchetta']": {
+        "prompt": "Italiano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"bocca\" - Nederlands: \"passage\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"gonna\" - Nederlands: \"rok\"\nItaliano: \"lavello\" - Nederlands: \"lavabo\"\nItaliano: \"forchetta\" - Nederlands: \"",
+        "target": "['vork', 'splitsing']",
+        "word original": "fork"
+    },
+    "['pollame', 'volatile', 'Galloanserae']": {
+        "prompt": "Italiano: \"tazza\" - Nederlands: \"toilet\"\nItaliano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"economia\" - Nederlands: \"economie\"\nItaliano: \"pollame\" - Nederlands: \"",
+        "target": "['gevogelte', 'pluimvee', 'Galloanserae', 'hoen', 'huishen', 'hoentje', 'hen', 'kip']",
+        "word original": "fowl"
+    },
+    "['fisiologia umana', 'corpo umano', 'figura', 'ossatura', 'forma', 'scheletro', 'fisico', 'sagoma', 'carne']": {
+        "prompt": "Italiano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"minolo\" - Nederlands: \"kleine teen\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"barbula\" - Nederlands: \"pluim\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"fisiologia umana\" - Nederlands: \"",
+        "target": "['menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']",
+        "word original": "frame"
+    },
+    "['giardino', 'cortile']": {
+        "prompt": "Italiano: \"tetto\" - Nederlands: \"dak\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"naso\" - Nederlands: \"neus\"\nItaliano: \"giardino\" - Nederlands: \"",
+        "target": "['tuin', 'hof', 'erf', 'werf', 'park']",
+        "word original": "garden"
+    },
+    "['ragazza', 'signorinella', 'signorina', 'giovane', 'madamigella', 'fidanzata', 'innamorata', 'bella']": {
+        "prompt": "Italiano: \"uccello\" - Nederlands: \"vogel\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"giardino\" - Nederlands: \"tuin\"\nItaliano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"ragazza\" - Nederlands: \"",
+        "target": "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw', 'vriendin', 'vriendinnetje', 'grietje']",
+        "word original": "girl"
+    },
+    "['guanto', 'preservativo', 'condom', 'profilattico']": {
+        "prompt": "Italiano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"valle\" - Nederlands: \"dal\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"guanto\" - Nederlands: \"",
+        "target": "['condoom', 'kapotje', 'rubbertje', 'regenjasje', 'capotje', 'sok', 'ballon', 'overjas', 'handschoen', 'want']",
+        "word original": "glove"
+    },
+    "['capra', 'capra domestica', 'Capra hircus']": {
+        "prompt": "Italiano: \"nodo\" - Nederlands: \"knoop\"\nItaliano: \"lavello\" - Nederlands: \"lavabo\"\nItaliano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"punizione corporale\" - Nederlands: \"lijfstraf\"\nItaliano: \"capra\" - Nederlands: \"",
+        "target": "['geit', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['arma da fuoco', 'arma balistica', 'pistola']": {
+        "prompt": "Italiano: \"commissione\" - Nederlands: \"comit\u00e9\"\nItaliano: \"baule\" - Nederlands: \"kist\"\nItaliano: \"arancione\" - Nederlands: \"oranje\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"camicia\" - Nederlands: \"hemd\"\nItaliano: \"arma da fuoco\" - Nederlands: \"",
+        "target": "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk']",
+        "word original": "gun"
+    },
+    "['pelo', 'peluria', 'capello']": {
+        "prompt": "Italiano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"biblioteca\" - Nederlands: \"bibliotheek\"\nItaliano: \"portiera\" - Nederlands: \"poort\"\nItaliano: \"uccello\" - Nederlands: \"vogel\"\nItaliano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"pelo\" - Nederlands: \"",
+        "target": "['haar', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']",
+        "word original": "root"
+    },
+    "['martello']": {
+        "prompt": "Italiano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"seme\" - Nederlands: \"speelkaart\"\nItaliano: \"dito grosso\" - Nederlands: \"duim\"\nItaliano: \"pellicola\" - Nederlands: \"film\"\nItaliano: \"martello\" - Nederlands: \"",
+        "target": "['vuisthamer', 'hamer', 'vuist']",
+        "word original": "hammer"
+    },
+    "['mano', 'modo', 'maniera', 'stile', 'guisa', 'forma', 'modalit\u00e0', 'impronta']": {
+        "prompt": "Italiano: \"pelle\" - Nederlands: \"vel\"\nItaliano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"cerchio\" - Nederlands: \"kring\"\nItaliano: \"mano\" - Nederlands: \"",
+        "target": "['klauw', 'hand', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken', 'wijze', 'manier', 'stijl', 'wijs', 'trant', 'modus', 'mode', 'aanpak']",
+        "word original": "hand"
+    },
+    "['cappello', 'copricapo', 'chapeau', 'berretto', 'cuffietta', 'cuffia', 'berretta', 'introduzione', 'presentazione']": {
+        "prompt": "Italiano: \"funzione\" - Nederlands: \"functie\"\nItaliano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"arma da fuoco\" - Nederlands: \"geweer\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"tariffa\" - Nederlands: \"douanerechten\"\nItaliano: \"cappello\" - Nederlands: \"",
+        "target": "['hoed', 'Chapeau!', 'pet', 'klak', 'muts', 'inleiding', 'introductie']",
+        "word original": "hat"
+    },
+    "['cuore', 'cuore umano', 'Superficie diaframmatica', 'superficie diaframmatica del cuore', 'philia', 'affezione', 'affetto', 'attaccamento', 'bene', 'amore', 'centro', 'mezzo']": {
+        "prompt": "Italiano: \"pollame\" - Nederlands: \"gevogelte\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"forchetta\" - Nederlands: \"vork\"\nItaliano: \"ape\" - Nederlands: \"bij\"\nItaliano: \"vestiti\" - Nederlands: \"kledij\"\nItaliano: \"cuore\" - Nederlands: \"",
+        "target": "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid', 'kern']",
+        "word original": "pump"
+    },
+    "['scacciapensieri', 'tromba', 'corno da caccia', 'tromba militare', 'armonica', 'cornetta', 'corno']": {
+        "prompt": "Italiano: \"mano\" - Nederlands: \"klauw\"\nItaliano: \"commissione\" - Nederlands: \"comit\u00e9\"\nItaliano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"giardino\" - Nederlands: \"tuin\"\nItaliano: \"scacciapensieri\" - Nederlands: \"",
+        "target": "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']",
+        "word original": "horn"
+    },
+    "['cavallo', 'Equus ferus caballus', 'Equus caballus']": {
+        "prompt": "Italiano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"telaio della porta\" - Nederlands: \"poort\"\nItaliano: \"mosca\" - Nederlands: \"vlieg\"\nItaliano: \"pelle\" - Nederlands: \"vel\"\nItaliano: \"cavallo\" - Nederlands: \"",
+        "target": "['paard', 'peerd', 'viervoeter', 'ros']",
+        "word original": "horse"
+    },
+    "['ospedale', 'clinica', 'nosocomio', 'infermeria', 'astanteria']": {
+        "prompt": "Italiano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"secchio\" - Nederlands: \"emmer\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"casa\" - Nederlands: \"optrekje\"\nItaliano: \"ospedale\" - Nederlands: \"",
+        "target": "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']",
+        "word original": "hospital"
+    },
+    "['casa', 'domicilio', 'abitazione', 'nucleo familiare', 'famiglia', 'dimora', 'residenza', 'magione']": {
+        "prompt": "Italiano: \"calze\" - Nederlands: \"sok\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"cerchio\" - Nederlands: \"kring\"\nItaliano: \"tetto\" - Nederlands: \"dak\"\nItaliano: \"forchetta\" - Nederlands: \"vork\"\nItaliano: \"casa\" - Nederlands: \"",
+        "target": "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'huishouden', 'huisgezin', 'familie', 'huishouding', 'gezin', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte']",
+        "word original": "house"
+    },
+    "['isola']": {
+        "prompt": "Italiano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"giardino\" - Nederlands: \"tuin\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"isola\" - Nederlands: \"",
+        "target": "['eiland', 'enclave']",
+        "word original": "island"
+    },
+    "['gemma', 'pietra preziosa']": {
+        "prompt": "Italiano: \"forbici\" - Nederlands: \"schaar\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"cavallo\" - Nederlands: \"paard\"\nItaliano: \"tasca dei calzoni\" - Nederlands: \"zak\"\nItaliano: \"gemma\" - Nederlands: \"",
+        "target": "['edelsteen', 'ruwe (half)edelsteen', 'steen']",
+        "word original": "jewel"
+    },
+    "['bollitore da t\u00e8', 'bollitore', 'cucuma', 'pentola', 'caldaia']": {
+        "prompt": "Italiano: \"secchio\" - Nederlands: \"emmer\"\nItaliano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"bollitore da t\u00e8\" - Nederlands: \"",
+        "target": "['theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']",
+        "word original": "kettle"
+    },
+    "['chiave', 'tonalit\u00e0', 'sistema tonale', 'serradadi', 'chiave piatta', 'chiave inglese']": {
+        "prompt": "Italiano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"scacciapensieri\" - Nederlands: \"trompet\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"cappello\" - Nederlands: \"hoed\"\nItaliano: \"chiave\" - Nederlands: \"",
+        "target": "['tonaliteit', 'toonsoort', 'sleutel', 'toets', 'Engelse sleutel', 'steeksleutel', 'moersleutel', 'schroefsleutel', 'fietssleutel', 'moeilijk afscheid', 'verdriet', 'ruk']",
+        "word original": "key"
+    },
+    "['ginocchio']": {
+        "prompt": "Italiano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"cappotto\" - Nederlands: \"jas\"\nItaliano: \"ginocchio\" - Nederlands: \"",
+        "target": "['knie', 'knietje']",
+        "word original": "knee"
+    },
+    "['coltello', 'lama']": {
+        "prompt": "Italiano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"carcere\" - Nederlands: \"nor\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"ragazzo\" - Nederlands: \"patat\"\nItaliano: \"vestiti\" - Nederlands: \"kledij\"\nItaliano: \"coltello\" - Nederlands: \"",
+        "target": "['mes', 'kling', 'lemmet', 'lemmer', 'plaat', 'folie', 'blad']",
+        "word original": "knife"
+    },
+    "['nodo', 'Glossario botanico', 'annodamento', 'groppo', 'annodatura', 'miglio', 'miglio terrestre inglese']": {
+        "prompt": "Italiano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"bocca\" - Nederlands: \"passage\"\nItaliano: \"nervo\" - Nederlands: \"zenuw\"\nItaliano: \"minolo\" - Nederlands: \"kleine teen\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"nodo\" - Nederlands: \"",
+        "target": "['knoop', 'mijl']",
+        "word original": "knot"
+    },
+    "['foglia', 'fogliame', 'chioma']": {
+        "prompt": "Italiano: \"unghia\" - Nederlands: \"vingernagel\"\nItaliano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"stazione\" - Nederlands: \"station\"\nItaliano: \"foglia\" - Nederlands: \"",
+        "target": "['lover', 'gebladerte', 'blad', 'Laphi', 'blaadje']",
+        "word original": "leaf"
+    },
+    "['biblioteca', 'libreria']": {
+        "prompt": "Italiano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"minolo\" - Nederlands: \"kleine teen\"\nItaliano: \"goccia di pioggia\" - Nederlands: \"druppel\"\nItaliano: \"spada\" - Nederlands: \"zwaard\"\nItaliano: \"tazza\" - Nederlands: \"toilet\"\nItaliano: \"biblioteca\" - Nederlands: \"",
+        "target": "['bibliotheek', 'boekerij', 'boekenkast', 'boekenverzameling']",
+        "word original": "library"
+    },
+    "['televisione', 'video', 'tiv\u00f9', 'tele', 'tivv\u00f9', 'TV', 'televisore', 'tv', 'teleschermo']": {
+        "prompt": "Italiano: \"punizione corporale\" - Nederlands: \"lijfstraf\"\nItaliano: \"ombrello\" - Nederlands: \"paraplu\"\nItaliano: \"ponte\" - Nederlands: \"brug\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"televisione\" - Nederlands: \"",
+        "target": "['video', 'televisie', 'videotechniek', 'kijkbuis', 'beeldomroep', 'televisietoestel', 'buis', 'tv', 'televisieontvanger', 'teeveetoestel', 'beeldbuis', 'kijkdoos', 'kastje', 'televisie-ontvanger', 't.v.', 'teevee', 'treurbuis', 'kijkkast']",
+        "word original": "line"
+    },
+    "['labbro', 'labbra']": {
+        "prompt": "Italiano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"lampadina\" - Nederlands: \"gloeilamp\"\nItaliano: \"arma\" - Nederlands: \"blazonry\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"coda\" - Nederlands: \"wachtkamer\"\nItaliano: \"labbro\" - Nederlands: \"",
+        "target": "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']",
+        "word original": "lip"
+    },
+    "['riccio', 'Erinaceinae', 'riccio comune', 'Erinaceus europaeus', 'ricciolo', 'boccolo', 'Pijpenkrul', 'buccolo', 'ciuffo', 'ciocca']": {
+        "prompt": "Italiano: \"lavello\" - Nederlands: \"lavabo\"\nItaliano: \"mano\" - Nederlands: \"klauw\"\nItaliano: \"vagone\" - Nederlands: \"wagon\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"riccio\" - Nederlands: \"",
+        "target": "['egel', 'Erinaceinae', 'mol', 'stekelvarken', 'pijpenkrul', 'krul', 'Pijpenkrul', 'lok', 'haarlok', 'rotatie', 'tres']",
+        "word original": "lock"
+    },
+    "['funzione', 'funzione matematica', 'mappa', 'cerimonia', 'Cerimoniale di Stato', 'cerimoniale', 'rito']": {
+        "prompt": "Italiano: \"scimmia\" - Nederlands: \"dronkenschap\"\nItaliano: \"capra\" - Nederlands: \"geit\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"chiesa\" - Nederlands: \"kerk\"\nItaliano: \"calzino\" - Nederlands: \"sok\"\nItaliano: \"funzione\" - Nederlands: \"",
+        "target": "['functie', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie', 'ceremonie', 'plechtigheid', 'vormlijkheid']",
+        "word original": "map"
+    },
+    "['fiammifero', 'zolfanello']": {
+        "prompt": "Italiano: \"bollitore da t\u00e8\" - Nederlands: \"theeketel\"\nItaliano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"muscolo\" - Nederlands: \"spier\"\nItaliano: \"fiammifero\" - Nederlands: \"",
+        "target": "['zwavelstokje', 'lucifer']",
+        "word original": "match"
+    },
+    "['scimmia', 'sbornia', 'ebbrezza', 'ubriachezza', 'ubbriachezza', 'ebrezza', 'ciucca', 'inebriamento', 'ubriacatura', 'ubbriacatura', 'scuffia', 'sbronza', 'cotta', 'quadrumane']": {
+        "prompt": "Italiano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"forno\" - Nederlands: \"bakoven\"\nItaliano: \"lampadina\" - Nederlands: \"gloeilamp\"\nItaliano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"denti\" - Nederlands: \"gebitselement\"\nItaliano: \"scimmia\" - Nederlands: \"",
+        "target": "['dronkenschap', 'intoxicatie', 'zatheid', 'aap', 'apen']",
+        "word original": "monkey"
+    },
+    "['luna', 'lune', 'satellite naturale']": {
+        "prompt": "Italiano: \"vestiti\" - Nederlands: \"kledij\"\nItaliano: \"orecchio\" - Nederlands: \"oor\"\nItaliano: \"nodo\" - Nederlands: \"knoop\"\nItaliano: \"pellicola\" - Nederlands: \"film\"\nItaliano: \"minolo\" - Nederlands: \"kleine teen\"\nItaliano: \"luna\" - Nederlands: \"",
+        "target": "['maan', 'manen', 'wachter', 'natuurlijke maan', 'maand']",
+        "word original": "moon"
+    },
+    "['bocca', 'valico', 'passo di montagna', 'passo', 'gola', 'colle', 'porta', 'forcola', 'giogo', 'varco', 'passo montano', 'valco', 'callaia', 'sella']": {
+        "prompt": "Italiano: \"telaio della porta\" - Nederlands: \"poort\"\nItaliano: \"tetto\" - Nederlands: \"dak\"\nItaliano: \"bagno\" - Nederlands: \"baden\"\nItaliano: \"bollitore da t\u00e8\" - Nederlands: \"theeketel\"\nItaliano: \"dito grosso\" - Nederlands: \"duim\"\nItaliano: \"bocca\" - Nederlands: \"",
+        "target": "['passage', 'bergengte', 'bergpas', 'pas', 'zadel', 'mond', 'reukorgaan', 'snufferd', 'snotkoker', 'muil', 'neus']",
+        "word original": "mouth"
+    },
+    "['muscolo']": {
+        "prompt": "Italiano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"valle\" - Nederlands: \"dal\"\nItaliano: \"vite\" - Nederlands: \"Vitis vinifera\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"muscolo\" - Nederlands: \"",
+        "target": "['spier', 'spierweefsel']",
+        "word original": "muscle"
+    },
+    "['unghia']": {
+        "prompt": "Italiano: \"unit\u00e0 militare\" - Nederlands: \"militaire eenheid\"\nItaliano: \"mattone\" - Nederlands: \"klinker\"\nItaliano: \"campanello\" - Nederlands: \"Altaarschel\"\nItaliano: \"coda\" - Nederlands: \"wachtkamer\"\nItaliano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"unghia\" - Nederlands: \"",
+        "target": "['vingernagel', 'nagel']",
+        "word original": "nail"
+    },
+    "['collo', 'cervice', 'pacco', 'plico']": {
+        "prompt": "Italiano: \"serpente\" - Nederlands: \"slang\"\nItaliano: \"veliero\" - Nederlands: \"zeilschip\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"collo\" - Nederlands: \"",
+        "target": "['hals', 'nek', 'flessenhals', 'vrachtstuk', 'pakje', 'pak', 'pakket']",
+        "word original": "neck"
+    },
+    "['ago', 'agosto', 'ago ipodermico', 'lancetta', 'indice']": {
+        "prompt": "Italiano: \"mattone\" - Nederlands: \"klinker\"\nItaliano: \"memoria per computer\" - Nederlands: \"opslagmedium\"\nItaliano: \"nube\" - Nederlands: \"wolk\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"cappotto\" - Nederlands: \"jas\"\nItaliano: \"ago\" - Nederlands: \"",
+        "target": "['augustus', 'oogstmaand', 'naald', 'injectienaald', 'wijzer']",
+        "word original": "needle"
+    },
+    "['nervo', 'nerbo']": {
+        "prompt": "Italiano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"domenica\" - Nederlands: \"zondag\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"fiammifero\" - Nederlands: \"zwavelstokje\"\nItaliano: \"bollitore da t\u00e8\" - Nederlands: \"theeketel\"\nItaliano: \"nervo\" - Nederlands: \"",
+        "target": "['zenuw']",
+        "word original": "nerve"
+    },
+    "['internet', 'rete informatica', 'rete di calcolatori', 'rete', 'cyberspazio']": {
+        "prompt": "Italiano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"mosca\" - Nederlands: \"vlieg\"\nItaliano: \"arma\" - Nederlands: \"blazonry\"\nItaliano: \"mattone\" - Nederlands: \"klinker\"\nItaliano: \"internet\" - Nederlands: \"",
+        "target": "['netwerk', 'computernetwerk', 'cyberspace']",
+        "word original": "net"
+    },
+    "['naso']": {
+        "prompt": "Italiano: \"maiale\" - Nederlands: \"varken\"\nItaliano: \"calzino\" - Nederlands: \"sok\"\nItaliano: \"forchetta\" - Nederlands: \"vork\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"naso\" - Nederlands: \"",
+        "target": "['neus', 'snufferd', 'snotkoker', 'reukorgaan']",
+        "word original": "nose"
+    },
+    "['ente', 'organo', 'ufficio', 'agenzia', 'fonte', 'agenzia governativa', 'istituzione', 'organismo', 'organismo vivente', 'essere', 'essere vivente', 'creatura', 'istituto', 'entit\u00e0', 'Entity', 'presenza', 'cosa']": {
+        "prompt": "Italiano: \"coda\" - Nederlands: \"wachtkamer\"\nItaliano: \"casa\" - Nederlands: \"optrekje\"\nItaliano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"giardino\" - Nederlands: \"tuin\"\nItaliano: \"ente\" - Nederlands: \"",
+        "target": "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'zijn', 'organisme', 'organismen', 'wezen', 'sociale institutie', 'instelling', 'instituut', 'entiteit', 'wezenlijkheid', 'het wezen', 'aanwezigheid', 'Entity', 'iets']",
+        "word original": "office"
+    },
+    "['arancione', 'arancio']": {
+        "prompt": "Italiano: \"patata\" - Nederlands: \"patat\"\nItaliano: \"viso\" - Nederlands: \"tronie\"\nItaliano: \"dito grosso\" - Nederlands: \"duim\"\nItaliano: \"goccia di pioggia\" - Nederlands: \"druppel\"\nItaliano: \"funzione\" - Nederlands: \"functie\"\nItaliano: \"arancione\" - Nederlands: \"",
+        "target": "['oranje']",
+        "word original": "orange"
+    },
+    "['forno', 'panificio', 'panetteria', 'prestino', 'vapoforno']": {
+        "prompt": "Italiano: \"arma\" - Nederlands: \"blazonry\"\nItaliano: \"goccia di pioggia\" - Nederlands: \"druppel\"\nItaliano: \"bottiglia\" - Nederlands: \"fles\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"forno\" - Nederlands: \"",
+        "target": "['bakoven', 'oven', 'bakkerij']",
+        "word original": "oven"
+    },
+    "['pacco', 'insieme', 'fascio', 'fascina', 'involto', 'malloppo', 'collo', 'pacchetto', 'plico']": {
+        "prompt": "Italiano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"riccio\" - Nederlands: \"egel\"\nItaliano: \"spazzola\" - Nederlands: \"borstel\"\nItaliano: \"documento d'identit\u00e0\" - Nederlands: \"identiteitsbewijs\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"pacco\" - Nederlands: \"",
+        "target": "['pak', 'bundel', 'vrachtstuk', 'pakje', 'pakket']",
+        "word original": "parcel"
+    },
+    "['penna', 'barbula', 'piumaggio', 'piuma', 'piume']": {
+        "prompt": "Italiano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"ala\" - Nederlands: \"vleugel\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"funzione\" - Nederlands: \"functie\"\nItaliano: \"penna\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder', 'pen']",
+        "word original": "pen"
+    },
+    "['matita', 'lapis']": {
+        "prompt": "Italiano: \"domenica\" - Nederlands: \"zondag\"\nItaliano: \"stomaco\" - Nederlands: \"maag\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"matita\" - Nederlands: \"",
+        "target": "['crayon', 'potlood', 'kwastje', 'penseel']",
+        "word original": "pencil"
+    },
+    "['pellicola', 'film', 'opera cinematografica']": {
+        "prompt": "Italiano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"vestiti\" - Nederlands: \"kledij\"\nItaliano: \"commissione\" - Nederlands: \"comit\u00e9\"\nItaliano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"pellicola\" - Nederlands: \"",
+        "target": "['film', 'rolprent']",
+        "word original": "picture"
+    },
+    "['maiale', 'porco', 'sus scrofa domesticus', 'Sus', 'Sus scrofa', 'suino', 'Sus scrofa domestica', 'carne di maiale', 'carne suina']": {
+        "prompt": "Italiano: \"scimmia\" - Nederlands: \"dronkenschap\"\nItaliano: \"martello\" - Nederlands: \"vuisthamer\"\nItaliano: \"forno\" - Nederlands: \"bakoven\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"nervo\" - Nederlands: \"zenuw\"\nItaliano: \"maiale\" - Nederlands: \"",
+        "target": "['varken', 'zwijn', 'echte zwijnen', 'krulstaart', 'varkensvlees']",
+        "word original": "pig"
+    },
+    "[\"conduttura dell'acqua\", 'conduttura principale', 'acquedotto', 'tubazione', 'tubatura', 'conduttura', 'sistemi di tubazioni', 'sistema di tubazioni', 'tubo', 'condotto', 'condotta', 'canale', 'collettore']": {
+        "prompt": "Italiano: \"unghia\" - Nederlands: \"vingernagel\"\nItaliano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"economia\" - Nederlands: \"economie\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"pelle\" - Nederlands: \"vel\"\nItaliano: \"conduttura dell'acqua\" - Nederlands: \"",
+        "target": "['waterleiding', 'aquaduct', 'pijp', 'leiding', 'buis', 'leidingwerk']",
+        "word original": "pipe"
+    },
+    "['aereo', 'velivolo', 'aeromobile', 'apparecchio aereo', 'aeroplano', 'areoplano', 'apparecchio']": {
+        "prompt": "Italiano: \"scatola\" - Nederlands: \"dozen\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"collo\" - Nederlands: \"hals\"\nItaliano: \"dito\" - Nederlands: \"middelvinger\"\nItaliano: \"gemma\" - Nederlands: \"edelsteen\"\nItaliano: \"aereo\" - Nederlands: \"",
+        "target": "['toestel', 'kist', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']",
+        "word original": "plane"
+    },
+    "['aratro']": {
+        "prompt": "Italiano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"albero\" - Nederlands: \"boom\"\nItaliano: \"coda\" - Nederlands: \"wachtkamer\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"forbici\" - Nederlands: \"schaar\"\nItaliano: \"aratro\" - Nederlands: \"",
+        "target": "['ploeg']",
+        "word original": "plough"
+    },
+    "['tasca dei calzoni', 'tasca dei pantaloni', 'tasca']": {
+        "prompt": "Italiano: \"cittadina\" - Nederlands: \"nederzetting\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"scatola\" - Nederlands: \"dozen\"\nItaliano: \"seme\" - Nederlands: \"speelkaart\"\nItaliano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"tasca dei calzoni\" - Nederlands: \"",
+        "target": "['zak', 'broekzak']",
+        "word original": "pocket"
+    },
+    "['patata', 'Solanum tuberosum']": {
+        "prompt": "Italiano: \"isola\" - Nederlands: \"eiland\"\nItaliano: \"valle\" - Nederlands: \"dal\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"scaffale\" - Nederlands: \"plank\"\nItaliano: \"mosca\" - Nederlands: \"vlieg\"\nItaliano: \"patata\" - Nederlands: \"",
+        "target": "['patat', 'aardappel', 'pieper', 'knol']",
+        "word original": "potato"
+    },
+    "['carcere', 'prigione', 'galera', 'penitenziario', 'ergastolo', 'casa di detenzione', 'casa circondariale', 'casa di reclusione', 'casa di pena', 'reclusorio', 'gattabuia', 'gabbia']": {
+        "prompt": "Italiano: \"fisiologia umana\" - Nederlands: \"menselijke verrichtingsleer\"\nItaliano: \"pantaloni\" - Nederlands: \"broek\"\nItaliano: \"topo\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"carcere\" - Nederlands: \"",
+        "target": "['nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot']",
+        "word original": "prison"
+    },
+    "['binario', 'binario ferroviario', 'piattaforma']": {
+        "prompt": "Italiano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"binario\" - Nederlands: \"",
+        "target": "['rail', 'spoor', 'spoorweg', 'spoorlijn', 'spoorwegconstructie', 'platform', 'podium', 'perron', 'verhoging']",
+        "word original": "rail"
+    },
+    "['topo', 'sorcio', 'ratto', 'Mus']": {
+        "prompt": "Italiano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"orologio\" - Nederlands: \"uurwerk\"\nItaliano: \"scatola\" - Nederlands: \"dozen\"\nItaliano: \"casa\" - Nederlands: \"optrekje\"\nItaliano: \"topo\" - Nederlands: \"",
+        "target": "['muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje']",
+        "word original": "rat"
+    },
+    "['bolletta', 'fattura', 'dovuto', 'spettanza', 'conto', 'bulletta', 'quietanza', 'ricevuta', 'polizza', 'ticket', 'quietazione', 'contromarca', 'scontrino', 'ricevuta fiscale', 'quetazione']": {
+        "prompt": "Italiano: \"lavello\" - Nederlands: \"lavabo\"\nItaliano: \"fusto\" - Nederlands: \"stengel\"\nItaliano: \"carcere\" - Nederlands: \"nor\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"scatola\" - Nederlands: \"dozen\"\nItaliano: \"bolletta\" - Nederlands: \"",
+        "target": "['factuur', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening', 'kwitantie', 'inkomsten', 'bon', 'betalingsbewijs']",
+        "word original": "receipt"
+    },
+    "['punizione corporale']": {
+        "prompt": "Italiano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"letto\" - Nederlands: \"bed\"\nItaliano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"pellicola\" - Nederlands: \"film\"\nItaliano: \"punizione corporale\" - Nederlands: \"",
+        "target": "['lijfstraf']",
+        "word original": "rod"
+    },
+    "['tetto', 'copertura']": {
+        "prompt": "Italiano: \"bollitore da t\u00e8\" - Nederlands: \"theeketel\"\nItaliano: \"mano\" - Nederlands: \"klauw\"\nItaliano: \"dito\" - Nederlands: \"middelvinger\"\nItaliano: \"lampadina\" - Nederlands: \"gloeilamp\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"tetto\" - Nederlands: \"",
+        "target": "['dak']",
+        "word original": "roof"
+    },
+    "['veliero']": {
+        "prompt": "Italiano: \"documento d'identit\u00e0\" - Nederlands: \"identiteitsbewijs\"\nItaliano: \"telaio della porta\" - Nederlands: \"poort\"\nItaliano: \"memoria per computer\" - Nederlands: \"opslagmedium\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"vagone\" - Nederlands: \"wagon\"\nItaliano: \"veliero\" - Nederlands: \"",
+        "target": "['zeilschip']",
+        "word original": "sail"
+    },
+    "['universit\u00e0', 'accademia', 'scuola', 'istituto', 'academia', 'collegio', 'ateneo', 'politecnico']": {
+        "prompt": "Italiano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"dito\" - Nederlands: \"middelvinger\"\nItaliano: \"ragazza\" - Nederlands: \"meisje\"\nItaliano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"universit\u00e0\" - Nederlands: \"",
+        "target": "['universiteit', 'academie', 'school', 'genootschap', 'maatschappij', 'college', 'unief', 'universitair']",
+        "word original": "school"
+    },
+    "['forbici', 'forbice']": {
+        "prompt": "Italiano: \"cane\" - Nederlands: \"hond\"\nItaliano: \"fiammifero\" - Nederlands: \"zwavelstokje\"\nItaliano: \"commissione\" - Nederlands: \"comit\u00e9\"\nItaliano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"forbici\" - Nederlands: \"",
+        "target": "['schaar']",
+        "word original": "scissors"
+    },
+    "['vite', 'Vitis vinifera', 'pianta rampicante']": {
+        "prompt": "Italiano: \"formaggio\" - Nederlands: \"kaas\"\nItaliano: \"spada\" - Nederlands: \"zwaard\"\nItaliano: \"carcere\" - Nederlands: \"nor\"\nItaliano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"martello\" - Nederlands: \"vuisthamer\"\nItaliano: \"vite\" - Nederlands: \"",
+        "target": "['Vitis vinifera', 'wijnstok', 'klimplant', 'Klimplant', 'schroef']",
+        "word original": "screw"
+    },
+    "['seme', 'carte da gioco', 'carta da gioco', 'mazzo di carte']": {
+        "prompt": "Italiano: \"buccia di mela\" - Nederlands: \"appelschil\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"tariffa\" - Nederlands: \"douanerechten\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"ente\" - Nederlands: \"kantoor\"\nItaliano: \"seme\" - Nederlands: \"",
+        "target": "['speelkaart', 'zaad']",
+        "word original": "seed"
+    },
+    "['pecora domestica', 'ovino', 'pecora', 'ovino domestico', 'Ovis aries', 'Ovis orientalis aries']": {
+        "prompt": "Italiano: \"patata\" - Nederlands: \"patat\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"veliero\" - Nederlands: \"zeilschip\"\nItaliano: \"ponte\" - Nederlands: \"brug\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"pecora domestica\" - Nederlands: \"",
+        "target": "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']",
+        "word original": "sheep"
+    },
+    "['scaffale', 'palchetto', 'ripiano', 'mensola', 'cartelliera', 'scansia']": {
+        "prompt": "Italiano: \"ospedale\" - Nederlands: \"verpleeginrichting\"\nItaliano: \"angolo\" - Nederlands: \"hoek\"\nItaliano: \"mattone\" - Nederlands: \"klinker\"\nItaliano: \"treno passeggeri\" - Nederlands: \"trein\"\nItaliano: \"motore\" - Nederlands: \"motor\"\nItaliano: \"scaffale\" - Nederlands: \"",
+        "target": "['plank', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']",
+        "word original": "shelf"
+    },
+    "['nave', 'dirigibile', 'astronave', 'naviglio', 'bastimento', 'imbarcazione', 'barca', 'scialuppa', 'lancia', 'schifo', 'battello', 'natante', 'transatlantico', 'chiatta', 'barcone', 'vascello']": {
+        "prompt": "Italiano: \"coda\" - Nederlands: \"wachtkamer\"\nItaliano: \"sigaro\" - Nederlands: \"sigaar\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"domenica\" - Nederlands: \"zondag\"\nItaliano: \"forbici\" - Nederlands: \"schaar\"\nItaliano: \"nave\" - Nederlands: \"",
+        "target": "['schip', 'kiel', 'boot', 'vaartuig', 'watervaartuig']",
+        "word original": "ship"
+    },
+    "['camicia', 'maglia']": {
+        "prompt": "Italiano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"fisiologia umana\" - Nederlands: \"menselijke verrichtingsleer\"\nItaliano: \"bocca\" - Nederlands: \"passage\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"camicia\" - Nederlands: \"",
+        "target": "['hemd', 'shirt', 'overhemd']",
+        "word original": "shirt"
+    },
+    "['scarpa', 'calzatura']": {
+        "prompt": "Italiano: \"tetto\" - Nederlands: \"dak\"\nItaliano: \"bulbo oculare\" - Nederlands: \"oogbol\"\nItaliano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"economia\" - Nederlands: \"economie\"\nItaliano: \"scarpa\" - Nederlands: \"",
+        "target": "['schoen', 'aansteker']",
+        "word original": "tongue"
+    },
+    "['pelle', 'buccia', 'cute', 'epidermide', 'cuoio']": {
+        "prompt": "Italiano: \"forno\" - Nederlands: \"bakoven\"\nItaliano: \"ospedale\" - Nederlands: \"verpleeginrichting\"\nItaliano: \"frustino\" - Nederlands: \"zweep\"\nItaliano: \"strada\" - Nederlands: \"baan\"\nItaliano: \"isola\" - Nederlands: \"eiland\"\nItaliano: \"pelle\" - Nederlands: \"",
+        "target": "['vel', 'huid', 'skinhead', 'onderhuid', 'leder', 'lederwaren', 'leer']",
+        "word original": "skin"
+    },
+    "['gonna', 'sottana', 'gonnella']": {
+        "prompt": "Italiano: \"pesce\" - Nederlands: \"vissen\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"domenica\" - Nederlands: \"zondag\"\nItaliano: \"nodo\" - Nederlands: \"knoop\"\nItaliano: \"gonna\" - Nederlands: \"",
+        "target": "['rok']",
+        "word original": "skirt"
+    },
+    "['serpente', 'serpe', 'biscia', 'serpentes', 'colubro']": {
+        "prompt": "Italiano: \"vagone\" - Nederlands: \"wagon\"\nItaliano: \"coltello\" - Nederlands: \"mes\"\nItaliano: \"internet\" - Nederlands: \"netwerk\"\nItaliano: \"cappello\" - Nederlands: \"hoed\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"serpente\" - Nederlands: \"",
+        "target": "['slang', 'serpent', 'slangen']",
+        "word original": "snake"
+    },
+    "['calzino', 'calza', 'pedalino', 'calzetta']": {
+        "prompt": "Italiano: \"goccia di pioggia\" - Nederlands: \"druppel\"\nItaliano: \"gonna\" - Nederlands: \"rok\"\nItaliano: \"mosca\" - Nederlands: \"vlieg\"\nItaliano: \"tavola\" - Nederlands: \"tafel\"\nItaliano: \"pelo\" - Nederlands: \"haar\"\nItaliano: \"calzino\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "sock"
+    },
+    "['porifera', 'spugna']": {
+        "prompt": "Italiano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"valle\" - Nederlands: \"dal\"\nItaliano: \"porifera\" - Nederlands: \"",
+        "target": "['spons', 'sponzen', 'sponsdieren']",
+        "word original": "sponge"
+    },
+    "['cucchiaio']": {
+        "prompt": "Italiano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"forchetta\" - Nederlands: \"vork\"\nItaliano: \"matita\" - Nederlands: \"crayon\"\nItaliano: \"baule\" - Nederlands: \"kist\"\nItaliano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"cucchiaio\" - Nederlands: \"",
+        "target": "['lepel']",
+        "word original": "spoon"
+    },
+    "['sorgente', 'fonte', 'polla', 'scaturigine', 'radice', 'origine', 'provenienza']": {
+        "prompt": "Italiano: \"capra\" - Nederlands: \"geit\"\nItaliano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"naso\" - Nederlands: \"neus\"\nItaliano: \"biblioteca\" - Nederlands: \"bibliotheek\"\nItaliano: \"sorgente\" - Nederlands: \"",
+        "target": "['bron', 'wel', 'fontein', 'aanvang', 'oorsprong', 'start', 'begin', 'herkomst', 'wortel', 'origine', 'oerbron', 'kiem']",
+        "word original": "spring"
+    },
+    "['quadrato', 'ring']": {
+        "prompt": "Italiano: \"stella\" - Nederlands: \"zon\"\nItaliano: \"punizione corporale\" - Nederlands: \"lijfstraf\"\nItaliano: \"mosca\" - Nederlands: \"vlieg\"\nItaliano: \"ago\" - Nederlands: \"augustus\"\nItaliano: \"ragazzo\" - Nederlands: \"patat\"\nItaliano: \"quadrato\" - Nederlands: \"",
+        "target": "['vierkant', 'carr\u00e9', 'kwadraat', 'tweede macht']",
+        "word original": "square"
+    },
+    "['francobollo', 'francatura', 'affrancazione', 'affrancatura']": {
+        "prompt": "Italiano: \"disegno\" - Nederlands: \"afbeelding\"\nItaliano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"filo\" - Nederlands: \"garen\"\nItaliano: \"serpente\" - Nederlands: \"slang\"\nItaliano: \"baule\" - Nederlands: \"kist\"\nItaliano: \"francobollo\" - Nederlands: \"",
+        "target": "['postzegel', 'zegel', 'herenakkoord']",
+        "word original": "stamp"
+    },
+    "['stella', 'astro', 'sole', 'superstar', 'Maven', 'diva', 'intenditore', 'adepto', 'star', 'primadonna', 'cannone', 'cima', 'demonio', 'mostro', 'mago', 'fuoriclasse', 'asso', 'fenomeno', 'divo', 'celebrit\u00e0', 'vedette']": {
+        "prompt": "Italiano: \"tasca dei calzoni\" - Nederlands: \"zak\"\nItaliano: \"quadrato\" - Nederlands: \"vierkant\"\nItaliano: \"barbula\" - Nederlands: \"pluim\"\nItaliano: \"ala\" - Nederlands: \"vleugel\"\nItaliano: \"frustino\" - Nederlands: \"zweep\"\nItaliano: \"stella\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje', 'vedette', 'superster', 'expert', 'zelf-benoemde expert', 'adept', 'Maven', 'deskundige', 'zelf-benoemde specialist', 'kanjer', 'hoogvlieger', 'kei', 'topper', 'genie', 'aas', 'kraan', 'bollebof', 'licht', 'meesteres', 'knapperd', 'grootmeester', 'meester', 'crack', 'coryfee', 'virtuoos', 'meesterbrein', 'specialist', 'bolleboos', 'raspaardje', 'uitblinker', 'duivelskunstenaar', 'hoofdrolspeler']",
+        "word original": "star"
+    },
+    "['stazione', 'stazione dei treni', 'stazione ferroviaria', 'ferrovia']": {
+        "prompt": "Italiano: \"cavallo\" - Nederlands: \"paard\"\nItaliano: \"mucca\" - Nederlands: \"rundvee\"\nItaliano: \"dito\" - Nederlands: \"middelvinger\"\nItaliano: \"imbarcazione\" - Nederlands: \"boot\"\nItaliano: \"pollame\" - Nederlands: \"gevogelte\"\nItaliano: \"stazione\" - Nederlands: \"",
+        "target": "['station', 'treinstation', 'stationsgebouw', 'spoorwegstation']",
+        "word original": "station"
+    },
+    "['fusto', 'caule', 'venatura centrale', 'gambo', 'stelo', 'botte', 'barile', 'tronco', \"tronco d'albero\"]": {
+        "prompt": "Italiano: \"calzino\" - Nederlands: \"sok\"\nItaliano: \"gemma\" - Nederlands: \"edelsteen\"\nItaliano: \"finestra\" - Nederlands: \"raam\"\nItaliano: \"maiale\" - Nederlands: \"varken\"\nItaliano: \"casa\" - Nederlands: \"optrekje\"\nItaliano: \"fusto\" - Nederlands: \"",
+        "target": "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven', 'ton', 'vat', 'fust', 'vaatje', 'boomstam']",
+        "word original": "stem"
+    },
+    "['sigaro']": {
+        "prompt": "Italiano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"cuore\" - Nederlands: \"hart\"\nItaliano: \"isola\" - Nederlands: \"eiland\"\nItaliano: \"pesce\" - Nederlands: \"vissen\"\nItaliano: \"dito\" - Nederlands: \"middelvinger\"\nItaliano: \"sigaro\" - Nederlands: \"",
+        "target": "['sigaar']",
+        "word original": "stick"
+    },
+    "['calze', 'calzino', 'calza', 'pedalino', 'calzetta']": {
+        "prompt": "Italiano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"bottiglia\" - Nederlands: \"fles\"\nItaliano: \"arco\" - Nederlands: \"boog en pijlen\"\nItaliano: \"cappello\" - Nederlands: \"hoed\"\nItaliano: \"calze\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "stocking"
+    },
+    "['stomaco', 'pancia', 'addome', 'ventre']": {
+        "prompt": "Italiano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"arresto\" - Nederlands: \"internering\"\nItaliano: \"ape\" - Nederlands: \"bij\"\nItaliano: \"osso\" - Nederlands: \"knok\"\nItaliano: \"frustino\" - Nederlands: \"zweep\"\nItaliano: \"stomaco\" - Nederlands: \"",
+        "target": "['maag', 'buik']",
+        "word original": "stomach"
+    },
+    "['memoria per computer', 'memoria', 'memoria informatica']": {
+        "prompt": "Italiano: \"ospedale\" - Nederlands: \"verpleeginrichting\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"cerchio\" - Nederlands: \"kring\"\nItaliano: \"naso\" - Nederlands: \"neus\"\nItaliano: \"piede\" - Nederlands: \"Engelse voet\"\nItaliano: \"memoria per computer\" - Nederlands: \"",
+        "target": "['opslagmedium', 'geheugen', 'computergeheugen', 'intern geheugen', 'geheugeneenheid']",
+        "word original": "store"
+    },
+    "['strada', 'itinerario', 'percorso', 'via di comunicazione', 'via', 'strada di citt\u00e0', 'strada urbana']": {
+        "prompt": "Italiano: \"stella\" - Nederlands: \"zon\"\nItaliano: \"bottiglia\" - Nederlands: \"fles\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"valle\" - Nederlands: \"dal\"\nItaliano: \"naso\" - Nederlands: \"neus\"\nItaliano: \"strada\" - Nederlands: \"",
+        "target": "['baan', 'straat', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']",
+        "word original": "street"
+    },
+    "['domenica']": {
+        "prompt": "Italiano: \"cappotto\" - Nederlands: \"jas\"\nItaliano: \"lampadina\" - Nederlands: \"gloeilamp\"\nItaliano: \"neonato\" - Nederlands: \"baby\"\nItaliano: \"dito grosso\" - Nederlands: \"duim\"\nItaliano: \"spada\" - Nederlands: \"zwaard\"\nItaliano: \"domenica\" - Nederlands: \"",
+        "target": "['zondag']",
+        "word original": "sun"
+    },
+    "['tavola', 'tavolo', 'asse']": {
+        "prompt": "Italiano: \"mento\" - Nederlands: \"kin\"\nItaliano: \"riccio\" - Nederlands: \"egel\"\nItaliano: \"unghia\" - Nederlands: \"vingernagel\"\nItaliano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"guanto\" - Nederlands: \"condoom\"\nItaliano: \"tavola\" - Nederlands: \"",
+        "target": "['tafel', 'plank', 'lat', 'board', 'houtvezelplaat', 'houtboard']",
+        "word original": "table"
+    },
+    "['coda', \"sala d'aspetto\", \"sala d'attesa\", 'fila']": {
+        "prompt": "Italiano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"coda\" - Nederlands: \"",
+        "target": "['wachtkamer', 'wachtruimte', 'wachtrij', 'wachtzaal', 'staart']",
+        "word original": "tail"
+    },
+    "['filo', 'filato', 'refe', 'cucirino', 'stringa', 'spago', 'legaccio', 'laccetto', 'fila', 'cordicella', 'raggio', 'raggi di luce', 'raggio luminoso', 'irradiazione', 'raggio di luce', 'fascio di luce', 'fascio', 'fascio luminoso', 'filo metallico', 'filo di metallo']": {
+        "prompt": "Italiano: \"porifera\" - Nederlands: \"spons\"\nItaliano: \"cavallo\" - Nederlands: \"paard\"\nItaliano: \"labbro\" - Nederlands: \"lip\"\nItaliano: \"ammortizzatore\" - Nederlands: \"schokbreker\"\nItaliano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"filo\" - Nederlands: \"",
+        "target": "['garen', 'draad', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees', 'lichtstraal', 'Lichtstraal', 'Lichtbundel', 'straal', 'stralenbundel', 'snoer', 'elektriciteitsdraad', 'ader']",
+        "word original": "thread"
+    },
+    "['gola', 'valico', 'passo di montagna', 'passo', 'colle', 'porta', 'forcola', 'giogo', 'varco', 'passo montano', 'valco', 'callaia', 'sella', 'burrone', 'gravina', 'canalone', 'forra', 'calanco', 'gorgia', 'vallone', 'stretta', 'canyon', \"can'on\", 'gozzo', 'faringe', 'strozza']": {
+        "prompt": "Italiano: \"nodo\" - Nederlands: \"knoop\"\nItaliano: \"bocca\" - Nederlands: \"passage\"\nItaliano: \"tazza\" - Nederlands: \"toilet\"\nItaliano: \"capra\" - Nederlands: \"geit\"\nItaliano: \"binario\" - Nederlands: \"rail\"\nItaliano: \"gola\" - Nederlands: \"",
+        "target": "['passage', 'bergengte', 'bergpas', 'pas', 'zadel', 'ravijn', 'kloofdal', 'kloof', 'hals', 'keel', 'gorgel', 'farynx', 'strot']",
+        "word original": "throat"
+    },
+    "['dito grosso', 'pollice', 'indice']": {
+        "prompt": "Italiano: \"aereo\" - Nederlands: \"toestel\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"unghia\" - Nederlands: \"vingernagel\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"unit\u00e0 militare\" - Nederlands: \"militaire eenheid\"\nItaliano: \"dito grosso\" - Nederlands: \"",
+        "target": "['duim']",
+        "word original": "thumb"
+    },
+    "['tariffa', 'dazio', 'retribuzione', 'quota', 'emolumento', 'onorario', 'tassa', 'retta', 'cachet', 'compenso', 'parcella', 'spettanza', 'notula', 'prezzo', 'prezzo della corsa']": {
+        "prompt": "Italiano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"carcere\" - Nederlands: \"nor\"\nItaliano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"bagno\" - Nederlands: \"baden\"\nItaliano: \"tazza\" - Nederlands: \"toilet\"\nItaliano: \"tariffa\" - Nederlands: \"",
+        "target": "['douanerechten', 'honorarium', 'prijs', 'heffing', 'gage', 'vacatie', 'inschrijvingsgeld', 'inschrijfgeld', 'collegegeld', 'vacatiegeld', 'veergeld', 'vervoersprijs', 'veerloon', 'tarief']",
+        "word original": "ticket"
+    },
+    "['minolo', 'quinto dito', 'dito del piede', 'dito', 'alluce']": {
+        "prompt": "Italiano: \"micio\" - Nederlands: \"kat\"\nItaliano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"ponte\" - Nederlands: \"brug\"\nItaliano: \"catena\" - Nederlands: \"bergrug\"\nItaliano: \"minolo\" - Nederlands: \"",
+        "target": "['kleine teen', 'tenen', 'teen', 'kom nou']",
+        "word original": "toe"
+    },
+    "['denti', 'dente', 'dente umano']": {
+        "prompt": "Italiano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"spazzola\" - Nederlands: \"borstel\"\nItaliano: \"uovo\" - Nederlands: \"ei\"\nItaliano: \"scarpa\" - Nederlands: \"schoen\"\nItaliano: \"lampadina\" - Nederlands: \"gloeilamp\"\nItaliano: \"denti\" - Nederlands: \"",
+        "target": "['gebitselement', 'tand', 'tanden', 'menselijke tand']",
+        "word original": "tooth"
+    },
+    "['cittadina', 'insediamento umano', 'villaggio', 'paese', 'borgo', 'grosso paese', 'citt\u00e0']": {
+        "prompt": "Italiano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"forbici\" - Nederlands: \"schaar\"\nItaliano: \"arancione\" - Nederlands: \"oranje\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"televisione\" - Nederlands: \"video\"\nItaliano: \"cittadina\" - Nederlands: \"",
+        "target": "['nederzetting', 'woonplaats', 'town', 'middelgrote plaats of stadje', 'plaats', 'gemeente']",
+        "word original": "town"
+    },
+    "['treno passeggeri', 'treno', 'convoglio']": {
+        "prompt": "Italiano: \"testare\" - Nederlands: \"brein\"\nItaliano: \"minolo\" - Nederlands: \"kleine teen\"\nItaliano: \"pacco\" - Nederlands: \"pak\"\nItaliano: \"portiera\" - Nederlands: \"poort\"\nItaliano: \"viso\" - Nederlands: \"tronie\"\nItaliano: \"treno passeggeri\" - Nederlands: \"",
+        "target": "['trein', 'konvooi', 'karavaan']",
+        "word original": "train"
+    },
+    "['albero', 'albore', 'arbore']": {
+        "prompt": "Italiano: \"ombrello\" - Nederlands: \"paraplu\"\nItaliano: \"portiera\" - Nederlands: \"poort\"\nItaliano: \"nave\" - Nederlands: \"schip\"\nItaliano: \"ginocchio\" - Nederlands: \"knie\"\nItaliano: \"cavallo\" - Nederlands: \"paard\"\nItaliano: \"albero\" - Nederlands: \"",
+        "target": "['boom']",
+        "word original": "tree"
+    },
+    "['pantaloni', 'brache']": {
+        "prompt": "Italiano: \"anello\" - Nederlands: \"ring\"\nItaliano: \"quadrato\" - Nederlands: \"vierkant\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"fattoria\" - Nederlands: \"boerenbedrijf\"\nItaliano: \"aratro\" - Nederlands: \"ploeg\"\nItaliano: \"pantaloni\" - Nederlands: \"",
+        "target": "['broek']",
+        "word original": "trousers"
+    },
+    "['ombrello', 'parapioggia', 'ombrellone', 'paracqua']": {
+        "prompt": "Italiano: \"imbarcazione\" - Nederlands: \"boot\"\nItaliano: \"tariffa\" - Nederlands: \"douanerechten\"\nItaliano: \"bottiglia\" - Nederlands: \"fles\"\nItaliano: \"forchetta\" - Nederlands: \"vork\"\nItaliano: \"pellicola\" - Nederlands: \"film\"\nItaliano: \"ombrello\" - Nederlands: \"",
+        "target": "['paraplu', 'regenscherm']",
+        "word original": "umbrella"
+    },
+    "['parete', 'muro']": {
+        "prompt": "Italiano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"ospedale\" - Nederlands: \"verpleeginrichting\"\nItaliano: \"quadrato\" - Nederlands: \"vierkant\"\nItaliano: \"cucchiaio\" - Nederlands: \"lepel\"\nItaliano: \"commissione\" - Nederlands: \"comit\u00e9\"\nItaliano: \"parete\" - Nederlands: \"",
+        "target": "['wand', 'muur']",
+        "word original": "wall"
+    },
+    "['bicicletta', 'bici', 'ciclo', 'bike']": {
+        "prompt": "Italiano: \"memoria per computer\" - Nederlands: \"opslagmedium\"\nItaliano: \"torta\" - Nederlands: \"cake\"\nItaliano: \"forbici\" - Nederlands: \"schaar\"\nItaliano: \"dito grosso\" - Nederlands: \"duim\"\nItaliano: \"bagno\" - Nederlands: \"baden\"\nItaliano: \"bicicletta\" - Nederlands: \"",
+        "target": "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros']",
+        "word original": "wheel"
+    },
+    "['frustino', 'frusta', 'sferza', 'nerbo', 'staffile', 'scudiscio']": {
+        "prompt": "Italiano: \"conduttura dell'acqua\" - Nederlands: \"waterleiding\"\nItaliano: \"gola\" - Nederlands: \"passage\"\nItaliano: \"bolletta\" - Nederlands: \"factuur\"\nItaliano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"unit\u00e0 militare\" - Nederlands: \"militaire eenheid\"\nItaliano: \"frustino\" - Nederlands: \"",
+        "target": "['zweep']",
+        "word original": "whip"
+    },
+    "['finestra', 'davanzale', 'bordo della finestra', 'davanzale della finestra']": {
+        "prompt": "Italiano: \"verme\" - Nederlands: \"worm\"\nItaliano: \"francobollo\" - Nederlands: \"postzegel\"\nItaliano: \"chiave\" - Nederlands: \"tonaliteit\"\nItaliano: \"pelle\" - Nederlands: \"vel\"\nItaliano: \"pecora domestica\" - Nederlands: \"schaap\"\nItaliano: \"finestra\" - Nederlands: \"",
+        "target": "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje']",
+        "word original": "window"
+    },
+    "['ala', 'entusiasmo', 'amore', 'esaltazione', 'eccitazione', 'trasporto', 'invasamento', 'foga', 'infervoramento', 'empito', 'slancio', 'impeto']": {
+        "prompt": "Italiano: \"telaio della porta\" - Nederlands: \"poort\"\nItaliano: \"ospedale\" - Nederlands: \"verpleeginrichting\"\nItaliano: \"carcere\" - Nederlands: \"nor\"\nItaliano: \"formica\" - Nederlands: \"mier\"\nItaliano: \"tenda\" - Nederlands: \"biertent\"\nItaliano: \"ala\" - Nederlands: \"",
+        "target": "['vleugel', 'vlerk', 'wiek', 'enthousiasme', 'levendigheid', 'ijver', 'begeestering', 'elan', 'vuur', 'gloed', 'geestdrift']",
+        "word original": "wing"
+    },
+    "['verme', 'bruco', 'baco', 'eruca', 'bigatto', 'vermo']": {
+        "prompt": "Italiano: \"sorgente\" - Nederlands: \"bron\"\nItaliano: \"nodo\" - Nederlands: \"knoop\"\nItaliano: \"unghia\" - Nederlands: \"vingernagel\"\nItaliano: \"ragazzo\" - Nederlands: \"patat\"\nItaliano: \"riccio\" - Nederlands: \"egel\"\nItaliano: \"verme\" - Nederlands: \"",
+        "target": "['worm', 'pier', 'wormen', 'regenworm', 'aardworm', 'wurm']",
+        "word original": "worm"
+    }
+}

@@ -1,0 +1,882 @@
+{
+    "['angle', 'adjacent angle', 'supplementary angles', 'Complementary angles', 'vertically opposite angle theorem', 'vertical angles']": {
+        "prompt": "English: \"square\" - Eesti: \"v\u00e4ljak\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"scissors\" - Eesti: \"k\u00e4\u00e4rid\"\nEnglish: \"angle\" - Eesti: \"",
+        "target": "['nurk', 'Nurk']",
+        "word original": "angle"
+    },
+    "['ant', 'emmet', 'pismire', 'Formicidae']": {
+        "prompt": "English: \"church\" - Eesti: \"kirik\"\nEnglish: \"neck\" - Eesti: \"N\u00e4kk\"\nEnglish: \"jail\" - Eesti: \"vangla\"\nEnglish: \"dog\" - Eesti: \"koer\"\nEnglish: \"bottle\" - Eesti: \"pudel\"\nEnglish: \"ant\" - Eesti: \"",
+        "target": "['sipelgas', 'sipelglased', 'Sipelglased']",
+        "word original": "ant"
+    },
+    "['apple peel', 'apple']": {
+        "prompt": "English: \"thread\" - Eesti: \"kedrus\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"orangeness\" - Eesti: \"oran\u017e\"\nEnglish: \"nut\" - Eesti: \"munandid\"\nEnglish: \"corporal punishment\" - Eesti: \"ihunuhtlus\"\nEnglish: \"apple peel\" - Eesti: \"",
+        "target": "['\u00f5un']",
+        "word original": "apple"
+    },
+    "['arch']": {
+        "prompt": "English: \"clock\" - Eesti: \"kell\"\nEnglish: \"parcel\" - Eesti: \"pakk\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"human foot\" - Eesti: \"Labajalg\"\nEnglish: \"brush\" - Eesti: \"Hari\"\nEnglish: \"arch\" - Eesti: \"",
+        "target": "['Kaar', 'kaar']",
+        "word original": "arch"
+    },
+    "['weapon', 'weapon system', 'arm', 'horn']": {
+        "prompt": "English: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"nut\" - Eesti: \"munandid\"\nEnglish: \"umbrella\" - Eesti: \"vihmavari\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"house\" - Eesti: \"hoone\"\nEnglish: \"weapon\" - Eesti: \"",
+        "target": "['relv', 'Relv', 'Sarved', 'sarved']",
+        "word original": "arm"
+    },
+    "['armed forces', 'military', 'force', 'military unit', 'military force', 'war machine', 'armed services', 'military machine']": {
+        "prompt": "English: \"watch\" - Eesti: \"k\u00e4ekell\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"seed\" - Eesti: \"seeme\"\nEnglish: \"fish\" - Eesti: \"kala\"\nEnglish: \"finger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEnglish: \"armed forces\" - Eesti: \"",
+        "target": "['relvaj\u00f5ud', 's\u00f5jav\u00e4gi']",
+        "word original": "army"
+    },
+    "['baby', 'infaneto', 'infant', 'babe']": {
+        "prompt": "English: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"cow\" - Eesti: \"veised\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"stamp\" - Eesti: \"postmark\"\nEnglish: \"bed\" - Eesti: \"voodi\"\nEnglish: \"baby\" - Eesti: \"",
+        "target": "['v\u00e4ikelaps', 'beebi', 'Imik', 'imik']",
+        "word original": "baby"
+    },
+    "['ring', 'band', 'gang', 'pack', 'mob', 'boxing ring']": {
+        "prompt": "English: \"shelf\" - Eesti: \"Riiul\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"sill\" - Eesti: \"aken\"\nEnglish: \"skin\" - Eesti: \"nahk\"\nEnglish: \"bath\" - Eesti: \"vannituba\"\nEnglish: \"ring\" - Eesti: \"",
+        "target": "['s\u00f5rmus', 'bande', 'J\u00f5uk']",
+        "word original": "ring"
+    },
+    "['sink', 'swallet', 'doline', 'sinkhole', 'shake hole', 'cenote', 'sink hole', 'swallow hole', 'shakehole', 'basin', 'kitchen sink']": {
+        "prompt": "English: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"ship\" - Eesti: \"laev\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"sink\" - Eesti: \"",
+        "target": "['kurisu', 'kraanikauss', 'bassein', 'Bassein', 'valamu']",
+        "word original": "basin"
+    },
+    "['bath', 'restroom', 'bathroom']": {
+        "prompt": "English: \"bell\" - Eesti: \"kell\"\nEnglish: \"weapon\" - Eesti: \"relv\"\nEnglish: \"apple peel\" - Eesti: \"\u00f5un\"\nEnglish: \"neck\" - Eesti: \"N\u00e4kk\"\nEnglish: \"hen's egg\" - Eesti: \"muna\"\nEnglish: \"bath\" - Eesti: \"",
+        "target": "['vannituba']",
+        "word original": "bath"
+    },
+    "['bed']": {
+        "prompt": "English: \"gate\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"mouth\" - Eesti: \"suu\"\nEnglish: \"bed\" - Eesti: \"",
+        "target": "['voodi']",
+        "word original": "bed"
+    },
+    "['bee', 'Anthophila']": {
+        "prompt": "English: \"garden\" - Eesti: \"aed\"\nEnglish: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"human body\" - Eesti: \"inimf\u00fcsioloogia\"\nEnglish: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"bee\" - Eesti: \"",
+        "target": "['mesilane', 'Mesilased']",
+        "word original": "bee"
+    },
+    "['bell', 'buzzer', 'doorbell']": {
+        "prompt": "English: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"potato\" - Eesti: \"kartul\"\nEnglish: \"lock\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"bell\" - Eesti: \"",
+        "target": "['kell', 'uksekell']",
+        "word original": "bell"
+    },
+    "['bird', 'Eu-']": {
+        "prompt": "English: \"tail\" - Eesti: \"istmik\"\nEnglish: \"comb\" - Eesti: \"kamm\"\nEnglish: \"bell\" - Eesti: \"kell\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"armed forces\" - Eesti: \"relvaj\u00f5ud\"\nEnglish: \"bird\" - Eesti: \"",
+        "target": "['lind', 'linnud']",
+        "word original": "bird"
+    },
+    "['sword', 'brand', 'steel', 'blade']": {
+        "prompt": "English: \"comb\" - Eesti: \"kamm\"\nEnglish: \"church\" - Eesti: \"kirik\"\nEnglish: \"spoon\" - Eesti: \"lusikas\"\nEnglish: \"umbrella\" - Eesti: \"vihmavari\"\nEnglish: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"sword\" - Eesti: \"",
+        "target": "['m\u00f5\u00f5k']",
+        "word original": "blade"
+    },
+    "['committee', 'commission']": {
+        "prompt": "English: \"hair\" - Eesti: \"karv\"\nEnglish: \"sill\" - Eesti: \"aken\"\nEnglish: \"Sunday\" - Eesti: \"p\u00fchap\u00e4ev\"\nEnglish: \"hammer\" - Eesti: \"heroiin\"\nEnglish: \"brake\" - Eesti: \"pidur\"\nEnglish: \"committee\" - Eesti: \"",
+        "target": "['komitee', 'komisjon']",
+        "word original": "board"
+    },
+    "['boat']": {
+        "prompt": "English: \"street\" - Eesti: \"t\u00e4nav\"\nEnglish: \"nose\" - Eesti: \"nina\"\nEnglish: \"agency\" - Eesti: \"kontor\"\nEnglish: \"ring\" - Eesti: \"s\u00f5rmus\"\nEnglish: \"fork\" - Eesti: \"lisaj\u00f5gi\"\nEnglish: \"boat\" - Eesti: \"",
+        "target": "['paat']",
+        "word original": "boat"
+    },
+    "['bone', 'os']": {
+        "prompt": "English: \"boat\" - Eesti: \"paat\"\nEnglish: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"library\" - Eesti: \"raamatukogu\"\nEnglish: \"hen's egg\" - Eesti: \"muna\"\nEnglish: \"bone\" - Eesti: \"",
+        "target": "['kont', 'luu']",
+        "word original": "bone"
+    },
+    "['book']": {
+        "prompt": "English: \"cornet\" - Eesti: \"kornet\"\nEnglish: \"gate\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"dog\" - Eesti: \"koer\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"book\" - Eesti: \"",
+        "target": "['raamat']",
+        "word original": "book"
+    },
+    "['boot', 'kicking', 'kick']": {
+        "prompt": "English: \"television\" - Eesti: \"video\"\nEnglish: \"potato\" - Eesti: \"kartul\"\nEnglish: \"watch\" - Eesti: \"k\u00e4ekell\"\nEnglish: \"oven\" - Eesti: \"ahi\"\nEnglish: \"garden\" - Eesti: \"aed\"\nEnglish: \"boot\" - Eesti: \"",
+        "target": "['Saabas', 'saabas']",
+        "word original": "boot"
+    },
+    "['bottle']": {
+        "prompt": "English: \"knife\" - Eesti: \"nuga\"\nEnglish: \"chest\" - Eesti: \"Kirst\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"computer memory\" - Eesti: \"M\u00e4lu\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"bottle\" - Eesti: \"",
+        "target": "['pudel']",
+        "word original": "bottle"
+    },
+    "['boxes', 'box']": {
+        "prompt": "English: \"clothes\" - Eesti: \"riietus\"\nEnglish: \"spring\" - Eesti: \"allikas\"\nEnglish: \"brick\" - Eesti: \"tellis\"\nEnglish: \"sink\" - Eesti: \"kurisu\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"boxes\" - Eesti: \"",
+        "target": "['Kast']",
+        "word original": "box"
+    },
+    "['boy', 'heroin', 'diacetylmorphine', 'male child', 'son']": {
+        "prompt": "English: \"brake\" - Eesti: \"pidur\"\nEnglish: \"fly\" - Eesti: \"Kahetiivalised\"\nEnglish: \"skirt\" - Eesti: \"seelik\"\nEnglish: \"square\" - Eesti: \"v\u00e4ljak\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"boy\" - Eesti: \"",
+        "target": "['heroiin', 'Heroiin', 'poiss']",
+        "word original": "boy"
+    },
+    "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'managing director', 'manager', 'top dog', 'question']": {
+        "prompt": "English: \"tail\" - Eesti: \"istmik\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"jail\" - Eesti: \"vangla\"\nEnglish: \"economics\" - Eesti: \"\u00f6konoomika\"\nEnglish: \"orangeness\" - Eesti: \"oran\u017e\"\nEnglish: \"head\" - Eesti: \"",
+        "target": "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'Nous', 'vaim', 'Vaim', 'pea', 'direktor']",
+        "word original": "head"
+    },
+    "['brake', 'braking']": {
+        "prompt": "English: \"identity card\" - Eesti: \"ID-kaart\"\nEnglish: \"duct\" - Eesti: \"Akvedukt\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"bed\" - Eesti: \"voodi\"\nEnglish: \"poultry\" - Eesti: \"sulgloomad\"\nEnglish: \"brake\" - Eesti: \"",
+        "target": "['pidur', 'Pidur']",
+        "word original": "brake"
+    },
+    "['economics', 'economic science', 'political economy']": {
+        "prompt": "English: \"ship\" - Eesti: \"laev\"\nEnglish: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"fish\" - Eesti: \"kala\"\nEnglish: \"hen's egg\" - Eesti: \"muna\"\nEnglish: \"cloud\" - Eesti: \"pilv\"\nEnglish: \"economics\" - Eesti: \"",
+        "target": "['\u00f6konoomika', 'majandusteadus', 'Poliitiline \u00f6konoomia', 'poliitiline \u00f6konoomia']",
+        "word original": "branch"
+    },
+    "['brick']": {
+        "prompt": "English: \"leaf\" - Eesti: \"leht\"\nEnglish: \"knee\" - Eesti: \"p\u00f5lv\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"horse\" - Eesti: \"hobune\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"brick\" - Eesti: \"",
+        "target": "['tellis']",
+        "word original": "brick"
+    },
+    "['bridge', 'span', 'list of Roman bridges']": {
+        "prompt": "English: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"stamp\" - Eesti: \"postmark\"\nEnglish: \"network\" - Eesti: \"Internet\"\nEnglish: \"clinic\" - Eesti: \"haigla\"\nEnglish: \"ant\" - Eesti: \"sipelgas\"\nEnglish: \"bridge\" - Eesti: \"",
+        "target": "['sild']",
+        "word original": "bridge"
+    },
+    "['brush', 'scrubland', 'shrubland']": {
+        "prompt": "English: \"natural satellite\" - Eesti: \"kuu\"\nEnglish: \"bee\" - Eesti: \"mesilane\"\nEnglish: \"bed\" - Eesti: \"voodi\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"farm\" - Eesti: \"talu\"\nEnglish: \"brush\" - Eesti: \"",
+        "target": "['Hari', 'hari', 'pintsel']",
+        "word original": "brush"
+    },
+    "['bucket', 'pail', 'Pail']": {
+        "prompt": "English: \"fork\" - Eesti: \"lisaj\u00f5gi\"\nEnglish: \"human body\" - Eesti: \"inimf\u00fcsioloogia\"\nEnglish: \"drop\" - Eesti: \"pank\"\nEnglish: \"economics\" - Eesti: \"\u00f6konoomika\"\nEnglish: \"umbrella\" - Eesti: \"vihmavari\"\nEnglish: \"bucket\" - Eesti: \"",
+        "target": "['\u00c4mber', 'pang', '\u00e4mber']",
+        "word original": "bucket"
+    },
+    "['lightbulb', 'electric-light bulb', 'incandescent light bulb', 'electric light', 'electric bulb', 'bulb', 'incandescent lamp', 'light bulb']": {
+        "prompt": "English: \"street\" - Eesti: \"t\u00e4nav\"\nEnglish: \"cake\" - Eesti: \"Kook\"\nEnglish: \"ant\" - Eesti: \"sipelgas\"\nEnglish: \"watch\" - Eesti: \"k\u00e4ekell\"\nEnglish: \"fork\" - Eesti: \"lisaj\u00f5gi\"\nEnglish: \"lightbulb\" - Eesti: \"",
+        "target": "['pirn', 'elektripirn', 'lamp', 'Elektervalgustus', 'elektervalgustus', 'h\u00f5\u00f5glamp']",
+        "word original": "bulb"
+    },
+    "['button', 'curling', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"note\" - Eesti: \"paberraha\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"thread\" - Eesti: \"kedrus\"\nEnglish: \"shelf\" - Eesti: \"Riiul\"\nEnglish: \"arch\" - Eesti: \"Kaar\"\nEnglish: \"button\" - Eesti: \"",
+        "target": "['j\u00e4\u00e4keegel', 'J\u00e4\u00e4keegel', 'N\u00f6\u00f6p', 'n\u00f6\u00f6p']",
+        "word original": "button"
+    },
+    "['cake']": {
+        "prompt": "English: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"bell\" - Eesti: \"kell\"\nEnglish: \"brush\" - Eesti: \"Hari\"\nEnglish: \"valley\" - Eesti: \"org\"\nEnglish: \"cake\" - Eesti: \"",
+        "target": "['Kook', 'kook']",
+        "word original": "cake"
+    },
+    "['camera', 'photographic camera', 'still camera', 'movie camera', 'television camera', 'tv camera', 'professional video camera']": {
+        "prompt": "English: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"mouse\" - Eesti: \"Hiir\"\nEnglish: \"ear\" - Eesti: \"k\u00f5rv\"\nEnglish: \"cycle\" - Eesti: \"jalgratas\"\nEnglish: \"horse\" - Eesti: \"hobune\"\nEnglish: \"camera\" - Eesti: \"",
+        "target": "['kaamera', 'fotoaparaat', 'Kaamera']",
+        "word original": "camera"
+    },
+    "['identity card', 'I.D.', 'ID', 'identity document', 'identification card', 'card', 'ID card']": {
+        "prompt": "English: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"hand\" - Eesti: \"Kalligraafia\"\nEnglish: \"face\" - Eesti: \"Kirjastiil\"\nEnglish: \"armed forces\" - Eesti: \"relvaj\u00f5ud\"\nEnglish: \"identity card\" - Eesti: \"",
+        "target": "['ID-kaart', 'isikutunnistus']",
+        "word original": "card"
+    },
+    "['carriage', 'railroad car', 'railway carriage', 'car', 'railcar', 'railway car', 'motor coach', 'rig', 'equipage']": {
+        "prompt": "English: \"button\" - Eesti: \"j\u00e4\u00e4keegel\"\nEnglish: \"corporal punishment\" - Eesti: \"ihunuhtlus\"\nEnglish: \"screw\" - Eesti: \"kruvi\"\nEnglish: \"gun\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\nEnglish: \"valley\" - Eesti: \"org\"\nEnglish: \"carriage\" - Eesti: \"",
+        "target": "['raudtees\u00f5iduk', 'mootorvagun', 'vagun', 'Vagun', 'Mootorvagun', 't\u00f5ld', 'T\u00f5ld']",
+        "word original": "carriage"
+    },
+    "['pussy', 'domestic cat', 'kitty-cat', 'cat', 'pussycat', 'kitty', 'puss', 'true cat', 'house cat']": {
+        "prompt": "English: \"pants\" - Eesti: \"p\u00fcksid\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"tail\" - Eesti: \"istmik\"\nEnglish: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"pussy\" - Eesti: \"",
+        "target": "['kass']",
+        "word original": "cat"
+    },
+    "['cheese', 'YAMSHD']": {
+        "prompt": "English: \"bucket\" - Eesti: \"\u00c4mber\"\nEnglish: \"thumb\" - Eesti: \"p\u00f6ial\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"passenger train\" - Eesti: \"rong\"\nEnglish: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"cheese\" - Eesti: \"",
+        "target": "['juust', 's\u00f5ir']",
+        "word original": "cheese"
+    },
+    "['chest', 'breast', 'thorax', 'chest cavity', 'thoracic cavity', 'pectus']": {
+        "prompt": "English: \"economics\" - Eesti: \"\u00f6konoomika\"\nEnglish: \"cheese\" - Eesti: \"juust\"\nEnglish: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"worm\" - Eesti: \"uss\"\nEnglish: \"plume\" - Eesti: \"sulg\"\nEnglish: \"chest\" - Eesti: \"",
+        "target": "['Kirst', 'kirst', 'rinnakorv', 'rind', 'rindkere']",
+        "word original": "chest"
+    },
+    "['chin', 'mentum']": {
+        "prompt": "English: \"hen's egg\" - Eesti: \"muna\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"library\" - Eesti: \"raamatukogu\"\nEnglish: \"garden\" - Eesti: \"aed\"\nEnglish: \"chin\" - Eesti: \"",
+        "target": "['l\u00f5ug', 'L\u00f5ug']",
+        "word original": "chin"
+    },
+    "['church', 'church building']": {
+        "prompt": "English: \"oven\" - Eesti: \"ahi\"\nEnglish: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"arch\" - Eesti: \"Kaar\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"church\" - Eesti: \"",
+        "target": "['kirik']",
+        "word original": "church"
+    },
+    "['circle', 'disk', 'disc']": {
+        "prompt": "English: \"curtain\" - Eesti: \"eesriie\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"bottle\" - Eesti: \"pudel\"\nEnglish: \"circle\" - Eesti: \"",
+        "target": "['ringjoon', 'ring', 'ketas', 'Ring']",
+        "word original": "circle"
+    },
+    "['clock']": {
+        "prompt": "English: \"chest\" - Eesti: \"Kirst\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"cornet\" - Eesti: \"kornet\"\nEnglish: \"snake\" - Eesti: \"madu\"\nEnglish: \"sock\" - Eesti: \"Sokk\"\nEnglish: \"clock\" - Eesti: \"",
+        "target": "['kell']",
+        "word original": "clock"
+    },
+    "['cloud']": {
+        "prompt": "English: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"knee\" - Eesti: \"p\u00f5lv\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"skin\" - Eesti: \"nahk\"\nEnglish: \"cloud\" - Eesti: \"",
+        "target": "['pilv', 'Pilv']",
+        "word original": "cloud"
+    },
+    "['jacket', 'coat']": {
+        "prompt": "English: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"valley\" - Eesti: \"org\"\nEnglish: \"bucket\" - Eesti: \"\u00c4mber\"\nEnglish: \"parcel\" - Eesti: \"pakk\"\nEnglish: \"jacket\" - Eesti: \"",
+        "target": "['jakk', 'mantel']",
+        "word original": "coat"
+    },
+    "['taking into custody', 'arrest', 'collar', 'catch', 'apprehension', 'pinch']": {
+        "prompt": "English: \"finger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEnglish: \"movie\" - Eesti: \"film\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"human body\" - Eesti: \"inimf\u00fcsioloogia\"\nEnglish: \"taking into custody\" - Eesti: \"",
+        "target": "['Vahistamine']",
+        "word original": "collar"
+    },
+    "['comb']": {
+        "prompt": "English: \"sock\" - Eesti: \"Sokk\"\nEnglish: \"boat\" - Eesti: \"paat\"\nEnglish: \"cloud\" - Eesti: \"pilv\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"comb\" - Eesti: \"",
+        "target": "['kamm']",
+        "word original": "comb"
+    },
+    "['cow', 'cattle', 'kine', 'oxen', 'Bos taurus', 'cows', 'moo-cow']": {
+        "prompt": "English: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"poultry\" - Eesti: \"sulgloomad\"\nEnglish: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"cow\" - Eesti: \"",
+        "target": "['veised', 'veis']",
+        "word original": "cow"
+    },
+    "['cup', 'standing cup', 'cup with stem', 'drinking glass']": {
+        "prompt": "English: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"comb\" - Eesti: \"kamm\"\nEnglish: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"scissors\" - Eesti: \"k\u00e4\u00e4rid\"\nEnglish: \"bird\" - Eesti: \"lind\"\nEnglish: \"cup\" - Eesti: \"",
+        "target": "['Klaas', 'Tass', 'tass', 'klaas']",
+        "word original": "cup"
+    },
+    "['curtain', 'drapery', 'drape', 'mantle', 'pall', 'altar cloth']": {
+        "prompt": "English: \"shoe\" - Eesti: \"king\"\nEnglish: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"curtain\" - Eesti: \"",
+        "target": "['eesriie', 'kardin', 'Kardin']",
+        "word original": "curtain"
+    },
+    "['shock absorber', 'shock', 'cushion']": {
+        "prompt": "English: \"plough\" - Eesti: \"ader\"\nEnglish: \"tree\" - Eesti: \"puu\"\nEnglish: \"stomach\" - Eesti: \"k\u00f5ht\"\nEnglish: \"nose\" - Eesti: \"nina\"\nEnglish: \"watch\" - Eesti: \"k\u00e4ekell\"\nEnglish: \"shock absorber\" - Eesti: \"",
+        "target": "['amortisaator']",
+        "word original": "cushion"
+    },
+    "['dog', 'Canis familiaris', 'domestic dog', 'Canis lupus familiaris']": {
+        "prompt": "English: \"computer memory\" - Eesti: \"M\u00e4lu\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"clothes\" - Eesti: \"riietus\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"dog\" - Eesti: \"",
+        "target": "['koer', 'Canis lupus familiaris']",
+        "word original": "dog"
+    },
+    "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe']": {
+        "prompt": "English: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"finger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEnglish: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"jail\" - Eesti: \"vangla\"\nEnglish: \"door case\" - Eesti: \"",
+        "target": "['uks']",
+        "word original": "door"
+    },
+    "['gate', 'lock', 'canal lock', 'lock chamber']": {
+        "prompt": "English: \"library\" - Eesti: \"raamatukogu\"\nEnglish: \"arch\" - Eesti: \"Kaar\"\nEnglish: \"ear\" - Eesti: \"k\u00f5rv\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"committee\" - Eesti: \"komitee\"\nEnglish: \"gate\" - Eesti: \"",
+        "target": "['kanalil\u00fc\u00fcs', 'l\u00fc\u00fcs', 'L\u00fc\u00fcs', 'v\u00e4rav']",
+        "word original": "drain"
+    },
+    "['picture', 'movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture show', 'moving-picture show', 'image', 'artist', 'painting', 'painter', 'art of painting', 'drawing', 'map', 'portraiture', 'design', 'illustration', 'figure', 'pattern', 'ikon', 'icon', 'photo', 'photograph', 'exposure', 'video']": {
+        "prompt": "English: \"stem\" - Eesti: \"vars\"\nEnglish: \"bird\" - Eesti: \"lind\"\nEnglish: \"screw\" - Eesti: \"kruvi\"\nEnglish: \"oven\" - Eesti: \"ahi\"\nEnglish: \"bee\" - Eesti: \"mesilane\"\nEnglish: \"picture\" - Eesti: \"",
+        "target": "['film', 'maal', 'maalimine', 'maalikunst', 'joonistus', 'joonistamine', 'pilt', 'foto', 'fotograaf']",
+        "word original": "drawer"
+    },
+    "['clothes', 'thing', 'things', 'garments', 'garment', 'apparel', 'raiment', 'clothing', 'wearable', 'article of clothing', 'wear', 'habiliment', 'vesture', 'dress', 'wearing apparel']": {
+        "prompt": "English: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"isle\" - Eesti: \"saar\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"clothes\" - Eesti: \"",
+        "target": "['riietus', 'Riietus']",
+        "word original": "dress"
+    },
+    "['drop', 'cliff', 'drop-off', 'raindrop', 'drib', 'driblet']": {
+        "prompt": "English: \"cow\" - Eesti: \"veised\"\nEnglish: \"stomach\" - Eesti: \"k\u00f5ht\"\nEnglish: \"network\" - Eesti: \"Internet\"\nEnglish: \"identity card\" - Eesti: \"ID-kaart\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"drop\" - Eesti: \"",
+        "target": "['pank', 'tilk', 'Tilk']",
+        "word original": "drop"
+    },
+    "['ear', 'ears']": {
+        "prompt": "English: \"boat\" - Eesti: \"paat\"\nEnglish: \"note\" - Eesti: \"paberraha\"\nEnglish: \"farm\" - Eesti: \"talu\"\nEnglish: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"ear\" - Eesti: \"",
+        "target": "['k\u00f5rv']",
+        "word original": "ear"
+    },
+    "[\"hen's egg\", \"chicken's egg\", 'chicken egg', 'egg', 'eggs', 'Eggs as food', 'insect egg']": {
+        "prompt": "English: \"shoe\" - Eesti: \"king\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"clock\" - Eesti: \"kell\"\nEnglish: \"bath\" - Eesti: \"vannituba\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"hen's egg\" - Eesti: \"",
+        "target": "['muna']",
+        "word original": "egg"
+    },
+    "['motor', 'electric motor', 'engine']": {
+        "prompt": "English: \"boat\" - Eesti: \"paat\"\nEnglish: \"bath\" - Eesti: \"vannituba\"\nEnglish: \"spring\" - Eesti: \"allikas\"\nEnglish: \"church\" - Eesti: \"kirik\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"motor\" - Eesti: \"",
+        "target": "['elektrimootor', 'mootor']",
+        "word original": "engine"
+    },
+    "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"potato\" - Eesti: \"kartul\"\nEnglish: \"monkey\" - Eesti: \"ahv\"\nEnglish: \"toilet\" - Eesti: \"k\u00e4imla\"\nEnglish: \"mouse\" - Eesti: \"Hiir\"\nEnglish: \"hand\" - Eesti: \"Kalligraafia\"\nEnglish: \"eye\" - Eesti: \"",
+        "target": "['silm', 'silmamuna']",
+        "word original": "eye"
+    },
+    "['face', 'typeface', 'font', 'case', 'fount', 'human face', 'air', 'appearance', 'manner', 'demeanor', 'look', 'expression', 'mien', 'bearing', 'demeanour', 'facial expression', 'aspect']": {
+        "prompt": "English: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nEnglish: \"sill\" - Eesti: \"aken\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"stomach\" - Eesti: \"k\u00f5ht\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"face\" - Eesti: \"",
+        "target": "['Kirjastiil', 'kirjastiil', 'n\u00e4gu', 'N\u00e4gu']",
+        "word original": "face"
+    },
+    "['farm']": {
+        "prompt": "English: \"weapon\" - Eesti: \"relv\"\nEnglish: \"cheese\" - Eesti: \"juust\"\nEnglish: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"roof\" - Eesti: \"katus\"\nEnglish: \"plough\" - Eesti: \"ader\"\nEnglish: \"farm\" - Eesti: \"",
+        "target": "['talu']",
+        "word original": "farm"
+    },
+    "['plume', 'feathers', 'feather', 'plumage', 'barbule']": {
+        "prompt": "English: \"gun\" - Eesti: \"Suurt\u00fckiv\u00e4gi\"\nEnglish: \"snake\" - Eesti: \"madu\"\nEnglish: \"function\" - Eesti: \"amet\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"carriage\" - Eesti: \"raudtees\u00f5iduk\"\nEnglish: \"plume\" - Eesti: \"",
+        "target": "['sulg', 'sulestik', 'Sulestik']",
+        "word original": "feather"
+    },
+    "['finger', 'the finger']": {
+        "prompt": "English: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"motor\" - Eesti: \"elektrimootor\"\nEnglish: \"computer memory\" - Eesti: \"M\u00e4lu\"\nEnglish: \"brush\" - Eesti: \"Hari\"\nEnglish: \"sink\" - Eesti: \"kurisu\"\nEnglish: \"finger\" - Eesti: \"",
+        "target": "['Keskmise s\u00f5rme n\u00e4itamine', 's\u00f5rm', 'n\u00e4pp', 's\u00f5rmed']",
+        "word original": "finger"
+    },
+    "['fish', 'food fish', 'fish as food', 'Pisces']": {
+        "prompt": "English: \"dog\" - Eesti: \"koer\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"school\" - Eesti: \"\u00fclikool\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"fish\" - Eesti: \"",
+        "target": "['kala', 'kalad', 'Kala', 'Pisces']",
+        "word original": "fish"
+    },
+    "['flag', 'penalty', 'Penalty']": {
+        "prompt": "English: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"pencil\" - Eesti: \"pliiats\"\nEnglish: \"committee\" - Eesti: \"komitee\"\nEnglish: \"farm\" - Eesti: \"talu\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"flag\" - Eesti: \"",
+        "target": "['lipp']",
+        "word original": "flag"
+    },
+    "['valley', 'dale', 'vale']": {
+        "prompt": "English: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"sink\" - Eesti: \"kurisu\"\nEnglish: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"skin\" - Eesti: \"nahk\"\nEnglish: \"valley\" - Eesti: \"",
+        "target": "['org']",
+        "word original": "floor"
+    },
+    "['fly', 'Diptera']": {
+        "prompt": "English: \"cloud\" - Eesti: \"pilv\"\nEnglish: \"bucket\" - Eesti: \"\u00c4mber\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"drop\" - Eesti: \"pank\"\nEnglish: \"ant\" - Eesti: \"sipelgas\"\nEnglish: \"fly\" - Eesti: \"",
+        "target": "['Kahetiivalised', 'kahetiivalised']",
+        "word original": "fly"
+    },
+    "['human foot', 'foot', 'pes', 'Pes', 'Foot']": {
+        "prompt": "English: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"roof\" - Eesti: \"katus\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"human foot\" - Eesti: \"",
+        "target": "['Labajalg']",
+        "word original": "foot"
+    },
+    "['fork', 'tributary', 'feeder', 'confluent', 'affluent']": {
+        "prompt": "English: \"whip\" - Eesti: \"piits\"\nEnglish: \"parcel\" - Eesti: \"pakk\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"musculus\" - Eesti: \"lihas\"\nEnglish: \"fork\" - Eesti: \"",
+        "target": "['lisaj\u00f5gi', 'kahvel', 'Kahvel']",
+        "word original": "fork"
+    },
+    "['poultry', 'fowl', 'domestic fowl', 'Galloanserae']": {
+        "prompt": "English: \"fish\" - Eesti: \"kala\"\nEnglish: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"clinic\" - Eesti: \"haigla\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"corporal punishment\" - Eesti: \"ihunuhtlus\"\nEnglish: \"poultry\" - Eesti: \"",
+        "target": "['sulgloomad', 'kodulinnud', 'kodulind', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['human body', 'human physiology', 'build', 'figure', 'soma', 'chassis', 'form', 'anatomy', 'shape', 'frame', 'physique', 'flesh', 'material body', 'physical body', 'bod']": {
+        "prompt": "English: \"ear\" - Eesti: \"k\u00f5rv\"\nEnglish: \"lock\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"clinic\" - Eesti: \"haigla\"\nEnglish: \"function\" - Eesti: \"amet\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"human body\" - Eesti: \"",
+        "target": "['inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha']",
+        "word original": "frame"
+    },
+    "['garden']": {
+        "prompt": "English: \"orangeness\" - Eesti: \"oran\u017e\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nEnglish: \"church\" - Eesti: \"kirik\"\nEnglish: \"apple peel\" - Eesti: \"\u00f5un\"\nEnglish: \"garden\" - Eesti: \"",
+        "target": "['aed']",
+        "word original": "garden"
+    },
+    "['girl', 'young woman', 'miss', 'fille', 'missy', 'young lady', 'daughter', 'gf', 'girlfriend', 'lady friend']": {
+        "prompt": "English: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"bridge\" - Eesti: \"sild\"\nEnglish: \"worm\" - Eesti: \"uss\"\nEnglish: \"network\" - Eesti: \"Internet\"\nEnglish: \"girl\" - Eesti: \"",
+        "target": "['t\u00fcdruk', 'plika', 't\u00fctar']",
+        "word original": "girl"
+    },
+    "['glove']": {
+        "prompt": "English: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"gate\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"angle\" - Eesti: \"nurk\"\nEnglish: \"motor\" - Eesti: \"elektrimootor\"\nEnglish: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"glove\" - Eesti: \"",
+        "target": "['s\u00f5rmik', 'Kindad', 'kindad']",
+        "word original": "glove"
+    },
+    "['goat', 'domestic goat', 'caprine animal']": {
+        "prompt": "English: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"armed forces\" - Eesti: \"relvaj\u00f5ud\"\nEnglish: \"cornet\" - Eesti: \"kornet\"\nEnglish: \"goat\" - Eesti: \"",
+        "target": "['kits', 'kodukits', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['gun', 'ordnance', 'heavy weapon', 'artillery', 'firearm', 'fire arm', 'projectile weapon']": {
+        "prompt": "English: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"ring\" - Eesti: \"s\u00f5rmus\"\nEnglish: \"pants\" - Eesti: \"p\u00fcksid\"\nEnglish: \"poultry\" - Eesti: \"sulgloomad\"\nEnglish: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"gun\" - Eesti: \"",
+        "target": "['Suurt\u00fckiv\u00e4gi', 'suurt\u00fckiv\u00e4gi', 'tulirelv']",
+        "word original": "gun"
+    },
+    "['hair', 'pilus']": {
+        "prompt": "English: \"mouth\" - Eesti: \"suu\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"bucket\" - Eesti: \"\u00c4mber\"\nEnglish: \"finger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEnglish: \"hair\" - Eesti: \"",
+        "target": "['karv', 'karvad', 'juuksed']",
+        "word original": "root"
+    },
+    "['hammer', 'heroin', 'diacetylmorphine']": {
+        "prompt": "English: \"shock absorber\" - Eesti: \"amortisaator\"\nEnglish: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"leaf\" - Eesti: \"leht\"\nEnglish: \"pussy\" - Eesti: \"kass\"\nEnglish: \"valley\" - Eesti: \"org\"\nEnglish: \"hammer\" - Eesti: \"",
+        "target": "['heroiin', 'Heroiin', 'haamer', 'vasar']",
+        "word original": "hammer"
+    },
+    "['hand', 'calligraphy', 'chirography', 'penmanship', 'manus', 'mitt', 'paw', 'Manus']": {
+        "prompt": "English: \"arch\" - Eesti: \"Kaar\"\nEnglish: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"tail\" - Eesti: \"istmik\"\nEnglish: \"passenger train\" - Eesti: \"rong\"\nEnglish: \"hand\" - Eesti: \"",
+        "target": "['Kalligraafia', 'kalligraafia', 'labak\u00e4si']",
+        "word original": "hand"
+    },
+    "['hat', 'chapeau', 'lid']": {
+        "prompt": "English: \"skirt\" - Eesti: \"seelik\"\nEnglish: \"plume\" - Eesti: \"sulg\"\nEnglish: \"house\" - Eesti: \"hoone\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"jail\" - Eesti: \"vangla\"\nEnglish: \"hat\" - Eesti: \"",
+        "target": "['m\u00fcts', 'k\u00fcbar']",
+        "word original": "hat"
+    },
+    "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"hair\" - Eesti: \"karv\"\nEnglish: \"cake\" - Eesti: \"Kook\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"Sunday\" - Eesti: \"p\u00fchap\u00e4ev\"\nEnglish: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"heart\" - Eesti: \"",
+        "target": "['s\u00fcda', 'Afektsioon']",
+        "word original": "pump"
+    },
+    "['cornet', 'mouth harp', 'trump', 'juice harp', \"Jew's trump\", 'Ozark harp', 'jaw harp', \"Jew's harp\", 'trumpet', 'guimbarde', 'trumpet player', 'trumpeter', 'horn']": {
+        "prompt": "English: \"leaf\" - Eesti: \"leht\"\nEnglish: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"poultry\" - Eesti: \"sulgloomad\"\nEnglish: \"tree\" - Eesti: \"puu\"\nEnglish: \"jail\" - Eesti: \"vangla\"\nEnglish: \"cornet\" - Eesti: \"",
+        "target": "['kornet', 'parmupill', 'trompet', 'Kornet']",
+        "word original": "horn"
+    },
+    "['horse', 'Equus caballus']": {
+        "prompt": "English: \"nose\" - Eesti: \"nina\"\nEnglish: \"clothes\" - Eesti: \"riietus\"\nEnglish: \"cornet\" - Eesti: \"kornet\"\nEnglish: \"bee\" - Eesti: \"mesilane\"\nEnglish: \"wall\" - Eesti: \"sein\"\nEnglish: \"horse\" - Eesti: \"",
+        "target": "['hobune']",
+        "word original": "horse"
+    },
+    "['clinic', 'hospital', 'infirmary']": {
+        "prompt": "English: \"toes\" - Eesti: \"varvas\"\nEnglish: \"pussy\" - Eesti: \"kass\"\nEnglish: \"house\" - Eesti: \"hoone\"\nEnglish: \"spring\" - Eesti: \"allikas\"\nEnglish: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"clinic\" - Eesti: \"",
+        "target": "['haigla']",
+        "word original": "hospital"
+    },
+    "['house', 'home', 'dwelling', 'theater', 'theatre', 'playhouse', 'business firm', 'casino', 'establishment', 'firm', 'gambling casino', 'household', 'family', 'menage', 'private household', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'auditorium', 'enterprise', 'concern', 'corporation', 'partnership', 'venture', 'company']": {
+        "prompt": "English: \"pussy\" - Eesti: \"kass\"\nEnglish: \"isle\" - Eesti: \"saar\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"human foot\" - Eesti: \"Labajalg\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"house\" - Eesti: \"",
+        "target": "['hoone', 'maja', 'teatrihoone', 'kasiino', 'majapidamine', 'Majapidamine', 's\u00fcnnikodu', 'saal', 'ettev\u00f5te', 'firma']",
+        "word original": "house"
+    },
+    "['isle', 'island']": {
+        "prompt": "English: \"thumb\" - Eesti: \"p\u00f6ial\"\nEnglish: \"ship\" - Eesti: \"laev\"\nEnglish: \"pocket\" - Eesti: \"tasku\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"tail\" - Eesti: \"istmik\"\nEnglish: \"isle\" - Eesti: \"",
+        "target": "['saar']",
+        "word original": "island"
+    },
+    "['gemstone', 'gem', 'stone']": {
+        "prompt": "English: \"roof\" - Eesti: \"katus\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"carriage\" - Eesti: \"raudtees\u00f5iduk\"\nEnglish: \"monkey\" - Eesti: \"ahv\"\nEnglish: \"gemstone\" - Eesti: \"",
+        "target": "['ehtekivi', 'kalliskivi', 'v\u00e4\u00e4riskivi']",
+        "word original": "jewel"
+    },
+    "['teakettle', 'kettle', 'tea kettle', 'boiler']": {
+        "prompt": "English: \"parcel\" - Eesti: \"pakk\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"boxes\" - Eesti: \"Kast\"\nEnglish: \"committee\" - Eesti: \"komitee\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"teakettle\" - Eesti: \"",
+        "target": "['teekann']",
+        "word original": "kettle"
+    },
+    "['key', 'tonality', 'graph', 'chart', 'button', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"picture\" - Eesti: \"film\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"tail\" - Eesti: \"istmik\"\nEnglish: \"book\" - Eesti: \"raamat\"\nEnglish: \"key\" - Eesti: \"",
+        "target": "['Tonaalsus', 'tonaalsus', 'helistik', 'Helistik', 'v\u00f5ti', 'toon', 'klahv', 'V\u00f5ti', 'diagramm', 'Diagramm']",
+        "word original": "key"
+    },
+    "['knee', 'genu', 'human knee', 'knee joint', 'articulatio genus']": {
+        "prompt": "English: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"brake\" - Eesti: \"pidur\"\nEnglish: \"spoon\" - Eesti: \"lusikas\"\nEnglish: \"human foot\" - Eesti: \"Labajalg\"\nEnglish: \"wall\" - Eesti: \"sein\"\nEnglish: \"knee\" - Eesti: \"",
+        "target": "['p\u00f5lv']",
+        "word original": "knee"
+    },
+    "['knife']": {
+        "prompt": "English: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"house\" - Eesti: \"hoone\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"knee\" - Eesti: \"p\u00f5lv\"\nEnglish: \"knife\" - Eesti: \"",
+        "target": "['nuga']",
+        "word original": "knife"
+    },
+    "['knot']": {
+        "prompt": "English: \"house\" - Eesti: \"hoone\"\nEnglish: \"aeroplane\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"thumb\" - Eesti: \"p\u00f6ial\"\nEnglish: \"armed forces\" - Eesti: \"relvaj\u00f5ud\"\nEnglish: \"knot\" - Eesti: \"",
+        "target": "['s\u00f5lm', 'S\u00f5lm']",
+        "word original": "knot"
+    },
+    "['leaf', 'foliage', 'leafage', 'Laphi']": {
+        "prompt": "English: \"cycle\" - Eesti: \"jalgratas\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"screw\" - Eesti: \"kruvi\"\nEnglish: \"farm\" - Eesti: \"talu\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"leaf\" - Eesti: \"",
+        "target": "['leht', 'lehestik']",
+        "word original": "leaf"
+    },
+    "['pin', 'leg', 'legs', 'human leg', 'badge', 'fall', 'personal identification number', 'PIN number', 'Personal identification number']": {
+        "prompt": "English: \"natural satellite\" - Eesti: \"kuu\"\nEnglish: \"goat\" - Eesti: \"kits\"\nEnglish: \"cycle\" - Eesti: \"jalgratas\"\nEnglish: \"eye\" - Eesti: \"silm\"\nEnglish: \"passenger train\" - Eesti: \"rong\"\nEnglish: \"pin\" - Eesti: \"",
+        "target": "['tunnus', 'm\u00e4rk']",
+        "word original": "pin"
+    },
+    "['library']": {
+        "prompt": "English: \"street\" - Eesti: \"t\u00e4nav\"\nEnglish: \"cup\" - Eesti: \"Klaas\"\nEnglish: \"duct\" - Eesti: \"Akvedukt\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"library\" - Eesti: \"",
+        "target": "['raamatukogu']",
+        "word original": "library"
+    },
+    "['television', 'video', 'TV', 'telecasting', 'videotape recording', 'tv', 'telly', 'idiot box', 'tv set', 'television set', 'boob tube', 'google box', 'television receiver', 'goggle box']": {
+        "prompt": "English: \"brush\" - Eesti: \"Hari\"\nEnglish: \"agency\" - Eesti: \"kontor\"\nEnglish: \"jacket\" - Eesti: \"jakk\"\nEnglish: \"identity card\" - Eesti: \"ID-kaart\"\nEnglish: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"television\" - Eesti: \"",
+        "target": "['video', 'televisioon', 'teler', 'televiisor', 'Televiisor']",
+        "word original": "line"
+    },
+    "['lips', 'lip']": {
+        "prompt": "English: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"horse\" - Eesti: \"hobune\"\nEnglish: \"knot\" - Eesti: \"s\u00f5lm\"\nEnglish: \"lock\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"cake\" - Eesti: \"Kook\"\nEnglish: \"lips\" - Eesti: \"",
+        "target": "['huuled', 'Huuled']",
+        "word original": "lip"
+    },
+    "['lock', 'canal lock', 'lock chamber', 'ringlet', 'hair whorl', 'curl', 'whorl', 'wrestling lock']": {
+        "prompt": "English: \"cake\" - Eesti: \"Kook\"\nEnglish: \"skin\" - Eesti: \"nahk\"\nEnglish: \"brush\" - Eesti: \"Hari\"\nEnglish: \"ant\" - Eesti: \"sipelgas\"\nEnglish: \"hand\" - Eesti: \"Kalligraafia\"\nEnglish: \"lock\" - Eesti: \"",
+        "target": "['kanalil\u00fc\u00fcs', 'l\u00fc\u00fcs', 'L\u00fc\u00fcs', 'Pijpenkrul', 'lukk']",
+        "word original": "lock"
+    },
+    "['function', 'position', 'map', 'mapping', 'single-valued function', 'mathematical function', 'do', 'party']": {
+        "prompt": "English: \"roof\" - Eesti: \"katus\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"thread\" - Eesti: \"kedrus\"\nEnglish: \"stocking\" - Eesti: \"Sukad\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"function\" - Eesti: \"",
+        "target": "['amet', 'ametikoht', 'funktsioon', 'Pidu', 'pidu']",
+        "word original": "map"
+    },
+    "['match', 'sporting event', 'sports competition', 'competitive sport', 'high-performance sport', 'friction match', 'lucifer']": {
+        "prompt": "English: \"fly\" - Eesti: \"Kahetiivalised\"\nEnglish: \"agency\" - Eesti: \"kontor\"\nEnglish: \"bird\" - Eesti: \"lind\"\nEnglish: \"aeroplane\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEnglish: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"match\" - Eesti: \"",
+        "target": "['spordiv\u00f5istlus', 'Tippsport', 'tuletikk', 'Tuletikk', 'tikk']",
+        "word original": "match"
+    },
+    "['monkey']": {
+        "prompt": "English: \"neck\" - Eesti: \"N\u00e4kk\"\nEnglish: \"stamp\" - Eesti: \"postmark\"\nEnglish: \"television\" - Eesti: \"video\"\nEnglish: \"jacket\" - Eesti: \"jakk\"\nEnglish: \"farm\" - Eesti: \"talu\"\nEnglish: \"monkey\" - Eesti: \"",
+        "target": "['ahv', 'Ahv']",
+        "word original": "monkey"
+    },
+    "['natural satellite', 'moon', 'moons']": {
+        "prompt": "English: \"toilet\" - Eesti: \"k\u00e4imla\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"stocking\" - Eesti: \"Sukad\"\nEnglish: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nEnglish: \"dog\" - Eesti: \"koer\"\nEnglish: \"natural satellite\" - Eesti: \"",
+        "target": "['kuu', 'Planeedi kaaslane', 'planeedi kaaslane']",
+        "word original": "moon"
+    },
+    "['mouth', 'oral cavity', 'oral fissure', 'rima oris', 'buccal cavity', 'vestibule of mouth']": {
+        "prompt": "English: \"thumb\" - Eesti: \"p\u00f6ial\"\nEnglish: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"note\" - Eesti: \"paberraha\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"mouth\" - Eesti: \"",
+        "target": "['suu', 'Suu']",
+        "word original": "mouth"
+    },
+    "['musculus', 'muscle']": {
+        "prompt": "English: \"armed forces\" - Eesti: \"relvaj\u00f5ud\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"dog\" - Eesti: \"koer\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"knot\" - Eesti: \"s\u00f5lm\"\nEnglish: \"musculus\" - Eesti: \"",
+        "target": "['lihas', 'Lihas']",
+        "word original": "muscle"
+    },
+    "['fingernail', 'nail']": {
+        "prompt": "English: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"fingernail\" - Eesti: \"",
+        "target": "['k\u00fc\u00fcs', 'K\u00fc\u00fcs']",
+        "word original": "nail"
+    },
+    "['neck', 'Nixie', 'cervix', 'Cervix']": {
+        "prompt": "English: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"ring\" - Eesti: \"s\u00f5rmus\"\nEnglish: \"clock\" - Eesti: \"kell\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"fish\" - Eesti: \"kala\"\nEnglish: \"neck\" - Eesti: \"",
+        "target": "['N\u00e4kk', 'kael', 'kaelus']",
+        "word original": "neck"
+    },
+    "['needle', 'sewing needle', 'hypodermic needle']": {
+        "prompt": "English: \"skirt\" - Eesti: \"seelik\"\nEnglish: \"jail\" - Eesti: \"vangla\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"ear\" - Eesti: \"k\u00f5rv\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"needle\" - Eesti: \"",
+        "target": "['n\u00f5el', '\u00f5mblusn\u00f5elu']",
+        "word original": "needle"
+    },
+    "['nerve', 'nervus']": {
+        "prompt": "English: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"cycle\" - Eesti: \"jalgratas\"\nEnglish: \"thread\" - Eesti: \"kedrus\"\nEnglish: \"garden\" - Eesti: \"aed\"\nEnglish: \"hand\" - Eesti: \"Kalligraafia\"\nEnglish: \"nerve\" - Eesti: \"",
+        "target": "['n\u00e4rv']",
+        "word original": "nerve"
+    },
+    "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'television broadcaster', 'television network', 'mesh', 'meshwork', 'meshing', 'knitting stitch']": {
+        "prompt": "English: \"human body\" - Eesti: \"inimf\u00fcsioloogia\"\nEnglish: \"shirt\" - Eesti: \"s\u00e4rk\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"network\" - Eesti: \"",
+        "target": "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'internet', 'k\u00fcbermaailm']",
+        "word original": "net"
+    },
+    "['nose', 'olfactory organ']": {
+        "prompt": "English: \"pocket\" - Eesti: \"tasku\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"boat\" - Eesti: \"paat\"\nEnglish: \"flag\" - Eesti: \"lipp\"\nEnglish: \"nose\" - Eesti: \"",
+        "target": "['nina', 'Nina']",
+        "word original": "nose"
+    },
+    "['nut', 'ballock', 'egg cell', 'testis', 'egg', 'orchis', 'ovum', 'ball', 'testicle', 'bollock', 'bollocks']": {
+        "prompt": "English: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"school\" - Eesti: \"\u00fclikool\"\nEnglish: \"cake\" - Eesti: \"Kook\"\nEnglish: \"snake\" - Eesti: \"madu\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"nut\" - Eesti: \"",
+        "target": "['munandid', 'munand', 'Munandid', 'muna', 'mutter', 'Mutter']",
+        "word original": "nut"
+    },
+    "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'means', 'way']": {
+        "prompt": "English: \"brake\" - Eesti: \"pidur\"\nEnglish: \"thumb\" - Eesti: \"p\u00f6ial\"\nEnglish: \"stomach\" - Eesti: \"k\u00f5ht\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"skirt\" - Eesti: \"seelik\"\nEnglish: \"agency\" - Eesti: \"",
+        "target": "['kontor', 'b\u00fcroo', 'asutus', 'Kontor']",
+        "word original": "office"
+    },
+    "['orangeness', 'orange']": {
+        "prompt": "English: \"shoe\" - Eesti: \"king\"\nEnglish: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"boxes\" - Eesti: \"Kast\"\nEnglish: \"arch\" - Eesti: \"Kaar\"\nEnglish: \"duct\" - Eesti: \"Akvedukt\"\nEnglish: \"orangeness\" - Eesti: \"",
+        "target": "['oran\u017e']",
+        "word original": "orange"
+    },
+    "['oven']": {
+        "prompt": "English: \"orangeness\" - Eesti: \"oran\u017e\"\nEnglish: \"spoon\" - Eesti: \"lusikas\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"bottle\" - Eesti: \"pudel\"\nEnglish: \"brake\" - Eesti: \"pidur\"\nEnglish: \"oven\" - Eesti: \"",
+        "target": "['ahi', 'Ahi']",
+        "word original": "oven"
+    },
+    "['parcel', 'package', 'packet', 'bundle', 'share', 'portion']": {
+        "prompt": "English: \"arch\" - Eesti: \"Kaar\"\nEnglish: \"worm\" - Eesti: \"uss\"\nEnglish: \"hand\" - Eesti: \"Kalligraafia\"\nEnglish: \"tail\" - Eesti: \"istmik\"\nEnglish: \"shirt\" - Eesti: \"s\u00e4rk\"\nEnglish: \"parcel\" - Eesti: \"",
+        "target": "['pakk', 'pakett']",
+        "word original": "parcel"
+    },
+    "['pen', 'penicillin']": {
+        "prompt": "English: \"agency\" - Eesti: \"kontor\"\nEnglish: \"pencil\" - Eesti: \"pliiats\"\nEnglish: \"boxes\" - Eesti: \"Kast\"\nEnglish: \"passenger train\" - Eesti: \"rong\"\nEnglish: \"camera\" - Eesti: \"kaamera\"\nEnglish: \"pen\" - Eesti: \"",
+        "target": "['penitsilliin', 'Penitsilliin', 'sulg', 'sulepea']",
+        "word original": "pen"
+    },
+    "['pencil']": {
+        "prompt": "English: \"spring\" - Eesti: \"allikas\"\nEnglish: \"brake\" - Eesti: \"pidur\"\nEnglish: \"isle\" - Eesti: \"saar\"\nEnglish: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"pencil\" - Eesti: \"",
+        "target": "['pliiats']",
+        "word original": "pencil"
+    },
+    "['movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture', 'picture show', 'moving-picture show']": {
+        "prompt": "English: \"head\" - Eesti: \"nous\"\nEnglish: \"curtain\" - Eesti: \"eesriie\"\nEnglish: \"tree\" - Eesti: \"puu\"\nEnglish: \"camera\" - Eesti: \"kaamera\"\nEnglish: \"glove\" - Eesti: \"s\u00f5rmik\"\nEnglish: \"movie\" - Eesti: \"",
+        "target": "['film']",
+        "word original": "picture"
+    },
+    "['pig', 'boar', 'wild hog', 'wild boar', 'Sus scrofa', 'wild pig', 'hog', 'grunter', 'squealer', 'Sus', 'pork', 'porc', 'pork meat', 'policeman', 'police officer', 'policewoman', 'cop', 'officer']": {
+        "prompt": "English: \"tail\" - Eesti: \"istmik\"\nEnglish: \"hammer\" - Eesti: \"heroiin\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"worm\" - Eesti: \"uss\"\nEnglish: \"bird\" - Eesti: \"lind\"\nEnglish: \"pig\" - Eesti: \"",
+        "target": "['metssiga', 'siga', 'sigalane', 'Sus scrofa domestica', 'sealiha', 'politseinik', 'ment']",
+        "word original": "pig"
+    },
+    "['duct', 'aqueduct', 'main pipe', 'conduit', 'water main', 'main', 'pipe', 'pipage', 'piping']": {
+        "prompt": "English: \"spoon\" - Eesti: \"lusikas\"\nEnglish: \"aeroplane\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEnglish: \"flag\" - Eesti: \"lipp\"\nEnglish: \"sock\" - Eesti: \"Sokk\"\nEnglish: \"sink\" - Eesti: \"kurisu\"\nEnglish: \"duct\" - Eesti: \"",
+        "target": "['Akvedukt', 'akvedukt', 'toru', 'Torustik', 'Toru']",
+        "word original": "pipe"
+    },
+    "['aeroplane', 'aircraft', 'airplane', 'fixed-wing aircraft', 'plane']": {
+        "prompt": "English: \"boot\" - Eesti: \"Saabas\"\nEnglish: \"pants\" - Eesti: \"p\u00fcksid\"\nEnglish: \"shock absorber\" - Eesti: \"amortisaator\"\nEnglish: \"Sunday\" - Eesti: \"p\u00fchap\u00e4ev\"\nEnglish: \"glove\" - Eesti: \"s\u00f5rmik\"\nEnglish: \"aeroplane\" - Eesti: \"",
+        "target": "['\u00f5hus\u00f5iduk', '\u00d5hus\u00f5iduk', 'lennuk', 'aeroplaan']",
+        "word original": "plane"
+    },
+    "['plough', 'plow']": {
+        "prompt": "English: \"thumb\" - Eesti: \"p\u00f6ial\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"cloud\" - Eesti: \"pilv\"\nEnglish: \"stamp\" - Eesti: \"postmark\"\nEnglish: \"apple peel\" - Eesti: \"\u00f5un\"\nEnglish: \"plough\" - Eesti: \"",
+        "target": "['ader', 'Ader']",
+        "word original": "plough"
+    },
+    "['pocket', 'trouser pocket']": {
+        "prompt": "English: \"hen's egg\" - Eesti: \"muna\"\nEnglish: \"farm\" - Eesti: \"talu\"\nEnglish: \"bed\" - Eesti: \"voodi\"\nEnglish: \"bridge\" - Eesti: \"sild\"\nEnglish: \"sock\" - Eesti: \"Sokk\"\nEnglish: \"pocket\" - Eesti: \"",
+        "target": "['tasku', 'Tasku']",
+        "word original": "pocket"
+    },
+    "['toilet', 'can', 'lavatory', 'loo', 'commode', 'pot', 'throne', 'crapper', 'stool', 'potty', 'chamber pot', 'lav', 'privy', 'john', 'bathroom', 'washroom', 'restroom', 'bog', 'water closet', 'WC']": {
+        "prompt": "English: \"whip\" - Eesti: \"piits\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"spoon\" - Eesti: \"lusikas\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"stocking\" - Eesti: \"Sukad\"\nEnglish: \"toilet\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'tualett', 'Tualett']",
+        "word original": "pot"
+    },
+    "['potato', 'tater', 'spud', 'murphy', 'white potato', 'Irish potato']": {
+        "prompt": "English: \"throat\" - Eesti: \"kurk\"\nEnglish: \"gate\" - Eesti: \"kanalil\u00fc\u00fcs\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"horse\" - Eesti: \"hobune\"\nEnglish: \"potato\" - Eesti: \"",
+        "target": "['kartul', 'harilik kartul']",
+        "word original": "potato"
+    },
+    "['jail', 'prison', 'gaol', 'lockup', 'prison house', 'jailhouse', 'slammer', 'clink', 'pokey', 'poky']": {
+        "prompt": "English: \"human foot\" - Eesti: \"Labajalg\"\nEnglish: \"toes\" - Eesti: \"varvas\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"cheese\" - Eesti: \"juust\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"jail\" - Eesti: \"",
+        "target": "['vangla']",
+        "word original": "prison"
+    },
+    "['mouse', 'rat', 'Mus', 'computer mouse']": {
+        "prompt": "English: \"committee\" - Eesti: \"komitee\"\nEnglish: \"goat\" - Eesti: \"kits\"\nEnglish: \"spring\" - Eesti: \"allikas\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"tree\" - Eesti: \"puu\"\nEnglish: \"mouse\" - Eesti: \"",
+        "target": "['Hiir', 'hiir', 'arvutihiir']",
+        "word original": "rat"
+    },
+    "['note', 'banknote', 'bill', 'bank note', 'greenback', 'bank bill', \"banker's bill\", 'Federal Reserve note', 'government note', 'Greenback', 'letter', 'missive', 'receipt', 'invoice', 'account', 'commentary', 'comment']": {
+        "prompt": "English: \"valley\" - Eesti: \"org\"\nEnglish: \"stocking\" - Eesti: \"Sukad\"\nEnglish: \"ring\" - Eesti: \"s\u00f5rmus\"\nEnglish: \"armed forces\" - Eesti: \"relvaj\u00f5ud\"\nEnglish: \"goat\" - Eesti: \"kits\"\nEnglish: \"note\" - Eesti: \"",
+        "target": "['paberraha', 'kiri', 'arve', 'Kommentaar']",
+        "word original": "receipt"
+    },
+    "['corporal punishment']": {
+        "prompt": "English: \"fly\" - Eesti: \"Kahetiivalised\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"plough\" - Eesti: \"ader\"\nEnglish: \"corporal punishment\" - Eesti: \"",
+        "target": "['ihunuhtlus', 'Ihunuhtlus']",
+        "word original": "rod"
+    },
+    "['roof']": {
+        "prompt": "English: \"scissors\" - Eesti: \"k\u00e4\u00e4rid\"\nEnglish: \"computer memory\" - Eesti: \"M\u00e4lu\"\nEnglish: \"Sunday\" - Eesti: \"p\u00fchap\u00e4ev\"\nEnglish: \"flag\" - Eesti: \"lipp\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"roof\" - Eesti: \"",
+        "target": "['katus']",
+        "word original": "roof"
+    },
+    "['sailing ship', 'sail', 'sailing vessel']": {
+        "prompt": "English: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"cake\" - Eesti: \"Kook\"\nEnglish: \"plough\" - Eesti: \"ader\"\nEnglish: \"star\" - Eesti: \"t\u00e4ht\"\nEnglish: \"sailing ship\" - Eesti: \"",
+        "target": "['purjekas', 'purjelaev']",
+        "word original": "sail"
+    },
+    "['school', 'university', 'academy', 'faculty', 'staff', 'honorary society']": {
+        "prompt": "English: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"stocking\" - Eesti: \"Sukad\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"cup\" - Eesti: \"Klaas\"\nEnglish: \"school\" - Eesti: \"",
+        "target": "['\u00fclikool', 'kool', 'teaduskond', 'akadeemia']",
+        "word original": "school"
+    },
+    "['scissors', 'pair of scissors']": {
+        "prompt": "English: \"hammer\" - Eesti: \"heroiin\"\nEnglish: \"passenger train\" - Eesti: \"rong\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"carriage\" - Eesti: \"raudtees\u00f5iduk\"\nEnglish: \"face\" - Eesti: \"Kirjastiil\"\nEnglish: \"scissors\" - Eesti: \"",
+        "target": "['k\u00e4\u00e4rid', 'K\u00e4\u00e4rid']",
+        "word original": "scissors"
+    },
+    "['screw', 'wood screw']": {
+        "prompt": "English: \"knot\" - Eesti: \"s\u00f5lm\"\nEnglish: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"computer memory\" - Eesti: \"M\u00e4lu\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"duct\" - Eesti: \"Akvedukt\"\nEnglish: \"screw\" - Eesti: \"",
+        "target": "['kruvi', 'Kruvi']",
+        "word original": "screw"
+    },
+    "['seed']": {
+        "prompt": "English: \"bridge\" - Eesti: \"sild\"\nEnglish: \"knife\" - Eesti: \"nuga\"\nEnglish: \"clock\" - Eesti: \"kell\"\nEnglish: \"glove\" - Eesti: \"s\u00f5rmik\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"seed\" - Eesti: \"",
+        "target": "['seeme']",
+        "word original": "seed"
+    },
+    "['domestic sheep', 'sheep', 'ovine', 'Ovis aries', 'domesticated sheep']": {
+        "prompt": "English: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"leaf\" - Eesti: \"leht\"\nEnglish: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"bird\" - Eesti: \"lind\"\nEnglish: \"monkey\" - Eesti: \"ahv\"\nEnglish: \"domestic sheep\" - Eesti: \"",
+        "target": "['lambad', 'lammas']",
+        "word original": "sheep"
+    },
+    "['shelf']": {
+        "prompt": "English: \"parcel\" - Eesti: \"pakk\"\nEnglish: \"tail\" - Eesti: \"istmik\"\nEnglish: \"scissors\" - Eesti: \"k\u00e4\u00e4rid\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"function\" - Eesti: \"amet\"\nEnglish: \"shelf\" - Eesti: \"",
+        "target": "['Riiul', 'riiul']",
+        "word original": "shelf"
+    },
+    "['ship']": {
+        "prompt": "English: \"face\" - Eesti: \"Kirjastiil\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"pen\" - Eesti: \"penitsilliin\"\nEnglish: \"isle\" - Eesti: \"saar\"\nEnglish: \"comb\" - Eesti: \"kamm\"\nEnglish: \"ship\" - Eesti: \"",
+        "target": "['laev']",
+        "word original": "ship"
+    },
+    "['shirt']": {
+        "prompt": "English: \"hammer\" - Eesti: \"heroiin\"\nEnglish: \"pants\" - Eesti: \"p\u00fcksid\"\nEnglish: \"taking into custody\" - Eesti: \"Vahistamine\"\nEnglish: \"natural satellite\" - Eesti: \"kuu\"\nEnglish: \"television\" - Eesti: \"video\"\nEnglish: \"shirt\" - Eesti: \"",
+        "target": "['s\u00e4rk']",
+        "word original": "shirt"
+    },
+    "['shoe']": {
+        "prompt": "English: \"lightbulb\" - Eesti: \"pirn\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"note\" - Eesti: \"paberraha\"\nEnglish: \"fork\" - Eesti: \"lisaj\u00f5gi\"\nEnglish: \"marine sponge\" - Eesti: \"k\u00e4sn\"\nEnglish: \"shoe\" - Eesti: \"",
+        "target": "['king', 'kingad']",
+        "word original": "tongue"
+    },
+    "['skin', 'tegument', 'cutis', 'Cutis']": {
+        "prompt": "English: \"match\" - Eesti: \"spordiv\u00f5istlus\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"watch\" - Eesti: \"k\u00e4ekell\"\nEnglish: \"needle\" - Eesti: \"n\u00f5el\"\nEnglish: \"cloud\" - Eesti: \"pilv\"\nEnglish: \"skin\" - Eesti: \"",
+        "target": "['nahk']",
+        "word original": "skin"
+    },
+    "['skirt']": {
+        "prompt": "English: \"face\" - Eesti: \"Kirjastiil\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"school\" - Eesti: \"\u00fclikool\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"stomach\" - Eesti: \"k\u00f5ht\"\nEnglish: \"skirt\" - Eesti: \"",
+        "target": "['seelik', 'Seelik']",
+        "word original": "skirt"
+    },
+    "['snake', 'serpent', 'ophidian']": {
+        "prompt": "English: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"human body\" - Eesti: \"inimf\u00fcsioloogia\"\nEnglish: \"identity card\" - Eesti: \"ID-kaart\"\nEnglish: \"fish\" - Eesti: \"kala\"\nEnglish: \"brush\" - Eesti: \"Hari\"\nEnglish: \"snake\" - Eesti: \"",
+        "target": "['madu', 'maolised']",
+        "word original": "snake"
+    },
+    "['sock']": {
+        "prompt": "English: \"hair\" - Eesti: \"karv\"\nEnglish: \"flag\" - Eesti: \"lipp\"\nEnglish: \"school\" - Eesti: \"\u00fclikool\"\nEnglish: \"monkey\" - Eesti: \"ahv\"\nEnglish: \"sword\" - Eesti: \"m\u00f5\u00f5k\"\nEnglish: \"sock\" - Eesti: \"",
+        "target": "['Sokk', 'sokk']",
+        "word original": "sock"
+    },
+    "['marine sponge', 'sponges', 'poriferan', 'sponge', 'parazoan', 'Porifera']": {
+        "prompt": "English: \"jail\" - Eesti: \"vangla\"\nEnglish: \"camera\" - Eesti: \"kaamera\"\nEnglish: \"worm\" - Eesti: \"uss\"\nEnglish: \"potato\" - Eesti: \"kartul\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"marine sponge\" - Eesti: \"",
+        "target": "['k\u00e4sn', 'k\u00e4snad']",
+        "word original": "sponge"
+    },
+    "['spoon']": {
+        "prompt": "English: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"knot\" - Eesti: \"s\u00f5lm\"\nEnglish: \"isle\" - Eesti: \"saar\"\nEnglish: \"ear\" - Eesti: \"k\u00f5rv\"\nEnglish: \"spoon\" - Eesti: \"",
+        "target": "['lusikas', 'Lusikas']",
+        "word original": "spoon"
+    },
+    "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'season', 'time of year', 'springtime']": {
+        "prompt": "English: \"bucket\" - Eesti: \"\u00c4mber\"\nEnglish: \"skirt\" - Eesti: \"seelik\"\nEnglish: \"finger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"snake\" - Eesti: \"madu\"\nEnglish: \"spring\" - Eesti: \"",
+        "target": "['allikas', 'l\u00e4te', 'veesilm', 'sesoon', 'aastaaeg', 'hooaeg', 'aastaajad', 'kevad', 'vedru', 'Vedru']",
+        "word original": "spring"
+    },
+    "['square', 'town square', 'public square', 'foursquare', 'second power']": {
+        "prompt": "English: \"cloud\" - Eesti: \"pilv\"\nEnglish: \"knot\" - Eesti: \"s\u00f5lm\"\nEnglish: \"human body\" - Eesti: \"inimf\u00fcsioloogia\"\nEnglish: \"cup\" - Eesti: \"Klaas\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"square\" - Eesti: \"",
+        "target": "['v\u00e4ljak', 'ruut', 'Ruut']",
+        "word original": "square"
+    },
+    "['stamp', 'postage', 'postage stamp', 'seal ring', 'signet ring', 'seal']": {
+        "prompt": "English: \"wall\" - Eesti: \"sein\"\nEnglish: \"musculus\" - Eesti: \"lihas\"\nEnglish: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"street\" - Eesti: \"t\u00e4nav\"\nEnglish: \"stamp\" - Eesti: \"",
+        "target": "['postmark', 'mark', 'Pitsat', 'pitsat']",
+        "word original": "stamp"
+    },
+    "['star', 'asterisk', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']": {
+        "prompt": "English: \"cheese\" - Eesti: \"juust\"\nEnglish: \"committee\" - Eesti: \"komitee\"\nEnglish: \"pig\" - Eesti: \"metssiga\"\nEnglish: \"bridge\" - Eesti: \"sild\"\nEnglish: \"aeroplane\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEnglish: \"star\" - Eesti: \"",
+        "target": "['t\u00e4ht', 't\u00e4rn', '*', 'T\u00e4ht', 'superstaar', 'sepp', 'talent', 'adept', 'staar', 'Adept', 'kuulsus', 'filmit\u00e4ht', 'lavat\u00e4ht']",
+        "word original": "star"
+    },
+    "['stem', 'stalk', 'plant stem']": {
+        "prompt": "English: \"function\" - Eesti: \"amet\"\nEnglish: \"book\" - Eesti: \"raamat\"\nEnglish: \"hen's egg\" - Eesti: \"muna\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"stem\" - Eesti: \"",
+        "target": "['vars']",
+        "word original": "stem"
+    },
+    "['cigar']": {
+        "prompt": "English: \"key\" - Eesti: \"Tonaalsus\"\nEnglish: \"church\" - Eesti: \"kirik\"\nEnglish: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"picture\" - Eesti: \"film\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"cigar\" - Eesti: \"",
+        "target": "['Sigar', 'sigar']",
+        "word original": "stick"
+    },
+    "['stocking', 'stockings']": {
+        "prompt": "English: \"lips\" - Eesti: \"huuled\"\nEnglish: \"whip\" - Eesti: \"piits\"\nEnglish: \"neck\" - Eesti: \"N\u00e4kk\"\nEnglish: \"circle\" - Eesti: \"ringjoon\"\nEnglish: \"network\" - Eesti: \"Internet\"\nEnglish: \"stocking\" - Eesti: \"",
+        "target": "['Sukad']",
+        "word original": "stocking"
+    },
+    "['stomach', 'breadbasket', 'tummy', 'tum', 'body of stomach']": {
+        "prompt": "English: \"duct\" - Eesti: \"Akvedukt\"\nEnglish: \"bridge\" - Eesti: \"sild\"\nEnglish: \"ant\" - Eesti: \"sipelgas\"\nEnglish: \"hat\" - Eesti: \"m\u00fcts\"\nEnglish: \"pin\" - Eesti: \"tunnus\"\nEnglish: \"stomach\" - Eesti: \"",
+        "target": "['k\u00f5ht', 'magu', 'Magu']",
+        "word original": "stomach"
+    },
+    "['computer memory', 'computer storage', 'computer data storage', 'storage', 'memory', 'memory board', 'store']": {
+        "prompt": "English: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nEnglish: \"glove\" - Eesti: \"s\u00f5rmik\"\nEnglish: \"corporal punishment\" - Eesti: \"ihunuhtlus\"\nEnglish: \"committee\" - Eesti: \"komitee\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"computer memory\" - Eesti: \"",
+        "target": "['M\u00e4lu', 'm\u00e4lu', 'arvuti m\u00e4lu']",
+        "word original": "store"
+    },
+    "['street']": {
+        "prompt": "English: \"plume\" - Eesti: \"sulg\"\nEnglish: \"boat\" - Eesti: \"paat\"\nEnglish: \"knot\" - Eesti: \"s\u00f5lm\"\nEnglish: \"cigar\" - Eesti: \"Sigar\"\nEnglish: \"eye\" - Eesti: \"silm\"\nEnglish: \"street\" - Eesti: \"",
+        "target": "['t\u00e4nav']",
+        "word original": "street"
+    },
+    "['Sunday', 'Sun', \"Lord's Day\", 'Dominicus']": {
+        "prompt": "English: \"teakettle\" - Eesti: \"teekann\"\nEnglish: \"gemstone\" - Eesti: \"ehtekivi\"\nEnglish: \"wing\" - Eesti: \"tiib\"\nEnglish: \"comb\" - Eesti: \"kamm\"\nEnglish: \"weapon\" - Eesti: \"relv\"\nEnglish: \"Sunday\" - Eesti: \"",
+        "target": "['p\u00fchap\u00e4ev']",
+        "word original": "sun"
+    },
+    "['tail', 'nates', 'prat', 'fundament', 'ass cheek', 'tooshie', 'fanny', 'rear end', 'arse', 'can', 'seat', 'tush', 'hindquarters', 'derriere', 'tail end', 'hind end', 'bum', 'bottom', 'backside', 'buttocks', 'posterior', 'rump', 'butt', 'stern', 'rear', 'buns', 'butt cheek', 'ass', 'buttock', 'keister', 'behind', 'Anteversion']": {
+        "prompt": "English: \"leaf\" - Eesti: \"leht\"\nEnglish: \"flag\" - Eesti: \"lipp\"\nEnglish: \"door case\" - Eesti: \"uks\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"angle\" - Eesti: \"nurk\"\nEnglish: \"tail\" - Eesti: \"",
+        "target": "['istmik', 'Istmik', 'saba']",
+        "word original": "tail"
+    },
+    "['thread', 'yarn', 'string', 'twine']": {
+        "prompt": "English: \"hair\" - Eesti: \"karv\"\nEnglish: \"horse\" - Eesti: \"hobune\"\nEnglish: \"spring\" - Eesti: \"allikas\"\nEnglish: \"human foot\" - Eesti: \"Labajalg\"\nEnglish: \"scissors\" - Eesti: \"k\u00e4\u00e4rid\"\nEnglish: \"thread\" - Eesti: \"",
+        "target": "['kedrus', 'l\u00f5ng', 'niit', 'n\u00f6\u00f6r', 'N\u00f6\u00f6r']",
+        "word original": "thread"
+    },
+    "['throat', 'pharynx']": {
+        "prompt": "English: \"button\" - Eesti: \"j\u00e4\u00e4keegel\"\nEnglish: \"ring\" - Eesti: \"s\u00f5rmus\"\nEnglish: \"bone\" - Eesti: \"kont\"\nEnglish: \"boxes\" - Eesti: \"Kast\"\nEnglish: \"hair\" - Eesti: \"karv\"\nEnglish: \"throat\" - Eesti: \"",
+        "target": "['kurk']",
+        "word original": "throat"
+    },
+    "['thumb', 'pollex']": {
+        "prompt": "English: \"passenger train\" - Eesti: \"rong\"\nEnglish: \"television\" - Eesti: \"video\"\nEnglish: \"clinic\" - Eesti: \"haigla\"\nEnglish: \"duct\" - Eesti: \"Akvedukt\"\nEnglish: \"lips\" - Eesti: \"huuled\"\nEnglish: \"thumb\" - Eesti: \"",
+        "target": "['p\u00f6ial']",
+        "word original": "thumb"
+    },
+    "['toes', 'baby toe', 'toe', 'little toe', 'pinky toe', 'fifth toe', 'second toe', 'third toe']": {
+        "prompt": "English: \"sock\" - Eesti: \"Sokk\"\nEnglish: \"pants\" - Eesti: \"p\u00fcksid\"\nEnglish: \"potato\" - Eesti: \"kartul\"\nEnglish: \"brick\" - Eesti: \"tellis\"\nEnglish: \"curtain\" - Eesti: \"eesriie\"\nEnglish: \"toes\" - Eesti: \"",
+        "target": "['varvas']",
+        "word original": "toe"
+    },
+    "['tooth', 'teeth', 'human tooth']": {
+        "prompt": "English: \"sailing ship\" - Eesti: \"purjekas\"\nEnglish: \"house\" - Eesti: \"hoone\"\nEnglish: \"boat\" - Eesti: \"paat\"\nEnglish: \"chin\" - Eesti: \"l\u00f5ug\"\nEnglish: \"motor\" - Eesti: \"elektrimootor\"\nEnglish: \"tooth\" - Eesti: \"",
+        "target": "['Hambad', 'hammas', 'hambad']",
+        "word original": "tooth"
+    },
+    "['passenger train', 'train', 'railroad train']": {
+        "prompt": "English: \"head\" - Eesti: \"nous\"\nEnglish: \"fork\" - Eesti: \"lisaj\u00f5gi\"\nEnglish: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"pussy\" - Eesti: \"kass\"\nEnglish: \"passenger train\" - Eesti: \"",
+        "target": "['rong']",
+        "word original": "train"
+    },
+    "['tree']": {
+        "prompt": "English: \"orangeness\" - Eesti: \"oran\u017e\"\nEnglish: \"cup\" - Eesti: \"Klaas\"\nEnglish: \"ear\" - Eesti: \"k\u00f5rv\"\nEnglish: \"shirt\" - Eesti: \"s\u00e4rk\"\nEnglish: \"bird\" - Eesti: \"lind\"\nEnglish: \"tree\" - Eesti: \"",
+        "target": "['puu']",
+        "word original": "tree"
+    },
+    "['pants', 'trousers', 'pair of trousers', 'pant', 'trouser']": {
+        "prompt": "English: \"shock absorber\" - Eesti: \"amortisaator\"\nEnglish: \"angle\" - Eesti: \"nurk\"\nEnglish: \"horse\" - Eesti: \"hobune\"\nEnglish: \"bucket\" - Eesti: \"\u00c4mber\"\nEnglish: \"sink\" - Eesti: \"kurisu\"\nEnglish: \"pants\" - Eesti: \"",
+        "target": "['p\u00fcksid', 'P\u00fcksid']",
+        "word original": "trousers"
+    },
+    "['umbrella']": {
+        "prompt": "English: \"drop\" - Eesti: \"pank\"\nEnglish: \"book\" - Eesti: \"raamat\"\nEnglish: \"orangeness\" - Eesti: \"oran\u017e\"\nEnglish: \"motor\" - Eesti: \"elektrimootor\"\nEnglish: \"stocking\" - Eesti: \"Sukad\"\nEnglish: \"umbrella\" - Eesti: \"",
+        "target": "['vihmavari']",
+        "word original": "umbrella"
+    },
+    "['wall']": {
+        "prompt": "English: \"ship\" - Eesti: \"laev\"\nEnglish: \"domestic sheep\" - Eesti: \"lambad\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"nose\" - Eesti: \"nina\"\nEnglish: \"head\" - Eesti: \"nous\"\nEnglish: \"wall\" - Eesti: \"",
+        "target": "['sein', 'm\u00fc\u00fcr']",
+        "word original": "wall"
+    },
+    "['watch', 'wrist watch', 'wristwatch', 'ticker']": {
+        "prompt": "English: \"glove\" - Eesti: \"s\u00f5rmik\"\nEnglish: \"shirt\" - Eesti: \"s\u00e4rk\"\nEnglish: \"tooth\" - Eesti: \"Hambad\"\nEnglish: \"comb\" - Eesti: \"kamm\"\nEnglish: \"natural satellite\" - Eesti: \"kuu\"\nEnglish: \"watch\" - Eesti: \"",
+        "target": "['k\u00e4ekell', 'kell']",
+        "word original": "watch"
+    },
+    "['cycle', 'bicycle', 'bike', 'wheel', 'round', 'rhythm']": {
+        "prompt": "English: \"face\" - Eesti: \"Kirjastiil\"\nEnglish: \"stem\" - Eesti: \"vars\"\nEnglish: \"agency\" - Eesti: \"kontor\"\nEnglish: \"natural satellite\" - Eesti: \"kuu\"\nEnglish: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"cycle\" - Eesti: \"",
+        "target": "['jalgratas', 'ratas']",
+        "word original": "wheel"
+    },
+    "['whip']": {
+        "prompt": "English: \"parcel\" - Eesti: \"pakk\"\nEnglish: \"house\" - Eesti: \"hoone\"\nEnglish: \"sock\" - Eesti: \"Sokk\"\nEnglish: \"skin\" - Eesti: \"nahk\"\nEnglish: \"human foot\" - Eesti: \"Labajalg\"\nEnglish: \"whip\" - Eesti: \"",
+        "target": "['piits', 'Piits']",
+        "word original": "whip"
+    },
+    "['sill', 'window ledge', 'window', 'window sill', 'ledge-sill']": {
+        "prompt": "English: \"church\" - Eesti: \"kirik\"\nEnglish: \"oven\" - Eesti: \"ahi\"\nEnglish: \"stomach\" - Eesti: \"k\u00f5ht\"\nEnglish: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"cake\" - Eesti: \"Kook\"\nEnglish: \"sill\" - Eesti: \"",
+        "target": "['aken']",
+        "word original": "window"
+    },
+    "['wing']": {
+        "prompt": "English: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"shoe\" - Eesti: \"king\"\nEnglish: \"girl\" - Eesti: \"t\u00fcdruk\"\nEnglish: \"ring\" - Eesti: \"s\u00f5rmus\"\nEnglish: \"shelf\" - Eesti: \"Riiul\"\nEnglish: \"wing\" - Eesti: \"",
+        "target": "['tiib', 'Tiib']",
+        "word original": "wing"
+    },
+    "['worm', 'European dragon']": {
+        "prompt": "English: \"cup\" - Eesti: \"Klaas\"\nEnglish: \"heart\" - Eesti: \"s\u00fcda\"\nEnglish: \"nerve\" - Eesti: \"n\u00e4rv\"\nEnglish: \"umbrella\" - Eesti: \"vihmavari\"\nEnglish: \"fingernail\" - Eesti: \"k\u00fc\u00fcs\"\nEnglish: \"worm\" - Eesti: \"",
+        "target": "['uss', 'ussid', 'Ussid']",
+        "word original": "worm"
+    }
+}

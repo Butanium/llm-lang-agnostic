@@ -1,0 +1,862 @@
+{
+    "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios']": {
+        "prompt": "Espa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"estrella\" - Eesti: \"t\u00e4ht\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Eesti: \"",
+        "target": "['nurk', 'Nurk']",
+        "word original": "angle"
+    },
+    "['hormiga', 'Formicidae', 'formicidae']": {
+        "prompt": "Espa\u00f1ol: \"u\u00f1a\" - Eesti: \"k\u00fc\u00fcs\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"inodoro\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"rata\" - Eesti: \"rott\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"hormiga\" - Eesti: \"",
+        "target": "['sipelgas', 'sipelglased', 'Sipelglased']",
+        "word original": "ant"
+    },
+    "['c\u00e1scara de manzana', 'manzana']": {
+        "prompt": "Espa\u00f1ol: \"hoja\" - Eesti: \"paber\"\nEspa\u00f1ol: \"arresto\" - Eesti: \"Vahistamine\"\nEspa\u00f1ol: \"avi\u00f3n\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"econom\u00eda\" - Eesti: \"\u00f6konoomika\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"",
+        "target": "['\u00f5un']",
+        "word original": "apple"
+    },
+    "['arco', 'arco y flecha', 'chispa', 'arco el\u00e9ctrico', 'descarga el\u00e9ctrica', 'chispa el\u00e9ctrica', 'centella', 'arco voltaico']": {
+        "prompt": "Espa\u00f1ol: \"fuerza\" - Eesti: \"relvaj\u00f5ud\"\nEspa\u00f1ol: \"naranja\" - Eesti: \"oran\u017e\"\nEspa\u00f1ol: \"chica\" - Eesti: \"t\u00fcdruk\"\nEspa\u00f1ol: \"barco de vela\" - Eesti: \"purjekas\"\nEspa\u00f1ol: \"hervidor\" - Eesti: \"teekann\"\nEspa\u00f1ol: \"arco\" - Eesti: \"",
+        "target": "['vibu', 'S\u00e4delahendus', 'Kaarlahendus', 'elektrilahendus', 'kaarlahendus', 'Elektrilahendus', 's\u00e4delahendus']",
+        "word original": "arch"
+    },
+    "['arma', 'arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'pistola', 'armamento']": {
+        "prompt": "Espa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"tallo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"pluma\" - Eesti: \"sulg\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"arma\" - Eesti: \"",
+        "target": "['relv', 'Relv', 'tulirelv']",
+        "word original": "arm"
+    },
+    "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas', 'violencia', 'vigor', 'intensidad', 'intensidad sonora', 'volumen', 'intensidad de sonido', 'sonoridad', '\u00f1eque', 'fortaleza', 'empuje', 'impulso', 'poder\u00edo', 'potencia', 'poder']": {
+        "prompt": "Espa\u00f1ol: \"paquete\" - Eesti: \"tarkvara\"\nEspa\u00f1ol: \"botella\" - Eesti: \"pudel\"\nEspa\u00f1ol: \"amortiguador\" - Eesti: \"amortisaator\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"fuerza\" - Eesti: \"",
+        "target": "['relvaj\u00f5ud', 's\u00f5jav\u00e4gi', 'v\u00e4givald', 'j\u00f5ud', 'valjus', 'helivaljus', 'heliintensiivsus', 'Heli intensiivsus', 'tugevus']",
+        "word original": "army"
+    },
+    "['ni\u00f1o', 'papa frita', 'ni\u00f1a', 'menor de edad', 'menor', 'joven', 'infancia', 'minor\u00eda de edad', 'jovenzuelo', 'mozalbete', 'chico', 'muchachuelo', 'chiq\u00fcelo', 'chiquillo', 'criatura', 'cr\u00edo', 'chango', 'pececillo', 'cr\u00eda', 'chaval', 'alev\u00edn', 'nene', 'tike', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'jovencito', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'mozo', 'ni\u00f1os', 'ninzzo', 'hijo', 'hija']": {
+        "prompt": "Espa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"red de computadoras\" - Eesti: \"Internet\"\nEspa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"techumbre\" - Eesti: \"katus\"\nEspa\u00f1ol: \"cajas\" - Eesti: \"Kast\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"",
+        "target": "['alaealine', 'laps', 'alaealisus', 'v\u00e4ikelaps', 'beebi', 'Imik', 'imik', 'poiss', 'lapsed']",
+        "word original": "boy"
+    },
+    "['bolso', 'cartera', 'bulto', 'bolsa', 'bolsa de papel', 'costal', 'saco', 'bolsa pl\u00e1stica de compra']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Eesti: \"tunnus\"\nEspa\u00f1ol: \"cigarro\" - Eesti: \"pabeross\"\nEspa\u00f1ol: \"factura\" - Eesti: \"arve\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Eesti: \"pesapall\"\nEspa\u00f1ol: \"garganta\" - Eesti: \"kanjon\"\nEspa\u00f1ol: \"bolso\" - Eesti: \"",
+        "target": "['k\u00e4ekott', 'Kott', 'Paberkott', 'kott', 'kilekott']",
+        "word original": "bag"
+    },
+    "['b\u00e9isbol', 'beisbol', 'baseball']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"hospital\" - Eesti: \"haigla\"\nEspa\u00f1ol: \"u\u00f1a\" - Eesti: \"k\u00fc\u00fcs\"\nEspa\u00f1ol: \"semilla\" - Eesti: \"seeme\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Eesti: \"",
+        "target": "['pesapall']",
+        "word original": "ball"
+    },
+    "['anillo', 'alianza', 'sortija']": {
+        "prompt": "Espa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"u\u00f1a\" - Eesti: \"k\u00fc\u00fcs\"\nEspa\u00f1ol: \"hervidor\" - Eesti: \"teekann\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"",
+        "target": "['s\u00f5rmus']",
+        "word original": "ring"
+    },
+    "['lavabo', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter', 'lavamanos', 'palangana', 'fregadero', 'pila']": {
+        "prompt": "Espa\u00f1ol: \"hoja\" - Eesti: \"paber\"\nEspa\u00f1ol: \"avi\u00f3n\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEspa\u00f1ol: \"m\u00fasculo\" - Eesti: \"lihas\"\nEspa\u00f1ol: \"motor\" - Eesti: \"mootorratas\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"lavabo\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'vannituba', 'tualett', 'Tualett', 'kraanikauss', 'bassein', 'Bassein', 'valamu']",
+        "word original": "basin"
+    },
+    "['ba\u00f1o', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'w\u00e1ter', 'retrete', 'abluci\u00f3n', 'lavatorio', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"hueso\" - Eesti: \"kont\"\nEspa\u00f1ol: \"castigo corporal\" - Eesti: \"ihunuhtlus\"\nEspa\u00f1ol: \"motor\" - Eesti: \"mootorratas\"\nEspa\u00f1ol: \"arma\" - Eesti: \"relv\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"ba\u00f1o\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'vannituba', 'tualett', 'Tualett']",
+        "word original": "bath"
+    },
+    "['cama', 'piltra', 'catre', 'sobre', 'lecho']": {
+        "prompt": "Espa\u00f1ol: \"labio\" - Eesti: \"huuled\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"cama\" - Eesti: \"",
+        "target": "['voodi']",
+        "word original": "bed"
+    },
+    "['abeja', 'Anthophila', 'anthophila']": {
+        "prompt": "Espa\u00f1ol: \"trampa\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nEspa\u00f1ol: \"techumbre\" - Eesti: \"katus\"\nEspa\u00f1ol: \"o\u00eddo\" - Eesti: \"k\u00f5rv\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"ropa\" - Eesti: \"riietus\"\nEspa\u00f1ol: \"abeja\" - Eesti: \"",
+        "target": "['mesilane', 'Mesilased']",
+        "word original": "bee"
+    },
+    "['timbre', 'estampilla', 'timbre postal', 'sello', 'sello postal', 'porte', 'franqueo', 'sello de correos', 'campanilla de puerta']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Eesti: \"pilv\"\nEspa\u00f1ol: \"ojos\" - Eesti: \"silm\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"nudo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"camisa\" - Eesti: \"T-s\u00e4rk\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"",
+        "target": "['postmark', 'mark', 'Pitsat', 'pitsat', 'uksekell']",
+        "word original": "bell"
+    },
+    "['p\u00e1jaro', 'ave', 'aves']": {
+        "prompt": "Espa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"dolina\" - Eesti: \"org\"\nEspa\u00f1ol: \"amortiguador\" - Eesti: \"amortisaator\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Eesti: \"",
+        "target": "['lind', 'linnud']",
+        "word original": "bird"
+    },
+    "['espada', 'garrancha', 'albacora', 'pez espada', 'Xiphias gladius', 'Pez espada', 'xiphias gladius']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Eesti: \"jalg\"\nEspa\u00f1ol: \"cortina\" - Eesti: \"eesriie\"\nEspa\u00f1ol: \"cajas\" - Eesti: \"Kast\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Eesti: \"lind\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"kedrus\"\nEspa\u00f1ol: \"espada\" - Eesti: \"",
+        "target": "['m\u00f5\u00f5k', 'm\u00f5\u00f5kkala']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'comisi\u00f3n', 'bur\u00f3', 'junta', 'consejo']": {
+        "prompt": "Espa\u00f1ol: \"espada\" - Eesti: \"m\u00f5\u00f5k\"\nEspa\u00f1ol: \"cama\" - Eesti: \"voodi\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"bolso\" - Eesti: \"k\u00e4ekott\"\nEspa\u00f1ol: \"comit\u00e9\" - Eesti: \"",
+        "target": "['komitee', 'komisjon']",
+        "word original": "board"
+    },
+    "['bote', 'barco', 'barca', 'barcos', 'nave', 'embarcaci\u00f3n', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'lata']": {
+        "prompt": "Espa\u00f1ol: \"ala\" - Eesti: \"Alaniin\"\nEspa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"mono\" - Eesti: \"ahv\"\nEspa\u00f1ol: \"isla\" - Eesti: \"saar\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"bote\" - Eesti: \"",
+        "target": "['paat', 'k\u00e4imla', 'K\u00e4imla']",
+        "word original": "boat"
+    },
+    "['hueso', 'os']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"calle\" - Eesti: \"maantee\"\nEspa\u00f1ol: \"manantial\" - Eesti: \"allikas\"\nEspa\u00f1ol: \"pescado\" - Eesti: \"kala\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"hueso\" - Eesti: \"",
+        "target": "['kont', 'luu']",
+        "word original": "bone"
+    },
+    "['botella', 'frasco']": {
+        "prompt": "Espa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Eesti: \"lind\"\nEspa\u00f1ol: \"chica\" - Eesti: \"t\u00fcdruk\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"botella\" - Eesti: \"",
+        "target": "['pudel']",
+        "word original": "bottle"
+    },
+    "['cajas', 'caja']": {
+        "prompt": "Espa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"dolina\" - Eesti: \"org\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"marrano\" - Eesti: \"siga\"\nEspa\u00f1ol: \"bolso\" - Eesti: \"k\u00e4ekott\"\nEspa\u00f1ol: \"cajas\" - Eesti: \"",
+        "target": "['Kast']",
+        "word original": "box"
+    },
+    "['mente', 'psique', 'Nous', 'nous', 'cabeza', 'cerebro', 'raz\u00f3n', 'intelecto', 'entendimiento', 'inteligencia', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Eesti: \"Kaabeltelevisioon\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"arma\" - Eesti: \"relv\"\nEspa\u00f1ol: \"calcet\u00edn\" - Eesti: \"Sokk\"\nEspa\u00f1ol: \"nariz\" - Eesti: \"nina\"\nEspa\u00f1ol: \"mente\" - Eesti: \"",
+        "target": "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'Nous', 'vaim', 'Vaim', 'm\u00f5istus', 'M\u00f5istus', 'pea']",
+        "word original": "head"
+    },
+    "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas', 'sistema econ\u00f3mico']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00f1o\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"cajas\" - Eesti: \"Kast\"\nEspa\u00f1ol: \"econom\u00eda\" - Eesti: \"",
+        "target": "['\u00f6konoomika', 'majandusteadus', 'Poliitiline \u00f6konoomia', 'poliitiline \u00f6konoomia', 'majanduss\u00fcsteem', 'majandus', 'Majanduss\u00fcsteem']",
+        "word original": "branch"
+    },
+    "['ladrillo']": {
+        "prompt": "Espa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"camisa\" - Eesti: \"T-s\u00e4rk\"\nEspa\u00f1ol: \"castigo corporal\" - Eesti: \"ihunuhtlus\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Eesti: \"p\u00fcksid\"\nEspa\u00f1ol: \"ladrillo\" - Eesti: \"",
+        "target": "['tellis']",
+        "word original": "brick"
+    },
+    "['puente', 'b\u00f3veda']": {
+        "prompt": "Espa\u00f1ol: \"dolina\" - Eesti: \"org\"\nEspa\u00f1ol: \"arma\" - Eesti: \"relv\"\nEspa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"cuadrado\" - Eesti: \"ruut\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"puente\" - Eesti: \"",
+        "target": "['sild']",
+        "word original": "bridge"
+    },
+    "['cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']": {
+        "prompt": "Espa\u00f1ol: \"tarifa\" - Eesti: \"tasu\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Eesti: \"satelliit\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"cepillo del pelo\" - Eesti: \"",
+        "target": "['Hari', 'hari', 'pintsel']",
+        "word original": "brush"
+    },
+    "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']": {
+        "prompt": "Espa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"fuete\" - Eesti: \"piits\"\nEspa\u00f1ol: \"ducto\" - Eesti: \"Akvedukt\"\nEspa\u00f1ol: \"cepillo del pelo\" - Eesti: \"Hari\"\nEspa\u00f1ol: \"chica\" - Eesti: \"t\u00fcdruk\"\nEspa\u00f1ol: \"balde\" - Eesti: \"",
+        "target": "['\u00c4mber', 'pang', '\u00e4mber']",
+        "word original": "bucket"
+    },
+    "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']": {
+        "prompt": "Espa\u00f1ol: \"manantial\" - Eesti: \"allikas\"\nEspa\u00f1ol: \"castigo corporal\" - Eesti: \"ihunuhtlus\"\nEspa\u00f1ol: \"dolina\" - Eesti: \"org\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"bombillo\" - Eesti: \"",
+        "target": "['pirn', 'elektripirn', 'lamp', 'Elektervalgustus', 'elektervalgustus', 'h\u00f5\u00f5glamp']",
+        "word original": "bulb"
+    },
+    "['pastel', 'torta', 'bizcocho', 'cake', 'coca', 'tarta', 'pie', 'pay', 'empanada']": {
+        "prompt": "Espa\u00f1ol: \"documento nacional de identidad\" - Eesti: \"ID-kaart\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Eesti: \"p\u00fcksid\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"video\" - Eesti: \"televisioon\"\nEspa\u00f1ol: \"pastel\" - Eesti: \"",
+        "target": "['Kook', 'kook', 'pirukas', 'Pirukas']",
+        "word original": "cake"
+    },
+    "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara']": {
+        "prompt": "Espa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"mono\" - Eesti: \"ahv\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"",
+        "target": "['kaamera', 'fotoaparaat', 'Kaamera']",
+        "word original": "camera"
+    },
+    "['documento nacional de identidad', 'documento de identidad', 'identificaci\u00f3n', 'carn\u00e9 de identidad', 'carnet de identidad', 'c\u00e9dula de identidad', 'DNI', 'credencial', 'carnet']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Eesti: \"jalg\"\nEspa\u00f1ol: \"video\" - Eesti: \"televisioon\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"cuchara\" - Eesti: \"lusikas\"\nEspa\u00f1ol: \"motor\" - Eesti: \"mootorratas\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Eesti: \"",
+        "target": "['ID-kaart', 'isikutunnistus']",
+        "word original": "card"
+    },
+    "['veh\u00edculo ferroviario', 'vag\u00f3n', 'Automotor', 'automotor', 'material remolcado', 'vag\u00f3n de ferrocarril', 'Coche automotor', 'coche', 'tren', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos']": {
+        "prompt": "Espa\u00f1ol: \"botella\" - Eesti: \"pudel\"\nEspa\u00f1ol: \"iglesia\" - Eesti: \"kirik\"\nEspa\u00f1ol: \"o\u00eddo\" - Eesti: \"k\u00f5rv\"\nEspa\u00f1ol: \"comit\u00e9\" - Eesti: \"komitee\"\nEspa\u00f1ol: \"martillo\" - Eesti: \"vasaraheide\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Eesti: \"",
+        "target": "['raudtees\u00f5iduk', 'mootorvagun', 'vagun', 'Vagun', 'Mootorvagun', 't\u00f5ld', 'T\u00f5ld']",
+        "word original": "carriage"
+    },
+    "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']": {
+        "prompt": "Espa\u00f1ol: \"fuete\" - Eesti: \"piits\"\nEspa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"barco de vela\" - Eesti: \"purjekas\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"l\u00e1piz\" - Eesti: \"pliiats\"\nEspa\u00f1ol: \"gato\" - Eesti: \"",
+        "target": "['kass']",
+        "word original": "cat"
+    },
+    "['queso']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Eesti: \"tunnus\"\nEspa\u00f1ol: \"bote\" - Eesti: \"paat\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"ba\u00f1o\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Eesti: \"nurk\"\nEspa\u00f1ol: \"queso\" - Eesti: \"",
+        "target": "['juust', 's\u00f5ir']",
+        "word original": "cheese"
+    },
+    "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre']": {
+        "prompt": "Espa\u00f1ol: \"pie\" - Eesti: \"indoeuroopa algkeel\"\nEspa\u00f1ol: \"martillo\" - Eesti: \"vasaraheide\"\nEspa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"barbilla\" - Eesti: \"l\u00f5ug\"\nEspa\u00f1ol: \"ba\u00fal\" - Eesti: \"",
+        "target": "['Kirst', 'kirst']",
+        "word original": "chest"
+    },
+    "['barbilla', 'ment\u00f3n', 'pera', 'barba']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Eesti: \"seelik\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"abeja\" - Eesti: \"mesilane\"\nEspa\u00f1ol: \"barbilla\" - Eesti: \"",
+        "target": "['l\u00f5ug', 'L\u00f5ug']",
+        "word original": "chin"
+    },
+    "['iglesia']": {
+        "prompt": "Espa\u00f1ol: \"hueso\" - Eesti: \"kont\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"bandera\" - Eesti: \"lipp\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"iglesia\" - Eesti: \"",
+        "target": "['kirik']",
+        "word original": "church"
+    },
+    "['c\u00edrculo', 'circunferencia', 'disco']": {
+        "prompt": "Espa\u00f1ol: \"diente\" - Eesti: \"Hambad\"\nEspa\u00f1ol: \"camisa\" - Eesti: \"T-s\u00e4rk\"\nEspa\u00f1ol: \"tallo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"horno\" - Eesti: \"k\u00f5rgahi\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"c\u00edrculo\" - Eesti: \"",
+        "target": "['ringjoon', 'ring', 'ketas', 'Ring']",
+        "word original": "circle"
+    },
+    "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Eesti: \"jalg\"\nEspa\u00f1ol: \"cuchara\" - Eesti: \"lusikas\"\nEspa\u00f1ol: \"domingo\" - Eesti: \"p\u00fchap\u00e4ev\"\nEspa\u00f1ol: \"cama\" - Eesti: \"voodi\"\nEspa\u00f1ol: \"c\u00edrculo\" - Eesti: \"ringjoon\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"",
+        "target": "['kell', 'k\u00e4ekell']",
+        "word original": "watch"
+    },
+    "['nube', 'nubes']": {
+        "prompt": "Espa\u00f1ol: \"ropa\" - Eesti: \"riietus\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"ba\u00f1o\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"rodilla\" - Eesti: \"p\u00f5lv\"\nEspa\u00f1ol: \"arresto\" - Eesti: \"Vahistamine\"\nEspa\u00f1ol: \"nube\" - Eesti: \"",
+        "target": "['pilv', 'Pilv']",
+        "word original": "cloud"
+    },
+    "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'jacket', 'campera', 'chompa']": {
+        "prompt": "Espa\u00f1ol: \"cigarro\" - Eesti: \"pabeross\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Eesti: \"pesapall\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"casaca\" - Eesti: \"",
+        "target": "['jakk', 'mantel']",
+        "word original": "coat"
+    },
+    "['arresto', 'detenci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"cajas\" - Eesti: \"Kast\"\nEspa\u00f1ol: \"cepillo del pelo\" - Eesti: \"Hari\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"arresto\" - Eesti: \"",
+        "target": "['Vahistamine']",
+        "word original": "collar"
+    },
+    "['peine']": {
+        "prompt": "Espa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"avi\u00f3n\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEspa\u00f1ol: \"bolso\" - Eesti: \"k\u00e4ekott\"\nEspa\u00f1ol: \"hospital\" - Eesti: \"haigla\"\nEspa\u00f1ol: \"peine\" - Eesti: \"",
+        "target": "['kamm']",
+        "word original": "comb"
+    },
+    "['ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno']": {
+        "prompt": "Espa\u00f1ol: \"hospital\" - Eesti: \"haigla\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Eesti: \"spordihooaeg\"\nEspa\u00f1ol: \"pared\" - Eesti: \"sein\"\nEspa\u00f1ol: \"cabra\" - Eesti: \"kits\"\nEspa\u00f1ol: \"puente\" - Eesti: \"sild\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"",
+        "target": "['veised', 'veis']",
+        "word original": "cow"
+    },
+    "['taza', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'copa', 'vaso', 'taza de pi\u00e9', 'taz\u00f3n', 'jarro']": {
+        "prompt": "Espa\u00f1ol: \"huevo de gallina\" - Eesti: \"muna\"\nEspa\u00f1ol: \"ducto\" - Eesti: \"Akvedukt\"\nEspa\u00f1ol: \"dedos del pie\" - Eesti: \"varvas\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"bombillo\" - Eesti: \"pirn\"\nEspa\u00f1ol: \"taza\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'Klaas', 'Tass', 'tass', 'klaas', 'kruus', 'Kruus']",
+        "word original": "cup"
+    },
+    "['cortina', 'cortinaje', 'cortinas', 'sombra']": {
+        "prompt": "Espa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"fuerza\" - Eesti: \"relvaj\u00f5ud\"\nEspa\u00f1ol: \"caballo\" - Eesti: \"hobune\"\nEspa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"cortina\" - Eesti: \"",
+        "target": "['eesriie', 'kardin', 'Kardin', 'vari']",
+        "word original": "curtain"
+    },
+    "['amortiguador']": {
+        "prompt": "Espa\u00f1ol: \"barbilla\" - Eesti: \"l\u00f5ug\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Eesti: \"fosfor\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"amortiguador\" - Eesti: \"",
+        "target": "['amortisaator']",
+        "word original": "cushion"
+    },
+    "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico']": {
+        "prompt": "Espa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"horno\" - Eesti: \"k\u00f5rgahi\"\nEspa\u00f1ol: \"pie\" - Eesti: \"indoeuroopa algkeel\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"hoja\" - Eesti: \"paber\"\nEspa\u00f1ol: \"perra\" - Eesti: \"",
+        "target": "['koer', 'Canis lupus familiaris']",
+        "word original": "dog"
+    },
+    "['puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Eesti: \"sulg\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"llave\" - Eesti: \"ventiil\"\nEspa\u00f1ol: \"gato\" - Eesti: \"kass\"\nEspa\u00f1ol: \"abeja\" - Eesti: \"mesilane\"\nEspa\u00f1ol: \"puerta\" - Eesti: \"",
+        "target": "['uks', 'v\u00e4rav']",
+        "word original": "drain"
+    },
+    "['ilustraci\u00f3n', 'Iluminismo', 'figura', 'retrato', 'dibujo', 'imagen', 'croquis', 'esquema', 'foto', 'fotograf\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"gato\" - Eesti: \"kass\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Eesti: \"",
+        "target": "['valgustusajastu', 'Valgustusajastu', 'joonistus', 'joonistamine', 'pilt']",
+        "word original": "drawer"
+    },
+    "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"fuete\" - Eesti: \"piits\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"pierna\" - Eesti: \"jalg\"\nEspa\u00f1ol: \"ropa\" - Eesti: \"",
+        "target": "['riietus', 'Riietus']",
+        "word original": "dress"
+    },
+    "['gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima', 'bocado', 'porci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"barco\" - Eesti: \"laev\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"autoridad\" - Eesti: \"kontor\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"gota\" - Eesti: \"",
+        "target": "['Podagra', 'tilk', 'Tilk']",
+        "word original": "drop"
+    },
+    "['o\u00eddo', 'orejas', 'oreja', 'protecci\u00f3n del o\u00eddo', 'protecci\u00f3n auditiva', 'audici\u00f3n', 'facultad auditiva', 'modalidad auditiva', 'sentido del o\u00eddo', 'sentido auditivo']": {
+        "prompt": "Espa\u00f1ol: \"botella\" - Eesti: \"pudel\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"kedrus\"\nEspa\u00f1ol: \"hormiga\" - Eesti: \"sipelgas\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"naranja\" - Eesti: \"oran\u017e\"\nEspa\u00f1ol: \"o\u00eddo\" - Eesti: \"",
+        "target": "['k\u00f5rv', 'k\u00f5rvakaitse', 'kuulmine']",
+        "word original": "ear"
+    },
+    "['huevo de gallina', 'huevo']": {
+        "prompt": "Espa\u00f1ol: \"dedo\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEspa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"dedos del pie\" - Eesti: \"varvas\"\nEspa\u00f1ol: \"pie\" - Eesti: \"indoeuroopa algkeel\"\nEspa\u00f1ol: \"l\u00e1piz\" - Eesti: \"pliiats\"\nEspa\u00f1ol: \"huevo de gallina\" - Eesti: \"",
+        "target": "['muna']",
+        "word original": "egg"
+    },
+    "['motor', 'motocicleta', 'motora', 'moto', 'motociclo', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Eesti: \"pilv\"\nEspa\u00f1ol: \"cuchillo\" - Eesti: \"nuga\"\nEspa\u00f1ol: \"pescado\" - Eesti: \"kala\"\nEspa\u00f1ol: \"gato\" - Eesti: \"kass\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"motor\" - Eesti: \"",
+        "target": "['mootorratas', 'mootor']",
+        "word original": "engine"
+    },
+    "['ojos', 'ojo', 'globo ocular', 'oculus']": {
+        "prompt": "Espa\u00f1ol: \"amortiguador\" - Eesti: \"amortisaator\"\nEspa\u00f1ol: \"nariz\" - Eesti: \"nina\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"martillo\" - Eesti: \"vasaraheide\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"ojos\" - Eesti: \"",
+        "target": "['silm', 'silmamuna']",
+        "word original": "eye"
+    },
+    "['rostro', 'cara', 'jeta', 'faz', 'rostro humano']": {
+        "prompt": "Espa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"barbilla\" - Eesti: \"l\u00f5ug\"\nEspa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"kedrus\"\nEspa\u00f1ol: \"naranja\" - Eesti: \"oran\u017e\"\nEspa\u00f1ol: \"rostro\" - Eesti: \"",
+        "target": "['n\u00e4gu', 'N\u00e4gu']",
+        "word original": "face"
+    },
+    "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Eesti: \"tunnus\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"llave\" - Eesti: \"ventiil\"\nEspa\u00f1ol: \"granja\" - Eesti: \"",
+        "target": "['talu', 'farm']",
+        "word original": "farm"
+    },
+    "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'boli', 'bol\u00edgrafo']": {
+        "prompt": "Espa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"labio\" - Eesti: \"huuled\"\nEspa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"pluma\" - Eesti: \"",
+        "target": "['sulg', 'sulestik', 'Sulestik', 'sulepea']",
+        "word original": "pen"
+    },
+    "['dedo', 'peineta', 'corte de manga', 'higa', 'd\u00edgito', 'pulgar', 'dedo pulgar', 'pollex', 'dedo gordo', 'dedos de la mano', 'dedo de la mano', 'dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - Eesti: \"sild\"\nEspa\u00f1ol: \"nudo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Eesti: \"nurk\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"pluma\" - Eesti: \"sulg\"\nEspa\u00f1ol: \"dedo\" - Eesti: \"",
+        "target": "['Keskmise s\u00f5rme n\u00e4itamine', 's\u00f5rmed ja varbad', 'p\u00f6ial', 's\u00f5rm', 'n\u00e4pp', 's\u00f5rmed', 'varvas']",
+        "word original": "finger"
+    },
+    "['pescado', 'pez', 'Pisces', 'pisces', 'peces']": {
+        "prompt": "Espa\u00f1ol: \"cortina\" - Eesti: \"eesriie\"\nEspa\u00f1ol: \"estante\" - Eesti: \"raamaturiiul\"\nEspa\u00f1ol: \"mesa\" - Eesti: \"lavamaa\"\nEspa\u00f1ol: \"rodilla\" - Eesti: \"p\u00f5lv\"\nEspa\u00f1ol: \"arresto\" - Eesti: \"Vahistamine\"\nEspa\u00f1ol: \"pescado\" - Eesti: \"",
+        "target": "['kala', 'kalad', 'Kala']",
+        "word original": "fish"
+    },
+    "['bandera', 'pabell\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"ala\" - Eesti: \"Alaniin\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"botella\" - Eesti: \"pudel\"\nEspa\u00f1ol: \"bandera\" - Eesti: \"",
+        "target": "['lipp']",
+        "word original": "flag"
+    },
+    "['dolina', 'valle', 'val']": {
+        "prompt": "Espa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Eesti: \"valgustusajastu\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Eesti: \"vangla\"\nEspa\u00f1ol: \"dolina\" - Eesti: \"",
+        "target": "['org']",
+        "word original": "floor"
+    },
+    "['mosca', 'mosco', 'Diptera']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Eesti: \"lavamaa\"\nEspa\u00f1ol: \"cuchillo\" - Eesti: \"nuga\"\nEspa\u00f1ol: \"gato\" - Eesti: \"kass\"\nEspa\u00f1ol: \"hospital\" - Eesti: \"haigla\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"mosca\" - Eesti: \"",
+        "target": "['Kahetiivalised', 'kahetiivalised']",
+        "word original": "fly"
+    },
+    "['pie', 'proto-indo-europeo', 'idioma protoindoeuropeo', 'protoindoeuropeo', 'pes', 'pata', 'base', 'subestructura', 'cimentaci\u00f3n', 'cimiento', 'fundaci\u00f3n', 'fundamento', 'tarta', 'pastel', 'pay', 'empanada', 'torta']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"espada\" - Eesti: \"m\u00f5\u00f5k\"\nEspa\u00f1ol: \"cuello\" - Eesti: \"kael\"\nEspa\u00f1ol: \"camisa\" - Eesti: \"T-s\u00e4rk\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"pie\" - Eesti: \"",
+        "target": "['indoeuroopa algkeel', 'Indoeuroopa algkeel', 'Labajalg', 'vundament', 'Vundament', 'pirukas', 'Pirukas']",
+        "word original": "foot"
+    },
+    "['tenedor', 'bifurcaci\u00f3n', 'cruce', 'intersecci\u00f3n vial', 'intersecci\u00f3n', 'crucero', 'carrefour', 'encrucijada', 'cruce de caminos']": {
+        "prompt": "Espa\u00f1ol: \"cepillo del pelo\" - Eesti: \"Hari\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"ladrillo\" - Eesti: \"tellis\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Eesti: \"valgustusajastu\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"",
+        "target": "['Ristmik', 'ristmik', 'kahvel', 'Kahvel']",
+        "word original": "fork"
+    },
+    "['ave de corral', 'Galloanserae', 'ave']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Eesti: \"Kaabeltelevisioon\"\nEspa\u00f1ol: \"estrella\" - Eesti: \"t\u00e4ht\"\nEspa\u00f1ol: \"pluma\" - Eesti: \"sulg\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"calcet\u00edn\" - Eesti: \"Sokk\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"",
+        "target": "['sulgloomad', 'kodulinnud', 'kodulind', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['constituci\u00f3n', 'organizativo', 'organizaci\u00f3n', 'establecimiento', 'fundaci\u00f3n', 'formaci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Eesti: \"relv\"\nEspa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"marrano\" - Eesti: \"siga\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"",
+        "target": "['organisatsioon', '\u00fching', 'inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha']",
+        "word original": "frame"
+    },
+    "['jard\u00edn']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Eesti: \"seelik\"\nEspa\u00f1ol: \"mono\" - Eesti: \"ahv\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"horno\" - Eesti: \"k\u00f5rgahi\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"",
+        "target": "['aed']",
+        "word original": "garden"
+    },
+    "['chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'mujer', 'se\u00f1orito', 'chico', 'fille', 'se\u00f1orita', 'mujercita', 'novia', 'pareja', 'compa\u00f1era', 'prometida', 'compa\u00f1era sentimental']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - Eesti: \"uks\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"nudo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"bombillo\" - Eesti: \"pirn\"\nEspa\u00f1ol: \"chica\" - Eesti: \"",
+        "target": "['t\u00fcdruk', 'plika']",
+        "word original": "girl"
+    },
+    "['guante']": {
+        "prompt": "Espa\u00f1ol: \"llave\" - Eesti: \"ventiil\"\nEspa\u00f1ol: \"chica\" - Eesti: \"t\u00fcdruk\"\nEspa\u00f1ol: \"huevo de gallina\" - Eesti: \"muna\"\nEspa\u00f1ol: \"universidad\" - Eesti: \"\u00fclikool\"\nEspa\u00f1ol: \"calcet\u00edn\" - Eesti: \"Sokk\"\nEspa\u00f1ol: \"guante\" - Eesti: \"",
+        "target": "['s\u00f5rmik', 'Kindad', 'kindad']",
+        "word original": "glove"
+    },
+    "['cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"mesa\" - Eesti: \"lavamaa\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"cuello\" - Eesti: \"kael\"\nEspa\u00f1ol: \"cabra\" - Eesti: \"",
+        "target": "['kits', 'kodukits', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'arma', 'pistola']": {
+        "prompt": "Espa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"cepillo del pelo\" - Eesti: \"Hari\"\nEspa\u00f1ol: \"isla\" - Eesti: \"saar\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"",
+        "target": "['tulirelv']",
+        "word original": "gun"
+    },
+    "['cabello', 'pelo']": {
+        "prompt": "Espa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"puerta\" - Eesti: \"uks\"\nEspa\u00f1ol: \"ba\u00f1o\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"puente\" - Eesti: \"sild\"\nEspa\u00f1ol: \"amortiguador\" - Eesti: \"amortisaator\"\nEspa\u00f1ol: \"cabello\" - Eesti: \"",
+        "target": "['karv', 'karvad', 'juuksed']",
+        "word original": "root"
+    },
+    "['martillo', 'lanzamiento de martillo']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"hueso\" - Eesti: \"kont\"\nEspa\u00f1ol: \"labio\" - Eesti: \"huuled\"\nEspa\u00f1ol: \"barco\" - Eesti: \"laev\"\nEspa\u00f1ol: \"sombrero\" - Eesti: \"m\u00fcts\"\nEspa\u00f1ol: \"martillo\" - Eesti: \"",
+        "target": "['vasaraheide', 'haamer', 'vasar']",
+        "word original": "hammer"
+    },
+    "['sombrero', 'Chap\u00f3']": {
+        "prompt": "Espa\u00f1ol: \"p\u00e1jaro\" - Eesti: \"lind\"\nEspa\u00f1ol: \"mesa\" - Eesti: \"lavamaa\"\nEspa\u00f1ol: \"o\u00eddo\" - Eesti: \"k\u00f5rv\"\nEspa\u00f1ol: \"ladrillo\" - Eesti: \"tellis\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"sombrero\" - Eesti: \"",
+        "target": "['m\u00fcts', 'k\u00fcbar']",
+        "word original": "hat"
+    },
+    "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o', 'centro', 'ojo', 'medio']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"c\u00edrculo\" - Eesti: \"ringjoon\"\nEspa\u00f1ol: \"ladrillo\" - Eesti: \"tellis\"\nEspa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"biblioteca\" - Eesti: \"raamatukogu\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"",
+        "target": "['s\u00fcda', 'Afektsioon']",
+        "word original": "pump"
+    },
+    "['trampa', 'atrape', 'cepo', 'truco', 'hacer trampas', 'estafa', 'timo', 'enga\u00f1o', 'fraude', 'bulo', 'enga\u00f1ifa', 'bober\u00eda', 'tonter\u00eda', 'farsa', 'filfa', 'disparate', 'embuste', 'mistificaci\u00f3n', 'camelo', 'patra\u00f1a', 'pastrana']": {
+        "prompt": "Espa\u00f1ol: \"inodoro\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"horno\" - Eesti: \"k\u00f5rgahi\"\nEspa\u00f1ol: \"nudo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"piel\" - Eesti: \"nahk\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Eesti: \"valgustusajastu\"\nEspa\u00f1ol: \"trampa\" - Eesti: \"",
+        "target": "['p\u00fc\u00fcnisjaht', 'l\u00f5ks', 'p\u00fc\u00fcnis']",
+        "word original": "hook"
+    },
+    "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Eesti: \"tunnus\"\nEspa\u00f1ol: \"calle\" - Eesti: \"maantee\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Eesti: \"p\u00fcksid\"\nEspa\u00f1ol: \"barco de vela\" - Eesti: \"purjekas\"\nEspa\u00f1ol: \"domingo\" - Eesti: \"p\u00fchap\u00e4ev\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"",
+        "target": "['kornet', 'parmupill', 'trompet', 'Kornet']",
+        "word original": "horn"
+    },
+    "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']": {
+        "prompt": "Espa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"falda\" - Eesti: \"seelik\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"amortiguador\" - Eesti: \"amortisaator\"\nEspa\u00f1ol: \"caballo\" - Eesti: \"",
+        "target": "['hobune']",
+        "word original": "horse"
+    },
+    "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']": {
+        "prompt": "Espa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"ala\" - Eesti: \"Alaniin\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Eesti: \"raudtees\u00f5iduk\"\nEspa\u00f1ol: \"dedo\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"hospital\" - Eesti: \"",
+        "target": "['haigla']",
+        "word original": "hospital"
+    },
+    "['casa', 'edificaci\u00f3n', 'edificio', 'edificio p\u00fablico', 'inmueble', 'edificios', 'construcci\u00f3n', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'manufactura', 'fabricante', 'firma', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'compa\u00f1\u00eda', 'empresa', 'empresas', 'hospedaje', 'viviendas']": {
+        "prompt": "Espa\u00f1ol: \"ducto\" - Eesti: \"Akvedukt\"\nEspa\u00f1ol: \"taza\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"kedrus\"\nEspa\u00f1ol: \"casa\" - Eesti: \"",
+        "target": "['ehitus', 'ehitis', 'hoone', 'maja', 'majapidamine', 'Majapidamine', 's\u00fcnnikodu', 'ettev\u00f5te', 'firma']",
+        "word original": "house"
+    },
+    "['isla', 'islas']": {
+        "prompt": "Espa\u00f1ol: \"cortina\" - Eesti: \"eesriie\"\nEspa\u00f1ol: \"botella\" - Eesti: \"pudel\"\nEspa\u00f1ol: \"comit\u00e9\" - Eesti: \"komitee\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"isla\" - Eesti: \"",
+        "target": "['saar']",
+        "word original": "island"
+    },
+    "['joya', 'joyer\u00eda', 'joyas', 'alhajas', 'alegr\u00eda', 'regocijo', 'j\u00fabilo', 'felicidad', 'gozo', 'ilusi\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"puente\" - Eesti: \"sild\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"joya\" - Eesti: \"",
+        "target": "['ehted', 'r\u00f5\u00f5m']",
+        "word original": "jewel"
+    },
+    "['hervidor', 'caldera', 'calentador', 'Caldera']": {
+        "prompt": "Espa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"ojos\" - Eesti: \"silm\"\nEspa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"ba\u00fal\" - Eesti: \"Kirst\"\nEspa\u00f1ol: \"video\" - Eesti: \"televisioon\"\nEspa\u00f1ol: \"hervidor\" - Eesti: \"",
+        "target": "['teekann']",
+        "word original": "kettle"
+    },
+    "['llave', 'v\u00e1lvula', 'clave', 'llave inglesa', 'llave de tuerca', 'llave fija']": {
+        "prompt": "Espa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"huevo de gallina\" - Eesti: \"muna\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"medias\" - Eesti: \"Sukad\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Eesti: \"vangla\"\nEspa\u00f1ol: \"llave\" - Eesti: \"",
+        "target": "['ventiil', 'klapp', 'v\u00f5ti', 'toon', 'klahv', 'V\u00f5ti', 'mutriv\u00f5ti', 'Mutriv\u00f5ti']",
+        "word original": "key"
+    },
+    "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']": {
+        "prompt": "Espa\u00f1ol: \"semilla\" - Eesti: \"seeme\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"amortiguador\" - Eesti: \"amortisaator\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"rodilla\" - Eesti: \"",
+        "target": "['p\u00f5lv']",
+        "word original": "knee"
+    },
+    "['cuchillo']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Eesti: \"pilv\"\nEspa\u00f1ol: \"ducto\" - Eesti: \"Akvedukt\"\nEspa\u00f1ol: \"horno\" - Eesti: \"k\u00f5rgahi\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Eesti: \"spordihooaeg\"\nEspa\u00f1ol: \"cuchillo\" - Eesti: \"",
+        "target": "['nuga']",
+        "word original": "knife"
+    },
+    "['nudo', 'tallo', 'lazo']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"sombrero\" - Eesti: \"m\u00fcts\"\nEspa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"calle\" - Eesti: \"maantee\"\nEspa\u00f1ol: \"ropa\" - Eesti: \"riietus\"\nEspa\u00f1ol: \"nudo\" - Eesti: \"",
+        "target": "['vars', 's\u00f5lm', 'S\u00f5lm']",
+        "word original": "knot"
+    },
+    "['hoja', 'papel', 'follaje', 'Laphi', 'hoja de papel', 'cuartilla', 'folio', 'pliego', 'filo', 'cuchilla']": {
+        "prompt": "Espa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"v\u00eda\" - Eesti: \"t\u00e4nav\"\nEspa\u00f1ol: \"cortina\" - Eesti: \"eesriie\"\nEspa\u00f1ol: \"rata\" - Eesti: \"rott\"\nEspa\u00f1ol: \"hoja\" - Eesti: \"",
+        "target": "['paber', 'leht', 'lehestik', 'tera', 'Tera']",
+        "word original": "leaf"
+    },
+    "['pierna', 'extremidad inferior', 'pata', 'piernas', 'miembro inferior', 'miembro inferior humano']": {
+        "prompt": "Espa\u00f1ol: \"iglesia\" - Eesti: \"kirik\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"joya\" - Eesti: \"ehted\"\nEspa\u00f1ol: \"esponja\" - Eesti: \"k\u00e4sn\"\nEspa\u00f1ol: \"pierna\" - Eesti: \"",
+        "target": "['jalg', 'Jalg']",
+        "word original": "pin"
+    },
+    "['biblioteca', 'librer\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"esponja\" - Eesti: \"k\u00e4sn\"\nEspa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"barco\" - Eesti: \"laev\"\nEspa\u00f1ol: \"biblioteca\" - Eesti: \"",
+        "target": "['raamatukogu']",
+        "word original": "library"
+    },
+    "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'television', 'TV', 'imagen']": {
+        "prompt": "Espa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"dolina\" - Eesti: \"org\"\nEspa\u00f1ol: \"dedos del pie\" - Eesti: \"varvas\"\nEspa\u00f1ol: \"garganta\" - Eesti: \"kanjon\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"video\" - Eesti: \"",
+        "target": "['televisioon']",
+        "word original": "line"
+    },
+    "['labio', 'labios']": {
+        "prompt": "Espa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"perra\" - Eesti: \"koer\"\nEspa\u00f1ol: \"sombrero\" - Eesti: \"m\u00fcts\"\nEspa\u00f1ol: \"cuadrado\" - Eesti: \"ruut\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"labio\" - Eesti: \"",
+        "target": "['huuled', 'Huuled']",
+        "word original": "lip"
+    },
+    "['funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia']": {
+        "prompt": "Espa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"l\u00e1piz\" - Eesti: \"pliiats\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Eesti: \"",
+        "target": "['funktsioon']",
+        "word original": "map"
+    },
+    "['f\u00f3sforo', 'P', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo']": {
+        "prompt": "Espa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"pastel\" - Eesti: \"Kook\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"pluma\" - Eesti: \"sulg\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Eesti: \"",
+        "target": "['fosfor', 'Fosfor', 'tuletikk', 'Tuletikk', 'tikk']",
+        "word original": "match"
+    },
+    "['mono', 'mico', 'simio']": {
+        "prompt": "Espa\u00f1ol: \"ala\" - Eesti: \"Alaniin\"\nEspa\u00f1ol: \"iglesia\" - Eesti: \"kirik\"\nEspa\u00f1ol: \"ba\u00fal\" - Eesti: \"Kirst\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Eesti: \"valgustusajastu\"\nEspa\u00f1ol: \"motor\" - Eesti: \"mootorratas\"\nEspa\u00f1ol: \"mono\" - Eesti: \"",
+        "target": "['ahv', 'Ahv']",
+        "word original": "monkey"
+    },
+    "['sat\u00e9lite', 'sat\u00e9lite artificial', 'satelite', 'orbitador']": {
+        "prompt": "Espa\u00f1ol: \"labio\" - Eesti: \"huuled\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"naranja\" - Eesti: \"oran\u017e\"\nEspa\u00f1ol: \"medias\" - Eesti: \"Sukad\"\nEspa\u00f1ol: \"mono\" - Eesti: \"ahv\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Eesti: \"",
+        "target": "['satelliit', 'tehiskaaslane', 'Tehiskaaslane']",
+        "word original": "moon"
+    },
+    "['boca', 'cavidad oral', 'cavidad bucal', 'desembocadura', 'rima oris', 'entrada', 'zagu\u00e1n', 'recibidor', 'vest\u00edbulo', 'acceso', 'v\u00eda de acceso', 'ingreso', 'nariz']": {
+        "prompt": "Espa\u00f1ol: \"bote\" - Eesti: \"paat\"\nEspa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Eesti: \"pesapall\"\nEspa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"boca\" - Eesti: \"",
+        "target": "['suu', 'Suu', 'sissep\u00e4\u00e4s']",
+        "word original": "mouth"
+    },
+    "['m\u00fasculo', 'tejido muscular']": {
+        "prompt": "Espa\u00f1ol: \"lavabo\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"puerta\" - Eesti: \"uks\"\nEspa\u00f1ol: \"estante\" - Eesti: \"raamaturiiul\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"m\u00fasculo\" - Eesti: \"",
+        "target": "['lihas', 'Lihas']",
+        "word original": "muscle"
+    },
+    "['u\u00f1a', 'garra', 'clavo', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"casa\" - Eesti: \"ehitus\"\nEspa\u00f1ol: \"dedo\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEspa\u00f1ol: \"estrella\" - Eesti: \"t\u00e4ht\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Eesti: \"pesapall\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"u\u00f1a\" - Eesti: \"",
+        "target": "['k\u00fc\u00fcs', 'K\u00fc\u00fcs', 'nael', 'Nael']",
+        "word original": "nail"
+    },
+    "['cuello', 'pescuezo', 'nuca', 'cerviz']": {
+        "prompt": "Espa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"sombrero\" - Eesti: \"m\u00fcts\"\nEspa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"cuello\" - Eesti: \"",
+        "target": "['kael', 'kaelus']",
+        "word original": "neck"
+    },
+    "['nervio', 'nervus']": {
+        "prompt": "Espa\u00f1ol: \"pel\u00edcula\" - Eesti: \"film\"\nEspa\u00f1ol: \"pescado\" - Eesti: \"kala\"\nEspa\u00f1ol: \"ladrillo\" - Eesti: \"tellis\"\nEspa\u00f1ol: \"diente\" - Eesti: \"Hambad\"\nEspa\u00f1ol: \"puerta\" - Eesti: \"uks\"\nEspa\u00f1ol: \"nervio\" - Eesti: \"",
+        "target": "['n\u00e4rv']",
+        "word original": "nerve"
+    },
+    "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio', 'malla', 'rejilla']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Eesti: \"pilv\"\nEspa\u00f1ol: \"rata\" - Eesti: \"rott\"\nEspa\u00f1ol: \"video\" - Eesti: \"televisioon\"\nEspa\u00f1ol: \"motor\" - Eesti: \"mootorratas\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"red de computadoras\" - Eesti: \"",
+        "target": "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'internet', 'k\u00fcbermaailm']",
+        "word original": "net"
+    },
+    "['nariz', '\u00f3rgano olfactivo', 'olfato', 'boca']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"barbilla\" - Eesti: \"l\u00f5ug\"\nEspa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"boca\" - Eesti: \"suu\"\nEspa\u00f1ol: \"nariz\" - Eesti: \"",
+        "target": "['nina', 'Nina']",
+        "word original": "nose"
+    },
+    "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'r\u00e9gimen pol\u00edtico', 'gobierno', 'r\u00e9gimen', 'l\u00edder', 'jefe', 'cabeza', 'dirigente']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1ngulo\" - Eesti: \"nurk\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"kedrus\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"dedo\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"autoridad\" - Eesti: \"",
+        "target": "['kontor', 'b\u00fcroo', 'asutus', 'Kontor', 'Riigikord']",
+        "word original": "office"
+    },
+    "['naranja', 'anaranjado']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - Eesti: \"sild\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"arma\" - Eesti: \"relv\"\nEspa\u00f1ol: \"trampa\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"naranja\" - Eesti: \"",
+        "target": "['oran\u017e']",
+        "word original": "orange"
+    },
+    "['horno', 'alto horno', 'estufa', 'horno de pan', 'panader\u00eda', 'tahona']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"horno\" - Eesti: \"",
+        "target": "['k\u00f5rgahi', 'ahi', 'Ahi', 'pagarit\u00f6\u00f6stus']",
+        "word original": "oven"
+    },
+    "['paquete', 'elementos de programaci\u00f3n', 'programa inform\u00e1tico', 'programa', 'programa de computaci\u00f3n', 'programa de ordenador', 'software', 'sistema software']": {
+        "prompt": "Espa\u00f1ol: \"bolso\" - Eesti: \"k\u00e4ekott\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Eesti: \"lind\"\nEspa\u00f1ol: \"abeja\" - Eesti: \"mesilane\"\nEspa\u00f1ol: \"tallo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"paquete\" - Eesti: \"",
+        "target": "['tarkvara']",
+        "word original": "parcel"
+    },
+    "['l\u00e1piz']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"taza\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"garganta\" - Eesti: \"kanjon\"\nEspa\u00f1ol: \"hormiga\" - Eesti: \"sipelgas\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"l\u00e1piz\" - Eesti: \"",
+        "target": "['pliiats']",
+        "word original": "pencil"
+    },
+    "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine', 'embuste', 'mentira', 'mentirijilla', 'mentirilla', 'mentira de emergencia', 'mentira blanca', 'infundio', 'historia', 'trola', 'patra\u00f1a', 'falsedad', 'bola', 'cinema', 'celuloide']": {
+        "prompt": "Espa\u00f1ol: \"iglesia\" - Eesti: \"kirik\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"cuadrado\" - Eesti: \"ruut\"\nEspa\u00f1ol: \"m\u00fasculo\" - Eesti: \"lihas\"\nEspa\u00f1ol: \"pel\u00edcula\" - Eesti: \"",
+        "target": "['film', 'vale', 'valetamine']",
+        "word original": "picture"
+    },
+    "['marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'porc', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'Sus scrofa']": {
+        "prompt": "Espa\u00f1ol: \"cortina\" - Eesti: \"eesriie\"\nEspa\u00f1ol: \"falda\" - Eesti: \"seelik\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Eesti: \"nurk\"\nEspa\u00f1ol: \"calle\" - Eesti: \"maantee\"\nEspa\u00f1ol: \"hueso\" - Eesti: \"kont\"\nEspa\u00f1ol: \"marrano\" - Eesti: \"",
+        "target": "['siga', 'sigalane', 'Sus scrofa domestica']",
+        "word original": "pig"
+    },
+    "['ducto', 'tuber\u00eda', 'conducto', 'conducto de agua', 'acueducto', 'Tuber\u00eda', 'tuber\u00edas', 'ca\u00f1er\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"tarifa\" - Eesti: \"tasu\"\nEspa\u00f1ol: \"hospital\" - Eesti: \"haigla\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"biblioteca\" - Eesti: \"raamatukogu\"\nEspa\u00f1ol: \"lavabo\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"ducto\" - Eesti: \"",
+        "target": "['Akvedukt', 'akvedukt', 'toru', 'Torustik', 'Toru']",
+        "word original": "pipe"
+    },
+    "['avi\u00f3n', 'aeronave', 'aeroplano']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Eesti: \"sulg\"\nEspa\u00f1ol: \"red de computadoras\" - Eesti: \"Internet\"\nEspa\u00f1ol: \"nervio\" - Eesti: \"n\u00e4rv\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"avi\u00f3n\" - Eesti: \"",
+        "target": "['\u00f5hus\u00f5iduk', '\u00d5hus\u00f5iduk', 'lennuk', 'aeroplaan']",
+        "word original": "plane"
+    },
+    "['placa', 'chapa', 'patente', 'matr\u00edcula', 'tablilla', 'distintivo', 'insignia', 'pin', 'medalla', 'piocha', 'plancha']": {
+        "prompt": "Espa\u00f1ol: \"sierpe\" - Eesti: \"madu\"\nEspa\u00f1ol: \"cepillo del pelo\" - Eesti: \"Hari\"\nEspa\u00f1ol: \"factura\" - Eesti: \"arve\"\nEspa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"cabello\" - Eesti: \"karv\"\nEspa\u00f1ol: \"placa\" - Eesti: \"",
+        "target": "['tunnus', 'm\u00e4rk']",
+        "word original": "plate"
+    },
+    "['arado', 'arar', 'arada']": {
+        "prompt": "Espa\u00f1ol: \"domingo\" - Eesti: \"p\u00fchap\u00e4ev\"\nEspa\u00f1ol: \"marrano\" - Eesti: \"siga\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"arado\" - Eesti: \"",
+        "target": "['ader', 'Ader']",
+        "word original": "plough"
+    },
+    "['bolsillo', 'encuadernaci\u00f3n de tapa blanda', 'r\u00fastica', 'encuadernaci\u00f3n en r\u00fastica', 'libro de bolsillo', 'bolsa']": {
+        "prompt": "Espa\u00f1ol: \"cuadrado\" - Eesti: \"ruut\"\nEspa\u00f1ol: \"manantial\" - Eesti: \"allikas\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Eesti: \"funktsioon\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Eesti: \"ID-kaart\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"",
+        "target": "['tasku', 'Tasku']",
+        "word original": "pocket"
+    },
+    "['inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"barco\" - Eesti: \"laev\"\nEspa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"taza\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"inodoro\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'tualett', 'Tualett']",
+        "word original": "pot"
+    },
+    "['patata', 'papa', 'Solanum tuberosum', 'tater']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"pie\" - Eesti: \"indoeuroopa algkeel\"\nEspa\u00f1ol: \"u\u00f1a\" - Eesti: \"k\u00fc\u00fcs\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"pastel\" - Eesti: \"Kook\"\nEspa\u00f1ol: \"patata\" - Eesti: \"",
+        "target": "['kartul', 'harilik kartul']",
+        "word original": "potato"
+    },
+    "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']": {
+        "prompt": "Espa\u00f1ol: \"biblioteca\" - Eesti: \"raamatukogu\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Eesti: \"raudtees\u00f5iduk\"\nEspa\u00f1ol: \"m\u00fasculo\" - Eesti: \"lihas\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Eesti: \"fosfor\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Eesti: \"",
+        "target": "['vangla']",
+        "word original": "prison"
+    },
+    "['v\u00eda', 'calle', 'rieles', 'v\u00eda del ferrocarril', 'v\u00eda f\u00e9rrea', 'ferrocarriles', 'ferrocarril', 'modo', 'manera', 'guisa', 'moda', 'forma', 'estilo']": {
+        "prompt": "Espa\u00f1ol: \"ducto\" - Eesti: \"Akvedukt\"\nEspa\u00f1ol: \"dedo\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nEspa\u00f1ol: \"taza\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"nervio\" - Eesti: \"n\u00e4rv\"\nEspa\u00f1ol: \"iglesia\" - Eesti: \"kirik\"\nEspa\u00f1ol: \"v\u00eda\" - Eesti: \"",
+        "target": "['t\u00e4nav', 'r\u00f6\u00f6bastee', 'R\u00f6\u00f6bastee']",
+        "word original": "rail"
+    },
+    "['rata', 'Rattus', 'rat', 'rattus', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus']": {
+        "prompt": "Espa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"cabra\" - Eesti: \"kits\"\nEspa\u00f1ol: \"puerta\" - Eesti: \"uks\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Eesti: \"p\u00fcksid\"\nEspa\u00f1ol: \"rata\" - Eesti: \"",
+        "target": "['rott', 'Hiir', 'hiir']",
+        "word original": "rat"
+    },
+    "['factura', 'albar\u00e1n', 'recibo', 'cuenta']": {
+        "prompt": "Espa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"hospital\" - Eesti: \"haigla\"\nEspa\u00f1ol: \"fuerza\" - Eesti: \"relvaj\u00f5ud\"\nEspa\u00f1ol: \"tarifa\" - Eesti: \"tasu\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"factura\" - Eesti: \"",
+        "target": "['arve']",
+        "word original": "receipt"
+    },
+    "['castigo corporal', 'castigo f\u00edsico']": {
+        "prompt": "Espa\u00f1ol: \"dedos del pie\" - Eesti: \"varvas\"\nEspa\u00f1ol: \"rata\" - Eesti: \"rott\"\nEspa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"castigo corporal\" - Eesti: \"",
+        "target": "['ihunuhtlus', 'Ihunuhtlus']",
+        "word original": "rod"
+    },
+    "['techumbre', 'techo', 'cubierta', 'tejado']": {
+        "prompt": "Espa\u00f1ol: \"universidad\" - Eesti: \"\u00fclikool\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"bote\" - Eesti: \"paat\"\nEspa\u00f1ol: \"boca\" - Eesti: \"suu\"\nEspa\u00f1ol: \"cuello\" - Eesti: \"kael\"\nEspa\u00f1ol: \"techumbre\" - Eesti: \"",
+        "target": "['katus']",
+        "word original": "roof"
+    },
+    "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']": {
+        "prompt": "Espa\u00f1ol: \"hoja\" - Eesti: \"paber\"\nEspa\u00f1ol: \"paquete\" - Eesti: \"tarkvara\"\nEspa\u00f1ol: \"ala\" - Eesti: \"Alaniin\"\nEspa\u00f1ol: \"isla\" - Eesti: \"saar\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Eesti: \"organisatsioon\"\nEspa\u00f1ol: \"barco de vela\" - Eesti: \"",
+        "target": "['purjekas', 'purjelaev']",
+        "word original": "sail"
+    },
+    "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'college']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"arresto\" - Eesti: \"Vahistamine\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"kedrus\"\nEspa\u00f1ol: \"pescado\" - Eesti: \"kala\"\nEspa\u00f1ol: \"guante\" - Eesti: \"s\u00f5rmik\"\nEspa\u00f1ol: \"universidad\" - Eesti: \"",
+        "target": "['\u00fclikool', 'kool', 'Kolled\u017e', 'kolled\u017e', 'akadeemia']",
+        "word original": "school"
+    },
+    "['sax', 'tijeras', 'tijera']": {
+        "prompt": "Espa\u00f1ol: \"ladrillo\" - Eesti: \"tellis\"\nEspa\u00f1ol: \"l\u00e1piz\" - Eesti: \"pliiats\"\nEspa\u00f1ol: \"ropa\" - Eesti: \"riietus\"\nEspa\u00f1ol: \"peine\" - Eesti: \"kamm\"\nEspa\u00f1ol: \"red de computadoras\" - Eesti: \"Internet\"\nEspa\u00f1ol: \"sax\" - Eesti: \"",
+        "target": "['k\u00e4\u00e4rid', 'K\u00e4\u00e4rid']",
+        "word original": "scissors"
+    },
+    "['semilla', 'pepita', 'simiente']": {
+        "prompt": "Espa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"barco\" - Eesti: \"laev\"\nEspa\u00f1ol: \"techumbre\" - Eesti: \"katus\"\nEspa\u00f1ol: \"guante\" - Eesti: \"s\u00f5rmik\"\nEspa\u00f1ol: \"estante\" - Eesti: \"raamaturiiul\"\nEspa\u00f1ol: \"semilla\" - Eesti: \"",
+        "target": "['seeme']",
+        "word original": "seed"
+    },
+    "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia']": {
+        "prompt": "Espa\u00f1ol: \"m\u00fasculo\" - Eesti: \"lihas\"\nEspa\u00f1ol: \"techumbre\" - Eesti: \"katus\"\nEspa\u00f1ol: \"sax\" - Eesti: \"k\u00e4\u00e4rid\"\nEspa\u00f1ol: \"pastel\" - Eesti: \"Kook\"\nEspa\u00f1ol: \"casa\" - Eesti: \"ehitus\"\nEspa\u00f1ol: \"oveja\" - Eesti: \"",
+        "target": "['lambad', 'lammas']",
+        "word original": "sheep"
+    },
+    "['estante', 'biblioteca', 'estanter\u00eda', 'librero', 'librer\u00eda', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"autoridad\" - Eesti: \"kontor\"\nEspa\u00f1ol: \"paquete\" - Eesti: \"tarkvara\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"semilla\" - Eesti: \"seeme\"\nEspa\u00f1ol: \"nariz\" - Eesti: \"nina\"\nEspa\u00f1ol: \"estante\" - Eesti: \"",
+        "target": "['raamaturiiul', 'raamatukapp', 'Riiul', 'riiul']",
+        "word original": "shelf"
+    },
+    "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'transbordador', 'ferry', 'ferri', 'bote', 'barca', 'barcos', 'casco', 'vaso']": {
+        "prompt": "Espa\u00f1ol: \"camisa\" - Eesti: \"T-s\u00e4rk\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"timbre\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"castigo corporal\" - Eesti: \"ihunuhtlus\"\nEspa\u00f1ol: \"barco\" - Eesti: \"",
+        "target": "['laev', 'parvlaev', 'paat', 'vees\u00f5iduk', 'Vees\u00f5iduk']",
+        "word original": "ship"
+    },
+    "['camisa', 'su\u00e9ter', 'camiseta', 'jersey', 'playera', 'Camiseta manga larga', 'polera', 't-shirt', 'niqui']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00f1o\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"bote\" - Eesti: \"paat\"\nEspa\u00f1ol: \"estrella\" - Eesti: \"t\u00e4ht\"\nEspa\u00f1ol: \"sombrero\" - Eesti: \"m\u00fcts\"\nEspa\u00f1ol: \"camisa\" - Eesti: \"",
+        "target": "['T-s\u00e4rk', 's\u00e4rk']",
+        "word original": "shirt"
+    },
+    "['zapato']": {
+        "prompt": "Espa\u00f1ol: \"gato\" - Eesti: \"kass\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Eesti: \"nurk\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"casa\" - Eesti: \"ehitus\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"",
+        "target": "['king', 'kingad']",
+        "word original": "tongue"
+    },
+    "['piel', 'cutis', 'tegumento', 'cuero', 'marroquiner\u00eda', 'pelaje']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - Eesti: \"sild\"\nEspa\u00f1ol: \"falda\" - Eesti: \"seelik\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"taza\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"trampa\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nEspa\u00f1ol: \"piel\" - Eesti: \"",
+        "target": "['nahk', 'Nahk', 'karusnahk', 'karvastik']",
+        "word original": "skin"
+    },
+    "['falda', 'saya', 'enaguas', 'pollera', 'inclinaci\u00f3n', 'pendiente', 'subida', 'cuesta']": {
+        "prompt": "Espa\u00f1ol: \"espada\" - Eesti: \"m\u00f5\u00f5k\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"vihmavari\"\nEspa\u00f1ol: \"manantial\" - Eesti: \"allikas\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"cola\" - Eesti: \"protsessioon\"\nEspa\u00f1ol: \"falda\" - Eesti: \"",
+        "target": "['seelik', 'Seelik']",
+        "word original": "skirt"
+    },
+    "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']": {
+        "prompt": "Espa\u00f1ol: \"sat\u00e9lite\" - Eesti: \"satelliit\"\nEspa\u00f1ol: \"domingo\" - Eesti: \"p\u00fchap\u00e4ev\"\nEspa\u00f1ol: \"trampa\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nEspa\u00f1ol: \"bandera\" - Eesti: \"lipp\"\nEspa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"sierpe\" - Eesti: \"",
+        "target": "['madu', 'maolised']",
+        "word original": "snake"
+    },
+    "['calcet\u00edn', 'media', 'calcetines']": {
+        "prompt": "Espa\u00f1ol: \"cuello\" - Eesti: \"kael\"\nEspa\u00f1ol: \"pared\" - Eesti: \"sein\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"techumbre\" - Eesti: \"katus\"\nEspa\u00f1ol: \"calcet\u00edn\" - Eesti: \"",
+        "target": "['Sokk', 'sokk']",
+        "word original": "sock"
+    },
+    "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"ganado bovino\" - Eesti: \"veised\"\nEspa\u00f1ol: \"pierna\" - Eesti: \"jalg\"\nEspa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"jalgratas\"\nEspa\u00f1ol: \"esponja\" - Eesti: \"",
+        "target": "['k\u00e4sn', 'k\u00e4snad']",
+        "word original": "sponge"
+    },
+    "['cuchara']": {
+        "prompt": "Espa\u00f1ol: \"avi\u00f3n\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEspa\u00f1ol: \"autoridad\" - Eesti: \"kontor\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"calcet\u00edn\" - Eesti: \"Sokk\"\nEspa\u00f1ol: \"manantial\" - Eesti: \"allikas\"\nEspa\u00f1ol: \"cuchara\" - Eesti: \"",
+        "target": "['lusikas', 'Lusikas']",
+        "word original": "spoon"
+    },
+    "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"p\u00e1jaro\" - Eesti: \"lind\"\nEspa\u00f1ol: \"marrano\" - Eesti: \"siga\"\nEspa\u00f1ol: \"bolsillo\" - Eesti: \"tasku\"\nEspa\u00f1ol: \"estrella\" - Eesti: \"t\u00e4ht\"\nEspa\u00f1ol: \"abeja\" - Eesti: \"mesilane\"\nEspa\u00f1ol: \"manantial\" - Eesti: \"",
+        "target": "['allikas', 'l\u00e4te', 'veesilm']",
+        "word original": "spring"
+    },
+    "['cuadrado', 'cuadro', 'cuadrado perfecto']": {
+        "prompt": "Espa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"mesa\" - Eesti: \"lavamaa\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"calle\" - Eesti: \"maantee\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Eesti: \"ID-kaart\"\nEspa\u00f1ol: \"cuadrado\" - Eesti: \"",
+        "target": "['ruut', 'Ruut']",
+        "word original": "square"
+    },
+    "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']": {
+        "prompt": "Espa\u00f1ol: \"piel\" - Eesti: \"nahk\"\nEspa\u00f1ol: \"pescado\" - Eesti: \"kala\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"bolso\" - Eesti: \"k\u00e4ekott\"\nEspa\u00f1ol: \"avi\u00f3n\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEspa\u00f1ol: \"estampilla\" - Eesti: \"",
+        "target": "['postmark', 'mark']",
+        "word original": "stamp"
+    },
+    "['estrella', 'astro', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha', 'artista', 'protagonista']": {
+        "prompt": "Espa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"l\u00e1piz\" - Eesti: \"pliiats\"\nEspa\u00f1ol: \"mono\" - Eesti: \"ahv\"\nEspa\u00f1ol: \"ba\u00fal\" - Eesti: \"Kirst\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"estrella\" - Eesti: \"",
+        "target": "['t\u00e4ht', 'T\u00e4ht', 'superstaar', 'sepp', 'talent', 'adept', 'staar', 'Adept', 'kuulsus', 'filmit\u00e4ht', 'lavat\u00e4ht']",
+        "word original": "star"
+    },
+    "['estaci\u00f3n', 'temporada', 'temporada de un club deportivo', 'temporada deportiva', 'per\u00edodo', 'estaci\u00f3n del a\u00f1o', 'estaciones del a\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"estante\" - Eesti: \"raamaturiiul\"\nEspa\u00f1ol: \"esponja\" - Eesti: \"k\u00e4sn\"\nEspa\u00f1ol: \"m\u00fasculo\" - Eesti: \"lihas\"\nEspa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"red de computadoras\" - Eesti: \"Internet\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Eesti: \"",
+        "target": "['spordihooaeg', 'sesoon', 'aastaaeg', 'hooaeg', 'aastaajad']",
+        "word original": "station"
+    },
+    "['tallo']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Eesti: \"tunnus\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"tallo\" - Eesti: \"",
+        "target": "['vars']",
+        "word original": "stem"
+    },
+    "['cigarro', 'cigarrillo', 'colilla', 'pitillo', 'no fumador', 'h\u00e1bito de fumar', 'fumar', 'fumada', 'puro', 'cigarro puro', 'chicote', 'tagarnina']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"ba\u00fal\" - Eesti: \"Kirst\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"arma de fuego\" - Eesti: \"tulirelv\"\nEspa\u00f1ol: \"ba\u00f1o\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"cigarro\" - Eesti: \"",
+        "target": "['pabeross', 'sigaret', 'tobi', 'suits', 'sigarett', 'Sigaret', 'suitsetamine', 'Sigar', 'sigar']",
+        "word original": "stick"
+    },
+    "['medias', 'media']": {
+        "prompt": "Espa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"labio\" - Eesti: \"huuled\"\nEspa\u00f1ol: \"cabra\" - Eesti: \"kits\"\nEspa\u00f1ol: \"piel\" - Eesti: \"nahk\"\nEspa\u00f1ol: \"marrano\" - Eesti: \"siga\"\nEspa\u00f1ol: \"medias\" - Eesti: \"",
+        "target": "['Sukad']",
+        "word original": "stocking"
+    },
+    "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero']": {
+        "prompt": "Espa\u00f1ol: \"medias\" - Eesti: \"Sukad\"\nEspa\u00f1ol: \"cuchara\" - Eesti: \"lusikas\"\nEspa\u00f1ol: \"nudo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"",
+        "target": "['k\u00f5ht', 'magu', 'Magu']",
+        "word original": "stomach"
+    },
+    "['memoria', 'ret\u00f3rica', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional', 'estudio', 'reporte', 'informe']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Eesti: \"tunnus\"\nEspa\u00f1ol: \"guante\" - Eesti: \"s\u00f5rmik\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"u\u00f1a\" - Eesti: \"k\u00fc\u00fcs\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"",
+        "target": "['Retoorika', 'retoorika', 'M\u00e4lu', 'm\u00e4lu', 'arvuti m\u00e4lu', 'aruanne', 'Aruanne']",
+        "word original": "store"
+    },
+    "['calle', 'carretera', 'camino', 'itinerario', 'ruta', 'rua']": {
+        "prompt": "Espa\u00f1ol: \"naranja\" - Eesti: \"oran\u017e\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Eesti: \"funktsioon\"\nEspa\u00f1ol: \"oveja\" - Eesti: \"lambad\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"camisa\" - Eesti: \"T-s\u00e4rk\"\nEspa\u00f1ol: \"calle\" - Eesti: \"",
+        "target": "['maantee', 'tee', 'marsruut', 'teekond']",
+        "word original": "street"
+    },
+    "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']": {
+        "prompt": "Espa\u00f1ol: \"bandera\" - Eesti: \"lipp\"\nEspa\u00f1ol: \"arado\" - Eesti: \"ader\"\nEspa\u00f1ol: \"gato\" - Eesti: \"kass\"\nEspa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Eesti: \"funktsioon\"\nEspa\u00f1ol: \"domingo\" - Eesti: \"",
+        "target": "['p\u00fchap\u00e4ev']",
+        "word original": "sun"
+    },
+    "['mesa', 'meseta', 'aljarafe', 'altiplano', 'ajarafe', 'altiplan\u00edcie']": {
+        "prompt": "Espa\u00f1ol: \"bandera\" - Eesti: \"lipp\"\nEspa\u00f1ol: \"universidad\" - Eesti: \"\u00fclikool\"\nEspa\u00f1ol: \"tallo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"jard\u00edn\" - Eesti: \"aed\"\nEspa\u00f1ol: \"ventana\" - Eesti: \"aken\"\nEspa\u00f1ol: \"mesa\" - Eesti: \"",
+        "target": "['lavamaa', 'laud']",
+        "word original": "table"
+    },
+    "['cola', 'procesi\u00f3n', 'convoy', 'pompa', 'comparsa', 'comitiva', 'romer\u00eda', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'tren', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Eesti: \"s\u00fcda\"\nEspa\u00f1ol: \"rodilla\" - Eesti: \"p\u00f5lv\"\nEspa\u00f1ol: \"bolso\" - Eesti: \"k\u00e4ekott\"\nEspa\u00f1ol: \"perra\" - Eesti: \"koer\"\nEspa\u00f1ol: \"c\u00edrculo\" - Eesti: \"ringjoon\"\nEspa\u00f1ol: \"cola\" - Eesti: \"",
+        "target": "['protsessioon', 'Protsessioon', 'saba', 'hammas\u00fclekanne', 'Hammas\u00fclekanne']",
+        "word original": "tail"
+    },
+    "['hilo', 'hebra', 'hilado', 'lana', 'hilaza', 'cordel', 'mecate', 'cuerda', 'guita', 'bramante', 'cord\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"documento nacional de identidad\" - Eesti: \"ID-kaart\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"falda\" - Eesti: \"seelik\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"vihmauss\"\nEspa\u00f1ol: \"factura\" - Eesti: \"arve\"\nEspa\u00f1ol: \"hilo\" - Eesti: \"",
+        "target": "['kedrus', 'l\u00f5ng', 'niit', 'n\u00f6\u00f6r', 'N\u00f6\u00f6r']",
+        "word original": "thread"
+    },
+    "['garganta', 'ca\u00f1\u00f3n', 'desfiladero', 'ca\u00f1\u00f3', 'canon', 'congosto', 'can\u00f3n', 'barranca', 'faringe']": {
+        "prompt": "Espa\u00f1ol: \"bombillo\" - Eesti: \"pirn\"\nEspa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"cuello\" - Eesti: \"kael\"\nEspa\u00f1ol: \"medias\" - Eesti: \"Sukad\"\nEspa\u00f1ol: \"garganta\" - Eesti: \"",
+        "target": "['kanjon', 'kurk']",
+        "word original": "throat"
+    },
+    "['pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"caballo\" - Eesti: \"hobune\"\nEspa\u00f1ol: \"calcet\u00edn\" - Eesti: \"Sokk\"\nEspa\u00f1ol: \"rostro\" - Eesti: \"n\u00e4gu\"\nEspa\u00f1ol: \"ba\u00fal\" - Eesti: \"Kirst\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"",
+        "target": "['p\u00f6ial']",
+        "word original": "thumb"
+    },
+    "['tarifa', 'honorario', 'tasa', 'cuota', 'honorarios', 'estipendio', 'pasaje', 'billete']": {
+        "prompt": "Espa\u00f1ol: \"estaci\u00f3n\" - Eesti: \"spordihooaeg\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"anillo\" - Eesti: \"s\u00f5rmus\"\nEspa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"tarifa\" - Eesti: \"",
+        "target": "['tasu']",
+        "word original": "ticket"
+    },
+    "['dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie', 'dedo']": {
+        "prompt": "Espa\u00f1ol: \"ladrillo\" - Eesti: \"tellis\"\nEspa\u00f1ol: \"granja\" - Eesti: \"talu\"\nEspa\u00f1ol: \"barbilla\" - Eesti: \"l\u00f5ug\"\nEspa\u00f1ol: \"balde\" - Eesti: \"\u00c4mber\"\nEspa\u00f1ol: \"ropa\" - Eesti: \"riietus\"\nEspa\u00f1ol: \"dedos del pie\" - Eesti: \"",
+        "target": "['varvas']",
+        "word original": "toe"
+    },
+    "['diente', 'dientes', 'diente humano']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1scara de manzana\" - Eesti: \"\u00f5un\"\nEspa\u00f1ol: \"tallo\" - Eesti: \"vars\"\nEspa\u00f1ol: \"patata\" - Eesti: \"kartul\"\nEspa\u00f1ol: \"nariz\" - Eesti: \"nina\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"diente\" - Eesti: \"",
+        "target": "['Hambad', 'hammas', 'hambad']",
+        "word original": "tooth"
+    },
+    "['tren', 'ferrocarril', 'locomotora', 'trenes', 'convoy', 'procesi\u00f3n', 'cola', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"autoridad\" - Eesti: \"kontor\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Eesti: \"pesapall\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Eesti: \"kaamera\"\nEspa\u00f1ol: \"pastel\" - Eesti: \"Kook\"\nEspa\u00f1ol: \"arco\" - Eesti: \"vibu\"\nEspa\u00f1ol: \"tren\" - Eesti: \"",
+        "target": "['rong', 'hammas\u00fclekanne', 'Hammas\u00fclekanne']",
+        "word original": "train"
+    },
+    "['\u00e1rbol', 'arbol']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Eesti: \"kell\"\nEspa\u00f1ol: \"cuello\" - Eesti: \"kael\"\nEspa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"zapato\" - Eesti: \"king\"\nEspa\u00f1ol: \"peine\" - Eesti: \"kamm\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"",
+        "target": "['puu']",
+        "word original": "tree"
+    },
+    "['pantal\u00f3n', 'pantalones', 'herales']": {
+        "prompt": "Espa\u00f1ol: \"queso\" - Eesti: \"juust\"\nEspa\u00f1ol: \"tarifa\" - Eesti: \"tasu\"\nEspa\u00f1ol: \"pulgar\" - Eesti: \"p\u00f6ial\"\nEspa\u00f1ol: \"cuadrado\" - Eesti: \"ruut\"\nEspa\u00f1ol: \"rata\" - Eesti: \"rott\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Eesti: \"",
+        "target": "['p\u00fcksid', 'P\u00fcksid']",
+        "word original": "trousers"
+    },
+    "['paraguas', 'sombrilla', 'parasol']": {
+        "prompt": "Espa\u00f1ol: \"biblioteca\" - Eesti: \"raamatukogu\"\nEspa\u00f1ol: \"casaca\" - Eesti: \"jakk\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"caballo\" - Eesti: \"hobune\"\nEspa\u00f1ol: \"peine\" - Eesti: \"kamm\"\nEspa\u00f1ol: \"paraguas\" - Eesti: \"",
+        "target": "['vihmavari']",
+        "word original": "umbrella"
+    },
+    "['pared', 'muro', 'muralla']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Eesti: \"Internet\"\nEspa\u00f1ol: \"cepillo del pelo\" - Eesti: \"Hari\"\nEspa\u00f1ol: \"est\u00f3mago\" - Eesti: \"k\u00f5ht\"\nEspa\u00f1ol: \"memoria\" - Eesti: \"Retoorika\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Eesti: \"ID-kaart\"\nEspa\u00f1ol: \"pared\" - Eesti: \"",
+        "target": "['sein', 'm\u00fc\u00fcr']",
+        "word original": "wall"
+    },
+    "['bicicleta', 'bici', 'bicicletas']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Eesti: \"karv\"\nEspa\u00f1ol: \"avi\u00f3n\" - Eesti: \"\u00f5hus\u00f5iduk\"\nEspa\u00f1ol: \"o\u00eddo\" - Eesti: \"k\u00f5rv\"\nEspa\u00f1ol: \"puerta\" - Eesti: \"uks\"\nEspa\u00f1ol: \"iglesia\" - Eesti: \"kirik\"\nEspa\u00f1ol: \"bicicleta\" - Eesti: \"",
+        "target": "['jalgratas', 'ratas']",
+        "word original": "wheel"
+    },
+    "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']": {
+        "prompt": "Espa\u00f1ol: \"cigarro\" - Eesti: \"pabeross\"\nEspa\u00f1ol: \"mosca\" - Eesti: \"Kahetiivalised\"\nEspa\u00f1ol: \"joya\" - Eesti: \"ehted\"\nEspa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"isla\" - Eesti: \"saar\"\nEspa\u00f1ol: \"fuete\" - Eesti: \"",
+        "target": "['piits', 'Piits']",
+        "word original": "whip"
+    },
+    "['ventana']": {
+        "prompt": "Espa\u00f1ol: \"piel\" - Eesti: \"nahk\"\nEspa\u00f1ol: \"cabra\" - Eesti: \"kits\"\nEspa\u00f1ol: \"\u00e1rbol\" - Eesti: \"puu\"\nEspa\u00f1ol: \"huevo de gallina\" - Eesti: \"muna\"\nEspa\u00f1ol: \"medias\" - Eesti: \"Sukad\"\nEspa\u00f1ol: \"ventana\" - Eesti: \"",
+        "target": "['aken']",
+        "word original": "window"
+    },
+    "['ala', 'alanina']": {
+        "prompt": "Espa\u00f1ol: \"medias\" - Eesti: \"Sukad\"\nEspa\u00f1ol: \"cuchillo\" - Eesti: \"nuga\"\nEspa\u00f1ol: \"lavabo\" - Eesti: \"k\u00e4imla\"\nEspa\u00f1ol: \"gota\" - Eesti: \"Podagra\"\nEspa\u00f1ol: \"paquete\" - Eesti: \"tarkvara\"\nEspa\u00f1ol: \"ala\" - Eesti: \"",
+        "target": "['Alaniin', 'alaniin', 'tiib', 'Tiib']",
+        "word original": "wing"
+    },
+    "['cable', 'televisi\u00f3n por cable', 'alambre']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Eesti: \"alaealine\"\nEspa\u00f1ol: \"pel\u00edcula\" - Eesti: \"film\"\nEspa\u00f1ol: \"nariz\" - Eesti: \"nina\"\nEspa\u00f1ol: \"guimbarda\" - Eesti: \"kornet\"\nEspa\u00f1ol: \"mente\" - Eesti: \"nous\"\nEspa\u00f1ol: \"cable\" - Eesti: \"",
+        "target": "['Kaabeltelevisioon', 'kaabeltelevisioon', 'kaabel']",
+        "word original": "wire"
+    },
+    "['gusano', 'lombriz de tierra', 'Lumbricina', 'lombriz', 'Crassiclitellata', 'verme']": {
+        "prompt": "Espa\u00f1ol: \"tren\" - Eesti: \"rong\"\nEspa\u00f1ol: \"ave de corral\" - Eesti: \"sulgloomad\"\nEspa\u00f1ol: \"estampilla\" - Eesti: \"postmark\"\nEspa\u00f1ol: \"cuadrado\" - Eesti: \"ruut\"\nEspa\u00f1ol: \"tenedor\" - Eesti: \"Ristmik\"\nEspa\u00f1ol: \"gusano\" - Eesti: \"",
+        "target": "['vihmauss', 'Vihmauslased', 'uss', 'ussid', 'Ussid']",
+        "word original": "worm"
+    }
+}

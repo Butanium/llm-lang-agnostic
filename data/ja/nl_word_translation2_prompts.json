@@ -1,0 +1,842 @@
+{
+    "['\u89d2', '\u89d2\u5ea6', '\u6d1e\u89d2', '\u30b3\u30fc\u30ca\u30fc', '\u8857\u89d2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"boog\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30fc\u30c6\u30f3\" - Nederlands: \"gordijn\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"maand\"\n\u65e5\u672c\u8a9e: \"\u9aa8\" - Nederlands: \"knok\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"",
+        "target": "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek', 'hoorn', 'Hoorn', 'hoorntje', 'horen', 'straathoek']",
+        "word original": "angle"
+    },
+    "['\u87fb', '\u30a2\u30ea']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u99ac\" - Nederlands: \"paard\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30c3\u30d7\" - Nederlands: \"kop\"\n\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"sok\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u6a39\u6728\" - Nederlands: \"boom\"\n\u65e5\u672c\u8a9e: \"\u87fb\" - Nederlands: \"",
+        "target": "['mier', 'mieren']",
+        "word original": "ant"
+    },
+    "['\u6797\u6a8e', '\u30ea\u30f3\u30b4']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"kaas\"\n\u65e5\u672c\u8a9e: \"\u624b\u888b\" - Nederlands: \"handschoen\"\n\u65e5\u672c\u8a9e: \"\u9b5a\u985e\" - Nederlands: \"vissen\"\n\u65e5\u672c\u8a9e: \"\u8a18\u61b6\u88c5\u7f6e\" - Nederlands: \"opslagmedium\"\n\u65e5\u672c\u8a9e: \"\u7149\u74e6\" - Nederlands: \"klinker\"\n\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"",
+        "target": "['appelschil', 'appel']",
+        "word original": "apple"
+    },
+    "['\u30a2\u30fc\u30c1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"sok\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"",
+        "target": "['boog']",
+        "word original": "arch"
+    },
+    "['\u6b66\u5668', '\u5175\u5668']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"knie\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30c3\u30d7\" - Nederlands: \"kop\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"",
+        "target": "['wapen', 'gevechtswapen', 'strijdmiddel', 'ammunitie', 'munitie']",
+        "word original": "arm"
+    },
+    "['\u8ecd\u968a', '\u8ecd\u4e8b', '\u8ecd', '\u6b63\u898f\u8ecd', '\u9678\u8ecd']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d0\u30b1\u30c4\" - Nederlands: \"emmer\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30fc\u30c6\u30f3\" - Nederlands: \"gordijn\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u92e4\" - Nederlands: \"ploeg\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"spons\"\n\u65e5\u672c\u8a9e: \"\u8ecd\u968a\" - Nederlands: \"",
+        "target": "['strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e', 'reguliere krijgsmacht', 'heer']",
+        "word original": "army"
+    },
+    "['\u8d64\u3061\u3083\u3093', '\u8d64\u3093\u574a', '\u4e73\u5150', '\u5e7c\u5150']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u99ac\" - Nederlands: \"paard\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Nederlands: \"oogbol\"\n\u65e5\u672c\u8a9e: \"\u8d64\u3061\u3083\u3093\" - Nederlands: \"",
+        "target": "['baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje']",
+        "word original": "baby"
+    },
+    "['\u91ce\u7403']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\u30da\u30f3\" - Nederlands: \"balpen\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c1\" - Nederlands: \"bij\"\n\u65e5\u672c\u8a9e: \"\u3048\u3093\u3074\u3064\" - Nederlands: \"crayon\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"",
+        "target": "['honkbal']",
+        "word original": "ball"
+    },
+    "['\u6307\u8f2a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"mond\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"wolk\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"spons\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"",
+        "target": "['ring']",
+        "word original": "ring"
+    },
+    "['\u6d17\u9762\u5668', '\u6d17\u9762\u53f0', '\u8056\u6c34\u76e4', '\u6d41\u3057\u53f0', '\u30b7\u30f3\u30af', '\u30ad\u30c3\u30c1\u30f3\u30b7\u30f3\u30af', '\u6d41\u3057']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u9ce5\" - Nederlands: \"vogel\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"geweer\"\n\u65e5\u672c\u8a9e: \"\u6d17\u9762\u5668\" - Nederlands: \"",
+        "target": "['lavabo', 'wasbak', 'wastafel', 'waskom', 'Lavabo', 'bassin', 'bekken', 'gootsteen', 'afwasbak']",
+        "word original": "basin"
+    },
+    "['\u30d0\u30b9\u30eb\u30fc\u30e0', '\u6d74\u5ba4', '\u98a8\u5442\u5834', '\u6d74\u5834']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u92cf\" - Nederlands: \"schaar\"\n\u65e5\u672c\u8a9e: \"\u8db3\u6307\" - Nederlands: \"kleine teen\"\n\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"lover\"\n\u65e5\u672c\u8a9e: \"\u5bb6\u79bd\" - Nederlands: \"gevogelte\"\n\u65e5\u672c\u8a9e: \"\u9f3b\" - Nederlands: \"kaap\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"",
+        "target": "['wasgelegenheid', 'badkamer', 'badkuip', 'bad']",
+        "word original": "bath"
+    },
+    "['\u5e03\u56e3', '\u30d9\u30c3\u30c9', '\u81e5\u69bb', '\u5bdd\u5e8a', '\u5bdd\u53f0', '\u3075\u3068\u3093', '\u84b2\u56e3', '\u30de\u30c3\u30c8\u30ec\u30b9', '\u6bdb\u5e03']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"hals\"\n\u65e5\u672c\u8a9e: \"\u30d1\u30a4\u30d7\" - Nederlands: \"pijp\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"fles\"\n\u65e5\u672c\u8a9e: \"\u5e03\u56e3\" - Nederlands: \"",
+        "target": "['bed', 'legerstede', 'sponde', 'bedstede', 'ledikant', 'nest', 'matras', 'vlooienbunker', 'sprei', 'deken', 'gestikte deken', 'dek', 'beddendeken', 'beddedeken']",
+        "word original": "bed"
+    },
+    "['\u30cf\u30c1', '\u8702', '\u30cf\u30ca\u30d0\u30c1', '\u82b1\u8702']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8db3\u6307\" - Nederlands: \"kleine teen\"\n\u65e5\u672c\u8a9e: \"\u547c\u3073\u9234\" - Nederlands: \"deurbel\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Nederlands: \"paard\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"spons\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c1\" - Nederlands: \"",
+        "target": "['bij', 'honingbij', 'imme', 'bijen', 'wesp', 'plooiwesp']",
+        "word original": "bee"
+    },
+    "['\u547c\u3073\u9234', '\u30c9\u30a2\u30d9\u30eb', '\u96fb\u9234', '\u30c9\u30a2\u30c1\u30e3\u30a4\u30e0', '\u30d9\u30eb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"appelschil\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u5237\u5b50\" - Nederlands: \"borstel\"\n\u65e5\u672c\u8a9e: \"\u6620\u753b\" - Nederlands: \"film\"\n\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u547c\u3073\u9234\" - Nederlands: \"",
+        "target": "['deurbel', 'bel', 'zoemer', 'huisbel', 'klingel', 'schel', 'door Bell', 'ding-dong']",
+        "word original": "bell"
+    },
+    "['\u9ce5', '\u3068\u308a', '\u9ce5\u985e', 'Aves', '\u306b\u308f\u3068\u308a', '\u9d8f', '\u30cb\u30ef\u30c8\u30ea', 'Gallus gallus domesticus']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8033\" - Nederlands: \"oor\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u9ce5\" - Nederlands: \"",
+        "target": "['vogel', 'vogels', 'Eu-', 'vogeltje', 'kip', 'Gallus gallus domesticus', 'poulet']",
+        "word original": "bird"
+    },
+    "['\u5200', '\u5263']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u8863\u985e\" - Nederlands: \"kledij\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\u30da\u30f3\" - Nederlands: \"balpen\"\n\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"boog\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u5200\" - Nederlands: \"",
+        "target": "['zwaard', 'degen']",
+        "word original": "blade"
+    },
+    "['\u59d4\u54e1\u4f1a', '\u30b3\u30df\u30c3\u30b7\u30e7\u30f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"rem\"\n\u65e5\u672c\u8a9e: \"\u9b5a\u985e\" - Nederlands: \"vissen\"\n\u65e5\u672c\u8a9e: \"\u68da\" - Nederlands: \"kast\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30ab\u30fc\u30c8\" - Nederlands: \"rok\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"",
+        "target": "['comit\u00e9', 'commissie', 'kamer', 'cie', 'college', 'beheerraad', 'bestuur', 'board', 'raadscollege', 'raad', 'directie']",
+        "word original": "board"
+    },
+    "['\u821f', '\u8239', '\u5927\u578b\u8239\u8236', '\u30dc\u30fc\u30c8', '\u8239\u8236']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8ecd\u968a\" - Nederlands: \"strijdkrachten\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Nederlands: \"zitvlak\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"maand\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"wolk\"\n\u65e5\u672c\u8a9e: \"\u821f\" - Nederlands: \"",
+        "target": "['schip', 'kiel', 'boot', 'vaartuig', 'watervaartuig']",
+        "word original": "boat"
+    },
+    "['\u9aa8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8eab\u5206\u8a3c\" - Nederlands: \"identiteitskaart\"\n\u65e5\u672c\u8a9e: \"\u98db\u884c\u6a5f\" - Nederlands: \"toestel\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u8033\" - Nederlands: \"oor\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u9aa8\" - Nederlands: \"",
+        "target": "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat']",
+        "word original": "bone"
+    },
+    "['\u672c']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Nederlands: \"",
+        "target": "['boek', 'boeken', 'album', 'boekwerk', 'boekje']",
+        "word original": "book"
+    },
+    "['\u74f6']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u821f\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30fc\u30c6\u30f3\" - Nederlands: \"gordijn\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"knie\"\n\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"",
+        "target": "['fles']",
+        "word original": "bottle"
+    },
+    "['\u7bb1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"zon\"\n\u65e5\u672c\u8a9e: \"\u6559\u4f1a\" - Nederlands: \"kerk\"\n\u65e5\u672c\u8a9e: \"\u30ba\u30dc\u30f3\" - Nederlands: \"broek\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Nederlands: \"oogbol\"\n\u65e5\u672c\u8a9e: \"\u7bb1\" - Nederlands: \"",
+        "target": "['dozen', 'doos', 'bak', 'koker', 'beschermhuls', 'huls']",
+        "word original": "box"
+    },
+    "['\u7537\u306e\u5b50', '\u5c11\u5e74']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"hals\"\n\u65e5\u672c\u8a9e: \"\u6620\u753b\" - Nederlands: \"film\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30ec\u30f3\u30b8\u8272\" - Nederlands: \"oranje\"\n\u65e5\u672c\u8a9e: \"\u7537\u306e\u5b50\" - Nederlands: \"",
+        "target": "['joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen', 'zoonlief', 'zoon']",
+        "word original": "boy"
+    },
+    "['\u5fc3', '\u970a\u9b42', '\u30cc\u30fc\u30b9', '\u5ff5\u982d', '\u30d7\u30b7\u30e5\u30b1\u30fc', '\u4e2d\u5fc3', '\u82af']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u5200\" - Nederlands: \"zwaard\"\n\u65e5\u672c\u8a9e: \"\u795e\u7d4c\" - Nederlands: \"zenuwstelsel\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Nederlands: \"boek\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"",
+        "target": "['ziel', 'psyche', 'soul', 'animus', 'geest', 'mensenziel', 'brein', 'verstand', 'Nous', 'nous', 'denkvermogen', 'rede', 'kern']",
+        "word original": "head"
+    },
+    "['\u30d6\u30ec\u30fc\u30ad']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"appelschil\"\n\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30c3\u30d7\" - Nederlands: \"kop\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"",
+        "target": "['rem', 'remmen']",
+        "word original": "brake"
+    },
+    "['\u7d4c\u6e08\u5b66', '\u653f\u6cbb\u7d4c\u6e08\u5b66']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5b9d\u77f3\" - Nederlands: \"edelsteen\"\n\u65e5\u672c\u8a9e: \"\u5c4b\u6839\" - Nederlands: \"dak\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"stengel\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u7d4c\u6e08\u5b66\" - Nederlands: \"",
+        "target": "['economie', 'politieke economie']",
+        "word original": "branch"
+    },
+    "['\u7149\u74e6']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"etnische muziek\"\n\u65e5\u672c\u8a9e: \"\u76e3\u7344\" - Nederlands: \"nor\"\n\u65e5\u672c\u8a9e: \"\u9b5a\u985e\" - Nederlands: \"vissen\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30ec\u30d3\" - Nederlands: \"video\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c3\u30c8\" - Nederlands: \"hoed\"\n\u65e5\u672c\u8a9e: \"\u7149\u74e6\" - Nederlands: \"",
+        "target": "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']",
+        "word original": "brick"
+    },
+    "['\u306f\u3057', '\u6a4b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9375\" - Nederlands: \"sleutel\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u984e\" - Nederlands: \"kin\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"",
+        "target": "['brug', 'lijst van Romeinse bruggen']",
+        "word original": "bridge"
+    },
+    "['\u5237\u5b50', '\u30d6\u30e9\u30b7', '\u5237\u6bdb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Nederlands: \"paard\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u86c7\" - Nederlands: \"slang\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u5237\u5b50\" - Nederlands: \"",
+        "target": "['borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']",
+        "word original": "brush"
+    },
+    "['\u30d0\u30b1\u30c4', '\u30da\u30fc\u30eb\u7f36', '\u624b\u6876', '\u6876']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"tronie\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u5b50\" - Nederlands: \"zaad\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"gloeilamp\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b1\u30c4\" - Nederlands: \"",
+        "target": "['emmer']",
+        "word original": "bucket"
+    },
+    "['\u96fb\u7403', '\u767d\u71b1\u96fb\u7403', '\u767d\u71b1\u706f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc\" - Nederlands: \"schokbreker\"\n\u65e5\u672c\u8a9e: \"\u7bb1\" - Nederlands: \"dozen\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"appelschil\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"",
+        "target": "['gloeilamp', 'elektrisch licht', 'peer']",
+        "word original": "bulb"
+    },
+    "['\u30b1\u30fc\u30ad', '\u83d3\u5b50\u306a', '\u30d1\u30a4']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u72ac\" - Nederlands: \"hond\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30ec\u30f3\u30b8\u8272\" - Nederlands: \"oranje\"\n\u65e5\u672c\u8a9e: \"\u722a\" - Nederlands: \"vingernagel\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u6d17\u9762\u5668\" - Nederlands: \"lavabo\"\n\u65e5\u672c\u8a9e: \"\u30b1\u30fc\u30ad\" - Nederlands: \"",
+        "target": "['cake', 'taart', 'pastei', 'pie', 'gebak']",
+        "word original": "cake"
+    },
+    "['\u30ab\u30e1\u30e9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5bb6\" - Nederlands: \"optrekje\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"tronie\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\" - Nederlands: \"netwerk\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"spons\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"",
+        "target": "['fotocamera', 'camera', 'videocamera', 'filmcamera', 'fototoestel', 'televisiecamera']",
+        "word original": "camera"
+    },
+    "['\u8eab\u5206\u8a3c', '\u8eab\u5206\u8a3c\u660e\u66f8', '\uff29\uff24\u30ab\u30fc\u30c9', '\uff29\uff24']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"wasgelegenheid\"\n\u65e5\u672c\u8a9e: \"\u8eab\u5206\u8a3c\" - Nederlands: \"",
+        "target": "['identiteitskaart', 'legitimatiebewijs', 'stamkaart', 'identiteitsbewijs', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']",
+        "word original": "card"
+    },
+    "['\u99ac\u8eca', '\u30d0\u30b9', '\u9ad8\u901f\u30d0\u30b9', '\u30e2\u30fc\u30bf\u30fc\u30d0\u30b9', '\u30b3\u30fc\u30c1', '\u4e57\u5408\u81ea\u52d5\u8eca', '\u4e57\u5408\u30d0\u30b9', '\u30ad\u30e3\u30ea\u30c3\u30b8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"kring\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u30d1\u30a4\u30d7\" - Nederlands: \"pijp\"\n\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"rem\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"",
+        "target": "['bus', 'autobus', 'koets', 'stadsbus', 'touringcar', 'klein busje', 'omnibus', 'dubbeldekker', 'wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'break', 'brik', 'janplezier']",
+        "word original": "carriage"
+    },
+    "['\u732b', '\u30cd\u30b3', 'Felis silvestris catus']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5e03\u56e3\" - Nederlands: \"bed\"\n\u65e5\u672c\u8a9e: \"\u722a\" - Nederlands: \"vingernagel\"\n\u65e5\u672c\u8a9e: \"\u6ac3\" - Nederlands: \"kist\"\n\u65e5\u672c\u8a9e: \"\u5b9d\u77f3\" - Nederlands: \"edelsteen\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30ab\u30fc\u30c8\" - Nederlands: \"rok\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"",
+        "target": "['kat', 'huiskat']",
+        "word original": "cat"
+    },
+    "['\u30c1\u30fc\u30ba', '\u916a', '\u4e7e\u916a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b1\u30fc\u30ad\" - Nederlands: \"cake\"\n\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u80c3\" - Nederlands: \"maag\"\n\u65e5\u672c\u8a9e: \"\u8805\" - Nederlands: \"vlieg\"\n\u65e5\u672c\u8a9e: \"\u8449\u5dfb\u304d\u30bf\u30d0\u30b3\" - Nederlands: \"sigaar\"\n\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"",
+        "target": "['kaas']",
+        "word original": "cheese"
+    },
+    "['\u6ac3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc\" - Nederlands: \"schokbreker\"\n\u65e5\u672c\u8a9e: \"\u5c4b\u6839\" - Nederlands: \"dak\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"gloeilamp\"\n\u65e5\u672c\u8a9e: \"\u5237\u5b50\" - Nederlands: \"borstel\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u6ac3\" - Nederlands: \"",
+        "target": "['kist']",
+        "word original": "chest"
+    },
+    "['\u984e', '\u304a\u3068\u304c\u3044']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"rundvee\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"wasgelegenheid\"\n\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"garen\"\n\u65e5\u672c\u8a9e: \"\u4e00\u4fa1\u95a2\u6570\" - Nederlands: \"functie\"\n\u65e5\u672c\u8a9e: \"\u984e\" - Nederlands: \"",
+        "target": "['kin', 'kinnebak', 'kaak', 'kakement']",
+        "word original": "chin"
+    },
+    "['\u6559\u4f1a', '\u6559\u4f1a\u5802', '\u8056\u5802']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc\" - Nederlands: \"schokbreker\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30fc\u30c8\" - Nederlands: \"jas\"\n\u65e5\u672c\u8a9e: \"\u6559\u4f1a\" - Nederlands: \"",
+        "target": "['kerk', 'kerkgebouw', 'godshuis']",
+        "word original": "church"
+    },
+    "['\u5186', '\u4e38']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5c4b\u6839\" - Nederlands: \"dak\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c3\u30c8\" - Nederlands: \"hoed\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"postzegel\"\n\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"",
+        "target": "['kring', 'cirkel']",
+        "word original": "circle"
+    },
+    "['\u6642\u8a08', '\u8155\u6642\u8a08', '\u61d0\u4e2d\u6642\u8a08', '\u30ea\u30b9\u30c8\u30a6\u30a9\u30c3\u30c1', '\u30a6\u30aa\u30c3\u30c1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b1\u30fc\u30ad\" - Nederlands: \"cake\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"hals\"\n\u65e5\u672c\u8a9e: \"\u6642\u8a08\" - Nederlands: \"",
+        "target": "['uurwerk', 'klok', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje']",
+        "word original": "clock"
+    },
+    "['\u96f2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u30d1\u30a4\u30d7\" - Nederlands: \"pijp\"\n\u65e5\u672c\u8a9e: \"\u795e\u7d4c\" - Nederlands: \"zenuwstelsel\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"",
+        "target": "['wolk']",
+        "word original": "cloud"
+    },
+    "['\u30b3\u30fc\u30c8', '\u30b8\u30e3\u30b1\u30c3\u30c8', '\u5916\u5957']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c3\u30c8\" - Nederlands: \"hoed\"\n\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30fc\u30c8\" - Nederlands: \"",
+        "target": "['jas', 'jack', 'mantel', 'overjas']",
+        "word original": "coat"
+    },
+    "['\u6355\u6349', '\u902e\u6355']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"maand\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u5c4b\u6839\" - Nederlands: \"dak\"\n\u65e5\u672c\u8a9e: \"\u6355\u6349\" - Nederlands: \"",
+        "target": "['aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand']",
+        "word original": "collar"
+    },
+    "['\u6adb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u733f\" - Nederlands: \"aap\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"wolk\"\n\u65e5\u672c\u8a9e: \"\u30d1\u30a4\u30d7\" - Nederlands: \"pijp\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"",
+        "target": "['kam', 'schilderskam']",
+        "word original": "comb"
+    },
+    "['\u725b', '\u30a6\u30b7', '\u755c\u725b', 'Bos primigenius taurus', '\u725b\u8089', '\u30d3\u30fc\u30d5', '\u96c4\u725b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u98db\u884c\u6a5f\" - Nederlands: \"toestel\"\n\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"knie\"\n\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"insect\"\n\u65e5\u672c\u8a9e: \"\u7d4c\u6e08\u5b66\" - Nederlands: \"economie\"\n\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"",
+        "target": "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus', 'rundvlees', 'bief', 'biefstuk', 'stier']",
+        "word original": "cow"
+    },
+    "['\u30ab\u30c3\u30d7', '\u30b3\u30c3\u30d7', '\u30b0\u30e9\u30b9', '\u30de\u30b0\u30ab\u30c3\u30d7', '\u30b8\u30e7\u30c3\u30ad']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"hals\"\n\u65e5\u672c\u8a9e: \"\u3058\u3083\u304c\u3044\u3082\" - Nederlands: \"patat\"\n\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30c3\u30d7\" - Nederlands: \"",
+        "target": "['kop', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'mok']",
+        "word original": "cup"
+    },
+    "['\u30ab\u30fc\u30c6\u30f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\u30da\u30f3\" - Nederlands: \"balpen\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30fc\u30c8\" - Nederlands: \"jas\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30fc\u30c6\u30f3\" - Nederlands: \"",
+        "target": "['gordijn', 'voorhangsel', 'lijkkleed', 'doek']",
+        "word original": "curtain"
+    },
+    "['\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u7537\u306e\u5b50\" - Nederlands: \"joch\"\n\u65e5\u672c\u8a9e: \"\u6559\u4f1a\" - Nederlands: \"kerk\"\n\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"knie\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc\" - Nederlands: \"",
+        "target": "['schokbreker', 'schokdemper', 'schok', 'kussen']",
+        "word original": "cushion"
+    },
+    "['\u72ac', '\u30a4\u30cc', '\u30a4\u30a8\u30a4\u30cc', 'Canis lupus familiaris']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"stengel\"\n\u65e5\u672c\u8a9e: \"\u8155\u6642\u8a08\" - Nederlands: \"polshorloge\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Nederlands: \"boek\"\n\u65e5\u672c\u8a9e: \"\u72ac\" - Nederlands: \"",
+        "target": "['hond', 'Canis lupus familiaris', 'joekel', 'spion', 'geheim agent', 'dwarskijker', 'verspieder']",
+        "word original": "dog"
+    },
+    "['\u9580', '\u30c9\u30a2', '\u6249', '\u6238', '\u6238\u53e3', '\u4e16\u5e2f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30fc\u30f3\" - Nederlands: \"lepel\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u9f3b\" - Nederlands: \"kaap\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u624b\u888b\" - Nederlands: \"handschoen\"\n\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur', 'hek', 'toegangshek', 'spoorboom', 'gate', 'overwegboom', 'huishouden', 'huisgezin', 'familie', 'huishouding', 'gezin']",
+        "word original": "door"
+    },
+    "['\u6249', '\u9580', '\u30c9\u30a2', '\u6238', '\u6238\u53e3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"digit\"\n\u65e5\u672c\u8a9e: \"\u808c\" - Nederlands: \"vel\"\n\u65e5\u672c\u8a9e: \"\u624b\u888b\" - Nederlands: \"handschoen\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur', 'hek', 'toegangshek', 'spoorboom', 'gate', 'overwegboom']",
+        "word original": "drain"
+    },
+    "['\u7d20\u63cf', '\u30c7\u30c3\u30b5\u30f3', '\u56f3\u753b', '\u7d75']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"rem\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30ec\u30f3\u30b8\u8272\" - Nederlands: \"oranje\"\n\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"postzegel\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"factuur\"\n\u65e5\u672c\u8a9e: \"\u7d20\u63cf\" - Nederlands: \"",
+        "target": "['afbeelding', 'tekening', 'tekenkunst']",
+        "word original": "drawer"
+    },
+    "['\u8863\u985e', '\u88ab\u670d']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u76e3\u7344\" - Nederlands: \"nor\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u8863\u985e\" - Nederlands: \"",
+        "target": "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed']",
+        "word original": "dress"
+    },
+    "['\u6ef4']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"appelschil\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u5b50\" - Nederlands: \"zaad\"\n\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"geweer\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Nederlands: \"oogbol\"\n\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"",
+        "target": "['druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop']",
+        "word original": "drop"
+    },
+    "['\u8033']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u5098\" - Nederlands: \"paraplu\"\n\u65e5\u672c\u8a9e: \"\u6d17\u9762\u5668\" - Nederlands: \"lavabo\"\n\u65e5\u672c\u8a9e: \"\u8033\" - Nederlands: \"",
+        "target": "['oor', 'oren', 'gehoororgaan']",
+        "word original": "ear"
+    },
+    "['\u9d8f\u5375', '\u5375']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"sok\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"boog\"\n\u65e5\u672c\u8a9e: \"\u6642\u8a08\" - Nederlands: \"uurwerk\"\n\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"",
+        "target": "['ei', 'kippenei']",
+        "word original": "egg"
+    },
+    "['\u30e2\u30fc\u30bf\u30fc', '\u30a8\u30f3\u30b8\u30f3', '\u539f\u52d5\u6a5f', '\u6a5f\u95a2', '\u6a5f\u68b0', '\u767a\u52d5\u6a5f', 'Motor']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7f8a\" - Nederlands: \"schaap\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u7d20\u63cf\" - Nederlands: \"afbeelding\"\n\u65e5\u672c\u8a9e: \"\u30e2\u30fc\u30bf\u30fc\" - Nederlands: \"",
+        "target": "['motor', 'aandrijving', 'locomotief', 'elektromotor']",
+        "word original": "engine"
+    },
+    "['\u76ee', '\u773c\u7403', '\u773c', '\u90e8\u9580', '\u7bc4\u7587', '\u5206\u985e', '\u7a2e\u985e', '\u30af\u30e9\u30b9', '\u30ab\u30c6\u30b4\u30ea', '\u7a2e\u5225', '\u7b49\u7d1a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"klauw\"\n\u65e5\u672c\u8a9e: \"\u6642\u8a08\" - Nederlands: \"uurwerk\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"etnische muziek\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Nederlands: \"baan\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Nederlands: \"",
+        "target": "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers', 'klasse', 'categorie', 'klas', 'laag']",
+        "word original": "eye"
+    },
+    "['\u9854', '\u9762', '\u8868\u60c5']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u30e4\u30ae\" - Nederlands: \"geit\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"",
+        "target": "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet', 'houding', 'uiterlijk', 'voorkomen', 'air', 'uitdrukking', 'manieren', 'gelaatsuitdrukking', 'gezichtsuitdrukking', 'expressie']",
+        "word original": "face"
+    },
+    "['\u8fb2\u5834']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30da\u30b9\" - Nederlands: \"voet\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"dal\"\n\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"appelschil\"\n\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"zon\"\n\u65e5\u672c\u8a9e: \"\u8fb2\u5834\" - Nederlands: \"",
+        "target": "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee']",
+        "word original": "farm"
+    },
+    "['\u7fbd\u6839', '\u7fbd\u6bdb', '\u7ffc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"digit\"\n\u65e5\u672c\u8a9e: \"\u9f3b\" - Nederlands: \"kaap\"\n\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u7b4b\u8089\" - Nederlands: \"spier\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30ec\u30d3\" - Nederlands: \"video\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder', 'vleugel', 'vlerk', 'wiek']",
+        "word original": "feather"
+    },
+    "['\u6307', '\u6307\u8dbe', '\u89aa\u6307', '\u8db3\u6307', '\u3064\u307e\u5148', '\u8dbe', '\u722a\u5148']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u30b1\u30fc\u30ad\" - Nederlands: \"cake\"\n\u65e5\u672c\u8a9e: \"\u5c4b\u6839\" - Nederlands: \"dak\"\n\u65e5\u672c\u8a9e: \"\u5e03\u56e3\" - Nederlands: \"bed\"\n\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"",
+        "target": "['digit', 'Digit', 'vinger', 'teen', 'cijfer', 'duim', 'kleine teen', 'tenen', 'kom nou']",
+        "word original": "finger"
+    },
+    "['\u9b5a\u985e', '\u9b5a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8863\u985e\" - Nederlands: \"kledij\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u6d17\u9762\u5668\" - Nederlands: \"lavabo\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u9b5a\u985e\" - Nederlands: \"",
+        "target": "['vissen', 'vis']",
+        "word original": "fish"
+    },
+    "['\u65d7']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"",
+        "target": "['vaan', 'vlag']",
+        "word original": "flag"
+    },
+    "['\u8c37']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"garen\"\n\u65e5\u672c\u8a9e: \"\u5e03\u56e3\" - Nederlands: \"bed\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c1\" - Nederlands: \"bij\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"factuur\"\n\u65e5\u672c\u8a9e: \"\u8c37\" - Nederlands: \"",
+        "target": "['dal', 'vallei']",
+        "word original": "floor"
+    },
+    "['\u8805', '\u30cf\u30a8', '\u30cf\u30a8\u76ee', '\u53cc\u7fc5\u76ee']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"etnische muziek\"\n\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"kring\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"stengel\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u8805\" - Nederlands: \"",
+        "target": "['vlieg', 'tweevleugeligen']",
+        "word original": "fly"
+    },
+    "['\u30da\u30b9', '\u8db3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b9\u30ab\u30fc\u30c8\" - Nederlands: \"rok\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"spons\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u6797\u6a8e\" - Nederlands: \"appelschil\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Nederlands: \"oogbol\"\n\u65e5\u672c\u8a9e: \"\u30da\u30b9\" - Nederlands: \"",
+        "target": "['voet', 'voeten', 'poot', 'pootje']",
+        "word original": "foot"
+    },
+    "['\u30d5\u30a9\u30fc\u30af', '\u6c11\u4fd7\u97f3\u697d', '\u30d5\u30a9\u30fc\u30af\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af', '\u30d5\u30a9\u30fc\u30af\u30bd\u30f3\u30b0', '\u6c11\u65cf\u97f3\u697d', '\u30ab\u30f3\u30c8\u30ea\u30fc\u30fb\u30d5\u30a9\u30fc\u30af']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u795e\u7d4c\" - Nederlands: \"zenuwstelsel\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"gloeilamp\"\n\u65e5\u672c\u8a9e: \"\u8449\u5dfb\u304d\u30bf\u30d0\u30b3\" - Nederlands: \"sigaar\"\n\u65e5\u672c\u8a9e: \"\u65e5\u66dc\u65e5\" - Nederlands: \"zondag\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"",
+        "target": "['etnische muziek', 'folk', 'deun', 'Hedendaagse folkmuziek', 'volksmuziek', 'folkmuziek', 'wereldmuziek', 'folk-music', 'folk-muziek', 'vork', 'splitsing']",
+        "word original": "fork"
+    },
+    "['\u5bb6\u79bd', '\u30ad\u30b8\u30ab\u30e2\u985e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\u30da\u30f3\" - Nederlands: \"balpen\"\n\u65e5\u672c\u8a9e: \"\u98db\u884c\u6a5f\" - Nederlands: \"toestel\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"factuur\"\n\u65e5\u672c\u8a9e: \"\u30ba\u30dc\u30f3\" - Nederlands: \"broek\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30c3\u30d7\" - Nederlands: \"kop\"\n\u65e5\u672c\u8a9e: \"\u5bb6\u79bd\" - Nederlands: \"",
+        "target": "['gevogelte', 'pluimvee', 'Galloanserae', 'hoen', 'huishen', 'hoentje', 'hen', 'kip']",
+        "word original": "fowl"
+    },
+    "['\u4eba\u9593\u751f\u7406\u5b66', '\u4eba\u4f53', '\u4eba\u985e\u751f\u7269\u5b66', '\u30e0\u30fc\u30eb\u30f4\u30a7\u30fc\u30c9\u30eb', '\u4f53\u578b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u795e\u7d4c\" - Nederlands: \"zenuwstelsel\"\n\u65e5\u672c\u8a9e: \"\u984e\" - Nederlands: \"kin\"\n\u65e5\u672c\u8a9e: \"\u4e00\u4fa1\u95a2\u6570\" - Nederlands: \"functie\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"maand\"\n\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"",
+        "target": "['menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']",
+        "word original": "frame"
+    },
+    "['\u5ead', '\u5ead\u5712']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u30e4\u30ae\" - Nederlands: \"geit\"\n\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u8863\u985e\" - Nederlands: \"kledij\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"",
+        "target": "['tuin', 'hof', 'erf', 'werf', 'park']",
+        "word original": "garden"
+    },
+    "['\u5c11\u5973', '\u5973\u306e\u5b50', '\u5973']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"postzegel\"\n\u65e5\u672c\u8a9e: \"\u6559\u4f1a\" - Nederlands: \"kerk\"\n\u65e5\u672c\u8a9e: \"\u821f\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u65e5\u66dc\u65e5\" - Nederlands: \"zondag\"\n\u65e5\u672c\u8a9e: \"\u5c11\u5973\" - Nederlands: \"",
+        "target": "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw']",
+        "word original": "girl"
+    },
+    "['\u624b\u888b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"digit\"\n\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b1\u30c4\" - Nederlands: \"emmer\"\n\u65e5\u672c\u8a9e: \"\u624b\u888b\" - Nederlands: \"",
+        "target": "['handschoen', 'want']",
+        "word original": "glove"
+    },
+    "['\u30e4\u30ae', '\u5c71\u7f8a', 'Capra aegagrus hircus']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"druppel\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Nederlands: \"kantoor\"\n\u65e5\u672c\u8a9e: \"\u7ffc\" - Nederlands: \"vleugel\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u8d64\u3061\u3083\u3093\" - Nederlands: \"baby\"\n\u65e5\u672c\u8a9e: \"\u30e4\u30ae\" - Nederlands: \"",
+        "target": "['geit', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['\u9283', '\u706b\u5668', '\u30e9\u30a4\u30d5\u30eb', '\u30e6\u30fc\u30b9\u30fb\u30e9\u30a4\u30d5\u30eb', '\u5c0f\u9283', '\u30e9\u30a4\u30d5\u30eb\u9283']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5c0f\u5200\" - Nederlands: \"mes\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u8805\" - Nederlands: \"vlieg\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"",
+        "target": "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk', 'karabijn', 'schietijzer', 'schietgeweer', 'proppenschieter', 'spuit', 'proppeschieter']",
+        "word original": "gun"
+    },
+    "['\u6bdb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7149\u74e6\" - Nederlands: \"klinker\"\n\u65e5\u672c\u8a9e: \"\u6620\u753b\" - Nederlands: \"film\"\n\u65e5\u672c\u8a9e: \"\u8fb2\u5834\" - Nederlands: \"boerenbedrijf\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u7b4b\u8089\" - Nederlands: \"spier\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"",
+        "target": "['haar', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']",
+        "word original": "root"
+    },
+    "['\u91d1\u69cc', '\u69cc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8a18\u61b6\u88c5\u7f6e\" - Nederlands: \"opslagmedium\"\n\u65e5\u672c\u8a9e: \"\u92cf\" - Nederlands: \"schaar\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"wasgelegenheid\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Nederlands: \"zitvlak\"\n\u65e5\u672c\u8a9e: \"\u91d1\u69cc\" - Nederlands: \"",
+        "target": "['vuisthamer', 'hamer', 'vuist']",
+        "word original": "hammer"
+    },
+    "['\u624b', '\u30de\u30cc\u30b9', '\u8155', '\u4e8c\u306e\u8155', '\u4e0a\u8155', '\u4e0a\u818a', '\u81ea\u7531\u4e0a\u80a2', '\u53d6\u3063\u624b', '\u30cf\u30f3\u30c9\u30eb', '\u65b9\u6cd5', '\u65b9\u5f0f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u8eab\u5206\u8a3c\" - Nederlands: \"identiteitskaart\"\n\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"fles\"\n\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"mond\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"",
+        "target": "['klauw', 'hand', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken', 'arm', 'opperarm', 'bovenarm', 'oor', 'handvat', 'heft', 'hengsel', 'handgreep', 'handel', 'kruk', 'methode', 'methodiek', 'handelwijze', 'optreden', 'systeem', 'handelwijs', 'systematiek', 'zet', 'transpositie', 'verplaatsing', 'translocatie', 'omzetting', 'wijze', 'manier', 'stijl', 'wijs', 'trant', 'modus', 'mode', 'aanpak']",
+        "word original": "hand"
+    },
+    "['\u30cf\u30c3\u30c8', '\u5e3d\u5b50']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"tronie\"\n\u65e5\u672c\u8a9e: \"\u3058\u3083\u304c\u3044\u3082\" - Nederlands: \"patat\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u6d17\u9762\u5668\" - Nederlands: \"lavabo\"\n\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c3\u30c8\" - Nederlands: \"",
+        "target": "['hoed', 'Chapeau!']",
+        "word original": "hat"
+    },
+    "['\u5fc3\u81d3', '\u5fc3\u8154', '\u30d2\u30c8\u306e\u5fc3\u81d3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"universiteit\"\n\u65e5\u672c\u8a9e: \"\u9aa8\" - Nederlands: \"knok\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u4f53\u7f70\" - Nederlands: \"lijfstraf\"\n\u65e5\u672c\u8a9e: \"\u6355\u6349\" - Nederlands: \"aanhouding\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"",
+        "target": "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik']",
+        "word original": "pump"
+    },
+    "['\u53e3\u7434', '\u30c8\u30e9\u30f3\u30da\u30c3\u30c8', '\u30b3\u30eb\u30cd\u30c3\u30c8', '\u5587\u53ed']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7d4c\u6e08\u5b66\" - Nederlands: \"economie\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30fc\u30c8\" - Nederlands: \"jas\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"tronie\"\n\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"rem\"\n\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"insect\"\n\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"",
+        "target": "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']",
+        "word original": "horn"
+    },
+    "['\u99ac', '\u30a6\u30de', 'Equus caballus']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u624b\u888b\" - Nederlands: \"handschoen\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u7f8a\" - Nederlands: \"schaap\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc\" - Nederlands: \"schokbreker\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u99ac\" - Nederlands: \"",
+        "target": "['paard', 'peerd', 'viervoeter', 'ros']",
+        "word original": "horse"
+    },
+    "['\u75c5\u9662']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"lover\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u76ee\" - Nederlands: \"knoop\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u7b4b\u8089\" - Nederlands: \"spier\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"",
+        "target": "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']",
+        "word original": "hospital"
+    },
+    "['\u5bb6', '\u5bb6\u5c4b', '\u4f4f\u5b85', '\u4e16\u5e2f', '\u5b9f\u5bb6', '\u4f4f\u5c45', '\u5c45\u7559', '\u6545\u90f7', '\u4f4f\u6240']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"zon\"\n\u65e5\u672c\u8a9e: \"\u5bb6\u79bd\" - Nederlands: \"gevogelte\"\n\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u9ce5\" - Nederlands: \"vogel\"\n\u65e5\u672c\u8a9e: \"\u5bb6\" - Nederlands: \"",
+        "target": "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'huishouden', 'huisgezin', 'familie', 'huishouding', 'gezin', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte']",
+        "word original": "house"
+    },
+    "['\u5cf6']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u8805\" - Nederlands: \"vlieg\"\n\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u5cf6\" - Nederlands: \"",
+        "target": "['eiland', 'enclave']",
+        "word original": "island"
+    },
+    "['\u5b9d\u77f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"etnische muziek\"\n\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"druppel\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\" - Nederlands: \"netwerk\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u5b9d\u77f3\" - Nederlands: \"",
+        "target": "['edelsteen', 'ruwe (half)edelsteen', 'steen']",
+        "word original": "jewel"
+    },
+    "['\u3084\u304b\u3093', '\u85ac\u7f36']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"knie\"\n\u65e5\u672c\u8a9e: \"\u7b4b\u8089\" - Nederlands: \"spier\"\n\u65e5\u672c\u8a9e: \"\u8eab\u5206\u8a3c\" - Nederlands: \"identiteitskaart\"\n\u65e5\u672c\u8a9e: \"\u6642\u8a08\" - Nederlands: \"uurwerk\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u3084\u304b\u3093\" - Nederlands: \"",
+        "target": "['theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']",
+        "word original": "kettle"
+    },
+    "['\u9375', '\u30b9\u30d1\u30ca', '\u30ec\u30f3\u30c1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"wolk\"\n\u65e5\u672c\u8a9e: \"\u8d64\u3061\u3083\u3093\" - Nederlands: \"baby\"\n\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"sok\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u9375\" - Nederlands: \"",
+        "target": "['sleutel', 'toets', 'Engelse sleutel', 'steeksleutel', 'moersleutel', 'schroefsleutel', 'fietssleutel', 'moeilijk afscheid', 'verdriet', 'ruk']",
+        "word original": "key"
+    },
+    "['\u819d']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u7bb1\" - Nederlands: \"dozen\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30ab\u30fc\u30c8\" - Nederlands: \"rok\"\n\u65e5\u672c\u8a9e: \"\u3048\u3093\u3074\u3064\" - Nederlands: \"crayon\"\n\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"kaas\"\n\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"",
+        "target": "['knie', 'knietje']",
+        "word original": "knee"
+    },
+    "['\u5c0f\u5200', '\u5305\u4e01', '\u30ca\u30a4\u30d5']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u5237\u5b50\" - Nederlands: \"borstel\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30fc\u30c6\u30f3\" - Nederlands: \"gordijn\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u5c0f\u5200\" - Nederlands: \"",
+        "target": "['mes']",
+        "word original": "knife"
+    },
+    "['\u7d50\u3073\u76ee']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"wasgelegenheid\"\n\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"boog\"\n\u65e5\u672c\u8a9e: \"\u6d17\u9762\u5668\" - Nederlands: \"lavabo\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u821f\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u76ee\" - Nederlands: \"",
+        "target": "['knoop']",
+        "word original": "knot"
+    },
+    "['\u8449']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"insect\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"garen\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30fc\u30f3\" - Nederlands: \"lepel\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"",
+        "target": "['lover', 'gebladerte', 'blad', 'Laphi', 'blaadje']",
+        "word original": "leaf"
+    },
+    "['\u811a', '\u8db3', '\u80a2', '\u624b\u8db3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6b6f\" - Nederlands: \"gebitselement\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b1\u30c4\" - Nederlands: \"emmer\"\n\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"postzegel\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u5200\" - Nederlands: \"zwaard\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"",
+        "target": "['been', 'benen', 'poot', 'stelt', 'menselijke been', 'onderdanen', 'onderdaan', 'lidmaat', 'ledemaat', 'lid']",
+        "word original": "pin"
+    },
+    "['\u30c6\u30ec\u30d3', '\u30d3\u30c7\u30aa', '\u30c6\u30ec\u30d3\u30b8\u30e7\u30f3', '\u96fb\u8996', '\u30c6\u30ec\u30d3\u53d7\u50cf\u6a5f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"boog\"\n\u65e5\u672c\u8a9e: \"\u30e2\u30fc\u30bf\u30fc\" - Nederlands: \"motor\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30ec\u30d3\" - Nederlands: \"",
+        "target": "['video', 'televisie', 'videotechniek', 'kijkbuis', 'beeldomroep', 'televisietoestel', 'buis', 'tv', 'televisieontvanger', 'teeveetoestel', 'beeldbuis', 'kijkdoos', 'kastje', 'televisie-ontvanger', 't.v.', 'teevee', 'treurbuis', 'kijkkast']",
+        "word original": "line"
+    },
+    "['\u5507']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"mond\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Nederlands: \"zitvlak\"\n\u65e5\u672c\u8a9e: \"\u9580\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u7f8a\" - Nederlands: \"schaap\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"",
+        "target": "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']",
+        "word original": "lip"
+    },
+    "['\u4e00\u4fa1\u95a2\u6570', '\u95a2\u6570', '\u5199\u50cf']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"digit\"\n\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"sok\"\n\u65e5\u672c\u8a9e: \"\u91d1\u69cc\" - Nederlands: \"vuisthamer\"\n\u65e5\u672c\u8a9e: \"\u4e00\u4fa1\u95a2\u6570\" - Nederlands: \"",
+        "target": "['functie', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie']",
+        "word original": "map"
+    },
+    "['\u30de\u30c3\u30c1', '\u30b9\u30dd\u30fc\u30c4\u306e\u8a66\u5408', '\u7af6\u6280\u30b9\u30dd\u30fc\u30c4', '\u30b9\u30dd\u30fc\u30c4\u7af6\u6280\u5927\u4f1a', '\u71d0\u5bf8', '\u706b\u67f4']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7a2e\u5b50\" - Nederlands: \"zaad\"\n\u65e5\u672c\u8a9e: \"\u7d4c\u6e08\u5b66\" - Nederlands: \"economie\"\n\u65e5\u672c\u8a9e: \"\u7149\u74e6\" - Nederlands: \"klinker\"\n\u65e5\u672c\u8a9e: \"\u5237\u5b50\" - Nederlands: \"borstel\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u30de\u30c3\u30c1\" - Nederlands: \"",
+        "target": "['sportcompetitie', 'competitiesport', 'sportevenement', 'wedstrijd', 'zwavelstokje', 'lucifer', 'partij', 'spel']",
+        "word original": "match"
+    },
+    "['\u733f', '\u30b5\u30eb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5bb6\" - Nederlands: \"optrekje\"\n\u65e5\u672c\u8a9e: \"\u7bb1\" - Nederlands: \"dozen\"\n\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"universiteit\"\n\u65e5\u672c\u8a9e: \"\u87fb\" - Nederlands: \"mier\"\n\u65e5\u672c\u8a9e: \"\u5098\" - Nederlands: \"paraplu\"\n\u65e5\u672c\u8a9e: \"\u733f\" - Nederlands: \"",
+        "target": "['aap', 'apen']",
+        "word original": "monkey"
+    },
+    "['\u6708', '\u6708\u9593']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"hals\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"spons\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"",
+        "target": "['maand', 'kalendermaand', 'maanden']",
+        "word original": "moon"
+    },
+    "['\u53e3', '\u53e3\u8154\u524d\u5ead']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u984e\" - Nederlands: \"kin\"\n\u65e5\u672c\u8a9e: \"\u819d\" - Nederlands: \"knie\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u8ecd\u968a\" - Nederlands: \"strijdkrachten\"\n\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"",
+        "target": "['mond', 'bek', 'muil', 'riviermond', 'monding', 'reukorgaan', 'snufferd', 'snotkoker', 'neus']",
+        "word original": "mouth"
+    },
+    "['\u7b4b\u8089', '\u7b4b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"lover\"\n\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"rundvee\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"klauw\"\n\u65e5\u672c\u8a9e: \"\u9375\" - Nederlands: \"sleutel\"\n\u65e5\u672c\u8a9e: \"\u7b4b\u8089\" - Nederlands: \"",
+        "target": "['spier', 'spierweefsel']",
+        "word original": "muscle"
+    },
+    "['\u722a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"insect\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"lover\"\n\u65e5\u672c\u8a9e: \"\u9ce5\" - Nederlands: \"vogel\"\n\u65e5\u672c\u8a9e: \"\u722a\" - Nederlands: \"",
+        "target": "['vingernagel', 'nagel']",
+        "word original": "nail"
+    },
+    "['\u9996', '\u982d', '\u982d\u90e8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8fb2\u5834\" - Nederlands: \"boerenbedrijf\"\n\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"druppel\"\n\u65e5\u672c\u8a9e: \"\u5217\u8eca\" - Nederlands: \"trein\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"klauw\"\n\u65e5\u672c\u8a9e: \"\u9996\" - Nederlands: \"",
+        "target": "['hals', 'nek', 'flessenhals', 'kop', 'hoofd', 'baas', 'bazin', 'leider', 'op uw plaatsen, klaar, af!']",
+        "word original": "neck"
+    },
+    "['\u795e\u7d4c', '\u795e\u7d4c\u7cfb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u80c3\" - Nederlands: \"maag\"\n\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"universiteit\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u795e\u7d4c\" - Nederlands: \"",
+        "target": "['zenuwstelsel', 'zenuwgestel', 'zenuw']",
+        "word original": "nerve"
+    },
+    "['\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af', '\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8', '\u30cd\u30c3\u30c8', '\u30b5\u30a4\u30d0\u30fc\u30b9\u30da\u30fc\u30b9', '\u7de8', '\u7db2', '\u30e1\u30c3\u30b7\u30e5']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8449\u5dfb\u304d\u30bf\u30d0\u30b3\" - Nederlands: \"sigaar\"\n\u65e5\u672c\u8a9e: \"\u7537\u306e\u5b50\" - Nederlands: \"joch\"\n\u65e5\u672c\u8a9e: \"\u6642\u8a08\" - Nederlands: \"uurwerk\"\n\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"kaas\"\n\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"zon\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\" - Nederlands: \"",
+        "target": "['netwerk', 'computernetwerk', 'Internet', 'cyberspace', 'internet', 'gaas', 'net', 'breisteek', 'vangnet']",
+        "word original": "net"
+    },
+    "['\u9f3b', '\u5d0e', '\u5cac', '\u55c5\u899a\u5668\u5b98']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"gloeilamp\"\n\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"stengel\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c3\u30c8\" - Nederlands: \"hoed\"\n\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u9f3b\" - Nederlands: \"",
+        "target": "['kaap', 'neus', 'snufferd', 'snotkoker', 'reukorgaan']",
+        "word original": "nose"
+    },
+    "['\u30aa\u30d5\u30a3\u30b9', '\u4e8b\u52d9\u6240', '\u4e8b\u52d9\u5ba4', '\u57f7\u52d9\u5ba4', '\u5b98\u5e81', '\u653f\u5e9c\u6a5f\u95a2']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30ec\u30d3\" - Nederlands: \"video\"\n\u65e5\u672c\u8a9e: \"\u98db\u884c\u6a5f\" - Nederlands: \"toestel\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"factuur\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Nederlands: \"",
+        "target": "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'kantoorgebouw', 'kabinet']",
+        "word original": "office"
+    },
+    "['\u30aa\u30ec\u30f3\u30b8\u8272', '\u871c\u67d1\u8272', '\u6a59\u8272']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u8a18\u61b6\u88c5\u7f6e\" - Nederlands: \"opslagmedium\"\n\u65e5\u672c\u8a9e: \"\u30e2\u30fc\u30bf\u30fc\" - Nederlands: \"motor\"\n\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"kring\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30ec\u30f3\u30b8\u8272\" - Nederlands: \"",
+        "target": "['oranje']",
+        "word original": "orange"
+    },
+    "['\u30aa\u30fc\u30d6\u30f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u9f20\" - Nederlands: \"rat\"\n\u65e5\u672c\u8a9e: \"\u547c\u3073\u9234\" - Nederlands: \"deurbel\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"",
+        "target": "['bakoven', 'oven']",
+        "word original": "oven"
+    },
+    "['\u30dc\u30fc\u30eb\u30da\u30f3', '\u30da\u30f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u86c7\" - Nederlands: \"slang\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"wolk\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u6ac3\" - Nederlands: \"kist\"\n\u65e5\u672c\u8a9e: \"\u30de\u30c3\u30c1\" - Nederlands: \"sportcompetitie\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\u30da\u30f3\" - Nederlands: \"",
+        "target": "['balpen', 'ballpoint', 'kogelpen', 'pen']",
+        "word original": "pen"
+    },
+    "['\u3048\u3093\u3074\u3064', '\u925b\u7b46']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u733f\" - Nederlands: \"aap\"\n\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u3048\u3093\u3074\u3064\" - Nederlands: \"",
+        "target": "['crayon', 'potlood', 'kwastje', 'penseel']",
+        "word original": "pencil"
+    },
+    "['\u6620\u753b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"lover\"\n\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"geweer\"\n\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"digit\"\n\u65e5\u672c\u8a9e: \"\u6620\u753b\" - Nederlands: \"",
+        "target": "['film', 'rolprent', 'filmkunst', 'cinematografie']",
+        "word original": "picture"
+    },
+    "['\u8c5a', '\u30d6\u30bf', '\u30a4\u30ce\u30b7\u30b7\u5c5e', 'Sus scrofa domestica', '\u8c5a\u8089', '\u30dd\u30fc\u30af']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"garen\"\n\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"mond\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u8c5a\" - Nederlands: \"",
+        "target": "['varken', 'zwijn', 'echte zwijnen', 'krulstaart', 'varkensvlees']",
+        "word original": "pig"
+    },
+    "['\u30d1\u30a4\u30d7', '\u914d\u7ba1', '\u6c34\u9053\u7ba1', '\u30ad\u30bb\u30eb']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5c11\u5973\" - Nederlands: \"meisje\"\n\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u8a18\u61b6\u88c5\u7f6e\" - Nederlands: \"opslagmedium\"\n\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"mond\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u30d1\u30a4\u30d7\" - Nederlands: \"",
+        "target": "['pijp', 'waterleiding', 'leiding', 'buis', 'leidingwerk']",
+        "word original": "pipe"
+    },
+    "['\u98db\u884c\u6a5f', '\u822a\u7a7a\u6a5f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u76e3\u7344\" - Nederlands: \"nor\"\n\u65e5\u672c\u8a9e: \"\u7f8a\" - Nederlands: \"schaap\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u5cf6\" - Nederlands: \"eiland\"\n\u65e5\u672c\u8a9e: \"\u5200\" - Nederlands: \"zwaard\"\n\u65e5\u672c\u8a9e: \"\u98db\u884c\u6a5f\" - Nederlands: \"",
+        "target": "['toestel', 'kist', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']",
+        "word original": "plane"
+    },
+    "['\u92e4', '\u936c', '\u30d7\u30e9\u30a6']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"postzegel\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u30dc\u30fc\u30eb\u30da\u30f3\" - Nederlands: \"balpen\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u76ee\" - Nederlands: \"oogbol\"\n\u65e5\u672c\u8a9e: \"\u92e4\" - Nederlands: \"",
+        "target": "['ploeg']",
+        "word original": "plough"
+    },
+    "['\u30dd\u30b1\u30c3\u30c8', '\u61d0\u4e2d']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b1\u30fc\u30ad\" - Nederlands: \"cake\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"maand\"\n\u65e5\u672c\u8a9e: \"\u6642\u8a08\" - Nederlands: \"uurwerk\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Nederlands: \"baan\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"",
+        "target": "['zak', 'broekzak']",
+        "word original": "pocket"
+    },
+    "['\u4fbf\u5668', '\u304a\u307e\u308b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u99ac\u8eca\" - Nederlands: \"bus\"\n\u65e5\u672c\u8a9e: \"\u8805\" - Nederlands: \"vlieg\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u91d1\u69cc\" - Nederlands: \"vuisthamer\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot']",
+        "word original": "pot"
+    },
+    "['\u3058\u3083\u304c\u3044\u3082', '\u30b8\u30e3\u30ac\u30a4\u30e2', 'Solanum tuberosum']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"druppel\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"klauw\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"duim\"\n\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u3058\u3083\u304c\u3044\u3082\" - Nederlands: \"",
+        "target": "['patat', 'aardappel', 'pieper', 'knol']",
+        "word original": "potato"
+    },
+    "['\u76e3\u7344', '\u3051\u3044\u3080\u3057\u3087', '\u304b\u3093\u3054\u304f', '\u5211\u52d9\u6240']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u821f\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"insect\"\n\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"fles\"\n\u65e5\u672c\u8a9e: \"\u98db\u884c\u6a5f\" - Nederlands: \"toestel\"\n\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"garen\"\n\u65e5\u672c\u8a9e: \"\u76e3\u7344\" - Nederlands: \"",
+        "target": "['nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot']",
+        "word original": "prison"
+    },
+    "['\u9f20', '\u30e9\u30c3\u30c8', '\u30af\u30de\u30cd\u30ba\u30df\u5c5e', '\u30cf\u30c4\u30ab\u30cd\u30ba\u30df\u5c5e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"universiteit\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u30e2\u30fc\u30bf\u30fc\" - Nederlands: \"motor\"\n\u65e5\u672c\u8a9e: \"\u9f20\" - Nederlands: \"",
+        "target": "['rat', 'Rattus', 'bruine rat', 'muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje']",
+        "word original": "rat"
+    },
+    "['\u8acb\u6c42\u66f8', '\u9001\u308a\u72b6', '\u30a4\u30f3\u30dc\u30a4\u30b9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u5ead\" - Nederlands: \"tuin\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"gloeilamp\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"",
+        "target": "['factuur', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening']",
+        "word original": "receipt"
+    },
+    "['\u4f53\u7f70']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u86c7\" - Nederlands: \"slang\"\n\u65e5\u672c\u8a9e: \"\u68da\" - Nederlands: \"kast\"\n\u65e5\u672c\u8a9e: \"\u7fbd\u6839\" - Nederlands: \"pluim\"\n\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u5c11\u5973\" - Nederlands: \"meisje\"\n\u65e5\u672c\u8a9e: \"\u4f53\u7f70\" - Nederlands: \"",
+        "target": "['lijfstraf']",
+        "word original": "rod"
+    },
+    "['\u5c4b\u6839']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u9f20\" - Nederlands: \"rat\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u6708\" - Nederlands: \"maand\"\n\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u5c4b\u6839\" - Nederlands: \"",
+        "target": "['dak']",
+        "word original": "roof"
+    },
+    "['\u5927\u5b66', '\u5b66\u6821', '\u5b66\u3073\u820e', '\u5358\u79d1\u5927\u5b66\u3068\u7dcf\u5408\u5927\u5b66', '\u30ab\u30ec\u30c3\u30b8', '\u7ff0\u6797\u9662', '\u30a2\u30ab\u30c7\u30df\u30fc', '\u5b66\u4f1a', '\u5927\u5b66\u6821']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u6ac3\" - Nederlands: \"kist\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c1\" - Nederlands: \"bij\"\n\u65e5\u672c\u8a9e: \"\u7149\u74e6\" - Nederlands: \"klinker\"\n\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"zon\"\n\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"",
+        "target": "['universiteit', 'academie', 'school', 'college', 'scholengemeenschap', 'faculteit', 'genootschap', 'maatschappij', 'unief', 'universitair']",
+        "word original": "school"
+    },
+    "['\u92cf', '\u306f\u3055\u307f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u9aa8\" - Nederlands: \"knok\"\n\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"insect\"\n\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"universiteit\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u92cf\" - Nederlands: \"",
+        "target": "['schaar']",
+        "word original": "scissors"
+    },
+    "['\u7a2e\u5b50', '\u7a2e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u89d2\" - Nederlands: \"hoek\"\n\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"geweer\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u72ac\" - Nederlands: \"hond\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u5b50\" - Nederlands: \"",
+        "target": "['zaad']",
+        "word original": "seed"
+    },
+    "['\u7f8a', '\u3072\u3064\u3058', '\u30d2\u30c4\u30b8', 'Ovis aries']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u808c\" - Nederlands: \"vel\"\n\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"fles\"\n\u65e5\u672c\u8a9e: \"\u6307\" - Nederlands: \"digit\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u7d50\u3073\u76ee\" - Nederlands: \"knoop\"\n\u65e5\u672c\u8a9e: \"\u7f8a\" - Nederlands: \"",
+        "target": "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']",
+        "word original": "sheep"
+    },
+    "['\u68da', '\u30af\u30ed\u30fc\u30bc\u30c3\u30c8', '\u8863\u88c5\u68da', '\u30bf\u30f3\u30b9', '\u98df\u5668\u68da', '\u62bc\u5165\u308c']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8863\u985e\" - Nederlands: \"kledij\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u87fb\" - Nederlands: \"mier\"\n\u65e5\u672c\u8a9e: \"\u9f3b\" - Nederlands: \"kaap\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u68da\" - Nederlands: \"",
+        "target": "['kast', 'kleerkast', 'kledingkast', 'kabinet', 'plank', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']",
+        "word original": "shelf"
+    },
+    "['\u8239', '\u5927\u578b\u8239\u8236', '\u8239\u8236']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6bdb\" - Nederlands: \"haar\"\n\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u5b9d\u77f3\" - Nederlands: \"edelsteen\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"rundvee\"\n\u65e5\u672c\u8a9e: \"\u8239\" - Nederlands: \"",
+        "target": "['schip', 'kiel', 'vaartuig', 'watervaartuig']",
+        "word original": "ship"
+    },
+    "['\u30b7\u30e3\u30c4', '\u30bb\u30fc\u30bf\u30fc', '\uff34\u30b7\u30e3\u30c4', 'T\u30b7\u30e3\u30c4', '\u30ef\u30a4\u30b7\u30e3\u30c4']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6355\u6349\" - Nederlands: \"aanhouding\"\n\u65e5\u672c\u8a9e: \"\u9ce5\" - Nederlands: \"vogel\"\n\u65e5\u672c\u8a9e: \"\u9f3b\" - Nederlands: \"kaap\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u8863\u985e\" - Nederlands: \"kledij\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"",
+        "target": "['t-shirt', 'pullover', 'T-shirt', 't-shirt met lange mouwen', 'hemd', 'shirt', 'overhemd']",
+        "word original": "shirt"
+    },
+    "['\u9774', '\u30b7\u30e5\u30fc\u30ba']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30ba\u30dc\u30f3\" - Nederlands: \"broek\"\n\u65e5\u672c\u8a9e: \"\u5c0f\u5200\" - Nederlands: \"mes\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u30cf\u30c1\" - Nederlands: \"bij\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"",
+        "target": "['schoen', 'aansteker']",
+        "word original": "tongue"
+    },
+    "['\u808c', '\u76ae\u819a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u87fb\" - Nederlands: \"mier\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\" - Nederlands: \"netwerk\"\n\u65e5\u672c\u8a9e: \"\u8fb2\u5834\" - Nederlands: \"boerenbedrijf\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u808c\" - Nederlands: \"",
+        "target": "['vel', 'huid', 'skinhead', 'onderhuid']",
+        "word original": "skin"
+    },
+    "['\u30b9\u30ab\u30fc\u30c8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"garen\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u72ac\" - Nederlands: \"hond\"\n\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"kring\"\n\u65e5\u672c\u8a9e: \"\u8449\" - Nederlands: \"lover\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30ab\u30fc\u30c8\" - Nederlands: \"",
+        "target": "['rok']",
+        "word original": "skirt"
+    },
+    "['\u86c7', '\u30d8\u30d3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30fc\u30f3\" - Nederlands: \"lepel\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"tronie\"\n\u65e5\u672c\u8a9e: \"\u30b1\u30fc\u30ad\" - Nederlands: \"cake\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u86c7\" - Nederlands: \"",
+        "target": "['slang', 'serpent', 'slangen']",
+        "word original": "snake"
+    },
+    "['\u9774\u4e0b', '\u30bd\u30c3\u30af\u30b9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"kaas\"\n\u65e5\u672c\u8a9e: \"\u9375\" - Nederlands: \"sleutel\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "sock"
+    },
+    "['\u6d77\u7dbf\u52d5\u7269', 'Porifera']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u4e00\u4fa1\u95a2\u6570\" - Nederlands: \"functie\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u9d8f\u5375\" - Nederlands: \"ei\"\n\u65e5\u672c\u8a9e: \"\u6ac3\" - Nederlands: \"kist\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u6d77\u7dbf\u52d5\u7269\" - Nederlands: \"",
+        "target": "['spons', 'sponzen', 'sponsdieren']",
+        "word original": "sponge"
+    },
+    "['\u30b9\u30d7\u30fc\u30f3', '\u3055\u3058']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u91ce\u7403\" - Nederlands: \"honkbal\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"factuur\"\n\u65e5\u672c\u8a9e: \"\u59d4\u54e1\u4f1a\" - Nederlands: \"comit\u00e9\"\n\u65e5\u672c\u8a9e: \"\u821f\" - Nederlands: \"schip\"\n\u65e5\u672c\u8a9e: \"\u9f20\" - Nederlands: \"rat\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30d7\u30fc\u30f3\" - Nederlands: \"",
+        "target": "['lepel']",
+        "word original": "spoon"
+    },
+    "['\u6cc9', '\u6e67\u6c34', '\u6e29\u6cc9']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5200\" - Nederlands: \"zwaard\"\n\u65e5\u672c\u8a9e: \"\u7149\u74e6\" - Nederlands: \"klinker\"\n\u65e5\u672c\u8a9e: \"\u5e03\u56e3\" - Nederlands: \"bed\"\n\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"kring\"\n\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"",
+        "target": "['bron', 'wel', 'fontein']",
+        "word original": "spring"
+    },
+    "['\u5207\u624b', '\u90f5\u4fbf\u5207\u624b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"rundvee\"\n\u65e5\u672c\u8a9e: \"\u96f2\" - Nederlands: \"wolk\"\n\u65e5\u672c\u8a9e: \"\u9375\" - Nederlands: \"sleutel\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"tafel\"\n\u65e5\u672c\u8a9e: \"\u30e4\u30ae\" - Nederlands: \"geit\"\n\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"",
+        "target": "['postzegel', 'zegel', 'herenakkoord']",
+        "word original": "stamp"
+    },
+    "['\u6052\u661f', '\u661f', '\u6bcd\u6052\u661f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u65d7\" - Nederlands: \"vaan\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"raam\"\n\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje']",
+        "word original": "star"
+    },
+    "['\u830e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u808c\" - Nederlands: \"vel\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u7d4c\u6e08\u5b66\" - Nederlands: \"economie\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"wasgelegenheid\"\n\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"",
+        "target": "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven']",
+        "word original": "stem"
+    },
+    "['\u8449\u5dfb\u304d\u30bf\u30d0\u30b3', '\u8449\u5dfb\u304d\u305f\u3070\u3053']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b9\u30eb\u30fc\u30e0\" - Nederlands: \"wasgelegenheid\"\n\u65e5\u672c\u8a9e: \"\u3084\u304b\u3093\" - Nederlands: \"theeketel\"\n\u65e5\u672c\u8a9e: \"\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\" - Nederlands: \"netwerk\"\n\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"kaas\"\n\u65e5\u672c\u8a9e: \"\u8449\u5dfb\u304d\u30bf\u30d0\u30b3\" - Nederlands: \"",
+        "target": "['sigaar']",
+        "word original": "stick"
+    },
+    "['\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u3084\u304b\u3093\" - Nederlands: \"theeketel\"\n\u65e5\u672c\u8a9e: \"\u30c1\u30fc\u30ba\" - Nederlands: \"kaas\"\n\u65e5\u672c\u8a9e: \"\u7f8a\" - Nederlands: \"schaap\"\n\u65e5\u672c\u8a9e: \"\u92e4\" - Nederlands: \"ploeg\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"",
+        "target": "['kous', 'kousje']",
+        "word original": "stocking"
+    },
+    "['\u80c3', '\u80c3\u4f53', '\u80c3\u4f53\u90e8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7a2e\u5b50\" - Nederlands: \"zaad\"\n\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"druppel\"\n\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Nederlands: \"boek\"\n\u65e5\u672c\u8a9e: \"\u6249\" - Nederlands: \"poort\"\n\u65e5\u672c\u8a9e: \"\u80c3\" - Nederlands: \"",
+        "target": "['maag', 'buik']",
+        "word original": "stomach"
+    },
+    "['\u8a18\u61b6\u88c5\u7f6e', '\u30e1\u30e2\u30ea', '\u4e3b\u8a18\u61b6\u88c5\u7f6e', '\u30e1\u30e2\u30ea\u30fc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5c11\u5973\" - Nederlands: \"meisje\"\n\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u984e\" - Nederlands: \"kin\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30e1\u30e9\" - Nederlands: \"fotocamera\"\n\u65e5\u672c\u8a9e: \"\u8a18\u61b6\u88c5\u7f6e\" - Nederlands: \"",
+        "target": "['opslagmedium', 'geheugen', 'computergeheugen', 'intern geheugen', 'geheugeneenheid']",
+        "word original": "store"
+    },
+    "['\u901a\u308a', '\u9053', '\u9053\u8def', '\u8def\u7dda', '\u901a\u8def', '\u9053\u7b4b', '\u30eb\u30fc\u30c8']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e3\u30c4\" - Nederlands: \"t-shirt\"\n\u65e5\u672c\u8a9e: \"\u5217\u8eca\" - Nederlands: \"trein\"\n\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"rundvee\"\n\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Nederlands: \"",
+        "target": "['baan', 'straat', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']",
+        "word original": "street"
+    },
+    "['\u65e5\u66dc\u65e5', '\u4e3b\u65e5', '\u65e5\u66dc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5e03\u56e3\" - Nederlands: \"bed\"\n\u65e5\u672c\u8a9e: \"\u6620\u753b\" - Nederlands: \"film\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u5927\u5b66\" - Nederlands: \"universiteit\"\n\u65e5\u672c\u8a9e: \"\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\" - Nederlands: \"kous\"\n\u65e5\u672c\u8a9e: \"\u65e5\u66dc\u65e5\" - Nederlands: \"",
+        "target": "['zondag']",
+        "word original": "sun"
+    },
+    "['\u30c6\u30fc\u30d6\u30eb', '\u53f0', '\u5353', '\u5353\u88b1\u53f0', '\u673a']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u7bb1\" - Nederlands: \"dozen\"\n\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"rem\"\n\u65e5\u672c\u8a9e: \"\u30d0\u30b1\u30c4\" - Nederlands: \"emmer\"\n\u65e5\u672c\u8a9e: \"\u80c3\" - Nederlands: \"maag\"\n\u65e5\u672c\u8a9e: \"\u7d20\u63cf\" - Nederlands: \"afbeelding\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30fc\u30d6\u30eb\" - Nederlands: \"",
+        "target": "['tafel']",
+        "word original": "table"
+    },
+    "['\u5c3e', '\u30b1\u30c4', '\u5c3b', '\u5ea7\u90e8', '\u5c3b\u5c3e']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30aa\u30ec\u30f3\u30b8\u8272\" - Nederlands: \"oranje\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u9774\u4e0b\" - Nederlands: \"sok\"\n\u65e5\u672c\u8a9e: \"\u8eab\u5206\u8a3c\" - Nederlands: \"identiteitskaart\"\n\u65e5\u672c\u8a9e: \"\u30d6\u30ec\u30fc\u30ad\" - Nederlands: \"rem\"\n\u65e5\u672c\u8a9e: \"\u5c3e\" - Nederlands: \"",
+        "target": "['zitvlak', 'toges', 'gat', 'achterwerk', 'achterste', 'reet', 'achtersteven', 'batterij', 'hol', 'fundament', 'kont', 'bips', 'derri\u00e8re', 'krent', 'bil', 'zitmeubel', 'tooches', 'bibs', 'posterieur', 'staart']",
+        "word original": "tail"
+    },
+    "['\u7cf8', '\u6bdb\u7cf8', '\u7d10']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u92cf\" - Nederlands: \"schaar\"\n\u65e5\u672c\u8a9e: \"\u30e4\u30ae\" - Nederlands: \"geit\"\n\u65e5\u672c\u8a9e: \"\u811a\" - Nederlands: \"been\"\n\u65e5\u672c\u8a9e: \"\u8ecd\u968a\" - Nederlands: \"strijdkrachten\"\n\u65e5\u672c\u8a9e: \"\u7cf8\" - Nederlands: \"",
+        "target": "['garen', 'draad', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees']",
+        "word original": "thread"
+    },
+    "['\u5589', '\u54bd\u5589']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6b66\u5668\" - Nederlands: \"wapen\"\n\u65e5\u672c\u8a9e: \"\u30ab\u30c3\u30d7\" - Nederlands: \"kop\"\n\u65e5\u672c\u8a9e: \"\u722a\" - Nederlands: \"vingernagel\"\n\u65e5\u672c\u8a9e: \"\u65e5\u66dc\u65e5\" - Nederlands: \"zondag\"\n\u65e5\u672c\u8a9e: \"\u7a2e\u5b50\" - Nederlands: \"zaad\"\n\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"",
+        "target": "['hals', 'keel', 'gorgel', 'farynx', 'strot']",
+        "word original": "throat"
+    },
+    "['\u89aa\u6307']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"geweer\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30ec\u30d3\" - Nederlands: \"video\"\n\u65e5\u672c\u8a9e: \"\u53e3\" - Nederlands: \"mond\"\n\u65e5\u672c\u8a9e: \"\u4e00\u4fa1\u95a2\u6570\" - Nederlands: \"functie\"\n\u65e5\u672c\u8a9e: \"\u725b\" - Nederlands: \"rundvee\"\n\u65e5\u672c\u8a9e: \"\u89aa\u6307\" - Nederlands: \"",
+        "target": "['duim']",
+        "word original": "thumb"
+    },
+    "['\u8db3\u6307', '\u3064\u307e\u5148', '\u8dbe', '\u722a\u5148', '\u6307']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"stengel\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"etnische muziek\"\n\u65e5\u672c\u8a9e: \"\u6355\u6349\" - Nederlands: \"aanhouding\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u8db3\u6307\" - Nederlands: \"",
+        "target": "['kleine teen', 'tenen', 'teen', 'kom nou']",
+        "word original": "toe"
+    },
+    "['\u6b6f', '\u30d2\u30c8\u306e\u6b6f']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6ef4\" - Nederlands: \"druppel\"\n\u65e5\u672c\u8a9e: \"\u6adb\" - Nederlands: \"kam\"\n\u65e5\u672c\u8a9e: \"\u30e2\u30fc\u30bf\u30fc\" - Nederlands: \"motor\"\n\u65e5\u672c\u8a9e: \"\u7537\u306e\u5b50\" - Nederlands: \"joch\"\n\u65e5\u672c\u8a9e: \"\u9375\" - Nederlands: \"sleutel\"\n\u65e5\u672c\u8a9e: \"\u6b6f\" - Nederlands: \"",
+        "target": "['gebitselement', 'tand', 'tanden', 'menselijke tand']",
+        "word original": "tooth"
+    },
+    "['\u5217\u8eca']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u830e\" - Nederlands: \"stengel\"\n\u65e5\u672c\u8a9e: \"\u8155\u6642\u8a08\" - Nederlands: \"polshorloge\"\n\u65e5\u672c\u8a9e: \"\u306f\u3057\" - Nederlands: \"brug\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Nederlands: \"boek\"\n\u65e5\u672c\u8a9e: \"\u5fc3\" - Nederlands: \"ziel\"\n\u65e5\u672c\u8a9e: \"\u5217\u8eca\" - Nederlands: \"",
+        "target": "['trein', 'konvooi', 'karavaan']",
+        "word original": "train"
+    },
+    "['\u6a39\u6728', '\u6728']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u9854\" - Nederlands: \"tronie\"\n\u65e5\u672c\u8a9e: \"\u808c\" - Nederlands: \"vel\"\n\u65e5\u672c\u8a9e: \"\u4eba\u9593\u751f\u7406\u5b66\" - Nederlands: \"menselijke verrichtingsleer\"\n\u65e5\u672c\u8a9e: \"\u5507\" - Nederlands: \"lip\"\n\u65e5\u672c\u8a9e: \"\u6cc9\" - Nederlands: \"bron\"\n\u65e5\u672c\u8a9e: \"\u6a39\u6728\" - Nederlands: \"",
+        "target": "['boom']",
+        "word original": "tree"
+    },
+    "['\u30ba\u30dc\u30f3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5098\" - Nederlands: \"paraplu\"\n\u65e5\u672c\u8a9e: \"\u672c\" - Nederlands: \"boek\"\n\u65e5\u672c\u8a9e: \"\u9774\" - Nederlands: \"schoen\"\n\u65e5\u672c\u8a9e: \"\u30d5\u30a9\u30fc\u30af\" - Nederlands: \"etnische muziek\"\n\u65e5\u672c\u8a9e: \"\u732b\" - Nederlands: \"kat\"\n\u65e5\u672c\u8a9e: \"\u30ba\u30dc\u30f3\" - Nederlands: \"",
+        "target": "['broek']",
+        "word original": "trousers"
+    },
+    "['\u5098', '\u96e8\u5098']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u6052\u661f\" - Nederlands: \"zon\"\n\u65e5\u672c\u8a9e: \"\u6307\u8f2a\" - Nederlands: \"ring\"\n\u65e5\u672c\u8a9e: \"\u5bb6\" - Nederlands: \"optrekje\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"klauw\"\n\u65e5\u672c\u8a9e: \"\u30c6\u30ec\u30d3\" - Nederlands: \"video\"\n\u65e5\u672c\u8a9e: \"\u5098\" - Nederlands: \"",
+        "target": "['paraplu', 'regenscherm']",
+        "word original": "umbrella"
+    },
+    "['\u58c1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u8155\u6642\u8a08\" - Nederlands: \"polshorloge\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"fiets\"\n\u65e5\u672c\u8a9e: \"\u30b7\u30e7\u30c3\u30af\u30a2\u30d6\u30bd\u30fc\u30d0\u30fc\" - Nederlands: \"schokbreker\"\n\u65e5\u672c\u8a9e: \"\u8805\" - Nederlands: \"vlieg\"\n\u65e5\u672c\u8a9e: \"\u86c7\" - Nederlands: \"slang\"\n\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"",
+        "target": "['wand', 'muur']",
+        "word original": "wall"
+    },
+    "['\u8155\u6642\u8a08', '\u61d0\u4e2d\u6642\u8a08', '\u30ea\u30b9\u30c8\u30a6\u30a9\u30c3\u30c1', '\u6642\u8a08', '\u30a6\u30aa\u30c3\u30c1']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u75c5\u9662\" - Nederlands: \"verpleeginrichting\"\n\u65e5\u672c\u8a9e: \"\u9283\" - Nederlands: \"geweer\"\n\u65e5\u672c\u8a9e: \"\u92e4\" - Nederlands: \"ploeg\"\n\u65e5\u672c\u8a9e: \"\u8ecd\u968a\" - Nederlands: \"strijdkrachten\"\n\u65e5\u672c\u8a9e: \"\u4fbf\u5668\" - Nederlands: \"toilet\"\n\u65e5\u672c\u8a9e: \"\u8155\u6642\u8a08\" - Nederlands: \"",
+        "target": "['polshorloge', 'klokje', 'horloge', 'klok', 'uurwerk']",
+        "word original": "watch"
+    },
+    "['\u81ea\u8ee2\u8eca', '\u30c1\u30e3\u30ea', '\u30c1\u30e3\u30ea\u30f3\u30b3']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u30e2\u30fc\u30bf\u30fc\" - Nederlands: \"motor\"\n\u65e5\u672c\u8a9e: \"\u4f53\u7f70\" - Nederlands: \"lijfstraf\"\n\u65e5\u672c\u8a9e: \"\u30a2\u30fc\u30c1\" - Nederlands: \"boog\"\n\u65e5\u672c\u8a9e: \"\u8d64\u3061\u3083\u3093\" - Nederlands: \"baby\"\n\u65e5\u672c\u8a9e: \"\u76e3\u7344\" - Nederlands: \"nor\"\n\u65e5\u672c\u8a9e: \"\u81ea\u8ee2\u8eca\" - Nederlands: \"",
+        "target": "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros']",
+        "word original": "wheel"
+    },
+    "['\u97ad', '\u3080\u3061']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"fles\"\n\u65e5\u672c\u8a9e: \"\u8acb\u6c42\u66f8\" - Nederlands: \"factuur\"\n\u65e5\u672c\u8a9e: \"\u624b\" - Nederlands: \"klauw\"\n\u65e5\u672c\u8a9e: \"\u7537\u306e\u5b50\" - Nederlands: \"joch\"\n\u65e5\u672c\u8a9e: \"\u901a\u308a\" - Nederlands: \"baan\"\n\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"",
+        "target": "['zweep']",
+        "word original": "whip"
+    },
+    "['\u7a93']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u5fc3\u81d3\" - Nederlands: \"hart\"\n\u65e5\u672c\u8a9e: \"\u58c1\" - Nederlands: \"wand\"\n\u65e5\u672c\u8a9e: \"\u5207\u624b\" - Nederlands: \"postzegel\"\n\u65e5\u672c\u8a9e: \"\u5186\" - Nederlands: \"kring\"\n\u65e5\u672c\u8a9e: \"\u74f6\" - Nederlands: \"fles\"\n\u65e5\u672c\u8a9e: \"\u7a93\" - Nederlands: \"",
+        "target": "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje']",
+        "word original": "window"
+    },
+    "['\u7ffc']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u86c7\" - Nederlands: \"slang\"\n\u65e5\u672c\u8a9e: \"\u6620\u753b\" - Nederlands: \"film\"\n\u65e5\u672c\u8a9e: \"\u30dd\u30b1\u30c3\u30c8\" - Nederlands: \"zak\"\n\u65e5\u672c\u8a9e: \"\u96fb\u7403\" - Nederlands: \"gloeilamp\"\n\u65e5\u672c\u8a9e: \"\u795e\u7d4c\" - Nederlands: \"zenuwstelsel\"\n\u65e5\u672c\u8a9e: \"\u7ffc\" - Nederlands: \"",
+        "target": "['vleugel', 'vlerk', 'wiek']",
+        "word original": "wing"
+    },
+    "['\u866b\u87bb', '\u6606\u866b', '\u866b', 'Insecta', '\u8815\u866b']": {
+        "prompt": "\u65e5\u672c\u8a9e: \"\u97ad\" - Nederlands: \"zweep\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30d5\u30a3\u30b9\" - Nederlands: \"kantoor\"\n\u65e5\u672c\u8a9e: \"\u53e3\u7434\" - Nederlands: \"trompet\"\n\u65e5\u672c\u8a9e: \"\u5589\" - Nederlands: \"hals\"\n\u65e5\u672c\u8a9e: \"\u30aa\u30fc\u30d6\u30f3\" - Nederlands: \"bakoven\"\n\u65e5\u672c\u8a9e: \"\u866b\u87bb\" - Nederlands: \"",
+        "target": "['insect', 'insecten', 'kerfdier', 'beestje', 'insekt', 'nietsnut', 'worm', 'pier', 'wormen', 'regenworm', 'aardworm', 'wurm']",
+        "word original": "worm"
+    }
+}

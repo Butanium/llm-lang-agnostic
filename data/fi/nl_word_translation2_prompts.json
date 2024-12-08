@@ -1,0 +1,857 @@
+{
+    "['suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma']": {
+        "prompt": "Suomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"virka\" - Nederlands: \"kantoor\"\nSuomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"lasku\" - Nederlands: \"factuur\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"suplementtikulmat\" - Nederlands: \"",
+        "target": "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek']",
+        "word original": "angle"
+    },
+    "['muurahainen', 'muurahaiset', 'kusiainen']": {
+        "prompt": "Suomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"apina\" - Nederlands: \"aap\"\nSuomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"sairaala\" - Nederlands: \"verpleeginrichting\"\nSuomi: \"muurahainen\" - Nederlands: \"",
+        "target": "['mier', 'mieren']",
+        "word original": "ant"
+    },
+    "['omena']": {
+        "prompt": "Suomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"sormi\" - Nederlands: \"middelvinger\"\nSuomi: \"lippu\" - Nederlands: \"vaan\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"omena\" - Nederlands: \"",
+        "target": "['appelschil', 'appel']",
+        "word original": "apple"
+    },
+    "['holvikaari', 'Kaari', 'kaari', 'holvi']": {
+        "prompt": "Suomi: \"lentokone\" - Nederlands: \"toestel\"\nSuomi: \"hevonen\" - Nederlands: \"paard\"\nSuomi: \"naama\" - Nederlands: \"tronie\"\nSuomi: \"hylly\" - Nederlands: \"plank\"\nSuomi: \"peruna\" - Nederlands: \"patat\"\nSuomi: \"holvikaari\" - Nederlands: \"",
+        "target": "['boog']",
+        "word original": "arch"
+    },
+    "['ase', 'astalo', 'ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']": {
+        "prompt": "Suomi: \"mato\" - Nederlands: \"aardworm\"\nSuomi: \"linnut\" - Nederlands: \"vogel\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"juna\" - Nederlands: \"trein\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"ase\" - Nederlands: \"",
+        "target": "['wapen', 'gevechtswapen', 'strijdmiddel', 'geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk']",
+        "word original": "arm"
+    },
+    "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat']": {
+        "prompt": "Suomi: \"verho\" - Nederlands: \"sluier\"\nSuomi: \"varvas\" - Nederlands: \"digit\"\nSuomi: \"kakku\" - Nederlands: \"suikergoed\"\nSuomi: \"paita\" - Nederlands: \"hemd\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"asevoimat\" - Nederlands: \"",
+        "target": "['strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e']",
+        "word original": "army"
+    },
+    "['pikkulapsi', 'alaik\u00e4inen', 'lapsi', 'vekara', 'pikkumies', 'vinti\u00f6', 'napero', 'lapsukainen', 'kersa', 'pentu', 'tenava', 'ipana', 'muksu', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4']": {
+        "prompt": "Suomi: \"pullo\" - Nederlands: \"gascilinder\"\nSuomi: \"laatikko\" - Nederlands: \"stoofpot\"\nSuomi: \"juusto\" - Nederlands: \"kaas\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"ihmisruumis\" - Nederlands: \"menselijke verrichtingsleer\"\nSuomi: \"pikkulapsi\" - Nederlands: \"",
+        "target": "['patat', 'kind', 'friet', 'jongere', 'jongeling', 'minderjarige', 'ding', 'baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje']",
+        "word original": "baby"
+    },
+    "['sormus']": {
+        "prompt": "Suomi: \"koira\" - Nederlands: \"hond\"\nSuomi: \"teepannu\" - Nederlands: \"theepot\"\nSuomi: \"varvas\" - Nederlands: \"digit\"\nSuomi: \"sormi\" - Nederlands: \"middelvinger\"\nSuomi: \"hame\" - Nederlands: \"rok\"\nSuomi: \"sormus\" - Nederlands: \"",
+        "target": "['ring']",
+        "word original": "ring"
+    },
+    "['amme', 'kylpyamme', 'pesuallas', 'lavuaari', 'Lavuaari', 'viem\u00e4riallas']": {
+        "prompt": "Suomi: \"maatila\" - Nederlands: \"boerenbedrijf\"\nSuomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"sieniel\u00e4imet\" - Nederlands: \"spons\"\nSuomi: \"jalkater\u00e4\" - Nederlands: \"voet\"\nSuomi: \"peruna\" - Nederlands: \"patat\"\nSuomi: \"amme\" - Nederlands: \"",
+        "target": "['badkuip', 'bad', 'ligbad', 'tobbe', 'wastobbe', 'teil', 'wasteil', 'bassin', 'wastafel', 'bekken', 'gootsteen', 'afwasbak']",
+        "word original": "basin"
+    },
+    "['kylpyhuone', 'kylpyl\u00e4', 'k\u00e4ym\u00e4l\u00e4', 'toiletti', 'vessa', 'pesuhuone']": {
+        "prompt": "Suomi: \"mato\" - Nederlands: \"aardworm\"\nSuomi: \"huuli\" - Nederlands: \"lip\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"kylpyhuone\" - Nederlands: \"",
+        "target": "['wasgelegenheid', 'badkamer', 'badkuip', 'bad', 'privaat', 'toilet', 'wc', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']",
+        "word original": "bath"
+    },
+    "['vuode', 's\u00e4nky', 'peti']": {
+        "prompt": "Suomi: \"harja\" - Nederlands: \"bergkam\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"kurkku\" - Nederlands: \"Cucumis sativus\"\nSuomi: \"karja\" - Nederlands: \"rundvee\"\nSuomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"vuode\" - Nederlands: \"",
+        "target": "['bed', 'legerstede', 'sponde', 'bedstede', 'ledikant', 'nest']",
+        "word original": "bed"
+    },
+    "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset']": {
+        "prompt": "Suomi: \"leuka\" - Nederlands: \"kin\"\nSuomi: \"talo\" - Nederlands: \"optrekje\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"vasara\" - Nederlands: \"vuisthamer\"\nSuomi: \"amme\" - Nederlands: \"badkuip\"\nSuomi: \"mehil\u00e4iset\" - Nederlands: \"",
+        "target": "['bij', 'honingbij', 'imme', 'bijen']",
+        "word original": "bee"
+    },
+    "['ovikello', 'ovisummeri']": {
+        "prompt": "Suomi: \"verho\" - Nederlands: \"sluier\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"kala\" - Nederlands: \"vissen\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"ovikello\" - Nederlands: \"",
+        "target": "['deurbel', 'bel', 'zoemer', 'huisbel', 'klingel', 'schel', 'door Bell', 'ding-dong']",
+        "word original": "bell"
+    },
+    "['linnut', 'lintu']": {
+        "prompt": "Suomi: \"Arkku\" - Nederlands: \"kist\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"kirja\" - Nederlands: \"boek\"\nSuomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"linnut\" - Nederlands: \"",
+        "target": "['vogel', 'vogels', 'Eu-', 'vogeltje']",
+        "word original": "bird"
+    },
+    "['miekka', 'kalpa']": {
+        "prompt": "Suomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"harja\" - Nederlands: \"bergkam\"\nSuomi: \"varvas\" - Nederlands: \"digit\"\nSuomi: \"p\u00f6yt\u00e4\" - Nederlands: \"tafel\"\nSuomi: \"ulkokatto\" - Nederlands: \"dak\"\nSuomi: \"miekka\" - Nederlands: \"",
+        "target": "['zwaard', 'degen']",
+        "word original": "blade"
+    },
+    "['komitea', 'valiokunta', 'toimikunta', 'lautakunta']": {
+        "prompt": "Suomi: \"ruoska\" - Nederlands: \"zweep\"\nSuomi: \"uuni\" - Nederlands: \"bakoven\"\nSuomi: \"kirja\" - Nederlands: \"boek\"\nSuomi: \"rautatie\" - Nederlands: \"spoorwegen\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"komitea\" - Nederlands: \"",
+        "target": "['comit\u00e9', 'commissie', 'kamer', 'cie', 'college']",
+        "word original": "board"
+    },
+    "['vene']": {
+        "prompt": "Suomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"sakset\" - Nederlands: \"schaar\"\nSuomi: \"sunnuntai\" - Nederlands: \"zondag\"\nSuomi: \"virka\" - Nederlands: \"kantoor\"\nSuomi: \"l\u00e4hde\" - Nederlands: \"bron\"\nSuomi: \"vene\" - Nederlands: \"",
+        "target": "['boot', 'schip']",
+        "word original": "boat"
+    },
+    "['luu', 'os']": {
+        "prompt": "Suomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"luu\" - Nederlands: \"",
+        "target": "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat']",
+        "word original": "bone"
+    },
+    "['kirja', 'oppikirja', 'koulukirja']": {
+        "prompt": "Suomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"tulitikku\" - Nederlands: \"zwavelstokje\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"siipikarja\" - Nederlands: \"gevogelte\"\nSuomi: \"kirja\" - Nederlands: \"",
+        "target": "['boek', 'boeken', 'album', 'boekwerk', 'boekje', 'studieboek', 'leerboek', 'schoolboek', 'handboek', 'teksteditie', 'cursusboek', 'tekstuitgave']",
+        "word original": "book"
+    },
+    "['pullo', 'kaasupullo', 'Kaasupullo', 'sylinteri']": {
+        "prompt": "Suomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"kynsi\" - Nederlands: \"vingernagel\"\nSuomi: \"rautatie\" - Nederlands: \"spoorwegen\"\nSuomi: \"lentokone\" - Nederlands: \"toestel\"\nSuomi: \"vene\" - Nederlands: \"boot\"\nSuomi: \"pullo\" - Nederlands: \"",
+        "target": "['gascilinder', 'fles']",
+        "word original": "bottle"
+    },
+    "['laatikko', 'muhennos', 'pata', 'pataruoka', 'rasia', 'aski', 'vetolaatikko', 'Vetolaatikko']": {
+        "prompt": "Suomi: \"kuppi\" - Nederlands: \"kop\"\nSuomi: \"mato\" - Nederlands: \"aardworm\"\nSuomi: \"huuli\" - Nederlands: \"lip\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Nederlands: \"fiets\"\nSuomi: \"rihma\" - Nederlands: \"garen\"\nSuomi: \"laatikko\" - Nederlands: \"",
+        "target": "['stoofpot', 'ragout', 'estouffade', 'rago\u00fbt', 'stoofschotel', 'pot-au-feu', 'dozen', 'doos', 'bak', 'schuifla', 'la', 'schuiflade', 'lade', 'schuif']",
+        "word original": "box"
+    },
+    "['poika']": {
+        "prompt": "Suomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"silta\" - Nederlands: \"brug\"\nSuomi: \"veitsi\" - Nederlands: \"mes\"\nSuomi: \"pikkukaupunki\" - Nederlands: \"nederzetting\"\nSuomi: \"poika\" - Nederlands: \"",
+        "target": "['joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen', 'zoonlief', 'zoon']",
+        "word original": "boy"
+    },
+    "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'j\u00e4rki', '\u00e4lli']": {
+        "prompt": "Suomi: \"potta\" - Nederlands: \"toilet\"\nSuomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"lentokone\" - Nederlands: \"toestel\"\nSuomi: \"kurkku\" - Nederlands: \"Cucumis sativus\"\nSuomi: \"Nous\" - Nederlands: \"",
+        "target": "['brein', 'verstand', 'psyche', 'geest', 'denkvermogen', 'rede']",
+        "word original": "head"
+    },
+    "['Jarru']": {
+        "prompt": "Suomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"maatila\" - Nederlands: \"boerenbedrijf\"\nSuomi: \"ampuma-ase\" - Nederlands: \"geweer\"\nSuomi: \"sein\u00e4\" - Nederlands: \"wand\"\nSuomi: \"lippu\" - Nederlands: \"vaan\"\nSuomi: \"Jarru\" - Nederlands: \"",
+        "target": "['rem', 'remmen']",
+        "word original": "brake"
+    },
+    "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia']": {
+        "prompt": "Suomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"iho\" - Nederlands: \"vel\"\nSuomi: \"korva\" - Nederlands: \"oor\"\nSuomi: \"h\u00f6yhenet\" - Nederlands: \"pluim\"\nSuomi: \"aura\" - Nederlands: \"ploeg\"\nSuomi: \"talosel\u00e4m\u00e4\" - Nederlands: \"",
+        "target": "['economie', 'politieke economie']",
+        "word original": "branch"
+    },
+    "['tiili', 'tiiliskivi']": {
+        "prompt": "Suomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"tippa\" - Nederlands: \"druppel\"\nSuomi: \"kirja\" - Nederlands: \"boek\"\nSuomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"juna\" - Nederlands: \"trein\"\nSuomi: \"tiili\" - Nederlands: \"",
+        "target": "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']",
+        "word original": "brick"
+    },
+    "['silta']": {
+        "prompt": "Suomi: \"tiili\" - Nederlands: \"klinker\"\nSuomi: \"iskunvaimennin\" - Nederlands: \"schokbreker\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"kyn\u00e4\" - Nederlands: \"crayon\"\nSuomi: \"silta\" - Nederlands: \"",
+        "target": "['brug', 'lijst van Romeinse bruggen']",
+        "word original": "bridge"
+    },
+    "['harja', 'vuorenharja', 'sel\u00e4nne', 'selk\u00e4', 'harjanne', 'harju', 'suti', 'sivellin', 'suka']": {
+        "prompt": "Suomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"lusikka\" - Nederlands: \"lepel\"\nSuomi: \"hylly\" - Nederlands: \"plank\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"harja\" - Nederlands: \"",
+        "target": "['bergkam', 'heuvelrug', 'heuvelkam', 'borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']",
+        "word original": "brush"
+    },
+    "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']": {
+        "prompt": "Suomi: \"vaatetus\" - Nederlands: \"kledij\"\nSuomi: \"vasara\" - Nederlands: \"vuisthamer\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"tippa\" - Nederlands: \"druppel\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"",
+        "target": "['emmer']",
+        "word original": "bucket"
+    },
+    "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']": {
+        "prompt": "Suomi: \"silm\u00e4muna\" - Nederlands: \"oogbol\"\nSuomi: \"karja\" - Nederlands: \"rundvee\"\nSuomi: \"oranssius\" - Nederlands: \"oranje\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"hehkulamppu\" - Nederlands: \"",
+        "target": "['gloeilamp', 'elektrisch licht', 'peer']",
+        "word original": "bulb"
+    },
+    "['nappi', 'tabu', 'pilleri', 'tabletti', 'Tabletti', 'Pilleri', 'pastilli', 'sormi', 'n\u00e4ppi', 'painokytkin', 'painonappi', 'painike', 'nappula', 'n\u00e4pp\u00e4in']": {
+        "prompt": "Suomi: \"omena\" - Nederlands: \"appelschil\"\nSuomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"takki\" - Nederlands: \"pak\"\nSuomi: \"holvikaari\" - Nederlands: \"boog\"\nSuomi: \"puutarha\" - Nederlands: \"tuin\"\nSuomi: \"nappi\" - Nederlands: \"",
+        "target": "['knoop', 'tablet', 'pil', 'zuigtablet', 'anticonceptiepil', 'pastille', 'vinger', 'knop', 'toets', 'drukknop']",
+        "word original": "button"
+    },
+    "['kakku', 'Konditoriatuote', 'leivos', 'konditoriatuote', 'makeat herkut', 'makeinen', 'sokerileipurin ty\u00f6', 'sokerileipurin taidot']": {
+        "prompt": "Suomi: \"muisti\" - Nederlands: \"geheugen\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"ihmisruumis\" - Nederlands: \"menselijke verrichtingsleer\"\nSuomi: \"korva\" - Nederlands: \"oor\"\nSuomi: \"leuka\" - Nederlands: \"kin\"\nSuomi: \"kakku\" - Nederlands: \"",
+        "target": "['suikergoed', 'zoetwaren', 'cake', 'taart']",
+        "word original": "cake"
+    },
+    "['kamera', 'valokuvakamera', 'televisiokamera']": {
+        "prompt": "Suomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"muisti\" - Nederlands: \"geheugen\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"ampuma-ase\" - Nederlands: \"geweer\"\nSuomi: \"kamera\" - Nederlands: \"",
+        "target": "['fotocamera', 'camera', 'videocamera', 'filmcamera', 'fototoestel', 'televisiecamera']",
+        "word original": "camera"
+    },
+    "['henkil\u00f6llisyystodistus', 'henkil\u00f6kortti', 'henkil\u00f6todistus', 'I.D.', 'ID']": {
+        "prompt": "Suomi: \"hinta\" - Nederlands: \"prijs\"\nSuomi: \"p\u00f6yt\u00e4\" - Nederlands: \"tafel\"\nSuomi: \"vatsa\" - Nederlands: \"maag\"\nSuomi: \"muurahainen\" - Nederlands: \"mier\"\nSuomi: \"hiiri\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Nederlands: \"",
+        "target": "['identiteitskaart', 'legitimatiebewijs', 'stamkaart', 'identiteitsbewijs', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']",
+        "word original": "card"
+    },
+    "['rautatieajoneuvo', 'moottorivaunu', 'junanvaunu', 'rautatievaunu', 'Moottorivaunu', 'vaunu', 'junavaunu', 'hissikori', 'kiskoauto', 'raidevaunu', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat']": {
+        "prompt": "Suomi: \"leuka\" - Nederlands: \"kin\"\nSuomi: \"hylly\" - Nederlands: \"plank\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"kirjasto\" - Nederlands: \"bibliotheek\"\nSuomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"rautatieajoneuvo\" - Nederlands: \"",
+        "target": "['wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'motorrijtuig', 'railvoertuig', 'motorwagen', 'spoorrijtuig', 'treinwagon', 'koets', 'break', 'brik', 'janplezier']",
+        "word original": "carriage"
+    },
+    "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']": {
+        "prompt": "Suomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"nen\u00e4\" - Nederlands: \"neus\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"rannekello\" - Nederlands: \"polshorloge\"\nSuomi: \"lammas\" - Nederlands: \"schaap\"\nSuomi: \"mirri\" - Nederlands: \"",
+        "target": "['kat', 'huiskat']",
+        "word original": "cat"
+    },
+    "['ketju', 'vitja', 'kettinki', 'sarja']": {
+        "prompt": "Suomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"kamera\" - Nederlands: \"fotocamera\"\nSuomi: \"kylpyhuone\" - Nederlands: \"wasgelegenheid\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"ketju\" - Nederlands: \"",
+        "target": "['ketting', 'keten', 'aaneenrijging', 'schakelketting', 'aaneenschakeling']",
+        "word original": "chain"
+    },
+    "['juusto']": {
+        "prompt": "Suomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"hinta\" - Nederlands: \"prijs\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"rannekello\" - Nederlands: \"polshorloge\"\nSuomi: \"juusto\" - Nederlands: \"",
+        "target": "['kaas']",
+        "word original": "cheese"
+    },
+    "['Arkku', 'kirstu']": {
+        "prompt": "Suomi: \"Jarru\" - Nederlands: \"rem\"\nSuomi: \"kala\" - Nederlands: \"vissen\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"Arkku\" - Nederlands: \"",
+        "target": "['kist']",
+        "word original": "chest"
+    },
+    "['leuka', 'leukakyhmy', 'mentum', 'leukaluu', 'alaleuanluu', 'alaleuka', 'leukapieli', 'alaleukaluu', 'submaxilla', 'leuat', 'leukaper\u00e4']": {
+        "prompt": "Suomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"leuka\" - Nederlands: \"",
+        "target": "['kin', 'kinnebak', 'mandibula', 'onderkaak', 'wang', 'kaaksbeen', 'kaak', 'kakement']",
+        "word original": "chin"
+    },
+    "['kirkko', 'kirkkorakennus']": {
+        "prompt": "Suomi: \"linna\" - Nederlands: \"slot\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Nederlands: \"fiets\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"internet\" - Nederlands: \"netwerk\"\nSuomi: \"kirkko\" - Nederlands: \"",
+        "target": "['kerk', 'kerkgebouw', 'godshuis']",
+        "word original": "church"
+    },
+    "['ympyr\u00e4']": {
+        "prompt": "Suomi: \"leuka\" - Nederlands: \"kin\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"virka\" - Nederlands: \"kantoor\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"takki\" - Nederlands: \"pak\"\nSuomi: \"ympyr\u00e4\" - Nederlands: \"",
+        "target": "['kring', 'cirkel']",
+        "word original": "circle"
+    },
+    "['kello', 'rannekello', 'taskukello', 'kulkunen']": {
+        "prompt": "Suomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"kyn\u00e4\" - Nederlands: \"crayon\"\nSuomi: \"holvikaari\" - Nederlands: \"boog\"\nSuomi: \"aura\" - Nederlands: \"ploeg\"\nSuomi: \"kello\" - Nederlands: \"",
+        "target": "['klok', 'uurwerk', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje', 'bel', 'schel']",
+        "word original": "clock"
+    },
+    "['pilvi']": {
+        "prompt": "Suomi: \"avain\" - Nederlands: \"tonaliteit\"\nSuomi: \"veitsi\" - Nederlands: \"mes\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"pikkulapsi\" - Nederlands: \"patat\"\nSuomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"pilvi\" - Nederlands: \"",
+        "target": "['wolk']",
+        "word original": "cloud"
+    },
+    "['takki', 'puku', 'kokopuku', 'vaatekerta', 'pusakka', 'pikkutakki']": {
+        "prompt": "Suomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"sairaala\" - Nederlands: \"verpleeginrichting\"\nSuomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"takki\" - Nederlands: \"",
+        "target": "['pak', 'kostuum', 'zaak', 'kleur', 'jas', 'jack', 'mantel', 'overjas']",
+        "word original": "coat"
+    },
+    "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni', 'sieppaus', 'vapaudenriisto']": {
+        "prompt": "Suomi: \"laatikko\" - Nederlands: \"stoofpot\"\nSuomi: \"lammas\" - Nederlands: \"schaap\"\nSuomi: \"filmi\" - Nederlands: \"film\"\nSuomi: \"rautatieajoneuvo\" - Nederlands: \"wagon\"\nSuomi: \"kamera\" - Nederlands: \"fotocamera\"\nSuomi: \"pid\u00e4tys\" - Nederlands: \"",
+        "target": "['aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand']",
+        "word original": "collar"
+    },
+    "['kampa']": {
+        "prompt": "Suomi: \"luu\" - Nederlands: \"knok\"\nSuomi: \"Arkku\" - Nederlands: \"kist\"\nSuomi: \"teepannu\" - Nederlands: \"theepot\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"amme\" - Nederlands: \"badkuip\"\nSuomi: \"kampa\" - Nederlands: \"",
+        "target": "['kam', 'schilderskam']",
+        "word original": "comb"
+    },
+    "['karja', 'Bos taurus', 'nauta', 'nautakarja', 'kotiel\u00e4in']": {
+        "prompt": "Suomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"potta\" - Nederlands: \"toilet\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"apina\" - Nederlands: \"aap\"\nSuomi: \"avain\" - Nederlands: \"tonaliteit\"\nSuomi: \"karja\" - Nederlands: \"",
+        "target": "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus', 'levende have', 'landbouwhuisdier', 'veestapel', 'stal']",
+        "word original": "cow"
+    },
+    "['kuppi', 'juomalasi', 'juomapikari', 'Juomalasi']": {
+        "prompt": "Suomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"solmu\" - Nederlands: \"knoop\"\nSuomi: \"lyijykyn\u00e4\" - Nederlands: \"crayon\"\nSuomi: \"kaksisiipiset\" - Nederlands: \"vlieg\"\nSuomi: \"vaatetus\" - Nederlands: \"kledij\"\nSuomi: \"kuppi\" - Nederlands: \"",
+        "target": "['kop', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker']",
+        "word original": "cup"
+    },
+    "['verho', 'huntu', 'p\u00e4\u00e4hine', 'harso', 'verhot']": {
+        "prompt": "Suomi: \"pullo\" - Nederlands: \"gascilinder\"\nSuomi: \"vuohi\" - Nederlands: \"geit\"\nSuomi: \"leuka\" - Nederlands: \"kin\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Nederlands: \"identiteitskaart\"\nSuomi: \"lentokone\" - Nederlands: \"toestel\"\nSuomi: \"verho\" - Nederlands: \"",
+        "target": "['sluier', 'gordijn', 'voorhangsel', 'lijkkleed', 'doek']",
+        "word original": "curtain"
+    },
+    "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']": {
+        "prompt": "Suomi: \"aura\" - Nederlands: \"ploeg\"\nSuomi: \"sairaala\" - Nederlands: \"verpleeginrichting\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"kuppi\" - Nederlands: \"kop\"\nSuomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"iskunvaimennin\" - Nederlands: \"",
+        "target": "['schokbreker', 'schokdemper', 'schok', 'kussen']",
+        "word original": "cushion"
+    },
+    "['koira', 'Canis lupus familiaris', 'Canis familiaris']": {
+        "prompt": "Suomi: \"nen\u00e4\" - Nederlands: \"neus\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"ulkokatto\" - Nederlands: \"dak\"\nSuomi: \"Jarru\" - Nederlands: \"rem\"\nSuomi: \"rautatieajoneuvo\" - Nederlands: \"wagon\"\nSuomi: \"koira\" - Nederlands: \"",
+        "target": "['hond', 'Canis lupus familiaris', 'joekel']",
+        "word original": "dog"
+    },
+    "['ovi']": {
+        "prompt": "Suomi: \"verho\" - Nederlands: \"sluier\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"Arkku\" - Nederlands: \"kist\"\nSuomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"ovi\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur']",
+        "word original": "drain"
+    },
+    "['piirros', 'piirustus', 'kuva']": {
+        "prompt": "Suomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"miekka\" - Nederlands: \"zwaard\"\nSuomi: \"neli\u00f6\" - Nederlands: \"vierkant\"\nSuomi: \"sukka\" - Nederlands: \"sok\"\nSuomi: \"paita\" - Nederlands: \"hemd\"\nSuomi: \"piirros\" - Nederlands: \"",
+        "target": "['afbeelding', 'tekening', 'tekenkunst', 'prent', 'illustratie', 'figuur', 'portret', 'plaatje']",
+        "word original": "drawer"
+    },
+    "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku', 'vaateparsi']": {
+        "prompt": "Suomi: \"hame\" - Nederlands: \"rok\"\nSuomi: \"luu\" - Nederlands: \"knok\"\nSuomi: \"pikkukaupunki\" - Nederlands: \"nederzetting\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"talo\" - Nederlands: \"optrekje\"\nSuomi: \"vaatetus\" - Nederlands: \"",
+        "target": "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed']",
+        "word original": "dress"
+    },
+    "['tippa', 'pisara', 'tilkka']": {
+        "prompt": "Suomi: \"siipikarja\" - Nederlands: \"gevogelte\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"rannekello\" - Nederlands: \"polshorloge\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"tippa\" - Nederlands: \"",
+        "target": "['druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop']",
+        "word original": "drop"
+    },
+    "['korva']": {
+        "prompt": "Suomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"jalokivi\" - Nederlands: \"edelsteen\"\nSuomi: \"lehvist\u00f6\" - Nederlands: \"lover\"\nSuomi: \"korva\" - Nederlands: \"",
+        "target": "['oor', 'oren', 'gehoororgaan']",
+        "word original": "ear"
+    },
+    "['moottori', 'Motor']": {
+        "prompt": "Suomi: \"pikkukaupunki\" - Nederlands: \"nederzetting\"\nSuomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"asema\" - Nederlands: \"station\"\nSuomi: \"oranssius\" - Nederlands: \"oranje\"\nSuomi: \"sikari\" - Nederlands: \"sigaar\"\nSuomi: \"moottori\" - Nederlands: \"",
+        "target": "['motor', 'aandrijving', 'locomotief', 'elektromotor']",
+        "word original": "engine"
+    },
+    "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']": {
+        "prompt": "Suomi: \"vasara\" - Nederlands: \"vuisthamer\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"takki\" - Nederlands: \"pak\"\nSuomi: \"laatikko\" - Nederlands: \"stoofpot\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"silm\u00e4muna\" - Nederlands: \"",
+        "target": "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']",
+        "word original": "eye"
+    },
+    "['naama', 'kasvot', 'p\u00e4rst\u00e4']": {
+        "prompt": "Suomi: \"hansikas\" - Nederlands: \"handschoen\"\nSuomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"moottori\" - Nederlands: \"motor\"\nSuomi: \"vatsa\" - Nederlands: \"maag\"\nSuomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"naama\" - Nederlands: \"",
+        "target": "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']",
+        "word original": "face"
+    },
+    "['maatila', 'tila', 'farmi', 'valtion maa', 'kuninkaankartano', 'maa', 'maat', 'tilukset', 'kruununmaa', 'maaomaisuus']": {
+        "prompt": "Suomi: \"internet\" - Nederlands: \"netwerk\"\nSuomi: \"rihma\" - Nederlands: \"garen\"\nSuomi: \"iskunvaimennin\" - Nederlands: \"schokbreker\"\nSuomi: \"h\u00f6yhenet\" - Nederlands: \"pluim\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"maatila\" - Nederlands: \"",
+        "target": "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee', 'landgoed', 'grondeigendom', 'domein', 'land', 'grond', 'zate', 'goed', 'eigendom', 'trek', 'bezit']",
+        "word original": "farm"
+    },
+    "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka']": {
+        "prompt": "Suomi: \"potta\" - Nederlands: \"toilet\"\nSuomi: \"hammas\" - Nederlands: \"gebitselement\"\nSuomi: \"miekka\" - Nederlands: \"zwaard\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"hehkulamppu\" - Nederlands: \"gloeilamp\"\nSuomi: \"h\u00f6yhenet\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder']",
+        "word original": "feather"
+    },
+    "['sormi', 'keskisormi', 'Keskisormi', 'varvas', 'n\u00e4ppi']": {
+        "prompt": "Suomi: \"aura\" - Nederlands: \"ploeg\"\nSuomi: \"paita\" - Nederlands: \"hemd\"\nSuomi: \"luu\" - Nederlands: \"knok\"\nSuomi: \"hame\" - Nederlands: \"rok\"\nSuomi: \"kampa\" - Nederlands: \"kam\"\nSuomi: \"sormi\" - Nederlands: \"",
+        "target": "['middelvinger', 'the finger', 'digit', 'Digit', 'vinger', 'teen', 'cijfer']",
+        "word original": "finger"
+    },
+    "['kala', 'ruokakala', 'Kala ruokana', 'kala ruokana']": {
+        "prompt": "Suomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"iskunvaimennin\" - Nederlands: \"schokbreker\"\nSuomi: \"ketju\" - Nederlands: \"ketting\"\nSuomi: \"avain\" - Nederlands: \"tonaliteit\"\nSuomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"kala\" - Nederlands: \"",
+        "target": "['vissen', 'vis']",
+        "word original": "fish"
+    },
+    "['lippu', 'hinta', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta']": {
+        "prompt": "Suomi: \"Jarru\" - Nederlands: \"rem\"\nSuomi: \"kylpyhuone\" - Nederlands: \"wasgelegenheid\"\nSuomi: \"lentokone\" - Nederlands: \"toestel\"\nSuomi: \"puutarha\" - Nederlands: \"tuin\"\nSuomi: \"postimerkki\" - Nederlands: \"postzegel\"\nSuomi: \"lippu\" - Nederlands: \"",
+        "target": "['vaan', 'vlag', 'veergeld', 'vervoersprijs', 'veerloon', 'tarief', 'plaatsbewijs', 'entreebiljet', 'toegangsbewijs', 'kaartje', 'ticket', 'entreekaart', 'kaart', 'entreebewijs', 'bekeuring', 'passagebiljet']",
+        "word original": "flag"
+    },
+    "['laakso']": {
+        "prompt": "Suomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"piirros\" - Nederlands: \"afbeelding\"\nSuomi: \"vasara\" - Nederlands: \"vuisthamer\"\nSuomi: \"oranssius\" - Nederlands: \"oranje\"\nSuomi: \"laakso\" - Nederlands: \"",
+        "target": "['dal', 'vallei']",
+        "word original": "floor"
+    },
+    "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']": {
+        "prompt": "Suomi: \"kynsi\" - Nederlands: \"vingernagel\"\nSuomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"Arkku\" - Nederlands: \"kist\"\nSuomi: \"hinta\" - Nederlands: \"prijs\"\nSuomi: \"kaksisiipiset\" - Nederlands: \"",
+        "target": "['vlieg', 'tweevleugeligen']",
+        "word original": "fly"
+    },
+    "['jalkater\u00e4', 'jalka']": {
+        "prompt": "Suomi: \"veitsi\" - Nederlands: \"mes\"\nSuomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"hiiri\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nSuomi: \"jalkater\u00e4\" - Nederlands: \"",
+        "target": "['voet', 'voeten', 'poot', 'pootje']",
+        "word original": "foot"
+    },
+    "['haarukka']": {
+        "prompt": "Suomi: \"lippu\" - Nederlands: \"vaan\"\nSuomi: \"apina\" - Nederlands: \"aap\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"sukka\" - Nederlands: \"sok\"\nSuomi: \"yliopisto\" - Nederlands: \"universiteit\"\nSuomi: \"haarukka\" - Nederlands: \"",
+        "target": "['vork', 'splitsing']",
+        "word original": "fork"
+    },
+    "['siipikarja', 'riistalintu', 'Galloanserae']": {
+        "prompt": "Suomi: \"kyn\u00e4\" - Nederlands: \"crayon\"\nSuomi: \"rautatieajoneuvo\" - Nederlands: \"wagon\"\nSuomi: \"nen\u00e4\" - Nederlands: \"neus\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"pikkukaupunki\" - Nederlands: \"nederzetting\"\nSuomi: \"siipikarja\" - Nederlands: \"",
+        "target": "['gevogelte', 'pluimvee', 'Galloanserae', 'hoen', 'huishen', 'hoentje', 'hen', 'kip']",
+        "word original": "fowl"
+    },
+    "['ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']": {
+        "prompt": "Suomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Nederlands: \"fiets\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"linna\" - Nederlands: \"slot\"\nSuomi: \"ihmisruumis\" - Nederlands: \"",
+        "target": "['menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']",
+        "word original": "frame"
+    },
+    "['puutarha', 'kasvimaa']": {
+        "prompt": "Suomi: \"hattu\" - Nederlands: \"hoed\"\nSuomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"puutarha\" - Nederlands: \"",
+        "target": "['tuin', 'hof']",
+        "word original": "garden"
+    },
+    "['tytt\u00f6', 'neiti', 'nuori nainen', 'nainen', 'naaras', 'tyt\u00e4r', 'tytt\u00f6kaveri', 'tytt\u00f6yst\u00e4v\u00e4', 'naisyst\u00e4v\u00e4']": {
+        "prompt": "Suomi: \"verho\" - Nederlands: \"sluier\"\nSuomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"sieniel\u00e4imet\" - Nederlands: \"spons\"\nSuomi: \"neli\u00f6\" - Nederlands: \"vierkant\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"",
+        "target": "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw', 'dame', 'mevrouw', 'juffrouw', 'vrouwelijk', 'vrouwelijk organisme', 'vrouwelijk mens', 'zij', 'dochter', 'dochterlief', 'vriendin', 'vriendinnetje', 'grietje']",
+        "word original": "girl"
+    },
+    "['hansikas', 'sormikas', 'hanska', 'k\u00e4sine']": {
+        "prompt": "Suomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"pikkulapsi\" - Nederlands: \"patat\"\nSuomi: \"talo\" - Nederlands: \"optrekje\"\nSuomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"hansikas\" - Nederlands: \"",
+        "target": "['handschoen', 'want']",
+        "word original": "glove"
+    },
+    "['vuohi', 'vuohiel\u00e4in']": {
+        "prompt": "Suomi: \"mato\" - Nederlands: \"aardworm\"\nSuomi: \"katu\" - Nederlands: \"straat\"\nSuomi: \"piirros\" - Nederlands: \"afbeelding\"\nSuomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"siipikarja\" - Nederlands: \"gevogelte\"\nSuomi: \"vuohi\" - Nederlands: \"",
+        "target": "['geit', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']": {
+        "prompt": "Suomi: \"linnut\" - Nederlands: \"vogel\"\nSuomi: \"muurahainen\" - Nederlands: \"mier\"\nSuomi: \"omena\" - Nederlands: \"appelschil\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"vene\" - Nederlands: \"boot\"\nSuomi: \"ampuma-ase\" - Nederlands: \"",
+        "target": "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk']",
+        "word original": "gun"
+    },
+    "['karvoitus', 'karva', 'hius', 'jouhi']": {
+        "prompt": "Suomi: \"sunnuntai\" - Nederlands: \"zondag\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"pid\u00e4tys\" - Nederlands: \"aanhouding\"\nSuomi: \"harja\" - Nederlands: \"bergkam\"\nSuomi: \"jalokivi\" - Nederlands: \"edelsteen\"\nSuomi: \"karvoitus\" - Nederlands: \"",
+        "target": "['haar', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']",
+        "word original": "root"
+    },
+    "['vasara']": {
+        "prompt": "Suomi: \"sormi\" - Nederlands: \"middelvinger\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"lammas\" - Nederlands: \"schaap\"\nSuomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"linna\" - Nederlands: \"slot\"\nSuomi: \"vasara\" - Nederlands: \"",
+        "target": "['vuisthamer', 'hamer', 'vuist']",
+        "word original": "hammer"
+    },
+    "['k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus']": {
+        "prompt": "Suomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"luu\" - Nederlands: \"knok\"\nSuomi: \"rautatieajoneuvo\" - Nederlands: \"wagon\"\nSuomi: \"hattu\" - Nederlands: \"hoed\"\nSuomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"k\u00e4si\" - Nederlands: \"",
+        "target": "['klauw', 'hand', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken']",
+        "word original": "hand"
+    },
+    "['hattu', 'lakki', 'p\u00e4\u00e4hine']": {
+        "prompt": "Suomi: \"muisti\" - Nederlands: \"geheugen\"\nSuomi: \"kuppi\" - Nederlands: \"kop\"\nSuomi: \"sein\u00e4\" - Nederlands: \"wand\"\nSuomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"vatsa\" - Nederlands: \"maag\"\nSuomi: \"hattu\" - Nederlands: \"",
+        "target": "['hoed', 'Chapeau!']",
+        "word original": "hat"
+    },
+    "['syd\u00e4n', 'verenkiertoj\u00e4rjestelm\u00e4', 'syd\u00e4n ja verisuonet', 'verenkierto', 'verenkiertoelimet', 'syd\u00e4nlihas', 'pumppu', 'kiintymys', 'rakkaus', 'mieltymys', 'syd\u00e4mellisyys', 'l\u00e4mp\u00f6', 'l\u00e4mminsyd\u00e4misyys', 'rakastavuus', 'filia', 'hellyys', 'heikkous', 'keskusta', 'keskus', 'silm\u00e4', 'keskipiste']": {
+        "prompt": "Suomi: \"sikari\" - Nederlands: \"sigaar\"\nSuomi: \"ruoska\" - Nederlands: \"zweep\"\nSuomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"",
+        "target": "['bloedvatenstelsel', 'hart en bloedvaten', 'bloedsomloop', 'bloedbaan', 'hart en vaatstelsel', 'cardiovasculair systeem', 'hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid', 'kern']",
+        "word original": "pump"
+    },
+    "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']": {
+        "prompt": "Suomi: \"kaksisiipiset\" - Nederlands: \"vlieg\"\nSuomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"filmi\" - Nederlands: \"film\"\nSuomi: \"kirjasto\" - Nederlands: \"bibliotheek\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"munniharppu\" - Nederlands: \"",
+        "target": "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']",
+        "word original": "horn"
+    },
+    "['hevonen', 'Equus caballus']": {
+        "prompt": "Suomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"silta\" - Nederlands: \"brug\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"hevonen\" - Nederlands: \"",
+        "target": "['paard', 'peerd', 'viervoeter', 'ros']",
+        "word original": "horse"
+    },
+    "['sairaala', 'sairasosasto']": {
+        "prompt": "Suomi: \"juna\" - Nederlands: \"trein\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"kylpyhuone\" - Nederlands: \"wasgelegenheid\"\nSuomi: \"teepannu\" - Nederlands: \"theepot\"\nSuomi: \"lasku\" - Nederlands: \"factuur\"\nSuomi: \"sairaala\" - Nederlands: \"",
+        "target": "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']",
+        "word original": "hospital"
+    },
+    "['talo']": {
+        "prompt": "Suomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"puu\" - Nederlands: \"bos\"\nSuomi: \"piirros\" - Nederlands: \"afbeelding\"\nSuomi: \"talo\" - Nederlands: \"",
+        "target": "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje']",
+        "word original": "house"
+    },
+    "['saari', 'saareke', 'jalka', 's\u00e4\u00e4ri']": {
+        "prompt": "Suomi: \"harja\" - Nederlands: \"bergkam\"\nSuomi: \"veitsi\" - Nederlands: \"mes\"\nSuomi: \"pikkulapsi\" - Nederlands: \"patat\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"talosel\u00e4m\u00e4\" - Nederlands: \"economie\"\nSuomi: \"saari\" - Nederlands: \"",
+        "target": "['eiland', 'enclave', 'benen', 'poot', 'stelt', 'been', 'menselijke been', 'onderdanen', 'onderdaan']",
+        "word original": "island"
+    },
+    "['jalokivi', 'korukivi']": {
+        "prompt": "Suomi: \"Jarru\" - Nederlands: \"rem\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"lehvist\u00f6\" - Nederlands: \"lover\"\nSuomi: \"ketju\" - Nederlands: \"ketting\"\nSuomi: \"hevonen\" - Nederlands: \"paard\"\nSuomi: \"jalokivi\" - Nederlands: \"",
+        "target": "['edelsteen', 'ruwe (half)edelsteen', 'steen']",
+        "word original": "jewel"
+    },
+    "['teepannu', 'teekannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']": {
+        "prompt": "Suomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"haarukka\" - Nederlands: \"vork\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"ympyr\u00e4\" - Nederlands: \"kring\"\nSuomi: \"omena\" - Nederlands: \"appelschil\"\nSuomi: \"teepannu\" - Nederlands: \"",
+        "target": "['theepot', 'theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']",
+        "word original": "kettle"
+    },
+    "['avain', 's\u00e4vellaji', 'tonaalisuus']": {
+        "prompt": "Suomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"piirros\" - Nederlands: \"afbeelding\"\nSuomi: \"silm\u00e4muna\" - Nederlands: \"oogbol\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"pid\u00e4tys\" - Nederlands: \"aanhouding\"\nSuomi: \"avain\" - Nederlands: \"",
+        "target": "['tonaliteit', 'toonsoort', 'sleutel', 'toets']",
+        "word original": "key"
+    },
+    "['polvi', 'polvinivel', 'articulatio genus']": {
+        "prompt": "Suomi: \"moottori\" - Nederlands: \"motor\"\nSuomi: \"solmu\" - Nederlands: \"knoop\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"laiva\" - Nederlands: \"schip\"\nSuomi: \"jalokivi\" - Nederlands: \"edelsteen\"\nSuomi: \"polvi\" - Nederlands: \"",
+        "target": "['knie', 'knietje']",
+        "word original": "knee"
+    },
+    "['veitsi', 'puukko']": {
+        "prompt": "Suomi: \"sikari\" - Nederlands: \"sigaar\"\nSuomi: \"piirros\" - Nederlands: \"afbeelding\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"veitsi\" - Nederlands: \"",
+        "target": "['mes']",
+        "word original": "knife"
+    },
+    "['solmu']": {
+        "prompt": "Suomi: \"vaatetus\" - Nederlands: \"kledij\"\nSuomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"pikkulapsi\" - Nederlands: \"patat\"\nSuomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"solmu\" - Nederlands: \"",
+        "target": "['knoop']",
+        "word original": "knot"
+    },
+    "['lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti']": {
+        "prompt": "Suomi: \"karja\" - Nederlands: \"rundvee\"\nSuomi: \"laatikko\" - Nederlands: \"stoofpot\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"jalkater\u00e4\" - Nederlands: \"voet\"\nSuomi: \"lehvist\u00f6\" - Nederlands: \"",
+        "target": "['lover', 'gebladerte', 'blad', 'Laphi', 'blaadje']",
+        "word original": "leaf"
+    },
+    "['jalka', 'k\u00e4si', 'k\u00e4p\u00e4l\u00e4', 'manus', 'jalkater\u00e4', 's\u00e4\u00e4ri']": {
+        "prompt": "Suomi: \"funktio\" - Nederlands: \"functie\"\nSuomi: \"ikkuna\" - Nederlands: \"raam\"\nSuomi: \"katu\" - Nederlands: \"straat\"\nSuomi: \"yliopisto\" - Nederlands: \"universiteit\"\nSuomi: \"iho\" - Nederlands: \"vel\"\nSuomi: \"jalka\" - Nederlands: \"",
+        "target": "['klauw', 'hand', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken', 'voet', 'voeten', 'pootje', 'benen', 'stelt', 'been', 'menselijke been', 'onderdanen', 'onderdaan']",
+        "word original": "pin"
+    },
+    "['kirjasto', 'kokoelma']": {
+        "prompt": "Suomi: \"sukka\" - Nederlands: \"sok\"\nSuomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"lentokone\" - Nederlands: \"toestel\"\nSuomi: \"silta\" - Nederlands: \"brug\"\nSuomi: \"pid\u00e4tys\" - Nederlands: \"aanhouding\"\nSuomi: \"kirjasto\" - Nederlands: \"",
+        "target": "['bibliotheek', 'boekerij', 'boekenkast', 'boekenverzameling']",
+        "word original": "library"
+    },
+    "['televisio', 'televisio-ohjelma', 'tv-ohjelma', 'television\u00e4yt\u00f6s', 'TV-n\u00e4yt\u00f6s', 'TV-ohjelma', 'video', 'TV', 'televisiointi', 'televisiovastaanotin', 't\u00f6ll\u00f6tin', 'telkkari', 'telkka', 'televisiolaite', 'p\u00f6ntt\u00f6', 'telkku', 'tv']": {
+        "prompt": "Suomi: \"filmi\" - Nederlands: \"film\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"suplementtikulmat\" - Nederlands: \"hoek\"\nSuomi: \"kylpyhuone\" - Nederlands: \"wasgelegenheid\"\nSuomi: \"televisio\" - Nederlands: \"",
+        "target": "['televisieprogramma', 'programmering van televisieuitzending', 'video', 'televisie', 'videotechniek', 'kijkbuis', 'beeldomroep', 'televisietoestel', 'buis', 'tv', 'televisieontvanger', 'teeveetoestel', 'beeldbuis', 'kijkdoos', 'kastje', 'televisie-ontvanger', 't.v.', 'teevee', 'treurbuis', 'kijkkast']",
+        "word original": "line"
+    },
+    "['huuli', 'huulet']": {
+        "prompt": "Suomi: \"tippa\" - Nederlands: \"druppel\"\nSuomi: \"kakku\" - Nederlands: \"suikergoed\"\nSuomi: \"silm\u00e4muna\" - Nederlands: \"oogbol\"\nSuomi: \"naama\" - Nederlands: \"tronie\"\nSuomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"huuli\" - Nederlands: \"",
+        "target": "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']",
+        "word original": "lip"
+    },
+    "['funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio']": {
+        "prompt": "Suomi: \"hame\" - Nederlands: \"rok\"\nSuomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"korva\" - Nederlands: \"oor\"\nSuomi: \"haarukka\" - Nederlands: \"vork\"\nSuomi: \"funktio\" - Nederlands: \"",
+        "target": "['functie', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie']",
+        "word original": "map"
+    },
+    "['tulitikku', 'rikkitulitikku']": {
+        "prompt": "Suomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"tiili\" - Nederlands: \"klinker\"\nSuomi: \"kynsi\" - Nederlands: \"vingernagel\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"apina\" - Nederlands: \"aap\"\nSuomi: \"tulitikku\" - Nederlands: \"",
+        "target": "['zwavelstokje', 'lucifer']",
+        "word original": "match"
+    },
+    "['apina', 'apinat']": {
+        "prompt": "Suomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"ampuma-ase\" - Nederlands: \"geweer\"\nSuomi: \"maatila\" - Nederlands: \"boerenbedrijf\"\nSuomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"apina\" - Nederlands: \"",
+        "target": "['aap', 'apen']",
+        "word original": "monkey"
+    },
+    "['kynsi']": {
+        "prompt": "Suomi: \"vasara\" - Nederlands: \"vuisthamer\"\nSuomi: \"kamera\" - Nederlands: \"fotocamera\"\nSuomi: \"sukka\" - Nederlands: \"sok\"\nSuomi: \"sairaala\" - Nederlands: \"verpleeginrichting\"\nSuomi: \"holvikaari\" - Nederlands: \"boog\"\nSuomi: \"kynsi\" - Nederlands: \"",
+        "target": "['vingernagel', 'nagel']",
+        "word original": "nail"
+    },
+    "['kaula']": {
+        "prompt": "Suomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"katu\" - Nederlands: \"straat\"\nSuomi: \"holvikaari\" - Nederlands: \"boog\"\nSuomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"kynsi\" - Nederlands: \"vingernagel\"\nSuomi: \"kaula\" - Nederlands: \"",
+        "target": "['hals', 'nek', 'flessenhals']",
+        "word original": "neck"
+    },
+    "['neula', 'ompeluneula']": {
+        "prompt": "Suomi: \"amme\" - Nederlands: \"badkuip\"\nSuomi: \"lasku\" - Nederlands: \"factuur\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Nederlands: \"identiteitskaart\"\nSuomi: \"hinta\" - Nederlands: \"prijs\"\nSuomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"neula\" - Nederlands: \"",
+        "target": "['naald', 'injectienaald', 'speld', 'sierspeld', 'borstspeld', 'broche', 'wijzer']",
+        "word original": "needle"
+    },
+    "['hermo', 'hermoj\u00e4rjestelm\u00e4', 'hermosto', 'systema nervosum']": {
+        "prompt": "Suomi: \"kirja\" - Nederlands: \"boek\"\nSuomi: \"verho\" - Nederlands: \"sluier\"\nSuomi: \"vatsa\" - Nederlands: \"maag\"\nSuomi: \"sikari\" - Nederlands: \"sigaar\"\nSuomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"hermo\" - Nederlands: \"",
+        "target": "['zenuwstelsel', 'zenuwgestel', 'zenuw']",
+        "word original": "nerve"
+    },
+    "['internet', 'netti', 'kyberavaruus', 'verkko']": {
+        "prompt": "Suomi: \"huuli\" - Nederlands: \"lip\"\nSuomi: \"puu\" - Nederlands: \"bos\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"hiiri\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nSuomi: \"sormi\" - Nederlands: \"middelvinger\"\nSuomi: \"internet\" - Nederlands: \"",
+        "target": "['netwerk', 'computernetwerk', 'cyberspace']",
+        "word original": "net"
+    },
+    "['nen\u00e4', 'hajuelin']": {
+        "prompt": "Suomi: \"hehkulamppu\" - Nederlands: \"gloeilamp\"\nSuomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"kynsi\" - Nederlands: \"vingernagel\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"nen\u00e4\" - Nederlands: \"",
+        "target": "['neus', 'snufferd', 'snotkoker', 'reukorgaan']",
+        "word original": "nose"
+    },
+    "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'asema', 'ty\u00f6paikka', 'paikka', 'toimi']": {
+        "prompt": "Suomi: \"teepannu\" - Nederlands: \"theepot\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"laiva\" - Nederlands: \"schip\"\nSuomi: \"sormi\" - Nederlands: \"middelvinger\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"virka\" - Nederlands: \"",
+        "target": "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'standplaats']",
+        "word original": "office"
+    },
+    "['oranssius', 'oranssi', 'oranssisuus']": {
+        "prompt": "Suomi: \"kala\" - Nederlands: \"vissen\"\nSuomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"huuli\" - Nederlands: \"lip\"\nSuomi: \"sakset\" - Nederlands: \"schaar\"\nSuomi: \"muurahainen\" - Nederlands: \"mier\"\nSuomi: \"oranssius\" - Nederlands: \"",
+        "target": "['oranje']",
+        "word original": "orange"
+    },
+    "['uuni', 'ilman esikuumennin', 'kasvihuone', 'kamiina']": {
+        "prompt": "Suomi: \"ikkuna\" - Nederlands: \"raam\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"Arkku\" - Nederlands: \"kist\"\nSuomi: \"iho\" - Nederlands: \"vel\"\nSuomi: \"teepannu\" - Nederlands: \"theepot\"\nSuomi: \"uuni\" - Nederlands: \"",
+        "target": "['bakoven', 'oven', 'kachel', 'haard', 'verwarmingstoestel', 'kacheltje']",
+        "word original": "oven"
+    },
+    "['pakkaus', 'pakkaaminen', 'mainos', 'ilmoitus', 'tiedotus', 'myynninedist\u00e4mistapahtuma', 'mainostapahtuma', 'mainospakkaus', 'promootio', 'mainosaineisto', 'mainosmateriaali', 'paketti']": {
+        "prompt": "Suomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"ruoska\" - Nederlands: \"zweep\"\nSuomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"pakkaus\" - Nederlands: \"",
+        "target": "['verpakking', 'emballage', 'reclame', 'promotie', 'Publiciteit', 'vrachtstuk', 'pakje', 'pak', 'pakket']",
+        "word original": "parcel"
+    },
+    "['kyn\u00e4', 'lyijykyn\u00e4', 'mustekyn\u00e4']": {
+        "prompt": "Suomi: \"koira\" - Nederlands: \"hond\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"talosel\u00e4m\u00e4\" - Nederlands: \"economie\"\nSuomi: \"sunnuntai\" - Nederlands: \"zondag\"\nSuomi: \"postimerkki\" - Nederlands: \"postzegel\"\nSuomi: \"kyn\u00e4\" - Nederlands: \"",
+        "target": "['crayon', 'potlood', 'kwastje', 'penseel', 'pen']",
+        "word original": "pen"
+    },
+    "['lyijykyn\u00e4', 'kyn\u00e4']": {
+        "prompt": "Suomi: \"laatikko\" - Nederlands: \"stoofpot\"\nSuomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"lyijykyn\u00e4\" - Nederlands: \"",
+        "target": "['crayon', 'potlood', 'kwastje', 'penseel']",
+        "word original": "pencil"
+    },
+    "['filmi', 'ohut kalvo', 'elokuva', 'leffa', 'elokuvan\u00e4yt\u00f6s', 'elokuvateollisuus']": {
+        "prompt": "Suomi: \"sein\u00e4\" - Nederlands: \"wand\"\nSuomi: \"karja\" - Nederlands: \"rundvee\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"filmi\" - Nederlands: \"",
+        "target": "['film', 'rolprent', 'filmkunst', 'cinematografie']",
+        "word original": "picture"
+    },
+    "['sika', 'siat', 'Siat', 'possu', 'Sus scrofa', 'sy\u00f6tt\u00f6karju', 'sianliha', 'porsas']": {
+        "prompt": "Suomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"kirkko\" - Nederlands: \"kerk\"\nSuomi: \"apina\" - Nederlands: \"aap\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"silm\u00e4muna\" - Nederlands: \"oogbol\"\nSuomi: \"sika\" - Nederlands: \"",
+        "target": "['varken', 'zwijn', 'echte zwijnen', 'krulstaart', 'varkensvlees']",
+        "word original": "pig"
+    },
+    "['lentokone', 'ilma-alus', 'kone']": {
+        "prompt": "Suomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"linnut\" - Nederlands: \"vogel\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"sieniel\u00e4imet\" - Nederlands: \"spons\"\nSuomi: \"lentokone\" - Nederlands: \"",
+        "target": "['toestel', 'kist', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']",
+        "word original": "plane"
+    },
+    "['aura']": {
+        "prompt": "Suomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"korva\" - Nederlands: \"oor\"\nSuomi: \"lammas\" - Nederlands: \"schaap\"\nSuomi: \"pid\u00e4tys\" - Nederlands: \"aanhouding\"\nSuomi: \"kuppi\" - Nederlands: \"kop\"\nSuomi: \"aura\" - Nederlands: \"",
+        "target": "['ploeg']",
+        "word original": "plough"
+    },
+    "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin']": {
+        "prompt": "Suomi: \"tulitikku\" - Nederlands: \"zwavelstokje\"\nSuomi: \"sikari\" - Nederlands: \"sigaar\"\nSuomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"ketju\" - Nederlands: \"ketting\"\nSuomi: \"potta\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot']",
+        "word original": "pot"
+    },
+    "['peruna', 'potaatti', 'pottu']": {
+        "prompt": "Suomi: \"rihma\" - Nederlands: \"garen\"\nSuomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"hiiri\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"tippa\" - Nederlands: \"druppel\"\nSuomi: \"peruna\" - Nederlands: \"",
+        "target": "['patat', 'aardappel', 'pieper', 'knol']",
+        "word original": "potato"
+    },
+    "['linna', 'vankila', 'tyrm\u00e4', 'palatsi']": {
+        "prompt": "Suomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"hevonen\" - Nederlands: \"paard\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"sein\u00e4\" - Nederlands: \"wand\"\nSuomi: \"sakset\" - Nederlands: \"schaar\"\nSuomi: \"linna\" - Nederlands: \"",
+        "target": "['slot', 'kasteel', 'burcht', 'fort', 'steen', 'burg', 'nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot', 'paleis']",
+        "word original": "prison"
+    },
+    "['rautatie', 'rata', 'junarata', 'raide', 'Raide', 'raiteet', 'rautatiekuljetus', 'rautatielinja', 'rautatieverkko']": {
+        "prompt": "Suomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"siipi\" - Nederlands: \"vleugel\"\nSuomi: \"laiva\" - Nederlands: \"schip\"\nSuomi: \"vatsa\" - Nederlands: \"maag\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"rautatie\" - Nederlands: \"",
+        "target": "['spoorwegen', 'spoorwegsysteem', 'Spoorwegsysteem', 'rail', 'spoor', 'spoorweg', 'spoorlijn', 'spoorwegconstructie', 'spoorvervoer', 'spoorbaan', 'sneltreinprocedure']",
+        "word original": "rail"
+    },
+    "['hiiri', 'kotihiiret', 'Kotihiiret', 'tietokoneen hiiri']": {
+        "prompt": "Suomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"komitea\" - Nederlands: \"comit\u00e9\"\nSuomi: \"kylpyhuone\" - Nederlands: \"wasgelegenheid\"\nSuomi: \"uuni\" - Nederlands: \"bakoven\"\nSuomi: \"ketju\" - Nederlands: \"ketting\"\nSuomi: \"hiiri\" - Nederlands: \"",
+        "target": "['muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje', 'computermuis']",
+        "word original": "rat"
+    },
+    "['lasku', 'tili', 'ravintolalasku', 'tavaralasku', 'laskutoimitus', 'laskenta', 'laskeminen', 'komputaatio', 'Komputaatio', 'laskeutuminen']": {
+        "prompt": "Suomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"haarukka\" - Nederlands: \"vork\"\nSuomi: \"kaula\" - Nederlands: \"hals\"\nSuomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"sairaala\" - Nederlands: \"verpleeginrichting\"\nSuomi: \"lasku\" - Nederlands: \"",
+        "target": "['factuur', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening', 'cijferwerk', 'rekenwerk', 'landing', 'overloop']",
+        "word original": "receipt"
+    },
+    "['ruumiinrangaistus', 'ruumiillinen rangaistus']": {
+        "prompt": "Suomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Nederlands: \"fiets\"\nSuomi: \"internet\" - Nederlands: \"netwerk\"\nSuomi: \"yliopisto\" - Nederlands: \"universiteit\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"",
+        "target": "['lijfstraf']",
+        "word original": "rod"
+    },
+    "['ulkokatto', 'katto']": {
+        "prompt": "Suomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"rihma\" - Nederlands: \"garen\"\nSuomi: \"internet\" - Nederlands: \"netwerk\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"ulkokatto\" - Nederlands: \"",
+        "target": "['dak']",
+        "word original": "roof"
+    },
+    "['purjealus', 'purjehdusalus', 'purjelaiva']": {
+        "prompt": "Suomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"asema\" - Nederlands: \"station\"\nSuomi: \"sein\u00e4\" - Nederlands: \"wand\"\nSuomi: \"pikkulapsi\" - Nederlands: \"patat\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"purjealus\" - Nederlands: \"",
+        "target": "['zeilschip']",
+        "word original": "sail"
+    },
+    "['yliopisto', 'koulu', 'akatemia', 'tiedeakatemia', 'taideakatemia']": {
+        "prompt": "Suomi: \"vasara\" - Nederlands: \"vuisthamer\"\nSuomi: \"hattu\" - Nederlands: \"hoed\"\nSuomi: \"moottori\" - Nederlands: \"motor\"\nSuomi: \"tiili\" - Nederlands: \"klinker\"\nSuomi: \"paita\" - Nederlands: \"hemd\"\nSuomi: \"yliopisto\" - Nederlands: \"",
+        "target": "['universiteit', 'academie', 'school', 'genootschap', 'maatschappij', 'college', 'unief', 'universitair']",
+        "word original": "school"
+    },
+    "['sakset']": {
+        "prompt": "Suomi: \"aura\" - Nederlands: \"ploeg\"\nSuomi: \"hiiri\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nSuomi: \"puutarha\" - Nederlands: \"tuin\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"ruoska\" - Nederlands: \"zweep\"\nSuomi: \"sakset\" - Nederlands: \"",
+        "target": "['schaar']",
+        "word original": "scissors"
+    },
+    "['ruuvi', 'mutteri']": {
+        "prompt": "Suomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"potta\" - Nederlands: \"toilet\"\nSuomi: \"ketju\" - Nederlands: \"ketting\"\nSuomi: \"hattu\" - Nederlands: \"hoed\"\nSuomi: \"Arkku\" - Nederlands: \"kist\"\nSuomi: \"ruuvi\" - Nederlands: \"",
+        "target": "['schroef', 'vijs']",
+        "word original": "screw"
+    },
+    "['siemen']": {
+        "prompt": "Suomi: \"koira\" - Nederlands: \"hond\"\nSuomi: \"kirja\" - Nederlands: \"boek\"\nSuomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"tulitikku\" - Nederlands: \"zwavelstokje\"\nSuomi: \"siemen\" - Nederlands: \"",
+        "target": "['zaad']",
+        "word original": "seed"
+    },
+    "['lammas', 'Lammas Day', 'lampaat', 'Ovis aries', 'Ovis orientalis aries']": {
+        "prompt": "Suomi: \"juusto\" - Nederlands: \"kaas\"\nSuomi: \"hylly\" - Nederlands: \"plank\"\nSuomi: \"rannekello\" - Nederlands: \"polshorloge\"\nSuomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"hinta\" - Nederlands: \"prijs\"\nSuomi: \"lammas\" - Nederlands: \"",
+        "target": "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']",
+        "word original": "sheep"
+    },
+    "['hylly']": {
+        "prompt": "Suomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"veitsi\" - Nederlands: \"mes\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"linna\" - Nederlands: \"slot\"\nSuomi: \"kurkku\" - Nederlands: \"Cucumis sativus\"\nSuomi: \"hylly\" - Nederlands: \"",
+        "target": "['plank', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']",
+        "word original": "shelf"
+    },
+    "['laiva', 'alus']": {
+        "prompt": "Suomi: \"kello\" - Nederlands: \"klok\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"lippu\" - Nederlands: \"vaan\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"laiva\" - Nederlands: \"",
+        "target": "['schip', 'kiel']",
+        "word original": "ship"
+    },
+    "['paita', 'aluspaita', 'paitapusero']": {
+        "prompt": "Suomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"lehvist\u00f6\" - Nederlands: \"lover\"\nSuomi: \"postimerkki\" - Nederlands: \"postzegel\"\nSuomi: \"sieniel\u00e4imet\" - Nederlands: \"spons\"\nSuomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"paita\" - Nederlands: \"",
+        "target": "['hemd', 'shirt', 'overhemd']",
+        "word original": "shirt"
+    },
+    "['kenk\u00e4']": {
+        "prompt": "Suomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"neula\" - Nederlands: \"naald\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"kenk\u00e4\" - Nederlands: \"",
+        "target": "['schoen', 'aansteker']",
+        "word original": "tongue"
+    },
+    "['iho', 'nahka', 'tegumentti', 'cutis']": {
+        "prompt": "Suomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"puu\" - Nederlands: \"bos\"\nSuomi: \"potta\" - Nederlands: \"toilet\"\nSuomi: \"ampuma-ase\" - Nederlands: \"geweer\"\nSuomi: \"puutarha\" - Nederlands: \"tuin\"\nSuomi: \"iho\" - Nederlands: \"",
+        "target": "['vel', 'huid', 'skinhead', 'onderhuid']",
+        "word original": "skin"
+    },
+    "['hame']": {
+        "prompt": "Suomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"kirjasto\" - Nederlands: \"bibliotheek\"\nSuomi: \"rautatieajoneuvo\" - Nederlands: \"wagon\"\nSuomi: \"k\u00e4si\" - Nederlands: \"klauw\"\nSuomi: \"hame\" - Nederlands: \"",
+        "target": "['rok']",
+        "word original": "skirt"
+    },
+    "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']": {
+        "prompt": "Suomi: \"lasku\" - Nederlands: \"factuur\"\nSuomi: \"jalkater\u00e4\" - Nederlands: \"voet\"\nSuomi: \"juna\" - Nederlands: \"trein\"\nSuomi: \"suplementtikulmat\" - Nederlands: \"hoek\"\nSuomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"",
+        "target": "['slang', 'serpent', 'slangen']",
+        "word original": "snake"
+    },
+    "['sukka']": {
+        "prompt": "Suomi: \"vuohi\" - Nederlands: \"geit\"\nSuomi: \"mato\" - Nederlands: \"aardworm\"\nSuomi: \"sakset\" - Nederlands: \"schaar\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"amme\" - Nederlands: \"badkuip\"\nSuomi: \"sukka\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "stocking"
+    },
+    "['sieniel\u00e4imet', 'sieniel\u00e4in']": {
+        "prompt": "Suomi: \"hattu\" - Nederlands: \"hoed\"\nSuomi: \"harja\" - Nederlands: \"bergkam\"\nSuomi: \"lasku\" - Nederlands: \"factuur\"\nSuomi: \"varsi\" - Nederlands: \"stengel\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"sieniel\u00e4imet\" - Nederlands: \"",
+        "target": "['spons', 'sponzen', 'sponsdieren']",
+        "word original": "sponge"
+    },
+    "['lusikka', 'kapusta']": {
+        "prompt": "Suomi: \"katu\" - Nederlands: \"straat\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"neli\u00f6\" - Nederlands: \"vierkant\"\nSuomi: \"miekka\" - Nederlands: \"zwaard\"\nSuomi: \"housut\" - Nederlands: \"broek\"\nSuomi: \"lusikka\" - Nederlands: \"",
+        "target": "['lepel']",
+        "word original": "spoon"
+    },
+    "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde', 'kaivo', 'alku', 'alkuper\u00e4', 'juuristo', 'juuri', 'alkul\u00e4hde']": {
+        "prompt": "Suomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"kirkko\" - Nederlands: \"kerk\"\nSuomi: \"tulitikku\" - Nederlands: \"zwavelstokje\"\nSuomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"puutarha\" - Nederlands: \"tuin\"\nSuomi: \"l\u00e4hde\" - Nederlands: \"",
+        "target": "['bron', 'wel', 'fontein', 'put', 'boorput', 'aanvang', 'oorsprong', 'start', 'begin', 'herkomst', 'wortel', 'origine', 'oerbron', 'kiem']",
+        "word original": "spring"
+    },
+    "['neli\u00f6', 'nelikulmio', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4', 'toinen potenssi']": {
+        "prompt": "Suomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"harja\" - Nederlands: \"bergkam\"\nSuomi: \"pikkukaupunki\" - Nederlands: \"nederzetting\"\nSuomi: \"nappi\" - Nederlands: \"knoop\"\nSuomi: \"neli\u00f6\" - Nederlands: \"",
+        "target": "['vierkant', 'carr\u00e9', 'verblijf', 'woning', 'tehuis', 'honk', 'optrekje', 'domicilie', 'onderdak', 'home', 'huis', 'thuis', 'woonplaats', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte', 'kwadraat', 'tweede macht']",
+        "word original": "square"
+    },
+    "['postimerkki', 'merkki']": {
+        "prompt": "Suomi: \"rautatieajoneuvo\" - Nederlands: \"wagon\"\nSuomi: \"piirros\" - Nederlands: \"afbeelding\"\nSuomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"sikari\" - Nederlands: \"sigaar\"\nSuomi: \"postimerkki\" - Nederlands: \"",
+        "target": "['postzegel', 'zegel', 'herenakkoord']",
+        "word original": "stamp"
+    },
+    "['t\u00e4hti', 'kiintot\u00e4hti', 'asteriski', 't\u00e4htimerkki', '-niekka', 'supert\u00e4hti', 'ekspertti', 'tuntija', 'asiantuntija', 'taituri', 'taitaja', 'Adepti', '\u00e4ss\u00e4', 'taitoniekka', 'adepti', 'huippu-', 'mestari', 'nero', 'virtuoosi', 'velho', 'huippu', 'p\u00e4\u00e4osan esitt\u00e4j\u00e4']": {
+        "prompt": "Suomi: \"katu\" - Nederlands: \"straat\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"hevonen\" - Nederlands: \"paard\"\nSuomi: \"rihma\" - Nederlands: \"garen\"\nSuomi: \"vaatetus\" - Nederlands: \"kledij\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje', 'asterisk', 'vedette', 'superster', 'expert', 'zelf-benoemde expert', 'adept', 'Maven', 'deskundige', 'zelf-benoemde specialist', 'kanjer', 'hoogvlieger', 'kei', 'topper', 'genie', 'aas', 'kraan', 'bollebof', 'licht', 'meesteres', 'knapperd', 'grootmeester', 'meester', 'crack', 'coryfee', 'virtuoos', 'meesterbrein', 'specialist', 'bolleboos', 'raspaardje', 'uitblinker', 'duivelskunstenaar', 'hoofdrolspeler']",
+        "word original": "star"
+    },
+    "['asema', 'rautatieasema', 'juna-asema', 'junapys\u00e4kki', 'virka', 'ty\u00f6paikka', 'paikka', 'toimi', 'piste', 'vartiopaikka', 't\u00f6n\u00e4isy', 'ty\u00f6nt\u00f6', 'k\u00e4ytt\u00f6voima', 'ty\u00f6nt\u00f6voima']": {
+        "prompt": "Suomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"ampuma-ase\" - Nederlands: \"geweer\"\nSuomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"kampa\" - Nederlands: \"kam\"\nSuomi: \"silta\" - Nederlands: \"brug\"\nSuomi: \"asema\" - Nederlands: \"",
+        "target": "['station', 'treinstation', 'stationsgebouw', 'spoorwegstation', 'standplaats', 'rang', 'post', 'halte', 'wachtpost', 'duwkracht', 'duw', 'stuwkracht', 'drijfkracht', 'por', 'stoot', 'stuwing']",
+        "word original": "station"
+    },
+    "['varsi']": {
+        "prompt": "Suomi: \"hansikas\" - Nederlands: \"handschoen\"\nSuomi: \"h\u00f6yhenet\" - Nederlands: \"pluim\"\nSuomi: \"sakset\" - Nederlands: \"schaar\"\nSuomi: \"hehkulamppu\" - Nederlands: \"gloeilamp\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"varsi\" - Nederlands: \"",
+        "target": "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven']",
+        "word original": "stem"
+    },
+    "['sikari']": {
+        "prompt": "Suomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"veitsi\" - Nederlands: \"mes\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Nederlands: \"fiets\"\nSuomi: \"lasku\" - Nederlands: \"factuur\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"sikari\" - Nederlands: \"",
+        "target": "['sigaar']",
+        "word original": "stick"
+    },
+    "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu']": {
+        "prompt": "Suomi: \"naama\" - Nederlands: \"tronie\"\nSuomi: \"siemen\" - Nederlands: \"zaad\"\nSuomi: \"poika\" - Nederlands: \"joch\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"vatsa\" - Nederlands: \"",
+        "target": "['maag', 'buik']",
+        "word original": "stomach"
+    },
+    "['muisti', 'muistaminen', 'muistikortti', 'tietokonemuisti']": {
+        "prompt": "Suomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"talosel\u00e4m\u00e4\" - Nederlands: \"economie\"\nSuomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"filmi\" - Nederlands: \"film\"\nSuomi: \"muisti\" - Nederlands: \"",
+        "target": "['geheugen', 'nagedachtenis', 'opslagmedium', 'computergeheugen', 'intern geheugen', 'geheugeneenheid']",
+        "word original": "store"
+    },
+    "['katu']": {
+        "prompt": "Suomi: \"kamera\" - Nederlands: \"fotocamera\"\nSuomi: \"saari\" - Nederlands: \"eiland\"\nSuomi: \"solmu\" - Nederlands: \"knoop\"\nSuomi: \"potta\" - Nederlands: \"toilet\"\nSuomi: \"hame\" - Nederlands: \"rok\"\nSuomi: \"katu\" - Nederlands: \"",
+        "target": "['straat']",
+        "word original": "street"
+    },
+    "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']": {
+        "prompt": "Suomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"silm\u00e4muna\" - Nederlands: \"oogbol\"\nSuomi: \"housut\" - Nederlands: \"broek\"\nSuomi: \"vaatetus\" - Nederlands: \"kledij\"\nSuomi: \"ruumiinrangaistus\" - Nederlands: \"lijfstraf\"\nSuomi: \"sunnuntai\" - Nederlands: \"",
+        "target": "['zondag']",
+        "word original": "sun"
+    },
+    "['p\u00f6yt\u00e4']": {
+        "prompt": "Suomi: \"munniharppu\" - Nederlands: \"trompet\"\nSuomi: \"maatila\" - Nederlands: \"boerenbedrijf\"\nSuomi: \"tytt\u00f6\" - Nederlands: \"meisje\"\nSuomi: \"talo\" - Nederlands: \"optrekje\"\nSuomi: \"laatikko\" - Nederlands: \"stoofpot\"\nSuomi: \"p\u00f6yt\u00e4\" - Nederlands: \"",
+        "target": "['tafel']",
+        "word original": "table"
+    },
+    "['pyrst\u00f6', 'perskannikka', 'kannikka', 'peppu', 'satula', 'takamus', 'istuin', 'per\u00e4', 'pylly', 'pakarat', 'persus', 'perse', 'takapuoli', 'ahteri', 'per\u00e4p\u00e4\u00e4', 'h\u00e4nt\u00e4']": {
+        "prompt": "Suomi: \"sunnuntai\" - Nederlands: \"zondag\"\nSuomi: \"kylpyhuone\" - Nederlands: \"wasgelegenheid\"\nSuomi: \"televisio\" - Nederlands: \"televisieprogramma\"\nSuomi: \"koira\" - Nederlands: \"hond\"\nSuomi: \"rihma\" - Nederlands: \"garen\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"",
+        "target": "['zitvlak', 'toges', 'gat', 'achterwerk', 'achterste', 'reet', 'achtersteven', 'batterij', 'hol', 'fundament', 'kont', 'bips', 'derri\u00e8re', 'krent', 'bil', 'zitmeubel', 'tooches', 'bibs', 'posterieur', 'staart']",
+        "word original": "tail"
+    },
+    "['rihma', 'lanka', 'kuitu', 's\u00e4ie']": {
+        "prompt": "Suomi: \"naama\" - Nederlands: \"tronie\"\nSuomi: \"pid\u00e4tys\" - Nederlands: \"aanhouding\"\nSuomi: \"hammas\" - Nederlands: \"gebitselement\"\nSuomi: \"takki\" - Nederlands: \"pak\"\nSuomi: \"silm\u00e4muna\" - Nederlands: \"oogbol\"\nSuomi: \"rihma\" - Nederlands: \"",
+        "target": "['garen', 'draad']",
+        "word original": "thread"
+    },
+    "['kurkku', 'ruokakurkku', 'Cucumis sativus', 'pharynx', 'nielu']": {
+        "prompt": "Suomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"kirkko\" - Nederlands: \"kerk\"\nSuomi: \"sika\" - Nederlands: \"varken\"\nSuomi: \"mehil\u00e4iset\" - Nederlands: \"bij\"\nSuomi: \"ihmisruumis\" - Nederlands: \"menselijke verrichtingsleer\"\nSuomi: \"kurkku\" - Nederlands: \"",
+        "target": "['Cucumis sativus', 'komkommerplant', 'komkommer', 'hals', 'keel', 'gorgel', 'farynx', 'strot']",
+        "word original": "throat"
+    },
+    "['peukalo', 'pollex']": {
+        "prompt": "Suomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"ympyr\u00e4\" - Nederlands: \"kring\"\nSuomi: \"linnut\" - Nederlands: \"vogel\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"varvas\" - Nederlands: \"digit\"\nSuomi: \"peukalo\" - Nederlands: \"",
+        "target": "['duim']",
+        "word original": "thumb"
+    },
+    "['hinta', 'v\u00e4hitt\u00e4ismyyntihinta', 'v\u00e4hitt\u00e4ishinta', 'korvaus', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta']": {
+        "prompt": "Suomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"ruuvi\" - Nederlands: \"schroef\"\nSuomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"filmi\" - Nederlands: \"film\"\nSuomi: \"hinta\" - Nederlands: \"",
+        "target": "['prijs', 'veergeld', 'vervoersprijs', 'veerloon', 'tarief']",
+        "word original": "ticket"
+    },
+    "['varvas', 'sormi']": {
+        "prompt": "Suomi: \"juusto\" - Nederlands: \"kaas\"\nSuomi: \"vuode\" - Nederlands: \"bed\"\nSuomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"kenk\u00e4\" - Nederlands: \"schoen\"\nSuomi: \"kyn\u00e4\" - Nederlands: \"crayon\"\nSuomi: \"varvas\" - Nederlands: \"",
+        "target": "['digit', 'Digit', 'vinger', 'teen', 'cijfer', 'kleine teen', 'tenen', 'kom nou']",
+        "word original": "toe"
+    },
+    "['hammas']": {
+        "prompt": "Suomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"tippa\" - Nederlands: \"druppel\"\nSuomi: \"Nous\" - Nederlands: \"brein\"\nSuomi: \"pullo\" - Nederlands: \"gascilinder\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"hammas\" - Nederlands: \"",
+        "target": "['gebitselement', 'tand', 'tanden', 'menselijke tand']",
+        "word original": "tooth"
+    },
+    "['pikkukaupunki', 'asutuskeskus', 'ihmisasutus', 'yhteis\u00f6', 'kyl\u00e4', 'asutusalue', 'kaupunki']": {
+        "prompt": "Suomi: \"karvoitus\" - Nederlands: \"haar\"\nSuomi: \"t\u00e4hti\" - Nederlands: \"zon\"\nSuomi: \"lippu\" - Nederlands: \"vaan\"\nSuomi: \"katu\" - Nederlands: \"straat\"\nSuomi: \"jalka\" - Nederlands: \"klauw\"\nSuomi: \"pikkukaupunki\" - Nederlands: \"",
+        "target": "['nederzetting', 'woonplaats', 'town', 'middelgrote plaats of stadje', 'plaats', 'gemeente']",
+        "word original": "town"
+    },
+    "['juna', 'opettaa', 'harjoittaa']": {
+        "prompt": "Suomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"yliopisto\" - Nederlands: \"universiteit\"\nSuomi: \"hevonen\" - Nederlands: \"paard\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"syd\u00e4n\" - Nederlands: \"bloedvatenstelsel\"\nSuomi: \"juna\" - Nederlands: \"",
+        "target": "['trein', 'konvooi', 'karavaan']",
+        "word original": "train"
+    },
+    "['puu', 'mets\u00e4', 'W\u00e4lder', 'puumaila', 'pintapuu', 'puuaines']": {
+        "prompt": "Suomi: \"ampuma-ase\" - Nederlands: \"geweer\"\nSuomi: \"omena\" - Nederlands: \"appelschil\"\nSuomi: \"\u00e4mp\u00e4ri\" - Nederlands: \"emmer\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"puu\" - Nederlands: \"",
+        "target": "['bos', 'woud', 'W\u00e4lder', 'bosje', 'foreest', 'boom', 'hout', 'spinthout', 'houtsoort']",
+        "word original": "tree"
+    },
+    "['housut']": {
+        "prompt": "Suomi: \"pakkaus\" - Nederlands: \"verpakking\"\nSuomi: \"suplementtikulmat\" - Nederlands: \"hoek\"\nSuomi: \"puu\" - Nederlands: \"bos\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"pilvi\" - Nederlands: \"wolk\"\nSuomi: \"housut\" - Nederlands: \"",
+        "target": "['broek']",
+        "word original": "trousers"
+    },
+    "['sateenvarjo']": {
+        "prompt": "Suomi: \"mirri\" - Nederlands: \"kat\"\nSuomi: \"h\u00f6yhenet\" - Nederlands: \"pluim\"\nSuomi: \"mehil\u00e4iset\" - Nederlands: \"bij\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"asevoimat\" - Nederlands: \"strijdkrachten\"\nSuomi: \"sateenvarjo\" - Nederlands: \"",
+        "target": "['paraplu', 'regenscherm']",
+        "word original": "umbrella"
+    },
+    "['sein\u00e4', 'muuri']": {
+        "prompt": "Suomi: \"ikkuna\" - Nederlands: \"raam\"\nSuomi: \"sunnuntai\" - Nederlands: \"zondag\"\nSuomi: \"uuni\" - Nederlands: \"bakoven\"\nSuomi: \"linna\" - Nederlands: \"slot\"\nSuomi: \"apina\" - Nederlands: \"aap\"\nSuomi: \"sein\u00e4\" - Nederlands: \"",
+        "target": "['wand', 'muur']",
+        "word original": "wall"
+    },
+    "['rannekello', 'taskukello', 'kello']": {
+        "prompt": "Suomi: \"ruoska\" - Nederlands: \"zweep\"\nSuomi: \"purjealus\" - Nederlands: \"zeilschip\"\nSuomi: \"vene\" - Nederlands: \"boot\"\nSuomi: \"hevonen\" - Nederlands: \"paard\"\nSuomi: \"hermo\" - Nederlands: \"zenuwstelsel\"\nSuomi: \"rannekello\" - Nederlands: \"",
+        "target": "['polshorloge', 'klokje', 'horloge', 'klok', 'uurwerk']",
+        "word original": "watch"
+    },
+    "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari']": {
+        "prompt": "Suomi: \"iskunvaimennin\" - Nederlands: \"schokbreker\"\nSuomi: \"filmi\" - Nederlands: \"film\"\nSuomi: \"asema\" - Nederlands: \"station\"\nSuomi: \"uuni\" - Nederlands: \"bakoven\"\nSuomi: \"laakso\" - Nederlands: \"dal\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Nederlands: \"",
+        "target": "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros']",
+        "word original": "wheel"
+    },
+    "['ruoska', 'piiska']": {
+        "prompt": "Suomi: \"lammas\" - Nederlands: \"schaap\"\nSuomi: \"hehkulamppu\" - Nederlands: \"gloeilamp\"\nSuomi: \"sormus\" - Nederlands: \"ring\"\nSuomi: \"pyrst\u00f6\" - Nederlands: \"zitvlak\"\nSuomi: \"vaatetus\" - Nederlands: \"kledij\"\nSuomi: \"ruoska\" - Nederlands: \"",
+        "target": "['zweep']",
+        "word original": "whip"
+    },
+    "['ikkuna', 'akkuna']": {
+        "prompt": "Suomi: \"rautatie\" - Nederlands: \"spoorwegen\"\nSuomi: \"sateenvarjo\" - Nederlands: \"paraplu\"\nSuomi: \"ase\" - Nederlands: \"wapen\"\nSuomi: \"lusikka\" - Nederlands: \"lepel\"\nSuomi: \"juusto\" - Nederlands: \"kaas\"\nSuomi: \"ikkuna\" - Nederlands: \"",
+        "target": "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje']",
+        "word original": "window"
+    },
+    "['siipi']": {
+        "prompt": "Suomi: \"sormi\" - Nederlands: \"middelvinger\"\nSuomi: \"peukalo\" - Nederlands: \"duim\"\nSuomi: \"kampa\" - Nederlands: \"kam\"\nSuomi: \"karja\" - Nederlands: \"rundvee\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Nederlands: \"slang\"\nSuomi: \"siipi\" - Nederlands: \"",
+        "target": "['vleugel', 'vlerk', 'wiek']",
+        "word original": "wing"
+    },
+    "['mato', 'lierot', 'Lumbricina', 'kastemato', 'onkimato', 'Crassiclitellata', 'kasteliero', 'onkiliero', 'iso kastemato', 'toukka']": {
+        "prompt": "Suomi: \"huuli\" - Nederlands: \"lip\"\nSuomi: \"polvi\" - Nederlands: \"knie\"\nSuomi: \"vuohi\" - Nederlands: \"geit\"\nSuomi: \"ovi\" - Nederlands: \"poort\"\nSuomi: \"hansikas\" - Nederlands: \"handschoen\"\nSuomi: \"mato\" - Nederlands: \"",
+        "target": "['aardworm', 'regenworm', 'Lumbricina', 'pier', 'worm', 'wormen', 'wurm']",
+        "word original": "worm"
+    }
+}

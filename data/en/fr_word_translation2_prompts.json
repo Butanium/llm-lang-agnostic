@@ -1,0 +1,882 @@
+{
+    "['angle', 'adjacent angle', 'supplementary angles', 'Complementary angles', 'vertically opposite angle theorem', 'vertical angles']": {
+        "prompt": "English: \"fish\" - Fran\u00e7ais: \"poisson\"\nEnglish: \"teakettle\" - Fran\u00e7ais: \"bouilloire \u00e0 th\u00e9\"\nEnglish: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"computer memory\" - Fran\u00e7ais: \"m\u00e9moire\"\nEnglish: \"boot\" - Fran\u00e7ais: \"bottine\"\nEnglish: \"angle\" - Fran\u00e7ais: \"",
+        "target": "['angles oppos\u00e9s par le sommet', 'angles suppl\u00e9mentaires', 'angles adjacents', 'angles compl\u00e9mentaires']",
+        "word original": "angle"
+    },
+    "['ant', 'emmet', 'pismire', 'Formicidae']": {
+        "prompt": "English: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"pocket\" - Fran\u00e7ais: \"poche\"\nEnglish: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"watch\" - Fran\u00e7ais: \"bracelet-montre\"\nEnglish: \"goat\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEnglish: \"ant\" - Fran\u00e7ais: \"",
+        "target": "['fourmi', 'Formicidae']",
+        "word original": "ant"
+    },
+    "['apple peel', 'apple']": {
+        "prompt": "English: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"apple peel\" - Fran\u00e7ais: \"",
+        "target": "['peau de pomme', 'pomme']",
+        "word original": "apple"
+    },
+    "['arch']": {
+        "prompt": "English: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"pencil\" - Fran\u00e7ais: \"crayon\"\nEnglish: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"tooth\" - Fran\u00e7ais: \"dents\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"arch\" - Fran\u00e7ais: \"",
+        "target": "['arc']",
+        "word original": "arch"
+    },
+    "['weapon', 'weapon system', 'arm', 'horn']": {
+        "prompt": "English: \"sword\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEnglish: \"brake\" - Fran\u00e7ais: \"freinage\"\nEnglish: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"hat\" - Fran\u00e7ais: \"chapeau\"\nEnglish: \"boy\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"",
+        "target": "['arme', 'corne']",
+        "word original": "arm"
+    },
+    "['armed forces', 'military', 'force', 'military unit', 'military force', 'war machine', 'armed services', 'military machine']": {
+        "prompt": "English: \"cornet\" - Fran\u00e7ais: \"citaro\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"garden\" - Fran\u00e7ais: \"jardin\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"neck\" - Fran\u00e7ais: \"nixe\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"",
+        "target": "['forces arm\u00e9es', 'arm\u00e9e', 'machine de guerre', 'troupes']",
+        "word original": "army"
+    },
+    "['baby', 'infaneto', 'infant', 'babe']": {
+        "prompt": "English: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"throat\" - Fran\u00e7ais: \"gorge\"\nEnglish: \"potato\" - Fran\u00e7ais: \"patate\"\nEnglish: \"nut\" - Fran\u00e7ais: \"testicule\"\nEnglish: \"key\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEnglish: \"baby\" - Fran\u00e7ais: \"",
+        "target": "['nourrisson', 'nourisson', 'b\u00e9b\u00e9', 'enfant en bas \u00e2ge', 'poupon', 'enfant']",
+        "word original": "baby"
+    },
+    "['ring', 'band', 'gang', 'pack', 'mob', 'boxing ring']": {
+        "prompt": "English: \"fingernail\" - Fran\u00e7ais: \"ongle\"\nEnglish: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"library\" - Fran\u00e7ais: \"librairie\"\nEnglish: \"mouth\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nEnglish: \"ring\" - Fran\u00e7ais: \"",
+        "target": "['anneau', 'bague', 'bande criminelle', 'bande', 'gang']",
+        "word original": "ring"
+    },
+    "['sink', 'swallet', 'doline', 'sinkhole', 'shake hole', 'cenote', 'sink hole', 'swallow hole', 'shakehole', 'basin', 'kitchen sink']": {
+        "prompt": "English: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"farm\" - Fran\u00e7ais: \"ferme\"\nEnglish: \"orangeness\" - Fran\u00e7ais: \"orange\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"sink\" - Fran\u00e7ais: \"",
+        "target": "['doline', 'gouffre', 'lavabo', '\u00e9vier']",
+        "word original": "basin"
+    },
+    "['bath', 'restroom', 'bathroom']": {
+        "prompt": "English: \"angle\" - Fran\u00e7ais: \"angles oppos\u00e9s par le sommet\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"hammer\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"whip\" - Fran\u00e7ais: \"fouet\"\nEnglish: \"bath\" - Fran\u00e7ais: \"",
+        "target": "['salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'toilette', 'baignoire']",
+        "word original": "bath"
+    },
+    "['bed']": {
+        "prompt": "English: \"passenger train\" - Fran\u00e7ais: \"train\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"television\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEnglish: \"plume\" - Fran\u00e7ais: \"plumage\"\nEnglish: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"bed\" - Fran\u00e7ais: \"",
+        "target": "['lit', 'couche']",
+        "word original": "bed"
+    },
+    "['bee', 'Anthophila']": {
+        "prompt": "English: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"arch\" - Fran\u00e7ais: \"arc\"\nEnglish: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"bee\" - Fran\u00e7ais: \"",
+        "target": "['abeille']",
+        "word original": "bee"
+    },
+    "['bell', 'buzzer', 'doorbell']": {
+        "prompt": "English: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"television\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEnglish: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nEnglish: \"identity card\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEnglish: \"bell\" - Fran\u00e7ais: \"",
+        "target": "['cloche', 'sonnette']",
+        "word original": "bell"
+    },
+    "['bird', 'Eu-']": {
+        "prompt": "English: \"function\" - Fran\u00e7ais: \"fonction\"\nEnglish: \"clock\" - Fran\u00e7ais: \"horloge\"\nEnglish: \"oven\" - Fran\u00e7ais: \"four\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"taking into custody\" - Fran\u00e7ais: \"arrestation\"\nEnglish: \"bird\" - Fran\u00e7ais: \"",
+        "target": "['oiseau']",
+        "word original": "bird"
+    },
+    "['sword', 'brand', 'steel', 'blade']": {
+        "prompt": "English: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"television\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEnglish: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"sword\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9p\u00e9e', 'glaive', 'lame']",
+        "word original": "blade"
+    },
+    "['committee', 'commission']": {
+        "prompt": "English: \"marine sponge\" - Fran\u00e7ais: \"\u00e9ponge\"\nEnglish: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"hammer\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"committee\" - Fran\u00e7ais: \"",
+        "target": "['comit\u00e9', 'commission']",
+        "word original": "board"
+    },
+    "['boat']": {
+        "prompt": "English: \"function\" - Fran\u00e7ais: \"fonction\"\nEnglish: \"curtain\" - Fran\u00e7ais: \"rideau\"\nEnglish: \"cigar\" - Fran\u00e7ais: \"cigare\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"girl\" - Fran\u00e7ais: \"fille\"\nEnglish: \"boat\" - Fran\u00e7ais: \"",
+        "target": "['bateau', 'nacelle', 'barque', 'canot']",
+        "word original": "boat"
+    },
+    "['bone', 'os']": {
+        "prompt": "English: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"pocket\" - Fran\u00e7ais: \"poche\"\nEnglish: \"boat\" - Fran\u00e7ais: \"bateau\"\nEnglish: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"nuage\"\nEnglish: \"bone\" - Fran\u00e7ais: \"",
+        "target": "['os']",
+        "word original": "bone"
+    },
+    "['book']": {
+        "prompt": "English: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"human body\" - Fran\u00e7ais: \"corps humain\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"nuage\"\nEnglish: \"book\" - Fran\u00e7ais: \"",
+        "target": "['livre']",
+        "word original": "book"
+    },
+    "['boot', 'kicking', 'kick']": {
+        "prompt": "English: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"skirt\" - Fran\u00e7ais: \"jupe\"\nEnglish: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"pen\" - Fran\u00e7ais: \"p\u00e9nicilline\"\nEnglish: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"boot\" - Fran\u00e7ais: \"",
+        "target": "['bottine', 'botte', 'soulier', 'chaussure', 'coup de pied', 'botter']",
+        "word original": "boot"
+    },
+    "['bottle']": {
+        "prompt": "English: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"cycle\" - Fran\u00e7ais: \"v\u00e9lo\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"voilier\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"chest\" - Fran\u00e7ais: \"coffre\"\nEnglish: \"bottle\" - Fran\u00e7ais: \"",
+        "target": "['bouteille']",
+        "word original": "bottle"
+    },
+    "['boxes', 'box']": {
+        "prompt": "English: \"picture\" - Fran\u00e7ais: \"film\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"amortisseur\"\nEnglish: \"jail\" - Fran\u00e7ais: \"prison\"\nEnglish: \"boxes\" - Fran\u00e7ais: \"",
+        "target": "['caisse', 'bo\u00eete']",
+        "word original": "box"
+    },
+    "['boy', 'heroin', 'diacetylmorphine', 'male child', 'son']": {
+        "prompt": "English: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"nuage\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"voilier\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"boy\" - Fran\u00e7ais: \"",
+        "target": "['h\u00e9ro\u00efne', 'diac\u00e9tylmorphine', 'gar\u00e7on', 'fils']",
+        "word original": "boy"
+    },
+    "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'managing director', 'manager', 'top dog', 'question']": {
+        "prompt": "English: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"amortisseur\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"boy\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"finger\" - Fran\u00e7ais: \"doigt d'honneur\"\nEnglish: \"head\" - Fran\u00e7ais: \"",
+        "target": "['psych\u00e9', 'esprit', 'no\u00fbs', 'No\u00fbs', 'cerveau', 't\u00eate', 'chef', 'leader', 'directeur', 'directrice', 'gestionnaire', 'administrateur', 'g\u00e9rant', 'th\u00e8me', 'question', 'point']",
+        "word original": "head"
+    },
+    "['brake', 'braking']": {
+        "prompt": "English: \"bed\" - Fran\u00e7ais: \"lit\"\nEnglish: \"gun\" - Fran\u00e7ais: \"artillerie\"\nEnglish: \"finger\" - Fran\u00e7ais: \"doigt d'honneur\"\nEnglish: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"brake\" - Fran\u00e7ais: \"",
+        "target": "['freinage', 'frein']",
+        "word original": "brake"
+    },
+    "['economics', 'economic science', 'political economy']": {
+        "prompt": "English: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"monkey\" - Fran\u00e7ais: \"singe\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"cycle\" - Fran\u00e7ais: \"v\u00e9lo\"\nEnglish: \"economics\" - Fran\u00e7ais: \"",
+        "target": "['science \u00e9conomique', '\u00e9conomie', '\u00e9conomie politique', 'sciences \u00e9conomiques', 'Sciences \u00e9conomiques']",
+        "word original": "branch"
+    },
+    "['brick']": {
+        "prompt": "English: \"arch\" - Fran\u00e7ais: \"arc\"\nEnglish: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"umbrella\" - Fran\u00e7ais: \"p\u00e9pin\"\nEnglish: \"monkey\" - Fran\u00e7ais: \"singe\"\nEnglish: \"taking into custody\" - Fran\u00e7ais: \"arrestation\"\nEnglish: \"brick\" - Fran\u00e7ais: \"",
+        "target": "['brique']",
+        "word original": "brick"
+    },
+    "['bridge', 'span', 'list of Roman bridges']": {
+        "prompt": "English: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"toilet\" - Fran\u00e7ais: \"toilette\"\nEnglish: \"picture\" - Fran\u00e7ais: \"film\"\nEnglish: \"hat\" - Fran\u00e7ais: \"chapeau\"\nEnglish: \"bridge\" - Fran\u00e7ais: \"",
+        "target": "['pont', 'liste de ponts romains', 'passerelle']",
+        "word original": "bridge"
+    },
+    "['brush', 'scrubland', 'shrubland']": {
+        "prompt": "English: \"economics\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"lightbulb\" - Fran\u00e7ais: \"ampoule\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"brush\" - Fran\u00e7ais: \"",
+        "target": "['frutic\u00e9e', 'brosse', 'brosse \u00e0 cheveux']",
+        "word original": "brush"
+    },
+    "['bucket', 'pail', 'Pail']": {
+        "prompt": "English: \"bottle\" - Fran\u00e7ais: \"bouteille\"\nEnglish: \"glove\" - Fran\u00e7ais: \"gant\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"aeroplane\" - Fran\u00e7ais: \"appareil volant\"\nEnglish: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"bucket\" - Fran\u00e7ais: \"",
+        "target": "['seau', 'chaudi\u00e8re', 'bac', 'baquet']",
+        "word original": "bucket"
+    },
+    "['lightbulb', 'electric-light bulb', 'incandescent light bulb', 'electric light', 'electric bulb', 'bulb', 'incandescent lamp', 'light bulb']": {
+        "prompt": "English: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"star\" - Fran\u00e7ais: \"\u00e9toile\"\nEnglish: \"ant\" - Fran\u00e7ais: \"fourmi\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"lightbulb\" - Fran\u00e7ais: \"",
+        "target": "['ampoule', 'lampe incandescente', 'lampe \u00e0 incandescence', 'ampoule \u00e0 incandescence', 'lampe \u00e9lectrique', 'lampe']",
+        "word original": "bulb"
+    },
+    "['button', 'curling', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"clothes\" - Fran\u00e7ais: \"fringue\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"passenger train\" - Fran\u00e7ais: \"train\"\nEnglish: \"library\" - Fran\u00e7ais: \"librairie\"\nEnglish: \"button\" - Fran\u00e7ais: \"",
+        "target": "['curling', 'bouton', 'poussoir', 'bouton-poussoir']",
+        "word original": "button"
+    },
+    "['cake']": {
+        "prompt": "English: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"thumb\" - Fran\u00e7ais: \"pouce\"\nEnglish: \"cheese\" - Fran\u00e7ais: \"fromage\"\nEnglish: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nEnglish: \"umbrella\" - Fran\u00e7ais: \"p\u00e9pin\"\nEnglish: \"cake\" - Fran\u00e7ais: \"",
+        "target": "['g\u00e2teau']",
+        "word original": "cake"
+    },
+    "['camera', 'photographic camera', 'still camera', 'movie camera', 'television camera', 'tv camera', 'professional video camera']": {
+        "prompt": "English: \"plough\" - Fran\u00e7ais: \"charrue\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"street\" - Fran\u00e7ais: \"rue\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"camera\" - Fran\u00e7ais: \"",
+        "target": "['appareil photographique', 'cam\u00e9ra', 'appareil photo']",
+        "word original": "camera"
+    },
+    "['identity card', 'I.D.', 'ID', 'identity document', 'identification card', 'card', 'ID card']": {
+        "prompt": "English: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"worm\" - Fran\u00e7ais: \"dragon europ\u00e9en\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"pin\" - Fran\u00e7ais: \"jambe\"\nEnglish: \"ship\" - Fran\u00e7ais: \"navire\"\nEnglish: \"identity card\" - Fran\u00e7ais: \"",
+        "target": "['pi\u00e8ce d\u2019identit\u00e9', \"carte d'identit\u00e9\", \"carte d'identification\", \"pi\u00e8ce d'identit\u00e9\", 'carte d\u2019identit\u00e9', 'carte', 'document']",
+        "word original": "card"
+    },
+    "['carriage', 'railroad car', 'railway carriage', 'car', 'railcar', 'railway car', 'motor coach', 'rig', 'equipage']": {
+        "prompt": "English: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"amortisseur\"\nEnglish: \"goat\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEnglish: \"whip\" - Fran\u00e7ais: \"fouet\"\nEnglish: \"carriage\" - Fran\u00e7ais: \"",
+        "target": "['v\u00e9hicule ferroviaire', 'wagon', 'automotrice', 'autorail', 'automotrice tractrice', 'v\u00e9hicule ferroviaire remorqu\u00e9', 'v\u00e9hicule automoteur', 'voiture', 'carrosse', '\u00e9quipage', 'voiture \u00e0 cheval']",
+        "word original": "carriage"
+    },
+    "['pussy', 'domestic cat', 'kitty-cat', 'cat', 'pussycat', 'kitty', 'puss', 'true cat', 'house cat']": {
+        "prompt": "English: \"cigar\" - Fran\u00e7ais: \"cigare\"\nEnglish: \"monkey\" - Fran\u00e7ais: \"singe\"\nEnglish: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"voilier\"\nEnglish: \"musculus\" - Fran\u00e7ais: \"muscle\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"",
+        "target": "['minou', 'chat', 'chat domestique']",
+        "word original": "cat"
+    },
+    "['cheese', 'YAMSHD']": {
+        "prompt": "English: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"aeroplane\" - Fran\u00e7ais: \"appareil volant\"\nEnglish: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"goat\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEnglish: \"gun\" - Fran\u00e7ais: \"artillerie\"\nEnglish: \"cheese\" - Fran\u00e7ais: \"",
+        "target": "['fromage']",
+        "word original": "cheese"
+    },
+    "['chest', 'breast', 'thorax', 'chest cavity', 'thoracic cavity', 'pectus']": {
+        "prompt": "English: \"poultry\" - Fran\u00e7ais: \"volaille\"\nEnglish: \"hat\" - Fran\u00e7ais: \"chapeau\"\nEnglish: \"pig\" - Fran\u00e7ais: \"sanglier\"\nEnglish: \"corporal punishment\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nEnglish: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"chest\" - Fran\u00e7ais: \"",
+        "target": "['coffre', 'malle', 'cavit\u00e9 thoracique', 'thorax', 'cage thoracique', 'poitrine', 'Torse', 'torse']",
+        "word original": "chest"
+    },
+    "['chin', 'mentum']": {
+        "prompt": "English: \"agency\" - Fran\u00e7ais: \"organisme\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"apple peel\" - Fran\u00e7ais: \"peau de pomme\"\nEnglish: \"eye\" - Fran\u00e7ais: \"yeux\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"chin\" - Fran\u00e7ais: \"",
+        "target": "['menton']",
+        "word original": "chin"
+    },
+    "['church', 'church building']": {
+        "prompt": "English: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"screw\" - Fran\u00e7ais: \"vis de fixation\"\nEnglish: \"key\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEnglish: \"church\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9glise']",
+        "word original": "church"
+    },
+    "['circle', 'disk', 'disc']": {
+        "prompt": "English: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"agency\" - Fran\u00e7ais: \"organisme\"\nEnglish: \"cup\" - Fran\u00e7ais: \"tasse\"\nEnglish: \"circle\" - Fran\u00e7ais: \"",
+        "target": "['cercle', 'rond', 'disque']",
+        "word original": "circle"
+    },
+    "['clock']": {
+        "prompt": "English: \"bath\" - Fran\u00e7ais: \"salle de bain\"\nEnglish: \"glove\" - Fran\u00e7ais: \"gant\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"brush\" - Fran\u00e7ais: \"frutic\u00e9e\"\nEnglish: \"sock\" - Fran\u00e7ais: \"chaussette\"\nEnglish: \"clock\" - Fran\u00e7ais: \"",
+        "target": "['horloge', 'pendule']",
+        "word original": "clock"
+    },
+    "['cloud']": {
+        "prompt": "English: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"bed\" - Fran\u00e7ais: \"lit\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"",
+        "target": "['nuage']",
+        "word original": "cloud"
+    },
+    "['jacket', 'coat']": {
+        "prompt": "English: \"corporal punishment\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nEnglish: \"nerve\" - Fran\u00e7ais: \"nerf\"\nEnglish: \"thumb\" - Fran\u00e7ais: \"pouce\"\nEnglish: \"pen\" - Fran\u00e7ais: \"p\u00e9nicilline\"\nEnglish: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"",
+        "target": "['veste', 'paletot', 'pardessus', 'manteau']",
+        "word original": "coat"
+    },
+    "['taking into custody', 'arrest', 'collar', 'catch', 'apprehension', 'pinch']": {
+        "prompt": "English: \"hand\" - Fran\u00e7ais: \"calligraphie\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"pencil\" - Fran\u00e7ais: \"crayon\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"taking into custody\" - Fran\u00e7ais: \"",
+        "target": "['arrestation']",
+        "word original": "collar"
+    },
+    "['comb']": {
+        "prompt": "English: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"glove\" - Fran\u00e7ais: \"gant\"\nEnglish: \"skirt\" - Fran\u00e7ais: \"jupe\"\nEnglish: \"eye\" - Fran\u00e7ais: \"yeux\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"comb\" - Fran\u00e7ais: \"",
+        "target": "['peigne']",
+        "word original": "comb"
+    },
+    "['cow', 'cattle', 'kine', 'oxen', 'Bos taurus', 'cows', 'moo-cow']": {
+        "prompt": "English: \"curtain\" - Fran\u00e7ais: \"rideau\"\nEnglish: \"bridge\" - Fran\u00e7ais: \"pont\"\nEnglish: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"farm\" - Fran\u00e7ais: \"ferme\"\nEnglish: \"orangeness\" - Fran\u00e7ais: \"orange\"\nEnglish: \"cow\" - Fran\u00e7ais: \"",
+        "target": "['vache', 'b\u00e9tail', 'bovins', 'Bos taurus', 'bos taurus', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['cup', 'standing cup', 'cup with stem', 'drinking glass']": {
+        "prompt": "English: \"passenger train\" - Fran\u00e7ais: \"train\"\nEnglish: \"corporal punishment\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"bell\" - Fran\u00e7ais: \"cloche\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"cup\" - Fran\u00e7ais: \"",
+        "target": "['tasse', 'verre', 'coupe']",
+        "word original": "cup"
+    },
+    "['curtain', 'drapery', 'drape', 'mantle', 'pall', 'altar cloth']": {
+        "prompt": "English: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"pig\" - Fran\u00e7ais: \"sanglier\"\nEnglish: \"stocking\" - Fran\u00e7ais: \"bas\"\nEnglish: \"stamp\" - Fran\u00e7ais: \"timbre-poste\"\nEnglish: \"natural satellite\" - Fran\u00e7ais: \"lune\"\nEnglish: \"curtain\" - Fran\u00e7ais: \"",
+        "target": "['rideau']",
+        "word original": "curtain"
+    },
+    "['shock absorber', 'shock', 'cushion']": {
+        "prompt": "English: \"eye\" - Fran\u00e7ais: \"yeux\"\nEnglish: \"clock\" - Fran\u00e7ais: \"horloge\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"cake\" - Fran\u00e7ais: \"g\u00e2teau\"\nEnglish: \"curtain\" - Fran\u00e7ais: \"rideau\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"",
+        "target": "['amortisseur', 'coussin']",
+        "word original": "cushion"
+    },
+    "['dog', 'Canis familiaris', 'domestic dog', 'Canis lupus familiaris']": {
+        "prompt": "English: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"stocking\" - Fran\u00e7ais: \"bas\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"brush\" - Fran\u00e7ais: \"frutic\u00e9e\"\nEnglish: \"dog\" - Fran\u00e7ais: \"",
+        "target": "['chien', 'Canis lupus familiaris', 'canis familiaris']",
+        "word original": "dog"
+    },
+    "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe']": {
+        "prompt": "English: \"network\" - Fran\u00e7ais: \"internet\"\nEnglish: \"hat\" - Fran\u00e7ais: \"chapeau\"\nEnglish: \"book\" - Fran\u00e7ais: \"livre\"\nEnglish: \"natural satellite\" - Fran\u00e7ais: \"lune\"\nEnglish: \"human foot\" - Fran\u00e7ais: \"pied\"\nEnglish: \"door case\" - Fran\u00e7ais: \"",
+        "target": "['encadrement de porte', 'porte', 'porti\u00e8re', 'huis']",
+        "word original": "door"
+    },
+    "['gate', 'lock', 'canal lock', 'lock chamber']": {
+        "prompt": "English: \"nose\" - Fran\u00e7ais: \"nez\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"passenger train\" - Fran\u00e7ais: \"train\"\nEnglish: \"gate\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9cluse', '\u00e9cluse \u00e0 sas', 'sas', 'cadenas', 'porte']",
+        "word original": "drain"
+    },
+    "['picture', 'movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture show', 'moving-picture show', 'image', 'artist', 'painting', 'painter', 'art of painting', 'drawing', 'map', 'portraiture', 'design', 'illustration', 'figure', 'pattern', 'ikon', 'icon', 'photo', 'photograph', 'exposure', 'video']": {
+        "prompt": "English: \"skirt\" - Fran\u00e7ais: \"jupe\"\nEnglish: \"dog\" - Fran\u00e7ais: \"chien\"\nEnglish: \"neck\" - Fran\u00e7ais: \"nixe\"\nEnglish: \"horse\" - Fran\u00e7ais: \"cheval\"\nEnglish: \"arch\" - Fran\u00e7ais: \"arc\"\nEnglish: \"picture\" - Fran\u00e7ais: \"",
+        "target": "['film', 'pellicule', 'peinture', 'artiste peintre', 'peintre', 'image', 'tableau', 'illustration', 'figure', 'reproduction', 'dessin', 'ic\u00f4ne', 'photographie', 'photo']",
+        "word original": "drawer"
+    },
+    "['clothes', 'thing', 'things', 'garments', 'garment', 'apparel', 'raiment', 'clothing', 'wearable', 'article of clothing', 'wear', 'habiliment', 'vesture', 'dress', 'wearing apparel']": {
+        "prompt": "English: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"bottle\" - Fran\u00e7ais: \"bouteille\"\nEnglish: \"pocket\" - Fran\u00e7ais: \"poche\"\nEnglish: \"hammer\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"jail\" - Fran\u00e7ais: \"prison\"\nEnglish: \"clothes\" - Fran\u00e7ais: \"",
+        "target": "['fringue', 'v\u00eatements', 'habit', 'v\u00eatement', 'habillement', 'habits', 'fringues', 'tenue']",
+        "word original": "dress"
+    },
+    "['drop', 'cliff', 'drop-off', 'raindrop', 'drib', 'driblet']": {
+        "prompt": "English: \"star\" - Fran\u00e7ais: \"\u00e9toile\"\nEnglish: \"leaf\" - Fran\u00e7ais: \"feuillage\"\nEnglish: \"pen\" - Fran\u00e7ais: \"p\u00e9nicilline\"\nEnglish: \"camera\" - Fran\u00e7ais: \"appareil photographique\"\nEnglish: \"mouse\" - Fran\u00e7ais: \"souris\"\nEnglish: \"drop\" - Fran\u00e7ais: \"",
+        "target": "['rempart montagneux', 'falaise', 'goutte de pluie', 'goutte']",
+        "word original": "drop"
+    },
+    "['ear', 'ears']": {
+        "prompt": "English: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"function\" - Fran\u00e7ais: \"fonction\"\nEnglish: \"dog\" - Fran\u00e7ais: \"chien\"\nEnglish: \"bottle\" - Fran\u00e7ais: \"bouteille\"\nEnglish: \"carriage\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEnglish: \"ear\" - Fran\u00e7ais: \"",
+        "target": "['oreille', 'oreilles']",
+        "word original": "ear"
+    },
+    "[\"hen's egg\", \"chicken's egg\", 'chicken egg', 'egg', 'eggs', 'Eggs as food', 'insect egg']": {
+        "prompt": "English: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"hen's egg\" - Fran\u00e7ais: \"",
+        "target": "['\u0153uf de poule', '\u0153uf']",
+        "word original": "egg"
+    },
+    "['motor', 'electric motor', 'engine']": {
+        "prompt": "English: \"sock\" - Fran\u00e7ais: \"chaussette\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"motor\" - Fran\u00e7ais: \"",
+        "target": "['moteur \u00e9lectrique', 'machine \u00e9lectrique', 'moteur']",
+        "word original": "engine"
+    },
+    "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"mouse\" - Fran\u00e7ais: \"souris\"\nEnglish: \"fingernail\" - Fran\u00e7ais: \"ongle\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"eye\" - Fran\u00e7ais: \"",
+        "target": "['yeux', \"globe de l'oeil\", '\u0153il', 'globe oculaire', 'centre']",
+        "word original": "eye"
+    },
+    "['face', 'typeface', 'font', 'case', 'fount', 'human face', 'air', 'appearance', 'manner', 'demeanor', 'look', 'expression', 'mien', 'bearing', 'demeanour', 'facial expression', 'aspect']": {
+        "prompt": "English: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"poultry\" - Fran\u00e7ais: \"volaille\"\nEnglish: \"boot\" - Fran\u00e7ais: \"bottine\"\nEnglish: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"spoon\" - Fran\u00e7ais: \"cuill\u00e8re\"\nEnglish: \"face\" - Fran\u00e7ais: \"",
+        "target": "['fonte de caract\u00e8res', 'fonte typographie', 'fonte', 'police d\u2019\u00e9criture', \"police d'\u00e9criture\", 'police de caract\u00e8res', 'caract\u00e8re', 'figure', 'visage', 'allure', 'air', 'expression']",
+        "word original": "face"
+    },
+    "['farm']": {
+        "prompt": "English: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"boat\" - Fran\u00e7ais: \"bateau\"\nEnglish: \"nerve\" - Fran\u00e7ais: \"nerf\"\nEnglish: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"throat\" - Fran\u00e7ais: \"gorge\"\nEnglish: \"farm\" - Fran\u00e7ais: \"",
+        "target": "['ferme', 'exploitation agricole', 'domaine']",
+        "word original": "farm"
+    },
+    "['plume', 'feathers', 'feather', 'plumage', 'barbule']": {
+        "prompt": "English: \"thumb\" - Fran\u00e7ais: \"pouce\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"chest\" - Fran\u00e7ais: \"coffre\"\nEnglish: \"pin\" - Fran\u00e7ais: \"jambe\"\nEnglish: \"aeroplane\" - Fran\u00e7ais: \"appareil volant\"\nEnglish: \"plume\" - Fran\u00e7ais: \"",
+        "target": "['plumage', 'barbule', 'plum\u00e9e', 'pennage']",
+        "word original": "feather"
+    },
+    "['finger', 'the finger']": {
+        "prompt": "English: \"cup\" - Fran\u00e7ais: \"tasse\"\nEnglish: \"economics\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEnglish: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"angle\" - Fran\u00e7ais: \"angles oppos\u00e9s par le sommet\"\nEnglish: \"computer memory\" - Fran\u00e7ais: \"m\u00e9moire\"\nEnglish: \"finger\" - Fran\u00e7ais: \"",
+        "target": "[\"doigt d'honneur\", 'doigt']",
+        "word original": "finger"
+    },
+    "['fish', 'food fish', 'fish as food', 'Pisces']": {
+        "prompt": "English: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"pocket\" - Fran\u00e7ais: \"poche\"\nEnglish: \"mouth\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nEnglish: \"bed\" - Fran\u00e7ais: \"lit\"\nEnglish: \"fish\" - Fran\u00e7ais: \"",
+        "target": "['poisson', 'Pisces']",
+        "word original": "fish"
+    },
+    "['flag', 'penalty', 'Penalty']": {
+        "prompt": "English: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"door case\" - Fran\u00e7ais: \"encadrement de porte\"\nEnglish: \"stocking\" - Fran\u00e7ais: \"bas\"\nEnglish: \"flag\" - Fran\u00e7ais: \"",
+        "target": "['drapeau', 'p\u00e9nalit\u00e9', 'P\u00e9nalit\u00e9', 'penalty']",
+        "word original": "flag"
+    },
+    "['valley', 'dale', 'vale']": {
+        "prompt": "English: \"button\" - Fran\u00e7ais: \"curling\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"plough\" - Fran\u00e7ais: \"charrue\"\nEnglish: \"valley\" - Fran\u00e7ais: \"",
+        "target": "['vall\u00e9e', 'val']",
+        "word original": "floor"
+    },
+    "['fly', 'Diptera']": {
+        "prompt": "English: \"stamp\" - Fran\u00e7ais: \"timbre-poste\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"television\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"bottle\" - Fran\u00e7ais: \"bouteille\"\nEnglish: \"fly\" - Fran\u00e7ais: \"",
+        "target": "['dipt\u00e8re', 'Diptera', 'mouche']",
+        "word original": "fly"
+    },
+    "['human foot', 'foot', 'pes', 'Pes', 'Foot']": {
+        "prompt": "English: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"cake\" - Fran\u00e7ais: \"g\u00e2teau\"\nEnglish: \"skirt\" - Fran\u00e7ais: \"jupe\"\nEnglish: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"nose\" - Fran\u00e7ais: \"nez\"\nEnglish: \"human foot\" - Fran\u00e7ais: \"",
+        "target": "['pied']",
+        "word original": "foot"
+    },
+    "['fork', 'tributary', 'feeder', 'confluent', 'affluent']": {
+        "prompt": "English: \"bucket\" - Fran\u00e7ais: \"seau\"\nEnglish: \"musculus\" - Fran\u00e7ais: \"muscle\"\nEnglish: \"curtain\" - Fran\u00e7ais: \"rideau\"\nEnglish: \"knife\" - Fran\u00e7ais: \"couteau\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"fork\" - Fran\u00e7ais: \"",
+        "target": "['affluent', 'tributaire', 'fourchette']",
+        "word original": "fork"
+    },
+    "['poultry', 'fowl', 'domestic fowl', 'Galloanserae']": {
+        "prompt": "English: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"arch\" - Fran\u00e7ais: \"arc\"\nEnglish: \"picture\" - Fran\u00e7ais: \"film\"\nEnglish: \"sword\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEnglish: \"poultry\" - Fran\u00e7ais: \"",
+        "target": "['volaille', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['human body', 'human physiology', 'build', 'figure', 'soma', 'chassis', 'form', 'anatomy', 'shape', 'frame', 'physique', 'flesh', 'material body', 'physical body', 'bod']": {
+        "prompt": "English: \"pig\" - Fran\u00e7ais: \"sanglier\"\nEnglish: \"nose\" - Fran\u00e7ais: \"nez\"\nEnglish: \"nut\" - Fran\u00e7ais: \"testicule\"\nEnglish: \"brick\" - Fran\u00e7ais: \"brique\"\nEnglish: \"boat\" - Fran\u00e7ais: \"bateau\"\nEnglish: \"human body\" - Fran\u00e7ais: \"",
+        "target": "['corps humain', 'carrure', 'physiologie humaine', 'ossature', 'forme', 'figure', 'chair', 'silhouette', 'physique', 'Corps humain']",
+        "word original": "frame"
+    },
+    "['garden']": {
+        "prompt": "English: \"throat\" - Fran\u00e7ais: \"gorge\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"marine sponge\" - Fran\u00e7ais: \"\u00e9ponge\"\nEnglish: \"potato\" - Fran\u00e7ais: \"patate\"\nEnglish: \"sword\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEnglish: \"garden\" - Fran\u00e7ais: \"",
+        "target": "['jardin']",
+        "word original": "garden"
+    },
+    "['girl', 'young woman', 'miss', 'fille', 'missy', 'young lady', 'daughter', 'gf', 'girlfriend', 'lady friend']": {
+        "prompt": "English: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"glove\" - Fran\u00e7ais: \"gant\"\nEnglish: \"corporal punishment\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"girl\" - Fran\u00e7ais: \"",
+        "target": "['fille', 'femme', 'jeune femme', 'jeune fille', 'petite copine', 'petite amie', 'copine']",
+        "word original": "girl"
+    },
+    "['glove']": {
+        "prompt": "English: \"cake\" - Fran\u00e7ais: \"g\u00e2teau\"\nEnglish: \"pants\" - Fran\u00e7ais: \"falzar\"\nEnglish: \"toes\" - Fran\u00e7ais: \"orteil\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"glove\" - Fran\u00e7ais: \"",
+        "target": "['gant']",
+        "word original": "glove"
+    },
+    "['goat', 'domestic goat', 'caprine animal']": {
+        "prompt": "English: \"key\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEnglish: \"knife\" - Fran\u00e7ais: \"couteau\"\nEnglish: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"pen\" - Fran\u00e7ais: \"p\u00e9nicilline\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"goat\" - Fran\u00e7ais: \"",
+        "target": "['ch\u00e8vre']",
+        "word original": "goat"
+    },
+    "['gun', 'ordnance', 'heavy weapon', 'artillery', 'firearm', 'fire arm', 'projectile weapon']": {
+        "prompt": "English: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"bath\" - Fran\u00e7ais: \"salle de bain\"\nEnglish: \"snake\" - Fran\u00e7ais: \"serpent\"\nEnglish: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"button\" - Fran\u00e7ais: \"curling\"\nEnglish: \"gun\" - Fran\u00e7ais: \"",
+        "target": "['artillerie', 'arme \u00e0 feu', 'arme de projectile', 'pistolet']",
+        "word original": "gun"
+    },
+    "['hair', 'pilus']": {
+        "prompt": "English: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nEnglish: \"button\" - Fran\u00e7ais: \"curling\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"hair\" - Fran\u00e7ais: \"",
+        "target": "['chevelure', 'pelage', 'cheveux', 'poil', 'cheveu', 'tif']",
+        "word original": "root"
+    },
+    "['hammer', 'heroin', 'diacetylmorphine']": {
+        "prompt": "English: \"fingernail\" - Fran\u00e7ais: \"ongle\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"bath\" - Fran\u00e7ais: \"salle de bain\"\nEnglish: \"bone\" - Fran\u00e7ais: \"os\"\nEnglish: \"lightbulb\" - Fran\u00e7ais: \"ampoule\"\nEnglish: \"hammer\" - Fran\u00e7ais: \"",
+        "target": "['h\u00e9ro\u00efne', 'diac\u00e9tylmorphine', 'marteau']",
+        "word original": "hammer"
+    },
+    "['hand', 'calligraphy', 'chirography', 'penmanship', 'manus', 'mitt', 'paw', 'Manus']": {
+        "prompt": "English: \"sword\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"bone\" - Fran\u00e7ais: \"os\"\nEnglish: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"hand\" - Fran\u00e7ais: \"",
+        "target": "['calligraphie', 'main', 'patte']",
+        "word original": "hand"
+    },
+    "['hat', 'chapeau', 'lid']": {
+        "prompt": "English: \"match\" - Fran\u00e7ais: \"\u00e9v\u00e9nement sportif\"\nEnglish: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"shelf\" - Fran\u00e7ais: \"rayon\"\nEnglish: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"hat\" - Fran\u00e7ais: \"",
+        "target": "['chapeau', 'Chapeau!', 'couvercle', 'casquette']",
+        "word original": "hat"
+    },
+    "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"agency\" - Fran\u00e7ais: \"organisme\"\nEnglish: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"mouse\" - Fran\u00e7ais: \"souris\"\nEnglish: \"door case\" - Fran\u00e7ais: \"encadrement de porte\"\nEnglish: \"cycle\" - Fran\u00e7ais: \"v\u00e9lo\"\nEnglish: \"heart\" - Fran\u00e7ais: \"",
+        "target": "['c\u0153ur', 'myocarde', 'c\u0153ur humain', 'cavit\u00e9 cardiaque', 'Philia', 'affection', 'philia', 'centre']",
+        "word original": "pump"
+    },
+    "['cornet', 'mouth harp', 'trump', 'juice harp', \"Jew's trump\", 'Ozark harp', 'jaw harp', \"Jew's harp\", 'trumpet', 'guimbarde', 'trumpet player', 'trumpeter', 'horn']": {
+        "prompt": "English: \"door case\" - Fran\u00e7ais: \"encadrement de porte\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"lightbulb\" - Fran\u00e7ais: \"ampoule\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"cornet\" - Fran\u00e7ais: \"",
+        "target": "['citaro', 'trompe-laquais', 'campurgne', 'guimbarde', 'trompettiste', 'harpe \u00e0 bouche', 'trompette tsigane', 'hanche-en-ruban', 'trompe de B\u00e9arn', 'trompette', 'cornet \u00e0 pistons', 'corne']",
+        "word original": "horn"
+    },
+    "['horse', 'Equus caballus']": {
+        "prompt": "English: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"screw\" - Fran\u00e7ais: \"vis de fixation\"\nEnglish: \"network\" - Fran\u00e7ais: \"internet\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"horse\" - Fran\u00e7ais: \"",
+        "target": "['cheval', 'equus caballus']",
+        "word original": "horse"
+    },
+    "['clinic', 'hospital', 'infirmary']": {
+        "prompt": "English: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"oven\" - Fran\u00e7ais: \"four\"\nEnglish: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"hammer\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"",
+        "target": "['h\u00f4pital', 'hosto', 'infirmerie']",
+        "word original": "hospital"
+    },
+    "['house', 'home', 'dwelling', 'theater', 'theatre', 'playhouse', 'business firm', 'casino', 'establishment', 'firm', 'gambling casino', 'household', 'family', 'menage', 'private household', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'auditorium', 'enterprise', 'concern', 'corporation', 'partnership', 'venture', 'company']": {
+        "prompt": "English: \"potato\" - Fran\u00e7ais: \"patate\"\nEnglish: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nEnglish: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"house\" - Fran\u00e7ais: \"",
+        "target": "['domicile', 'maison', 'th\u00e9\u00e2tre', 'salle', 'site', 'casino', 'm\u00e9nage', 'foyer', 'famille', 'habitation', 'r\u00e9sidence', 'logement', 'demeure', 'auditorium', 'amphi', 'boite', 'entreprise', 'bo\u00eete', 'soci\u00e9t\u00e9', 'firme']",
+        "word original": "house"
+    },
+    "['isle', 'island']": {
+        "prompt": "English: \"pig\" - Fran\u00e7ais: \"sanglier\"\nEnglish: \"hand\" - Fran\u00e7ais: \"calligraphie\"\nEnglish: \"cheese\" - Fran\u00e7ais: \"fromage\"\nEnglish: \"teakettle\" - Fran\u00e7ais: \"bouilloire \u00e0 th\u00e9\"\nEnglish: \"carriage\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEnglish: \"isle\" - Fran\u00e7ais: \"",
+        "target": "['ile', '\u00eele']",
+        "word original": "island"
+    },
+    "['gemstone', 'gem', 'stone']": {
+        "prompt": "English: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"cornet\" - Fran\u00e7ais: \"citaro\"\nEnglish: \"ship\" - Fran\u00e7ais: \"navire\"\nEnglish: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"gemstone\" - Fran\u00e7ais: \"",
+        "target": "['joyau', 'gemme', 'pierre pr\u00e9cieuse', 'Gemme']",
+        "word original": "jewel"
+    },
+    "['teakettle', 'kettle', 'tea kettle', 'boiler']": {
+        "prompt": "English: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"book\" - Fran\u00e7ais: \"livre\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"teakettle\" - Fran\u00e7ais: \"",
+        "target": "['bouilloire \u00e0 th\u00e9', 'bouilloire']",
+        "word original": "kettle"
+    },
+    "['key', 'tonality', 'graph', 'chart', 'button', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"pen\" - Fran\u00e7ais: \"p\u00e9nicilline\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"shelf\" - Fran\u00e7ais: \"rayon\"\nEnglish: \"oven\" - Fran\u00e7ais: \"four\"\nEnglish: \"key\" - Fran\u00e7ais: \"",
+        "target": "['tonalit\u00e9', 'clef', 'cl\u00e9', 'diagramme', 'bouton', 'poussoir', 'bouton-poussoir']",
+        "word original": "key"
+    },
+    "['knee', 'genu', 'human knee', 'knee joint', 'articulatio genus']": {
+        "prompt": "English: \"shirt\" - Fran\u00e7ais: \"chemise\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"fly\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEnglish: \"boot\" - Fran\u00e7ais: \"bottine\"\nEnglish: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"knee\" - Fran\u00e7ais: \"",
+        "target": "['genou']",
+        "word original": "knee"
+    },
+    "['knife']": {
+        "prompt": "English: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"nuage\"\nEnglish: \"cycle\" - Fran\u00e7ais: \"v\u00e9lo\"\nEnglish: \"duct\" - Fran\u00e7ais: \"conduite principale\"\nEnglish: \"knife\" - Fran\u00e7ais: \"",
+        "target": "['couteau']",
+        "word original": "knife"
+    },
+    "['knot']": {
+        "prompt": "English: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"snake\" - Fran\u00e7ais: \"serpent\"\nEnglish: \"angle\" - Fran\u00e7ais: \"angles oppos\u00e9s par le sommet\"\nEnglish: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"identity card\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEnglish: \"knot\" - Fran\u00e7ais: \"",
+        "target": "['n\u0153ud']",
+        "word original": "knot"
+    },
+    "['leaf', 'foliage', 'leafage', 'Laphi']": {
+        "prompt": "English: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"gemstone\" - Fran\u00e7ais: \"joyau\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"nuage\"\nEnglish: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"leaf\" - Fran\u00e7ais: \"",
+        "target": "['feuillage', 'feuille']",
+        "word original": "leaf"
+    },
+    "['pin', 'leg', 'legs', 'human leg', 'badge', 'fall', 'personal identification number', 'PIN number', 'Personal identification number']": {
+        "prompt": "English: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"glove\" - Fran\u00e7ais: \"gant\"\nEnglish: \"duct\" - Fran\u00e7ais: \"conduite principale\"\nEnglish: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"pin\" - Fran\u00e7ais: \"",
+        "target": "['jambe', 'jambes', 'membre inf\u00e9rieur humain', '\u00e9pinglette', 'insigne', 'plaque', 'badge', 'd\u00e9coration', 'macaron', 'Code PIN', 'code PIN', \"num\u00e9ro d'identification personnel\", '\u00e9pingle']",
+        "word original": "pin"
+    },
+    "['library']": {
+        "prompt": "English: \"girl\" - Fran\u00e7ais: \"fille\"\nEnglish: \"brake\" - Fran\u00e7ais: \"freinage\"\nEnglish: \"umbrella\" - Fran\u00e7ais: \"p\u00e9pin\"\nEnglish: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"library\" - Fran\u00e7ais: \"",
+        "target": "['librairie', 'biblioth\u00e8que']",
+        "word original": "library"
+    },
+    "['television', 'video', 'TV', 'telecasting', 'videotape recording', 'tv', 'telly', 'idiot box', 'tv set', 'television set', 'boob tube', 'google box', 'television receiver', 'goggle box']": {
+        "prompt": "English: \"ship\" - Fran\u00e7ais: \"navire\"\nEnglish: \"gun\" - Fran\u00e7ais: \"artillerie\"\nEnglish: \"toilet\" - Fran\u00e7ais: \"toilette\"\nEnglish: \"cigar\" - Fran\u00e7ais: \"cigare\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"television\" - Fran\u00e7ais: \"",
+        "target": "['t\u00e9l\u00e9vision', 'vid\u00e9o', 't\u00e9l\u00e9', 't\u00e9loche', 't\u00e9l\u00e9viseur']",
+        "word original": "line"
+    },
+    "['lips', 'lip']": {
+        "prompt": "English: \"pin\" - Fran\u00e7ais: \"jambe\"\nEnglish: \"isle\" - Fran\u00e7ais: \"ile\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"screw\" - Fran\u00e7ais: \"vis de fixation\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"lips\" - Fran\u00e7ais: \"",
+        "target": "['l\u00e8vres', 'l\u00e8vre']",
+        "word original": "lip"
+    },
+    "['lock', 'canal lock', 'lock chamber', 'ringlet', 'hair whorl', 'curl', 'whorl', 'wrestling lock']": {
+        "prompt": "English: \"toes\" - Fran\u00e7ais: \"orteil\"\nEnglish: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"potato\" - Fran\u00e7ais: \"patate\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"leaf\" - Fran\u00e7ais: \"feuillage\"\nEnglish: \"lock\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9cluse', '\u00e9cluse \u00e0 sas', 'sas', 'cadenas', 'boucle', '\u00e9pi de cheveux', 'Pijpenkrul', 'serrure', 'verrou']",
+        "word original": "lock"
+    },
+    "['function', 'position', 'map', 'mapping', 'single-valued function', 'mathematical function', 'do', 'party']": {
+        "prompt": "English: \"fish\" - Fran\u00e7ais: \"poisson\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"stocking\" - Fran\u00e7ais: \"bas\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"function\" - Fran\u00e7ais: \"",
+        "target": "['fonction', 'application', 'fonction monovalu\u00e9e', 'f\u00eate', 'c\u00e9l\u00e9bration']",
+        "word original": "map"
+    },
+    "['match', 'sporting event', 'sports competition', 'competitive sport', 'high-performance sport', 'friction match', 'lucifer']": {
+        "prompt": "English: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"knife\" - Fran\u00e7ais: \"couteau\"\nEnglish: \"pig\" - Fran\u00e7ais: \"sanglier\"\nEnglish: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"match\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9v\u00e9nement sportif', 'sport de haut niveau', 'comp\u00e9tition sportive', 'sport de comp\u00e9tition', 'allumette']",
+        "word original": "match"
+    },
+    "['monkey']": {
+        "prompt": "English: \"bell\" - Fran\u00e7ais: \"cloche\"\nEnglish: \"bucket\" - Fran\u00e7ais: \"seau\"\nEnglish: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"bird\" - Fran\u00e7ais: \"oiseau\"\nEnglish: \"fly\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEnglish: \"monkey\" - Fran\u00e7ais: \"",
+        "target": "['singe']",
+        "word original": "monkey"
+    },
+    "['natural satellite', 'moon', 'moons']": {
+        "prompt": "English: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"bed\" - Fran\u00e7ais: \"lit\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"natural satellite\" - Fran\u00e7ais: \"",
+        "target": "['lune', 'satellite naturel']",
+        "word original": "moon"
+    },
+    "['mouth', 'oral cavity', 'oral fissure', 'rima oris', 'buccal cavity', 'vestibule of mouth']": {
+        "prompt": "English: \"passenger train\" - Fran\u00e7ais: \"train\"\nEnglish: \"bath\" - Fran\u00e7ais: \"salle de bain\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"mouth\" - Fran\u00e7ais: \"",
+        "target": "['cavit\u00e9 buccale', 'bouche', 'cavit\u00e9 orale', 'gueule', 'vestibule de la bouche']",
+        "word original": "mouth"
+    },
+    "['musculus', 'muscle']": {
+        "prompt": "English: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"chest\" - Fran\u00e7ais: \"coffre\"\nEnglish: \"horse\" - Fran\u00e7ais: \"cheval\"\nEnglish: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"musculus\" - Fran\u00e7ais: \"",
+        "target": "['muscle']",
+        "word original": "muscle"
+    },
+    "['fingernail', 'nail']": {
+        "prompt": "English: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"cloud\" - Fran\u00e7ais: \"nuage\"\nEnglish: \"identity card\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEnglish: \"potato\" - Fran\u00e7ais: \"patate\"\nEnglish: \"toes\" - Fran\u00e7ais: \"orteil\"\nEnglish: \"fingernail\" - Fran\u00e7ais: \"",
+        "target": "['ongle']",
+        "word original": "nail"
+    },
+    "['neck', 'Nixie', 'cervix', 'Cervix']": {
+        "prompt": "English: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"angle\" - Fran\u00e7ais: \"angles oppos\u00e9s par le sommet\"\nEnglish: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"boy\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"girl\" - Fran\u00e7ais: \"fille\"\nEnglish: \"neck\" - Fran\u00e7ais: \"",
+        "target": "['nixe', 'Nixe', 'cou', 'nuque']",
+        "word original": "neck"
+    },
+    "['needle', 'sewing needle', 'hypodermic needle']": {
+        "prompt": "English: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"star\" - Fran\u00e7ais: \"\u00e9toile\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"economics\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEnglish: \"needle\" - Fran\u00e7ais: \"",
+        "target": "['aiguille \u00e0 coudre', 'aiguille', 'aiguille hypodermique', \"canule d'injection\", '\u00e9pingle']",
+        "word original": "needle"
+    },
+    "['nerve', 'nervus']": {
+        "prompt": "English: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"match\" - Fran\u00e7ais: \"\u00e9v\u00e9nement sportif\"\nEnglish: \"nerve\" - Fran\u00e7ais: \"",
+        "target": "['nerf']",
+        "word original": "nerve"
+    },
+    "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'television broadcaster', 'television network', 'mesh', 'meshwork', 'meshing', 'knitting stitch']": {
+        "prompt": "English: \"scissors\" - Fran\u00e7ais: \"paire de ciseaux\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"voilier\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"human body\" - Fran\u00e7ais: \"corps humain\"\nEnglish: \"toes\" - Fran\u00e7ais: \"orteil\"\nEnglish: \"network\" - Fran\u00e7ais: \"",
+        "target": "['internet', 'r\u00e9seau informatique', 'r\u00e9seau', 'Internet', 'cyberespace', 'r\u00e9seau de t\u00e9l\u00e9vision', 'filet', 'maille de tricot', 'maillage', 'tissus']",
+        "word original": "net"
+    },
+    "['nose', 'olfactory organ']": {
+        "prompt": "English: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"boy\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"nose\" - Fran\u00e7ais: \"",
+        "target": "['nez', 'pif']",
+        "word original": "nose"
+    },
+    "['nut', 'ballock', 'egg cell', 'testis', 'egg', 'orchis', 'ovum', 'ball', 'testicle', 'bollock', 'bollocks']": {
+        "prompt": "English: \"human body\" - Fran\u00e7ais: \"corps humain\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"goat\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEnglish: \"throat\" - Fran\u00e7ais: \"gorge\"\nEnglish: \"isle\" - Fran\u00e7ais: \"ile\"\nEnglish: \"nut\" - Fran\u00e7ais: \"",
+        "target": "['testicule', 'ovule', 'couille', '\u0153uf', 'couilles', 'pruneaux', 'bijoux de famille', 'valseuses', 'Testicule', '\u00e9crou']",
+        "word original": "nut"
+    },
+    "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'means', 'way']": {
+        "prompt": "English: \"bucket\" - Fran\u00e7ais: \"seau\"\nEnglish: \"seed\" - Fran\u00e7ais: \"graine\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"cup\" - Fran\u00e7ais: \"tasse\"\nEnglish: \"agency\" - Fran\u00e7ais: \"",
+        "target": "['organisme', 'autorit\u00e9', 'agence', 'bureau', 'agence publique', 'minist\u00e8re', 'office', 'administration f\u00e9d\u00e9rale', 'moyen']",
+        "word original": "office"
+    },
+    "['orangeness', 'orange']": {
+        "prompt": "English: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"brake\" - Fran\u00e7ais: \"freinage\"\nEnglish: \"fish\" - Fran\u00e7ais: \"poisson\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"orangeness\" - Fran\u00e7ais: \"",
+        "target": "['orange']",
+        "word original": "orange"
+    },
+    "['oven']": {
+        "prompt": "English: \"arch\" - Fran\u00e7ais: \"arc\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"pants\" - Fran\u00e7ais: \"falzar\"\nEnglish: \"oven\" - Fran\u00e7ais: \"",
+        "target": "['four']",
+        "word original": "oven"
+    },
+    "['parcel', 'package', 'packet', 'bundle', 'share', 'portion']": {
+        "prompt": "English: \"goat\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEnglish: \"brush\" - Fran\u00e7ais: \"frutic\u00e9e\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"pen\" - Fran\u00e7ais: \"p\u00e9nicilline\"\nEnglish: \"parcel\" - Fran\u00e7ais: \"",
+        "target": "['paquet', 'faisceau', 'fagot', 'paquetage', 'colis', 'portion']",
+        "word original": "parcel"
+    },
+    "['pen', 'penicillin']": {
+        "prompt": "English: \"sword\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"pen\" - Fran\u00e7ais: \"",
+        "target": "['p\u00e9nicilline', 'stylographe', 'stylo \u00e0 encre', 'stylo']",
+        "word original": "pen"
+    },
+    "['pencil']": {
+        "prompt": "English: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"dog\" - Fran\u00e7ais: \"chien\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"boat\" - Fran\u00e7ais: \"bateau\"\nEnglish: \"pencil\" - Fran\u00e7ais: \"",
+        "target": "['crayon']",
+        "word original": "pencil"
+    },
+    "['movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture', 'picture show', 'moving-picture show']": {
+        "prompt": "English: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"throat\" - Fran\u00e7ais: \"gorge\"\nEnglish: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"bottle\" - Fran\u00e7ais: \"bouteille\"\nEnglish: \"movie\" - Fran\u00e7ais: \"",
+        "target": "['film', 'pellicule']",
+        "word original": "picture"
+    },
+    "['pig', 'boar', 'wild hog', 'wild boar', 'Sus scrofa', 'wild pig', 'hog', 'grunter', 'squealer', 'Sus', 'pork', 'porc', 'pork meat', 'policeman', 'police officer', 'policewoman', 'cop', 'officer']": {
+        "prompt": "English: \"bone\" - Fran\u00e7ais: \"os\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"plough\" - Fran\u00e7ais: \"charrue\"\nEnglish: \"pig\" - Fran\u00e7ais: \"",
+        "target": "['sanglier', 'porc', 'cochon', 'Sus', 'Sus scrofa domestica', 'viande de porc', 'gardien de la paix', 'policier', 'cogne', 'officier de police', 'flic', 'keuf', 'poulet', 'polici\u00e8re', 'gendarme']",
+        "word original": "pig"
+    },
+    "['duct', 'aqueduct', 'main pipe', 'conduit', 'water main', 'main', 'pipe', 'pipage', 'piping']": {
+        "prompt": "English: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"plough\" - Fran\u00e7ais: \"charrue\"\nEnglish: \"function\" - Fran\u00e7ais: \"fonction\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"musculus\" - Fran\u00e7ais: \"muscle\"\nEnglish: \"duct\" - Fran\u00e7ais: \"",
+        "target": "['conduite principale', 'aqueduc', 'tuyau', 'conduit', 'canalisation']",
+        "word original": "pipe"
+    },
+    "['aeroplane', 'aircraft', 'airplane', 'fixed-wing aircraft', 'plane']": {
+        "prompt": "English: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"bridge\" - Fran\u00e7ais: \"pont\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"boy\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"book\" - Fran\u00e7ais: \"livre\"\nEnglish: \"aeroplane\" - Fran\u00e7ais: \"",
+        "target": "['appareil volant', 'a\u00e9ronef', 'avion', 'a\u00e9roplane']",
+        "word original": "plane"
+    },
+    "['plough', 'plow']": {
+        "prompt": "English: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"boy\" - Fran\u00e7ais: \"h\u00e9ro\u00efne\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"plough\" - Fran\u00e7ais: \"",
+        "target": "['charrue']",
+        "word original": "plough"
+    },
+    "['pocket', 'trouser pocket']": {
+        "prompt": "English: \"jail\" - Fran\u00e7ais: \"prison\"\nEnglish: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"tail\" - Fran\u00e7ais: \"miches\"\nEnglish: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"match\" - Fran\u00e7ais: \"\u00e9v\u00e9nement sportif\"\nEnglish: \"pocket\" - Fran\u00e7ais: \"",
+        "target": "['poche', 'poche pantalon', 'poche de pantalon']",
+        "word original": "pocket"
+    },
+    "['toilet', 'can', 'lavatory', 'loo', 'commode', 'pot', 'throne', 'crapper', 'stool', 'potty', 'chamber pot', 'lav', 'privy', 'john', 'bathroom', 'washroom', 'restroom', 'bog', 'water closet', 'WC']": {
+        "prompt": "English: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"key\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"natural satellite\" - Fran\u00e7ais: \"lune\"\nEnglish: \"toilet\" - Fran\u00e7ais: \"",
+        "target": "['toilette', 'toilettes', 'pot de chambre', 'pot', 'salle de bain', 'cabinet de toilette', 'salle de bains']",
+        "word original": "pot"
+    },
+    "['potato', 'tater', 'spud', 'murphy', 'white potato', 'Irish potato']": {
+        "prompt": "English: \"clock\" - Fran\u00e7ais: \"horloge\"\nEnglish: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"shelf\" - Fran\u00e7ais: \"rayon\"\nEnglish: \"pants\" - Fran\u00e7ais: \"falzar\"\nEnglish: \"button\" - Fran\u00e7ais: \"curling\"\nEnglish: \"potato\" - Fran\u00e7ais: \"",
+        "target": "['patate', 'pomme de terre']",
+        "word original": "potato"
+    },
+    "['jail', 'prison', 'gaol', 'lockup', 'prison house', 'jailhouse', 'slammer', 'clink', 'pokey', 'poky']": {
+        "prompt": "English: \"hand\" - Fran\u00e7ais: \"calligraphie\"\nEnglish: \"sink\" - Fran\u00e7ais: \"doline\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"seed\" - Fran\u00e7ais: \"graine\"\nEnglish: \"library\" - Fran\u00e7ais: \"librairie\"\nEnglish: \"jail\" - Fran\u00e7ais: \"",
+        "target": "['prison', 'p\u00e9nitencier', 't\u00f4le', 'trou', 'placard', 'taule', 'ge\u00f4le', 'cabane']",
+        "word original": "prison"
+    },
+    "['mouse', 'rat', 'Mus', 'computer mouse']": {
+        "prompt": "English: \"wall\" - Fran\u00e7ais: \"mur\"\nEnglish: \"leaf\" - Fran\u00e7ais: \"feuillage\"\nEnglish: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"pocket\" - Fran\u00e7ais: \"poche\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"mouse\" - Fran\u00e7ais: \"",
+        "target": "['souris', 'rat', 'Mus']",
+        "word original": "rat"
+    },
+    "['note', 'banknote', 'bill', 'bank note', 'greenback', 'bank bill', \"banker's bill\", 'Federal Reserve note', 'government note', 'Greenback', 'letter', 'missive', 'receipt', 'invoice', 'account', 'commentary', 'comment']": {
+        "prompt": "English: \"ant\" - Fran\u00e7ais: \"fourmi\"\nEnglish: \"shelf\" - Fran\u00e7ais: \"rayon\"\nEnglish: \"bucket\" - Fran\u00e7ais: \"seau\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"hen's egg\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEnglish: \"note\" - Fran\u00e7ais: \"",
+        "target": "['billet', 'billet de banque', 'facture', 'greenback', 'Greenback', 'lettre', 'missive', 'courrier', 'addition', 'compte', 'commentaire', 'Commentaire']",
+        "word original": "receipt"
+    },
+    "['corporal punishment']": {
+        "prompt": "English: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"bridge\" - Fran\u00e7ais: \"pont\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"voilier\"\nEnglish: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"corporal punishment\" - Fran\u00e7ais: \"",
+        "target": "['ch\u00e2timent corporel']",
+        "word original": "rod"
+    },
+    "['roof']": {
+        "prompt": "English: \"match\" - Fran\u00e7ais: \"\u00e9v\u00e9nement sportif\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"knife\" - Fran\u00e7ais: \"couteau\"\nEnglish: \"circle\" - Fran\u00e7ais: \"cercle\"\nEnglish: \"lips\" - Fran\u00e7ais: \"l\u00e8vres\"\nEnglish: \"roof\" - Fran\u00e7ais: \"",
+        "target": "['toit']",
+        "word original": "roof"
+    },
+    "['sailing ship', 'sail', 'sailing vessel']": {
+        "prompt": "English: \"television\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"motor\" - Fran\u00e7ais: \"moteur \u00e9lectrique\"\nEnglish: \"note\" - Fran\u00e7ais: \"billet\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"",
+        "target": "['voilier']",
+        "word original": "sail"
+    },
+    "['school', 'university', 'academy', 'faculty', 'staff', 'honorary society']": {
+        "prompt": "English: \"economics\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEnglish: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"button\" - Fran\u00e7ais: \"curling\"\nEnglish: \"arch\" - Fran\u00e7ais: \"arc\"\nEnglish: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"school\" - Fran\u00e7ais: \"",
+        "target": "['acad\u00e9mie', 'universit\u00e9', '\u00e9cole', 'coll\u00e8ge', 'facult\u00e9', 'U.F.R.', 'U.E.R.', 'composante', 'personnel', 'univ', 'fac']",
+        "word original": "school"
+    },
+    "['scissors', 'pair of scissors']": {
+        "prompt": "English: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"cow\" - Fran\u00e7ais: \"vache\"\nEnglish: \"fish\" - Fran\u00e7ais: \"poisson\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"scissors\" - Fran\u00e7ais: \"",
+        "target": "['paire de ciseaux', 'ciseaux']",
+        "word original": "scissors"
+    },
+    "['screw', 'wood screw']": {
+        "prompt": "English: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"boot\" - Fran\u00e7ais: \"bottine\"\nEnglish: \"sailing ship\" - Fran\u00e7ais: \"voilier\"\nEnglish: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"screw\" - Fran\u00e7ais: \"",
+        "target": "['vis de fixation', 'vis']",
+        "word original": "screw"
+    },
+    "['seed']": {
+        "prompt": "English: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"jacket\" - Fran\u00e7ais: \"veste\"\nEnglish: \"bridge\" - Fran\u00e7ais: \"pont\"\nEnglish: \"identity card\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEnglish: \"bell\" - Fran\u00e7ais: \"cloche\"\nEnglish: \"seed\" - Fran\u00e7ais: \"",
+        "target": "['graine', 'semence']",
+        "word original": "seed"
+    },
+    "['domestic sheep', 'sheep', 'ovine', 'Ovis aries', 'domesticated sheep']": {
+        "prompt": "English: \"isle\" - Fran\u00e7ais: \"ile\"\nEnglish: \"fish\" - Fran\u00e7ais: \"poisson\"\nEnglish: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"skirt\" - Fran\u00e7ais: \"jupe\"\nEnglish: \"seed\" - Fran\u00e7ais: \"graine\"\nEnglish: \"domestic sheep\" - Fran\u00e7ais: \"",
+        "target": "['mouton', 'ovid\u00e9', 'Ovis aries', 'mouton domestique', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['shelf']": {
+        "prompt": "English: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"hand\" - Fran\u00e7ais: \"calligraphie\"\nEnglish: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"garden\" - Fran\u00e7ais: \"jardin\"\nEnglish: \"shelf\" - Fran\u00e7ais: \"",
+        "target": "['rayon', '\u00e9tag\u00e8re', 'tablard', 'tablette']",
+        "word original": "shelf"
+    },
+    "['ship']": {
+        "prompt": "English: \"neck\" - Fran\u00e7ais: \"nixe\"\nEnglish: \"shirt\" - Fran\u00e7ais: \"chemise\"\nEnglish: \"boat\" - Fran\u00e7ais: \"bateau\"\nEnglish: \"watch\" - Fran\u00e7ais: \"bracelet-montre\"\nEnglish: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"ship\" - Fran\u00e7ais: \"",
+        "target": "['navire', 'bateau']",
+        "word original": "ship"
+    },
+    "['shirt']": {
+        "prompt": "English: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"circle\" - Fran\u00e7ais: \"cercle\"\nEnglish: \"watch\" - Fran\u00e7ais: \"bracelet-montre\"\nEnglish: \"gate\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"network\" - Fran\u00e7ais: \"internet\"\nEnglish: \"shirt\" - Fran\u00e7ais: \"",
+        "target": "['chemise']",
+        "word original": "shirt"
+    },
+    "['shoe']": {
+        "prompt": "English: \"monkey\" - Fran\u00e7ais: \"singe\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"fork\" - Fran\u00e7ais: \"affluent\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"shoe\" - Fran\u00e7ais: \"",
+        "target": "['soulier', 'tatane', 'chaussure', 'pompe', 'grolle', 'godasse']",
+        "word original": "tongue"
+    },
+    "['skin', 'tegument', 'cutis', 'Cutis']": {
+        "prompt": "English: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"amortisseur\"\nEnglish: \"nut\" - Fran\u00e7ais: \"testicule\"\nEnglish: \"spring\" - Fran\u00e7ais: \"source\"\nEnglish: \"skin\" - Fran\u00e7ais: \"",
+        "target": "['peau', 't\u00e9gument', 'cuir']",
+        "word original": "skin"
+    },
+    "['skirt']": {
+        "prompt": "English: \"tree\" - Fran\u00e7ais: \"arbre\"\nEnglish: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"lock\" - Fran\u00e7ais: \"\u00e9cluse\"\nEnglish: \"finger\" - Fran\u00e7ais: \"doigt d'honneur\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"skirt\" - Fran\u00e7ais: \"",
+        "target": "['jupe']",
+        "word original": "skirt"
+    },
+    "['snake', 'serpent', 'ophidian']": {
+        "prompt": "English: \"human foot\" - Fran\u00e7ais: \"pied\"\nEnglish: \"natural satellite\" - Fran\u00e7ais: \"lune\"\nEnglish: \"star\" - Fran\u00e7ais: \"\u00e9toile\"\nEnglish: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"bone\" - Fran\u00e7ais: \"os\"\nEnglish: \"snake\" - Fran\u00e7ais: \"",
+        "target": "['serpent', 'ophidien', 'serpentes']",
+        "word original": "snake"
+    },
+    "['sock']": {
+        "prompt": "English: \"eye\" - Fran\u00e7ais: \"yeux\"\nEnglish: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"apple peel\" - Fran\u00e7ais: \"peau de pomme\"\nEnglish: \"worm\" - Fran\u00e7ais: \"dragon europ\u00e9en\"\nEnglish: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"sock\" - Fran\u00e7ais: \"",
+        "target": "['chaussette', 'bas']",
+        "word original": "sock"
+    },
+    "['marine sponge', 'sponges', 'poriferan', 'sponge', 'parazoan', 'Porifera']": {
+        "prompt": "English: \"human foot\" - Fran\u00e7ais: \"pied\"\nEnglish: \"clothes\" - Fran\u00e7ais: \"fringue\"\nEnglish: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"taking into custody\" - Fran\u00e7ais: \"arrestation\"\nEnglish: \"carriage\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEnglish: \"marine sponge\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9ponge', '\u00e9ponges', 'Porifera', 'parazoaire']",
+        "word original": "sponge"
+    },
+    "['spoon']": {
+        "prompt": "English: \"stamp\" - Fran\u00e7ais: \"timbre-poste\"\nEnglish: \"whip\" - Fran\u00e7ais: \"fouet\"\nEnglish: \"match\" - Fran\u00e7ais: \"\u00e9v\u00e9nement sportif\"\nEnglish: \"stocking\" - Fran\u00e7ais: \"bas\"\nEnglish: \"sock\" - Fran\u00e7ais: \"chaussette\"\nEnglish: \"spoon\" - Fran\u00e7ais: \"",
+        "target": "['cuill\u00e8re', 'cuiller']",
+        "word original": "spoon"
+    },
+    "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'season', 'time of year', 'springtime']": {
+        "prompt": "English: \"cornet\" - Fran\u00e7ais: \"citaro\"\nEnglish: \"hat\" - Fran\u00e7ais: \"chapeau\"\nEnglish: \"ant\" - Fran\u00e7ais: \"fourmi\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"hand\" - Fran\u00e7ais: \"calligraphie\"\nEnglish: \"spring\" - Fran\u00e7ais: \"",
+        "target": "['source', 'saison', 'printemps', 'ressort']",
+        "word original": "spring"
+    },
+    "['square', 'town square', 'public square', 'foursquare', 'second power']": {
+        "prompt": "English: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"jail\" - Fran\u00e7ais: \"prison\"\nEnglish: \"clock\" - Fran\u00e7ais: \"horloge\"\nEnglish: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"square\" - Fran\u00e7ais: \"",
+        "target": "['place', 'esplanade', 'carr\u00e9', 'carr\u00e9 en je broertjte']",
+        "word original": "square"
+    },
+    "['stamp', 'postage', 'postage stamp', 'seal ring', 'signet ring', 'seal']": {
+        "prompt": "English: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"boat\" - Fran\u00e7ais: \"bateau\"\nEnglish: \"thumb\" - Fran\u00e7ais: \"pouce\"\nEnglish: \"orangeness\" - Fran\u00e7ais: \"orange\"\nEnglish: \"cake\" - Fran\u00e7ais: \"g\u00e2teau\"\nEnglish: \"stamp\" - Fran\u00e7ais: \"",
+        "target": "['timbre-poste', 'timbre', 'timbre postal', 'bague sigillaire', 'chevali\u00e8re', 'anneau sigillaire', 'sceau', 'tampon', 'cachet']",
+        "word original": "stamp"
+    },
+    "['star', 'asterisk', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']": {
+        "prompt": "English: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"hair\" - Fran\u00e7ais: \"chevelure\"\nEnglish: \"boxes\" - Fran\u00e7ais: \"caisse\"\nEnglish: \"sill\" - Fran\u00e7ais: \"rebord\"\nEnglish: \"hen's egg\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEnglish: \"star\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9toile', 'ast\u00e9risque', 'superstar', 'sp\u00e9cialiste', 'vedette', 'connaisseur', 'as', 'machine', 'expert', 'champion', 'Maven', 'virtuose', 'g\u00e9nie', 'b\u00eate', 'effet superstar', 'sommit\u00e9']",
+        "word original": "star"
+    },
+    "['stem', 'stalk', 'plant stem']": {
+        "prompt": "English: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"hen's egg\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"amortisseur\"\nEnglish: \"chin\" - Fran\u00e7ais: \"menton\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"stem\" - Fran\u00e7ais: \"",
+        "target": "['tige']",
+        "word original": "stem"
+    },
+    "['cigar']": {
+        "prompt": "English: \"bell\" - Fran\u00e7ais: \"cloche\"\nEnglish: \"television\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEnglish: \"weapon\" - Fran\u00e7ais: \"arme\"\nEnglish: \"toilet\" - Fran\u00e7ais: \"toilette\"\nEnglish: \"network\" - Fran\u00e7ais: \"internet\"\nEnglish: \"cigar\" - Fran\u00e7ais: \"",
+        "target": "['cigare']",
+        "word original": "stick"
+    },
+    "['stocking', 'stockings']": {
+        "prompt": "English: \"farm\" - Fran\u00e7ais: \"ferme\"\nEnglish: \"worm\" - Fran\u00e7ais: \"dragon europ\u00e9en\"\nEnglish: \"head\" - Fran\u00e7ais: \"psych\u00e9\"\nEnglish: \"thread\" - Fran\u00e7ais: \"fil\"\nEnglish: \"drop\" - Fran\u00e7ais: \"rempart montagneux\"\nEnglish: \"stocking\" - Fran\u00e7ais: \"",
+        "target": "['bas']",
+        "word original": "stocking"
+    },
+    "['stomach', 'breadbasket', 'tummy', 'tum', 'body of stomach']": {
+        "prompt": "English: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"cheese\" - Fran\u00e7ais: \"fromage\"\nEnglish: \"jail\" - Fran\u00e7ais: \"prison\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"ear\" - Fran\u00e7ais: \"oreille\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"",
+        "target": "['estomac', 'ventre']",
+        "word original": "stomach"
+    },
+    "['computer memory', 'computer storage', 'computer data storage', 'storage', 'memory', 'memory board', 'store']": {
+        "prompt": "English: \"fly\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEnglish: \"button\" - Fran\u00e7ais: \"curling\"\nEnglish: \"key\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEnglish: \"angle\" - Fran\u00e7ais: \"angles oppos\u00e9s par le sommet\"\nEnglish: \"needle\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nEnglish: \"computer memory\" - Fran\u00e7ais: \"",
+        "target": "['m\u00e9moire', 'm\u00e9moire informatique', 'm\u00e9moire de stockage']",
+        "word original": "store"
+    },
+    "['street']": {
+        "prompt": "English: \"orangeness\" - Fran\u00e7ais: \"orange\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"ring\" - Fran\u00e7ais: \"anneau\"\nEnglish: \"toes\" - Fran\u00e7ais: \"orteil\"\nEnglish: \"street\" - Fran\u00e7ais: \"",
+        "target": "['rue']",
+        "word original": "street"
+    },
+    "['Sunday', 'Sun', \"Lord's Day\", 'Dominicus']": {
+        "prompt": "English: \"plough\" - Fran\u00e7ais: \"charrue\"\nEnglish: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"bottle\" - Fran\u00e7ais: \"bouteille\"\nEnglish: \"key\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEnglish: \"shock absorber\" - Fran\u00e7ais: \"amortisseur\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"",
+        "target": "['dimanche', 'jour du Seigneur', 'Dimanche']",
+        "word original": "sun"
+    },
+    "['tail', 'nates', 'prat', 'fundament', 'ass cheek', 'tooshie', 'fanny', 'rear end', 'arse', 'can', 'seat', 'tush', 'hindquarters', 'derriere', 'tail end', 'hind end', 'bum', 'bottom', 'backside', 'buttocks', 'posterior', 'rump', 'butt', 'stern', 'rear', 'buns', 'butt cheek', 'ass', 'buttock', 'keister', 'behind', 'Anteversion']": {
+        "prompt": "English: \"knot\" - Fran\u00e7ais: \"n\u0153ud\"\nEnglish: \"movie\" - Fran\u00e7ais: \"film\"\nEnglish: \"toilet\" - Fran\u00e7ais: \"toilette\"\nEnglish: \"taking into custody\" - Fran\u00e7ais: \"arrestation\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"tail\" - Fran\u00e7ais: \"",
+        "target": "['miches', 'fesses', 'fouind\u00e9', 's\u00e9ant', 'post\u00e9rieur', 'fesse', 'derri\u00e8re', 'pleine lune', 'lune', 'cul', 'fessier', 'arri\u00e8re-train', 'R\u00e9troversion', 'r\u00e9troversion', 'si\u00e8ge', 'queue']",
+        "word original": "tail"
+    },
+    "['thread', 'yarn', 'string', 'twine']": {
+        "prompt": "English: \"computer memory\" - Fran\u00e7ais: \"m\u00e9moire\"\nEnglish: \"marine sponge\" - Fran\u00e7ais: \"\u00e9ponge\"\nEnglish: \"leaf\" - Fran\u00e7ais: \"feuillage\"\nEnglish: \"parcel\" - Fran\u00e7ais: \"paquet\"\nEnglish: \"stomach\" - Fran\u00e7ais: \"estomac\"\nEnglish: \"thread\" - Fran\u00e7ais: \"",
+        "target": "['fil', 'fil textile', 'ficelle', 'corde']",
+        "word original": "thread"
+    },
+    "['throat', 'pharynx']": {
+        "prompt": "English: \"natural satellite\" - Fran\u00e7ais: \"lune\"\nEnglish: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"hat\" - Fran\u00e7ais: \"chapeau\"\nEnglish: \"flag\" - Fran\u00e7ais: \"drapeau\"\nEnglish: \"throat\" - Fran\u00e7ais: \"",
+        "target": "['gorge', 'pharynx']",
+        "word original": "throat"
+    },
+    "['thumb', 'pollex']": {
+        "prompt": "English: \"marine sponge\" - Fran\u00e7ais: \"\u00e9ponge\"\nEnglish: \"goat\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEnglish: \"face\" - Fran\u00e7ais: \"fonte de caract\u00e8res\"\nEnglish: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nEnglish: \"bucket\" - Fran\u00e7ais: \"seau\"\nEnglish: \"thumb\" - Fran\u00e7ais: \"",
+        "target": "['pouce']",
+        "word original": "thumb"
+    },
+    "['toes', 'baby toe', 'toe', 'little toe', 'pinky toe', 'fifth toe', 'second toe', 'third toe']": {
+        "prompt": "English: \"shoe\" - Fran\u00e7ais: \"soulier\"\nEnglish: \"economics\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEnglish: \"aeroplane\" - Fran\u00e7ais: \"appareil volant\"\nEnglish: \"throat\" - Fran\u00e7ais: \"gorge\"\nEnglish: \"cup\" - Fran\u00e7ais: \"tasse\"\nEnglish: \"toes\" - Fran\u00e7ais: \"",
+        "target": "['orteil', 'doigt de pied', 'doigts de pied', 'petit orteil']",
+        "word original": "toe"
+    },
+    "['tooth', 'teeth', 'human tooth']": {
+        "prompt": "English: \"taking into custody\" - Fran\u00e7ais: \"arrestation\"\nEnglish: \"watch\" - Fran\u00e7ais: \"bracelet-montre\"\nEnglish: \"skirt\" - Fran\u00e7ais: \"jupe\"\nEnglish: \"wing\" - Fran\u00e7ais: \"aile\"\nEnglish: \"shirt\" - Fran\u00e7ais: \"chemise\"\nEnglish: \"tooth\" - Fran\u00e7ais: \"",
+        "target": "['dents', 'dent', 'dent humaine']",
+        "word original": "tooth"
+    },
+    "['passenger train', 'train', 'railroad train']": {
+        "prompt": "English: \"comb\" - Fran\u00e7ais: \"peigne\"\nEnglish: \"armed forces\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEnglish: \"skin\" - Fran\u00e7ais: \"peau\"\nEnglish: \"Sunday\" - Fran\u00e7ais: \"dimanche\"\nEnglish: \"computer memory\" - Fran\u00e7ais: \"m\u00e9moire\"\nEnglish: \"passenger train\" - Fran\u00e7ais: \"",
+        "target": "['train', 'convoi']",
+        "word original": "train"
+    },
+    "['tree']": {
+        "prompt": "English: \"cake\" - Fran\u00e7ais: \"g\u00e2teau\"\nEnglish: \"thumb\" - Fran\u00e7ais: \"pouce\"\nEnglish: \"square\" - Fran\u00e7ais: \"place\"\nEnglish: \"passenger train\" - Fran\u00e7ais: \"train\"\nEnglish: \"nerve\" - Fran\u00e7ais: \"nerf\"\nEnglish: \"tree\" - Fran\u00e7ais: \"",
+        "target": "['arbre']",
+        "word original": "tree"
+    },
+    "['pants', 'trousers', 'pair of trousers', 'pant', 'trouser']": {
+        "prompt": "English: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"agency\" - Fran\u00e7ais: \"organisme\"\nEnglish: \"door case\" - Fran\u00e7ais: \"encadrement de porte\"\nEnglish: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"tooth\" - Fran\u00e7ais: \"dents\"\nEnglish: \"pants\" - Fran\u00e7ais: \"",
+        "target": "['falzar', 'falzard', 'b\u00e9noche', 'fendard', 'futal', 'fute', 'froc', 'pantalon', 'b\u00e9nard']",
+        "word original": "trousers"
+    },
+    "['umbrella']": {
+        "prompt": "English: \"stocking\" - Fran\u00e7ais: \"bas\"\nEnglish: \"worm\" - Fran\u00e7ais: \"dragon europ\u00e9en\"\nEnglish: \"lightbulb\" - Fran\u00e7ais: \"ampoule\"\nEnglish: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"human body\" - Fran\u00e7ais: \"corps humain\"\nEnglish: \"umbrella\" - Fran\u00e7ais: \"",
+        "target": "['p\u00e9pin', 'parapluie', 'p\u00e9broque', 'riflard', 'en-cas', 'ombrelle']",
+        "word original": "umbrella"
+    },
+    "['wall']": {
+        "prompt": "English: \"roof\" - Fran\u00e7ais: \"toit\"\nEnglish: \"knee\" - Fran\u00e7ais: \"genou\"\nEnglish: \"pussy\" - Fran\u00e7ais: \"minou\"\nEnglish: \"agency\" - Fran\u00e7ais: \"organisme\"\nEnglish: \"oven\" - Fran\u00e7ais: \"four\"\nEnglish: \"wall\" - Fran\u00e7ais: \"",
+        "target": "['mur']",
+        "word original": "wall"
+    },
+    "['watch', 'wrist watch', 'wristwatch', 'ticker']": {
+        "prompt": "English: \"nut\" - Fran\u00e7ais: \"testicule\"\nEnglish: \"school\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEnglish: \"pants\" - Fran\u00e7ais: \"falzar\"\nEnglish: \"finger\" - Fran\u00e7ais: \"doigt d'honneur\"\nEnglish: \"street\" - Fran\u00e7ais: \"rue\"\nEnglish: \"watch\" - Fran\u00e7ais: \"",
+        "target": "['bracelet-montre', 'montre', 'montre-bracelet']",
+        "word original": "watch"
+    },
+    "['cycle', 'bicycle', 'bike', 'wheel', 'round', 'rhythm']": {
+        "prompt": "English: \"fingernail\" - Fran\u00e7ais: \"ongle\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"bee\" - Fran\u00e7ais: \"abeille\"\nEnglish: \"circle\" - Fran\u00e7ais: \"cercle\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"cycle\" - Fran\u00e7ais: \"",
+        "target": "['v\u00e9lo', 'bicyclette', 'petite reine', 'v\u00e9locip\u00e8de', 'rythme', 'tour']",
+        "word original": "wheel"
+    },
+    "['whip']": {
+        "prompt": "English: \"parcel\" - Fran\u00e7ais: \"paquet\"\nEnglish: \"clothes\" - Fran\u00e7ais: \"fringue\"\nEnglish: \"stem\" - Fran\u00e7ais: \"tige\"\nEnglish: \"boot\" - Fran\u00e7ais: \"bottine\"\nEnglish: \"heart\" - Fran\u00e7ais: \"c\u0153ur\"\nEnglish: \"whip\" - Fran\u00e7ais: \"",
+        "target": "['fouet']",
+        "word original": "whip"
+    },
+    "['sill', 'window ledge', 'window', 'window sill', 'ledge-sill']": {
+        "prompt": "English: \"domestic sheep\" - Fran\u00e7ais: \"mouton\"\nEnglish: \"clothes\" - Fran\u00e7ais: \"fringue\"\nEnglish: \"bucket\" - Fran\u00e7ais: \"seau\"\nEnglish: \"lightbulb\" - Fran\u00e7ais: \"ampoule\"\nEnglish: \"clinic\" - Fran\u00e7ais: \"h\u00f4pital\"\nEnglish: \"sill\" - Fran\u00e7ais: \"",
+        "target": "['rebord', 'fen\u00eatre', 'rebord de fen\u00eatre']",
+        "word original": "window"
+    },
+    "['wing']": {
+        "prompt": "English: \"note\" - Fran\u00e7ais: \"billet\"\nEnglish: \"clothes\" - Fran\u00e7ais: \"fringue\"\nEnglish: \"umbrella\" - Fran\u00e7ais: \"p\u00e9pin\"\nEnglish: \"musculus\" - Fran\u00e7ais: \"muscle\"\nEnglish: \"mouth\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nEnglish: \"wing\" - Fran\u00e7ais: \"",
+        "target": "['aile']",
+        "word original": "wing"
+    },
+    "['worm', 'European dragon']": {
+        "prompt": "English: \"valley\" - Fran\u00e7ais: \"vall\u00e9e\"\nEnglish: \"poultry\" - Fran\u00e7ais: \"volaille\"\nEnglish: \"pin\" - Fran\u00e7ais: \"jambe\"\nEnglish: \"house\" - Fran\u00e7ais: \"domicile\"\nEnglish: \"church\" - Fran\u00e7ais: \"\u00e9glise\"\nEnglish: \"worm\" - Fran\u00e7ais: \"",
+        "target": "['dragon europ\u00e9en', 'ver']",
+        "word original": "worm"
+    }
+}

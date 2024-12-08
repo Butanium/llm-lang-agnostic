@@ -1,0 +1,862 @@
+{
+    "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios']": {
+        "prompt": "Espa\u00f1ol: \"cuchara\" - Deutsch: \"L\u00f6ffel\"\nEspa\u00f1ol: \"caballo\" - Deutsch: \"Gaul\"\nEspa\u00f1ol: \"camisa\" - Deutsch: \"T-Shirt\"\nEspa\u00f1ol: \"o\u00eddo\" - Deutsch: \"Ohren\"\nEspa\u00f1ol: \"amortiguador\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"",
+        "target": "['Winkel', 'Supplementwinkel']",
+        "word original": "angle"
+    },
+    "['hormiga', 'Formicidae', 'formicidae']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"arma de fuego\" - Deutsch: \"Schusswaffe\"\nEspa\u00f1ol: \"marrano\" - Deutsch: \"Hausschwein\"\nEspa\u00f1ol: \"hormiga\" - Deutsch: \"",
+        "target": "['Ameise', 'Ameisen']",
+        "word original": "ant"
+    },
+    "['c\u00e1scara de manzana', 'manzana']": {
+        "prompt": "Espa\u00f1ol: \"nervio\" - Deutsch: \"Nerv\"\nEspa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"comit\u00e9\" - Deutsch: \"Komitee\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Deutsch: \"",
+        "target": "['Apfel', 'Apfelschale']",
+        "word original": "apple"
+    },
+    "['arco', 'arco y flecha', 'chispa', 'arco el\u00e9ctrico', 'descarga el\u00e9ctrica', 'chispa el\u00e9ctrica', 'centella', 'arco voltaico']": {
+        "prompt": "Espa\u00f1ol: \"ropa\" - Deutsch: \"Bekleidung\"\nEspa\u00f1ol: \"castigo corporal\" - Deutsch: \"Pr\u00fcgelstrafe\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"u\u00f1a\" - Deutsch: \"Fingernagel\"\nEspa\u00f1ol: \"arco\" - Deutsch: \"",
+        "target": "['Pfeil und Bogen', 'Bogen', 'Funke', 'Lichtbogen', 'elektrische Lawinenentladung']",
+        "word original": "arch"
+    },
+    "['arma', 'arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'pistola', 'armamento']": {
+        "prompt": "Espa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"universidad\" - Deutsch: \"Uni\"\nEspa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"nube\" - Deutsch: \"Wolke\"\nEspa\u00f1ol: \"nariz\" - Deutsch: \"Nase\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"",
+        "target": "['Waffe', 'Arm', 'Schusswaffe', 'Feuerwaffe', 'Armeest\u00e4rke']",
+        "word original": "arm"
+    },
+    "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas', 'violencia', 'vigor', 'intensidad', 'intensidad sonora', 'volumen', 'intensidad de sonido', 'sonoridad', '\u00f1eque', 'fortaleza', 'empuje', 'impulso', 'poder\u00edo', 'potencia', 'poder']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - Deutsch: \"Strasse\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"ala\" - Deutsch: \"Alanin\"\nEspa\u00f1ol: \"hormiga\" - Deutsch: \"Ameise\"\nEspa\u00f1ol: \"fuerza\" - Deutsch: \"",
+        "target": "['Milit\u00e4r', 'Streitkr\u00e4fte', 'Milit\u00e4rwesen', 'Armee', 'Kriegsmaschinerie', 'Gewalt', 'Kraft', 'Lautst\u00e4rke', 'Lautheit', 'Schallintensit\u00e4t', 'Lautst\u00e4rkepegel', 'St\u00e4rke', 'Festigkeit', 'Mumm', 'Schub']",
+        "word original": "army"
+    },
+    "['ni\u00f1o', 'papa frita', 'ni\u00f1a', 'menor de edad', 'menor', 'joven', 'infancia', 'minor\u00eda de edad', 'jovenzuelo', 'mozalbete', 'chico', 'muchachuelo', 'chiq\u00fcelo', 'chiquillo', 'criatura', 'cr\u00edo', 'chango', 'pececillo', 'cr\u00eda', 'chaval', 'alev\u00edn', 'nene', 'tike', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'jovencito', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'mozo', 'ni\u00f1os', 'ninzzo', 'hijo', 'hija']": {
+        "prompt": "Espa\u00f1ol: \"ladrillo\" - Deutsch: \"Ziegelstein\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"estante\" - Deutsch: \"B\u00fccherregal\"\nEspa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"motor\" - Deutsch: \"Motorrad\"\nEspa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"",
+        "target": "['Minderj\u00e4hrige', 'Kind', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling', 'J\u00fcngling', 'Knabe', 'Bub', 'Bursche', 'Junge', 'Kinder']",
+        "word original": "boy"
+    },
+    "['bolso', 'cartera', 'bulto', 'bolsa', 'bolsa de papel', 'costal', 'saco', 'bolsa pl\u00e1stica de compra']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"ojos\" - Deutsch: \"Augapfel\"\nEspa\u00f1ol: \"ropa\" - Deutsch: \"Bekleidung\"\nEspa\u00f1ol: \"nariz\" - Deutsch: \"Nase\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"bolso\" - Deutsch: \"",
+        "target": "['Handtasche', 'Sack', 'Tasche', 'Beutel', 'T\u00fcte', 'Tragetasche', 'Plastikt\u00fcte', 'Papiersack', 'Traget\u00fcte']",
+        "word original": "bag"
+    },
+    "['b\u00e9isbol', 'beisbol', 'baseball']": {
+        "prompt": "Espa\u00f1ol: \"caballo\" - Deutsch: \"Gaul\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"jard\u00edn\" - Deutsch: \"Garten\"\nEspa\u00f1ol: \"cigarro\" - Deutsch: \"Cigarette\"\nEspa\u00f1ol: \"guimbarda\" - Deutsch: \"Drommeter\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Deutsch: \"",
+        "target": "['Baseball']",
+        "word original": "ball"
+    },
+    "['anillo', 'alianza', 'sortija']": {
+        "prompt": "Espa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"cigarro\" - Deutsch: \"Cigarette\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"Hals\"\nEspa\u00f1ol: \"anillo\" - Deutsch: \"",
+        "target": "['Fingerring', 'Fingerreif', 'Ring', 'Reif', 'Reifen']",
+        "word original": "ring"
+    },
+    "['lavabo', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter', 'lavamanos', 'palangana', 'fregadero', 'pila']": {
+        "prompt": "Espa\u00f1ol: \"arresto\" - Deutsch: \"Festnahme\"\nEspa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"trampa\" - Deutsch: \"Einfangen\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"lavabo\" - Deutsch: \"",
+        "target": "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'Badestube', 'Badezimmer', 'Bad', 'Vorlage:Andere Sprachen', 'Abtritt', '\u00d6rtchen', 'WC', 'Abort', 'stilles \u00d6rtchen', 'Lokus', 'Waschbecken', 'Sp\u00fcle', 'Sp\u00fclstein', 'Sp\u00fclbecken']",
+        "word original": "basin"
+    },
+    "['ba\u00f1o', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'w\u00e1ter', 'retrete', 'abluci\u00f3n', 'lavatorio', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"semilla\" - Deutsch: \"Samenkorn\"\nEspa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"paraguas\" - Deutsch: \"Parapluie\"\nEspa\u00f1ol: \"ba\u00f1o\" - Deutsch: \"",
+        "target": "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'Badekultur', 'Badestube', 'Badezimmer', 'Bad', 'Vorlage:Andere Sprachen', 'Abtritt', '\u00d6rtchen', 'WC', 'Abort', 'stilles \u00d6rtchen', 'Lokus']",
+        "word original": "bath"
+    },
+    "['cama', 'piltra', 'catre', 'sobre', 'lecho']": {
+        "prompt": "Espa\u00f1ol: \"iglesia\" - Deutsch: \"Kirche\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"est\u00f3mago\" - Deutsch: \"Bauch\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"Schlange\"\nEspa\u00f1ol: \"cama\" - Deutsch: \"",
+        "target": "['Bett']",
+        "word original": "bed"
+    },
+    "['abeja', 'Anthophila', 'anthophila']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00fal\" - Deutsch: \"Truhe\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"Flagge\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"abeja\" - Deutsch: \"",
+        "target": "['Imme', 'Biene', 'Bienen', 'Beivogl']",
+        "word original": "bee"
+    },
+    "['timbre', 'estampilla', 'timbre postal', 'sello', 'sello postal', 'porte', 'franqueo', 'sello de correos', 'campanilla de puerta']": {
+        "prompt": "Espa\u00f1ol: \"domingo\" - Deutsch: \"Sonntag\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"Flagge\"\nEspa\u00f1ol: \"ba\u00fal\" - Deutsch: \"Truhe\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"Orange\"\nEspa\u00f1ol: \"timbre\" - Deutsch: \"",
+        "target": "['Briefmarke', 'Wertzeichen', 'Freimarke', 'Wert', 'Postwertzeichen', 'Marke', 'Siegelring', 'Stempel', 'Siegel', 'Klingel', 'T\u00fcrglocke', 'T\u00fcrklingel', 'Hausglocke']",
+        "word original": "bell"
+    },
+    "['p\u00e1jaro', 'ave', 'aves']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"mono\" - Deutsch: \"Affe\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"",
+        "target": "['V\u00f6gelchen', 'Vogel', 'Piepmatz', 'V\u00f6gel']",
+        "word original": "bird"
+    },
+    "['espada', 'garrancha', 'albacora', 'pez espada', 'Xiphias gladius', 'Pez espada', 'xiphias gladius']": {
+        "prompt": "Espa\u00f1ol: \"cama\" - Deutsch: \"Bett\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"bolsillo\" - Deutsch: \"Taschenbuch\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"biblioteca\" - Deutsch: \"Bibliothek\"\nEspa\u00f1ol: \"espada\" - Deutsch: \"",
+        "target": "['Schwert', 'Schwertfisch']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'comisi\u00f3n', 'bur\u00f3', 'junta', 'consejo']": {
+        "prompt": "Espa\u00f1ol: \"ducto\" - Deutsch: \"Wasserrohr\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"Orange\"\nEspa\u00f1ol: \"inodoro\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"boca\" - Deutsch: \"Schnauze\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"comit\u00e9\" - Deutsch: \"",
+        "target": "['Komitee', 'Kommission', 'Ausschuss', 'Ausschu\u00df']",
+        "word original": "board"
+    },
+    "['bote', 'barco', 'barca', 'barcos', 'nave', 'embarcaci\u00f3n', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'lata']": {
+        "prompt": "Espa\u00f1ol: \"trampa\" - Deutsch: \"Einfangen\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"estrella\" - Deutsch: \"Stern\"\nEspa\u00f1ol: \"cajas\" - Deutsch: \"Kasten\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"",
+        "target": "['Boot', 'Schiff', 'Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'B\u00fcchse', 'Blechb\u00fcchse', 'Dose', 'Konservendose', 'Blechdose', 'Konservenb\u00fcchse']",
+        "word original": "boat"
+    },
+    "['hueso', 'os']": {
+        "prompt": "Espa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"timbre\" - Deutsch: \"Briefmarke\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"",
+        "target": "['Bein', 'Knochengewebe', 'Knochen', 'Gebeine']",
+        "word original": "bone"
+    },
+    "['botella', 'frasco']": {
+        "prompt": "Espa\u00f1ol: \"fuerza\" - Deutsch: \"Milit\u00e4r\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"botella\" - Deutsch: \"",
+        "target": "['Bouteille', 'Flasche']",
+        "word original": "bottle"
+    },
+    "['cajas', 'caja']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Deutsch: \"Apfel\"\nEspa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"cajas\" - Deutsch: \"",
+        "target": "['Kasten', 'Kiste']",
+        "word original": "box"
+    },
+    "['mente', 'psique', 'Nous', 'nous', 'cabeza', 'cerebro', 'raz\u00f3n', 'intelecto', 'entendimiento', 'inteligencia', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"ropa\" - Deutsch: \"Bekleidung\"\nEspa\u00f1ol: \"pescado\" - Deutsch: \"Fisch\"\nEspa\u00f1ol: \"gota\" - Deutsch: \"Urikopathie\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"",
+        "target": "['Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Vernunft', 'Intellekt', 'Haupt', 'Kopf']",
+        "word original": "head"
+    },
+    "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas', 'sistema econ\u00f3mico']": {
+        "prompt": "Espa\u00f1ol: \"techumbre\" - Deutsch: \"Dach\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"Str\u00fcmpfe\"\nEspa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"u\u00f1a\" - Deutsch: \"Fingernagel\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"",
+        "target": "['\u00d6konomie', 'Wirtschaftswissenschaft', '\u00d6konomik', 'politische \u00d6konomie', 'Politische \u00d6konomie', 'Wirtschaftssystem', 'Wirtschaft']",
+        "word original": "branch"
+    },
+    "['ladrillo']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - Deutsch: \"Strasse\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"cola\" - Deutsch: \"Kreuzprozession\"\nEspa\u00f1ol: \"sax\" - Deutsch: \"Schere\"\nEspa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"ladrillo\" - Deutsch: \"",
+        "target": "['Ziegelstein', 'Backstein', 'Mauerziegel', 'Ziegel']",
+        "word original": "brick"
+    },
+    "['puente', 'b\u00f3veda']": {
+        "prompt": "Espa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"garganta\" - Deutsch: \"Schlucht\"\nEspa\u00f1ol: \"horno\" - Deutsch: \"Hochofen\"\nEspa\u00f1ol: \"amortiguador\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"puente\" - Deutsch: \"",
+        "target": "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']",
+        "word original": "bridge"
+    },
+    "['cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"cabello\" - Deutsch: \"Haar\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"hoja\" - Deutsch: \"totes Holz\"\nEspa\u00f1ol: \"cepillo del pelo\" - Deutsch: \"",
+        "target": "['B\u00fcrste', 'Pinsel']",
+        "word original": "brush"
+    },
+    "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']": {
+        "prompt": "Espa\u00f1ol: \"hervidor\" - Deutsch: \"Teekessel\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"Schlange\"\nEspa\u00f1ol: \"castigo corporal\" - Deutsch: \"Pr\u00fcgelstrafe\"\nEspa\u00f1ol: \"dedos del pie\" - Deutsch: \"Zeh\"\nEspa\u00f1ol: \"balde\" - Deutsch: \"",
+        "target": "['Eimer']",
+        "word original": "bucket"
+    },
+    "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']": {
+        "prompt": "Espa\u00f1ol: \"ojos\" - Deutsch: \"Augapfel\"\nEspa\u00f1ol: \"gato\" - Deutsch: \"Hauskatze\"\nEspa\u00f1ol: \"jard\u00edn\" - Deutsch: \"Garten\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"bombillo\" - Deutsch: \"",
+        "target": "['Gl\u00fchbirne', 'Gl\u00fchlampe', 'elektrisches Licht']",
+        "word original": "bulb"
+    },
+    "['pastel', 'torta', 'bizcocho', 'cake', 'coca', 'tarta', 'pie', 'pay', 'empanada']": {
+        "prompt": "Espa\u00f1ol: \"amortiguador\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nEspa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"horno\" - Deutsch: \"Hochofen\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"Hals\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"pastel\" - Deutsch: \"",
+        "target": "['Kuchen', 'Torte', 'Pastete']",
+        "word original": "cake"
+    },
+    "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara']": {
+        "prompt": "Espa\u00f1ol: \"hoja\" - Deutsch: \"totes Holz\"\nEspa\u00f1ol: \"mosca\" - Deutsch: \"Fliege\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"caballo\" - Deutsch: \"Gaul\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"",
+        "target": "['Fotoapparat', 'Kamera']",
+        "word original": "camera"
+    },
+    "['documento nacional de identidad', 'documento de identidad', 'identificaci\u00f3n', 'carn\u00e9 de identidad', 'carnet de identidad', 'c\u00e9dula de identidad', 'DNI', 'credencial', 'carnet']": {
+        "prompt": "Espa\u00f1ol: \"comit\u00e9\" - Deutsch: \"Komitee\"\nEspa\u00f1ol: \"cuadrado\" - Deutsch: \"Quadrat\"\nEspa\u00f1ol: \"diente\" - Deutsch: \"Z\u00e4hne\"\nEspa\u00f1ol: \"cajas\" - Deutsch: \"Kasten\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"",
+        "target": "['Personalausweis', 'Ausweis', 'ID', 'Identit\u00e4tskarte']",
+        "word original": "card"
+    },
+    "['veh\u00edculo ferroviario', 'vag\u00f3n', 'Automotor', 'automotor', 'material remolcado', 'vag\u00f3n de ferrocarril', 'Coche automotor', 'coche', 'tren', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos']": {
+        "prompt": "Espa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"semilla\" - Deutsch: \"Samenkorn\"\nEspa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Deutsch: \"",
+        "target": "['Waggon', 'Eisenbahnwagen', 'Kabine', 'Triebwagen', 'Verbrennungstriebwagen', 'Equipage', 'Kutsche', 'Wagen']",
+        "word original": "carriage"
+    },
+    "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']": {
+        "prompt": "Espa\u00f1ol: \"lavabo\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"diente\" - Deutsch: \"Z\u00e4hne\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Deutsch: \"Herz\"\nEspa\u00f1ol: \"gato\" - Deutsch: \"",
+        "target": "['Hauskatze', 'Katze', 'Mietzekatze', 'Mietze', 'Stubentiger']",
+        "word original": "cat"
+    },
+    "['queso']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"Orange\"\nEspa\u00f1ol: \"ba\u00fal\" - Deutsch: \"Truhe\"\nEspa\u00f1ol: \"barco de vela\" - Deutsch: \"Segelschiff\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"",
+        "target": "['K\u00e4se']",
+        "word original": "cheese"
+    },
+    "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"ganado bovino\" - Deutsch: \"Hausrind\"\nEspa\u00f1ol: \"domingo\" - Deutsch: \"Sonntag\"\nEspa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"ba\u00fal\" - Deutsch: \"",
+        "target": "['Truhe', 'Koffer']",
+        "word original": "chest"
+    },
+    "['barbilla', 'ment\u00f3n', 'pera', 'barba']": {
+        "prompt": "Espa\u00f1ol: \"espada\" - Deutsch: \"Schwert\"\nEspa\u00f1ol: \"cabello\" - Deutsch: \"Haar\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"cama\" - Deutsch: \"Bett\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"barbilla\" - Deutsch: \"",
+        "target": "['Kinn']",
+        "word original": "chin"
+    },
+    "['iglesia']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"arresto\" - Deutsch: \"Festnahme\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"iglesia\" - Deutsch: \"",
+        "target": "['Kirche', 'Kirchengeb\u00e4ude']",
+        "word original": "church"
+    },
+    "['c\u00edrculo', 'circunferencia', 'disco']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"pulgar\" - Deutsch: \"Daumen\"\nEspa\u00f1ol: \"nervio\" - Deutsch: \"Nerv\"\nEspa\u00f1ol: \"patata\" - Deutsch: \"Erdapfel\"\nEspa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"",
+        "target": "['Kreis', 'Kreisscheibe', 'Kreisfl\u00e4che', 'Scheibe']",
+        "word original": "circle"
+    },
+    "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']": {
+        "prompt": "Espa\u00f1ol: \"cigarro\" - Deutsch: \"Cigarette\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"oveja\" - Deutsch: \"Schaf\"\nEspa\u00f1ol: \"pastel\" - Deutsch: \"Kuchen\"\nEspa\u00f1ol: \"calle\" - Deutsch: \"Strasse\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"",
+        "target": "['Uhr', 'Armbanduhr', 'Taschenuhr oder Armbanduhr']",
+        "word original": "watch"
+    },
+    "['nube', 'nubes']": {
+        "prompt": "Espa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"dedos del pie\" - Deutsch: \"Zeh\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"ba\u00f1o\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"Orange\"\nEspa\u00f1ol: \"nube\" - Deutsch: \"",
+        "target": "['Wolke', 'Gew\u00f6lk']",
+        "word original": "cloud"
+    },
+    "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'jacket', 'campera', 'chompa']": {
+        "prompt": "Espa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"ventana\" - Deutsch: \"Fenster\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"Phosphor\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"hervidor\" - Deutsch: \"Teekessel\"\nEspa\u00f1ol: \"casaca\" - Deutsch: \"",
+        "target": "['Jacke', 'Mantel']",
+        "word original": "coat"
+    },
+    "['arresto', 'detenci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Deutsch: \"Hose\"\nEspa\u00f1ol: \"guimbarda\" - Deutsch: \"Drommeter\"\nEspa\u00f1ol: \"huevo de gallina\" - Deutsch: \"H\u00fchnerei\"\nEspa\u00f1ol: \"arresto\" - Deutsch: \"",
+        "target": "['Festnahme']",
+        "word original": "collar"
+    },
+    "['peine']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - Deutsch: \"Strasse\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"motor\" - Deutsch: \"Motorrad\"\nEspa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"peine\" - Deutsch: \"",
+        "target": "['Kamm']",
+        "word original": "comb"
+    },
+    "['ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno']": {
+        "prompt": "Espa\u00f1ol: \"nariz\" - Deutsch: \"Nase\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"ganado bovino\" - Deutsch: \"",
+        "target": "['Hausrind', 'Rind', 'Rindvieh', 'K\u00fche', 'Rinder', 'Bos taurus']",
+        "word original": "cow"
+    },
+    "['taza', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'copa', 'vaso', 'taza de pi\u00e9', 'taz\u00f3n', 'jarro']": {
+        "prompt": "Espa\u00f1ol: \"nervio\" - Deutsch: \"Nerv\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"organisatorisch\"\nEspa\u00f1ol: \"v\u00eda\" - Deutsch: \"Innerortsstra\u00dfe\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"fuerza\" - Deutsch: \"Milit\u00e4r\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"",
+        "target": "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'Tasse', 'Trinkglas', 'Trinkschale', 'Pokal', 'Henkelbecher', 'Becher']",
+        "word original": "cup"
+    },
+    "['cortina', 'cortinaje', 'cortinas', 'sombra']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"barco de vela\" - Deutsch: \"Segelschiff\"\nEspa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"",
+        "target": "['Vorhang', 'Gardine', 'Fensterdekoration', 'Schatten']",
+        "word original": "curtain"
+    },
+    "['amortiguador']": {
+        "prompt": "Espa\u00f1ol: \"casaca\" - Deutsch: \"Jacke\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"cepillo del pelo\" - Deutsch: \"B\u00fcrste\"\nEspa\u00f1ol: \"inodoro\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"cama\" - Deutsch: \"Bett\"\nEspa\u00f1ol: \"amortiguador\" - Deutsch: \"",
+        "target": "['Sto\u00dfd\u00e4mpfer', 'Schlag']",
+        "word original": "cushion"
+    },
+    "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico']": {
+        "prompt": "Espa\u00f1ol: \"ladrillo\" - Deutsch: \"Ziegelstein\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"pulgar\" - Deutsch: \"Daumen\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"ropa\" - Deutsch: \"Bekleidung\"\nEspa\u00f1ol: \"perra\" - Deutsch: \"",
+        "target": "['Hund', 'Wauwau', 'K\u00f6ter', 'T\u00f6le', 'Canis lupus familiaris', 'Haushund']",
+        "word original": "dog"
+    },
+    "['puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Deutsch: \"Briefmarke\"\nEspa\u00f1ol: \"dedos del pie\" - Deutsch: \"Zeh\"\nEspa\u00f1ol: \"ba\u00f1o\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"nariz\" - Deutsch: \"Nase\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"",
+        "target": "['T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcr', 'T\u00fcre']",
+        "word original": "drain"
+    },
+    "['ilustraci\u00f3n', 'Iluminismo', 'figura', 'retrato', 'dibujo', 'imagen', 'croquis', 'esquema', 'foto', 'fotograf\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"comit\u00e9\" - Deutsch: \"Komitee\"\nEspa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"motor\" - Deutsch: \"Motorrad\"\nEspa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Deutsch: \"",
+        "target": "['Aufkl\u00e4rung', 'Zeitalter der Aufkl\u00e4rung', 'Abbildung', 'Zeichnung', 'Bild', 'Abbild']",
+        "word original": "drawer"
+    },
+    "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment']": {
+        "prompt": "Espa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"semilla\" - Deutsch: \"Samenkorn\"\nEspa\u00f1ol: \"piel\" - Deutsch: \"Haut\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"ropa\" - Deutsch: \"",
+        "target": "['Bekleidung', 'Kleider', 'Gewandung', 'Kleidungsst\u00fcck', 'Kleidung']",
+        "word original": "dress"
+    },
+    "['gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima', 'bocado', 'porci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"avi\u00f3n\" - Deutsch: \"Luftfahrzeug\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"arco\" - Deutsch: \"Pfeil und Bogen\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"gota\" - Deutsch: \"",
+        "target": "['Urikopathie', 'Gicht', 'Regentropfen', 'Tropfen', 'Happen', 'Bissen']",
+        "word original": "drop"
+    },
+    "['o\u00eddo', 'orejas', 'oreja', 'protecci\u00f3n del o\u00eddo', 'protecci\u00f3n auditiva', 'audici\u00f3n', 'facultad auditiva', 'modalidad auditiva', 'sentido del o\u00eddo', 'sentido auditivo']": {
+        "prompt": "Espa\u00f1ol: \"barco\" - Deutsch: \"Schiff\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"organisatorisch\"\nEspa\u00f1ol: \"iglesia\" - Deutsch: \"Kirche\"\nEspa\u00f1ol: \"arresto\" - Deutsch: \"Festnahme\"\nEspa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"o\u00eddo\" - Deutsch: \"",
+        "target": "['Ohren', 'Ohr', 'Geh\u00f6rschutz', 'Geh\u00f6r', 'auditive Wahrnehmung']",
+        "word original": "ear"
+    },
+    "['huevo de gallina', 'huevo']": {
+        "prompt": "Espa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"inodoro\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"estrella\" - Deutsch: \"Stern\"\nEspa\u00f1ol: \"gato\" - Deutsch: \"Hauskatze\"\nEspa\u00f1ol: \"huevo de gallina\" - Deutsch: \"",
+        "target": "['H\u00fchnerei', 'Ei']",
+        "word original": "egg"
+    },
+    "['motor', 'motocicleta', 'motora', 'moto', 'motociclo', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"cuchara\" - Deutsch: \"L\u00f6ffel\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"motor\" - Deutsch: \"",
+        "target": "['Motorrad', 'Kraftrad', 'Triebwerk', 'Antrieb']",
+        "word original": "engine"
+    },
+    "['ojos', 'ojo', 'globo ocular', 'oculus']": {
+        "prompt": "Espa\u00f1ol: \"pie\" - Deutsch: \"Protoindoeurop\u00e4isch\"\nEspa\u00f1ol: \"espada\" - Deutsch: \"Schwert\"\nEspa\u00f1ol: \"ganado bovino\" - Deutsch: \"Hausrind\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"ojos\" - Deutsch: \"",
+        "target": "['Augapfel', 'Auge', 'Augen']",
+        "word original": "eye"
+    },
+    "['rostro', 'cara', 'jeta', 'faz', 'rostro humano']": {
+        "prompt": "Espa\u00f1ol: \"peine\" - Deutsch: \"Kamm\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"caballo\" - Deutsch: \"Gaul\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"puente\" - Deutsch: \"Br\u00fccke\"\nEspa\u00f1ol: \"rostro\" - Deutsch: \"",
+        "target": "['Visage', 'Angesicht', 'Antlitz', 'Gesicht']",
+        "word original": "face"
+    },
+    "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"casa\" - Deutsch: \"Geb\u00e4ude\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"sax\" - Deutsch: \"Schere\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"",
+        "target": "['Bauernhof', 'Farm']",
+        "word original": "farm"
+    },
+    "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'boli', 'bol\u00edgrafo']": {
+        "prompt": "Espa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"Hausziege\"\nEspa\u00f1ol: \"inodoro\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"",
+        "target": "['Strahlen', 'Feder', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder', 'F\u00fcller', 'Schreibstift']",
+        "word original": "pen"
+    },
+    "['dedo', 'peineta', 'corte de manga', 'higa', 'd\u00edgito', 'pulgar', 'dedo pulgar', 'pollex', 'dedo gordo', 'dedos de la mano', 'dedo de la mano', 'dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie']": {
+        "prompt": "Espa\u00f1ol: \"paraguas\" - Deutsch: \"Parapluie\"\nEspa\u00f1ol: \"barbilla\" - Deutsch: \"Kinn\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"techumbre\" - Deutsch: \"Dach\"\nEspa\u00f1ol: \"dedo\" - Deutsch: \"",
+        "target": "['Stinkefinger', 'Digitus', 'Zeh', 'Finger', 'Daumen', 'Fingerchen', 'kleiner Zeh', 'Zehe', 'Digitus pedis III', 'Digitus pedis II']",
+        "word original": "finger"
+    },
+    "['pescado', 'pez', 'Pisces', 'pisces', 'peces']": {
+        "prompt": "Espa\u00f1ol: \"esponja\" - Deutsch: \"Schw\u00e4mme\"\nEspa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"o\u00eddo\" - Deutsch: \"Ohren\"\nEspa\u00f1ol: \"boca\" - Deutsch: \"Schnauze\"\nEspa\u00f1ol: \"arresto\" - Deutsch: \"Festnahme\"\nEspa\u00f1ol: \"pescado\" - Deutsch: \"",
+        "target": "['Fisch', 'Fische', 'Speisefisch']",
+        "word original": "fish"
+    },
+    "['bandera', 'pabell\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"pared\" - Deutsch: \"Wand\"\nEspa\u00f1ol: \"fuerza\" - Deutsch: \"Milit\u00e4r\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"",
+        "target": "['Flagge']",
+        "word original": "flag"
+    },
+    "['dolina', 'valle', 'val']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"l\u00e1piz\" - Deutsch: \"Bleistift\"\nEspa\u00f1ol: \"ojos\" - Deutsch: \"Augapfel\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Deutsch: \"Herz\"\nEspa\u00f1ol: \"chica\" - Deutsch: \"M\u00e4dchen\"\nEspa\u00f1ol: \"dolina\" - Deutsch: \"",
+        "target": "['Tal', 'Senke']",
+        "word original": "floor"
+    },
+    "['mosca', 'mosco', 'Diptera']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"ave de corral\" - Deutsch: \"Gefl\u00fcgel\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Deutsch: \"Waggon\"\nEspa\u00f1ol: \"ojos\" - Deutsch: \"Augapfel\"\nEspa\u00f1ol: \"mosca\" - Deutsch: \"",
+        "target": "['Fliege', 'Zweifl\u00fcgler']",
+        "word original": "fly"
+    },
+    "['pie', 'proto-indo-europeo', 'idioma protoindoeuropeo', 'protoindoeuropeo', 'pes', 'pata', 'base', 'subestructura', 'cimentaci\u00f3n', 'cimiento', 'fundaci\u00f3n', 'fundamento', 'tarta', 'pastel', 'pay', 'empanada', 'torta']": {
+        "prompt": "Espa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Deutsch: \"Apfel\"\nEspa\u00f1ol: \"bolso\" - Deutsch: \"Handtasche\"\nEspa\u00f1ol: \"iglesia\" - Deutsch: \"Kirche\"\nEspa\u00f1ol: \"pie\" - Deutsch: \"",
+        "target": "['Protoindoeurop\u00e4isch', 'Indoeurop\u00e4isch', 'Urindogermanisch', 'Indogermanisch', 'indogermanische Ursprache', 'UIG', 'Fu\u00df', 'Pes', 'Basis', 'Gr\u00fcndung', 'Torte', 'Kuchen', 'Pastete']",
+        "word original": "foot"
+    },
+    "['tenedor', 'bifurcaci\u00f3n', 'cruce', 'intersecci\u00f3n vial', 'intersecci\u00f3n', 'crucero', 'carrefour', 'encrucijada', 'cruce de caminos']": {
+        "prompt": "Espa\u00f1ol: \"ilustraci\u00f3n\" - Deutsch: \"Aufkl\u00e4rung\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"dolina\" - Deutsch: \"Tal\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"",
+        "target": "['Gabelung', 'Weggabelung', 'Kreuzung', 'Stra\u00dfenkreuzung', 'Gabel', 'Pommesgabel']",
+        "word original": "fork"
+    },
+    "['ave de corral', 'Galloanserae', 'ave']": {
+        "prompt": "Espa\u00f1ol: \"gato\" - Deutsch: \"Hauskatze\"\nEspa\u00f1ol: \"pie\" - Deutsch: \"Protoindoeurop\u00e4isch\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"paquete\" - Deutsch: \"Software\"\nEspa\u00f1ol: \"ave de corral\" - Deutsch: \"",
+        "target": "['Gefl\u00fcgel', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['constituci\u00f3n', 'organizativo', 'organizaci\u00f3n', 'establecimiento', 'fundaci\u00f3n', 'formaci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Deutsch: \"Briefmarke\"\nEspa\u00f1ol: \"huevo de gallina\" - Deutsch: \"H\u00fchnerei\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"paraguas\" - Deutsch: \"Parapluie\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"",
+        "target": "['organisatorisch', 'Organisation', 'Humanphysiologie', 'menschlicher K\u00f6rper', 'Figur', 'Gestalt', 'Bau', 'Statur', 'Form', 'K\u00f6rperbau']",
+        "word original": "frame"
+    },
+    "['jard\u00edn']": {
+        "prompt": "Espa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"Hals\"\nEspa\u00f1ol: \"barco de vela\" - Deutsch: \"Segelschiff\"\nEspa\u00f1ol: \"cabello\" - Deutsch: \"Haar\"\nEspa\u00f1ol: \"pared\" - Deutsch: \"Wand\"\nEspa\u00f1ol: \"jard\u00edn\" - Deutsch: \"",
+        "target": "['Garten']",
+        "word original": "garden"
+    },
+    "['chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'mujer', 'se\u00f1orito', 'chico', 'fille', 'se\u00f1orita', 'mujercita', 'novia', 'pareja', 'compa\u00f1era', 'prometida', 'compa\u00f1era sentimental']": {
+        "prompt": "Espa\u00f1ol: \"trampa\" - Deutsch: \"Einfangen\"\nEspa\u00f1ol: \"barco de vela\" - Deutsch: \"Segelschiff\"\nEspa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"placa\" - Deutsch: \"Kfz-Kennzeichen\"\nEspa\u00f1ol: \"jard\u00edn\" - Deutsch: \"Garten\"\nEspa\u00f1ol: \"chica\" - Deutsch: \"",
+        "target": "['M\u00e4dchen', 'Fr\u00e4ulein', 'Frau', 'Freundin']",
+        "word original": "girl"
+    },
+    "['guante']": {
+        "prompt": "Espa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Deutsch: \"Apfel\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"Str\u00fcmpfe\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"guante\" - Deutsch: \"",
+        "target": "['Handschuh']",
+        "word original": "glove"
+    },
+    "['cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']": {
+        "prompt": "Espa\u00f1ol: \"botella\" - Deutsch: \"Bouteille\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"pared\" - Deutsch: \"Wand\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"",
+        "target": "['Hausziege', 'Ziege']",
+        "word original": "goat"
+    },
+    "['arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'arma', 'pistola']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"arco\" - Deutsch: \"Pfeil und Bogen\"\nEspa\u00f1ol: \"gota\" - Deutsch: \"Urikopathie\"\nEspa\u00f1ol: \"puente\" - Deutsch: \"Br\u00fccke\"\nEspa\u00f1ol: \"universidad\" - Deutsch: \"Uni\"\nEspa\u00f1ol: \"arma de fuego\" - Deutsch: \"",
+        "target": "['Schusswaffe', 'Feuerwaffe']",
+        "word original": "gun"
+    },
+    "['cabello', 'pelo']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"patata\" - Deutsch: \"Erdapfel\"\nEspa\u00f1ol: \"botella\" - Deutsch: \"Bouteille\"\nEspa\u00f1ol: \"arresto\" - Deutsch: \"Festnahme\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"cabello\" - Deutsch: \"",
+        "target": "['Haar', 'Haupthaar', 'Kopfhaar']",
+        "word original": "root"
+    },
+    "['martillo', 'lanzamiento de martillo']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"m\u00fasculo\" - Deutsch: \"Muskel\"\nEspa\u00f1ol: \"video\" - Deutsch: \"Television\"\nEspa\u00f1ol: \"paquete\" - Deutsch: \"Software\"\nEspa\u00f1ol: \"casa\" - Deutsch: \"Geb\u00e4ude\"\nEspa\u00f1ol: \"martillo\" - Deutsch: \"",
+        "target": "['Hammerwurf', 'Hammerwerfen', 'Hammer']",
+        "word original": "hammer"
+    },
+    "['sombrero', 'Chap\u00f3']": {
+        "prompt": "Espa\u00f1ol: \"gota\" - Deutsch: \"Urikopathie\"\nEspa\u00f1ol: \"cepillo del pelo\" - Deutsch: \"B\u00fcrste\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"ave de corral\" - Deutsch: \"Gefl\u00fcgel\"\nEspa\u00f1ol: \"biblioteca\" - Deutsch: \"Bibliothek\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"",
+        "target": "['Hut', 'Kopfbedeckung', 'Chapeau!', 'Kappe', 'M\u00fctze']",
+        "word original": "hat"
+    },
+    "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o', 'centro', 'ojo', 'medio']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"placa\" - Deutsch: \"Kfz-Kennzeichen\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"Phosphor\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Deutsch: \"",
+        "target": "['Herz', 'Philia', 'Affektion', 'Zuneigung', 'Kern']",
+        "word original": "pump"
+    },
+    "['trampa', 'atrape', 'cepo', 'truco', 'hacer trampas', 'estafa', 'timo', 'enga\u00f1o', 'fraude', 'bulo', 'enga\u00f1ifa', 'bober\u00eda', 'tonter\u00eda', 'farsa', 'filfa', 'disparate', 'embuste', 'mistificaci\u00f3n', 'camelo', 'patra\u00f1a', 'pastrana']": {
+        "prompt": "Espa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"garganta\" - Deutsch: \"Schlucht\"\nEspa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"trampa\" - Deutsch: \"",
+        "target": "['Einfangen', 'Tierfalle', 'Falle', 'Fallenstellen', 'Betrug', 'Cheat', 'Streich', 'Falschmeldung', 'Ente', 'Schabernack', 'Trick', 'Ulk', 'Humbug', 'Ulkerei', 'Schwindel', 'Scherz', 'Gag']",
+        "word original": "hook"
+    },
+    "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']": {
+        "prompt": "Espa\u00f1ol: \"martillo\" - Deutsch: \"Hammerwurf\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"dedo\" - Deutsch: \"Stinkefinger\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"guimbarda\" - Deutsch: \"",
+        "target": "['Drommeter', 'Kornett', 'Trompete', 'Maultrommel', 'Trompeter', 'Drommete']",
+        "word original": "horn"
+    },
+    "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']": {
+        "prompt": "Espa\u00f1ol: \"timbre\" - Deutsch: \"Briefmarke\"\nEspa\u00f1ol: \"ladrillo\" - Deutsch: \"Ziegelstein\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Deutsch: \"Aufkl\u00e4rung\"\nEspa\u00f1ol: \"huevo de gallina\" - Deutsch: \"H\u00fchnerei\"\nEspa\u00f1ol: \"pared\" - Deutsch: \"Wand\"\nEspa\u00f1ol: \"caballo\" - Deutsch: \"",
+        "target": "['Gaul', 'Pferd', 'Ross', 'Hauspferd']",
+        "word original": "horse"
+    },
+    "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']": {
+        "prompt": "Espa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"camisa\" - Deutsch: \"T-Shirt\"\nEspa\u00f1ol: \"video\" - Deutsch: \"Television\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"",
+        "target": "['Krankenhaus', 'Klinik']",
+        "word original": "hospital"
+    },
+    "['casa', 'edificaci\u00f3n', 'edificio', 'edificio p\u00fablico', 'inmueble', 'edificios', 'construcci\u00f3n', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'manufactura', 'fabricante', 'firma', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'compa\u00f1\u00eda', 'empresa', 'empresas', 'hospedaje', 'viviendas']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"isla\" - Deutsch: \"Insel\"\nEspa\u00f1ol: \"nube\" - Deutsch: \"Wolke\"\nEspa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"avi\u00f3n\" - Deutsch: \"Luftfahrzeug\"\nEspa\u00f1ol: \"casa\" - Deutsch: \"",
+        "target": "['Geb\u00e4ude', '\u00f6ffentliches Geb\u00e4ude', 'Bauwerk', 'Bau', 'Haus', 'Haushalt', 'Privathaushalt', 'Hersteller', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte', 'Betrieb', 'Firma', 'Unternehmen', 'Wohnungswesen', 'Unterkunft', '\u00dcbernachtung']",
+        "word original": "house"
+    },
+    "['isla', 'islas']": {
+        "prompt": "Espa\u00f1ol: \"rostro\" - Deutsch: \"Visage\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"arco\" - Deutsch: \"Pfeil und Bogen\"\nEspa\u00f1ol: \"hormiga\" - Deutsch: \"Ameise\"\nEspa\u00f1ol: \"isla\" - Deutsch: \"",
+        "target": "['Insel', 'Eiland']",
+        "word original": "island"
+    },
+    "['joya', 'joyer\u00eda', 'joyas', 'alhajas', 'alegr\u00eda', 'regocijo', 'j\u00fabilo', 'felicidad', 'gozo', 'ilusi\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"botella\" - Deutsch: \"Bouteille\"\nEspa\u00f1ol: \"pastel\" - Deutsch: \"Kuchen\"\nEspa\u00f1ol: \"dolina\" - Deutsch: \"Tal\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"joya\" - Deutsch: \"",
+        "target": "['Schmuck', 'Freude']",
+        "word original": "jewel"
+    },
+    "['hervidor', 'caldera', 'calentador', 'Caldera']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Deutsch: \"Rock\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"universidad\" - Deutsch: \"Uni\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"hervidor\" - Deutsch: \"",
+        "target": "['Teekessel', 'Kochtopf', 'Pfeifkessel', 'Kessel', 'Wasserkessel']",
+        "word original": "kettle"
+    },
+    "['llave', 'v\u00e1lvula', 'clave', 'llave inglesa', 'llave de tuerca', 'llave fija']": {
+        "prompt": "Espa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"Phosphor\"\nEspa\u00f1ol: \"arma de fuego\" - Deutsch: \"Schusswaffe\"\nEspa\u00f1ol: \"ba\u00fal\" - Deutsch: \"Truhe\"\nEspa\u00f1ol: \"comit\u00e9\" - Deutsch: \"Komitee\"\nEspa\u00f1ol: \"botella\" - Deutsch: \"Bouteille\"\nEspa\u00f1ol: \"llave\" - Deutsch: \"",
+        "target": "['Ventil', 'Hahn', 'Schieber', 'Wasserhahn', 'Armatur', 'Schl\u00fcssel', 'Schraubenschl\u00fcssel']",
+        "word original": "key"
+    },
+    "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Deutsch: \"Briefmarke\"\nEspa\u00f1ol: \"diente\" - Deutsch: \"Z\u00e4hne\"\nEspa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"falda\" - Deutsch: \"Rock\"\nEspa\u00f1ol: \"ropa\" - Deutsch: \"Bekleidung\"\nEspa\u00f1ol: \"rodilla\" - Deutsch: \"",
+        "target": "['Knie', 'Kniegelenk']",
+        "word original": "knee"
+    },
+    "['cuchillo']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"Flagge\"\nEspa\u00f1ol: \"inodoro\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"barco\" - Deutsch: \"Schiff\"\nEspa\u00f1ol: \"cuchillo\" - Deutsch: \"",
+        "target": "['Messer']",
+        "word original": "knife"
+    },
+    "['nudo', 'tallo', 'lazo']": {
+        "prompt": "Espa\u00f1ol: \"nervio\" - Deutsch: \"Nerv\"\nEspa\u00f1ol: \"ganado bovino\" - Deutsch: \"Hausrind\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"horno\" - Deutsch: \"Hochofen\"\nEspa\u00f1ol: \"ba\u00fal\" - Deutsch: \"Truhe\"\nEspa\u00f1ol: \"nudo\" - Deutsch: \"",
+        "target": "['Sprossachse', 'Strunk', 'Stiel', 'St\u00e4ngel', 'Knoten']",
+        "word original": "knot"
+    },
+    "['hoja', 'papel', 'follaje', 'Laphi', 'hoja de papel', 'cuartilla', 'folio', 'pliego', 'filo', 'cuchilla']": {
+        "prompt": "Espa\u00f1ol: \"est\u00f3mago\" - Deutsch: \"Bauch\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"abeja\" - Deutsch: \"Imme\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"mosca\" - Deutsch: \"Fliege\"\nEspa\u00f1ol: \"hoja\" - Deutsch: \"",
+        "target": "['totes Holz', 'Papier', 'Totholz', 'Belaubung', 'Blattwerk', 'Blatt', 'Laub', 'Laubwerk', 'Bl\u00e4tterwerk', 'Laphi', 'Klinge']",
+        "word original": "leaf"
+    },
+    "['pierna', 'extremidad inferior', 'pata', 'piernas', 'miembro inferior', 'miembro inferior humano']": {
+        "prompt": "Espa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"pierna\" - Deutsch: \"",
+        "target": "['untere Extremit\u00e4t', 'Bein', 'Beine', 'menschliches Bein']",
+        "word original": "pin"
+    },
+    "['biblioteca', 'librer\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"bolso\" - Deutsch: \"Handtasche\"\nEspa\u00f1ol: \"casa\" - Deutsch: \"Geb\u00e4ude\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"Orange\"\nEspa\u00f1ol: \"biblioteca\" - Deutsch: \"",
+        "target": "['Bibliothek', 'B\u00fccherei']",
+        "word original": "library"
+    },
+    "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'television', 'TV', 'imagen']": {
+        "prompt": "Espa\u00f1ol: \"barco\" - Deutsch: \"Schiff\"\nEspa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"ave de corral\" - Deutsch: \"Gefl\u00fcgel\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Deutsch: \"Herz\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"video\" - Deutsch: \"",
+        "target": "['Television', 'Fernsehen', 'Videotechnik']",
+        "word original": "line"
+    },
+    "['labio', 'labios']": {
+        "prompt": "Espa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Deutsch: \"Aufkl\u00e4rung\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"organisatorisch\"\nEspa\u00f1ol: \"ladrillo\" - Deutsch: \"Ziegelstein\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"",
+        "target": "['Lippe']",
+        "word original": "lip"
+    },
+    "['funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"bolsillo\" - Deutsch: \"Taschenbuch\"\nEspa\u00f1ol: \"ladrillo\" - Deutsch: \"Ziegelstein\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"",
+        "target": "['Funktion', 'Abbildung']",
+        "word original": "map"
+    },
+    "['f\u00f3sforo', 'P', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"puente\" - Deutsch: \"Br\u00fccke\"\nEspa\u00f1ol: \"pulgar\" - Deutsch: \"Daumen\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"Orange\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"",
+        "target": "['Phosphor', 'Z\u00fcndholz', 'Streichholz', 'H\u00f6lzchen']",
+        "word original": "match"
+    },
+    "['mono', 'mico', 'simio']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Deutsch: \"Hose\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"motor\" - Deutsch: \"Motorrad\"\nEspa\u00f1ol: \"mono\" - Deutsch: \"",
+        "target": "['Affe']",
+        "word original": "monkey"
+    },
+    "['sat\u00e9lite', 'sat\u00e9lite artificial', 'satelite', 'orbitador']": {
+        "prompt": "Espa\u00f1ol: \"cama\" - Deutsch: \"Bett\"\nEspa\u00f1ol: \"espada\" - Deutsch: \"Schwert\"\nEspa\u00f1ol: \"garganta\" - Deutsch: \"Schlucht\"\nEspa\u00f1ol: \"barco de vela\" - Deutsch: \"Segelschiff\"\nEspa\u00f1ol: \"techumbre\" - Deutsch: \"Dach\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"",
+        "target": "['Satellit', 'Umkreiser', 'umkreisender Raumflugk\u00f6rper', 'Orbiter']",
+        "word original": "moon"
+    },
+    "['boca', 'cavidad oral', 'cavidad bucal', 'desembocadura', 'rima oris', 'entrada', 'zagu\u00e1n', 'recibidor', 'vest\u00edbulo', 'acceso', 'v\u00eda de acceso', 'ingreso', 'nariz']": {
+        "prompt": "Espa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"amortiguador\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"boca\" - Deutsch: \"",
+        "target": "['Schnauze', 'Mundh\u00f6hle', 'Maul', 'Mund', 'Eingang', 'Flur', 'Eingangsbereich', 'Windfang']",
+        "word original": "mouth"
+    },
+    "['m\u00fasculo', 'tejido muscular']": {
+        "prompt": "Espa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"peine\" - Deutsch: \"Kamm\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"Flagge\"\nEspa\u00f1ol: \"m\u00fasculo\" - Deutsch: \"",
+        "target": "['Muskel']",
+        "word original": "muscle"
+    },
+    "['u\u00f1a', 'garra', 'clavo', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"universidad\" - Deutsch: \"Uni\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"u\u00f1a\" - Deutsch: \"",
+        "target": "['Fingernagel', 'Nagel']",
+        "word original": "nail"
+    },
+    "['cuello', 'pescuezo', 'nuca', 'cerviz']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Deutsch: \"Haar\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"gato\" - Deutsch: \"Hauskatze\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"",
+        "target": "['Hals', 'Nacken', 'Genick']",
+        "word original": "neck"
+    },
+    "['nervio', 'nervus']": {
+        "prompt": "Espa\u00f1ol: \"dedo\" - Deutsch: \"Stinkefinger\"\nEspa\u00f1ol: \"ventana\" - Deutsch: \"Fenster\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"nervio\" - Deutsch: \"",
+        "target": "['Nerv']",
+        "word original": "nerve"
+    },
+    "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio', 'malla', 'rejilla']": {
+        "prompt": "Espa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Deutsch: \"Apfel\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"red de computadoras\" - Deutsch: \"",
+        "target": "['Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Cyberspace', 'Gittergewebe', 'Gitter']",
+        "word original": "net"
+    },
+    "['nariz', '\u00f3rgano olfactivo', 'olfato', 'boca']": {
+        "prompt": "Espa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"semilla\" - Deutsch: \"Samenkorn\"\nEspa\u00f1ol: \"trampa\" - Deutsch: \"Einfangen\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"Schlange\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"nariz\" - Deutsch: \"",
+        "target": "['Nase', 'Mund']",
+        "word original": "nose"
+    },
+    "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'r\u00e9gimen pol\u00edtico', 'gobierno', 'r\u00e9gimen', 'l\u00edder', 'jefe', 'cabeza', 'dirigente']": {
+        "prompt": "Espa\u00f1ol: \"ladrillo\" - Deutsch: \"Ziegelstein\"\nEspa\u00f1ol: \"nube\" - Deutsch: \"Wolke\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"Str\u00fcmpfe\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"trampa\" - Deutsch: \"Einfangen\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"",
+        "target": "['Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'B\u00fcro', 'Beh\u00f6rde', 'Kontor', 'Regime', 'Leiter', 'F\u00fchrer']",
+        "word original": "office"
+    },
+    "['naranja', 'anaranjado']": {
+        "prompt": "Espa\u00f1ol: \"ala\" - Deutsch: \"Alanin\"\nEspa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"nube\" - Deutsch: \"Wolke\"\nEspa\u00f1ol: \"naranja\" - Deutsch: \"",
+        "target": "['Orange']",
+        "word original": "orange"
+    },
+    "['horno', 'alto horno', 'estufa', 'horno de pan', 'panader\u00eda', 'tahona']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1scara de manzana\" - Deutsch: \"Apfel\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"ave de corral\" - Deutsch: \"Gefl\u00fcgel\"\nEspa\u00f1ol: \"horno\" - Deutsch: \"",
+        "target": "['Hochofen', 'Ofen', 'Backofen', 'B\u00e4ckerei', 'Backstube']",
+        "word original": "oven"
+    },
+    "['paquete', 'elementos de programaci\u00f3n', 'programa inform\u00e1tico', 'programa', 'programa de computaci\u00f3n', 'programa de ordenador', 'software', 'sistema software']": {
+        "prompt": "Espa\u00f1ol: \"domingo\" - Deutsch: \"Sonntag\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"placa\" - Deutsch: \"Kfz-Kennzeichen\"\nEspa\u00f1ol: \"avi\u00f3n\" - Deutsch: \"Luftfahrzeug\"\nEspa\u00f1ol: \"paquete\" - Deutsch: \"",
+        "target": "['Software', 'Programm', 'Softwaresystem']",
+        "word original": "parcel"
+    },
+    "['l\u00e1piz']": {
+        "prompt": "Espa\u00f1ol: \"rodilla\" - Deutsch: \"Knie\"\nEspa\u00f1ol: \"dedos del pie\" - Deutsch: \"Zeh\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"iglesia\" - Deutsch: \"Kirche\"\nEspa\u00f1ol: \"l\u00e1piz\" - Deutsch: \"",
+        "target": "['Bleistift']",
+        "word original": "pencil"
+    },
+    "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine', 'embuste', 'mentira', 'mentirijilla', 'mentirilla', 'mentira de emergencia', 'mentira blanca', 'infundio', 'historia', 'trola', 'patra\u00f1a', 'falsedad', 'bola', 'cinema', 'celuloide']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"ba\u00fal\" - Deutsch: \"Truhe\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"caballo\" - Deutsch: \"Gaul\"\nEspa\u00f1ol: \"pel\u00edcula\" - Deutsch: \"",
+        "target": "['Film', 'soziale L\u00fcge', 'Notl\u00fcge', 'L\u00fcge', 'Unwahrheit']",
+        "word original": "picture"
+    },
+    "['marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'porc', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'Sus scrofa']": {
+        "prompt": "Espa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"dolina\" - Deutsch: \"Tal\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"Hals\"\nEspa\u00f1ol: \"semilla\" - Deutsch: \"Samenkorn\"\nEspa\u00f1ol: \"marrano\" - Deutsch: \"",
+        "target": "['Hausschwein', 'Schwein', 'Sus']",
+        "word original": "pig"
+    },
+    "['ducto', 'tuber\u00eda', 'conducto', 'conducto de agua', 'acueducto', 'Tuber\u00eda', 'tuber\u00edas', 'ca\u00f1er\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"queso\" - Deutsch: \"K\u00e4se\"\nEspa\u00f1ol: \"mono\" - Deutsch: \"Affe\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"Hausziege\"\nEspa\u00f1ol: \"ducto\" - Deutsch: \"",
+        "target": "['Wasserrohr', 'Aqu\u00e4dukt', 'Rohr', 'Rohrleitung']",
+        "word original": "pipe"
+    },
+    "['avi\u00f3n', 'aeronave', 'aeroplano']": {
+        "prompt": "Espa\u00f1ol: \"veh\u00edculo ferroviario\" - Deutsch: \"Waggon\"\nEspa\u00f1ol: \"piel\" - Deutsch: \"Haut\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"jard\u00edn\" - Deutsch: \"Garten\"\nEspa\u00f1ol: \"motor\" - Deutsch: \"Motorrad\"\nEspa\u00f1ol: \"avi\u00f3n\" - Deutsch: \"",
+        "target": "['Luftfahrzeug', 'Flugzeug', 'Flieger', 'Maschine']",
+        "word original": "plane"
+    },
+    "['placa', 'chapa', 'patente', 'matr\u00edcula', 'tablilla', 'distintivo', 'insignia', 'pin', 'medalla', 'piocha', 'plancha']": {
+        "prompt": "Espa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"falda\" - Deutsch: \"Rock\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"Str\u00fcmpfe\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"placa\" - Deutsch: \"",
+        "target": "['Kfz-Kennzeichen', 'Nummernschild', 'Autokennzeichen', 'Kennzeichenschild', 'Kraftfahrzeugkennzeichen', 'Badge', 'Abzeichen']",
+        "word original": "plate"
+    },
+    "['arado', 'arar', 'arada']": {
+        "prompt": "Espa\u00f1ol: \"huevo de gallina\" - Deutsch: \"H\u00fchnerei\"\nEspa\u00f1ol: \"cigarro\" - Deutsch: \"Cigarette\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"Schlange\"\nEspa\u00f1ol: \"boca\" - Deutsch: \"Schnauze\"\nEspa\u00f1ol: \"casaca\" - Deutsch: \"Jacke\"\nEspa\u00f1ol: \"arado\" - Deutsch: \"",
+        "target": "['Pflug']",
+        "word original": "plough"
+    },
+    "['bolsillo', 'encuadernaci\u00f3n de tapa blanda', 'r\u00fastica', 'encuadernaci\u00f3n en r\u00fastica', 'libro de bolsillo', 'bolsa']": {
+        "prompt": "Espa\u00f1ol: \"l\u00e1piz\" - Deutsch: \"Bleistift\"\nEspa\u00f1ol: \"boca\" - Deutsch: \"Schnauze\"\nEspa\u00f1ol: \"barbilla\" - Deutsch: \"Kinn\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"cajas\" - Deutsch: \"Kasten\"\nEspa\u00f1ol: \"bolsillo\" - Deutsch: \"",
+        "target": "['Taschenbuch', 'Hosentasche', 'Tasche', 'Sack']",
+        "word original": "pocket"
+    },
+    "['inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Deutsch: \"Fingerring\"\nEspa\u00f1ol: \"gusano\" - Deutsch: \"Regenwurm\"\nEspa\u00f1ol: \"patata\" - Deutsch: \"Erdapfel\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"camisa\" - Deutsch: \"T-Shirt\"\nEspa\u00f1ol: \"inodoro\" - Deutsch: \"",
+        "target": "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'Abtritt', '\u00d6rtchen', 'WC', 'Abort', 'stilles \u00d6rtchen', 'Lokus']",
+        "word original": "pot"
+    },
+    "['patata', 'papa', 'Solanum tuberosum', 'tater']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Deutsch: \"Hochebene\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"gota\" - Deutsch: \"Urikopathie\"\nEspa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"patata\" - Deutsch: \"",
+        "target": "['Erdapfel', 'Speisekartoffel', 'Tartuffel', 'H\u00e4rd\u00f6pfel', 'Krumenbeere', 'Kartoffel', 'Grundbirne', 'Kartoffeln']",
+        "word original": "potato"
+    },
+    "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"v\u00eda\" - Deutsch: \"Innerortsstra\u00dfe\"\nEspa\u00f1ol: \"semilla\" - Deutsch: \"Samenkorn\"\nEspa\u00f1ol: \"esponja\" - Deutsch: \"Schw\u00e4mme\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"organisatorisch\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Deutsch: \"",
+        "target": "['Strafanstalt', 'Kittchen', 'Gef\u00e4ngnis', 'Bau', 'Knast', 'Haftanstalt', 'Loch']",
+        "word original": "prison"
+    },
+    "['v\u00eda', 'calle', 'rieles', 'v\u00eda del ferrocarril', 'v\u00eda f\u00e9rrea', 'ferrocarriles', 'ferrocarril', 'modo', 'manera', 'guisa', 'moda', 'forma', 'estilo']": {
+        "prompt": "Espa\u00f1ol: \"hilo\" - Deutsch: \"Garn\"\nEspa\u00f1ol: \"rodilla\" - Deutsch: \"Knie\"\nEspa\u00f1ol: \"ventana\" - Deutsch: \"Fenster\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Deutsch: \"Baseball\"\nEspa\u00f1ol: \"v\u00eda\" - Deutsch: \"",
+        "target": "['Innerortsstra\u00dfe', 'Bahngleis', 'Gleis', 'Eisenbahngleis', 'Weg']",
+        "word original": "rail"
+    },
+    "['rata', 'Rattus', 'rat', 'rattus', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus']": {
+        "prompt": "Espa\u00f1ol: \"bolsillo\" - Deutsch: \"Taschenbuch\"\nEspa\u00f1ol: \"dedos del pie\" - Deutsch: \"Zeh\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"ganado bovino\" - Deutsch: \"Hausrind\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"rata\" - Deutsch: \"",
+        "target": "['Ratte', 'Ratten', 'Maus', 'M\u00e4use']",
+        "word original": "rat"
+    },
+    "['factura', 'albar\u00e1n', 'recibo', 'cuenta']": {
+        "prompt": "Espa\u00f1ol: \"ala\" - Deutsch: \"Alanin\"\nEspa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"organisatorisch\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"Hals\"\nEspa\u00f1ol: \"rodilla\" - Deutsch: \"Knie\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"",
+        "target": "['Rechnung', 'Abrechnung', 'Faktura']",
+        "word original": "receipt"
+    },
+    "['castigo corporal', 'castigo f\u00edsico']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"huevo de gallina\" - Deutsch: \"H\u00fchnerei\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"Schuh\"\nEspa\u00f1ol: \"nervio\" - Deutsch: \"Nerv\"\nEspa\u00f1ol: \"castigo corporal\" - Deutsch: \"",
+        "target": "['Pr\u00fcgelstrafe', 'K\u00f6rperstrafe', 'k\u00f6rperliche Z\u00fcchtigung']",
+        "word original": "rod"
+    },
+    "['techumbre', 'techo', 'cubierta', 'tejado']": {
+        "prompt": "Espa\u00f1ol: \"video\" - Deutsch: \"Television\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Deutsch: \"Waggon\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Deutsch: \"Herz\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"techumbre\" - Deutsch: \"",
+        "target": "['Dach']",
+        "word original": "roof"
+    },
+    "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']": {
+        "prompt": "Espa\u00f1ol: \"iglesia\" - Deutsch: \"Kirche\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"Hausziege\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Deutsch: \"Hose\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"Flagge\"\nEspa\u00f1ol: \"barco de vela\" - Deutsch: \"",
+        "target": "['Segelschiff']",
+        "word original": "sail"
+    },
+    "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'college']": {
+        "prompt": "Espa\u00f1ol: \"estante\" - Deutsch: \"B\u00fccherregal\"\nEspa\u00f1ol: \"nube\" - Deutsch: \"Wolke\"\nEspa\u00f1ol: \"rostro\" - Deutsch: \"Visage\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"universidad\" - Deutsch: \"",
+        "target": "['Uni', 'Universit\u00e4t', 'Akademie', 'Schule', 'College', 'Hochschule']",
+        "word original": "school"
+    },
+    "['sax', 'tijeras', 'tijera']": {
+        "prompt": "Espa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"cuadrado\" - Deutsch: \"Quadrat\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"gusano\" - Deutsch: \"Regenwurm\"\nEspa\u00f1ol: \"sax\" - Deutsch: \"",
+        "target": "['Schere']",
+        "word original": "scissors"
+    },
+    "['semilla', 'pepita', 'simiente']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00f1o\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"martillo\" - Deutsch: \"Hammerwurf\"\nEspa\u00f1ol: \"pastel\" - Deutsch: \"Kuchen\"\nEspa\u00f1ol: \"semilla\" - Deutsch: \"",
+        "target": "['Samenkorn', 'Saat', 'Same', 'Samen']",
+        "word original": "seed"
+    },
+    "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"ba\u00f1o\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"botella\" - Deutsch: \"Bouteille\"\nEspa\u00f1ol: \"autoridad\" - Deutsch: \"Bureau\"\nEspa\u00f1ol: \"dedo\" - Deutsch: \"Stinkefinger\"\nEspa\u00f1ol: \"oveja\" - Deutsch: \"",
+        "target": "['Schaf', 'Hausschaf', 'Ovine', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['estante', 'biblioteca', 'estanter\u00eda', 'librero', 'librer\u00eda', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"chica\" - Deutsch: \"M\u00e4dchen\"\nEspa\u00f1ol: \"cajas\" - Deutsch: \"Kasten\"\nEspa\u00f1ol: \"ventana\" - Deutsch: \"Fenster\"\nEspa\u00f1ol: \"pel\u00edcula\" - Deutsch: \"Film\"\nEspa\u00f1ol: \"arco\" - Deutsch: \"Pfeil und Bogen\"\nEspa\u00f1ol: \"estante\" - Deutsch: \"",
+        "target": "['B\u00fccherregal', 'Regal']",
+        "word original": "shelf"
+    },
+    "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'transbordador', 'ferry', 'ferri', 'bote', 'barca', 'barcos', 'casco', 'vaso']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - Deutsch: \"Strasse\"\nEspa\u00f1ol: \"domingo\" - Deutsch: \"Sonntag\"\nEspa\u00f1ol: \"cuchara\" - Deutsch: \"L\u00f6ffel\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Deutsch: \"organisatorisch\"\nEspa\u00f1ol: \"sax\" - Deutsch: \"Schere\"\nEspa\u00f1ol: \"barco\" - Deutsch: \"",
+        "target": "['Schiff', 'F\u00e4hre', 'F\u00e4hrboot', 'F\u00e4hrschiff', '\u00dcberfuhr', 'Boot', 'Wasserfahrzeug']",
+        "word original": "ship"
+    },
+    "['camisa', 'su\u00e9ter', 'camiseta', 'jersey', 'playera', 'Camiseta manga larga', 'polera', 't-shirt', 'niqui']": {
+        "prompt": "Espa\u00f1ol: \"oveja\" - Deutsch: \"Schaf\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Deutsch: \"Hose\"\nEspa\u00f1ol: \"domingo\" - Deutsch: \"Sonntag\"\nEspa\u00f1ol: \"ojos\" - Deutsch: \"Augapfel\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Deutsch: \"Funktion\"\nEspa\u00f1ol: \"camisa\" - Deutsch: \"",
+        "target": "['T-Shirt', 'Jumper', 'Sweater', 'Pulli', 'Pullover', 'Longsleeve', 'Hemd']",
+        "word original": "shirt"
+    },
+    "['zapato']": {
+        "prompt": "Espa\u00f1ol: \"memoria\" - Deutsch: \"Rhetorik\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Deutsch: \"Waggon\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Deutsch: \"Aufkl\u00e4rung\"\nEspa\u00f1ol: \"patata\" - Deutsch: \"Erdapfel\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"zapato\" - Deutsch: \"",
+        "target": "['Schuh', 'Lackschuh']",
+        "word original": "tongue"
+    },
+    "['piel', 'cutis', 'tegumento', 'cuero', 'marroquiner\u00eda', 'pelaje']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Deutsch: \"Kabelfernsehen\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"Str\u00fcmpfe\"\nEspa\u00f1ol: \"piel\" - Deutsch: \"",
+        "target": "['Haut', 'Leder', 'Lederwaren', 'Pelz', 'Fell', 'Balg']",
+        "word original": "skin"
+    },
+    "['falda', 'saya', 'enaguas', 'pollera', 'inclinaci\u00f3n', 'pendiente', 'subida', 'cuesta']": {
+        "prompt": "Espa\u00f1ol: \"mosca\" - Deutsch: \"Fliege\"\nEspa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"u\u00f1a\" - Deutsch: \"Fingernagel\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"cama\" - Deutsch: \"Bett\"\nEspa\u00f1ol: \"falda\" - Deutsch: \"",
+        "target": "['Rock']",
+        "word original": "skirt"
+    },
+    "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']": {
+        "prompt": "Espa\u00f1ol: \"cama\" - Deutsch: \"Bett\"\nEspa\u00f1ol: \"garganta\" - Deutsch: \"Schlucht\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"Hausziege\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"",
+        "target": "['Schlange', 'Schlangen', 'Wurm']",
+        "word original": "snake"
+    },
+    "['calcet\u00edn', 'media', 'calcetines']": {
+        "prompt": "Espa\u00f1ol: \"hoja\" - Deutsch: \"totes Holz\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"bote\" - Deutsch: \"Boot\"\nEspa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"",
+        "target": "['Strumpf', 'Socke']",
+        "word original": "sock"
+    },
+    "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']": {
+        "prompt": "Espa\u00f1ol: \"dedos del pie\" - Deutsch: \"Zeh\"\nEspa\u00f1ol: \"diente\" - Deutsch: \"Z\u00e4hne\"\nEspa\u00f1ol: \"arma\" - Deutsch: \"Waffe\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"Hausziege\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"esponja\" - Deutsch: \"",
+        "target": "['Schw\u00e4mme', 'Schwamm']",
+        "word original": "sponge"
+    },
+    "['cuchara']": {
+        "prompt": "Espa\u00f1ol: \"chica\" - Deutsch: \"M\u00e4dchen\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"Phosphor\"\nEspa\u00f1ol: \"v\u00eda\" - Deutsch: \"Innerortsstra\u00dfe\"\nEspa\u00f1ol: \"pel\u00edcula\" - Deutsch: \"Film\"\nEspa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"cuchara\" - Deutsch: \"",
+        "target": "['L\u00f6ffel']",
+        "word original": "spoon"
+    },
+    "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"sat\u00e9lite\" - Deutsch: \"Satellit\"\nEspa\u00f1ol: \"lavabo\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"bombillo\" - Deutsch: \"Gl\u00fchbirne\"\nEspa\u00f1ol: \"bolsillo\" - Deutsch: \"Taschenbuch\"\nEspa\u00f1ol: \"cuchara\" - Deutsch: \"L\u00f6ffel\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"",
+        "target": "['Quelle']",
+        "word original": "spring"
+    },
+    "['cuadrado', 'cuadro', 'cuadrado perfecto']": {
+        "prompt": "Espa\u00f1ol: \"hormiga\" - Deutsch: \"Ameise\"\nEspa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"cabello\" - Deutsch: \"Haar\"\nEspa\u00f1ol: \"pared\" - Deutsch: \"Wand\"\nEspa\u00f1ol: \"labio\" - Deutsch: \"Lippe\"\nEspa\u00f1ol: \"cuadrado\" - Deutsch: \"",
+        "target": "['Quadrat', 'Quadrat en je zusje']",
+        "word original": "square"
+    },
+    "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']": {
+        "prompt": "Espa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"bolsillo\" - Deutsch: \"Taschenbuch\"\nEspa\u00f1ol: \"camisa\" - Deutsch: \"T-Shirt\"\nEspa\u00f1ol: \"horno\" - Deutsch: \"Hochofen\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"estampilla\" - Deutsch: \"",
+        "target": "['Briefmarke', 'Wertzeichen', 'Freimarke', 'Wert', 'Postwertzeichen', 'Marke']",
+        "word original": "stamp"
+    },
+    "['estrella', 'astro', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha', 'artista', 'protagonista']": {
+        "prompt": "Espa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"perra\" - Deutsch: \"Hund\"\nEspa\u00f1ol: \"marrano\" - Deutsch: \"Hausschwein\"\nEspa\u00f1ol: \"mono\" - Deutsch: \"Affe\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"estrella\" - Deutsch: \"",
+        "target": "['Stern', 'Sonne', 'Fixstern', 'Superstar', 'Expertin', 'Promi', 'Kennerin', 'Adept', 'Prominenter', 'Prominente', 'Experte', 'Kenner', 'Maven', 'Wunder-', 'Star', 'Meister']",
+        "word original": "star"
+    },
+    "['estaci\u00f3n', 'temporada', 'temporada de un club deportivo', 'temporada deportiva', 'per\u00edodo', 'estaci\u00f3n del a\u00f1o', 'estaciones del a\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"cortina\" - Deutsch: \"Vorhang\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"Sprossachse\"\nEspa\u00f1ol: \"esponja\" - Deutsch: \"Schw\u00e4mme\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"pierna\" - Deutsch: \"untere Extremit\u00e4t\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"",
+        "target": "['Saison', 'Spielsaison einer Mannschaft', 'Regular Season', 'Spielsaison', 'Jahreszeit']",
+        "word original": "station"
+    },
+    "['tallo']": {
+        "prompt": "Espa\u00f1ol: \"dedo\" - Deutsch: \"Stinkefinger\"\nEspa\u00f1ol: \"hoja\" - Deutsch: \"totes Holz\"\nEspa\u00f1ol: \"gato\" - Deutsch: \"Hauskatze\"\nEspa\u00f1ol: \"hueso\" - Deutsch: \"Bein\"\nEspa\u00f1ol: \"cajas\" - Deutsch: \"Kasten\"\nEspa\u00f1ol: \"tallo\" - Deutsch: \"",
+        "target": "['Sprossachse', 'Strunk', 'Stiel', 'St\u00e4ngel']",
+        "word original": "stem"
+    },
+    "['cigarro', 'cigarrillo', 'colilla', 'pitillo', 'no fumador', 'h\u00e1bito de fumar', 'fumar', 'fumada', 'puro', 'cigarro puro', 'chicote', 'tagarnina']": {
+        "prompt": "Espa\u00f1ol: \"jard\u00edn\" - Deutsch: \"Garten\"\nEspa\u00f1ol: \"castigo corporal\" - Deutsch: \"Pr\u00fcgelstrafe\"\nEspa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"guimbarda\" - Deutsch: \"Drommeter\"\nEspa\u00f1ol: \"cigarro\" - Deutsch: \"",
+        "target": "['Cigarette', 'Kippe', 'Zigarette', 'Zigarettenstummel', 'Rauchen', 'Nichtraucher', 'Zigarre']",
+        "word original": "stick"
+    },
+    "['medias', 'media']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Deutsch: \"Verstand\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"Fahrrad\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"puente\" - Deutsch: \"Br\u00fccke\"\nEspa\u00f1ol: \"cepillo del pelo\" - Deutsch: \"B\u00fcrste\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"",
+        "target": "['Str\u00fcmpfe', 'Nylonstrumpf']",
+        "word original": "stocking"
+    },
+    "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero']": {
+        "prompt": "Espa\u00f1ol: \"barco\" - Deutsch: \"Schiff\"\nEspa\u00f1ol: \"ala\" - Deutsch: \"Alanin\"\nEspa\u00f1ol: \"trampa\" - Deutsch: \"Einfangen\"\nEspa\u00f1ol: \"gota\" - Deutsch: \"Urikopathie\"\nEspa\u00f1ol: \"l\u00e1piz\" - Deutsch: \"Bleistift\"\nEspa\u00f1ol: \"est\u00f3mago\" - Deutsch: \"",
+        "target": "['Bauch', 'Magen']",
+        "word original": "stomach"
+    },
+    "['memoria', 'ret\u00f3rica', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional', 'estudio', 'reporte', 'informe']": {
+        "prompt": "Espa\u00f1ol: \"arma de fuego\" - Deutsch: \"Schusswaffe\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"Schlange\"\nEspa\u00f1ol: \"gusano\" - Deutsch: \"Regenwurm\"\nEspa\u00f1ol: \"memoria\" - Deutsch: \"",
+        "target": "['Rhetorik', 'Ged\u00e4chtnis', 'Datenspeicher', 'Speichermedium', 'Speicher', 'Computerspeicher', 'Arbeitsspeicher', 'Mitteilung', 'Bericht', 'Reportage', 'Meldung']",
+        "word original": "store"
+    },
+    "['calle', 'carretera', 'camino', 'itinerario', 'ruta', 'rua']": {
+        "prompt": "Espa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"est\u00f3mago\" - Deutsch: \"Bauch\"\nEspa\u00f1ol: \"ducto\" - Deutsch: \"Wasserrohr\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"video\" - Deutsch: \"Television\"\nEspa\u00f1ol: \"calle\" - Deutsch: \"",
+        "target": "['Strasse', 'Stra\u00dfe', 'Wegstrecke', 'Weg', 'Pfad', 'Route']",
+        "word original": "street"
+    },
+    "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"cabra\" - Deutsch: \"Hausziege\"\nEspa\u00f1ol: \"espada\" - Deutsch: \"Schwert\"\nEspa\u00f1ol: \"paraguas\" - Deutsch: \"Parapluie\"\nEspa\u00f1ol: \"sierpe\" - Deutsch: \"Schlange\"\nEspa\u00f1ol: \"domingo\" - Deutsch: \"",
+        "target": "['Sonntag', 'Herrentag', 'Tag des Herrn', 'Herrntag']",
+        "word original": "sun"
+    },
+    "['mesa', 'meseta', 'aljarafe', 'altiplano', 'ajarafe', 'altiplan\u00edcie']": {
+        "prompt": "Espa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"cuello\" - Deutsch: \"Hals\"\nEspa\u00f1ol: \"mono\" - Deutsch: \"Affe\"\nEspa\u00f1ol: \"m\u00fasculo\" - Deutsch: \"Muskel\"\nEspa\u00f1ol: \"arco\" - Deutsch: \"Pfeil und Bogen\"\nEspa\u00f1ol: \"mesa\" - Deutsch: \"",
+        "target": "['Hochebene', 'Plateau', 'Tisch']",
+        "word original": "table"
+    },
+    "['cola', 'procesi\u00f3n', 'convoy', 'pompa', 'comparsa', 'comitiva', 'romer\u00eda', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'tren', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"mono\" - Deutsch: \"Affe\"\nEspa\u00f1ol: \"hormiga\" - Deutsch: \"Ameise\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"Geb\u00fchr\"\nEspa\u00f1ol: \"ropa\" - Deutsch: \"Bekleidung\"\nEspa\u00f1ol: \"fuete\" - Deutsch: \"Peitsche\"\nEspa\u00f1ol: \"cola\" - Deutsch: \"",
+        "target": "['Kreuzprozession', 'Prozession', 'Schwanz', 'Gang', 'Zahnradgetriebe', 'Antriebsstrang']",
+        "word original": "tail"
+    },
+    "['hilo', 'hebra', 'hilado', 'lana', 'hilaza', 'cordel', 'mecate', 'cuerda', 'guita', 'bramante', 'cord\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Deutsch: \"Strumpf\"\nEspa\u00f1ol: \"pel\u00edcula\" - Deutsch: \"Film\"\nEspa\u00f1ol: \"taza\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"calle\" - Deutsch: \"Strasse\"\nEspa\u00f1ol: \"guante\" - Deutsch: \"Handschuh\"\nEspa\u00f1ol: \"hilo\" - Deutsch: \"",
+        "target": "['Garn', 'Faden', 'Zwirn', 'Strang', 'N\u00e4hgarn', 'Kordel', 'Schnur']",
+        "word original": "thread"
+    },
+    "['garganta', 'ca\u00f1\u00f3n', 'desfiladero', 'ca\u00f1\u00f3', 'canon', 'congosto', 'can\u00f3n', 'barranca', 'faringe']": {
+        "prompt": "Espa\u00f1ol: \"pescado\" - Deutsch: \"Fisch\"\nEspa\u00f1ol: \"gato\" - Deutsch: \"Hauskatze\"\nEspa\u00f1ol: \"cabello\" - Deutsch: \"Haar\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"Phosphor\"\nEspa\u00f1ol: \"garganta\" - Deutsch: \"",
+        "target": "['Schlucht', 'Canyon', 'Kehle']",
+        "word original": "throat"
+    },
+    "['pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']": {
+        "prompt": "Espa\u00f1ol: \"diente\" - Deutsch: \"Z\u00e4hne\"\nEspa\u00f1ol: \"hoja\" - Deutsch: \"totes Holz\"\nEspa\u00f1ol: \"timbre\" - Deutsch: \"Briefmarke\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"factura\" - Deutsch: \"Rechnung\"\nEspa\u00f1ol: \"pulgar\" - Deutsch: \"",
+        "target": "['Daumen']",
+        "word original": "thumb"
+    },
+    "['tarifa', 'honorario', 'tasa', 'cuota', 'honorarios', 'estipendio', 'pasaje', 'billete']": {
+        "prompt": "Espa\u00f1ol: \"lavabo\" - Deutsch: \"Klosett\"\nEspa\u00f1ol: \"placa\" - Deutsch: \"Kfz-Kennzeichen\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Deutsch: \"Fotoapparat\"\nEspa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"tarifa\" - Deutsch: \"",
+        "target": "['Geb\u00fchr', 'Fahrpreis', 'Tarifsystem', 'Fahrgeb\u00fchr']",
+        "word original": "ticket"
+    },
+    "['dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie', 'dedo']": {
+        "prompt": "Espa\u00f1ol: \"martillo\" - Deutsch: \"Hammerwurf\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"puerta\" - Deutsch: \"T\u00fcrfutter\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"llave\" - Deutsch: \"Ventil\"\nEspa\u00f1ol: \"dedos del pie\" - Deutsch: \"",
+        "target": "['Zeh', 'kleiner Zeh', 'Zehe', 'Digitus pedis III', 'Digitus pedis II']",
+        "word original": "toe"
+    },
+    "['diente', 'dientes', 'diente humano']": {
+        "prompt": "Espa\u00f1ol: \"nervio\" - Deutsch: \"Nerv\"\nEspa\u00f1ol: \"l\u00e1piz\" - Deutsch: \"Bleistift\"\nEspa\u00f1ol: \"ala\" - Deutsch: \"Alanin\"\nEspa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"diente\" - Deutsch: \"",
+        "target": "['Z\u00e4hne', 'Zahn', 'menschlicher Zahn']",
+        "word original": "tooth"
+    },
+    "['tren', 'ferrocarril', 'locomotora', 'trenes', 'convoy', 'procesi\u00f3n', 'cola', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"gota\" - Deutsch: \"Urikopathie\"\nEspa\u00f1ol: \"cuchara\" - Deutsch: \"L\u00f6ffel\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Deutsch: \"V\u00f6gelchen\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"arma de fuego\" - Deutsch: \"Schusswaffe\"\nEspa\u00f1ol: \"tren\" - Deutsch: \"",
+        "target": "['Zug', 'Personenzug', 'Gang', 'Zahnradgetriebe', 'Antriebsstrang']",
+        "word original": "train"
+    },
+    "['\u00e1rbol', 'arbol']": {
+        "prompt": "Espa\u00f1ol: \"arco\" - Deutsch: \"Pfeil und Bogen\"\nEspa\u00f1ol: \"llave\" - Deutsch: \"Ventil\"\nEspa\u00f1ol: \"huevo de gallina\" - Deutsch: \"H\u00fchnerei\"\nEspa\u00f1ol: \"amortiguador\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nEspa\u00f1ol: \"o\u00eddo\" - Deutsch: \"Ohren\"\nEspa\u00f1ol: \"\u00e1rbol\" - Deutsch: \"",
+        "target": "['Baum']",
+        "word original": "tree"
+    },
+    "['pantal\u00f3n', 'pantalones', 'herales']": {
+        "prompt": "Espa\u00f1ol: \"marrano\" - Deutsch: \"Hausschwein\"\nEspa\u00f1ol: \"bolso\" - Deutsch: \"Handtasche\"\nEspa\u00f1ol: \"reloj\" - Deutsch: \"Uhr\"\nEspa\u00f1ol: \"est\u00f3mago\" - Deutsch: \"Bauch\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Deutsch: \"",
+        "target": "['Hose', 'Hosen']",
+        "word original": "trousers"
+    },
+    "['paraguas', 'sombrilla', 'parasol']": {
+        "prompt": "Espa\u00f1ol: \"estrella\" - Deutsch: \"Stern\"\nEspa\u00f1ol: \"sombrero\" - Deutsch: \"Hut\"\nEspa\u00f1ol: \"puente\" - Deutsch: \"Br\u00fccke\"\nEspa\u00f1ol: \"o\u00eddo\" - Deutsch: \"Ohren\"\nEspa\u00f1ol: \"tenedor\" - Deutsch: \"Gabelung\"\nEspa\u00f1ol: \"paraguas\" - Deutsch: \"",
+        "target": "['Parapluie', 'Schirm', 'Regenschirm']",
+        "word original": "umbrella"
+    },
+    "['pared', 'muro', 'muralla']": {
+        "prompt": "Espa\u00f1ol: \"techumbre\" - Deutsch: \"Dach\"\nEspa\u00f1ol: \"gusano\" - Deutsch: \"Regenwurm\"\nEspa\u00f1ol: \"manantial\" - Deutsch: \"Quelle\"\nEspa\u00f1ol: \"guante\" - Deutsch: \"Handschuh\"\nEspa\u00f1ol: \"ave de corral\" - Deutsch: \"Gefl\u00fcgel\"\nEspa\u00f1ol: \"pared\" - Deutsch: \"",
+        "target": "['Wand', 'Mauer']",
+        "word original": "wall"
+    },
+    "['bicicleta', 'bici', 'bicicletas']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Deutsch: \"Internet\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"horno\" - Deutsch: \"Hochofen\"\nEspa\u00f1ol: \"cuadrado\" - Deutsch: \"Quadrat\"\nEspa\u00f1ol: \"rostro\" - Deutsch: \"Visage\"\nEspa\u00f1ol: \"bicicleta\" - Deutsch: \"",
+        "target": "['Fahrrad', 'Rad', 'Veloziped', 'Velo', 'Drahtesel']",
+        "word original": "wheel"
+    },
+    "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']": {
+        "prompt": "Espa\u00f1ol: \"tren\" - Deutsch: \"Zug\"\nEspa\u00f1ol: \"joya\" - Deutsch: \"Schmuck\"\nEspa\u00f1ol: \"guimbarda\" - Deutsch: \"Drommeter\"\nEspa\u00f1ol: \"ganado bovino\" - Deutsch: \"Hausrind\"\nEspa\u00f1ol: \"bandera\" - Deutsch: \"Flagge\"\nEspa\u00f1ol: \"fuete\" - Deutsch: \"",
+        "target": "['Peitsche', 'Knute', 'Zagel']",
+        "word original": "whip"
+    },
+    "['ventana']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Deutsch: \"Strahlen\"\nEspa\u00f1ol: \"rata\" - Deutsch: \"Ratte\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Deutsch: \"Saison\"\nEspa\u00f1ol: \"granja\" - Deutsch: \"Bauernhof\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Deutsch: \"Phosphor\"\nEspa\u00f1ol: \"ventana\" - Deutsch: \"",
+        "target": "['Fenster', 'Fensterbank']",
+        "word original": "window"
+    },
+    "['ala', 'alanina']": {
+        "prompt": "Espa\u00f1ol: \"castigo corporal\" - Deutsch: \"Pr\u00fcgelstrafe\"\nEspa\u00f1ol: \"esponja\" - Deutsch: \"Schw\u00e4mme\"\nEspa\u00f1ol: \"ni\u00f1o\" - Deutsch: \"Minderj\u00e4hrige\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Deutsch: \"Winkel\"\nEspa\u00f1ol: \"jard\u00edn\" - Deutsch: \"Garten\"\nEspa\u00f1ol: \"ala\" - Deutsch: \"",
+        "target": "['Alanin', 'Fl\u00fcgel']",
+        "word original": "wing"
+    },
+    "['cable', 'televisi\u00f3n por cable', 'alambre']": {
+        "prompt": "Espa\u00f1ol: \"documento nacional de identidad\" - Deutsch: \"Personalausweis\"\nEspa\u00f1ol: \"est\u00f3mago\" - Deutsch: \"Bauch\"\nEspa\u00f1ol: \"m\u00fasculo\" - Deutsch: \"Muskel\"\nEspa\u00f1ol: \"chica\" - Deutsch: \"M\u00e4dchen\"\nEspa\u00f1ol: \"medias\" - Deutsch: \"Str\u00fcmpfe\"\nEspa\u00f1ol: \"cable\" - Deutsch: \"",
+        "target": "['Kabelfernsehen', 'Kabel', 'Draht']",
+        "word original": "wire"
+    },
+    "['gusano', 'lombriz de tierra', 'Lumbricina', 'lombriz', 'Crassiclitellata', 'verme']": {
+        "prompt": "Espa\u00f1ol: \"ventana\" - Deutsch: \"Fenster\"\nEspa\u00f1ol: \"hospital\" - Deutsch: \"Krankenhaus\"\nEspa\u00f1ol: \"\u00e1rbol\" - Deutsch: \"Baum\"\nEspa\u00f1ol: \"c\u00edrculo\" - Deutsch: \"Kreis\"\nEspa\u00f1ol: \"econom\u00eda\" - Deutsch: \"\u00d6konomie\"\nEspa\u00f1ol: \"gusano\" - Deutsch: \"",
+        "target": "['Regenwurm', 'Crassiclitellata', 'Tauwurm', 'Gemeiner Regenwurm', 'Aalwurm', 'Lumbricina', 'Wurm', 'W\u00fcrmer']",
+        "word original": "worm"
+    }
+}

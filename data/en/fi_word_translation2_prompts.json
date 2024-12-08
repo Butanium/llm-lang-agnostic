@@ -1,0 +1,882 @@
+{
+    "['angle', 'adjacent angle', 'supplementary angles', 'Complementary angles', 'vertically opposite angle theorem', 'vertical angles']": {
+        "prompt": "English: \"tree\" - Suomi: \"puu\"\nEnglish: \"natural satellite\" - Suomi: \"kuu\"\nEnglish: \"sailing ship\" - Suomi: \"purjealus\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"hen's egg\" - Suomi: \"muna\"\nEnglish: \"angle\" - Suomi: \"",
+        "target": "['suplementtikulmat', 'Suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma']",
+        "word original": "angle"
+    },
+    "['ant', 'emmet', 'pismire', 'Formicidae']": {
+        "prompt": "English: \"curtain\" - Suomi: \"verho\"\nEnglish: \"fingernail\" - Suomi: \"kynsi\"\nEnglish: \"face\" - Suomi: \"fontti\"\nEnglish: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"cheese\" - Suomi: \"juusto\"\nEnglish: \"ant\" - Suomi: \"",
+        "target": "['muurahainen', 'muurahaiset', 'kusiainen']",
+        "word original": "ant"
+    },
+    "['apple peel', 'apple']": {
+        "prompt": "English: \"pen\" - Suomi: \"penisilliini\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"computer memory\" - Suomi: \"muisti\"\nEnglish: \"goat\" - Suomi: \"vuohi\"\nEnglish: \"apple peel\" - Suomi: \"",
+        "target": "['omena']",
+        "word original": "apple"
+    },
+    "['arch']": {
+        "prompt": "English: \"cloud\" - Suomi: \"pilvi\"\nEnglish: \"note\" - Suomi: \"seteli\"\nEnglish: \"circle\" - Suomi: \"ympyr\u00e4\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"street\" - Suomi: \"katu\"\nEnglish: \"arch\" - Suomi: \"",
+        "target": "['holvikaari', 'Kaari', 'kaari', 'holvi']",
+        "word original": "arch"
+    },
+    "['weapon', 'weapon system', 'arm', 'horn']": {
+        "prompt": "English: \"nose\" - Suomi: \"nen\u00e4\"\nEnglish: \"fish\" - Suomi: \"kala\"\nEnglish: \"boat\" - Suomi: \"vene\"\nEnglish: \"pants\" - Suomi: \"housut\"\nEnglish: \"cake\" - Suomi: \"kakku\"\nEnglish: \"weapon\" - Suomi: \"",
+        "target": "['ase', 'astalo', 'sarvi']",
+        "word original": "arm"
+    },
+    "['armed forces', 'military', 'force', 'military unit', 'military force', 'war machine', 'armed services', 'military machine']": {
+        "prompt": "English: \"network\" - Suomi: \"internet\"\nEnglish: \"baby\" - Suomi: \"pikkulapsi\"\nEnglish: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"lightbulb\" - Suomi: \"hehkulamppu\"\nEnglish: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"armed forces\" - Suomi: \"",
+        "target": "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat']",
+        "word original": "army"
+    },
+    "['baby', 'infaneto', 'infant', 'babe']": {
+        "prompt": "English: \"armed forces\" - Suomi: \"asevoimat\"\nEnglish: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"marine sponge\" - Suomi: \"sieniel\u00e4imet\"\nEnglish: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"baby\" - Suomi: \"",
+        "target": "['pikkulapsi', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4']",
+        "word original": "baby"
+    },
+    "['ring', 'band', 'gang', 'pack', 'mob', 'boxing ring']": {
+        "prompt": "English: \"church\" - Suomi: \"kirkko\"\nEnglish: \"aeroplane\" - Suomi: \"ilma-alus\"\nEnglish: \"bed\" - Suomi: \"vuode\"\nEnglish: \"clinic\" - Suomi: \"sairaala\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"ring\" - Suomi: \"",
+        "target": "['sormus', 'jengi', 'katujengi', 'rinki', 'sakki', 'joukkio', 'lauma', 'joukko', 'keh\u00e4']",
+        "word original": "ring"
+    },
+    "['sink', 'swallet', 'doline', 'sinkhole', 'shake hole', 'cenote', 'sink hole', 'swallow hole', 'shakehole', 'basin', 'kitchen sink']": {
+        "prompt": "English: \"church\" - Suomi: \"kirkko\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"television\" - Suomi: \"televisio\"\nEnglish: \"economics\" - Suomi: \"talosel\u00e4m\u00e4\"\nEnglish: \"sink\" - Suomi: \"",
+        "target": "['karstivajoama', 'doliini', 'vajoama', 'suppa', 'sortumakaivo', 'karstipainauma', 'amme', 'pesuallas', 'lavuaari', 'Lavuaari', 'viem\u00e4riallas']",
+        "word original": "basin"
+    },
+    "['bath', 'restroom', 'bathroom']": {
+        "prompt": "English: \"weapon\" - Suomi: \"ase\"\nEnglish: \"baby\" - Suomi: \"pikkulapsi\"\nEnglish: \"carriage\" - Suomi: \"rautatieajoneuvo\"\nEnglish: \"sill\" - Suomi: \"ikkuna\"\nEnglish: \"boxes\" - Suomi: \"laatikko\"\nEnglish: \"bath\" - Suomi: \"",
+        "target": "['kylpyhuone', 'kylpyl\u00e4', 'amme', 'kylpyamme']",
+        "word original": "bath"
+    },
+    "['bed']": {
+        "prompt": "English: \"needle\" - Suomi: \"ompeluneula\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"fly\" - Suomi: \"kaksisiipiset\"\nEnglish: \"ear\" - Suomi: \"korva\"\nEnglish: \"economics\" - Suomi: \"talosel\u00e4m\u00e4\"\nEnglish: \"bed\" - Suomi: \"",
+        "target": "['vuode', 's\u00e4nky', 'peti']",
+        "word original": "bed"
+    },
+    "['bee', 'Anthophila']": {
+        "prompt": "English: \"Sunday\" - Suomi: \"sunnuntai\"\nEnglish: \"skirt\" - Suomi: \"hame\"\nEnglish: \"monkey\" - Suomi: \"apina\"\nEnglish: \"passenger train\" - Suomi: \"juna\"\nEnglish: \"tooth\" - Suomi: \"hammas\"\nEnglish: \"bee\" - Suomi: \"",
+        "target": "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset']",
+        "word original": "bee"
+    },
+    "['bell', 'buzzer', 'doorbell']": {
+        "prompt": "English: \"house\" - Suomi: \"talo\"\nEnglish: \"domestic sheep\" - Suomi: \"lammas\"\nEnglish: \"throat\" - Suomi: \"kurkku\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"nut\" - Suomi: \"munasolu\"\nEnglish: \"bell\" - Suomi: \"",
+        "target": "['kello', 'ovikello', 'Ovikello', 'ovisummeri', 'kulkunen']",
+        "word original": "bell"
+    },
+    "['bird', 'Eu-']": {
+        "prompt": "English: \"spring\" - Suomi: \"l\u00e4hde\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"door case\" - Suomi: \"ovi\"\nEnglish: \"cake\" - Suomi: \"kakku\"\nEnglish: \"bird\" - Suomi: \"",
+        "target": "['linnut', 'lintu']",
+        "word original": "bird"
+    },
+    "['sword', 'brand', 'steel', 'blade']": {
+        "prompt": "English: \"teakettle\" - Suomi: \"teepannu\"\nEnglish: \"stomach\" - Suomi: \"vatsa\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"square\" - Suomi: \"aukio\"\nEnglish: \"bell\" - Suomi: \"kello\"\nEnglish: \"sword\" - Suomi: \"",
+        "target": "['miekka', 'kalpa']",
+        "word original": "blade"
+    },
+    "['committee', 'commission']": {
+        "prompt": "English: \"sock\" - Suomi: \"sukka\"\nEnglish: \"nerve\" - Suomi: \"hermo\"\nEnglish: \"clinic\" - Suomi: \"sairaala\"\nEnglish: \"wing\" - Suomi: \"siipi\"\nEnglish: \"skin\" - Suomi: \"iho\"\nEnglish: \"committee\" - Suomi: \"",
+        "target": "['komitea', 'valiokunta', 'toimikunta', 'lautakunta']",
+        "word original": "board"
+    },
+    "['boat']": {
+        "prompt": "English: \"pin\" - Suomi: \"jalka\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"tree\" - Suomi: \"puu\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"boat\" - Suomi: \"",
+        "target": "['vene']",
+        "word original": "boat"
+    },
+    "['bone', 'os']": {
+        "prompt": "English: \"note\" - Suomi: \"seteli\"\nEnglish: \"movie\" - Suomi: \"filmi\"\nEnglish: \"baby\" - Suomi: \"pikkulapsi\"\nEnglish: \"watch\" - Suomi: \"rannekello\"\nEnglish: \"church\" - Suomi: \"kirkko\"\nEnglish: \"bone\" - Suomi: \"",
+        "target": "['luu', 'os']",
+        "word original": "bone"
+    },
+    "['book']": {
+        "prompt": "English: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"book\" - Suomi: \"",
+        "target": "['kirja']",
+        "word original": "book"
+    },
+    "['boot', 'kicking', 'kick']": {
+        "prompt": "English: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"farm\" - Suomi: \"maatila\"\nEnglish: \"street\" - Suomi: \"katu\"\nEnglish: \"pencil\" - Suomi: \"lyijykyn\u00e4\"\nEnglish: \"knife\" - Suomi: \"veitsi\"\nEnglish: \"boot\" - Suomi: \"",
+        "target": "['Saapas', 'saapas', 'varsikenk\u00e4', 'potku', 'potkiminen']",
+        "word original": "boot"
+    },
+    "['bottle']": {
+        "prompt": "English: \"church\" - Suomi: \"kirkko\"\nEnglish: \"cornet\" - Suomi: \"munniharppu\"\nEnglish: \"tree\" - Suomi: \"puu\"\nEnglish: \"fork\" - Suomi: \"sivujoki\"\nEnglish: \"economics\" - Suomi: \"talosel\u00e4m\u00e4\"\nEnglish: \"bottle\" - Suomi: \"",
+        "target": "['pullo']",
+        "word original": "bottle"
+    },
+    "['boxes', 'box']": {
+        "prompt": "English: \"cloud\" - Suomi: \"pilvi\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"farm\" - Suomi: \"maatila\"\nEnglish: \"boxes\" - Suomi: \"",
+        "target": "['laatikko', 'rasia', 'aski']",
+        "word original": "box"
+    },
+    "['boy', 'heroin', 'diacetylmorphine', 'male child', 'son']": {
+        "prompt": "English: \"television\" - Suomi: \"televisio\"\nEnglish: \"gun\" - Suomi: \"tykist\u00f6\"\nEnglish: \"nerve\" - Suomi: \"hermo\"\nEnglish: \"stamp\" - Suomi: \"postimerkki\"\nEnglish: \"lips\" - Suomi: \"huuli\"\nEnglish: \"boy\" - Suomi: \"",
+        "target": "['heroiini', 'Heroiini', 'diasetyylimorfiini', 'poika']",
+        "word original": "boy"
+    },
+    "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'managing director', 'manager', 'top dog', 'question']": {
+        "prompt": "English: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"gemstone\" - Suomi: \"jalokivi\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"sink\" - Suomi: \"karstivajoama\"\nEnglish: \"head\" - Suomi: \"",
+        "target": "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'nous', 'j\u00e4rki', '\u00e4lli', 'lanttu', 'kallo', 'johtaja', 'p\u00e4\u00e4llikk\u00f6', 'toimitusjohtaja', 'pomo', 'kysymys', 'asia']",
+        "word original": "head"
+    },
+    "['brake', 'braking']": {
+        "prompt": "English: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"door case\" - Suomi: \"ovi\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"square\" - Suomi: \"aukio\"\nEnglish: \"pants\" - Suomi: \"housut\"\nEnglish: \"brake\" - Suomi: \"",
+        "target": "['Jarru', 'jarru']",
+        "word original": "brake"
+    },
+    "['economics', 'economic science', 'political economy']": {
+        "prompt": "English: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"plough\" - Suomi: \"aura\"\nEnglish: \"pussy\" - Suomi: \"mirri\"\nEnglish: \"movie\" - Suomi: \"filmi\"\nEnglish: \"aeroplane\" - Suomi: \"ilma-alus\"\nEnglish: \"economics\" - Suomi: \"",
+        "target": "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia']",
+        "word original": "branch"
+    },
+    "['brick']": {
+        "prompt": "English: \"key\" - Suomi: \"s\u00e4vellaji\"\nEnglish: \"note\" - Suomi: \"seteli\"\nEnglish: \"door case\" - Suomi: \"ovi\"\nEnglish: \"bell\" - Suomi: \"kello\"\nEnglish: \"cornet\" - Suomi: \"munniharppu\"\nEnglish: \"brick\" - Suomi: \"",
+        "target": "['tiili', 'tiiliskivi']",
+        "word original": "brick"
+    },
+    "['bridge', 'span', 'list of Roman bridges']": {
+        "prompt": "English: \"picture\" - Suomi: \"filmi\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"mouth\" - Suomi: \"suu\"\nEnglish: \"monkey\" - Suomi: \"apina\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"bridge\" - Suomi: \"",
+        "target": "['silta']",
+        "word original": "bridge"
+    },
+    "['brush', 'scrubland', 'shrubland']": {
+        "prompt": "English: \"agency\" - Suomi: \"virka\"\nEnglish: \"pig\" - Suomi: \"villisika\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"lips\" - Suomi: \"huuli\"\nEnglish: \"brush\" - Suomi: \"",
+        "target": "['pensasaro', 'Pensasaro', 'pensasmaa', 'harja', 'suti', 'sivellin', 'suka']",
+        "word original": "brush"
+    },
+    "['bucket', 'pail', 'Pail']": {
+        "prompt": "English: \"thumb\" - Suomi: \"peukalo\"\nEnglish: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"stocking\" - Suomi: \"sukka\"\nEnglish: \"skin\" - Suomi: \"iho\"\nEnglish: \"bucket\" - Suomi: \"",
+        "target": "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']",
+        "word original": "bucket"
+    },
+    "['lightbulb', 'electric-light bulb', 'incandescent light bulb', 'electric light', 'electric bulb', 'bulb', 'incandescent lamp', 'light bulb']": {
+        "prompt": "English: \"church\" - Suomi: \"kirkko\"\nEnglish: \"human body\" - Suomi: \"ihmisruumis\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"stem\" - Suomi: \"varsi\"\nEnglish: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"lightbulb\" - Suomi: \"",
+        "target": "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']",
+        "word original": "bulb"
+    },
+    "['button', 'curling', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"domestic sheep\" - Suomi: \"lammas\"\nEnglish: \"dog\" - Suomi: \"koira\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"button\" - Suomi: \"",
+        "target": "['curling', 'nappi', 'painokytkin', 'painonappi', 'painike', 'nappula', 'n\u00e4pp\u00e4in']",
+        "word original": "button"
+    },
+    "['cake']": {
+        "prompt": "English: \"nerve\" - Suomi: \"hermo\"\nEnglish: \"weapon\" - Suomi: \"ase\"\nEnglish: \"marine sponge\" - Suomi: \"sieniel\u00e4imet\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"sill\" - Suomi: \"ikkuna\"\nEnglish: \"cake\" - Suomi: \"",
+        "target": "['kakku']",
+        "word original": "cake"
+    },
+    "['camera', 'photographic camera', 'still camera', 'movie camera', 'television camera', 'tv camera', 'professional video camera']": {
+        "prompt": "English: \"taking into custody\" - Suomi: \"pid\u00e4tys\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"girl\" - Suomi: \"tytt\u00f6\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"camera\" - Suomi: \"",
+        "target": "['kamera', 'valokuvakamera', 'televisiokamera']",
+        "word original": "camera"
+    },
+    "['identity card', 'I.D.', 'ID', 'identity document', 'identification card', 'card', 'ID card']": {
+        "prompt": "English: \"circle\" - Suomi: \"ympyr\u00e4\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"cigar\" - Suomi: \"sikari\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"cornet\" - Suomi: \"munniharppu\"\nEnglish: \"identity card\" - Suomi: \"",
+        "target": "['henkil\u00f6kortti', 'henkil\u00f6llisyystodistus', 'henkil\u00f6todistus', 'I.D.', 'ID']",
+        "word original": "card"
+    },
+    "['carriage', 'railroad car', 'railway carriage', 'car', 'railcar', 'railway car', 'motor coach', 'rig', 'equipage']": {
+        "prompt": "English: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"lips\" - Suomi: \"huuli\"\nEnglish: \"passenger train\" - Suomi: \"juna\"\nEnglish: \"watch\" - Suomi: \"rannekello\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"carriage\" - Suomi: \"",
+        "target": "['rautatieajoneuvo', 'moottorivaunu', 'junanvaunu', 'rautatievaunu', 'Moottorivaunu', 'vaunu', 'junavaunu', 'hissikori', 'kiskoauto', 'raidevaunu', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat']",
+        "word original": "carriage"
+    },
+    "['pussy', 'domestic cat', 'kitty-cat', 'cat', 'pussycat', 'kitty', 'puss', 'true cat', 'house cat']": {
+        "prompt": "English: \"arch\" - Suomi: \"holvikaari\"\nEnglish: \"scissors\" - Suomi: \"sakset\"\nEnglish: \"skirt\" - Suomi: \"hame\"\nEnglish: \"human foot\" - Suomi: \"jalkater\u00e4\"\nEnglish: \"spoon\" - Suomi: \"lusikka\"\nEnglish: \"pussy\" - Suomi: \"",
+        "target": "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']",
+        "word original": "cat"
+    },
+    "['cheese', 'YAMSHD']": {
+        "prompt": "English: \"dog\" - Suomi: \"koira\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"square\" - Suomi: \"aukio\"\nEnglish: \"stomach\" - Suomi: \"vatsa\"\nEnglish: \"cheese\" - Suomi: \"",
+        "target": "['juusto']",
+        "word original": "cheese"
+    },
+    "['chest', 'breast', 'thorax', 'chest cavity', 'thoracic cavity', 'pectus']": {
+        "prompt": "English: \"flag\" - Suomi: \"lippu\"\nEnglish: \"tree\" - Suomi: \"puu\"\nEnglish: \"spring\" - Suomi: \"l\u00e4hde\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"chest\" - Suomi: \"",
+        "target": "['Arkku', 'arkku', 'kirstu', 'rinta', 'rintakeh\u00e4', 'Rintakeh\u00e4', 'Rinta', 'thorax', 'tooraksi']",
+        "word original": "chest"
+    },
+    "['chin', 'mentum']": {
+        "prompt": "English: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"scissors\" - Suomi: \"sakset\"\nEnglish: \"square\" - Suomi: \"aukio\"\nEnglish: \"wing\" - Suomi: \"siipi\"\nEnglish: \"stomach\" - Suomi: \"vatsa\"\nEnglish: \"chin\" - Suomi: \"",
+        "target": "['leuka', 'leukakyhmy', 'mentum']",
+        "word original": "chin"
+    },
+    "['church', 'church building']": {
+        "prompt": "English: \"worm\" - Suomi: \"eurooppalainen lohik\u00e4\u00e4rme\"\nEnglish: \"drop\" - Suomi: \"jyrk\u00e4nne\"\nEnglish: \"potato\" - Suomi: \"peruna\"\nEnglish: \"comb\" - Suomi: \"kampa\"\nEnglish: \"valley\" - Suomi: \"laakso\"\nEnglish: \"church\" - Suomi: \"",
+        "target": "['kirkko', 'kirkkorakennus']",
+        "word original": "church"
+    },
+    "['circle', 'disk', 'disc']": {
+        "prompt": "English: \"farm\" - Suomi: \"maatila\"\nEnglish: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"spoon\" - Suomi: \"lusikka\"\nEnglish: \"shirt\" - Suomi: \"paita\"\nEnglish: \"circle\" - Suomi: \"",
+        "target": "['ympyr\u00e4', 'kiekko', 'py\u00f6re\u00e4 levy', 'lautanen']",
+        "word original": "circle"
+    },
+    "['clock']": {
+        "prompt": "English: \"roof\" - Suomi: \"ulkokatto\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"neck\" - Suomi: \"kaula\"\nEnglish: \"worm\" - Suomi: \"eurooppalainen lohik\u00e4\u00e4rme\"\nEnglish: \"clothes\" - Suomi: \"vaatetus\"\nEnglish: \"clock\" - Suomi: \"",
+        "target": "['kello']",
+        "word original": "clock"
+    },
+    "['cloud']": {
+        "prompt": "English: \"drop\" - Suomi: \"jyrk\u00e4nne\"\nEnglish: \"wall\" - Suomi: \"sein\u00e4\"\nEnglish: \"fingernail\" - Suomi: \"kynsi\"\nEnglish: \"potato\" - Suomi: \"peruna\"\nEnglish: \"jail\" - Suomi: \"linna\"\nEnglish: \"cloud\" - Suomi: \"",
+        "target": "['pilvi']",
+        "word original": "cloud"
+    },
+    "['jacket', 'coat']": {
+        "prompt": "English: \"sink\" - Suomi: \"karstivajoama\"\nEnglish: \"boot\" - Suomi: \"Saapas\"\nEnglish: \"chest\" - Suomi: \"Arkku\"\nEnglish: \"note\" - Suomi: \"seteli\"\nEnglish: \"book\" - Suomi: \"kirja\"\nEnglish: \"jacket\" - Suomi: \"",
+        "target": "['takki', 'pusakka', 'pikkutakki']",
+        "word original": "coat"
+    },
+    "['taking into custody', 'arrest', 'collar', 'catch', 'apprehension', 'pinch']": {
+        "prompt": "English: \"bucket\" - Suomi: \"\u00e4mp\u00e4ri\"\nEnglish: \"key\" - Suomi: \"s\u00e4vellaji\"\nEnglish: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"match\" - Suomi: \"urheilukilpailu\"\nEnglish: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"taking into custody\" - Suomi: \"",
+        "target": "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni']",
+        "word original": "collar"
+    },
+    "['comb']": {
+        "prompt": "English: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"weapon\" - Suomi: \"ase\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"nerve\" - Suomi: \"hermo\"\nEnglish: \"comb\" - Suomi: \"",
+        "target": "['kampa']",
+        "word original": "comb"
+    },
+    "['cow', 'cattle', 'kine', 'oxen', 'Bos taurus', 'cows', 'moo-cow']": {
+        "prompt": "English: \"television\" - Suomi: \"televisio\"\nEnglish: \"eye\" - Suomi: \"silm\u00e4muna\"\nEnglish: \"drop\" - Suomi: \"jyrk\u00e4nne\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"passenger train\" - Suomi: \"juna\"\nEnglish: \"cow\" - Suomi: \"",
+        "target": "['karja', 'Bos taurus', 'nauta', 'nautakarja', 'lehm\u00e4']",
+        "word original": "cow"
+    },
+    "['cup', 'standing cup', 'cup with stem', 'drinking glass']": {
+        "prompt": "English: \"knee\" - Suomi: \"polvi\"\nEnglish: \"roof\" - Suomi: \"ulkokatto\"\nEnglish: \"gate\" - Suomi: \"kanavan sulku\"\nEnglish: \"television\" - Suomi: \"televisio\"\nEnglish: \"ship\" - Suomi: \"laiva\"\nEnglish: \"cup\" - Suomi: \"",
+        "target": "['kuppi', 'juomalasi', 'juomapikari', 'Juomalasi']",
+        "word original": "cup"
+    },
+    "['curtain', 'drapery', 'drape', 'mantle', 'pall', 'altar cloth']": {
+        "prompt": "English: \"shirt\" - Suomi: \"paita\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"book\" - Suomi: \"kirja\"\nEnglish: \"face\" - Suomi: \"fontti\"\nEnglish: \"curtain\" - Suomi: \"",
+        "target": "['verho', 'verhot']",
+        "word original": "curtain"
+    },
+    "['shock absorber', 'shock', 'cushion']": {
+        "prompt": "English: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"stocking\" - Suomi: \"sukka\"\nEnglish: \"toes\" - Suomi: \"varvas\"\nEnglish: \"nut\" - Suomi: \"munasolu\"\nEnglish: \"horse\" - Suomi: \"hevonen\"\nEnglish: \"shock absorber\" - Suomi: \"",
+        "target": "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']",
+        "word original": "cushion"
+    },
+    "['dog', 'Canis familiaris', 'domestic dog', 'Canis lupus familiaris']": {
+        "prompt": "English: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"knife\" - Suomi: \"veitsi\"\nEnglish: \"human foot\" - Suomi: \"jalkater\u00e4\"\nEnglish: \"monkey\" - Suomi: \"apina\"\nEnglish: \"movie\" - Suomi: \"filmi\"\nEnglish: \"dog\" - Suomi: \"",
+        "target": "['koira', 'Canis lupus familiaris', 'Canis familiaris']",
+        "word original": "dog"
+    },
+    "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe']": {
+        "prompt": "English: \"fork\" - Suomi: \"sivujoki\"\nEnglish: \"curtain\" - Suomi: \"verho\"\nEnglish: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"book\" - Suomi: \"kirja\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"door case\" - Suomi: \"",
+        "target": "['ovi']",
+        "word original": "door"
+    },
+    "['gate', 'lock', 'canal lock', 'lock chamber']": {
+        "prompt": "English: \"shock absorber\" - Suomi: \"iskunvaimennin\"\nEnglish: \"bottle\" - Suomi: \"pullo\"\nEnglish: \"house\" - Suomi: \"talo\"\nEnglish: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"gate\" - Suomi: \"",
+        "target": "['kanavan sulku', 'sulku', 'sulkukammio', 'portti']",
+        "word original": "drain"
+    },
+    "['picture', 'movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture show', 'moving-picture show', 'image', 'artist', 'painting', 'painter', 'art of painting', 'drawing', 'map', 'portraiture', 'design', 'illustration', 'figure', 'pattern', 'ikon', 'icon', 'photo', 'photograph', 'exposure', 'video']": {
+        "prompt": "English: \"neck\" - Suomi: \"kaula\"\nEnglish: \"scissors\" - Suomi: \"sakset\"\nEnglish: \"key\" - Suomi: \"s\u00e4vellaji\"\nEnglish: \"television\" - Suomi: \"televisio\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"picture\" - Suomi: \"",
+        "target": "['filmi', 'ohut kalvo', 'elokuva', 'leffa', 'elokuvan\u00e4yt\u00f6s', 'kuva', 'maalaustaide', 'maalaus', 'piirros', 'piirustus', 'valokuva', 'foto', 'otos']",
+        "word original": "drawer"
+    },
+    "['clothes', 'thing', 'things', 'garments', 'garment', 'apparel', 'raiment', 'clothing', 'wearable', 'article of clothing', 'wear', 'habiliment', 'vesture', 'dress', 'wearing apparel']": {
+        "prompt": "English: \"bridge\" - Suomi: \"silta\"\nEnglish: \"angle\" - Suomi: \"suplementtikulmat\"\nEnglish: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"goat\" - Suomi: \"vuohi\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"clothes\" - Suomi: \"",
+        "target": "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku', 'vaateparsi']",
+        "word original": "dress"
+    },
+    "['drop', 'cliff', 'drop-off', 'raindrop', 'drib', 'driblet']": {
+        "prompt": "English: \"human body\" - Suomi: \"ihmisruumis\"\nEnglish: \"book\" - Suomi: \"kirja\"\nEnglish: \"key\" - Suomi: \"s\u00e4vellaji\"\nEnglish: \"bed\" - Suomi: \"vuode\"\nEnglish: \"identity card\" - Suomi: \"henkil\u00f6kortti\"\nEnglish: \"drop\" - Suomi: \"",
+        "target": "['jyrk\u00e4nne', 'jyrkk\u00e4 pudotus', 'jyrkk\u00e4 rinne', 'kalliosein\u00e4m\u00e4', 'tippa', 'pisara', 'tilkka']",
+        "word original": "drop"
+    },
+    "['ear', 'ears']": {
+        "prompt": "English: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"musculus\" - Suomi: \"lihas\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"school\" - Suomi: \"yliopisto\"\nEnglish: \"picture\" - Suomi: \"filmi\"\nEnglish: \"ear\" - Suomi: \"",
+        "target": "['korva']",
+        "word original": "ear"
+    },
+    "[\"hen's egg\", \"chicken's egg\", 'chicken egg', 'egg', 'eggs', 'Eggs as food', 'insect egg']": {
+        "prompt": "English: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"clock\" - Suomi: \"kello\"\nEnglish: \"wing\" - Suomi: \"siipi\"\nEnglish: \"gemstone\" - Suomi: \"jalokivi\"\nEnglish: \"jacket\" - Suomi: \"takki\"\nEnglish: \"hen's egg\" - Suomi: \"",
+        "target": "['muna', 'kananmuna', 'munat']",
+        "word original": "egg"
+    },
+    "['motor', 'electric motor', 'engine']": {
+        "prompt": "English: \"passenger train\" - Suomi: \"juna\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"cheese\" - Suomi: \"juusto\"\nEnglish: \"fingernail\" - Suomi: \"kynsi\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"motor\" - Suomi: \"",
+        "target": "['s\u00e4hk\u00f6moottori', 'moottori']",
+        "word original": "engine"
+    },
+    "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"valley\" - Suomi: \"laakso\"\nEnglish: \"girl\" - Suomi: \"tytt\u00f6\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"pen\" - Suomi: \"penisilliini\"\nEnglish: \"eye\" - Suomi: \"",
+        "target": "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6', 'keskusta', 'keskus', 'syd\u00e4n', 'keskipiste']",
+        "word original": "eye"
+    },
+    "['face', 'typeface', 'font', 'case', 'fount', 'human face', 'air', 'appearance', 'manner', 'demeanor', 'look', 'expression', 'mien', 'bearing', 'demeanour', 'facial expression', 'aspect']": {
+        "prompt": "English: \"bird\" - Suomi: \"linnut\"\nEnglish: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"star\" - Suomi: \"t\u00e4hti\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"oven\" - Suomi: \"uuni\"\nEnglish: \"face\" - Suomi: \"",
+        "target": "['fontti', 'kirjaintyyppi', 'kirjasintyyppi', 'kirjasinlaji', 'kirjasintyyli', 'kirjasin', 'naama', 'kasvot', 'p\u00e4rst\u00e4', 'olemus', 'ilme', 'n\u00e4k\u00f6inen']",
+        "word original": "face"
+    },
+    "['farm']": {
+        "prompt": "English: \"boat\" - Suomi: \"vene\"\nEnglish: \"pencil\" - Suomi: \"lyijykyn\u00e4\"\nEnglish: \"note\" - Suomi: \"seteli\"\nEnglish: \"stem\" - Suomi: \"varsi\"\nEnglish: \"mouth\" - Suomi: \"suu\"\nEnglish: \"farm\" - Suomi: \"",
+        "target": "['maatila', 'tila', 'farmi']",
+        "word original": "farm"
+    },
+    "['plume', 'feathers', 'feather', 'plumage', 'barbule']": {
+        "prompt": "English: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"knot\" - Suomi: \"solmu\"\nEnglish: \"throat\" - Suomi: \"kurkku\"\nEnglish: \"cow\" - Suomi: \"karja\"\nEnglish: \"book\" - Suomi: \"kirja\"\nEnglish: \"plume\" - Suomi: \"",
+        "target": "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka']",
+        "word original": "feather"
+    },
+    "['finger', 'the finger']": {
+        "prompt": "English: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"nut\" - Suomi: \"munasolu\"\nEnglish: \"knot\" - Suomi: \"solmu\"\nEnglish: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"fly\" - Suomi: \"kaksisiipiset\"\nEnglish: \"finger\" - Suomi: \"",
+        "target": "['keskisormi', 'Keskisormi', 'sormi', 'n\u00e4ppi']",
+        "word original": "finger"
+    },
+    "['fish', 'food fish', 'fish as food', 'Pisces']": {
+        "prompt": "English: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"armed forces\" - Suomi: \"asevoimat\"\nEnglish: \"oven\" - Suomi: \"uuni\"\nEnglish: \"pen\" - Suomi: \"penisilliini\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"fish\" - Suomi: \"",
+        "target": "['kala', 'ruokakala', 'Kala ruokana', 'kala ruokana', 'kalat', 'Pisces']",
+        "word original": "fish"
+    },
+    "['flag', 'penalty', 'Penalty']": {
+        "prompt": "English: \"fork\" - Suomi: \"sivujoki\"\nEnglish: \"ship\" - Suomi: \"laiva\"\nEnglish: \"hen's egg\" - Suomi: \"muna\"\nEnglish: \"clock\" - Suomi: \"kello\"\nEnglish: \"angle\" - Suomi: \"suplementtikulmat\"\nEnglish: \"flag\" - Suomi: \"",
+        "target": "['lippu', 'rangaistus']",
+        "word original": "flag"
+    },
+    "['valley', 'dale', 'vale']": {
+        "prompt": "English: \"chest\" - Suomi: \"Arkku\"\nEnglish: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"angle\" - Suomi: \"suplementtikulmat\"\nEnglish: \"star\" - Suomi: \"t\u00e4hti\"\nEnglish: \"horse\" - Suomi: \"hevonen\"\nEnglish: \"valley\" - Suomi: \"",
+        "target": "['laakso']",
+        "word original": "floor"
+    },
+    "['fly', 'Diptera']": {
+        "prompt": "English: \"cake\" - Suomi: \"kakku\"\nEnglish: \"wing\" - Suomi: \"siipi\"\nEnglish: \"Sunday\" - Suomi: \"sunnuntai\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"neck\" - Suomi: \"kaula\"\nEnglish: \"fly\" - Suomi: \"",
+        "target": "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']",
+        "word original": "fly"
+    },
+    "['human foot', 'foot', 'pes', 'Pes', 'Foot']": {
+        "prompt": "English: \"cup\" - Suomi: \"kuppi\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"taking into custody\" - Suomi: \"pid\u00e4tys\"\nEnglish: \"hammer\" - Suomi: \"heroiini\"\nEnglish: \"human foot\" - Suomi: \"",
+        "target": "['jalkater\u00e4', 'jalka']",
+        "word original": "foot"
+    },
+    "['fork', 'tributary', 'feeder', 'confluent', 'affluent']": {
+        "prompt": "English: \"gun\" - Suomi: \"tykist\u00f6\"\nEnglish: \"angle\" - Suomi: \"suplementtikulmat\"\nEnglish: \"comb\" - Suomi: \"kampa\"\nEnglish: \"ear\" - Suomi: \"korva\"\nEnglish: \"mouth\" - Suomi: \"suu\"\nEnglish: \"fork\" - Suomi: \"",
+        "target": "['sivujoki', 'sivu-uoma', 'lis\u00e4joki', 'haarukka']",
+        "word original": "fork"
+    },
+    "['poultry', 'fowl', 'domestic fowl', 'Galloanserae']": {
+        "prompt": "English: \"mouse\" - Suomi: \"hiiri\"\nEnglish: \"fish\" - Suomi: \"kala\"\nEnglish: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"thread\" - Suomi: \"rihma\"\nEnglish: \"clinic\" - Suomi: \"sairaala\"\nEnglish: \"poultry\" - Suomi: \"",
+        "target": "['siipikarja', 'riistalintu', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['human body', 'human physiology', 'build', 'figure', 'soma', 'chassis', 'form', 'anatomy', 'shape', 'frame', 'physique', 'flesh', 'material body', 'physical body', 'bod']": {
+        "prompt": "English: \"horse\" - Suomi: \"hevonen\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"valley\" - Suomi: \"laakso\"\nEnglish: \"nose\" - Suomi: \"nen\u00e4\"\nEnglish: \"human foot\" - Suomi: \"jalkater\u00e4\"\nEnglish: \"human body\" - Suomi: \"",
+        "target": "['ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']",
+        "word original": "frame"
+    },
+    "['garden']": {
+        "prompt": "English: \"neck\" - Suomi: \"kaula\"\nEnglish: \"boat\" - Suomi: \"vene\"\nEnglish: \"stomach\" - Suomi: \"vatsa\"\nEnglish: \"identity card\" - Suomi: \"henkil\u00f6kortti\"\nEnglish: \"valley\" - Suomi: \"laakso\"\nEnglish: \"garden\" - Suomi: \"",
+        "target": "['puutarha', 'kasvimaa']",
+        "word original": "garden"
+    },
+    "['girl', 'young woman', 'miss', 'fille', 'missy', 'young lady', 'daughter', 'gf', 'girlfriend', 'lady friend']": {
+        "prompt": "English: \"boxes\" - Suomi: \"laatikko\"\nEnglish: \"thread\" - Suomi: \"rihma\"\nEnglish: \"fingernail\" - Suomi: \"kynsi\"\nEnglish: \"skirt\" - Suomi: \"hame\"\nEnglish: \"skin\" - Suomi: \"iho\"\nEnglish: \"girl\" - Suomi: \"",
+        "target": "['tytt\u00f6', 'neiti', 'nuori nainen', 'tyt\u00e4r', 'tytt\u00f6kaveri', 'tytt\u00f6yst\u00e4v\u00e4', 'naisyst\u00e4v\u00e4']",
+        "word original": "girl"
+    },
+    "['glove']": {
+        "prompt": "English: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"hammer\" - Suomi: \"heroiini\"\nEnglish: \"agency\" - Suomi: \"virka\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"brick\" - Suomi: \"tiili\"\nEnglish: \"glove\" - Suomi: \"",
+        "target": "['hansikas', 'sormikas', 'hanska', 'k\u00e4sine']",
+        "word original": "glove"
+    },
+    "['goat', 'domestic goat', 'caprine animal']": {
+        "prompt": "English: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"glove\" - Suomi: \"hansikas\"\nEnglish: \"natural satellite\" - Suomi: \"kuu\"\nEnglish: \"tooth\" - Suomi: \"hammas\"\nEnglish: \"scissors\" - Suomi: \"sakset\"\nEnglish: \"goat\" - Suomi: \"",
+        "target": "['vuohi', 'vuohiel\u00e4in']",
+        "word original": "goat"
+    },
+    "['gun', 'ordnance', 'heavy weapon', 'artillery', 'firearm', 'fire arm', 'projectile weapon']": {
+        "prompt": "English: \"cup\" - Suomi: \"kuppi\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"throat\" - Suomi: \"kurkku\"\nEnglish: \"brick\" - Suomi: \"tiili\"\nEnglish: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"gun\" - Suomi: \"",
+        "target": "['tykist\u00f6', 'tykki', 'tykit', 'ampuma-ase', 'tuliase', 'pistooli', 'pyssy']",
+        "word original": "gun"
+    },
+    "['hair', 'pilus']": {
+        "prompt": "English: \"nut\" - Suomi: \"munasolu\"\nEnglish: \"bone\" - Suomi: \"luu\"\nEnglish: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"committee\" - Suomi: \"komitea\"\nEnglish: \"hair\" - Suomi: \"",
+        "target": "['karvoitus', 'karva', 'hius', 'jouhi', 'ihokarva']",
+        "word original": "root"
+    },
+    "['hammer', 'heroin', 'diacetylmorphine']": {
+        "prompt": "English: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"arch\" - Suomi: \"holvikaari\"\nEnglish: \"fish\" - Suomi: \"kala\"\nEnglish: \"ring\" - Suomi: \"sormus\"\nEnglish: \"carriage\" - Suomi: \"rautatieajoneuvo\"\nEnglish: \"hammer\" - Suomi: \"",
+        "target": "['heroiini', 'Heroiini', 'diasetyylimorfiini', 'vasara']",
+        "word original": "hammer"
+    },
+    "['hand', 'calligraphy', 'chirography', 'penmanship', 'manus', 'mitt', 'paw', 'Manus']": {
+        "prompt": "English: \"door case\" - Suomi: \"ovi\"\nEnglish: \"tooth\" - Suomi: \"hammas\"\nEnglish: \"identity card\" - Suomi: \"henkil\u00f6kortti\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"hand\" - Suomi: \"",
+        "target": "['kalligrafia', 'kaunokirjoitus', 'k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus']",
+        "word original": "hand"
+    },
+    "['hat', 'chapeau', 'lid']": {
+        "prompt": "English: \"lightbulb\" - Suomi: \"hehkulamppu\"\nEnglish: \"orangeness\" - Suomi: \"oranssius\"\nEnglish: \"ant\" - Suomi: \"muurahainen\"\nEnglish: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"hat\" - Suomi: \"",
+        "target": "['hattu', 'lakki', 'p\u00e4\u00e4hine']",
+        "word original": "hat"
+    },
+    "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"domestic sheep\" - Suomi: \"lammas\"\nEnglish: \"toes\" - Suomi: \"varvas\"\nEnglish: \"bird\" - Suomi: \"linnut\"\nEnglish: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"angle\" - Suomi: \"suplementtikulmat\"\nEnglish: \"heart\" - Suomi: \"",
+        "target": "['syd\u00e4n', 'syd\u00e4nlihas', 'pumppu', 'kiintymys', 'rakkaus', 'mieltymys', 'syd\u00e4mellisyys', 'l\u00e4mp\u00f6', 'l\u00e4mminsyd\u00e4misyys', 'rakastavuus', 'filia', 'hellyys', 'heikkous', 'keskusta', 'keskus', 'silm\u00e4', 'keskipiste']",
+        "word original": "pump"
+    },
+    "['cornet', 'mouth harp', 'trump', 'juice harp', \"Jew's trump\", 'Ozark harp', 'jaw harp', \"Jew's harp\", 'trumpet', 'guimbarde', 'trumpet player', 'trumpeter', 'horn']": {
+        "prompt": "English: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"orangeness\" - Suomi: \"oranssius\"\nEnglish: \"nut\" - Suomi: \"munasolu\"\nEnglish: \"pocket\" - Suomi: \"tasku\"\nEnglish: \"cheese\" - Suomi: \"juusto\"\nEnglish: \"cornet\" - Suomi: \"",
+        "target": "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']",
+        "word original": "horn"
+    },
+    "['horse', 'Equus caballus']": {
+        "prompt": "English: \"ring\" - Suomi: \"sormus\"\nEnglish: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"lightbulb\" - Suomi: \"hehkulamppu\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"cake\" - Suomi: \"kakku\"\nEnglish: \"horse\" - Suomi: \"",
+        "target": "['hevonen', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['clinic', 'hospital', 'infirmary']": {
+        "prompt": "English: \"stamp\" - Suomi: \"postimerkki\"\nEnglish: \"cloud\" - Suomi: \"pilvi\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"clock\" - Suomi: \"kello\"\nEnglish: \"clinic\" - Suomi: \"",
+        "target": "['sairaala', 'sairasosasto']",
+        "word original": "hospital"
+    },
+    "['house', 'home', 'dwelling', 'theater', 'theatre', 'playhouse', 'business firm', 'casino', 'establishment', 'firm', 'gambling casino', 'household', 'family', 'menage', 'private household', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'auditorium', 'enterprise', 'concern', 'corporation', 'partnership', 'venture', 'company']": {
+        "prompt": "English: \"goat\" - Suomi: \"vuohi\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"knife\" - Suomi: \"veitsi\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"house\" - Suomi: \"",
+        "target": "['talo', 'teatteri', 'teatteritalo', 'katsomo', 'kasino', 'pelikasino', 'talous', 'kotitalous', 'suku', 'ruokakunta', 'perhekunta', 'perhe', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4', 'sali', 'auditorio', 'yritykset', 'kauppahuone', 'liikeyritys', 'yritys']",
+        "word original": "house"
+    },
+    "['isle', 'island']": {
+        "prompt": "English: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"gate\" - Suomi: \"kanavan sulku\"\nEnglish: \"jacket\" - Suomi: \"takki\"\nEnglish: \"pig\" - Suomi: \"villisika\"\nEnglish: \"cornet\" - Suomi: \"munniharppu\"\nEnglish: \"isle\" - Suomi: \"",
+        "target": "['saari', 'saareke']",
+        "word original": "island"
+    },
+    "['gemstone', 'gem', 'stone']": {
+        "prompt": "English: \"screw\" - Suomi: \"ruuvi\"\nEnglish: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"bee\" - Suomi: \"mehil\u00e4iset\"\nEnglish: \"hen's egg\" - Suomi: \"muna\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"gemstone\" - Suomi: \"",
+        "target": "['jalokivi', 'korukivi']",
+        "word original": "jewel"
+    },
+    "['teakettle', 'kettle', 'tea kettle', 'boiler']": {
+        "prompt": "English: \"wing\" - Suomi: \"siipi\"\nEnglish: \"button\" - Suomi: \"curling\"\nEnglish: \"nose\" - Suomi: \"nen\u00e4\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"teakettle\" - Suomi: \"",
+        "target": "['teepannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']",
+        "word original": "kettle"
+    },
+    "['key', 'tonality', 'graph', 'chart', 'button', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"boxes\" - Suomi: \"laatikko\"\nEnglish: \"bottle\" - Suomi: \"pullo\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"seed\" - Suomi: \"siemen\"\nEnglish: \"key\" - Suomi: \"",
+        "target": "['s\u00e4vellaji', 'tonaalisuus', 'avain', 'kaavio', 'painokytkin', 'painonappi', 'nappi', 'painike', 'nappula', 'n\u00e4pp\u00e4in']",
+        "word original": "key"
+    },
+    "['knee', 'genu', 'human knee', 'knee joint', 'articulatio genus']": {
+        "prompt": "English: \"seed\" - Suomi: \"siemen\"\nEnglish: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"stamp\" - Suomi: \"postimerkki\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"knee\" - Suomi: \"",
+        "target": "['polvi', 'polvinivel', 'articulatio genus']",
+        "word original": "knee"
+    },
+    "['knife']": {
+        "prompt": "English: \"fork\" - Suomi: \"sivujoki\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"sill\" - Suomi: \"ikkuna\"\nEnglish: \"agency\" - Suomi: \"virka\"\nEnglish: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"knife\" - Suomi: \"",
+        "target": "['veitsi', 'puukko']",
+        "word original": "knife"
+    },
+    "['knot']": {
+        "prompt": "English: \"skin\" - Suomi: \"iho\"\nEnglish: \"street\" - Suomi: \"katu\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"thread\" - Suomi: \"rihma\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"knot\" - Suomi: \"",
+        "target": "['solmu', 'Solmu']",
+        "word original": "knot"
+    },
+    "['leaf', 'foliage', 'leafage', 'Laphi']": {
+        "prompt": "English: \"knee\" - Suomi: \"polvi\"\nEnglish: \"picture\" - Suomi: \"filmi\"\nEnglish: \"thumb\" - Suomi: \"peukalo\"\nEnglish: \"bell\" - Suomi: \"kello\"\nEnglish: \"identity card\" - Suomi: \"henkil\u00f6kortti\"\nEnglish: \"leaf\" - Suomi: \"",
+        "target": "['lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti']",
+        "word original": "leaf"
+    },
+    "['pin', 'leg', 'legs', 'human leg', 'badge', 'fall', 'personal identification number', 'PIN number', 'Personal identification number']": {
+        "prompt": "English: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"monkey\" - Suomi: \"apina\"\nEnglish: \"ship\" - Suomi: \"laiva\"\nEnglish: \"bottle\" - Suomi: \"pullo\"\nEnglish: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"pin\" - Suomi: \"",
+        "target": "['jalka', 's\u00e4\u00e4ri', 'merkki', 'rintamerkki', 'tunnus', 'arvomerkki', 'virkamerkki', 'kaato', 'PIN-koodi', 'henkil\u00f6kohtainen tunnusluku', 'neula']",
+        "word original": "pin"
+    },
+    "['library']": {
+        "prompt": "English: \"jacket\" - Suomi: \"takki\"\nEnglish: \"stem\" - Suomi: \"varsi\"\nEnglish: \"ant\" - Suomi: \"muurahainen\"\nEnglish: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"library\" - Suomi: \"",
+        "target": "['kirjasto', 'kokoelma']",
+        "word original": "library"
+    },
+    "['television', 'video', 'TV', 'telecasting', 'videotape recording', 'tv', 'telly', 'idiot box', 'tv set', 'television set', 'boob tube', 'google box', 'television receiver', 'goggle box']": {
+        "prompt": "English: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"chest\" - Suomi: \"Arkku\"\nEnglish: \"mouse\" - Suomi: \"hiiri\"\nEnglish: \"aeroplane\" - Suomi: \"ilma-alus\"\nEnglish: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"television\" - Suomi: \"",
+        "target": "['televisio', 'video', 'TV', 'televisiointi', 'televisiovastaanotin', 't\u00f6ll\u00f6tin', 'telkkari', 'telkka', 'televisiolaite', 'p\u00f6ntt\u00f6', 'telkku', 'tv']",
+        "word original": "line"
+    },
+    "['lips', 'lip']": {
+        "prompt": "English: \"oven\" - Suomi: \"uuni\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"stocking\" - Suomi: \"sukka\"\nEnglish: \"baby\" - Suomi: \"pikkulapsi\"\nEnglish: \"lips\" - Suomi: \"",
+        "target": "['huuli', 'huulet']",
+        "word original": "lip"
+    },
+    "['lock', 'canal lock', 'lock chamber', 'ringlet', 'hair whorl', 'curl', 'whorl', 'wrestling lock']": {
+        "prompt": "English: \"fish\" - Suomi: \"kala\"\nEnglish: \"cup\" - Suomi: \"kuppi\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"seed\" - Suomi: \"siemen\"\nEnglish: \"lock\" - Suomi: \"",
+        "target": "['kanavan sulku', 'sulku', 'sulkukammio', 'kihara', 'Pijpenkrul', 'kiehkura', 'hiussuortuva', 'lukko', 'sidonta']",
+        "word original": "lock"
+    },
+    "['function', 'position', 'map', 'mapping', 'single-valued function', 'mathematical function', 'do', 'party']": {
+        "prompt": "English: \"ring\" - Suomi: \"sormus\"\nEnglish: \"boot\" - Suomi: \"Saapas\"\nEnglish: \"button\" - Suomi: \"curling\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"carriage\" - Suomi: \"rautatieajoneuvo\"\nEnglish: \"function\" - Suomi: \"",
+        "target": "['asema', 'funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio', 'bileet', 'juhla', 'juhlat']",
+        "word original": "map"
+    },
+    "['match', 'sporting event', 'sports competition', 'competitive sport', 'high-performance sport', 'friction match', 'lucifer']": {
+        "prompt": "English: \"fingernail\" - Suomi: \"kynsi\"\nEnglish: \"wing\" - Suomi: \"siipi\"\nEnglish: \"mouse\" - Suomi: \"hiiri\"\nEnglish: \"human body\" - Suomi: \"ihmisruumis\"\nEnglish: \"nerve\" - Suomi: \"hermo\"\nEnglish: \"match\" - Suomi: \"",
+        "target": "['urheilukilpailu', 'urheilutapahtuma', 'kilpaurheilu', 'tulitikku', 'rikkitulitikku', 'ottelu']",
+        "word original": "match"
+    },
+    "['monkey']": {
+        "prompt": "English: \"stamp\" - Suomi: \"postimerkki\"\nEnglish: \"knot\" - Suomi: \"solmu\"\nEnglish: \"brick\" - Suomi: \"tiili\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"monkey\" - Suomi: \"",
+        "target": "['apina', 'apinat']",
+        "word original": "monkey"
+    },
+    "['natural satellite', 'moon', 'moons']": {
+        "prompt": "English: \"pin\" - Suomi: \"jalka\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"hammer\" - Suomi: \"heroiini\"\nEnglish: \"book\" - Suomi: \"kirja\"\nEnglish: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"natural satellite\" - Suomi: \"",
+        "target": "['kuu']",
+        "word original": "moon"
+    },
+    "['mouth', 'oral cavity', 'oral fissure', 'rima oris', 'buccal cavity', 'vestibule of mouth']": {
+        "prompt": "English: \"natural satellite\" - Suomi: \"kuu\"\nEnglish: \"teakettle\" - Suomi: \"teepannu\"\nEnglish: \"gate\" - Suomi: \"kanavan sulku\"\nEnglish: \"tail\" - Suomi: \"perskannikka\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"mouth\" - Suomi: \"",
+        "target": "['suu', 'suuontelo', 'kita', 'suuaukko']",
+        "word original": "mouth"
+    },
+    "['musculus', 'muscle']": {
+        "prompt": "English: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"oven\" - Suomi: \"uuni\"\nEnglish: \"eye\" - Suomi: \"silm\u00e4muna\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"gate\" - Suomi: \"kanavan sulku\"\nEnglish: \"musculus\" - Suomi: \"",
+        "target": "['lihas']",
+        "word original": "muscle"
+    },
+    "['fingernail', 'nail']": {
+        "prompt": "English: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"neck\" - Suomi: \"kaula\"\nEnglish: \"mouth\" - Suomi: \"suu\"\nEnglish: \"marine sponge\" - Suomi: \"sieniel\u00e4imet\"\nEnglish: \"function\" - Suomi: \"asema\"\nEnglish: \"fingernail\" - Suomi: \"",
+        "target": "['kynsi', 'Kynsi']",
+        "word original": "nail"
+    },
+    "['neck', 'Nixie', 'cervix', 'Cervix']": {
+        "prompt": "English: \"oven\" - Suomi: \"uuni\"\nEnglish: \"fish\" - Suomi: \"kala\"\nEnglish: \"corporal punishment\" - Suomi: \"ruumiinrangaistus\"\nEnglish: \"hammer\" - Suomi: \"heroiini\"\nEnglish: \"pencil\" - Suomi: \"lyijykyn\u00e4\"\nEnglish: \"neck\" - Suomi: \"",
+        "target": "['kaula']",
+        "word original": "neck"
+    },
+    "['needle', 'sewing needle', 'hypodermic needle']": {
+        "prompt": "English: \"camera\" - Suomi: \"kamera\"\nEnglish: \"boat\" - Suomi: \"vene\"\nEnglish: \"cheese\" - Suomi: \"juusto\"\nEnglish: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"needle\" - Suomi: \"",
+        "target": "['ompeluneula', 'neula']",
+        "word original": "needle"
+    },
+    "['nerve', 'nervus']": {
+        "prompt": "English: \"roof\" - Suomi: \"ulkokatto\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"screw\" - Suomi: \"ruuvi\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"identity card\" - Suomi: \"henkil\u00f6kortti\"\nEnglish: \"nerve\" - Suomi: \"",
+        "target": "['hermo']",
+        "word original": "nerve"
+    },
+    "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'television broadcaster', 'television network', 'mesh', 'meshwork', 'meshing', 'knitting stitch']": {
+        "prompt": "English: \"wing\" - Suomi: \"siipi\"\nEnglish: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"potato\" - Suomi: \"peruna\"\nEnglish: \"cigar\" - Suomi: \"sikari\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"network\" - Suomi: \"",
+        "target": "['internet', 'netti', 'Internet', 'kyberavaruus', 'verkko', 'televisioverkko', 'seula']",
+        "word original": "net"
+    },
+    "['nose', 'olfactory organ']": {
+        "prompt": "English: \"pin\" - Suomi: \"jalka\"\nEnglish: \"roof\" - Suomi: \"ulkokatto\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"hen's egg\" - Suomi: \"muna\"\nEnglish: \"farm\" - Suomi: \"maatila\"\nEnglish: \"nose\" - Suomi: \"",
+        "target": "['nen\u00e4', 'hajuelin']",
+        "word original": "nose"
+    },
+    "['nut', 'ballock', 'egg cell', 'testis', 'egg', 'orchis', 'ovum', 'ball', 'testicle', 'bollock', 'bollocks']": {
+        "prompt": "English: \"gun\" - Suomi: \"tykist\u00f6\"\nEnglish: \"screw\" - Suomi: \"ruuvi\"\nEnglish: \"mouth\" - Suomi: \"suu\"\nEnglish: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"weapon\" - Suomi: \"ase\"\nEnglish: \"nut\" - Suomi: \"",
+        "target": "['munasolu', 'munat', 'pallit', 'kives', 'kassit', 'muna', 'kivekset', 'kulkuset', 'mutteri', 'Mutteri']",
+        "word original": "nut"
+    },
+    "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'means', 'way']": {
+        "prompt": "English: \"girl\" - Suomi: \"tytt\u00f6\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"button\" - Suomi: \"curling\"\nEnglish: \"seed\" - Suomi: \"siemen\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"agency\" - Suomi: \"",
+        "target": "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'tapa', 'keinot', 'agentuuri', 'edustus']",
+        "word original": "office"
+    },
+    "['orangeness', 'orange']": {
+        "prompt": "English: \"thumb\" - Suomi: \"peukalo\"\nEnglish: \"circle\" - Suomi: \"ympyr\u00e4\"\nEnglish: \"drop\" - Suomi: \"jyrk\u00e4nne\"\nEnglish: \"chest\" - Suomi: \"Arkku\"\nEnglish: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"orangeness\" - Suomi: \"",
+        "target": "['oranssius', 'oranssi', 'oranssisuus']",
+        "word original": "orange"
+    },
+    "['oven']": {
+        "prompt": "English: \"comb\" - Suomi: \"kampa\"\nEnglish: \"horse\" - Suomi: \"hevonen\"\nEnglish: \"school\" - Suomi: \"yliopisto\"\nEnglish: \"bottle\" - Suomi: \"pullo\"\nEnglish: \"clothes\" - Suomi: \"vaatetus\"\nEnglish: \"oven\" - Suomi: \"",
+        "target": "['uuni']",
+        "word original": "oven"
+    },
+    "['parcel', 'package', 'packet', 'bundle', 'share', 'portion']": {
+        "prompt": "English: \"pants\" - Suomi: \"housut\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"oven\" - Suomi: \"uuni\"\nEnglish: \"ear\" - Suomi: \"korva\"\nEnglish: \"skirt\" - Suomi: \"hame\"\nEnglish: \"parcel\" - Suomi: \"",
+        "target": "['nyytti', 'pakkaus', 'kimppu', 'paketti', 'nippu', 'k\u00e4\u00e4r\u00f6', 'osa', 'osuus']",
+        "word original": "parcel"
+    },
+    "['pen', 'penicillin']": {
+        "prompt": "English: \"ring\" - Suomi: \"sormus\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"jacket\" - Suomi: \"takki\"\nEnglish: \"pants\" - Suomi: \"housut\"\nEnglish: \"pen\" - Suomi: \"",
+        "target": "['penisilliini', 'penisilliinit', 'Penisilliini', 'kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "pen"
+    },
+    "['pencil']": {
+        "prompt": "English: \"domestic sheep\" - Suomi: \"lammas\"\nEnglish: \"church\" - Suomi: \"kirkko\"\nEnglish: \"watch\" - Suomi: \"rannekello\"\nEnglish: \"bridge\" - Suomi: \"silta\"\nEnglish: \"pants\" - Suomi: \"housut\"\nEnglish: \"pencil\" - Suomi: \"",
+        "target": "['lyijykyn\u00e4', 'kyn\u00e4']",
+        "word original": "pencil"
+    },
+    "['movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture', 'picture show', 'moving-picture show']": {
+        "prompt": "English: \"boot\" - Suomi: \"Saapas\"\nEnglish: \"bridge\" - Suomi: \"silta\"\nEnglish: \"nut\" - Suomi: \"munasolu\"\nEnglish: \"potato\" - Suomi: \"peruna\"\nEnglish: \"jail\" - Suomi: \"linna\"\nEnglish: \"movie\" - Suomi: \"",
+        "target": "['filmi', 'ohut kalvo', 'elokuva', 'leffa', 'elokuvan\u00e4yt\u00f6s']",
+        "word original": "picture"
+    },
+    "['pig', 'boar', 'wild hog', 'wild boar', 'Sus scrofa', 'wild pig', 'hog', 'grunter', 'squealer', 'Sus', 'pork', 'porc', 'pork meat', 'policeman', 'police officer', 'policewoman', 'cop', 'officer']": {
+        "prompt": "English: \"bottle\" - Suomi: \"pullo\"\nEnglish: \"natural satellite\" - Suomi: \"kuu\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"leaf\" - Suomi: \"lehvist\u00f6\"\nEnglish: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"pig\" - Suomi: \"",
+        "target": "['villisika', 'Sus scrofa', 'sika', 'siat', 'Siat', 'possu', 'sy\u00f6tt\u00f6karju', 'sianliha', 'porsas', 'poliisi', 'konstaapeli']",
+        "word original": "pig"
+    },
+    "['duct', 'aqueduct', 'main pipe', 'conduit', 'water main', 'main', 'pipe', 'pipage', 'piping']": {
+        "prompt": "English: \"lips\" - Suomi: \"huuli\"\nEnglish: \"oven\" - Suomi: \"uuni\"\nEnglish: \"knee\" - Suomi: \"polvi\"\nEnglish: \"bed\" - Suomi: \"vuode\"\nEnglish: \"leaf\" - Suomi: \"lehvist\u00f6\"\nEnglish: \"duct\" - Suomi: \"",
+        "target": "['akvedukti', 'putki', 'johto', 'putkisto', 'vesijohto']",
+        "word original": "pipe"
+    },
+    "['aeroplane', 'aircraft', 'airplane', 'fixed-wing aircraft', 'plane']": {
+        "prompt": "English: \"ring\" - Suomi: \"sormus\"\nEnglish: \"stem\" - Suomi: \"varsi\"\nEnglish: \"curtain\" - Suomi: \"verho\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"horse\" - Suomi: \"hevonen\"\nEnglish: \"aeroplane\" - Suomi: \"",
+        "target": "['ilma-alus', 'lentokone', 'kone']",
+        "word original": "plane"
+    },
+    "['plough', 'plow']": {
+        "prompt": "English: \"oven\" - Suomi: \"uuni\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"stomach\" - Suomi: \"vatsa\"\nEnglish: \"plough\" - Suomi: \"",
+        "target": "['aura']",
+        "word original": "plough"
+    },
+    "['pocket', 'trouser pocket']": {
+        "prompt": "English: \"head\" - Suomi: \"Nous\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"pig\" - Suomi: \"villisika\"\nEnglish: \"boat\" - Suomi: \"vene\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"pocket\" - Suomi: \"",
+        "target": "['tasku']",
+        "word original": "pocket"
+    },
+    "['toilet', 'can', 'lavatory', 'loo', 'commode', 'pot', 'throne', 'crapper', 'stool', 'potty', 'chamber pot', 'lav', 'privy', 'john', 'bathroom', 'washroom', 'restroom', 'bog', 'water closet', 'WC']": {
+        "prompt": "English: \"needle\" - Suomi: \"ompeluneula\"\nEnglish: \"shelf\" - Suomi: \"hylly\"\nEnglish: \"spoon\" - Suomi: \"lusikka\"\nEnglish: \"thread\" - Suomi: \"rihma\"\nEnglish: \"clock\" - Suomi: \"kello\"\nEnglish: \"toilet\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'kylpyhuone', 'toiletti', 'pesuhuone']",
+        "word original": "pot"
+    },
+    "['potato', 'tater', 'spud', 'murphy', 'white potato', 'Irish potato']": {
+        "prompt": "English: \"clock\" - Suomi: \"kello\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"domestic sheep\" - Suomi: \"lammas\"\nEnglish: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"cornet\" - Suomi: \"munniharppu\"\nEnglish: \"potato\" - Suomi: \"",
+        "target": "['peruna', 'potaatti', 'pottu']",
+        "word original": "potato"
+    },
+    "['jail', 'prison', 'gaol', 'lockup', 'prison house', 'jailhouse', 'slammer', 'clink', 'pokey', 'poky']": {
+        "prompt": "English: \"clock\" - Suomi: \"kello\"\nEnglish: \"ant\" - Suomi: \"muurahainen\"\nEnglish: \"scissors\" - Suomi: \"sakset\"\nEnglish: \"eye\" - Suomi: \"silm\u00e4muna\"\nEnglish: \"glove\" - Suomi: \"hansikas\"\nEnglish: \"jail\" - Suomi: \"",
+        "target": "['linna', 'vankila', 'tyrm\u00e4']",
+        "word original": "prison"
+    },
+    "['mouse', 'rat', 'Mus', 'computer mouse']": {
+        "prompt": "English: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"human foot\" - Suomi: \"jalkater\u00e4\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"nerve\" - Suomi: \"hermo\"\nEnglish: \"mouse\" - Suomi: \"",
+        "target": "['hiiri', 'kotihiiret', 'Kotihiiret', 'tietokoneen hiiri']",
+        "word original": "rat"
+    },
+    "['note', 'banknote', 'bill', 'bank note', 'greenback', 'bank bill', \"banker's bill\", 'Federal Reserve note', 'government note', 'Greenback', 'letter', 'missive', 'receipt', 'invoice', 'account', 'commentary', 'comment']": {
+        "prompt": "English: \"wing\" - Suomi: \"siipi\"\nEnglish: \"television\" - Suomi: \"televisio\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"boat\" - Suomi: \"vene\"\nEnglish: \"sink\" - Suomi: \"karstivajoama\"\nEnglish: \"note\" - Suomi: \"",
+        "target": "['seteli', 'vekseli', 'dollari', 'keskuspankin liikkeeseen laskema seteli', 'dollarin seteli', 'seteliraha', 'paperiraha', 'kirje', 'lasku', 'tili', 'ravintolalasku', 'tavaralasku', 'Kommentaari', 'kommentaari', 'arvostelu', 'muistiinpano', 'muistutus', 'muistilappu']",
+        "word original": "receipt"
+    },
+    "['corporal punishment']": {
+        "prompt": "English: \"comb\" - Suomi: \"kampa\"\nEnglish: \"toes\" - Suomi: \"varvas\"\nEnglish: \"scissors\" - Suomi: \"sakset\"\nEnglish: \"girl\" - Suomi: \"tytt\u00f6\"\nEnglish: \"spring\" - Suomi: \"l\u00e4hde\"\nEnglish: \"corporal punishment\" - Suomi: \"",
+        "target": "['ruumiinrangaistus', 'ruumiillinen rangaistus']",
+        "word original": "rod"
+    },
+    "['roof']": {
+        "prompt": "English: \"ear\" - Suomi: \"korva\"\nEnglish: \"mouse\" - Suomi: \"hiiri\"\nEnglish: \"cigar\" - Suomi: \"sikari\"\nEnglish: \"sill\" - Suomi: \"ikkuna\"\nEnglish: \"cup\" - Suomi: \"kuppi\"\nEnglish: \"roof\" - Suomi: \"",
+        "target": "['ulkokatto', 'katto']",
+        "word original": "roof"
+    },
+    "['sailing ship', 'sail', 'sailing vessel']": {
+        "prompt": "English: \"roof\" - Suomi: \"ulkokatto\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"chin\" - Suomi: \"leuka\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"sailing ship\" - Suomi: \"",
+        "target": "['purjealus', 'purjehdusalus', 'purjelaiva']",
+        "word original": "sail"
+    },
+    "['school', 'university', 'academy', 'faculty', 'staff', 'honorary society']": {
+        "prompt": "English: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"gemstone\" - Suomi: \"jalokivi\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"school\" - Suomi: \"",
+        "target": "['yliopisto', 'koulu', 'tiedekunta', 'henkil\u00f6kunta', 'akatemia', 'tiedeakatemia', 'taideakatemia']",
+        "word original": "school"
+    },
+    "['scissors', 'pair of scissors']": {
+        "prompt": "English: \"plough\" - Suomi: \"aura\"\nEnglish: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"skin\" - Suomi: \"iho\"\nEnglish: \"gate\" - Suomi: \"kanavan sulku\"\nEnglish: \"clinic\" - Suomi: \"sairaala\"\nEnglish: \"scissors\" - Suomi: \"",
+        "target": "['sakset']",
+        "word original": "scissors"
+    },
+    "['screw', 'wood screw']": {
+        "prompt": "English: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"cup\" - Suomi: \"kuppi\"\nEnglish: \"skirt\" - Suomi: \"hame\"\nEnglish: \"tooth\" - Suomi: \"hammas\"\nEnglish: \"cigar\" - Suomi: \"sikari\"\nEnglish: \"screw\" - Suomi: \"",
+        "target": "['ruuvi', 'Ruuvi', 'mutteri']",
+        "word original": "screw"
+    },
+    "['seed']": {
+        "prompt": "English: \"toes\" - Suomi: \"varvas\"\nEnglish: \"spring\" - Suomi: \"l\u00e4hde\"\nEnglish: \"wall\" - Suomi: \"sein\u00e4\"\nEnglish: \"bucket\" - Suomi: \"\u00e4mp\u00e4ri\"\nEnglish: \"ant\" - Suomi: \"muurahainen\"\nEnglish: \"seed\" - Suomi: \"",
+        "target": "['siemen']",
+        "word original": "seed"
+    },
+    "['domestic sheep', 'sheep', 'ovine', 'Ovis aries', 'domesticated sheep']": {
+        "prompt": "English: \"shirt\" - Suomi: \"paita\"\nEnglish: \"orangeness\" - Suomi: \"oranssius\"\nEnglish: \"pig\" - Suomi: \"villisika\"\nEnglish: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"plough\" - Suomi: \"aura\"\nEnglish: \"domestic sheep\" - Suomi: \"",
+        "target": "['lammas', 'lampaat', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['shelf']": {
+        "prompt": "English: \"pen\" - Suomi: \"penisilliini\"\nEnglish: \"tooth\" - Suomi: \"hammas\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"plough\" - Suomi: \"aura\"\nEnglish: \"sink\" - Suomi: \"karstivajoama\"\nEnglish: \"shelf\" - Suomi: \"",
+        "target": "['hylly']",
+        "word original": "shelf"
+    },
+    "['ship']": {
+        "prompt": "English: \"ear\" - Suomi: \"korva\"\nEnglish: \"door case\" - Suomi: \"ovi\"\nEnglish: \"orangeness\" - Suomi: \"oranssius\"\nEnglish: \"pussy\" - Suomi: \"mirri\"\nEnglish: \"street\" - Suomi: \"katu\"\nEnglish: \"ship\" - Suomi: \"",
+        "target": "['laiva', 'alus']",
+        "word original": "ship"
+    },
+    "['shirt']": {
+        "prompt": "English: \"jacket\" - Suomi: \"takki\"\nEnglish: \"teakettle\" - Suomi: \"teepannu\"\nEnglish: \"toes\" - Suomi: \"varvas\"\nEnglish: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"ant\" - Suomi: \"muurahainen\"\nEnglish: \"shirt\" - Suomi: \"",
+        "target": "['paita', 'aluspaita', 'paitapusero']",
+        "word original": "shirt"
+    },
+    "['shoe']": {
+        "prompt": "English: \"skin\" - Suomi: \"iho\"\nEnglish: \"committee\" - Suomi: \"komitea\"\nEnglish: \"shock absorber\" - Suomi: \"iskunvaimennin\"\nEnglish: \"cornet\" - Suomi: \"munniharppu\"\nEnglish: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"shoe\" - Suomi: \"",
+        "target": "['kenk\u00e4']",
+        "word original": "tongue"
+    },
+    "['skin', 'tegument', 'cutis', 'Cutis']": {
+        "prompt": "English: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"bed\" - Suomi: \"vuode\"\nEnglish: \"agency\" - Suomi: \"virka\"\nEnglish: \"face\" - Suomi: \"fontti\"\nEnglish: \"cloud\" - Suomi: \"pilvi\"\nEnglish: \"skin\" - Suomi: \"",
+        "target": "['iho', 'nahka', 'tegumentti', 'cutis', 'p\u00e4\u00e4llys']",
+        "word original": "skin"
+    },
+    "['skirt']": {
+        "prompt": "English: \"throat\" - Suomi: \"kurkku\"\nEnglish: \"isle\" - Suomi: \"saari\"\nEnglish: \"door case\" - Suomi: \"ovi\"\nEnglish: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"human body\" - Suomi: \"ihmisruumis\"\nEnglish: \"skirt\" - Suomi: \"",
+        "target": "['hame']",
+        "word original": "skirt"
+    },
+    "['snake', 'serpent', 'ophidian']": {
+        "prompt": "English: \"monkey\" - Suomi: \"apina\"\nEnglish: \"seed\" - Suomi: \"siemen\"\nEnglish: \"Sunday\" - Suomi: \"sunnuntai\"\nEnglish: \"street\" - Suomi: \"katu\"\nEnglish: \"brick\" - Suomi: \"tiili\"\nEnglish: \"snake\" - Suomi: \"",
+        "target": "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']",
+        "word original": "snake"
+    },
+    "['sock']": {
+        "prompt": "English: \"spoon\" - Suomi: \"lusikka\"\nEnglish: \"shirt\" - Suomi: \"paita\"\nEnglish: \"bee\" - Suomi: \"mehil\u00e4iset\"\nEnglish: \"clinic\" - Suomi: \"sairaala\"\nEnglish: \"monkey\" - Suomi: \"apina\"\nEnglish: \"sock\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "sock"
+    },
+    "['marine sponge', 'sponges', 'poriferan', 'sponge', 'parazoan', 'Porifera']": {
+        "prompt": "English: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"boxes\" - Suomi: \"laatikko\"\nEnglish: \"house\" - Suomi: \"talo\"\nEnglish: \"clothes\" - Suomi: \"vaatetus\"\nEnglish: \"match\" - Suomi: \"urheilukilpailu\"\nEnglish: \"marine sponge\" - Suomi: \"",
+        "target": "['sieniel\u00e4imet', 'sieniel\u00e4in']",
+        "word original": "sponge"
+    },
+    "['spoon']": {
+        "prompt": "English: \"economics\" - Suomi: \"talosel\u00e4m\u00e4\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"pencil\" - Suomi: \"lyijykyn\u00e4\"\nEnglish: \"spring\" - Suomi: \"l\u00e4hde\"\nEnglish: \"spoon\" - Suomi: \"",
+        "target": "['lusikka', 'kapusta']",
+        "word original": "spoon"
+    },
+    "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'season', 'time of year', 'springtime']": {
+        "prompt": "English: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"computer memory\" - Suomi: \"muisti\"\nEnglish: \"sill\" - Suomi: \"ikkuna\"\nEnglish: \"human foot\" - Suomi: \"jalkater\u00e4\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"spring\" - Suomi: \"",
+        "target": "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde', 'vuodenaika', 'kausi', 'kev\u00e4t', 'kev\u00e4in', 'jousi', 'vieteri', 'joustin']",
+        "word original": "spring"
+    },
+    "['square', 'town square', 'public square', 'foursquare', 'second power']": {
+        "prompt": "English: \"bird\" - Suomi: \"linnut\"\nEnglish: \"bone\" - Suomi: \"luu\"\nEnglish: \"lock\" - Suomi: \"kanavan sulku\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"farm\" - Suomi: \"maatila\"\nEnglish: \"square\" - Suomi: \"",
+        "target": "['aukio', 'keskustori', 'tori', 'julkinen aukio', 'neli\u00f6', 'nelikulmio', 'Neli\u00f6', 'toinen potenssi']",
+        "word original": "square"
+    },
+    "['stamp', 'postage', 'postage stamp', 'seal ring', 'signet ring', 'seal']": {
+        "prompt": "English: \"school\" - Suomi: \"yliopisto\"\nEnglish: \"farm\" - Suomi: \"maatila\"\nEnglish: \"oven\" - Suomi: \"uuni\"\nEnglish: \"comb\" - Suomi: \"kampa\"\nEnglish: \"bridge\" - Suomi: \"silta\"\nEnglish: \"stamp\" - Suomi: \"",
+        "target": "['postimerkki', 'merkki', 'sinetti', 'leimasin', 'leima']",
+        "word original": "stamp"
+    },
+    "['star', 'asterisk', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']": {
+        "prompt": "English: \"dog\" - Suomi: \"koira\"\nEnglish: \"hammer\" - Suomi: \"heroiini\"\nEnglish: \"chest\" - Suomi: \"Arkku\"\nEnglish: \"roof\" - Suomi: \"ulkokatto\"\nEnglish: \"cow\" - Suomi: \"karja\"\nEnglish: \"star\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti', 'asteriski', 't\u00e4htimerkki', '-niekka', 'supert\u00e4hti', 'ekspertti', 'tuntija', 'asiantuntija', 'taituri', 'taitaja', 'Adepti', '\u00e4ss\u00e4', 'taitoniekka', 'adepti', 'huippu-', 'mestari', 'nero', 'virtuoosi', 'velho', 'huippu', 'p\u00e4\u00e4osan esitt\u00e4j\u00e4']",
+        "word original": "star"
+    },
+    "['stem', 'stalk', 'plant stem']": {
+        "prompt": "English: \"cup\" - Suomi: \"kuppi\"\nEnglish: \"poultry\" - Suomi: \"siipikarja\"\nEnglish: \"taking into custody\" - Suomi: \"pid\u00e4tys\"\nEnglish: \"cake\" - Suomi: \"kakku\"\nEnglish: \"pin\" - Suomi: \"jalka\"\nEnglish: \"stem\" - Suomi: \"",
+        "target": "['varsi', 'Varsi']",
+        "word original": "stem"
+    },
+    "['cigar']": {
+        "prompt": "English: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"brush\" - Suomi: \"pensasaro\"\nEnglish: \"fly\" - Suomi: \"kaksisiipiset\"\nEnglish: \"stamp\" - Suomi: \"postimerkki\"\nEnglish: \"stem\" - Suomi: \"varsi\"\nEnglish: \"cigar\" - Suomi: \"",
+        "target": "['sikari']",
+        "word original": "stick"
+    },
+    "['stocking', 'stockings']": {
+        "prompt": "English: \"sword\" - Suomi: \"miekka\"\nEnglish: \"function\" - Suomi: \"asema\"\nEnglish: \"brick\" - Suomi: \"tiili\"\nEnglish: \"seed\" - Suomi: \"siemen\"\nEnglish: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"stocking\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "stocking"
+    },
+    "['stomach', 'breadbasket', 'tummy', 'tum', 'body of stomach']": {
+        "prompt": "English: \"screw\" - Suomi: \"ruuvi\"\nEnglish: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"aeroplane\" - Suomi: \"ilma-alus\"\nEnglish: \"jacket\" - Suomi: \"takki\"\nEnglish: \"natural satellite\" - Suomi: \"kuu\"\nEnglish: \"stomach\" - Suomi: \"",
+        "target": "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu']",
+        "word original": "stomach"
+    },
+    "['computer memory', 'computer storage', 'computer data storage', 'storage', 'memory', 'memory board', 'store']": {
+        "prompt": "English: \"television\" - Suomi: \"televisio\"\nEnglish: \"tree\" - Suomi: \"puu\"\nEnglish: \"fish\" - Suomi: \"kala\"\nEnglish: \"hand\" - Suomi: \"kalligrafia\"\nEnglish: \"thumb\" - Suomi: \"peukalo\"\nEnglish: \"computer memory\" - Suomi: \"",
+        "target": "['muisti', 'muistikortti', 'tietokonemuisti']",
+        "word original": "store"
+    },
+    "['street']": {
+        "prompt": "English: \"chest\" - Suomi: \"Arkku\"\nEnglish: \"knee\" - Suomi: \"polvi\"\nEnglish: \"head\" - Suomi: \"Nous\"\nEnglish: \"gate\" - Suomi: \"kanavan sulku\"\nEnglish: \"hair\" - Suomi: \"karvoitus\"\nEnglish: \"street\" - Suomi: \"",
+        "target": "['katu']",
+        "word original": "street"
+    },
+    "['Sunday', 'Sun', \"Lord's Day\", 'Dominicus']": {
+        "prompt": "English: \"human foot\" - Suomi: \"jalkater\u00e4\"\nEnglish: \"angle\" - Suomi: \"suplementtikulmat\"\nEnglish: \"dog\" - Suomi: \"koira\"\nEnglish: \"apple peel\" - Suomi: \"omena\"\nEnglish: \"cheese\" - Suomi: \"juusto\"\nEnglish: \"Sunday\" - Suomi: \"",
+        "target": "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']",
+        "word original": "sun"
+    },
+    "['tail', 'nates', 'prat', 'fundament', 'ass cheek', 'tooshie', 'fanny', 'rear end', 'arse', 'can', 'seat', 'tush', 'hindquarters', 'derriere', 'tail end', 'hind end', 'bum', 'bottom', 'backside', 'buttocks', 'posterior', 'rump', 'butt', 'stern', 'rear', 'buns', 'butt cheek', 'ass', 'buttock', 'keister', 'behind', 'Anteversion']": {
+        "prompt": "English: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"committee\" - Suomi: \"komitea\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"chin\" - Suomi: \"leuka\"\nEnglish: \"plume\" - Suomi: \"h\u00f6yhenet\"\nEnglish: \"tail\" - Suomi: \"",
+        "target": "['perskannikka', 'kannikka', 'peppu', 'satula', 'takamus', 'istuin', 'per\u00e4', 'pylly', 'pakarat', 'persus', 'perse', 'pyrst\u00f6', 'takapuoli', 'ahteri', 'per\u00e4p\u00e4\u00e4', 'h\u00e4nt\u00e4']",
+        "word original": "tail"
+    },
+    "['thread', 'yarn', 'string', 'twine']": {
+        "prompt": "English: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"umbrella\" - Suomi: \"sateenvarjo\"\nEnglish: \"agency\" - Suomi: \"virka\"\nEnglish: \"face\" - Suomi: \"fontti\"\nEnglish: \"thread\" - Suomi: \"",
+        "target": "['rihma', 'lanka', 'kuitu', 's\u00e4ie', 'naru', 'ny\u00f6ri']",
+        "word original": "thread"
+    },
+    "['throat', 'pharynx']": {
+        "prompt": "English: \"shirt\" - Suomi: \"paita\"\nEnglish: \"shock absorber\" - Suomi: \"iskunvaimennin\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"school\" - Suomi: \"yliopisto\"\nEnglish: \"bee\" - Suomi: \"mehil\u00e4iset\"\nEnglish: \"throat\" - Suomi: \"",
+        "target": "['kurkku', 'pharynx', 'nielu']",
+        "word original": "throat"
+    },
+    "['thumb', 'pollex']": {
+        "prompt": "English: \"nose\" - Suomi: \"nen\u00e4\"\nEnglish: \"network\" - Suomi: \"internet\"\nEnglish: \"fork\" - Suomi: \"sivujoki\"\nEnglish: \"motor\" - Suomi: \"s\u00e4hk\u00f6moottori\"\nEnglish: \"key\" - Suomi: \"s\u00e4vellaji\"\nEnglish: \"thumb\" - Suomi: \"",
+        "target": "['peukalo', 'pollex']",
+        "word original": "thumb"
+    },
+    "['toes', 'baby toe', 'toe', 'little toe', 'pinky toe', 'fifth toe', 'second toe', 'third toe']": {
+        "prompt": "English: \"weapon\" - Suomi: \"ase\"\nEnglish: \"wall\" - Suomi: \"sein\u00e4\"\nEnglish: \"cow\" - Suomi: \"karja\"\nEnglish: \"jail\" - Suomi: \"linna\"\nEnglish: \"boy\" - Suomi: \"heroiini\"\nEnglish: \"toes\" - Suomi: \"",
+        "target": "['varvas']",
+        "word original": "toe"
+    },
+    "['tooth', 'teeth', 'human tooth']": {
+        "prompt": "English: \"library\" - Suomi: \"kirjasto\"\nEnglish: \"bottle\" - Suomi: \"pullo\"\nEnglish: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"cloud\" - Suomi: \"pilvi\"\nEnglish: \"tooth\" - Suomi: \"",
+        "target": "['hammas', 'Hammas']",
+        "word original": "tooth"
+    },
+    "['passenger train', 'train', 'railroad train']": {
+        "prompt": "English: \"finger\" - Suomi: \"keskisormi\"\nEnglish: \"boot\" - Suomi: \"Saapas\"\nEnglish: \"needle\" - Suomi: \"ompeluneula\"\nEnglish: \"cycle\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEnglish: \"bucket\" - Suomi: \"\u00e4mp\u00e4ri\"\nEnglish: \"passenger train\" - Suomi: \"",
+        "target": "['juna', 'opettaa', 'harjoittaa']",
+        "word original": "train"
+    },
+    "['tree']": {
+        "prompt": "English: \"movie\" - Suomi: \"filmi\"\nEnglish: \"cow\" - Suomi: \"karja\"\nEnglish: \"shoe\" - Suomi: \"kenk\u00e4\"\nEnglish: \"armed forces\" - Suomi: \"asevoimat\"\nEnglish: \"heart\" - Suomi: \"syd\u00e4n\"\nEnglish: \"tree\" - Suomi: \"",
+        "target": "['puu']",
+        "word original": "tree"
+    },
+    "['pants', 'trousers', 'pair of trousers', 'pant', 'trouser']": {
+        "prompt": "English: \"duct\" - Suomi: \"akvedukti\"\nEnglish: \"shock absorber\" - Suomi: \"iskunvaimennin\"\nEnglish: \"fly\" - Suomi: \"kaksisiipiset\"\nEnglish: \"camera\" - Suomi: \"kamera\"\nEnglish: \"armed forces\" - Suomi: \"asevoimat\"\nEnglish: \"pants\" - Suomi: \"",
+        "target": "['housut']",
+        "word original": "trousers"
+    },
+    "['umbrella']": {
+        "prompt": "English: \"ear\" - Suomi: \"korva\"\nEnglish: \"pants\" - Suomi: \"housut\"\nEnglish: \"pocket\" - Suomi: \"tasku\"\nEnglish: \"garden\" - Suomi: \"puutarha\"\nEnglish: \"armed forces\" - Suomi: \"asevoimat\"\nEnglish: \"umbrella\" - Suomi: \"",
+        "target": "['sateenvarjo']",
+        "word original": "umbrella"
+    },
+    "['wall']": {
+        "prompt": "English: \"toes\" - Suomi: \"varvas\"\nEnglish: \"sock\" - Suomi: \"sukka\"\nEnglish: \"sword\" - Suomi: \"miekka\"\nEnglish: \"flag\" - Suomi: \"lippu\"\nEnglish: \"orangeness\" - Suomi: \"oranssius\"\nEnglish: \"wall\" - Suomi: \"",
+        "target": "['sein\u00e4', 'muuri']",
+        "word original": "wall"
+    },
+    "['watch', 'wrist watch', 'wristwatch', 'ticker']": {
+        "prompt": "English: \"flag\" - Suomi: \"lippu\"\nEnglish: \"domestic sheep\" - Suomi: \"lammas\"\nEnglish: \"mouse\" - Suomi: \"hiiri\"\nEnglish: \"teakettle\" - Suomi: \"teepannu\"\nEnglish: \"clinic\" - Suomi: \"sairaala\"\nEnglish: \"watch\" - Suomi: \"",
+        "target": "['rannekello', 'taskukello', 'kello']",
+        "word original": "watch"
+    },
+    "['cycle', 'bicycle', 'bike', 'wheel', 'round', 'rhythm']": {
+        "prompt": "English: \"snake\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEnglish: \"gun\" - Suomi: \"tykist\u00f6\"\nEnglish: \"goat\" - Suomi: \"vuohi\"\nEnglish: \"cigar\" - Suomi: \"sikari\"\nEnglish: \"button\" - Suomi: \"curling\"\nEnglish: \"cycle\" - Suomi: \"",
+        "target": "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari', 'kierto', 'suhdannekierto', 'sykli', 'rytmi']",
+        "word original": "wheel"
+    },
+    "['whip']": {
+        "prompt": "English: \"identity card\" - Suomi: \"henkil\u00f6kortti\"\nEnglish: \"teakettle\" - Suomi: \"teepannu\"\nEnglish: \"comb\" - Suomi: \"kampa\"\nEnglish: \"cow\" - Suomi: \"karja\"\nEnglish: \"corporal punishment\" - Suomi: \"ruumiinrangaistus\"\nEnglish: \"whip\" - Suomi: \"",
+        "target": "['ruoska', 'piiska']",
+        "word original": "whip"
+    },
+    "['sill', 'window ledge', 'window', 'window sill', 'ledge-sill']": {
+        "prompt": "English: \"girl\" - Suomi: \"tytt\u00f6\"\nEnglish: \"jacket\" - Suomi: \"takki\"\nEnglish: \"spoon\" - Suomi: \"lusikka\"\nEnglish: \"bridge\" - Suomi: \"silta\"\nEnglish: \"whip\" - Suomi: \"ruoska\"\nEnglish: \"sill\" - Suomi: \"",
+        "target": "['ikkuna', 'akkuna']",
+        "word original": "window"
+    },
+    "['wing']": {
+        "prompt": "English: \"chin\" - Suomi: \"leuka\"\nEnglish: \"knife\" - Suomi: \"veitsi\"\nEnglish: \"thread\" - Suomi: \"rihma\"\nEnglish: \"brake\" - Suomi: \"Jarru\"\nEnglish: \"hammer\" - Suomi: \"heroiini\"\nEnglish: \"wing\" - Suomi: \"",
+        "target": "['siipi']",
+        "word original": "wing"
+    },
+    "['worm', 'European dragon']": {
+        "prompt": "English: \"shirt\" - Suomi: \"paita\"\nEnglish: \"skirt\" - Suomi: \"hame\"\nEnglish: \"cake\" - Suomi: \"kakku\"\nEnglish: \"parcel\" - Suomi: \"nyytti\"\nEnglish: \"fingernail\" - Suomi: \"kynsi\"\nEnglish: \"worm\" - Suomi: \"",
+        "target": "['eurooppalainen lohik\u00e4\u00e4rme', 'mato', 'toukka']",
+        "word original": "worm"
+    }
+}

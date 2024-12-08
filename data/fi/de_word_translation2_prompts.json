@@ -1,0 +1,857 @@
+{
+    "['suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma']": {
+        "prompt": "Suomi: \"takki\" - Deutsch: \"Anzug\"\nSuomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"ase\" - Deutsch: \"Waffe\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"",
+        "target": "['Winkel', 'Supplementwinkel']",
+        "word original": "angle"
+    },
+    "['muurahainen', 'muurahaiset', 'kusiainen']": {
+        "prompt": "Suomi: \"kampa\" - Deutsch: \"Kamm\"\nSuomi: \"sika\" - Deutsch: \"Hausschwein\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"muurahainen\" - Deutsch: \"",
+        "target": "['Ameise', 'Ameisen']",
+        "word original": "ant"
+    },
+    "['omena']": {
+        "prompt": "Suomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"linnut\" - Deutsch: \"V\u00f6gelchen\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"omena\" - Deutsch: \"",
+        "target": "['Apfel', 'Apfelschale']",
+        "word original": "apple"
+    },
+    "['holvikaari', 'Kaari', 'kaari', 'holvi']": {
+        "prompt": "Suomi: \"ihmisruumis\" - Deutsch: \"Humanphysiologie\"\nSuomi: \"nen\u00e4\" - Deutsch: \"Nase\"\nSuomi: \"silm\u00e4muna\" - Deutsch: \"Augapfel\"\nSuomi: \"ruumiinrangaistus\" - Deutsch: \"Pr\u00fcgelstrafe\"\nSuomi: \"paita\" - Deutsch: \"Hemd\"\nSuomi: \"holvikaari\" - Deutsch: \"",
+        "target": "['Bogen']",
+        "word original": "arch"
+    },
+    "['ase', 'astalo', 'ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']": {
+        "prompt": "Suomi: \"\u00e4mp\u00e4ri\" - Deutsch: \"Eimer\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"ase\" - Deutsch: \"",
+        "target": "['Waffe', 'Arm', 'Schusswaffe', 'Feuerwaffe']",
+        "word original": "arm"
+    },
+    "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat']": {
+        "prompt": "Suomi: \"televisio\" - Deutsch: \"Staffel\"\nSuomi: \"holvikaari\" - Deutsch: \"Bogen\"\nSuomi: \"piirros\" - Deutsch: \"Abbildung\"\nSuomi: \"hammas\" - Deutsch: \"Z\u00e4hne\"\nSuomi: \"kurkku\" - Deutsch: \"Gurke\"\nSuomi: \"asevoimat\" - Deutsch: \"",
+        "target": "['Milit\u00e4r', 'Streitkr\u00e4fte', 'Milit\u00e4rwesen', 'Armee', 'Kriegsmaschinerie']",
+        "word original": "army"
+    },
+    "['pikkulapsi', 'alaik\u00e4inen', 'lapsi', 'vekara', 'pikkumies', 'vinti\u00f6', 'napero', 'lapsukainen', 'kersa', 'pentu', 'tenava', 'ipana', 'muksu', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4']": {
+        "prompt": "Suomi: \"hevonen\" - Deutsch: \"Gaul\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"kirkko\" - Deutsch: \"Kirche\"\nSuomi: \"lippu\" - Deutsch: \"Flagge\"\nSuomi: \"pikkulapsi\" - Deutsch: \"",
+        "target": "['Minderj\u00e4hrige', 'Kind', 'Jugendliche', 'minderj\u00e4hrigkeit', 'Minderj\u00e4hrigkeit', 'Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kriechling']",
+        "word original": "baby"
+    },
+    "['sormus']": {
+        "prompt": "Suomi: \"talo\" - Deutsch: \"Haus\"\nSuomi: \"verho\" - Deutsch: \"Schleier\"\nSuomi: \"uuni\" - Deutsch: \"Ofen\"\nSuomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"kyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"sormus\" - Deutsch: \"",
+        "target": "['Fingerring', 'Fingerreif', 'Ring', 'Reif', 'Reifen']",
+        "word original": "ring"
+    },
+    "['amme', 'kylpyamme', 'pesuallas', 'lavuaari', 'Lavuaari', 'viem\u00e4riallas']": {
+        "prompt": "Suomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"pullo\" - Deutsch: \"Gasflasche\"\nSuomi: \"peruna\" - Deutsch: \"Erdapfel\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Deutsch: \"Schlange\"\nSuomi: \"funktio\" - Deutsch: \"Funktion\"\nSuomi: \"amme\" - Deutsch: \"",
+        "target": "['Badewanne', 'Waschbecken', 'Lavabo', 'Sp\u00fcle', 'Sp\u00fclstein', 'Sp\u00fclbecken']",
+        "word original": "basin"
+    },
+    "['kylpyhuone', 'kylpyl\u00e4', 'k\u00e4ym\u00e4l\u00e4', 'toiletti', 'vessa', 'pesuhuone']": {
+        "prompt": "Suomi: \"vatsa\" - Deutsch: \"Bauch\"\nSuomi: \"hame\" - Deutsch: \"Rock\"\nSuomi: \"kello\" - Deutsch: \"Glocke\"\nSuomi: \"holvikaari\" - Deutsch: \"Bogen\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"kylpyhuone\" - Deutsch: \"",
+        "target": "['Badestube', 'Badezimmer', 'Bad', 'Vorlage:Andere Sprachen', 'Abtritt', '\u00d6rtchen', 'WC', 'Toilette', 'Abort', 'stilles \u00d6rtchen', 'Klo', 'Lokus', 'Klosett']",
+        "word original": "bath"
+    },
+    "['vuode', 's\u00e4nky', 'peti']": {
+        "prompt": "Suomi: \"ulkokatto\" - Deutsch: \"Dach\"\nSuomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"peukalo\" - Deutsch: \"Daumen\"\nSuomi: \"vuode\" - Deutsch: \"",
+        "target": "['Bett']",
+        "word original": "bed"
+    },
+    "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset']": {
+        "prompt": "Suomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"neula\" - Deutsch: \"Nadel\"\nSuomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"puutarha\" - Deutsch: \"Garten\"\nSuomi: \"siipi\" - Deutsch: \"Fl\u00fcgel\"\nSuomi: \"mehil\u00e4iset\" - Deutsch: \"",
+        "target": "['Imme', 'Biene', 'Bienen', 'Beivogl']",
+        "word original": "bee"
+    },
+    "['ovikello', 'ovisummeri']": {
+        "prompt": "Suomi: \"omena\" - Deutsch: \"Apfel\"\nSuomi: \"takki\" - Deutsch: \"Anzug\"\nSuomi: \"verho\" - Deutsch: \"Schleier\"\nSuomi: \"ympyr\u00e4\" - Deutsch: \"Kreis\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"ovikello\" - Deutsch: \"",
+        "target": "['Klingel', 'T\u00fcrglocke', 'T\u00fcrklingel', 'Hausglocke']",
+        "word original": "bell"
+    },
+    "['linnut', 'lintu']": {
+        "prompt": "Suomi: \"rautatie\" - Deutsch: \"Eisenbahn\"\nSuomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"linnut\" - Deutsch: \"",
+        "target": "['V\u00f6gelchen', 'Vogel', 'Piepmatz', 'V\u00f6gel']",
+        "word original": "bird"
+    },
+    "['miekka', 'kalpa']": {
+        "prompt": "Suomi: \"katu\" - Deutsch: \"Innerortsstra\u00dfe\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"rannekello\" - Deutsch: \"Armbanduhr\"\nSuomi: \"siipikarja\" - Deutsch: \"Gefl\u00fcgel\"\nSuomi: \"nappi\" - Deutsch: \"Knopf\"\nSuomi: \"miekka\" - Deutsch: \"",
+        "target": "['Schwert']",
+        "word original": "blade"
+    },
+    "['komitea', 'valiokunta', 'toimikunta', 'lautakunta']": {
+        "prompt": "Suomi: \"avain\" - Deutsch: \"Tonart\"\nSuomi: \"hevonen\" - Deutsch: \"Gaul\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"vene\" - Deutsch: \"Boot\"\nSuomi: \"hermo\" - Deutsch: \"Nervensystem\"\nSuomi: \"komitea\" - Deutsch: \"",
+        "target": "['Komitee', 'Kommission', 'Ausschuss', 'Ausschu\u00df']",
+        "word original": "board"
+    },
+    "['vene']": {
+        "prompt": "Suomi: \"karja\" - Deutsch: \"Hausrind\"\nSuomi: \"muisti\" - Deutsch: \"Ged\u00e4chtnis\"\nSuomi: \"sein\u00e4\" - Deutsch: \"Wand\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"kynsi\" - Deutsch: \"Fingernagel\"\nSuomi: \"vene\" - Deutsch: \"",
+        "target": "['Boot', 'Schiff']",
+        "word original": "boat"
+    },
+    "['luu', 'os']": {
+        "prompt": "Suomi: \"sairaala\" - Deutsch: \"Hospital\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"ikkuna\" - Deutsch: \"Fenster\"\nSuomi: \"holvikaari\" - Deutsch: \"Bogen\"\nSuomi: \"luu\" - Deutsch: \"",
+        "target": "['Bein', 'Knochengewebe', 'Knochen', 'Gebeine']",
+        "word original": "bone"
+    },
+    "['kirja', 'oppikirja', 'koulukirja']": {
+        "prompt": "Suomi: \"kakku\" - Deutsch: \"Konfekt\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"yliopisto\" - Deutsch: \"Uni\"\nSuomi: \"maatila\" - Deutsch: \"Bauernhof\"\nSuomi: \"takki\" - Deutsch: \"Anzug\"\nSuomi: \"kirja\" - Deutsch: \"",
+        "target": "['Buch', 'Lehrbuch', 'Handbuch', 'Schulbuch']",
+        "word original": "book"
+    },
+    "['pullo', 'kaasupullo', 'Kaasupullo', 'sylinteri']": {
+        "prompt": "Suomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"jalokivi\" - Deutsch: \"Juwel\"\nSuomi: \"sairaala\" - Deutsch: \"Hospital\"\nSuomi: \"neli\u00f6\" - Deutsch: \"Quadrat\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"pullo\" - Deutsch: \"",
+        "target": "['Gasflasche', 'Zylinder', 'Bouteille', 'Flasche']",
+        "word original": "bottle"
+    },
+    "['laatikko', 'muhennos', 'pata', 'pataruoka', 'rasia', 'aski', 'vetolaatikko', 'Vetolaatikko']": {
+        "prompt": "Suomi: \"korva\" - Deutsch: \"Ohren\"\nSuomi: \"lusikka\" - Deutsch: \"L\u00f6ffel\"\nSuomi: \"pikkukaupunki\" - Deutsch: \"Siedlung\"\nSuomi: \"sormi\" - Deutsch: \"Stinkefinger\"\nSuomi: \"siipikarja\" - Deutsch: \"Gefl\u00fcgel\"\nSuomi: \"laatikko\" - Deutsch: \"",
+        "target": "['Eintopf', 'Brei', 'Kasten', 'Kiste', 'Schublade']",
+        "word original": "box"
+    },
+    "['poika']": {
+        "prompt": "Suomi: \"huuli\" - Deutsch: \"Lippe\"\nSuomi: \"funktio\" - Deutsch: \"Funktion\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"rautatie\" - Deutsch: \"Eisenbahn\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"poika\" - Deutsch: \"",
+        "target": "['J\u00fcngling', 'Knabe', 'Bub', 'Bursche', 'Junge']",
+        "word original": "boy"
+    },
+    "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'j\u00e4rki', '\u00e4lli']": {
+        "prompt": "Suomi: \"takki\" - Deutsch: \"Anzug\"\nSuomi: \"ase\" - Deutsch: \"Waffe\"\nSuomi: \"lippu\" - Deutsch: \"Flagge\"\nSuomi: \"munniharppu\" - Deutsch: \"Drommeter\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"Nous\" - Deutsch: \"",
+        "target": "['Verstand', 'Psyche', 'Geist', 'Wahrnehmung']",
+        "word original": "head"
+    },
+    "['Jarru']": {
+        "prompt": "Suomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"haarukka\" - Deutsch: \"Gabel\"\nSuomi: \"ketju\" - Deutsch: \"Kette\"\nSuomi: \"pakkaus\" - Deutsch: \"Verpackung\"\nSuomi: \"Jarru\" - Deutsch: \"",
+        "target": "['Abbremsen', 'Bremsen', 'Bremse']",
+        "word original": "brake"
+    },
+    "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia']": {
+        "prompt": "Suomi: \"siipikarja\" - Deutsch: \"Gefl\u00fcgel\"\nSuomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"ovikello\" - Deutsch: \"Klingel\"\nSuomi: \"katu\" - Deutsch: \"Innerortsstra\u00dfe\"\nSuomi: \"peruna\" - Deutsch: \"Erdapfel\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"",
+        "target": "['\u00d6konomie', 'Wirtschaftswissenschaft', '\u00d6konomik', 'politische \u00d6konomie', 'Politische \u00d6konomie']",
+        "word original": "branch"
+    },
+    "['tiili', 'tiiliskivi']": {
+        "prompt": "Suomi: \"rautatieajoneuvo\" - Deutsch: \"Waggon\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"mehil\u00e4iset\" - Deutsch: \"Imme\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"tiili\" - Deutsch: \"",
+        "target": "['Ziegelstein', 'Backstein', 'Mauerziegel', 'Ziegel']",
+        "word original": "brick"
+    },
+    "['silta']": {
+        "prompt": "Suomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"jalokivi\" - Deutsch: \"Juwel\"\nSuomi: \"lentokone\" - Deutsch: \"Luftfahrzeug\"\nSuomi: \"apina\" - Deutsch: \"Affe\"\nSuomi: \"silta\" - Deutsch: \"",
+        "target": "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']",
+        "word original": "bridge"
+    },
+    "['harja', 'vuorenharja', 'sel\u00e4nne', 'selk\u00e4', 'harjanne', 'harju', 'suti', 'sivellin', 'suka']": {
+        "prompt": "Suomi: \"sikari\" - Deutsch: \"Zigarre\"\nSuomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"karja\" - Deutsch: \"Hausrind\"\nSuomi: \"\u00e4mp\u00e4ri\" - Deutsch: \"Eimer\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"harja\" - Deutsch: \"",
+        "target": "['Gebirgskamm', 'B\u00fcrste', 'Pinsel']",
+        "word original": "brush"
+    },
+    "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']": {
+        "prompt": "Suomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"hansikas\" - Deutsch: \"Handschuh\"\nSuomi: \"katu\" - Deutsch: \"Innerortsstra\u00dfe\"\nSuomi: \"\u00e4mp\u00e4ri\" - Deutsch: \"",
+        "target": "['Eimer']",
+        "word original": "bucket"
+    },
+    "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']": {
+        "prompt": "Suomi: \"neli\u00f6\" - Deutsch: \"Quadrat\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"t\u00e4hti\" - Deutsch: \"Stern\"\nSuomi: \"mirri\" - Deutsch: \"Hauskatze\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"hehkulamppu\" - Deutsch: \"",
+        "target": "['Gl\u00fchbirne', 'Gl\u00fchlampe', 'elektrisches Licht']",
+        "word original": "bulb"
+    },
+    "['nappi', 'tabu', 'pilleri', 'tabletti', 'Tabletti', 'Pilleri', 'pastilli', 'sormi', 'n\u00e4ppi', 'painokytkin', 'painonappi', 'painike', 'nappula', 'n\u00e4pp\u00e4in']": {
+        "prompt": "Suomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"televisio\" - Deutsch: \"Staffel\"\nSuomi: \"virka\" - Deutsch: \"Bureau\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"nappi\" - Deutsch: \"",
+        "target": "['Knopf', 'Tablette', 'Pille', 'Fingerchen', 'Finger', 'Taste', 'Druckknopf', 'Druckschalter']",
+        "word original": "button"
+    },
+    "['kakku', 'Konditoriatuote', 'leivos', 'konditoriatuote', 'makeat herkut', 'makeinen', 'sokerileipurin ty\u00f6', 'sokerileipurin taidot']": {
+        "prompt": "Suomi: \"moottori\" - Deutsch: \"Motor\"\nSuomi: \"saari\" - Deutsch: \"Insel\"\nSuomi: \"virka\" - Deutsch: \"Bureau\"\nSuomi: \"lasku\" - Deutsch: \"Rechnung\"\nSuomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"kakku\" - Deutsch: \"",
+        "target": "['Konfekt', 'Bonbon', 'Kuchen']",
+        "word original": "cake"
+    },
+    "['kamera', 'valokuvakamera', 'televisiokamera']": {
+        "prompt": "Suomi: \"sunnuntai\" - Deutsch: \"Sonntag\"\nSuomi: \"kala\" - Deutsch: \"Fisch\"\nSuomi: \"korva\" - Deutsch: \"Ohren\"\nSuomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"kamera\" - Deutsch: \"",
+        "target": "['Fotoapparat', 'Filmkamera', 'Videokamera', 'elektronische Kamera', 'professionelle Videokamera']",
+        "word original": "camera"
+    },
+    "['henkil\u00f6llisyystodistus', 'henkil\u00f6kortti', 'henkil\u00f6todistus', 'I.D.', 'ID']": {
+        "prompt": "Suomi: \"peukalo\" - Deutsch: \"Daumen\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"hattu\" - Deutsch: \"Hut\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"laakso\" - Deutsch: \"Tal\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"",
+        "target": "['Personalausweis', 'Ausweis', 'ID', 'Identit\u00e4tskarte']",
+        "word original": "card"
+    },
+    "['rautatieajoneuvo', 'moottorivaunu', 'junanvaunu', 'rautatievaunu', 'Moottorivaunu', 'vaunu', 'junavaunu', 'hissikori', 'kiskoauto', 'raidevaunu', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat']": {
+        "prompt": "Suomi: \"vaatetus\" - Deutsch: \"Bekleidung\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"laatikko\" - Deutsch: \"Eintopf\"\nSuomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"asevoimat\" - Deutsch: \"Milit\u00e4r\"\nSuomi: \"rautatieajoneuvo\" - Deutsch: \"",
+        "target": "['Waggon', 'Eisenbahnwagen', 'Kabine', 'Triebwagen', 'Verbrennungstriebwagen', 'Equipage', 'Kutsche', 'Wagen']",
+        "word original": "carriage"
+    },
+    "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']": {
+        "prompt": "Suomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Deutsch: \"Schlange\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"amme\" - Deutsch: \"Badewanne\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"mirri\" - Deutsch: \"",
+        "target": "['Hauskatze', 'Katze', 'Mietzekatze', 'Mietze', 'Stubentiger']",
+        "word original": "cat"
+    },
+    "['ketju', 'vitja', 'kettinki', 'sarja']": {
+        "prompt": "Suomi: \"kurkku\" - Deutsch: \"Gurke\"\nSuomi: \"sormi\" - Deutsch: \"Stinkefinger\"\nSuomi: \"pikkulapsi\" - Deutsch: \"Minderj\u00e4hrige\"\nSuomi: \"holvikaari\" - Deutsch: \"Bogen\"\nSuomi: \"huuli\" - Deutsch: \"Lippe\"\nSuomi: \"ketju\" - Deutsch: \"",
+        "target": "['Kette', 'Aneinanderreihung', 'Verkettung', 'Konkatenation']",
+        "word original": "chain"
+    },
+    "['juusto']": {
+        "prompt": "Suomi: \"silta\" - Deutsch: \"Br\u00fccke\"\nSuomi: \"yliopisto\" - Deutsch: \"Uni\"\nSuomi: \"peruna\" - Deutsch: \"Erdapfel\"\nSuomi: \"laakso\" - Deutsch: \"Tal\"\nSuomi: \"luu\" - Deutsch: \"Bein\"\nSuomi: \"juusto\" - Deutsch: \"",
+        "target": "['K\u00e4se']",
+        "word original": "cheese"
+    },
+    "['Arkku', 'kirstu']": {
+        "prompt": "Suomi: \"potta\" - Deutsch: \"Klosett\"\nSuomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"kuppi\" - Deutsch: \"Tasse\"\nSuomi: \"lasku\" - Deutsch: \"Rechnung\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"Arkku\" - Deutsch: \"",
+        "target": "['Truhe', 'Koffer']",
+        "word original": "chest"
+    },
+    "['leuka', 'leukakyhmy', 'mentum', 'leukaluu', 'alaleuanluu', 'alaleuka', 'leukapieli', 'alaleukaluu', 'submaxilla', 'leuat', 'leukaper\u00e4']": {
+        "prompt": "Suomi: \"kaula\" - Deutsch: \"Hals\"\nSuomi: \"nen\u00e4\" - Deutsch: \"Nase\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"internet\" - Deutsch: \"Netzwerk\"\nSuomi: \"leuka\" - Deutsch: \"",
+        "target": "['Kinn', 'Unterkiefer', 'Backe', 'menschlicher Unterkiefer', 'Unterkieferknochen', 'Wange', 'Kiefer']",
+        "word original": "chin"
+    },
+    "['kirkko', 'kirkkorakennus']": {
+        "prompt": "Suomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"postimerkki\" - Deutsch: \"Briefmarke\"\nSuomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"kirkko\" - Deutsch: \"",
+        "target": "['Kirche', 'Kirchengeb\u00e4ude']",
+        "word original": "church"
+    },
+    "['ympyr\u00e4']": {
+        "prompt": "Suomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"juusto\" - Deutsch: \"K\u00e4se\"\nSuomi: \"pid\u00e4tys\" - Deutsch: \"Festnahme\"\nSuomi: \"hevonen\" - Deutsch: \"Gaul\"\nSuomi: \"ympyr\u00e4\" - Deutsch: \"",
+        "target": "['Kreis']",
+        "word original": "circle"
+    },
+    "['kello', 'rannekello', 'taskukello', 'kulkunen']": {
+        "prompt": "Suomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"saari\" - Deutsch: \"Insel\"\nSuomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"k\u00e4si\" - Deutsch: \"Hand\"\nSuomi: \"kello\" - Deutsch: \"",
+        "target": "['Glocke', 'Uhr', 'Armbanduhr', 'Taschenuhr oder Armbanduhr']",
+        "word original": "clock"
+    },
+    "['pilvi']": {
+        "prompt": "Suomi: \"jalkater\u00e4\" - Deutsch: \"Fu\u00df\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"virka\" - Deutsch: \"Bureau\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"kyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"pilvi\" - Deutsch: \"",
+        "target": "['Wolke', 'Gew\u00f6lk']",
+        "word original": "cloud"
+    },
+    "['takki', 'puku', 'kokopuku', 'vaatekerta', 'pusakka', 'pikkutakki']": {
+        "prompt": "Suomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"sormi\" - Deutsch: \"Stinkefinger\"\nSuomi: \"laakso\" - Deutsch: \"Tal\"\nSuomi: \"takki\" - Deutsch: \"",
+        "target": "['Anzug', 'Jacke', 'Mantel']",
+        "word original": "coat"
+    },
+    "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni', 'sieppaus', 'vapaudenriisto']": {
+        "prompt": "Suomi: \"poika\" - Deutsch: \"J\u00fcngling\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"silm\u00e4muna\" - Deutsch: \"Augapfel\"\nSuomi: \"hinta\" - Deutsch: \"Preis\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"pid\u00e4tys\" - Deutsch: \"",
+        "target": "['Festnahme', 'Fang', 'Beschlagnahme', 'Erfassung', 'Gefangennahme']",
+        "word original": "collar"
+    },
+    "['kampa']": {
+        "prompt": "Suomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"kampa\" - Deutsch: \"",
+        "target": "['Kamm']",
+        "word original": "comb"
+    },
+    "['karja', 'Bos taurus', 'nauta', 'nautakarja', 'kotiel\u00e4in']": {
+        "prompt": "Suomi: \"sein\u00e4\" - Deutsch: \"Wand\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"lippu\" - Deutsch: \"Flagge\"\nSuomi: \"peruna\" - Deutsch: \"Erdapfel\"\nSuomi: \"kirjasto\" - Deutsch: \"Bibliothek\"\nSuomi: \"karja\" - Deutsch: \"",
+        "target": "['Hausrind', 'Rind', 'Rindvieh', 'K\u00fche', 'Rinder', 'Bos taurus', 'Viehbestand', 'Vieh', 'Hoftier', 'Nutztier', 'Nutztiere', 'Nutzvieh']",
+        "word original": "cow"
+    },
+    "['kuppi', 'juomalasi', 'juomapikari', 'Juomalasi']": {
+        "prompt": "Suomi: \"silta\" - Deutsch: \"Br\u00fccke\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"filmi\" - Deutsch: \"Film\"\nSuomi: \"munniharppu\" - Deutsch: \"Drommeter\"\nSuomi: \"asevoimat\" - Deutsch: \"Milit\u00e4r\"\nSuomi: \"kuppi\" - Deutsch: \"",
+        "target": "['Tasse', 'Trinkglas', 'Trinkschale', 'Pokal']",
+        "word original": "cup"
+    },
+    "['verho', 'huntu', 'p\u00e4\u00e4hine', 'harso', 'verhot']": {
+        "prompt": "Suomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"varvas\" - Deutsch: \"Digitus\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"kirkko\" - Deutsch: \"Kirche\"\nSuomi: \"verho\" - Deutsch: \"",
+        "target": "['Schleier', 'Kopfbedeckung', 'Vorhang', 'Gardine', 'Fensterdekoration']",
+        "word original": "curtain"
+    },
+    "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']": {
+        "prompt": "Suomi: \"ampuma-ase\" - Deutsch: \"Schusswaffe\"\nSuomi: \"lusikka\" - Deutsch: \"L\u00f6ffel\"\nSuomi: \"sein\u00e4\" - Deutsch: \"Wand\"\nSuomi: \"pikkulapsi\" - Deutsch: \"Minderj\u00e4hrige\"\nSuomi: \"hehkulamppu\" - Deutsch: \"Gl\u00fchbirne\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"",
+        "target": "['Sto\u00dfd\u00e4mpfer', 'Schlag']",
+        "word original": "cushion"
+    },
+    "['koira', 'Canis lupus familiaris', 'Canis familiaris']": {
+        "prompt": "Suomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"polvi\" - Deutsch: \"Knie\"\nSuomi: \"t\u00e4hti\" - Deutsch: \"Stern\"\nSuomi: \"linnut\" - Deutsch: \"V\u00f6gelchen\"\nSuomi: \"ketju\" - Deutsch: \"Kette\"\nSuomi: \"koira\" - Deutsch: \"",
+        "target": "['Hund', 'Wauwau', 'K\u00f6ter', 'T\u00f6le', 'Canis lupus familiaris', 'Haushund']",
+        "word original": "dog"
+    },
+    "['ovi']": {
+        "prompt": "Suomi: \"ampuma-ase\" - Deutsch: \"Schusswaffe\"\nSuomi: \"mirri\" - Deutsch: \"Hauskatze\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"kirkko\" - Deutsch: \"Kirche\"\nSuomi: \"ovi\" - Deutsch: \"",
+        "target": "['T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcr', 'T\u00fcre']",
+        "word original": "drain"
+    },
+    "['piirros', 'piirustus', 'kuva']": {
+        "prompt": "Suomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"peukalo\" - Deutsch: \"Daumen\"\nSuomi: \"juusto\" - Deutsch: \"K\u00e4se\"\nSuomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"paita\" - Deutsch: \"Hemd\"\nSuomi: \"piirros\" - Deutsch: \"",
+        "target": "['Abbildung', 'Zeichnung', 'Bild', 'Abbild']",
+        "word original": "drawer"
+    },
+    "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku', 'vaateparsi']": {
+        "prompt": "Suomi: \"saari\" - Deutsch: \"Insel\"\nSuomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"postimerkki\" - Deutsch: \"Briefmarke\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"hame\" - Deutsch: \"Rock\"\nSuomi: \"vaatetus\" - Deutsch: \"",
+        "target": "['Bekleidung', 'Kleider', 'Gewandung', 'Kleidungsst\u00fcck', 'Kleidung']",
+        "word original": "dress"
+    },
+    "['tippa', 'pisara', 'tilkka']": {
+        "prompt": "Suomi: \"funktio\" - Deutsch: \"Funktion\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"\u00e4mp\u00e4ri\" - Deutsch: \"Eimer\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"munniharppu\" - Deutsch: \"Drommeter\"\nSuomi: \"tippa\" - Deutsch: \"",
+        "target": "['Regentropfen', 'Tropfen']",
+        "word original": "drop"
+    },
+    "['korva']": {
+        "prompt": "Suomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"vaatetus\" - Deutsch: \"Bekleidung\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"sika\" - Deutsch: \"Hausschwein\"\nSuomi: \"korva\" - Deutsch: \"",
+        "target": "['Ohren', 'Ohr']",
+        "word original": "ear"
+    },
+    "['moottori', 'Motor']": {
+        "prompt": "Suomi: \"kampa\" - Deutsch: \"Kamm\"\nSuomi: \"postimerkki\" - Deutsch: \"Briefmarke\"\nSuomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"yliopisto\" - Deutsch: \"Uni\"\nSuomi: \"moottori\" - Deutsch: \"",
+        "target": "['Motor', 'Triebwerk', 'Antrieb']",
+        "word original": "engine"
+    },
+    "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']": {
+        "prompt": "Suomi: \"vene\" - Deutsch: \"Boot\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"paita\" - Deutsch: \"Hemd\"\nSuomi: \"kello\" - Deutsch: \"Glocke\"\nSuomi: \"omena\" - Deutsch: \"Apfel\"\nSuomi: \"silm\u00e4muna\" - Deutsch: \"",
+        "target": "['Augapfel', 'Auge', 'Augen']",
+        "word original": "eye"
+    },
+    "['naama', 'kasvot', 'p\u00e4rst\u00e4']": {
+        "prompt": "Suomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"korva\" - Deutsch: \"Ohren\"\nSuomi: \"televisio\" - Deutsch: \"Staffel\"\nSuomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"naama\" - Deutsch: \"",
+        "target": "['Visage', 'Angesicht', 'Antlitz', 'Gesicht']",
+        "word original": "face"
+    },
+    "['maatila', 'tila', 'farmi', 'valtion maa', 'kuninkaankartano', 'maa', 'maat', 'tilukset', 'kruununmaa', 'maaomaisuus']": {
+        "prompt": "Suomi: \"siipi\" - Deutsch: \"Fl\u00fcgel\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"kuppi\" - Deutsch: \"Tasse\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"maatila\" - Deutsch: \"",
+        "target": "['Bauernhof', 'Farm', 'Landgut', 'L\u00e4nder', 'Gutshof', 'Krongut', 'Grundeigentum', 'Land']",
+        "word original": "farm"
+    },
+    "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka']": {
+        "prompt": "Suomi: \"kaksisiipiset\" - Deutsch: \"Fliege\"\nSuomi: \"kaula\" - Deutsch: \"Hals\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"",
+        "target": "['Strahlen', 'Feder', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder']",
+        "word original": "feather"
+    },
+    "['sormi', 'keskisormi', 'Keskisormi', 'varvas', 'n\u00e4ppi']": {
+        "prompt": "Suomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"sikari\" - Deutsch: \"Zigarre\"\nSuomi: \"hiiri\" - Deutsch: \"Maus\"\nSuomi: \"siipi\" - Deutsch: \"Fl\u00fcgel\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"sormi\" - Deutsch: \"",
+        "target": "['Stinkefinger', 'Digitus', 'Zeh', 'Finger', 'Fingerchen']",
+        "word original": "finger"
+    },
+    "['kala', 'ruokakala', 'Kala ruokana', 'kala ruokana']": {
+        "prompt": "Suomi: \"kakku\" - Deutsch: \"Konfekt\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"paita\" - Deutsch: \"Hemd\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"kala\" - Deutsch: \"",
+        "target": "['Fisch', 'Fische', 'Speisefisch']",
+        "word original": "fish"
+    },
+    "['lippu', 'hinta', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta']": {
+        "prompt": "Suomi: \"ase\" - Deutsch: \"Waffe\"\nSuomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"sormi\" - Deutsch: \"Stinkefinger\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"ampuma-ase\" - Deutsch: \"Schusswaffe\"\nSuomi: \"lippu\" - Deutsch: \"",
+        "target": "['Flagge', 'Fahrpreis', 'Tarifsystem', 'Fahrgeb\u00fchr', 'Eintrittskarte', 'Karte']",
+        "word original": "flag"
+    },
+    "['laakso']": {
+        "prompt": "Suomi: \"lyijykyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"varsi\" - Deutsch: \"Sprossachse\"\nSuomi: \"katu\" - Deutsch: \"Innerortsstra\u00dfe\"\nSuomi: \"t\u00e4hti\" - Deutsch: \"Stern\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"laakso\" - Deutsch: \"",
+        "target": "['Tal', 'Senke']",
+        "word original": "floor"
+    },
+    "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']": {
+        "prompt": "Suomi: \"virka\" - Deutsch: \"Bureau\"\nSuomi: \"laatikko\" - Deutsch: \"Eintopf\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"korva\" - Deutsch: \"Ohren\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"kaksisiipiset\" - Deutsch: \"",
+        "target": "['Fliege', 'Zweifl\u00fcgler']",
+        "word original": "fly"
+    },
+    "['jalkater\u00e4', 'jalka']": {
+        "prompt": "Suomi: \"housut\" - Deutsch: \"Hose\"\nSuomi: \"tiili\" - Deutsch: \"Ziegelstein\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"yliopisto\" - Deutsch: \"Uni\"\nSuomi: \"jalkater\u00e4\" - Deutsch: \"",
+        "target": "['Fu\u00df', 'Pes']",
+        "word original": "foot"
+    },
+    "['haarukka']": {
+        "prompt": "Suomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"funktio\" - Deutsch: \"Funktion\"\nSuomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"ketju\" - Deutsch: \"Kette\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"haarukka\" - Deutsch: \"",
+        "target": "['Gabel', 'Pommesgabel']",
+        "word original": "fork"
+    },
+    "['siipikarja', 'riistalintu', 'Galloanserae']": {
+        "prompt": "Suomi: \"piirros\" - Deutsch: \"Abbildung\"\nSuomi: \"kirja\" - Deutsch: \"Buch\"\nSuomi: \"muisti\" - Deutsch: \"Ged\u00e4chtnis\"\nSuomi: \"hammas\" - Deutsch: \"Z\u00e4hne\"\nSuomi: \"polvi\" - Deutsch: \"Knie\"\nSuomi: \"siipikarja\" - Deutsch: \"",
+        "target": "['Gefl\u00fcgel', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']": {
+        "prompt": "Suomi: \"neli\u00f6\" - Deutsch: \"Quadrat\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"juusto\" - Deutsch: \"K\u00e4se\"\nSuomi: \"laatikko\" - Deutsch: \"Eintopf\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"ihmisruumis\" - Deutsch: \"",
+        "target": "['Humanphysiologie', 'menschlicher K\u00f6rper', 'Figur', 'Gestalt', 'Bau', 'Statur', 'Form', 'K\u00f6rperbau']",
+        "word original": "frame"
+    },
+    "['puutarha', 'kasvimaa']": {
+        "prompt": "Suomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"vasara\" - Deutsch: \"Hammer\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"puutarha\" - Deutsch: \"",
+        "target": "['Garten']",
+        "word original": "garden"
+    },
+    "['tytt\u00f6', 'neiti', 'nuori nainen', 'nainen', 'naaras', 'tyt\u00e4r', 'tytt\u00f6kaveri', 'tytt\u00f6yst\u00e4v\u00e4', 'naisyst\u00e4v\u00e4']": {
+        "prompt": "Suomi: \"purjealus\" - Deutsch: \"Segelschiff\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"",
+        "target": "['M\u00e4dchen', 'Fr\u00e4ulein', 'Frau', 'Weib', 'Weibsperson', 'Dame', 'Frauenzimmer', 'weibliches Geschlecht', 'Weibchen', 'weiblicher Mensch', 'Tochter', 'Freundin']",
+        "word original": "girl"
+    },
+    "['hansikas', 'sormikas', 'hanska', 'k\u00e4sine']": {
+        "prompt": "Suomi: \"l\u00e4hde\" - Deutsch: \"Quelle\"\nSuomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"omena\" - Deutsch: \"Apfel\"\nSuomi: \"korva\" - Deutsch: \"Ohren\"\nSuomi: \"hansikas\" - Deutsch: \"",
+        "target": "['Handschuh']",
+        "word original": "glove"
+    },
+    "['vuohi', 'vuohiel\u00e4in']": {
+        "prompt": "Suomi: \"piirros\" - Deutsch: \"Abbildung\"\nSuomi: \"luu\" - Deutsch: \"Bein\"\nSuomi: \"rannekello\" - Deutsch: \"Armbanduhr\"\nSuomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"sika\" - Deutsch: \"Hausschwein\"\nSuomi: \"vuohi\" - Deutsch: \"",
+        "target": "['Hausziege', 'Ziege']",
+        "word original": "goat"
+    },
+    "['ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']": {
+        "prompt": "Suomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"silta\" - Deutsch: \"Br\u00fccke\"\nSuomi: \"teepannu\" - Deutsch: \"Teekanne\"\nSuomi: \"hame\" - Deutsch: \"Rock\"\nSuomi: \"ampuma-ase\" - Deutsch: \"",
+        "target": "['Schusswaffe', 'Feuerwaffe']",
+        "word original": "gun"
+    },
+    "['karvoitus', 'karva', 'hius', 'jouhi']": {
+        "prompt": "Suomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"sein\u00e4\" - Deutsch: \"Wand\"\nSuomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"karvoitus\" - Deutsch: \"",
+        "target": "['Haar']",
+        "word original": "root"
+    },
+    "['vasara']": {
+        "prompt": "Suomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"kello\" - Deutsch: \"Glocke\"\nSuomi: \"postimerkki\" - Deutsch: \"Briefmarke\"\nSuomi: \"veitsi\" - Deutsch: \"Messer\"\nSuomi: \"puutarha\" - Deutsch: \"Garten\"\nSuomi: \"vasara\" - Deutsch: \"",
+        "target": "['Hammer']",
+        "word original": "hammer"
+    },
+    "['k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus']": {
+        "prompt": "Suomi: \"siipikarja\" - Deutsch: \"Gefl\u00fcgel\"\nSuomi: \"mirri\" - Deutsch: \"Hauskatze\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"ulkokatto\" - Deutsch: \"Dach\"\nSuomi: \"k\u00e4si\" - Deutsch: \"",
+        "target": "['Hand']",
+        "word original": "hand"
+    },
+    "['hattu', 'lakki', 'p\u00e4\u00e4hine']": {
+        "prompt": "Suomi: \"kirja\" - Deutsch: \"Buch\"\nSuomi: \"t\u00e4hti\" - Deutsch: \"Stern\"\nSuomi: \"kuppi\" - Deutsch: \"Tasse\"\nSuomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"hattu\" - Deutsch: \"",
+        "target": "['Hut', 'Kopfbedeckung', 'Chapeau!', 'Kappe', 'M\u00fctze']",
+        "word original": "hat"
+    },
+    "['syd\u00e4n', 'verenkiertoj\u00e4rjestelm\u00e4', 'syd\u00e4n ja verisuonet', 'verenkierto', 'verenkiertoelimet', 'syd\u00e4nlihas', 'pumppu', 'kiintymys', 'rakkaus', 'mieltymys', 'syd\u00e4mellisyys', 'l\u00e4mp\u00f6', 'l\u00e4mminsyd\u00e4misyys', 'rakastavuus', 'filia', 'hellyys', 'heikkous', 'keskusta', 'keskus', 'silm\u00e4', 'keskipiste']": {
+        "prompt": "Suomi: \"hammas\" - Deutsch: \"Z\u00e4hne\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"juusto\" - Deutsch: \"K\u00e4se\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"",
+        "target": "['Herzkreislaufsystem', 'Blutstrom', 'Blutkreislauf', 'Blutbahn', 'Kreislaufsystem', 'Herz', 'Philia', 'Affektion', 'Zuneigung']",
+        "word original": "pump"
+    },
+    "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']": {
+        "prompt": "Suomi: \"lippu\" - Deutsch: \"Flagge\"\nSuomi: \"talo\" - Deutsch: \"Haus\"\nSuomi: \"jalokivi\" - Deutsch: \"Juwel\"\nSuomi: \"hammas\" - Deutsch: \"Z\u00e4hne\"\nSuomi: \"sieniel\u00e4imet\" - Deutsch: \"Schw\u00e4mme\"\nSuomi: \"munniharppu\" - Deutsch: \"",
+        "target": "['Drommeter', 'Kornett', 'Trompete', 'Maultrommel', 'Trompeter', 'Drommete']",
+        "word original": "horn"
+    },
+    "['hevonen', 'Equus caballus']": {
+        "prompt": "Suomi: \"nappi\" - Deutsch: \"Knopf\"\nSuomi: \"ovikello\" - Deutsch: \"Klingel\"\nSuomi: \"komitea\" - Deutsch: \"Komitee\"\nSuomi: \"tiili\" - Deutsch: \"Ziegelstein\"\nSuomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"hevonen\" - Deutsch: \"",
+        "target": "['Gaul', 'Pferd', 'Ross', 'Hauspferd']",
+        "word original": "horse"
+    },
+    "['sairaala', 'sairasosasto']": {
+        "prompt": "Suomi: \"vatsa\" - Deutsch: \"Bauch\"\nSuomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"kala\" - Deutsch: \"Fisch\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Deutsch: \"Fahrrad\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"sairaala\" - Deutsch: \"",
+        "target": "['Hospital', 'Krankenhaus', 'Klinik']",
+        "word original": "hospital"
+    },
+    "['talo']": {
+        "prompt": "Suomi: \"nappi\" - Deutsch: \"Knopf\"\nSuomi: \"veitsi\" - Deutsch: \"Messer\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"talo\" - Deutsch: \"",
+        "target": "['Haus']",
+        "word original": "house"
+    },
+    "['saari', 'saareke', 'jalka', 's\u00e4\u00e4ri']": {
+        "prompt": "Suomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"ketju\" - Deutsch: \"Kette\"\nSuomi: \"silta\" - Deutsch: \"Br\u00fccke\"\nSuomi: \"kirja\" - Deutsch: \"Buch\"\nSuomi: \"saari\" - Deutsch: \"",
+        "target": "['Insel', 'Eiland', 'Bein', 'Beine', 'menschliches Bein']",
+        "word original": "island"
+    },
+    "['jalokivi', 'korukivi']": {
+        "prompt": "Suomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"ovikello\" - Deutsch: \"Klingel\"\nSuomi: \"funktio\" - Deutsch: \"Funktion\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"karja\" - Deutsch: \"Hausrind\"\nSuomi: \"jalokivi\" - Deutsch: \"",
+        "target": "['Juwel', 'Schmuckstein', 'Edelstein', 'Kleinod']",
+        "word original": "jewel"
+    },
+    "['teepannu', 'teekannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']": {
+        "prompt": "Suomi: \"maatila\" - Deutsch: \"Bauernhof\"\nSuomi: \"uuni\" - Deutsch: \"Ofen\"\nSuomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"pullo\" - Deutsch: \"Gasflasche\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"teepannu\" - Deutsch: \"",
+        "target": "['Teekanne', 'Teekessel', 'Kochtopf', 'Pfeifkessel', 'Kessel', 'Wasserkessel']",
+        "word original": "kettle"
+    },
+    "['avain', 's\u00e4vellaji', 'tonaalisuus']": {
+        "prompt": "Suomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"asema\" - Deutsch: \"Bahnstation\"\nSuomi: \"kampa\" - Deutsch: \"Kamm\"\nSuomi: \"pid\u00e4tys\" - Deutsch: \"Festnahme\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"avain\" - Deutsch: \"",
+        "target": "['Tonart', 'Tonalit\u00e4t', 'Schl\u00fcssel']",
+        "word original": "key"
+    },
+    "['polvi', 'polvinivel', 'articulatio genus']": {
+        "prompt": "Suomi: \"harja\" - Deutsch: \"Gebirgskamm\"\nSuomi: \"lippu\" - Deutsch: \"Flagge\"\nSuomi: \"karja\" - Deutsch: \"Hausrind\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"pullo\" - Deutsch: \"Gasflasche\"\nSuomi: \"polvi\" - Deutsch: \"",
+        "target": "['Knie', 'Kniegelenk']",
+        "word original": "knee"
+    },
+    "['veitsi', 'puukko']": {
+        "prompt": "Suomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"ovikello\" - Deutsch: \"Klingel\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"avain\" - Deutsch: \"Tonart\"\nSuomi: \"linnut\" - Deutsch: \"V\u00f6gelchen\"\nSuomi: \"veitsi\" - Deutsch: \"",
+        "target": "['Messer']",
+        "word original": "knife"
+    },
+    "['solmu']": {
+        "prompt": "Suomi: \"sairaala\" - Deutsch: \"Hospital\"\nSuomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"teepannu\" - Deutsch: \"Teekanne\"\nSuomi: \"kirjasto\" - Deutsch: \"Bibliothek\"\nSuomi: \"purjealus\" - Deutsch: \"Segelschiff\"\nSuomi: \"solmu\" - Deutsch: \"",
+        "target": "['Knoten']",
+        "word original": "knot"
+    },
+    "['lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti']": {
+        "prompt": "Suomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"potta\" - Deutsch: \"Klosett\"\nSuomi: \"rautatie\" - Deutsch: \"Eisenbahn\"\nSuomi: \"lentokone\" - Deutsch: \"Luftfahrzeug\"\nSuomi: \"kello\" - Deutsch: \"Glocke\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"",
+        "target": "['Belaubung', 'Blattwerk', 'Blatt', 'Laub', 'Laubwerk', 'Bl\u00e4tterwerk', 'Laphi']",
+        "word original": "leaf"
+    },
+    "['jalka', 'k\u00e4si', 'k\u00e4p\u00e4l\u00e4', 'manus', 'jalkater\u00e4', 's\u00e4\u00e4ri']": {
+        "prompt": "Suomi: \"apina\" - Deutsch: \"Affe\"\nSuomi: \"lasku\" - Deutsch: \"Rechnung\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"uuni\" - Deutsch: \"Ofen\"\nSuomi: \"jalka\" - Deutsch: \"",
+        "target": "['Hand', 'Fu\u00df', 'Pes', 'Bein', 'Beine', 'menschliches Bein']",
+        "word original": "pin"
+    },
+    "['kirjasto', 'kokoelma']": {
+        "prompt": "Suomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"luu\" - Deutsch: \"Bein\"\nSuomi: \"sairaala\" - Deutsch: \"Hospital\"\nSuomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"kirjasto\" - Deutsch: \"",
+        "target": "['Bibliothek', 'B\u00fccherei']",
+        "word original": "library"
+    },
+    "['televisio', 'televisio-ohjelma', 'tv-ohjelma', 'television\u00e4yt\u00f6s', 'TV-n\u00e4yt\u00f6s', 'TV-ohjelma', 'video', 'TV', 'televisiointi', 'televisiovastaanotin', 't\u00f6ll\u00f6tin', 'telkkari', 'telkka', 'televisiolaite', 'p\u00f6ntt\u00f6', 'telkku', 'tv']": {
+        "prompt": "Suomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"vaatetus\" - Deutsch: \"Bekleidung\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"ikkuna\" - Deutsch: \"Fenster\"\nSuomi: \"televisio\" - Deutsch: \"",
+        "target": "['Staffel', 'Fernsehshow', 'Fernsehprogramm', 'Fernsehsendung', 'Television', 'Video', 'Fernsehen', 'Videotechnik', 'TV-Ger\u00e4t', 'Fernseher', 'Fernsehapparat', 'Fernsehempf\u00e4nger', 'Fernsehger\u00e4t']",
+        "word original": "line"
+    },
+    "['huuli', 'huulet']": {
+        "prompt": "Suomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"piirros\" - Deutsch: \"Abbildung\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"huuli\" - Deutsch: \"",
+        "target": "['Lippe']",
+        "word original": "lip"
+    },
+    "['funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio']": {
+        "prompt": "Suomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"k\u00e4si\" - Deutsch: \"Hand\"\nSuomi: \"aura\" - Deutsch: \"Pflug\"\nSuomi: \"hiiri\" - Deutsch: \"Maus\"\nSuomi: \"hevonen\" - Deutsch: \"Gaul\"\nSuomi: \"funktio\" - Deutsch: \"",
+        "target": "['Funktion', 'Abbildung']",
+        "word original": "map"
+    },
+    "['tulitikku', 'rikkitulitikku']": {
+        "prompt": "Suomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"tiili\" - Deutsch: \"Ziegelstein\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"tulitikku\" - Deutsch: \"",
+        "target": "['Z\u00fcndholz', 'Streichholz', 'H\u00f6lzchen']",
+        "word original": "match"
+    },
+    "['apina', 'apinat']": {
+        "prompt": "Suomi: \"pullo\" - Deutsch: \"Gasflasche\"\nSuomi: \"filmi\" - Deutsch: \"Film\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"kirjasto\" - Deutsch: \"Bibliothek\"\nSuomi: \"apina\" - Deutsch: \"",
+        "target": "['Affe']",
+        "word original": "monkey"
+    },
+    "['kynsi']": {
+        "prompt": "Suomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"apina\" - Deutsch: \"Affe\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"lippu\" - Deutsch: \"Flagge\"\nSuomi: \"kynsi\" - Deutsch: \"",
+        "target": "['Fingernagel', 'Nagel']",
+        "word original": "nail"
+    },
+    "['kaula']": {
+        "prompt": "Suomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"tippa\" - Deutsch: \"Regentropfen\"\nSuomi: \"lasku\" - Deutsch: \"Rechnung\"\nSuomi: \"pikkulapsi\" - Deutsch: \"Minderj\u00e4hrige\"\nSuomi: \"kynsi\" - Deutsch: \"Fingernagel\"\nSuomi: \"kaula\" - Deutsch: \"",
+        "target": "['Hals', 'Nacken', 'Genick']",
+        "word original": "neck"
+    },
+    "['neula', 'ompeluneula']": {
+        "prompt": "Suomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"lyijykyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"neula\" - Deutsch: \"",
+        "target": "['Nadel', 'N\u00e4hnadel', 'Injektionsnadel']",
+        "word original": "needle"
+    },
+    "['hermo', 'hermoj\u00e4rjestelm\u00e4', 'hermosto', 'systema nervosum']": {
+        "prompt": "Suomi: \"laakso\" - Deutsch: \"Tal\"\nSuomi: \"kirkko\" - Deutsch: \"Kirche\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"pakkaus\" - Deutsch: \"Verpackung\"\nSuomi: \"silta\" - Deutsch: \"Br\u00fccke\"\nSuomi: \"hermo\" - Deutsch: \"",
+        "target": "['Nervensystem', 'Nerv']",
+        "word original": "nerve"
+    },
+    "['internet', 'netti', 'kyberavaruus', 'verkko']": {
+        "prompt": "Suomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"pid\u00e4tys\" - Deutsch: \"Festnahme\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"sairaala\" - Deutsch: \"Hospital\"\nSuomi: \"internet\" - Deutsch: \"",
+        "target": "['Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Cyberspace']",
+        "word original": "net"
+    },
+    "['nen\u00e4', 'hajuelin']": {
+        "prompt": "Suomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"\u00e4mp\u00e4ri\" - Deutsch: \"Eimer\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"uuni\" - Deutsch: \"Ofen\"\nSuomi: \"rannekello\" - Deutsch: \"Armbanduhr\"\nSuomi: \"nen\u00e4\" - Deutsch: \"",
+        "target": "['Nase']",
+        "word original": "nose"
+    },
+    "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'asema', 'ty\u00f6paikka', 'paikka', 'toimi']": {
+        "prompt": "Suomi: \"sormi\" - Deutsch: \"Stinkefinger\"\nSuomi: \"katu\" - Deutsch: \"Innerortsstra\u00dfe\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"asema\" - Deutsch: \"Bahnstation\"\nSuomi: \"virka\" - Deutsch: \"",
+        "target": "['Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'B\u00fcro', 'Beh\u00f6rde', 'Kontor', 'Posten', 'Stelle']",
+        "word original": "office"
+    },
+    "['oranssius', 'oranssi', 'oranssisuus']": {
+        "prompt": "Suomi: \"kuppi\" - Deutsch: \"Tasse\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"hammas\" - Deutsch: \"Z\u00e4hne\"\nSuomi: \"juusto\" - Deutsch: \"K\u00e4se\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"oranssius\" - Deutsch: \"",
+        "target": "['Orange']",
+        "word original": "orange"
+    },
+    "['uuni', 'ilman esikuumennin', 'kasvihuone', 'kamiina']": {
+        "prompt": "Suomi: \"haarukka\" - Deutsch: \"Gabel\"\nSuomi: \"luu\" - Deutsch: \"Bein\"\nSuomi: \"hinta\" - Deutsch: \"Preis\"\nSuomi: \"omena\" - Deutsch: \"Apfel\"\nSuomi: \"vasara\" - Deutsch: \"Hammer\"\nSuomi: \"uuni\" - Deutsch: \"",
+        "target": "['Ofen', 'Backofen']",
+        "word original": "oven"
+    },
+    "['pakkaus', 'pakkaaminen', 'mainos', 'ilmoitus', 'tiedotus', 'myynninedist\u00e4mistapahtuma', 'mainostapahtuma', 'mainospakkaus', 'promootio', 'mainosaineisto', 'mainosmateriaali', 'paketti']": {
+        "prompt": "Suomi: \"sein\u00e4\" - Deutsch: \"Wand\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"aura\" - Deutsch: \"Pflug\"\nSuomi: \"kynsi\" - Deutsch: \"Fingernagel\"\nSuomi: \"ikkuna\" - Deutsch: \"Fenster\"\nSuomi: \"pakkaus\" - Deutsch: \"",
+        "target": "['Verpackung', 'Werbung', 'Publicity and Advertising', 'Bewerbung', 'Kommunikationspolitik', 'Publizit\u00e4t', 'Pr\u00e4sentation', 'Werbeaktion']",
+        "word original": "parcel"
+    },
+    "['kyn\u00e4', 'lyijykyn\u00e4', 'mustekyn\u00e4']": {
+        "prompt": "Suomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"ulkokatto\" - Deutsch: \"Dach\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"kyn\u00e4\" - Deutsch: \"",
+        "target": "['Bleistift', 'F\u00fcller', 'Feder', 'Schreibstift']",
+        "word original": "pen"
+    },
+    "['lyijykyn\u00e4', 'kyn\u00e4']": {
+        "prompt": "Suomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"linnut\" - Deutsch: \"V\u00f6gelchen\"\nSuomi: \"huuli\" - Deutsch: \"Lippe\"\nSuomi: \"t\u00e4hti\" - Deutsch: \"Stern\"\nSuomi: \"lyijykyn\u00e4\" - Deutsch: \"",
+        "target": "['Bleistift']",
+        "word original": "pencil"
+    },
+    "['filmi', 'ohut kalvo', 'elokuva', 'leffa', 'elokuvan\u00e4yt\u00f6s', 'elokuvateollisuus']": {
+        "prompt": "Suomi: \"huuli\" - Deutsch: \"Lippe\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"filmi\" - Deutsch: \"",
+        "target": "['Film']",
+        "word original": "picture"
+    },
+    "['sika', 'siat', 'Siat', 'possu', 'Sus scrofa', 'sy\u00f6tt\u00f6karju', 'sianliha', 'porsas']": {
+        "prompt": "Suomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"mehil\u00e4iset\" - Deutsch: \"Imme\"\nSuomi: \"siipikarja\" - Deutsch: \"Gefl\u00fcgel\"\nSuomi: \"k\u00e4si\" - Deutsch: \"Hand\"\nSuomi: \"filmi\" - Deutsch: \"Film\"\nSuomi: \"sika\" - Deutsch: \"",
+        "target": "['Hausschwein', 'Schwein', 'Sus', 'Schweinefleisch', 'Schweinernes', 'Schweiners']",
+        "word original": "pig"
+    },
+    "['lentokone', 'ilma-alus', 'kone']": {
+        "prompt": "Suomi: \"saari\" - Deutsch: \"Insel\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"moottori\" - Deutsch: \"Motor\"\nSuomi: \"paita\" - Deutsch: \"Hemd\"\nSuomi: \"lentokone\" - Deutsch: \"",
+        "target": "['Luftfahrzeug', 'Flugzeug', 'Flieger', 'Maschine']",
+        "word original": "plane"
+    },
+    "['aura']": {
+        "prompt": "Suomi: \"l\u00e4hde\" - Deutsch: \"Quelle\"\nSuomi: \"lentokone\" - Deutsch: \"Luftfahrzeug\"\nSuomi: \"uuni\" - Deutsch: \"Ofen\"\nSuomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"aura\" - Deutsch: \"",
+        "target": "['Pflug']",
+        "word original": "plough"
+    },
+    "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin']": {
+        "prompt": "Suomi: \"vene\" - Deutsch: \"Boot\"\nSuomi: \"holvikaari\" - Deutsch: \"Bogen\"\nSuomi: \"lentokone\" - Deutsch: \"Luftfahrzeug\"\nSuomi: \"kyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"ase\" - Deutsch: \"Waffe\"\nSuomi: \"potta\" - Deutsch: \"",
+        "target": "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf']",
+        "word original": "pot"
+    },
+    "['peruna', 'potaatti', 'pottu']": {
+        "prompt": "Suomi: \"kaksisiipiset\" - Deutsch: \"Fliege\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"munniharppu\" - Deutsch: \"Drommeter\"\nSuomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"peruna\" - Deutsch: \"",
+        "target": "['Erdapfel', 'Speisekartoffel', 'Tartuffel', 'H\u00e4rd\u00f6pfel', 'Krumenbeere', 'Kartoffel', 'Grundbirne', 'Kartoffeln']",
+        "word original": "potato"
+    },
+    "['linna', 'vankila', 'tyrm\u00e4', 'palatsi']": {
+        "prompt": "Suomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"lusikka\" - Deutsch: \"L\u00f6ffel\"\nSuomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"vene\" - Deutsch: \"Boot\"\nSuomi: \"linna\" - Deutsch: \"",
+        "target": "['Burg', 'Festung', 'Schloss', 'Strafanstalt', 'Kittchen', 'Gef\u00e4ngnis', 'Bau', 'Knast', 'Haftanstalt', 'Loch']",
+        "word original": "prison"
+    },
+    "['rautatie', 'rata', 'junarata', 'raide', 'Raide', 'raiteet', 'rautatiekuljetus', 'rautatielinja', 'rautatieverkko']": {
+        "prompt": "Suomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"varvas\" - Deutsch: \"Digitus\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"hevonen\" - Deutsch: \"Gaul\"\nSuomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"rautatie\" - Deutsch: \"",
+        "target": "['Eisenbahn', 'Bahngleis', 'Gleis', 'Eisenbahngleis', 'Eisenbahntransport']",
+        "word original": "rail"
+    },
+    "['hiiri', 'kotihiiret', 'Kotihiiret', 'tietokoneen hiiri']": {
+        "prompt": "Suomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"rannekello\" - Deutsch: \"Armbanduhr\"\nSuomi: \"leuka\" - Deutsch: \"Kinn\"\nSuomi: \"lentokone\" - Deutsch: \"Luftfahrzeug\"\nSuomi: \"virka\" - Deutsch: \"Bureau\"\nSuomi: \"hiiri\" - Deutsch: \"",
+        "target": "['Maus', 'Ratte', 'M\u00e4use', 'Computermaus', 'Rechnermaus']",
+        "word original": "rat"
+    },
+    "['lasku', 'tili', 'ravintolalasku', 'tavaralasku', 'laskutoimitus', 'laskenta', 'laskeminen', 'komputaatio', 'Komputaatio', 'laskeutuminen']": {
+        "prompt": "Suomi: \"ulkokatto\" - Deutsch: \"Dach\"\nSuomi: \"vasara\" - Deutsch: \"Hammer\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"lasku\" - Deutsch: \"",
+        "target": "['Rechnung', 'Abrechnung', 'Faktura', 'Berechnung', 'Rechnen', 'Landung']",
+        "word original": "receipt"
+    },
+    "['ruumiinrangaistus', 'ruumiillinen rangaistus']": {
+        "prompt": "Suomi: \"talo\" - Deutsch: \"Haus\"\nSuomi: \"piirros\" - Deutsch: \"Abbildung\"\nSuomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"peruna\" - Deutsch: \"Erdapfel\"\nSuomi: \"ruumiinrangaistus\" - Deutsch: \"",
+        "target": "['Pr\u00fcgelstrafe', 'K\u00f6rperstrafe', 'k\u00f6rperliche Z\u00fcchtigung']",
+        "word original": "rod"
+    },
+    "['ulkokatto', 'katto']": {
+        "prompt": "Suomi: \"lasku\" - Deutsch: \"Rechnung\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"vatsa\" - Deutsch: \"Bauch\"\nSuomi: \"k\u00e4si\" - Deutsch: \"Hand\"\nSuomi: \"ulkokatto\" - Deutsch: \"",
+        "target": "['Dach']",
+        "word original": "roof"
+    },
+    "['purjealus', 'purjehdusalus', 'purjelaiva']": {
+        "prompt": "Suomi: \"varsi\" - Deutsch: \"Sprossachse\"\nSuomi: \"silta\" - Deutsch: \"Br\u00fccke\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"sika\" - Deutsch: \"Hausschwein\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"purjealus\" - Deutsch: \"",
+        "target": "['Segelschiff']",
+        "word original": "sail"
+    },
+    "['yliopisto', 'koulu', 'akatemia', 'tiedeakatemia', 'taideakatemia']": {
+        "prompt": "Suomi: \"juusto\" - Deutsch: \"K\u00e4se\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"vaatetus\" - Deutsch: \"Bekleidung\"\nSuomi: \"kirjasto\" - Deutsch: \"Bibliothek\"\nSuomi: \"peruna\" - Deutsch: \"Erdapfel\"\nSuomi: \"yliopisto\" - Deutsch: \"",
+        "target": "['Uni', 'Universit\u00e4t', 'Akademie', 'Schule', 'Hochschule']",
+        "word original": "school"
+    },
+    "['sakset']": {
+        "prompt": "Suomi: \"rannekello\" - Deutsch: \"Armbanduhr\"\nSuomi: \"silm\u00e4muna\" - Deutsch: \"Augapfel\"\nSuomi: \"rihma\" - Deutsch: \"Garn\"\nSuomi: \"linnut\" - Deutsch: \"V\u00f6gelchen\"\nSuomi: \"kirkko\" - Deutsch: \"Kirche\"\nSuomi: \"sakset\" - Deutsch: \"",
+        "target": "['Schere']",
+        "word original": "scissors"
+    },
+    "['ruuvi', 'mutteri']": {
+        "prompt": "Suomi: \"nen\u00e4\" - Deutsch: \"Nase\"\nSuomi: \"siipi\" - Deutsch: \"Fl\u00fcgel\"\nSuomi: \"apina\" - Deutsch: \"Affe\"\nSuomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"ruuvi\" - Deutsch: \"",
+        "target": "['Schraube', 'Holzschraube']",
+        "word original": "screw"
+    },
+    "['siemen']": {
+        "prompt": "Suomi: \"polvi\" - Deutsch: \"Knie\"\nSuomi: \"tippa\" - Deutsch: \"Regentropfen\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"vatsa\" - Deutsch: \"Bauch\"\nSuomi: \"hansikas\" - Deutsch: \"Handschuh\"\nSuomi: \"siemen\" - Deutsch: \"",
+        "target": "['Samenkorn', 'Saat', 'Same', 'Samen']",
+        "word original": "seed"
+    },
+    "['lammas', 'Lammas Day', 'lampaat', 'Ovis aries', 'Ovis orientalis aries']": {
+        "prompt": "Suomi: \"haarukka\" - Deutsch: \"Gabel\"\nSuomi: \"veitsi\" - Deutsch: \"Messer\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"pikkulapsi\" - Deutsch: \"Minderj\u00e4hrige\"\nSuomi: \"lammas\" - Deutsch: \"",
+        "target": "['Schaf', 'Hausschaf', 'Ovine', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['hylly']": {
+        "prompt": "Suomi: \"maatila\" - Deutsch: \"Bauernhof\"\nSuomi: \"pikkulapsi\" - Deutsch: \"Minderj\u00e4hrige\"\nSuomi: \"asema\" - Deutsch: \"Bahnstation\"\nSuomi: \"lusikka\" - Deutsch: \"L\u00f6ffel\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"hylly\" - Deutsch: \"",
+        "target": "['Regal']",
+        "word original": "shelf"
+    },
+    "['laiva', 'alus']": {
+        "prompt": "Suomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"asevoimat\" - Deutsch: \"Milit\u00e4r\"\nSuomi: \"mehil\u00e4iset\" - Deutsch: \"Imme\"\nSuomi: \"varvas\" - Deutsch: \"Digitus\"\nSuomi: \"laiva\" - Deutsch: \"",
+        "target": "['Schiff']",
+        "word original": "ship"
+    },
+    "['paita', 'aluspaita', 'paitapusero']": {
+        "prompt": "Suomi: \"mehil\u00e4iset\" - Deutsch: \"Imme\"\nSuomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"mato\" - Deutsch: \"Regenwurm\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"paita\" - Deutsch: \"",
+        "target": "['Hemd']",
+        "word original": "shirt"
+    },
+    "['kenk\u00e4']": {
+        "prompt": "Suomi: \"kirja\" - Deutsch: \"Buch\"\nSuomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"vasara\" - Deutsch: \"Hammer\"\nSuomi: \"kaksisiipiset\" - Deutsch: \"Fliege\"\nSuomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"",
+        "target": "['Schuh', 'Lackschuh']",
+        "word original": "tongue"
+    },
+    "['iho', 'nahka', 'tegumentti', 'cutis']": {
+        "prompt": "Suomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"funktio\" - Deutsch: \"Funktion\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"lentokone\" - Deutsch: \"Luftfahrzeug\"\nSuomi: \"vene\" - Deutsch: \"Boot\"\nSuomi: \"iho\" - Deutsch: \"",
+        "target": "['Haut']",
+        "word original": "skin"
+    },
+    "['hame']": {
+        "prompt": "Suomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"varvas\" - Deutsch: \"Digitus\"\nSuomi: \"vuode\" - Deutsch: \"Bett\"\nSuomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"hame\" - Deutsch: \"",
+        "target": "['Rock']",
+        "word original": "skirt"
+    },
+    "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']": {
+        "prompt": "Suomi: \"nen\u00e4\" - Deutsch: \"Nase\"\nSuomi: \"komitea\" - Deutsch: \"Komitee\"\nSuomi: \"kakku\" - Deutsch: \"Konfekt\"\nSuomi: \"jalokivi\" - Deutsch: \"Juwel\"\nSuomi: \"iskunvaimennin\" - Deutsch: \"Sto\u00dfd\u00e4mpfer\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Deutsch: \"",
+        "target": "['Schlange', 'Schlangen', 'Wurm']",
+        "word original": "snake"
+    },
+    "['sukka']": {
+        "prompt": "Suomi: \"sateenvarjo\" - Deutsch: \"Parapluie\"\nSuomi: \"huuli\" - Deutsch: \"Lippe\"\nSuomi: \"nen\u00e4\" - Deutsch: \"Nase\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"sukka\" - Deutsch: \"",
+        "target": "['Strumpf', 'Socke']",
+        "word original": "stocking"
+    },
+    "['sieniel\u00e4imet', 'sieniel\u00e4in']": {
+        "prompt": "Suomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"kirkko\" - Deutsch: \"Kirche\"\nSuomi: \"neli\u00f6\" - Deutsch: \"Quadrat\"\nSuomi: \"kirjasto\" - Deutsch: \"Bibliothek\"\nSuomi: \"k\u00e4\u00e4rmeet\" - Deutsch: \"Schlange\"\nSuomi: \"sieniel\u00e4imet\" - Deutsch: \"",
+        "target": "['Schw\u00e4mme', 'Schwamm']",
+        "word original": "sponge"
+    },
+    "['lusikka', 'kapusta']": {
+        "prompt": "Suomi: \"housut\" - Deutsch: \"Hose\"\nSuomi: \"ampuma-ase\" - Deutsch: \"Schusswaffe\"\nSuomi: \"kaksisiipiset\" - Deutsch: \"Fliege\"\nSuomi: \"kylpyhuone\" - Deutsch: \"Badestube\"\nSuomi: \"ulkokatto\" - Deutsch: \"Dach\"\nSuomi: \"lusikka\" - Deutsch: \"",
+        "target": "['L\u00f6ffel']",
+        "word original": "spoon"
+    },
+    "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde', 'kaivo', 'alku', 'alkuper\u00e4', 'juuristo', 'juuri', 'alkul\u00e4hde']": {
+        "prompt": "Suomi: \"koira\" - Deutsch: \"Hund\"\nSuomi: \"nen\u00e4\" - Deutsch: \"Nase\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"huuli\" - Deutsch: \"Lippe\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"l\u00e4hde\" - Deutsch: \"",
+        "target": "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']",
+        "word original": "spring"
+    },
+    "['neli\u00f6', 'nelikulmio', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4', 'toinen potenssi']": {
+        "prompt": "Suomi: \"maatila\" - Deutsch: \"Bauernhof\"\nSuomi: \"ampuma-ase\" - Deutsch: \"Schusswaffe\"\nSuomi: \"ketju\" - Deutsch: \"Kette\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"juna\" - Deutsch: \"Zug\"\nSuomi: \"neli\u00f6\" - Deutsch: \"",
+        "target": "['Quadrat', 'Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte', 'Quadrat en je zusje']",
+        "word original": "square"
+    },
+    "['postimerkki', 'merkki']": {
+        "prompt": "Suomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"purjealus\" - Deutsch: \"Segelschiff\"\nSuomi: \"ikkuna\" - Deutsch: \"Fenster\"\nSuomi: \"ulkokatto\" - Deutsch: \"Dach\"\nSuomi: \"linna\" - Deutsch: \"Burg\"\nSuomi: \"postimerkki\" - Deutsch: \"",
+        "target": "['Briefmarke', 'Wertzeichen', 'Freimarke', 'Wert', 'Postwertzeichen', 'Marke']",
+        "word original": "stamp"
+    },
+    "['t\u00e4hti', 'kiintot\u00e4hti', 'asteriski', 't\u00e4htimerkki', '-niekka', 'supert\u00e4hti', 'ekspertti', 'tuntija', 'asiantuntija', 'taituri', 'taitaja', 'Adepti', '\u00e4ss\u00e4', 'taitoniekka', 'adepti', 'huippu-', 'mestari', 'nero', 'virtuoosi', 'velho', 'huippu', 'p\u00e4\u00e4osan esitt\u00e4j\u00e4']": {
+        "prompt": "Suomi: \"polvi\" - Deutsch: \"Knie\"\nSuomi: \"kirja\" - Deutsch: \"Buch\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"harja\" - Deutsch: \"Gebirgskamm\"\nSuomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"t\u00e4hti\" - Deutsch: \"",
+        "target": "['Stern', 'Sonne', 'Fixstern', 'Sternchen', 'Superstar', 'Expertin', 'Promi', 'Kennerin', 'Adept', 'Prominenter', 'Prominente', 'Experte', 'Kenner', 'Maven', 'Wunder-', 'Star', 'Meister']",
+        "word original": "star"
+    },
+    "['asema', 'rautatieasema', 'juna-asema', 'junapys\u00e4kki', 'virka', 'ty\u00f6paikka', 'paikka', 'toimi', 'piste', 'vartiopaikka', 't\u00f6n\u00e4isy', 'ty\u00f6nt\u00f6', 'k\u00e4ytt\u00f6voima', 'ty\u00f6nt\u00f6voima']": {
+        "prompt": "Suomi: \"komitea\" - Deutsch: \"Komitee\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Deutsch: \"Fahrrad\"\nSuomi: \"purjealus\" - Deutsch: \"Segelschiff\"\nSuomi: \"Arkku\" - Deutsch: \"Truhe\"\nSuomi: \"tytt\u00f6\" - Deutsch: \"M\u00e4dchen\"\nSuomi: \"asema\" - Deutsch: \"",
+        "target": "['Bahnstation', 'Bahnhof', 'Eisenbahnhof', 'Haltestelle', 'Zugangsstelle', 'Eisenbahnstation', 'Bahnstelle', 'Verkehrsstation', 'Posten', 'Stelle', 'Schub']",
+        "word original": "station"
+    },
+    "['varsi']": {
+        "prompt": "Suomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"laatikko\" - Deutsch: \"Eintopf\"\nSuomi: \"h\u00f6yhenet\" - Deutsch: \"Strahlen\"\nSuomi: \"koira\" - Deutsch: \"Hund\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"varsi\" - Deutsch: \"",
+        "target": "['Sprossachse', 'Strunk', 'Stiel', 'St\u00e4ngel']",
+        "word original": "stem"
+    },
+    "['sikari']": {
+        "prompt": "Suomi: \"purjealus\" - Deutsch: \"Segelschiff\"\nSuomi: \"kirjasto\" - Deutsch: \"Bibliothek\"\nSuomi: \"naama\" - Deutsch: \"Visage\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"henkil\u00f6llisyystodistus\" - Deutsch: \"Personalausweis\"\nSuomi: \"sikari\" - Deutsch: \"",
+        "target": "['Zigarre']",
+        "word original": "stick"
+    },
+    "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu']": {
+        "prompt": "Suomi: \"muurahainen\" - Deutsch: \"Ameise\"\nSuomi: \"pikkukaupunki\" - Deutsch: \"Siedlung\"\nSuomi: \"ovikello\" - Deutsch: \"Klingel\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"Nous\" - Deutsch: \"Verstand\"\nSuomi: \"vatsa\" - Deutsch: \"",
+        "target": "['Bauch', 'Magen']",
+        "word original": "stomach"
+    },
+    "['muisti', 'muistaminen', 'muistikortti', 'tietokonemuisti']": {
+        "prompt": "Suomi: \"tulitikku\" - Deutsch: \"Z\u00fcndholz\"\nSuomi: \"piirros\" - Deutsch: \"Abbildung\"\nSuomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"l\u00e4hde\" - Deutsch: \"Quelle\"\nSuomi: \"mehil\u00e4iset\" - Deutsch: \"Imme\"\nSuomi: \"muisti\" - Deutsch: \"",
+        "target": "['Ged\u00e4chtnis', 'Datenspeicher', 'Speichermedium', 'Speicher', 'Computerspeicher', 'Arbeitsspeicher']",
+        "word original": "store"
+    },
+    "['katu']": {
+        "prompt": "Suomi: \"takki\" - Deutsch: \"Anzug\"\nSuomi: \"laatikko\" - Deutsch: \"Eintopf\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"siipikarja\" - Deutsch: \"Gefl\u00fcgel\"\nSuomi: \"nappi\" - Deutsch: \"Knopf\"\nSuomi: \"katu\" - Deutsch: \"",
+        "target": "['Innerortsstra\u00dfe', 'Strasse', 'Stra\u00dfe']",
+        "word original": "street"
+    },
+    "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']": {
+        "prompt": "Suomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"miekka\" - Deutsch: \"Schwert\"\nSuomi: \"silm\u00e4muna\" - Deutsch: \"Augapfel\"\nSuomi: \"sunnuntai\" - Deutsch: \"",
+        "target": "['Sonntag', 'Herrentag', 'Tag des Herrn', 'Herrntag']",
+        "word original": "sun"
+    },
+    "['p\u00f6yt\u00e4']": {
+        "prompt": "Suomi: \"sairaala\" - Deutsch: \"Hospital\"\nSuomi: \"avain\" - Deutsch: \"Tonart\"\nSuomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"laiva\" - Deutsch: \"Schiff\"\nSuomi: \"kala\" - Deutsch: \"Fisch\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"",
+        "target": "['Tisch']",
+        "word original": "table"
+    },
+    "['pyrst\u00f6', 'perskannikka', 'kannikka', 'peppu', 'satula', 'takamus', 'istuin', 'per\u00e4', 'pylly', 'pakarat', 'persus', 'perse', 'takapuoli', 'ahteri', 'per\u00e4p\u00e4\u00e4', 'h\u00e4nt\u00e4']": {
+        "prompt": "Suomi: \"siemen\" - Deutsch: \"Samenkorn\"\nSuomi: \"asema\" - Deutsch: \"Bahnstation\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"yliopisto\" - Deutsch: \"Uni\"\nSuomi: \"puutarha\" - Deutsch: \"Garten\"\nSuomi: \"pyrst\u00f6\" - Deutsch: \"",
+        "target": "['Hintern', 'K\u00e4cker', 'Popo', 'Ges\u00e4\u00dfbacke', 'Hinterteil', 'P\u00f6ker', 'Podex', 'Arschbacke', 'Hinterbacke', 'P\u00f6ter', 'Pobacke', 'Vollmond', 'Mond', 'Arsch', 'Ges\u00e4\u00df', 'Sitzfleisch', 'Allerwertester', 'Po', 'Hinterende', 'Schwanz']",
+        "word original": "tail"
+    },
+    "['rihma', 'lanka', 'kuitu', 's\u00e4ie']": {
+        "prompt": "Suomi: \"kyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"varvas\" - Deutsch: \"Digitus\"\nSuomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"suplementtikulmat\" - Deutsch: \"Winkel\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"rihma\" - Deutsch: \"",
+        "target": "['Garn', 'Faden', 'Zwirn', 'Strang', 'N\u00e4hgarn']",
+        "word original": "thread"
+    },
+    "['kurkku', 'ruokakurkku', 'Cucumis sativus', 'pharynx', 'nielu']": {
+        "prompt": "Suomi: \"sika\" - Deutsch: \"Hausschwein\"\nSuomi: \"paita\" - Deutsch: \"Hemd\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"pikkulapsi\" - Deutsch: \"Minderj\u00e4hrige\"\nSuomi: \"rautatie\" - Deutsch: \"Eisenbahn\"\nSuomi: \"kurkku\" - Deutsch: \"",
+        "target": "['Gurke', 'Kehle']",
+        "word original": "throat"
+    },
+    "['peukalo', 'pollex']": {
+        "prompt": "Suomi: \"pid\u00e4tys\" - Deutsch: \"Festnahme\"\nSuomi: \"oranssius\" - Deutsch: \"Orange\"\nSuomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"vatsa\" - Deutsch: \"Bauch\"\nSuomi: \"peukalo\" - Deutsch: \"",
+        "target": "['Daumen']",
+        "word original": "thumb"
+    },
+    "['hinta', 'v\u00e4hitt\u00e4ismyyntihinta', 'v\u00e4hitt\u00e4ishinta', 'korvaus', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta']": {
+        "prompt": "Suomi: \"moottori\" - Deutsch: \"Motor\"\nSuomi: \"ampuma-ase\" - Deutsch: \"Schusswaffe\"\nSuomi: \"lyijykyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"hylly\" - Deutsch: \"Regal\"\nSuomi: \"televisio\" - Deutsch: \"Staffel\"\nSuomi: \"hinta\" - Deutsch: \"",
+        "target": "['Preis', 'Fahrpreis', 'Tarifsystem', 'Fahrgeb\u00fchr']",
+        "word original": "ticket"
+    },
+    "['varvas', 'sormi']": {
+        "prompt": "Suomi: \"saari\" - Deutsch: \"Insel\"\nSuomi: \"jalkater\u00e4\" - Deutsch: \"Fu\u00df\"\nSuomi: \"linnut\" - Deutsch: \"V\u00f6gelchen\"\nSuomi: \"kamera\" - Deutsch: \"Fotoapparat\"\nSuomi: \"vatsa\" - Deutsch: \"Bauch\"\nSuomi: \"varvas\" - Deutsch: \"",
+        "target": "['Digitus', 'Zeh', 'Finger', 'kleiner Zeh', 'Zehe', 'Digitus pedis III', 'Digitus pedis II']",
+        "word original": "toe"
+    },
+    "['hammas']": {
+        "prompt": "Suomi: \"sieniel\u00e4imet\" - Deutsch: \"Schw\u00e4mme\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"ikkuna\" - Deutsch: \"Fenster\"\nSuomi: \"sika\" - Deutsch: \"Hausschwein\"\nSuomi: \"sikari\" - Deutsch: \"Zigarre\"\nSuomi: \"hammas\" - Deutsch: \"",
+        "target": "['Z\u00e4hne', 'Zahn', 'menschlicher Zahn']",
+        "word original": "tooth"
+    },
+    "['pikkukaupunki', 'asutuskeskus', 'ihmisasutus', 'yhteis\u00f6', 'kyl\u00e4', 'asutusalue', 'kaupunki']": {
+        "prompt": "Suomi: \"hermo\" - Deutsch: \"Nervensystem\"\nSuomi: \"l\u00e4hde\" - Deutsch: \"Quelle\"\nSuomi: \"kurkku\" - Deutsch: \"Gurke\"\nSuomi: \"lyijykyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"k\u00e4si\" - Deutsch: \"Hand\"\nSuomi: \"pikkukaupunki\" - Deutsch: \"",
+        "target": "['Siedlung', 'Siedler', 'Kleinstadt', 'Bourg']",
+        "word original": "town"
+    },
+    "['juna', 'opettaa', 'harjoittaa']": {
+        "prompt": "Suomi: \"moottori\" - Deutsch: \"Motor\"\nSuomi: \"pid\u00e4tys\" - Deutsch: \"Festnahme\"\nSuomi: \"hame\" - Deutsch: \"Rock\"\nSuomi: \"hammas\" - Deutsch: \"Z\u00e4hne\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"juna\" - Deutsch: \"",
+        "target": "['Zug', 'Personenzug']",
+        "word original": "train"
+    },
+    "['puu', 'mets\u00e4', 'W\u00e4lder', 'puumaila', 'pintapuu', 'puuaines']": {
+        "prompt": "Suomi: \"Jarru\" - Deutsch: \"Abbremsen\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"internet\" - Deutsch: \"Netzwerk\"\nSuomi: \"ovi\" - Deutsch: \"T\u00fcrfutter\"\nSuomi: \"sieniel\u00e4imet\" - Deutsch: \"Schw\u00e4mme\"\nSuomi: \"puu\" - Deutsch: \"",
+        "target": "['Busch', 'Wald', 'Forst', 'W\u00e4lder', 'Holz', 'Baum', 'Splintholz']",
+        "word original": "tree"
+    },
+    "['housut']": {
+        "prompt": "Suomi: \"vasara\" - Deutsch: \"Hammer\"\nSuomi: \"muisti\" - Deutsch: \"Ged\u00e4chtnis\"\nSuomi: \"avain\" - Deutsch: \"Tonart\"\nSuomi: \"l\u00e4hde\" - Deutsch: \"Quelle\"\nSuomi: \"puu\" - Deutsch: \"Busch\"\nSuomi: \"housut\" - Deutsch: \"",
+        "target": "['Hose', 'Hosen']",
+        "word original": "trousers"
+    },
+    "['sateenvarjo']": {
+        "prompt": "Suomi: \"sormus\" - Deutsch: \"Fingerring\"\nSuomi: \"pilvi\" - Deutsch: \"Wolke\"\nSuomi: \"kenk\u00e4\" - Deutsch: \"Schuh\"\nSuomi: \"kirja\" - Deutsch: \"Buch\"\nSuomi: \"vuode\" - Deutsch: \"Bett\"\nSuomi: \"sateenvarjo\" - Deutsch: \"",
+        "target": "['Parapluie', 'Schirm', 'Regenschirm']",
+        "word original": "umbrella"
+    },
+    "['sein\u00e4', 'muuri']": {
+        "prompt": "Suomi: \"apina\" - Deutsch: \"Affe\"\nSuomi: \"sakset\" - Deutsch: \"Schere\"\nSuomi: \"pyrst\u00f6\" - Deutsch: \"Hintern\"\nSuomi: \"sukka\" - Deutsch: \"Strumpf\"\nSuomi: \"munniharppu\" - Deutsch: \"Drommeter\"\nSuomi: \"sein\u00e4\" - Deutsch: \"",
+        "target": "['Wand', 'Mauer']",
+        "word original": "wall"
+    },
+    "['rannekello', 'taskukello', 'kello']": {
+        "prompt": "Suomi: \"lyijykyn\u00e4\" - Deutsch: \"Bleistift\"\nSuomi: \"lehvist\u00f6\" - Deutsch: \"Belaubung\"\nSuomi: \"teepannu\" - Deutsch: \"Teekanne\"\nSuomi: \"polvi\" - Deutsch: \"Knie\"\nSuomi: \"p\u00f6yt\u00e4\" - Deutsch: \"Tisch\"\nSuomi: \"rannekello\" - Deutsch: \"",
+        "target": "['Armbanduhr', 'Uhr', 'Taschenuhr oder Armbanduhr']",
+        "word original": "watch"
+    },
+    "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari']": {
+        "prompt": "Suomi: \"sikari\" - Deutsch: \"Zigarre\"\nSuomi: \"karvoitus\" - Deutsch: \"Haar\"\nSuomi: \"ruoska\" - Deutsch: \"Peitsche\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"korva\" - Deutsch: \"Ohren\"\nSuomi: \"polkupy\u00f6r\u00e4\" - Deutsch: \"",
+        "target": "['Fahrrad', 'Rad', 'Veloziped', 'Velo', 'Drahtesel']",
+        "word original": "wheel"
+    },
+    "['ruoska', 'piiska']": {
+        "prompt": "Suomi: \"filmi\" - Deutsch: \"Film\"\nSuomi: \"lammas\" - Deutsch: \"Schaf\"\nSuomi: \"komitea\" - Deutsch: \"Komitee\"\nSuomi: \"k\u00e4si\" - Deutsch: \"Hand\"\nSuomi: \"syd\u00e4n\" - Deutsch: \"Herzkreislaufsystem\"\nSuomi: \"ruoska\" - Deutsch: \"",
+        "target": "['Peitsche', 'Knute', 'Zagel']",
+        "word original": "whip"
+    },
+    "['ikkuna', 'akkuna']": {
+        "prompt": "Suomi: \"kala\" - Deutsch: \"Fisch\"\nSuomi: \"talo\" - Deutsch: \"Haus\"\nSuomi: \"kaula\" - Deutsch: \"Hals\"\nSuomi: \"puutarha\" - Deutsch: \"Garten\"\nSuomi: \"sieniel\u00e4imet\" - Deutsch: \"Schw\u00e4mme\"\nSuomi: \"ikkuna\" - Deutsch: \"",
+        "target": "['Fenster', 'Fensterbank']",
+        "word original": "window"
+    },
+    "['siipi']": {
+        "prompt": "Suomi: \"ruuvi\" - Deutsch: \"Schraube\"\nSuomi: \"iho\" - Deutsch: \"Haut\"\nSuomi: \"talosel\u00e4m\u00e4\" - Deutsch: \"\u00d6konomie\"\nSuomi: \"mehil\u00e4iset\" - Deutsch: \"Imme\"\nSuomi: \"jalka\" - Deutsch: \"Hand\"\nSuomi: \"siipi\" - Deutsch: \"",
+        "target": "['Fl\u00fcgel']",
+        "word original": "wing"
+    },
+    "['mato', 'lierot', 'Lumbricina', 'kastemato', 'onkimato', 'Crassiclitellata', 'kasteliero', 'onkiliero', 'iso kastemato', 'toukka']": {
+        "prompt": "Suomi: \"pid\u00e4tys\" - Deutsch: \"Festnahme\"\nSuomi: \"l\u00e4hde\" - Deutsch: \"Quelle\"\nSuomi: \"koira\" - Deutsch: \"Hund\"\nSuomi: \"solmu\" - Deutsch: \"Knoten\"\nSuomi: \"kynsi\" - Deutsch: \"Fingernagel\"\nSuomi: \"mato\" - Deutsch: \"",
+        "target": "['Regenwurm', 'Crassiclitellata', 'Tauwurm', 'Gemeiner Regenwurm', 'Aalwurm', 'Lumbricina', 'Wurm', 'W\u00fcrmer']",
+        "word original": "worm"
+    }
+}

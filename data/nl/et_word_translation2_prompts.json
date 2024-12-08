@@ -1,0 +1,862 @@
+{
+    "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek', 'straathoek']": {
+        "prompt": "Nederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"oranje\" - Eesti: \"tomat\"\nNederlands: \"hond\" - Eesti: \"koer\"\nNederlands: \"theeketel\" - Eesti: \"teekann\"\nNederlands: \"identiteitsbewijs\" - Eesti: \"ID-kaart\"\nNederlands: \"hoek\" - Eesti: \"",
+        "target": "['nurk', 'Nurk']",
+        "word original": "angle"
+    },
+    "['mier', 'mieren']": {
+        "prompt": "Nederlands: \"mes\" - Eesti: \"nuga\"\nNederlands: \"kam\" - Eesti: \"seljandik\"\nNederlands: \"kat\" - Eesti: \"kass\"\nNederlands: \"vogel\" - Eesti: \"lind\"\nNederlands: \"fiets\" - Eesti: \"jalgratas\"\nNederlands: \"mier\" - Eesti: \"",
+        "target": "['sipelgas', 'sipelglased', 'Sipelglased']",
+        "word original": "ant"
+    },
+    "['appelschil', 'appel']": {
+        "prompt": "Nederlands: \"bakoven\" - Eesti: \"ahi\"\nNederlands: \"mond\" - Eesti: \"suu\"\nNederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"afbeelding\" - Eesti: \"maal\"\nNederlands: \"appelschil\" - Eesti: \"",
+        "target": "['\u00f5un']",
+        "word original": "apple"
+    },
+    "['boog', 'boog en pijlen', 'pijl en boog', 'schietboog', 'vonk', 'vlamboog']": {
+        "prompt": "Nederlands: \"bron\" - Eesti: \"allikas\"\nNederlands: \"tuin\" - Eesti: \"aed\"\nNederlands: \"val\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nNederlands: \"dal\" - Eesti: \"org\"\nNederlands: \"boom\" - Eesti: \"puu\"\nNederlands: \"boog\" - Eesti: \"",
+        "target": "['vibu', 'S\u00e4delahendus', 'Kaarlahendus', 'elektrilahendus', 'kaarlahendus', 'Elektrilahendus', 's\u00e4delahendus']",
+        "word original": "arch"
+    },
+    "['wapen', 'blazonry', 'heraldisch wapen', 'rijkswapen', 'blazoen', 'staatswapen', 'wapenschild', 'gevechtswapen', 'strijdmiddel', 'ammunitie', 'munitie']": {
+        "prompt": "Nederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"vingernagel\" - Eesti: \"k\u00fc\u00fcs\"\nNederlands: \"kring\" - Eesti: \"ringjoon\"\nNederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"oranje\" - Eesti: \"tomat\"\nNederlands: \"wapen\" - Eesti: \"",
+        "target": "['vapikirjeldus', 'vapp', 'relv', 'Relv']",
+        "word original": "arm"
+    },
+    "['strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e', 'reguliere krijgsmacht', 'heer']": {
+        "prompt": "Nederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"eiland\" - Eesti: \"saar\"\nNederlands: \"fiets\" - Eesti: \"jalgratas\"\nNederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"kam\" - Eesti: \"seljandik\"\nNederlands: \"strijdkrachten\" - Eesti: \"",
+        "target": "['relvaj\u00f5ud', 's\u00f5jav\u00e4gi', 'regulaarv\u00e4gi', 'Armee', 'maav\u00e4gi', 'Regulaarv\u00e4gi', 'armee']",
+        "word original": "army"
+    },
+    "['baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje']": {
+        "prompt": "Nederlands: \"mond\" - Eesti: \"suu\"\nNederlands: \"wolk\" - Eesti: \"pilv\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"worm\" - Eesti: \"lohe\"\nNederlands: \"staart\" - Eesti: \"saba\"\nNederlands: \"baby\" - Eesti: \"",
+        "target": "['v\u00e4ikelaps', 'beebi', 'Imik', 'imik']",
+        "word original": "baby"
+    },
+    "['tas', 'handtas', 'Handtas', 'tasje', 'kop', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'zak', 'papieren tas', 'buil']": {
+        "prompt": "Nederlands: \"broek\" - Eesti: \"soo\"\nNederlands: \"kop\" - Eesti: \"karv\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"vel\" - Eesti: \"nahk\"\nNederlands: \"tas\" - Eesti: \"",
+        "target": "['k\u00e4ekott', 'Klaas', 'Tass', 'tass', 'klaas', 'Kott', 'Paberkott', 'kott', 'kilekott']",
+        "word original": "bag"
+    },
+    "['honkbal']": {
+        "prompt": "Nederlands: \"nor\" - Eesti: \"vangla\"\nNederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"stengel\" - Eesti: \"vars\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"honkbal\" - Eesti: \"",
+        "target": "['pesapall']",
+        "word original": "ball"
+    },
+    "['ring', 'Rocade', 'sluipweg', 'ringweg', 'rondweg', 'wegomleiding']": {
+        "prompt": "Nederlands: \"straat\" - Eesti: \"maantee\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"oranje\" - Eesti: \"tomat\"\nNederlands: \"hond\" - Eesti: \"koer\"\nNederlands: \"afbeelding\" - Eesti: \"maal\"\nNederlands: \"ring\" - Eesti: \"",
+        "target": "['s\u00f5rmus']",
+        "word original": "ring"
+    },
+    "['bassin', 'stuwmeer', 'spaarbekken', 'waterbekken', 'waterbassin', 'waterreservoir', 'wastafel', 'bekken', 'gootsteen', 'afwasbak', 'dok']": {
+        "prompt": "Nederlands: \"oor\" - Eesti: \"Maailma Terviseorganisatsioon\"\nNederlands: \"edelsteen\" - Eesti: \"ehtekivi\"\nNederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"hond\" - Eesti: \"koer\"\nNederlands: \"bassin\" - Eesti: \"",
+        "target": "['veehoidla', 'tehisj\u00e4rv', 'paisj\u00e4rv', 'kraanikauss', 'bassein', 'Bassein', 'valamu', 'dokk', 'Dokk']",
+        "word original": "basin"
+    },
+    "['wasgelegenheid', 'badkamer', 'badkuip', 'bad']": {
+        "prompt": "Nederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"sigaar\" - Eesti: \"Laialehine hundinui\"\nNederlands: \"dal\" - Eesti: \"org\"\nNederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"kar\" - Eesti: \"auto\"\nNederlands: \"wasgelegenheid\" - Eesti: \"",
+        "target": "['vannituba']",
+        "word original": "bath"
+    },
+    "['bij', 'honingbij', 'imme', 'bijen']": {
+        "prompt": "Nederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"deur\" - Eesti: \"uks\"\nNederlands: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nNederlands: \"zondag\" - Eesti: \"p\u00fchap\u00e4ev\"\nNederlands: \"patat\" - Eesti: \"kartul\"\nNederlands: \"bij\" - Eesti: \"",
+        "target": "['mesilane', 'Mesilased']",
+        "word original": "bee"
+    },
+    "['deurbel', 'bel', 'zoemer', 'huisbel', 'klingel', 'schel', 'door Bell', 'ding-dong']": {
+        "prompt": "Nederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"boerenbedrijf\" - Eesti: \"talu\"\nNederlands: \"wand\" - Eesti: \"sein\"\nNederlands: \"kerk\" - Eesti: \"kirik\"\nNederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"deurbel\" - Eesti: \"",
+        "target": "['uksekell']",
+        "word original": "bell"
+    },
+    "['vogel', 'vogels', 'Eu-', 'vogeltje']": {
+        "prompt": "Nederlands: \"sok\" - Eesti: \"Kondoom\"\nNederlands: \"vel\" - Eesti: \"nahk\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"jas\" - Eesti: \"jakk\"\nNederlands: \"vogel\" - Eesti: \"",
+        "target": "['lind', 'linnud']",
+        "word original": "bird"
+    },
+    "['zwaard', 'degen']": {
+        "prompt": "Nederlands: \"kleine teen\" - Eesti: \"varvas\"\nNederlands: \"kring\" - Eesti: \"ringjoon\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"zenuw\" - Eesti: \"n\u00e4rv\"\nNederlands: \"moer\" - Eesti: \"m\u00e4rgala\"\nNederlands: \"zwaard\" - Eesti: \"",
+        "target": "['m\u00f5\u00f5k']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'commissie', 'kamer', 'cie', 'college']": {
+        "prompt": "Nederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"vliegtuig\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Eesti: \"Hiir\"\nNederlands: \"vingernagel\" - Eesti: \"k\u00fc\u00fcs\"\nNederlands: \"comit\u00e9\" - Eesti: \"",
+        "target": "['komitee', 'komisjon']",
+        "word original": "board"
+    },
+    "['boot', 'schip', 'kiel', 'laars', 'bot', 'laarsje']": {
+        "prompt": "Nederlands: \"kop\" - Eesti: \"karv\"\nNederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"vinger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"boot\" - Eesti: \"",
+        "target": "['laev', 'paat', 'Saabas', 'saabas']",
+        "word original": "boat"
+    },
+    "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat']": {
+        "prompt": "Nederlands: \"wolk\" - Eesti: \"pilv\"\nNederlands: \"kous\" - Eesti: \"Sukad\"\nNederlands: \"plank\" - Eesti: \"Riiul\"\nNederlands: \"broek\" - Eesti: \"soo\"\nNederlands: \"pluim\" - Eesti: \"sulg\"\nNederlands: \"knok\" - Eesti: \"",
+        "target": "['kont', 'luu']",
+        "word original": "bone"
+    },
+    "['boek', 'boeken', 'album', 'boekwerk', 'boekje']": {
+        "prompt": "Nederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"sigaar\" - Eesti: \"Laialehine hundinui\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"boek\" - Eesti: \"",
+        "target": "['raamat']",
+        "word original": "book"
+    },
+    "['fles']": {
+        "prompt": "Nederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"oogbol\" - Eesti: \"silm\"\nNederlands: \"neus\" - Eesti: \"nina\"\nNederlands: \"vinger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"fles\" - Eesti: \"",
+        "target": "['pudel']",
+        "word original": "bottle"
+    },
+    "['dozen', 'doos', 'bak']": {
+        "prompt": "Nederlands: \"patat\" - Eesti: \"kartul\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"oor\" - Eesti: \"Maailma Terviseorganisatsioon\"\nNederlands: \"fles\" - Eesti: \"pudel\"\nNederlands: \"vlieg\" - Eesti: \"Kahetiivalised\"\nNederlands: \"dozen\" - Eesti: \"",
+        "target": "['Kast']",
+        "word original": "box"
+    },
+    "['joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen']": {
+        "prompt": "Nederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"straat\" - Eesti: \"maantee\"\nNederlands: \"kerk\" - Eesti: \"kirik\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"joch\" - Eesti: \"",
+        "target": "['poiss']",
+        "word original": "boy"
+    },
+    "['brein', 'verstand', 'psyche', 'Nous', 'geest', 'nous', 'denkvermogen', 'rede', 'hersenen', 'hersens', 'zenuwcentrum', 'geestvermogen']": {
+        "prompt": "Nederlands: \"vork\" - Eesti: \"Ristmik\"\nNederlands: \"kantoor\" - Eesti: \"kontor\"\nNederlands: \"vel\" - Eesti: \"nahk\"\nNederlands: \"kerk\" - Eesti: \"kirik\"\nNederlands: \"postzegel\" - Eesti: \"postmark\"\nNederlands: \"brein\" - Eesti: \"",
+        "target": "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'Nous', 'vaim', 'Vaim', 'peaaju', 'm\u00f5istus', 'M\u00f5istus']",
+        "word original": "head"
+    },
+    "['rem', 'remmen']": {
+        "prompt": "Nederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"hoed\" - Eesti: \"m\u00fcts\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"tronie\" - Eesti: \"n\u00e4gu\"\nNederlands: \"rem\" - Eesti: \"",
+        "target": "['pidur', 'Pidur']",
+        "word original": "brake"
+    },
+    "['economie', 'politieke economie', 'economisch systeem']": {
+        "prompt": "Nederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"knie\" - Eesti: \"p\u00f5lv\"\nNederlands: \"identiteitsbewijs\" - Eesti: \"ID-kaart\"\nNederlands: \"strijdkrachten\" - Eesti: \"relvaj\u00f5ud\"\nNederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"economie\" - Eesti: \"",
+        "target": "['\u00f6konoomika', 'majandusteadus', 'Poliitiline \u00f6konoomia', 'poliitiline \u00f6konoomia', 'majanduss\u00fcsteem', 'majandus', 'Majanduss\u00fcsteem']",
+        "word original": "branch"
+    },
+    "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']": {
+        "prompt": "Nederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"vinger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nNederlands: \"boerenbedrijf\" - Eesti: \"talu\"\nNederlands: \"klinker\" - Eesti: \"",
+        "target": "['tellis']",
+        "word original": "brick"
+    },
+    "['brug', 'lijst van Romeinse bruggen']": {
+        "prompt": "Nederlands: \"staart\" - Eesti: \"saba\"\nNederlands: \"kledij\" - Eesti: \"riietus\"\nNederlands: \"knie\" - Eesti: \"p\u00f5lv\"\nNederlands: \"schaar\" - Eesti: \"v\u00e4hilaadsed\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"brug\" - Eesti: \"",
+        "target": "['sild']",
+        "word original": "bridge"
+    },
+    "['borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']": {
+        "prompt": "Nederlands: \"sok\" - Eesti: \"Kondoom\"\nNederlands: \"afbeelding\" - Eesti: \"maal\"\nNederlands: \"voet\" - Eesti: \"jalg\"\nNederlands: \"kleine teen\" - Eesti: \"varvas\"\nNederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"borstel\" - Eesti: \"",
+        "target": "['Hari', 'hari', 'pintsel']",
+        "word original": "brush"
+    },
+    "['emmer']": {
+        "prompt": "Nederlands: \"wagon\" - Eesti: \"raudtees\u00f5iduk\"\nNederlands: \"gebitselement\" - Eesti: \"Hambad\"\nNederlands: \"zondag\" - Eesti: \"p\u00fchap\u00e4ev\"\nNederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"emmer\" - Eesti: \"",
+        "target": "['\u00c4mber', 'pang', '\u00e4mber']",
+        "word original": "bucket"
+    },
+    "['gloeilamp', 'elektrisch licht', 'peer']": {
+        "prompt": "Nederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"tafel\" - Eesti: \"laud\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"kantoor\" - Eesti: \"kontor\"\nNederlands: \"gloeilamp\" - Eesti: \"",
+        "target": "['pirn', 'elektripirn', 'lamp', 'Elektervalgustus', 'elektervalgustus', 'h\u00f5\u00f5glamp']",
+        "word original": "bulb"
+    },
+    "['knoop']": {
+        "prompt": "Nederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"kar\" - Eesti: \"auto\"\nNederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"pijp\" - Eesti: \"toru\"\nNederlands: \"knoop\" - Eesti: \"",
+        "target": "['s\u00f5lm', 'S\u00f5lm', 'N\u00f6\u00f6p', 'n\u00f6\u00f6p']",
+        "word original": "knot"
+    },
+    "['fotocamera', 'camera', 'videocamera', 'filmcamera', 'fototoestel']": {
+        "prompt": "Nederlands: \"kop\" - Eesti: \"karv\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"fotocamera\" - Eesti: \"",
+        "target": "['kaamera', 'fotoaparaat', 'Kaamera']",
+        "word original": "camera"
+    },
+    "['identiteitsbewijs', 'legitimatiebewijs', 'identiteitskaart', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']": {
+        "prompt": "Nederlands: \"mes\" - Eesti: \"nuga\"\nNederlands: \"vlieg\" - Eesti: \"Kahetiivalised\"\nNederlands: \"vierkant\" - Eesti: \"ruut\"\nNederlands: \"kat\" - Eesti: \"kass\"\nNederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"identiteitsbewijs\" - Eesti: \"",
+        "target": "['ID-kaart', 'isikutunnistus']",
+        "word original": "card"
+    },
+    "['kar', 'auto', 'automobiel', 'wagen', 'motorrijtuig', 'fiets', 'velo', 'rijwiel', 'stalen ros', 'handkar', 'ossenwagen', 'handwagen', 'skelter', 'trapauto']": {
+        "prompt": "Nederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"fles\" - Eesti: \"pudel\"\nNederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"wasgelegenheid\" - Eesti: \"vannituba\"\nNederlands: \"kar\" - Eesti: \"",
+        "target": "['auto', 'automobiil', 'masin', 'jalgratas', 'ratas', 'kaarik']",
+        "word original": "cart"
+    },
+    "['wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'motorrijtuig', 'railvoertuig', 'motorwagen', 'spoorrijtuig', 'treinwagon', 'koets', 'break', 'brik', 'janplezier']": {
+        "prompt": "Nederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"lijfstraf\" - Eesti: \"ihunuhtlus\"\nNederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"wagon\" - Eesti: \"",
+        "target": "['raudtees\u00f5iduk', 'mootorvagun', 'vagun', 'Vagun', 'Mootorvagun', 't\u00f5ld', 'T\u00f5ld']",
+        "word original": "carriage"
+    },
+    "['kat', 'huiskat']": {
+        "prompt": "Nederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"emmer\" - Eesti: \"\u00c4mber\"\nNederlands: \"vierkant\" - Eesti: \"ruut\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"patat\" - Eesti: \"kartul\"\nNederlands: \"kat\" - Eesti: \"",
+        "target": "['kass']",
+        "word original": "cat"
+    },
+    "['kaas']": {
+        "prompt": "Nederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"schaar\" - Eesti: \"v\u00e4hilaadsed\"\nNederlands: \"zweep\" - Eesti: \"piits\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"kaas\" - Eesti: \"",
+        "target": "['juust', 's\u00f5ir']",
+        "word original": "cheese"
+    },
+    "['kist', 'toestel', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']": {
+        "prompt": "Nederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"stengel\" - Eesti: \"vars\"\nNederlands: \"zak\" - Eesti: \"Koondamine\"\nNederlands: \"boek\" - Eesti: \"raamat\"\nNederlands: \"kist\" - Eesti: \"",
+        "target": "['\u00f5hus\u00f5iduk', '\u00d5hus\u00f5iduk', 'lennuk', 'aeroplaan', 'Kirst', 'kirst']",
+        "word original": "chest"
+    },
+    "['kin', 'kinnebak']": {
+        "prompt": "Nederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"zon\" - Eesti: \"t\u00e4ht\"\nNederlands: \"zwavelstokje\" - Eesti: \"tuletikk\"\nNederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"moer\" - Eesti: \"m\u00e4rgala\"\nNederlands: \"kin\" - Eesti: \"",
+        "target": "['l\u00f5ug', 'L\u00f5ug']",
+        "word original": "chin"
+    },
+    "['kerk', 'kerkgebouw', 'godshuis']": {
+        "prompt": "Nederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"plank\" - Eesti: \"Riiul\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"vierkant\" - Eesti: \"ruut\"\nNederlands: \"kerk\" - Eesti: \"",
+        "target": "['kirik']",
+        "word original": "church"
+    },
+    "['kring', 'cirkel']": {
+        "prompt": "Nederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"varken\" - Eesti: \"siga\"\nNederlands: \"factuur\" - Eesti: \"arve\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"moer\" - Eesti: \"m\u00e4rgala\"\nNederlands: \"kring\" - Eesti: \"",
+        "target": "['ringjoon', 'ring']",
+        "word original": "circle"
+    },
+    "['uurwerk', 'klok', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje']": {
+        "prompt": "Nederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"lijfstraf\" - Eesti: \"ihunuhtlus\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"uurwerk\" - Eesti: \"",
+        "target": "['kell', 'k\u00e4ekell']",
+        "word original": "clock"
+    },
+    "['wolk']": {
+        "prompt": "Nederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"boot\" - Eesti: \"laev\"\nNederlands: \"neus\" - Eesti: \"nina\"\nNederlands: \"optrekje\" - Eesti: \"hoone\"\nNederlands: \"wolk\" - Eesti: \"",
+        "target": "['pilv', 'Pilv']",
+        "word original": "cloud"
+    },
+    "['jas', 'jack', 'mantel', 'overjas']": {
+        "prompt": "Nederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"rundvee\" - Eesti: \"veised\"\nNederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"zweep\" - Eesti: \"piits\"\nNederlands: \"jas\" - Eesti: \"",
+        "target": "['jakk', 'mantel']",
+        "word original": "coat"
+    },
+    "['aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand']": {
+        "prompt": "Nederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"boerenbedrijf\" - Eesti: \"talu\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"kerk\" - Eesti: \"kirik\"\nNederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"aanhouding\" - Eesti: \"",
+        "target": "['Vahistamine']",
+        "word original": "collar"
+    },
+    "['kam', 'bergkam', 'heuvelrug', 'heuvelkam']": {
+        "prompt": "Nederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"verpleeginrichting\" - Eesti: \"haigla\"\nNederlands: \"zon\" - Eesti: \"t\u00e4ht\"\nNederlands: \"vaan\" - Eesti: \"lipp\"\nNederlands: \"kledij\" - Eesti: \"riietus\"\nNederlands: \"kam\" - Eesti: \"",
+        "target": "['seljandik', 'Seljak', 'seljak']",
+        "word original": "comb"
+    },
+    "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus']": {
+        "prompt": "Nederlands: \"kist\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"vinger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nNederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"rundvee\" - Eesti: \"",
+        "target": "['veised', 'veis']",
+        "word original": "cow"
+    },
+    "['kop', 'haar', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'pruik', 'huizenblok', 'blok', 'woningblok', 'woonblok', 'bouwblok', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'baas', 'bazin', 'leider', 'op uw plaatsen, klaar, af!', 'moer', 'Moer', 'teelbal', 'zot', 'zottin', 'gekkin', 'gek', 'bal']": {
+        "prompt": "Nederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"vaan\" - Eesti: \"lipp\"\nNederlands: \"boom\" - Eesti: \"puu\"\nNederlands: \"kop\" - Eesti: \"",
+        "target": "['karv', 'karvad', 'kvartal', 'Klaas', 'Tass', 'tass', 'klaas', 'pea', 'mutter', 'Mutter']",
+        "word original": "cup"
+    },
+    "['gordijn', 'voorhangsel', 'lijkkleed', 'doek']": {
+        "prompt": "Nederlands: \"slang\" - Eesti: \"madu\"\nNederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"poort\" - Eesti: \"uks\"\nNederlands: \"gordijn\" - Eesti: \"",
+        "target": "['eesriie', 'kardin', 'Kardin']",
+        "word original": "curtain"
+    },
+    "['schokbreker', 'schokdemper', 'schok', 'kussen']": {
+        "prompt": "Nederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"wapen\" - Eesti: \"vapikirjeldus\"\nNederlands: \"rem\" - Eesti: \"pidur\"\nNederlands: \"mond\" - Eesti: \"suu\"\nNederlands: \"boek\" - Eesti: \"raamat\"\nNederlands: \"schokbreker\" - Eesti: \"",
+        "target": "['amortisaator']",
+        "word original": "cushion"
+    },
+    "['hond', 'Canis lupus familiaris', 'joekel']": {
+        "prompt": "Nederlands: \"uurwerk\" - Eesti: \"kell\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"gebitselement\" - Eesti: \"Hambad\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"hond\" - Eesti: \"",
+        "target": "['koer', 'Canis lupus familiaris']",
+        "word original": "dog"
+    },
+    "['poort', 'portier', 'deur', 'hek', 'toegangshek', 'spoorboom', 'gate', 'overwegboom', 'interface']": {
+        "prompt": "Nederlands: \"pluim\" - Eesti: \"sulg\"\nNederlands: \"postzegel\" - Eesti: \"postmark\"\nNederlands: \"kleine teen\" - Eesti: \"varvas\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"lover\" - Eesti: \"leht\"\nNederlands: \"poort\" - Eesti: \"",
+        "target": "['uks', 'v\u00e4rav', 'Liides', 'liides']",
+        "word original": "door"
+    },
+    "['deur', 'poort', 'portier']": {
+        "prompt": "Nederlands: \"slang\" - Eesti: \"madu\"\nNederlands: \"boerenbedrijf\" - Eesti: \"talu\"\nNederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"maag\" - Eesti: \"k\u00f5ht\"\nNederlands: \"boot\" - Eesti: \"laev\"\nNederlands: \"deur\" - Eesti: \"",
+        "target": "['uks']",
+        "word original": "drain"
+    },
+    "['afbeelding', 'schilder', 'verven', 'plaatje', 'schilderen', 'kunstschilder', 'schilderkunst', 'geschilder', 'schilderij', 'schilderstuk', 'schilderwerk', 'doek', 'vertaling', 'weergave', 'vertalen', 'menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'personage', 'vlees', 'functie', 'wiskundige functie', 'enkelwaardige functie', 'tekening', 'tekenkunst', 'prent', 'illustratie', 'portret']": {
+        "prompt": "Nederlands: \"video\" - Eesti: \"televisioon\"\nNederlands: \"kleine teen\" - Eesti: \"varvas\"\nNederlands: \"opslagmedium\" - Eesti: \"M\u00e4lu\"\nNederlands: \"kantoor\" - Eesti: \"kontor\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"afbeelding\" - Eesti: \"",
+        "target": "['maal', 'maalimine', 'maalikunst', 't\u00f5lkimine', 't\u00f5lge', 'inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha', 'funktsioon', 'joonistus', 'joonistamine', 'pilt']",
+        "word original": "drawer"
+    },
+    "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed', 'japon', 'gewaad', 'jurk', 'kleed', 'als de kat van huis is, dansen de muizen op tafel', 'gelegenheidskleding', 'uitdossing', 'uitmonstering', 'dos', 'dracht']": {
+        "prompt": "Nederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"opslagmedium\" - Eesti: \"M\u00e4lu\"\nNederlands: \"gordijn\" - Eesti: \"eesriie\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"kledij\" - Eesti: \"",
+        "target": "['riietus', 'Riietus', 'kleit', 'Kleit']",
+        "word original": "dress"
+    },
+    "['druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop']": {
+        "prompt": "Nederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"station\" - Eesti: \"raudteejaam\"\nNederlands: \"neus\" - Eesti: \"nina\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"druppel\" - Eesti: \"",
+        "target": "['tilk', 'Tilk']",
+        "word original": "drop"
+    },
+    "['oor', 'Wereldgezondheidsorganisatie', 'wat', 'WGO', 'tofu', 'wie', 'oren', 'gehoororgaan', 'handvat', 'heft', 'hengsel', 'handgreep', 'handel', 'kruk']": {
+        "prompt": "Nederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"deurbel\" - Eesti: \"uksekell\"\nNederlands: \"kat\" - Eesti: \"kass\"\nNederlands: \"oor\" - Eesti: \"",
+        "target": "['Maailma Terviseorganisatsioon', 'k\u00f5rv', 'k\u00e4epide', 'K\u00e4epide']",
+        "word original": "ear"
+    },
+    "['ei', 'kippenei', 'kuiken', 'schaapskop', 'oetlul', 'drol', 'sufkut', 'stommerik', 'jojo', 'kloris', 'gehaktbal', 'boerenlul', 'steenezel', 'sufferd', 'hansworst', 'kwezel', 'nitwit', 'oen', 'oelewapper', 'zultkop', 'kalf', 'weetniet', 'ezel', 'dommerik', 'stommerd', 'bal gehakt', 'onbenul', 'zakkenwasser', 'uil', 'ezelsveulen', 'domme gans', 'eikel', 'droplul', 'uilskuiken', 'domoor', 'rund', 'leeghoofd', 'uilenbal', 'kalfskop', 'eend', 'dombo', 'oliebol', 'kaffer', 'hals', 'druiloor', 'koe', 'minkukel', 'flapdrol', 'stommeling', 'sufkont', 'stomkop', 'eendenkuiken', 'Moron', 'idioot', 'imbeciel', 'waanzinnige', 'kretijn', 'cretin', 'gek', 'gestoorde', 'mongool', 'debiel', 'mogool', 'geesteszieke', 'krankzinnige']": {
+        "prompt": "Nederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"vuisthamer\" - Eesti: \"haamer\"\nNederlands: \"factuur\" - Eesti: \"arve\"\nNederlands: \"emmer\" - Eesti: \"\u00c4mber\"\nNederlands: \"ei\" - Eesti: \"",
+        "target": "['muna', 'S\u00fcgav vaimne alaareng', 'Debiilik', 'Idiootia']",
+        "word original": "egg"
+    },
+    "['motor', 'motorfiets', 'gemotoriseerde twee- of driewieler', 'machine', 'motorrijwiel', 'aandrijving', 'locomotief', 'elektromotor', 'scheurijzer']": {
+        "prompt": "Nederlands: \"slang\" - Eesti: \"madu\"\nNederlands: \"broek\" - Eesti: \"soo\"\nNederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"schokbreker\" - Eesti: \"amortisaator\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"motor\" - Eesti: \"",
+        "target": "['mootorratas', 'mootor']",
+        "word original": "engine"
+    },
+    "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']": {
+        "prompt": "Nederlands: \"honkbal\" - Eesti: \"pesapall\"\nNederlands: \"slang\" - Eesti: \"madu\"\nNederlands: \"val\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nNederlands: \"klinker\" - Eesti: \"tellis\"\nNederlands: \"uurwerk\" - Eesti: \"kell\"\nNederlands: \"oogbol\" - Eesti: \"",
+        "target": "['silm', 'silmamuna']",
+        "word original": "eye"
+    },
+    "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']": {
+        "prompt": "Nederlands: \"theeketel\" - Eesti: \"teekann\"\nNederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"dal\" - Eesti: \"org\"\nNederlands: \"handschoen\" - Eesti: \"s\u00f5rmik\"\nNederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"tronie\" - Eesti: \"",
+        "target": "['n\u00e4gu', 'N\u00e4gu']",
+        "word original": "face"
+    },
+    "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee']": {
+        "prompt": "Nederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"sigaar\" - Eesti: \"Laialehine hundinui\"\nNederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"netwerk\" - Eesti: \"Internet\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"boerenbedrijf\" - Eesti: \"",
+        "target": "['talu', 'farm']",
+        "word original": "farm"
+    },
+    "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder']": {
+        "prompt": "Nederlands: \"maag\" - Eesti: \"k\u00f5ht\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"boom\" - Eesti: \"puu\"\nNederlands: \"patat\" - Eesti: \"kartul\"\nNederlands: \"gordijn\" - Eesti: \"eesriie\"\nNederlands: \"pluim\" - Eesti: \"",
+        "target": "['sulg', 'sulestik', 'Sulestik']",
+        "word original": "feather"
+    },
+    "['vinger', 'middelvinger', 'the finger', 'digit', 'Digit', 'teen', 'cijfer']": {
+        "prompt": "Nederlands: \"tronie\" - Eesti: \"n\u00e4gu\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Eesti: \"Hiir\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"identiteitsbewijs\" - Eesti: \"ID-kaart\"\nNederlands: \"opslagmedium\" - Eesti: \"M\u00e4lu\"\nNederlands: \"vinger\" - Eesti: \"",
+        "target": "['Keskmise s\u00f5rme n\u00e4itamine', 's\u00f5rmed ja varbad', 's\u00f5rm', 'n\u00e4pp', 's\u00f5rmed']",
+        "word original": "finger"
+    },
+    "['vissen', 'vis', 'het vissen', 'sportvissen', 'Pisces']": {
+        "prompt": "Nederlands: \"boot\" - Eesti: \"laev\"\nNederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"oranje\" - Eesti: \"tomat\"\nNederlands: \"vissen\" - Eesti: \"",
+        "target": "['kala', 'kalad', 'kalap\u00fc\u00fck', 'Kalasport', 'kalasport', 'Pisces']",
+        "word original": "fish"
+    },
+    "['vaan', 'vlag']": {
+        "prompt": "Nederlands: \"ploeg\" - Eesti: \"ader\"\nNederlands: \"schaap\" - Eesti: \"lambad\"\nNederlands: \"optrekje\" - Eesti: \"hoone\"\nNederlands: \"deur\" - Eesti: \"uks\"\nNederlands: \"straat\" - Eesti: \"maantee\"\nNederlands: \"vaan\" - Eesti: \"",
+        "target": "['lipp']",
+        "word original": "flag"
+    },
+    "['dal', 'vallei']": {
+        "prompt": "Nederlands: \"lijfstraf\" - Eesti: \"ihunuhtlus\"\nNederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"vingernagel\" - Eesti: \"k\u00fc\u00fcs\"\nNederlands: \"neus\" - Eesti: \"nina\"\nNederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"dal\" - Eesti: \"",
+        "target": "['org']",
+        "word original": "floor"
+    },
+    "['vlieg', 'tweevleugeligen']": {
+        "prompt": "Nederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"kring\" - Eesti: \"ringjoon\"\nNederlands: \"sok\" - Eesti: \"Kondoom\"\nNederlands: \"kous\" - Eesti: \"Sukad\"\nNederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"vlieg\" - Eesti: \"",
+        "target": "['Kahetiivalised', 'kahetiivalised']",
+        "word original": "fly"
+    },
+    "['voet', 'Engelse voet', 'voeten', 'poot', 'pootje', 'fase', 'looptijd', 'Looptijd', 'blok', 'trimester', 'term', 'basis', 'pijler', 'grondslag', 'substantie', 'hoeksteen', 'fundament', 'initia', 'grond', 'ondergrond']": {
+        "prompt": "Nederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"kam\" - Eesti: \"seljandik\"\nNederlands: \"geweer\" - Eesti: \"tulirelv\"\nNederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"voet\" - Eesti: \"",
+        "target": "['jalg', 'Jalg', 'Labajalg', 'faas']",
+        "word original": "foot"
+    },
+    "['vork', 'kruising', 'T-splitsing', 'kruispunt', 'zijweg', 'splitsing']": {
+        "prompt": "Nederlands: \"zondag\" - Eesti: \"p\u00fchap\u00e4ev\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"wand\" - Eesti: \"sein\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"voet\" - Eesti: \"jalg\"\nNederlands: \"vork\" - Eesti: \"",
+        "target": "['Ristmik', 'ristmik', 'kahvel', 'Kahvel']",
+        "word original": "fork"
+    },
+    "['gevogelte', 'vogel', 'vogels', 'Eu-', 'vogeltje']": {
+        "prompt": "Nederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"straat\" - Eesti: \"maantee\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"brug\" - Eesti: \"sild\"\nNederlands: \"gevogelte\" - Eesti: \"",
+        "target": "['lind', 'linnud']",
+        "word original": "fowl"
+    },
+    "['menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']": {
+        "prompt": "Nederlands: \"rundvee\" - Eesti: \"veised\"\nNederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"afbeelding\" - Eesti: \"maal\"\nNederlands: \"zweep\" - Eesti: \"piits\"\nNederlands: \"menselijke verrichtingsleer\" - Eesti: \"",
+        "target": "['inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha']",
+        "word original": "frame"
+    },
+    "['tuin', 'hof']": {
+        "prompt": "Nederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"kam\" - Eesti: \"seljandik\"\nNederlands: \"fiets\" - Eesti: \"jalgratas\"\nNederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"tuin\" - Eesti: \"",
+        "target": "['aed']",
+        "word original": "garden"
+    },
+    "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw', 'kamermeisje', 'bediende', 'dienstmeid', 'dienstbode', 'dienstmeisje', 'werkmeid', 'maagd', 'dienares', 'vriendin', 'vriendinnetje', 'grietje']": {
+        "prompt": "Nederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"opslagmedium\" - Eesti: \"M\u00e4lu\"\nNederlands: \"kantoor\" - Eesti: \"kontor\"\nNederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"meisje\" - Eesti: \"",
+        "target": "['t\u00fcdruk', 'plika', 'Toat\u00fcdruk']",
+        "word original": "girl"
+    },
+    "['handschoen', 'want']": {
+        "prompt": "Nederlands: \"spier\" - Eesti: \"lihas\"\nNederlands: \"aanhouding\" - Eesti: \"Vahistamine\"\nNederlands: \"klinker\" - Eesti: \"tellis\"\nNederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"handschoen\" - Eesti: \"",
+        "target": "['s\u00f5rmik', 'Kindad', 'kindad']",
+        "word original": "glove"
+    },
+    "['geit', 'Capra aegagrus hircus']": {
+        "prompt": "Nederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"schaap\" - Eesti: \"lambad\"\nNederlands: \"tuin\" - Eesti: \"aed\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"geit\" - Eesti: \"",
+        "target": "['kits', 'kodukits', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk', 'karabijn', 'schietijzer', 'schietgeweer', 'proppenschieter', 'spuit', 'proppeschieter']": {
+        "prompt": "Nederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"worm\" - Eesti: \"lohe\"\nNederlands: \"fiets\" - Eesti: \"jalgratas\"\nNederlands: \"station\" - Eesti: \"raudteejaam\"\nNederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"geweer\" - Eesti: \"",
+        "target": "['tulirelv', 'Vintp\u00fcss', 'vintp\u00fcss']",
+        "word original": "gun"
+    },
+    "['haar', 'informatietechnologie', 'hem', 'hun', 'zijn', 'hij', 'tikkertje', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']": {
+        "prompt": "Nederlands: \"klauw\" - Eesti: \"labak\u00e4si\"\nNederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"sigaar\" - Eesti: \"Laialehine hundinui\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"haar\" - Eesti: \"",
+        "target": "['infotehnoloogia', 'Infotehnoloogia', 'karv', 'karvad', 'juuksed']",
+        "word original": "root"
+    },
+    "['vuisthamer', 'hamer', 'vuist']": {
+        "prompt": "Nederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"maag\" - Eesti: \"k\u00f5ht\"\nNederlands: \"geweer\" - Eesti: \"tulirelv\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Eesti: \"Hiir\"\nNederlands: \"vuisthamer\" - Eesti: \"",
+        "target": "['haamer', 'vasar']",
+        "word original": "hammer"
+    },
+    "['klauw', 'hand', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken', 'afschurving', 'schaafwond', 'abrasie', 'krab', 'geseling', 'krauw']": {
+        "prompt": "Nederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"appelschil\" - Eesti: \"\u00f5un\"\nNederlands: \"kous\" - Eesti: \"Sukad\"\nNederlands: \"theeketel\" - Eesti: \"teekann\"\nNederlands: \"handschoen\" - Eesti: \"s\u00f5rmik\"\nNederlands: \"klauw\" - Eesti: \"",
+        "target": "['labak\u00e4si']",
+        "word original": "hand"
+    },
+    "['hoed', 'Chapeau!']": {
+        "prompt": "Nederlands: \"zeilschip\" - Eesti: \"purjekas\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"vierkant\" - Eesti: \"ruut\"\nNederlands: \"poort\" - Eesti: \"uks\"\nNederlands: \"boerenbedrijf\" - Eesti: \"talu\"\nNederlands: \"hoed\" - Eesti: \"",
+        "target": "['m\u00fcts', 'k\u00fcbar']",
+        "word original": "hat"
+    },
+    "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid', 'kern']": {
+        "prompt": "Nederlands: \"vleugel\" - Eesti: \"tiib\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"rundvee\" - Eesti: \"veised\"\nNederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"hart\" - Eesti: \"",
+        "target": "['s\u00fcda', 'Afektsioon']",
+        "word original": "pump"
+    },
+    "['val', 'het in klemmen vangen', 'dierenval', 'klem', 'zwanenhals', 'druppel', 'regendruppel', 'afgrond', 'vallen', 'drup', 'parel', 'drop', 'schuinte', 'glooiing', 'helling']": {
+        "prompt": "Nederlands: \"kat\" - Eesti: \"kass\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"stengel\" - Eesti: \"vars\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"val\" - Eesti: \"",
+        "target": "['p\u00fc\u00fcnisjaht', 'l\u00f5ks', 'p\u00fc\u00fcnis', 'tilk', 'Tilk']",
+        "word original": "hook"
+    },
+    "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']": {
+        "prompt": "Nederlands: \"neus\" - Eesti: \"nina\"\nNederlands: \"trein\" - Eesti: \"rong\"\nNederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"boek\" - Eesti: \"raamat\"\nNederlands: \"trompet\" - Eesti: \"",
+        "target": "['kornet', 'parmupill', 'Kornet']",
+        "word original": "horn"
+    },
+    "['paard', 'peerd', 'viervoeter', 'ros', 'ridder']": {
+        "prompt": "Nederlands: \"spier\" - Eesti: \"lihas\"\nNederlands: \"optrekje\" - Eesti: \"hoone\"\nNederlands: \"schokbreker\" - Eesti: \"amortisaator\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"tuin\" - Eesti: \"aed\"\nNederlands: \"paard\" - Eesti: \"",
+        "target": "['hobune', 'R\u00fc\u00fctel', 'r\u00fc\u00fctel']",
+        "word original": "horse"
+    },
+    "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']": {
+        "prompt": "Nederlands: \"lijfstraf\" - Eesti: \"ihunuhtlus\"\nNederlands: \"borstel\" - Eesti: \"Hari\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"bij\" - Eesti: \"mesilane\"\nNederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"verpleeginrichting\" - Eesti: \"",
+        "target": "['haigla']",
+        "word original": "hospital"
+    },
+    "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'cottage', 'bungalow', 'arbeiderswoning', 'semi-bungalow', 'buitenhuis', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte']": {
+        "prompt": "Nederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"oogbol\" - Eesti: \"silm\"\nNederlands: \"eiland\" - Eesti: \"saar\"\nNederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"optrekje\" - Eesti: \"",
+        "target": "['hoone', 'maja', 'Koted\u017e', 'Bangalo', 'koted\u017e', 's\u00fcnnikodu']",
+        "word original": "house"
+    },
+    "['eiland', 'enclave']": {
+        "prompt": "Nederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"handschoen\" - Eesti: \"s\u00f5rmik\"\nNederlands: \"aanhouding\" - Eesti: \"Vahistamine\"\nNederlands: \"kleine teen\" - Eesti: \"varvas\"\nNederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"eiland\" - Eesti: \"",
+        "target": "['saar']",
+        "word original": "island"
+    },
+    "['edelsteen', 'ruwe (half)edelsteen', 'steen']": {
+        "prompt": "Nederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"wasgelegenheid\" - Eesti: \"vannituba\"\nNederlands: \"vierkant\" - Eesti: \"ruut\"\nNederlands: \"val\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nNederlands: \"vel\" - Eesti: \"nahk\"\nNederlands: \"edelsteen\" - Eesti: \"",
+        "target": "['ehtekivi', 'kalliskivi', 'v\u00e4\u00e4riskivi']",
+        "word original": "jewel"
+    },
+    "['theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']": {
+        "prompt": "Nederlands: \"aanhouding\" - Eesti: \"Vahistamine\"\nNederlands: \"lover\" - Eesti: \"leht\"\nNederlands: \"boek\" - Eesti: \"raamat\"\nNederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"theeketel\" - Eesti: \"",
+        "target": "['teekann']",
+        "word original": "kettle"
+    },
+    "['sleutel', 'tonaliteit', 'toonsoort', 'toets', 'Engelse sleutel', 'steeksleutel', 'moersleutel', 'schroefsleutel', 'fietssleutel', 'moeilijk afscheid', 'verdriet', 'ruk']": {
+        "prompt": "Nederlands: \"kop\" - Eesti: \"karv\"\nNederlands: \"joch\" - Eesti: \"poiss\"\nNederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"sleutel\" - Eesti: \"",
+        "target": "['Tonaalsus', 'tonaalsus', 'helistik', 'Helistik', 'v\u00f5ti', 'toon', 'klahv', 'V\u00f5ti', 'mutriv\u00f5ti', 'Mutriv\u00f5ti']",
+        "word original": "key"
+    },
+    "['knie', 'knietje']": {
+        "prompt": "Nederlands: \"fiets\" - Eesti: \"jalgratas\"\nNederlands: \"schip\" - Eesti: \"laev\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"schokbreker\" - Eesti: \"amortisaator\"\nNederlands: \"pijp\" - Eesti: \"toru\"\nNederlands: \"knie\" - Eesti: \"",
+        "target": "['p\u00f5lv']",
+        "word original": "knee"
+    },
+    "['mes']": {
+        "prompt": "Nederlands: \"vogel\" - Eesti: \"lind\"\nNederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"knie\" - Eesti: \"p\u00f5lv\"\nNederlands: \"staart\" - Eesti: \"saba\"\nNederlands: \"mes\" - Eesti: \"",
+        "target": "['nuga']",
+        "word original": "knife"
+    },
+    "['lover', 'gebladerte', 'blad', 'Laphi', 'blaadje', 'minnaar', 'minnares', 'vereerder', 'lieveling', 'hartje', 'kloris', 'hartenlap', 'vriend', 'hartendief', 'aanbidder', 'schattebout', 'hartediefje', 'vrindje', 'lief', 'lieverdje', 'lieverd', 'liefste', 'hartendiefje', 'liefje', 'vriendin', 'beminde', 'geliefde', 'vrijer', 'galant']": {
+        "prompt": "Nederlands: \"vaan\" - Eesti: \"lipp\"\nNederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"strijdkrachten\" - Eesti: \"relvaj\u00f5ud\"\nNederlands: \"lover\" - Eesti: \"",
+        "target": "['leht', 'lehestik']",
+        "word original": "leaf"
+    },
+    "['benen', 'been', 'poot', 'stelt', 'menselijke been', 'onderdanen', 'onderdaan']": {
+        "prompt": "Nederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"paraplu\" - Eesti: \"vihmavari\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"schokbreker\" - Eesti: \"amortisaator\"\nNederlands: \"benen\" - Eesti: \"",
+        "target": "['jalg', 'Jalg']",
+        "word original": "pin"
+    },
+    "['bibliotheek', 'boekerij', 'boekenkast', 'boekenverzameling']": {
+        "prompt": "Nederlands: \"oranje\" - Eesti: \"tomat\"\nNederlands: \"slang\" - Eesti: \"madu\"\nNederlands: \"ring\" - Eesti: \"s\u00f5rmus\"\nNederlands: \"kam\" - Eesti: \"seljandik\"\nNederlands: \"eiland\" - Eesti: \"saar\"\nNederlands: \"bibliotheek\" - Eesti: \"",
+        "target": "['raamatukogu']",
+        "word original": "library"
+    },
+    "['video', 'televisie', 'videotechniek', 'kijkbuis', 'beeldomroep']": {
+        "prompt": "Nederlands: \"handschoen\" - Eesti: \"s\u00f5rmik\"\nNederlands: \"appelschil\" - Eesti: \"\u00f5un\"\nNederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"ring\" - Eesti: \"s\u00f5rmus\"\nNederlands: \"video\" - Eesti: \"",
+        "target": "['televisioon']",
+        "word original": "line"
+    },
+    "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']": {
+        "prompt": "Nederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"wagon\" - Eesti: \"raudtees\u00f5iduk\"\nNederlands: \"poort\" - Eesti: \"uks\"\nNederlands: \"joch\" - Eesti: \"poiss\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"lip\" - Eesti: \"",
+        "target": "['huuled', 'Huuled']",
+        "word original": "lip"
+    },
+    "['functie', 'betrekking', 'werk', 'baan', 'zakenwereld', 'beroep', 'nering', 'onderneming', 'zaak', 'job', 'zakenleven', 'arbeid', 'bezigheid', 'zaken', 'day job', 'dienstverband', 'vak', 'positie', 'm\u00e9tier', 'professie', 'post', 'stiel', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie']": {
+        "prompt": "Nederlands: \"opslagmedium\" - Eesti: \"M\u00e4lu\"\nNederlands: \"kam\" - Eesti: \"seljandik\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"ring\" - Eesti: \"s\u00f5rmus\"\nNederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"functie\" - Eesti: \"",
+        "target": "['amet', 'ametikoht', 'elukutse', '\u00e4rindus', 'kutse', 'ettev\u00f5te', 't\u00f6\u00f6', '\u00e4ri', 'tegevusala', 'funktsioon']",
+        "word original": "map"
+    },
+    "['zwavelstokje', 'lucifer']": {
+        "prompt": "Nederlands: \"oogbol\" - Eesti: \"silm\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"val\" - Eesti: \"p\u00fc\u00fcnisjaht\"\nNederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"menselijke verrichtingsleer\" - Eesti: \"inimf\u00fcsioloogia\"\nNederlands: \"zwavelstokje\" - Eesti: \"",
+        "target": "['tuletikk', 'Tuletikk', 'tikk']",
+        "word original": "match"
+    },
+    "['aap', 'apen']": {
+        "prompt": "Nederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"vliegtuig\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"aap\" - Eesti: \"",
+        "target": "['ahv', 'Ahv']",
+        "word original": "monkey"
+    },
+    "['maan', 'satelliet', 'kunstmaan', 'wachter', 'bijplaneet', 'trawant']": {
+        "prompt": "Nederlands: \"wolk\" - Eesti: \"pilv\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"vuisthamer\" - Eesti: \"haamer\"\nNederlands: \"paraplu\" - Eesti: \"vihmavari\"\nNederlands: \"tronie\" - Eesti: \"n\u00e4gu\"\nNederlands: \"maan\" - Eesti: \"",
+        "target": "['satelliit', 'tehiskaaslane', 'Tehiskaaslane']",
+        "word original": "moon"
+    },
+    "['mond', 'bek', 'muil', 'riviermond', 'monding', 'reukorgaan', 'snufferd', 'snotkoker', 'neus']": {
+        "prompt": "Nederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"wand\" - Eesti: \"sein\"\nNederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"trein\" - Eesti: \"rong\"\nNederlands: \"menselijke verrichtingsleer\" - Eesti: \"inimf\u00fcsioloogia\"\nNederlands: \"mond\" - Eesti: \"",
+        "target": "['suu', 'Suu']",
+        "word original": "mouth"
+    },
+    "['spier', 'spierweefsel']": {
+        "prompt": "Nederlands: \"klinker\" - Eesti: \"tellis\"\nNederlands: \"zweep\" - Eesti: \"piits\"\nNederlands: \"kerk\" - Eesti: \"kirik\"\nNederlands: \"sleutel\" - Eesti: \"Tonaalsus\"\nNederlands: \"gevogelte\" - Eesti: \"lind\"\nNederlands: \"spier\" - Eesti: \"",
+        "target": "['lihas', 'Lihas']",
+        "word original": "muscle"
+    },
+    "['vingernagel', 'nagel']": {
+        "prompt": "Nederlands: \"station\" - Eesti: \"raudteejaam\"\nNederlands: \"boot\" - Eesti: \"laev\"\nNederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"vingernagel\" - Eesti: \"",
+        "target": "['k\u00fc\u00fcs', 'K\u00fc\u00fcs']",
+        "word original": "nail"
+    },
+    "['hals', 'nek', 'flessenhals', 'keel', 'gorgel', 'farynx', 'strot', 'kuiken', 'schaapskop', 'oetlul', 'drol', 'sufkut', 'stommerik', 'jojo', 'kloris', 'gehaktbal', 'boerenlul', 'steenezel', 'sufferd', 'hansworst', 'kwezel', 'nitwit', 'oen', 'oelewapper', 'zultkop', 'kalf', 'weetniet', 'ezel', 'dommerik', 'stommerd', 'bal gehakt', 'onbenul', 'zakkenwasser', 'uil', 'ezelsveulen', 'domme gans', 'eikel', 'droplul', 'uilskuiken', 'ei', 'domoor', 'rund', 'leeghoofd', 'uilenbal', 'kalfskop', 'eend', 'dombo', 'oliebol', 'kaffer', 'druiloor', 'koe', 'minkukel', 'flapdrol', 'stommeling', 'sufkont', 'stomkop', 'eendenkuiken', 'Moron', 'idioot', 'imbeciel', 'waanzinnige', 'kretijn', 'cretin', 'gek', 'gestoorde', 'mongool', 'debiel', 'mogool', 'geesteszieke', 'krankzinnige']": {
+        "prompt": "Nederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"zak\" - Eesti: \"Koondamine\"\nNederlands: \"trein\" - Eesti: \"rong\"\nNederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"schaap\" - Eesti: \"lambad\"\nNederlands: \"hals\" - Eesti: \"",
+        "target": "['kael', 'kaelus', 'kurk', 'S\u00fcgav vaimne alaareng', 'Debiilik', 'Idiootia']",
+        "word original": "throat"
+    },
+    "['naald', 'injectienaald']": {
+        "prompt": "Nederlands: \"kat\" - Eesti: \"kass\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"optrekje\" - Eesti: \"hoone\"\nNederlands: \"deurbel\" - Eesti: \"uksekell\"\nNederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"naald\" - Eesti: \"",
+        "target": "['n\u00f5el', '\u00f5mblusn\u00f5elu']",
+        "word original": "needle"
+    },
+    "['zenuw']": {
+        "prompt": "Nederlands: \"uurwerk\" - Eesti: \"kell\"\nNederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"pijp\" - Eesti: \"toru\"\nNederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"zenuw\" - Eesti: \"",
+        "target": "['n\u00e4rv']",
+        "word original": "nerve"
+    },
+    "['netwerk', 'computernetwerk', 'Internet', 'cyberspace', 'internet', 'gaas', 'net', 'breisteek', 'vangnet']": {
+        "prompt": "Nederlands: \"handschoen\" - Eesti: \"s\u00f5rmik\"\nNederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"brug\" - Eesti: \"sild\"\nNederlands: \"vaan\" - Eesti: \"lipp\"\nNederlands: \"netwerk\" - Eesti: \"",
+        "target": "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'internet', 'k\u00fcbermaailm']",
+        "word original": "net"
+    },
+    "['neus', 'snufferd', 'snotkoker', 'reukorgaan', 'mond', 'muil']": {
+        "prompt": "Nederlands: \"ploeg\" - Eesti: \"ader\"\nNederlands: \"zwavelstokje\" - Eesti: \"tuletikk\"\nNederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"uurwerk\" - Eesti: \"kell\"\nNederlands: \"bron\" - Eesti: \"allikas\"\nNederlands: \"neus\" - Eesti: \"",
+        "target": "['nina', 'Nina']",
+        "word original": "nose"
+    },
+    "['moer', 'waterrijk gebied', 'drasland', 'vochtgebied', 'zomp', 'broekland', 'moerasland', 'waterland', 'moeras', 'slijkland', 'donk', 'moerasgebied', 'broek', 'dras', 'teelbal', 'zot', 'zottin', 'kop', 'gekkin', 'gek', 'bal']": {
+        "prompt": "Nederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"spier\" - Eesti: \"lihas\"\nNederlands: \"netwerk\" - Eesti: \"Internet\"\nNederlands: \"brug\" - Eesti: \"sild\"\nNederlands: \"moer\" - Eesti: \"",
+        "target": "['m\u00e4rgala', 'M\u00e4rgala', 'mutter', 'Mutter']",
+        "word original": "nut"
+    },
+    "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'kantoorgebouw', 'kabinet']": {
+        "prompt": "Nederlands: \"gevogelte\" - Eesti: \"lind\"\nNederlands: \"varken\" - Eesti: \"siga\"\nNederlands: \"zweep\" - Eesti: \"piits\"\nNederlands: \"borstel\" - Eesti: \"Hari\"\nNederlands: \"vuisthamer\" - Eesti: \"haamer\"\nNederlands: \"kantoor\" - Eesti: \"",
+        "target": "['kontor', 'b\u00fcroo', 'asutus', 'Kontor']",
+        "word original": "office"
+    },
+    "['oranje', 'pompoen', 'tomaat', 'tomatenplant', 'pumpkin', 'goud', 'guld', 'amber']": {
+        "prompt": "Nederlands: \"eiland\" - Eesti: \"saar\"\nNederlands: \"vogel\" - Eesti: \"lind\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"ring\" - Eesti: \"s\u00f5rmus\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"oranje\" - Eesti: \"",
+        "target": "['tomat', 'oran\u017e', 'merevaikkollane', 'Merevaikkollane']",
+        "word original": "orange"
+    },
+    "['bakoven', 'oven']": {
+        "prompt": "Nederlands: \"boom\" - Eesti: \"puu\"\nNederlands: \"dal\" - Eesti: \"org\"\nNederlands: \"rundvee\" - Eesti: \"veised\"\nNederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"bakoven\" - Eesti: \"",
+        "target": "['ahi', 'Ahi']",
+        "word original": "oven"
+    },
+    "['varken', 'zwijn', 'echte zwijnen', 'krulstaart']": {
+        "prompt": "Nederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"ring\" - Eesti: \"s\u00f5rmus\"\nNederlands: \"uurwerk\" - Eesti: \"kell\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"varken\" - Eesti: \"",
+        "target": "['siga', 'sigalane', 'Sus scrofa domestica']",
+        "word original": "pig"
+    },
+    "['pijp', 'waterleiding', 'leiding', 'buis', 'leidingwerk', 'kanaal', 'pijpje', 'koker']": {
+        "prompt": "Nederlands: \"factuur\" - Eesti: \"arve\"\nNederlands: \"vel\" - Eesti: \"nahk\"\nNederlands: \"patat\" - Eesti: \"kartul\"\nNederlands: \"plank\" - Eesti: \"Riiul\"\nNederlands: \"varken\" - Eesti: \"siga\"\nNederlands: \"pijp\" - Eesti: \"",
+        "target": "['toru', 'Torustik', 'Toru', 'piip']",
+        "word original": "pipe"
+    },
+    "['vliegtuig', 'toestel', 'kist', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']": {
+        "prompt": "Nederlands: \"strijdkrachten\" - Eesti: \"relvaj\u00f5ud\"\nNederlands: \"kantoor\" - Eesti: \"kontor\"\nNederlands: \"schokbreker\" - Eesti: \"amortisaator\"\nNederlands: \"gebitselement\" - Eesti: \"Hambad\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"vliegtuig\" - Eesti: \"",
+        "target": "['\u00f5hus\u00f5iduk', '\u00d5hus\u00f5iduk', 'lennuk', 'aeroplaan']",
+        "word original": "plane"
+    },
+    "['ploeg', 'team', 'sportploeg', 'rockgroep', 'rockband', 'crew', 'bemanning']": {
+        "prompt": "Nederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"kleine teen\" - Eesti: \"varvas\"\nNederlands: \"bron\" - Eesti: \"allikas\"\nNederlands: \"spier\" - Eesti: \"lihas\"\nNederlands: \"ploeg\" - Eesti: \"",
+        "target": "['ader', 'Ader', 'Meeskond', 'meeskond']",
+        "word original": "plough"
+    },
+    "['zak', 'ontslag', 'gedwongen ontslag', 'uitstoot', 'tas', 'papieren tas', 'buil', 'broekzak']": {
+        "prompt": "Nederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"gevogelte\" - Eesti: \"lind\"\nNederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"zak\" - Eesti: \"",
+        "target": "['Koondamine', 'vallandamine', 'Kott', 'Paberkott', 'kott', 'kilekott', 'tasku', 'Tasku']",
+        "word original": "pocket"
+    },
+    "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'wasgelegenheid', 'badkamer', 'badkuip', 'bad', 'privaat', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']": {
+        "prompt": "Nederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"joch\" - Eesti: \"poiss\"\nNederlands: \"pijp\" - Eesti: \"toru\"\nNederlands: \"hond\" - Eesti: \"koer\"\nNederlands: \"bakoven\" - Eesti: \"ahi\"\nNederlands: \"toilet\" - Eesti: \"",
+        "target": "['k\u00e4imla', 'K\u00e4imla', 'vannituba', 'tualett', 'Tualett']",
+        "word original": "pot"
+    },
+    "['patat', 'aardappel', 'pieper', 'knol', 'kind', 'friet', 'jongere', 'jongeling', 'minderjarige', 'ding', 'patates frites', 'frieten', 'frietjes', 'frites', 'patatje', 'frietje']": {
+        "prompt": "Nederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"gloeilamp\" - Eesti: \"pirn\"\nNederlands: \"geit\" - Eesti: \"kits\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"patat\" - Eesti: \"",
+        "target": "['kartul', 'harilik kartul', 'alaealine', 'laps', 'alaealisus', 'friikartulid', 'friikad']",
+        "word original": "potato"
+    },
+    "['nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot']": {
+        "prompt": "Nederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"bakoven\" - Eesti: \"ahi\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Eesti: \"Hiir\"\nNederlands: \"comit\u00e9\" - Eesti: \"komitee\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"nor\" - Eesti: \"",
+        "target": "['vangla']",
+        "word original": "prison"
+    },
+    "['muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje']": {
+        "prompt": "Nederlands: \"vogel\" - Eesti: \"lind\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"video\" - Eesti: \"televisioon\"\nNederlands: \"verpleeginrichting\" - Eesti: \"haigla\"\nNederlands: \"borstel\" - Eesti: \"Hari\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Eesti: \"",
+        "target": "['Hiir', 'hiir']",
+        "word original": "rat"
+    },
+    "['factuur', 'Hiep', 'hiep', 'snoeimes', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening']": {
+        "prompt": "Nederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"vogel\" - Eesti: \"lind\"\nNederlands: \"mond\" - Eesti: \"suu\"\nNederlands: \"wasgelegenheid\" - Eesti: \"vannituba\"\nNederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"factuur\" - Eesti: \"",
+        "target": "['arve']",
+        "word original": "receipt"
+    },
+    "['lijfstraf']": {
+        "prompt": "Nederlands: \"wolk\" - Eesti: \"pilv\"\nNederlands: \"aanhouding\" - Eesti: \"Vahistamine\"\nNederlands: \"wand\" - Eesti: \"sein\"\nNederlands: \"zon\" - Eesti: \"t\u00e4ht\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"lijfstraf\" - Eesti: \"",
+        "target": "['ihunuhtlus', 'Ihunuhtlus']",
+        "word original": "rod"
+    },
+    "['dak']": {
+        "prompt": "Nederlands: \"vork\" - Eesti: \"Ristmik\"\nNederlands: \"identiteitsbewijs\" - Eesti: \"ID-kaart\"\nNederlands: \"theeketel\" - Eesti: \"teekann\"\nNederlands: \"sleutel\" - Eesti: \"Tonaalsus\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"dak\" - Eesti: \"",
+        "target": "['katus']",
+        "word original": "roof"
+    },
+    "['zeilschip']": {
+        "prompt": "Nederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"schokbreker\" - Eesti: \"amortisaator\"\nNederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"vuisthamer\" - Eesti: \"haamer\"\nNederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"zeilschip\" - Eesti: \"",
+        "target": "['purjekas', 'purjelaev']",
+        "word original": "sail"
+    },
+    "['universiteit', 'academie', 'school', 'genootschap', 'maatschappij', 'college', 'unief', 'universitair']": {
+        "prompt": "Nederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"broek\" - Eesti: \"soo\"\nNederlands: \"zenuw\" - Eesti: \"n\u00e4rv\"\nNederlands: \"vogel\" - Eesti: \"lind\"\nNederlands: \"zeilschip\" - Eesti: \"purjekas\"\nNederlands: \"universiteit\" - Eesti: \"",
+        "target": "['\u00fclikool', 'kool', 'akadeemia']",
+        "word original": "school"
+    },
+    "['schaar', 'kreeftachtigen', 'schaaldieren', 'schaaldier']": {
+        "prompt": "Nederlands: \"video\" - Eesti: \"televisioon\"\nNederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"moer\" - Eesti: \"m\u00e4rgala\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"spier\" - Eesti: \"lihas\"\nNederlands: \"schaar\" - Eesti: \"",
+        "target": "['v\u00e4hilaadsed', 'V\u00e4hilaadsed', 'k\u00e4\u00e4rid', 'K\u00e4\u00e4rid']",
+        "word original": "scissors"
+    },
+    "['schroef', 'vijs']": {
+        "prompt": "Nederlands: \"edelsteen\" - Eesti: \"ehtekivi\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"vliegtuig\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"zak\" - Eesti: \"Koondamine\"\nNederlands: \"schroef\" - Eesti: \"",
+        "target": "['kruvi', 'Kruvi']",
+        "word original": "screw"
+    },
+    "['zaad']": {
+        "prompt": "Nederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"kerk\" - Eesti: \"kirik\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"schaap\" - Eesti: \"lambad\"\nNederlands: \"zaad\" - Eesti: \"",
+        "target": "['seeme']",
+        "word original": "seed"
+    },
+    "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']": {
+        "prompt": "Nederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"postzegel\" - Eesti: \"postmark\"\nNederlands: \"oranje\" - Eesti: \"tomat\"\nNederlands: \"schaap\" - Eesti: \"",
+        "target": "['lambad', 'lammas']",
+        "word original": "sheep"
+    },
+    "['plank', 'lat', 'board', 'houtvezelplaat', 'houtboard', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']": {
+        "prompt": "Nederlands: \"sleutel\" - Eesti: \"Tonaalsus\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"stengel\" - Eesti: \"vars\"\nNederlands: \"menselijke verrichtingsleer\" - Eesti: \"inimf\u00fcsioloogia\"\nNederlands: \"plank\" - Eesti: \"",
+        "target": "['Riiul', 'riiul']",
+        "word original": "shelf"
+    },
+    "['schip', 'kiel', 'boot', 'vaartuig', 'watervaartuig']": {
+        "prompt": "Nederlands: \"video\" - Eesti: \"televisioon\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"klinker\" - Eesti: \"tellis\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"trompet\" - Eesti: \"kornet\"\nNederlands: \"schip\" - Eesti: \"",
+        "target": "['laev', 'paat', 'vees\u00f5iduk', 'Vees\u00f5iduk']",
+        "word original": "ship"
+    },
+    "['schoen', 'aansteker']": {
+        "prompt": "Nederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"neus\" - Eesti: \"nina\"\nNederlands: \"zak\" - Eesti: \"Koondamine\"\nNederlands: \"rem\" - Eesti: \"pidur\"\nNederlands: \"raam\" - Eesti: \"aken\"\nNederlands: \"schoen\" - Eesti: \"",
+        "target": "['king', 'kingad']",
+        "word original": "tongue"
+    },
+    "['vel', 'huid', 'skinhead', 'onderhuid', 'bont', 'pels', 'vacht', 'blad', 'papier', 'velletje', 'blaadje']": {
+        "prompt": "Nederlands: \"pluim\" - Eesti: \"sulg\"\nNederlands: \"vliegtuig\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"wapen\" - Eesti: \"vapikirjeldus\"\nNederlands: \"spons\" - Eesti: \"k\u00e4sn\"\nNederlands: \"kat\" - Eesti: \"kass\"\nNederlands: \"vel\" - Eesti: \"",
+        "target": "['nahk', 'karusnahk', 'karvastik']",
+        "word original": "skin"
+    },
+    "['rok', 'rokkostuum', 'Rokkostuum', 'full-dress', 'galakleding', 'gala', 'galakostuum']": {
+        "prompt": "Nederlands: \"maag\" - Eesti: \"k\u00f5ht\"\nNederlands: \"wasgelegenheid\" - Eesti: \"vannituba\"\nNederlands: \"sok\" - Eesti: \"Kondoom\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"deur\" - Eesti: \"uks\"\nNederlands: \"rok\" - Eesti: \"",
+        "target": "['Frakk', 'seelik', 'Seelik']",
+        "word original": "skirt"
+    },
+    "['slang', 'serpent', 'slangen']": {
+        "prompt": "Nederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"tronie\" - Eesti: \"n\u00e4gu\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"oogbol\" - Eesti: \"silm\"\nNederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"slang\" - Eesti: \"",
+        "target": "['madu', 'maolised']",
+        "word original": "snake"
+    },
+    "['sok', 'condoom', 'kapotje', 'rubbertje', 'regenjasje', 'capotje', 'ballon', 'overjas']": {
+        "prompt": "Nederlands: \"vuisthamer\" - Eesti: \"haamer\"\nNederlands: \"voet\" - Eesti: \"jalg\"\nNederlands: \"schaap\" - Eesti: \"lambad\"\nNederlands: \"ploeg\" - Eesti: \"ader\"\nNederlands: \"universiteit\" - Eesti: \"\u00fclikool\"\nNederlands: \"sok\" - Eesti: \"",
+        "target": "['Kondoom', 'kondoom', 'preservatiiv', 'kandoss', 'kumm', 'Sokk', 'sokk']",
+        "word original": "sock"
+    },
+    "['spons', 'sponzen', 'sponsdieren']": {
+        "prompt": "Nederlands: \"tafel\" - Eesti: \"laud\"\nNederlands: \"zenuw\" - Eesti: \"n\u00e4rv\"\nNederlands: \"factuur\" - Eesti: \"arve\"\nNederlands: \"jas\" - Eesti: \"jakk\"\nNederlands: \"straat\" - Eesti: \"maantee\"\nNederlands: \"spons\" - Eesti: \"",
+        "target": "['k\u00e4sn', 'k\u00e4snad']",
+        "word original": "sponge"
+    },
+    "['lepel']": {
+        "prompt": "Nederlands: \"bakoven\" - Eesti: \"ahi\"\nNederlands: \"bibliotheek\" - Eesti: \"raamatukogu\"\nNederlands: \"kist\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"oogbol\" - Eesti: \"silm\"\nNederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"lepel\" - Eesti: \"",
+        "target": "['lusikas', 'Lusikas']",
+        "word original": "spoon"
+    },
+    "['bron', 'wel', 'fontein', 'bestaansmiddelen', 'grondstof', 'hulpbron', 'natuurlijke hulpbron', 'put', 'boorput', 'aanvang', 'oorsprong', 'start', 'begin', 'herkomst', 'wortel', 'origine', 'oerbron', 'kiem']": {
+        "prompt": "Nederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"straat\" - Eesti: \"maantee\"\nNederlands: \"vork\" - Eesti: \"Ristmik\"\nNederlands: \"zak\" - Eesti: \"Koondamine\"\nNederlands: \"bron\" - Eesti: \"",
+        "target": "['allikas', 'l\u00e4te', 'veesilm', 'ressursid', 'Ressursid', 'kaev']",
+        "word original": "spring"
+    },
+    "['vierkant', 'carr\u00e9']": {
+        "prompt": "Nederlands: \"poort\" - Eesti: \"uks\"\nNederlands: \"gebitselement\" - Eesti: \"Hambad\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"kar\" - Eesti: \"auto\"\nNederlands: \"vierkant\" - Eesti: \"",
+        "target": "['ruut']",
+        "word original": "square"
+    },
+    "['postzegel', 'zegel', 'herenakkoord', 'tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'toet']": {
+        "prompt": "Nederlands: \"rundvee\" - Eesti: \"veised\"\nNederlands: \"garen\" - Eesti: \"kedrus\"\nNederlands: \"boom\" - Eesti: \"puu\"\nNederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"postzegel\" - Eesti: \"",
+        "target": "['postmark', 'mark', 'n\u00e4gu', 'N\u00e4gu']",
+        "word original": "stamp"
+    },
+    "['zon', 'ster', 'sterretje']": {
+        "prompt": "Nederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"wapen\" - Eesti: \"vapikirjeldus\"\nNederlands: \"postzegel\" - Eesti: \"postmark\"\nNederlands: \"zon\" - Eesti: \"",
+        "target": "['t\u00e4ht']",
+        "word original": "star"
+    },
+    "['station', 'treinstation', 'stationsgebouw', 'spoorwegstation', 'post', 'halte', 'wachtpost']": {
+        "prompt": "Nederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"haar\" - Eesti: \"infotehnoloogia\"\nNederlands: \"comit\u00e9\" - Eesti: \"komitee\"\nNederlands: \"deurbel\" - Eesti: \"uksekell\"\nNederlands: \"bassin\" - Eesti: \"veehoidla\"\nNederlands: \"station\" - Eesti: \"",
+        "target": "['raudteejaam', 'rongijaam', 'punkt']",
+        "word original": "station"
+    },
+    "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven']": {
+        "prompt": "Nederlands: \"video\" - Eesti: \"televisioon\"\nNederlands: \"kar\" - Eesti: \"auto\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"stengel\" - Eesti: \"",
+        "target": "['vars']",
+        "word original": "stem"
+    },
+    "['sigaar', 'Kogelbies', 'grote lisdodde', 'Grote lisdodde', 'kogelbies']": {
+        "prompt": "Nederlands: \"bakoven\" - Eesti: \"ahi\"\nNederlands: \"polshorloge\" - Eesti: \"k\u00e4ekell\"\nNederlands: \"aap\" - Eesti: \"ahv\"\nNederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"factuur\" - Eesti: \"arve\"\nNederlands: \"sigaar\" - Eesti: \"",
+        "target": "['Laialehine hundinui', 'laialehine hundinui', 'Sigar', 'sigar']",
+        "word original": "stick"
+    },
+    "['kous', 'kousje']": {
+        "prompt": "Nederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"wasgelegenheid\" - Eesti: \"vannituba\"\nNederlands: \"pijp\" - Eesti: \"toru\"\nNederlands: \"klinker\" - Eesti: \"tellis\"\nNederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"kous\" - Eesti: \"",
+        "target": "['Sukad']",
+        "word original": "stocking"
+    },
+    "['maag', 'buik', 'familielid', 'verwant', 'bloedverwant', 'naverwant']": {
+        "prompt": "Nederlands: \"stengel\" - Eesti: \"vars\"\nNederlands: \"brug\" - Eesti: \"sild\"\nNederlands: \"pijp\" - Eesti: \"toru\"\nNederlands: \"mes\" - Eesti: \"nuga\"\nNederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"maag\" - Eesti: \"",
+        "target": "['k\u00f5ht', 'magu', 'Magu', 'sugulane']",
+        "word original": "stomach"
+    },
+    "['opslagmedium', 'geheugen', 'computergeheugen', 'intern geheugen', 'geheugeneenheid']": {
+        "prompt": "Nederlands: \"kaas\" - Eesti: \"juust\"\nNederlands: \"edelsteen\" - Eesti: \"ehtekivi\"\nNederlands: \"knie\" - Eesti: \"p\u00f5lv\"\nNederlands: \"zaad\" - Eesti: \"seeme\"\nNederlands: \"appelschil\" - Eesti: \"\u00f5un\"\nNederlands: \"opslagmedium\" - Eesti: \"",
+        "target": "['M\u00e4lu', 'm\u00e4lu', 'arvuti m\u00e4lu']",
+        "word original": "store"
+    },
+    "['straat', 'baan', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']": {
+        "prompt": "Nederlands: \"eiland\" - Eesti: \"saar\"\nNederlands: \"vork\" - Eesti: \"Ristmik\"\nNederlands: \"hoed\" - Eesti: \"m\u00fcts\"\nNederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"straat\" - Eesti: \"",
+        "target": "['maantee', 'tee', 'marsruut', 'teekond']",
+        "word original": "street"
+    },
+    "['zondag']": {
+        "prompt": "Nederlands: \"knoop\" - Eesti: \"s\u00f5lm\"\nNederlands: \"tafel\" - Eesti: \"laud\"\nNederlands: \"spier\" - Eesti: \"lihas\"\nNederlands: \"lip\" - Eesti: \"huuled\"\nNederlands: \"ring\" - Eesti: \"s\u00f5rmus\"\nNederlands: \"zondag\" - Eesti: \"",
+        "target": "['p\u00fchap\u00e4ev']",
+        "word original": "sun"
+    },
+    "['tafel']": {
+        "prompt": "Nederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"sleutel\" - Eesti: \"Tonaalsus\"\nNederlands: \"strijdkrachten\" - Eesti: \"relvaj\u00f5ud\"\nNederlands: \"factuur\" - Eesti: \"arve\"\nNederlands: \"brug\" - Eesti: \"sild\"\nNederlands: \"tafel\" - Eesti: \"",
+        "target": "['laud']",
+        "word original": "table"
+    },
+    "['staart']": {
+        "prompt": "Nederlands: \"strijdkrachten\" - Eesti: \"relvaj\u00f5ud\"\nNederlands: \"rok\" - Eesti: \"Frakk\"\nNederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"wolk\" - Eesti: \"pilv\"\nNederlands: \"tuin\" - Eesti: \"aed\"\nNederlands: \"staart\" - Eesti: \"",
+        "target": "['saba']",
+        "word original": "tail"
+    },
+    "['garen', 'draad', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees']": {
+        "prompt": "Nederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"economie\" - Eesti: \"\u00f6konoomika\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"aanhouding\" - Eesti: \"Vahistamine\"\nNederlands: \"garen\" - Eesti: \"",
+        "target": "['kedrus', 'l\u00f5ng', 'niit', 'n\u00f6\u00f6r', 'N\u00f6\u00f6r']",
+        "word original": "thread"
+    },
+    "['duim', 'inch']": {
+        "prompt": "Nederlands: \"gebitselement\" - Eesti: \"Hambad\"\nNederlands: \"voet\" - Eesti: \"jalg\"\nNederlands: \"lover\" - Eesti: \"leht\"\nNederlands: \"wagon\" - Eesti: \"raudtees\u00f5iduk\"\nNederlands: \"kist\" - Eesti: \"\u00f5hus\u00f5iduk\"\nNederlands: \"duim\" - Eesti: \"",
+        "target": "['toll', 'p\u00f6ial']",
+        "word original": "thumb"
+    },
+    "['kleine teen', 'tenen', 'teen', 'kom nou']": {
+        "prompt": "Nederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"uurwerk\" - Eesti: \"kell\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"kleine teen\" - Eesti: \"",
+        "target": "['varvas']",
+        "word original": "toe"
+    },
+    "['gebitselement', 'tand', 'tanden', 'menselijke tand']": {
+        "prompt": "Nederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"identiteitsbewijs\" - Eesti: \"ID-kaart\"\nNederlands: \"poort\" - Eesti: \"uks\"\nNederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"gebitselement\" - Eesti: \"",
+        "target": "['Hambad', 'hammas', 'hambad']",
+        "word original": "tooth"
+    },
+    "['trein', 'konvooi', 'karavaan', 'versnelling', 'aandrijflijn', 'derailleur']": {
+        "prompt": "Nederlands: \"zweep\" - Eesti: \"piits\"\nNederlands: \"dozen\" - Eesti: \"Kast\"\nNederlands: \"baby\" - Eesti: \"v\u00e4ikelaps\"\nNederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"lepel\" - Eesti: \"lusikas\"\nNederlands: \"trein\" - Eesti: \"",
+        "target": "['rong', 'hammas\u00fclekanne', 'Hammas\u00fclekanne']",
+        "word original": "train"
+    },
+    "['boom']": {
+        "prompt": "Nederlands: \"jas\" - Eesti: \"jakk\"\nNederlands: \"deurbel\" - Eesti: \"uksekell\"\nNederlands: \"knok\" - Eesti: \"kont\"\nNederlands: \"boek\" - Eesti: \"raamat\"\nNederlands: \"appelschil\" - Eesti: \"\u00f5un\"\nNederlands: \"boom\" - Eesti: \"",
+        "target": "['puu']",
+        "word original": "tree"
+    },
+    "['broek', 'moeras', 'zwamp']": {
+        "prompt": "Nederlands: \"dak\" - Eesti: \"katus\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"hoek\" - Eesti: \"nurk\"\nNederlands: \"stengel\" - Eesti: \"vars\"\nNederlands: \"duim\" - Eesti: \"toll\"\nNederlands: \"broek\" - Eesti: \"",
+        "target": "['soo', 'lodu', 'p\u00fcksid', 'P\u00fcksid']",
+        "word original": "trousers"
+    },
+    "['paraplu', 'regenscherm']": {
+        "prompt": "Nederlands: \"deur\" - Eesti: \"uks\"\nNederlands: \"ei\" - Eesti: \"muna\"\nNederlands: \"boot\" - Eesti: \"laev\"\nNederlands: \"zenuw\" - Eesti: \"n\u00e4rv\"\nNederlands: \"zwaard\" - Eesti: \"m\u00f5\u00f5k\"\nNederlands: \"paraplu\" - Eesti: \"",
+        "target": "['vihmavari']",
+        "word original": "umbrella"
+    },
+    "['wand', 'muur']": {
+        "prompt": "Nederlands: \"schroef\" - Eesti: \"kruvi\"\nNederlands: \"vinger\" - Eesti: \"Keskmise s\u00f5rme n\u00e4itamine\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"hart\" - Eesti: \"s\u00fcda\"\nNederlands: \"wand\" - Eesti: \"",
+        "target": "['sein', 'm\u00fc\u00fcr']",
+        "word original": "wall"
+    },
+    "['polshorloge', 'klokje', 'horloge', 'klok', 'uurwerk']": {
+        "prompt": "Nederlands: \"sleutel\" - Eesti: \"Tonaalsus\"\nNederlands: \"hoed\" - Eesti: \"m\u00fcts\"\nNederlands: \"handschoen\" - Eesti: \"s\u00f5rmik\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"polshorloge\" - Eesti: \"",
+        "target": "['k\u00e4ekell', 'kell']",
+        "word original": "watch"
+    },
+    "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros', 'wielrennen', 'wielrennen voor vrouwen', 'fietsen']": {
+        "prompt": "Nederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"druppel\" - Eesti: \"tilk\"\nNederlands: \"boek\" - Eesti: \"raamat\"\nNederlands: \"meisje\" - Eesti: \"t\u00fcdruk\"\nNederlands: \"vlieg\" - Eesti: \"Kahetiivalised\"\nNederlands: \"fiets\" - Eesti: \"",
+        "target": "['jalgratas', 'ratas', 'jalgrattas\u00f5it', 'Jalgrattas\u00f5it']",
+        "word original": "wheel"
+    },
+    "['zweep']": {
+        "prompt": "Nederlands: \"voet\" - Eesti: \"jalg\"\nNederlands: \"hals\" - Eesti: \"kael\"\nNederlands: \"kous\" - Eesti: \"Sukad\"\nNederlands: \"functie\" - Eesti: \"amet\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"zweep\" - Eesti: \"",
+        "target": "['piits', 'Piits']",
+        "word original": "whip"
+    },
+    "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje']": {
+        "prompt": "Nederlands: \"benen\" - Eesti: \"jalg\"\nNederlands: \"naald\" - Eesti: \"n\u00f5el\"\nNederlands: \"rundvee\" - Eesti: \"veised\"\nNederlands: \"lover\" - Eesti: \"leht\"\nNederlands: \"draad\" - Eesti: \"kedrus\"\nNederlands: \"raam\" - Eesti: \"",
+        "target": "['aken']",
+        "word original": "window"
+    },
+    "['vleugel', 'vlerk', 'wiek']": {
+        "prompt": "Nederlands: \"schoen\" - Eesti: \"king\"\nNederlands: \"mier\" - Eesti: \"sipelgas\"\nNederlands: \"kin\" - Eesti: \"l\u00f5ug\"\nNederlands: \"zak\" - Eesti: \"Koondamine\"\nNederlands: \"paard\" - Eesti: \"hobune\"\nNederlands: \"vleugel\" - Eesti: \"",
+        "target": "['tiib', 'Tiib']",
+        "word original": "wing"
+    },
+    "['draad', 'garen', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees', 'snoer', 'elektriciteitsdraad', 'ader']": {
+        "prompt": "Nederlands: \"motor\" - Eesti: \"mootorratas\"\nNederlands: \"oogbol\" - Eesti: \"silm\"\nNederlands: \"vissen\" - Eesti: \"kala\"\nNederlands: \"zon\" - Eesti: \"t\u00e4ht\"\nNederlands: \"patat\" - Eesti: \"kartul\"\nNederlands: \"draad\" - Eesti: \"",
+        "target": "['kedrus', 'l\u00f5ng', 'niit', 'n\u00f6\u00f6r', 'N\u00f6\u00f6r']",
+        "word original": "wire"
+    },
+    "['worm', 'draak', 'Draak', 'pier', 'wormen', 'regenworm', 'aardworm', 'wurm']": {
+        "prompt": "Nederlands: \"tas\" - Eesti: \"k\u00e4ekott\"\nNederlands: \"toilet\" - Eesti: \"k\u00e4imla\"\nNederlands: \"brein\" - Eesti: \"nous\"\nNederlands: \"edelsteen\" - Eesti: \"ehtekivi\"\nNederlands: \"deur\" - Eesti: \"uks\"\nNederlands: \"worm\" - Eesti: \"",
+        "target": "['lohe', 'uss', 'ussid', 'Ussid']",
+        "word original": "worm"
+    }
+}

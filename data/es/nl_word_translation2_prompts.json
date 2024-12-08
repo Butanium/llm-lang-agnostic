@@ -1,0 +1,862 @@
+{
+    "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios']": {
+        "prompt": "Espa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"fosfor\"\nEspa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"hilo\" - Nederlands: \"garen\"\nEspa\u00f1ol: \"paraguas\" - Nederlands: \"paraplu\"\nEspa\u00f1ol: \"estampilla\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Nederlands: \"",
+        "target": "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek']",
+        "word original": "angle"
+    },
+    "['hormiga', 'Formicidae', 'formicidae']": {
+        "prompt": "Espa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"horno\" - Nederlands: \"hoogoven\"\nEspa\u00f1ol: \"cuello\" - Nederlands: \"hals\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Nederlands: \"hoek\"\nEspa\u00f1ol: \"lavabo\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"hormiga\" - Nederlands: \"",
+        "target": "['mier', 'mieren']",
+        "word original": "ant"
+    },
+    "['c\u00e1scara de manzana', 'manzana']": {
+        "prompt": "Espa\u00f1ol: \"mono\" - Nederlands: \"aap\"\nEspa\u00f1ol: \"nervio\" - Nederlands: \"zenuw\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"bombillo\" - Nederlands: \"gloeilamp\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Nederlands: \"",
+        "target": "['appelschil', 'appel']",
+        "word original": "apple"
+    },
+    "['arco', 'arco y flecha', 'chispa', 'arco el\u00e9ctrico', 'descarga el\u00e9ctrica', 'chispa el\u00e9ctrica', 'centella', 'arco voltaico']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"fuete\" - Nederlands: \"zweep\"\nEspa\u00f1ol: \"marrano\" - Nederlands: \"varken\"\nEspa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"ala\" - Nederlands: \"alanine\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"",
+        "target": "['boog en pijlen', 'boog', 'pijl en boog', 'schietboog', 'vonk', 'vlamboog']",
+        "word original": "arch"
+    },
+    "['arma', 'arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'pistola', 'armamento']": {
+        "prompt": "Espa\u00f1ol: \"bote\" - Nederlands: \"boot\"\nEspa\u00f1ol: \"cuello\" - Nederlands: \"hals\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"falda\" - Nederlands: \"rok\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"",
+        "target": "['wapen', 'gevechtswapen', 'strijdmiddel', 'geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk', 'bewapening', 'oorlogsmaterieel', 'wapentuig', 'krijgsmaterieel', 'oorlogstuig', 'wapening', 'oorlogsmateriaal']",
+        "word original": "arm"
+    },
+    "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas', 'violencia', 'vigor', 'intensidad', 'intensidad sonora', 'volumen', 'intensidad de sonido', 'sonoridad', '\u00f1eque', 'fortaleza', 'empuje', 'impulso', 'poder\u00edo', 'potencia', 'poder']": {
+        "prompt": "Espa\u00f1ol: \"llave\" - Nederlands: \"klep\"\nEspa\u00f1ol: \"bolso\" - Nederlands: \"tas\"\nEspa\u00f1ol: \"dedo\" - Nederlands: \"middelvinger\"\nEspa\u00f1ol: \"guimbarda\" - Nederlands: \"trompet\"\nEspa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"spier\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"",
+        "target": "['strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e', 'geweld', 'bruutheid', 'gewelddadigheid', 'kracht', 'macht', 'power', 'geluidssterkte', 'geluidsvolume', 'geluidsniveau', 'luidheid', 'Geluidsintensiteit', 'geluidsintensiteit', 'volume', 'sterkte', 'soliditeit', 'degelijkheid', 'lichaamskracht', 'intensiteit', 'duwkracht', 'duw', 'stuwkracht', 'drijfkracht', 'por', 'stoot', 'stuwing', 'spierkracht']",
+        "word original": "army"
+    },
+    "['ni\u00f1o', 'papa frita', 'ni\u00f1a', 'menor de edad', 'menor', 'joven', 'infancia', 'minor\u00eda de edad', 'jovenzuelo', 'mozalbete', 'chico', 'muchachuelo', 'chiq\u00fcelo', 'chiquillo', 'criatura', 'cr\u00edo', 'chango', 'pececillo', 'cr\u00eda', 'chaval', 'alev\u00edn', 'nene', 'tike', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'jovencito', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'mozo', 'ni\u00f1os', 'ninzzo', 'hijo', 'hija']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"iglesia\" - Nederlands: \"kerk\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"barco de vela\" - Nederlands: \"zeilschip\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"",
+        "target": "['patat', 'kind', 'friet', 'jongere', 'jongeling', 'minderjarige', 'ding', 'baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje', 'joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen', 'kinderen', 'loot', 'spruit', 'koter', 'zoonlief', 'zoon']",
+        "word original": "boy"
+    },
+    "['bolso', 'cartera', 'bulto', 'bolsa', 'bolsa de papel', 'costal', 'saco', 'bolsa pl\u00e1stica de compra']": {
+        "prompt": "Espa\u00f1ol: \"constituci\u00f3n\" - Nederlands: \"organisatorisch\"\nEspa\u00f1ol: \"sombrero\" - Nederlands: \"hoed\"\nEspa\u00f1ol: \"biblioteca\" - Nederlands: \"bibliotheek\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"factura\" - Nederlands: \"factuur\"\nEspa\u00f1ol: \"bolso\" - Nederlands: \"",
+        "target": "['tas', 'handtas', 'Handtas', 'tasje', 'zak', 'papieren tas', 'buil']",
+        "word original": "bag"
+    },
+    "['b\u00e9isbol', 'beisbol', 'baseball']": {
+        "prompt": "Espa\u00f1ol: \"hueso\" - Nederlands: \"knok\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"pie\" - Nederlands: \"Proto-Indo-Europees\"\nEspa\u00f1ol: \"horno\" - Nederlands: \"hoogoven\"\nEspa\u00f1ol: \"universidad\" - Nederlands: \"universiteit\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Nederlands: \"",
+        "target": "['honkbal']",
+        "word original": "ball"
+    },
+    "['anillo', 'alianza', 'sortija']": {
+        "prompt": "Espa\u00f1ol: \"mesa\" - Nederlands: \"plateau\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"meisje\"\nEspa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"sombrero\" - Nederlands: \"hoed\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"",
+        "target": "['ring']",
+        "word original": "ring"
+    },
+    "['lavabo', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter', 'lavamanos', 'palangana', 'fregadero', 'pila']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"dedos del pie\" - Nederlands: \"kleine teen\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"strijdkrachten\"\nEspa\u00f1ol: \"lavabo\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'wasgelegenheid', 'badkamer', 'badkuip', 'bad', 'privaat', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer', 'bassin', 'wastafel', 'bekken', 'gootsteen', 'afwasbak']",
+        "word original": "basin"
+    },
+    "['ba\u00f1o', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'w\u00e1ter', 'retrete', 'abluci\u00f3n', 'lavatorio', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"joya\" - Nederlands: \"sieraad\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"mesa\" - Nederlands: \"plateau\"\nEspa\u00f1ol: \"esponja\" - Nederlands: \"spons\"\nEspa\u00f1ol: \"bombillo\" - Nederlands: \"gloeilamp\"\nEspa\u00f1ol: \"ba\u00f1o\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'baden', 'zwemmen', 'wasgelegenheid', 'badkamer', 'badkuip', 'bad', 'privaat', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']",
+        "word original": "bath"
+    },
+    "['cama', 'piltra', 'catre', 'sobre', 'lecho']": {
+        "prompt": "Espa\u00f1ol: \"ilustraci\u00f3n\" - Nederlands: \"verlichting\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"kam\"\nEspa\u00f1ol: \"ojos\" - Nederlands: \"oogbol\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"ba\u00fal\" - Nederlands: \"kist\"\nEspa\u00f1ol: \"cama\" - Nederlands: \"",
+        "target": "['bed', 'legerstede', 'sponde', 'bedstede', 'ledikant', 'nest']",
+        "word original": "bed"
+    },
+    "['abeja', 'Anthophila', 'anthophila']": {
+        "prompt": "Espa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"naranja\" - Nederlands: \"oranje\"\nEspa\u00f1ol: \"cepillo del pelo\" - Nederlands: \"borstel\"\nEspa\u00f1ol: \"abeja\" - Nederlands: \"",
+        "target": "['bij', 'honingbij', 'imme', 'bijen']",
+        "word original": "bee"
+    },
+    "['timbre', 'estampilla', 'timbre postal', 'sello', 'sello postal', 'porte', 'franqueo', 'sello de correos', 'campanilla de puerta']": {
+        "prompt": "Espa\u00f1ol: \"constituci\u00f3n\" - Nederlands: \"organisatorisch\"\nEspa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"cama\" - Nederlands: \"bed\"\nEspa\u00f1ol: \"queso\" - Nederlands: \"kaas\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"timbre\" - Nederlands: \"",
+        "target": "['postzegel', 'zegel', 'herenakkoord', 'zegelring', 'lakzegel', 'stempel', 'deurbel', 'bel', 'zoemer', 'huisbel', 'klingel', 'schel', 'door Bell', 'ding-dong']",
+        "word original": "bell"
+    },
+    "['p\u00e1jaro', 'ave', 'aves']": {
+        "prompt": "Espa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"nariz\" - Nederlands: \"neus\"\nEspa\u00f1ol: \"bandera\" - Nederlands: \"vaan\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"queso\" - Nederlands: \"kaas\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Nederlands: \"",
+        "target": "['vogel', 'vogels', 'Eu-', 'vogeltje']",
+        "word original": "bird"
+    },
+    "['espada', 'garrancha', 'albacora', 'pez espada', 'Xiphias gladius', 'Pez espada', 'xiphias gladius']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Nederlands: \"vogel\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"meisje\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"inodoro\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"espada\" - Nederlands: \"",
+        "target": "['zwaard', 'degen', 'zwaardvis']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'comisi\u00f3n', 'bur\u00f3', 'junta', 'consejo']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"barco de vela\" - Nederlands: \"zeilschip\"\nEspa\u00f1ol: \"joya\" - Nederlands: \"sieraad\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"trein\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"comit\u00e9\" - Nederlands: \"",
+        "target": "['commissie', 'kamer', 'cie', 'college', 'beheerraad', 'bestuur', 'board', 'raadscollege', 'raad', 'directie']",
+        "word original": "board"
+    },
+    "['bote', 'barco', 'barca', 'barcos', 'nave', 'embarcaci\u00f3n', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'lata']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"falda\" - Nederlands: \"rok\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"mond\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"cuchara\" - Nederlands: \"lepel\"\nEspa\u00f1ol: \"bote\" - Nederlands: \"",
+        "target": "['boot', 'schip', 'toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'conservenblik', 'blik', 'blikje', 'bakvorm', 'taartvorm']",
+        "word original": "boat"
+    },
+    "['hueso', 'os']": {
+        "prompt": "Espa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"ventana\" - Nederlands: \"raam\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"hueso\" - Nederlands: \"",
+        "target": "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat']",
+        "word original": "bone"
+    },
+    "['botella', 'frasco']": {
+        "prompt": "Espa\u00f1ol: \"comit\u00e9\" - Nederlands: \"commissie\"\nEspa\u00f1ol: \"puerta\" - Nederlands: \"poort\"\nEspa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"film\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"sombrero\" - Nederlands: \"hoed\"\nEspa\u00f1ol: \"botella\" - Nederlands: \"",
+        "target": "['fles']",
+        "word original": "bottle"
+    },
+    "['cajas', 'caja']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Nederlands: \"wolk\"\nEspa\u00f1ol: \"esponja\" - Nederlands: \"spons\"\nEspa\u00f1ol: \"piel\" - Nederlands: \"vel\"\nEspa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"",
+        "target": "['dozen', 'doos', 'bak']",
+        "word original": "box"
+    },
+    "['mente', 'psique', 'Nous', 'nous', 'cabeza', 'cerebro', 'raz\u00f3n', 'intelecto', 'entendimiento', 'inteligencia', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"esponja\" - Nederlands: \"spons\"\nEspa\u00f1ol: \"\u00e1rbol\" - Nederlands: \"boom\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"puerta\" - Nederlands: \"poort\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"",
+        "target": "['brein', 'verstand', 'psyche', 'Nous', 'geest', 'nous', 'denkvermogen', 'rede', 'geestvermogen', 'hersenen', 'hersens', 'kop', 'hoofd', 'baas', 'bazin', 'leider', 'op uw plaatsen, klaar, af!']",
+        "word original": "head"
+    },
+    "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas', 'sistema econ\u00f3mico']": {
+        "prompt": "Espa\u00f1ol: \"guante\" - Nederlands: \"handschoen\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"hervidor\" - Nederlands: \"theeketel\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"econom\u00eda\" - Nederlands: \"",
+        "target": "['economie', 'politieke economie', 'economisch systeem']",
+        "word original": "branch"
+    },
+    "['ladrillo']": {
+        "prompt": "Espa\u00f1ol: \"garganta\" - Nederlands: \"kloof\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"labio\" - Nederlands: \"lip\"\nEspa\u00f1ol: \"ala\" - Nederlands: \"alanine\"\nEspa\u00f1ol: \"ladrillo\" - Nederlands: \"",
+        "target": "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']",
+        "word original": "brick"
+    },
+    "['puente', 'b\u00f3veda']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"dedo\" - Nederlands: \"middelvinger\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"estante\" - Nederlands: \"boekenkast\"\nEspa\u00f1ol: \"placa\" - Nederlands: \"kentekenplaat\"\nEspa\u00f1ol: \"puente\" - Nederlands: \"",
+        "target": "['brug', 'lijst van Romeinse bruggen']",
+        "word original": "bridge"
+    },
+    "['cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']": {
+        "prompt": "Espa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"esponja\" - Nederlands: \"spons\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"strijdkrachten\"\nEspa\u00f1ol: \"cepillo del pelo\" - Nederlands: \"",
+        "target": "['borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']",
+        "word original": "brush"
+    },
+    "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Nederlands: \"netwerk\"\nEspa\u00f1ol: \"l\u00e1piz\" - Nederlands: \"crayon\"\nEspa\u00f1ol: \"semilla\" - Nederlands: \"zaad\"\nEspa\u00f1ol: \"iglesia\" - Nederlands: \"kerk\"\nEspa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"",
+        "target": "['emmer']",
+        "word original": "bucket"
+    },
+    "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"kantoor\"\nEspa\u00f1ol: \"joya\" - Nederlands: \"sieraad\"\nEspa\u00f1ol: \"labio\" - Nederlands: \"lip\"\nEspa\u00f1ol: \"dedo\" - Nederlands: \"middelvinger\"\nEspa\u00f1ol: \"bombillo\" - Nederlands: \"",
+        "target": "['gloeilamp', 'elektrisch licht', 'peer']",
+        "word original": "bulb"
+    },
+    "['pastel', 'torta', 'bizcocho', 'cake', 'coca', 'tarta', 'pie', 'pay', 'empanada']": {
+        "prompt": "Espa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"fosfor\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"spier\"\nEspa\u00f1ol: \"pastel\" - Nederlands: \"",
+        "target": "['cake', 'taart', 'pastei', 'pie', 'gebak']",
+        "word original": "cake"
+    },
+    "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara']": {
+        "prompt": "Espa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"film\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Nederlands: \"honkbal\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"abeja\" - Nederlands: \"bij\"\nEspa\u00f1ol: \"placa\" - Nederlands: \"kentekenplaat\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"",
+        "target": "['fotocamera', 'camera', 'videocamera', 'filmcamera', 'fototoestel']",
+        "word original": "camera"
+    },
+    "['documento nacional de identidad', 'documento de identidad', 'identificaci\u00f3n', 'carn\u00e9 de identidad', 'carnet de identidad', 'c\u00e9dula de identidad', 'DNI', 'credencial', 'carnet']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"bote\" - Nederlands: \"boot\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"fosfor\"\nEspa\u00f1ol: \"tenedor\" - Nederlands: \"kruising\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Nederlands: \"",
+        "target": "['identiteitskaart', 'legitimatiebewijs', 'stamkaart', 'identiteitsbewijs', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']",
+        "word original": "card"
+    },
+    "['veh\u00edculo ferroviario', 'vag\u00f3n', 'Automotor', 'automotor', 'material remolcado', 'vag\u00f3n de ferrocarril', 'Coche automotor', 'coche', 'tren', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos']": {
+        "prompt": "Espa\u00f1ol: \"abeja\" - Nederlands: \"bij\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"trein\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"strijdkrachten\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"ba\u00f1o\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"",
+        "target": "['wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'motorrijtuig', 'railvoertuig', 'motorwagen', 'spoorrijtuig', 'treinwagon', 'koets', 'break', 'brik', 'janplezier']",
+        "word original": "carriage"
+    },
+    "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']": {
+        "prompt": "Espa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"esponja\" - Nederlands: \"spons\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"econom\u00eda\" - Nederlands: \"economie\"\nEspa\u00f1ol: \"gato\" - Nederlands: \"",
+        "target": "['kat', 'huiskat']",
+        "word original": "cat"
+    },
+    "['queso']": {
+        "prompt": "Espa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"film\"\nEspa\u00f1ol: \"cigarro\" - Nederlands: \"sigaret\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Nederlands: \"vogel\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Nederlands: \"appelschil\"\nEspa\u00f1ol: \"queso\" - Nederlands: \"",
+        "target": "['kaas']",
+        "word original": "cheese"
+    },
+    "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre']": {
+        "prompt": "Espa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"pie\" - Nederlands: \"Proto-Indo-Europees\"\nEspa\u00f1ol: \"manantial\" - Nederlands: \"bron\"\nEspa\u00f1ol: \"ba\u00fal\" - Nederlands: \"",
+        "target": "['kist']",
+        "word original": "chest"
+    },
+    "['barbilla', 'ment\u00f3n', 'pera', 'barba']": {
+        "prompt": "Espa\u00f1ol: \"casa\" - Nederlands: \"gebouw\"\nEspa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"arado\" - Nederlands: \"ploeg\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Nederlands: \"satelliet\"\nEspa\u00f1ol: \"castigo corporal\" - Nederlands: \"lijfstraf\"\nEspa\u00f1ol: \"barbilla\" - Nederlands: \"",
+        "target": "['kin', 'kinnebak']",
+        "word original": "chin"
+    },
+    "['iglesia']": {
+        "prompt": "Espa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"tenedor\" - Nederlands: \"kruising\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Nederlands: \"identiteitskaart\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"iglesia\" - Nederlands: \"",
+        "target": "['kerk', 'kerkgebouw', 'godshuis']",
+        "word original": "church"
+    },
+    "['c\u00edrculo', 'circunferencia', 'disco']": {
+        "prompt": "Espa\u00f1ol: \"rata\" - Nederlands: \"rat\"\nEspa\u00f1ol: \"llave\" - Nederlands: \"klep\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"botella\" - Nederlands: \"fles\"\nEspa\u00f1ol: \"nervio\" - Nederlands: \"zenuw\"\nEspa\u00f1ol: \"c\u00edrculo\" - Nederlands: \"",
+        "target": "['kring', 'cirkel', 'schijf']",
+        "word original": "circle"
+    },
+    "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']": {
+        "prompt": "Espa\u00f1ol: \"hormiga\" - Nederlands: \"mier\"\nEspa\u00f1ol: \"comit\u00e9\" - Nederlands: \"commissie\"\nEspa\u00f1ol: \"guimbarda\" - Nederlands: \"trompet\"\nEspa\u00f1ol: \"ganado bovino\" - Nederlands: \"rundvee\"\nEspa\u00f1ol: \"tenedor\" - Nederlands: \"kruising\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"",
+        "target": "['uurwerk', 'klok', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje']",
+        "word original": "watch"
+    },
+    "['nube', 'nubes']": {
+        "prompt": "Espa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"econom\u00eda\" - Nederlands: \"economie\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"timbre\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Nederlands: \"organisatorisch\"\nEspa\u00f1ol: \"nube\" - Nederlands: \"",
+        "target": "['wolk']",
+        "word original": "cloud"
+    },
+    "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'jacket', 'campera', 'chompa']": {
+        "prompt": "Espa\u00f1ol: \"bolso\" - Nederlands: \"tas\"\nEspa\u00f1ol: \"estante\" - Nederlands: \"boekenkast\"\nEspa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"red de computadoras\" - Nederlands: \"netwerk\"\nEspa\u00f1ol: \"casaca\" - Nederlands: \"",
+        "target": "['jas', 'jack', 'mantel', 'overjas']",
+        "word original": "coat"
+    },
+    "['arresto', 'detenci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"memoria\" - Nederlands: \"retorica\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Nederlands: \"satelliet\"\nEspa\u00f1ol: \"cuchara\" - Nederlands: \"lepel\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"",
+        "target": "['aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand']",
+        "word original": "collar"
+    },
+    "['peine']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"cola\" - Nederlands: \"konvooi\"\nEspa\u00f1ol: \"bicicleta\" - Nederlands: \"fiets\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"",
+        "target": "['kam', 'schilderskam']",
+        "word original": "comb"
+    },
+    "['ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno']": {
+        "prompt": "Espa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"spier\"\nEspa\u00f1ol: \"ba\u00fal\" - Nederlands: \"kist\"\nEspa\u00f1ol: \"motor\" - Nederlands: \"motorfiets\"\nEspa\u00f1ol: \"gusano\" - Nederlands: \"aardworm\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"ganado bovino\" - Nederlands: \"",
+        "target": "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['taza', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'copa', 'vaso', 'taza de pi\u00e9', 'taz\u00f3n', 'jarro']": {
+        "prompt": "Espa\u00f1ol: \"sombrero\" - Nederlands: \"hoed\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"mond\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"ladrillo\" - Nederlands: \"klinker\"\nEspa\u00f1ol: \"ojos\" - Nederlands: \"oogbol\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'kop', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'mok']",
+        "word original": "cup"
+    },
+    "['cortina', 'cortinaje', 'cortinas', 'sombra']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Nederlands: \"wolk\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"timbre\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"",
+        "target": "['gordijn', 'voorhangsel', 'lijkkleed', 'doek', 'schaduw', 'lommer', 'schakering', 'jaloezie']",
+        "word original": "curtain"
+    },
+    "['amortiguador']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"casaca\" - Nederlands: \"jas\"\nEspa\u00f1ol: \"tenedor\" - Nederlands: \"kruising\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"amortiguador\" - Nederlands: \"",
+        "target": "['schokbreker', 'schokdemper', 'schok', 'kussen']",
+        "word original": "cushion"
+    },
+    "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico']": {
+        "prompt": "Espa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"universidad\" - Nederlands: \"universiteit\"\nEspa\u00f1ol: \"video\" - Nederlands: \"televisie\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"",
+        "target": "['hond', 'Canis lupus familiaris', 'joekel']",
+        "word original": "dog"
+    },
+    "['puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"bolsillo\" - Nederlands: \"paperback\"\nEspa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"hilo\" - Nederlands: \"garen\"\nEspa\u00f1ol: \"gusano\" - Nederlands: \"aardworm\"\nEspa\u00f1ol: \"puerta\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur', 'hek', 'toegangshek', 'spoorboom', 'gate', 'overwegboom']",
+        "word original": "drain"
+    },
+    "['ilustraci\u00f3n', 'Iluminismo', 'figura', 'retrato', 'dibujo', 'imagen', 'croquis', 'esquema', 'foto', 'fotograf\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"patata\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"manantial\" - Nederlands: \"bron\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Nederlands: \"",
+        "target": "['verlichting', 'Verlichting', 'afbeelding', 'tekening', 'tekenkunst', 'prent', 'illustratie', 'figuur', 'portret', 'plaatje']",
+        "word original": "drawer"
+    },
+    "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment']": {
+        "prompt": "Espa\u00f1ol: \"memoria\" - Nederlands: \"retorica\"\nEspa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Nederlands: \"vogel\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Nederlands: \"satelliet\"\nEspa\u00f1ol: \"ropa\" - Nederlands: \"",
+        "target": "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed']",
+        "word original": "dress"
+    },
+    "['gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima', 'bocado', 'porci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"film\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"broek\"\nEspa\u00f1ol: \"econom\u00eda\" - Nederlands: \"economie\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"gota\" - Nederlands: \"",
+        "target": "['jicht', 'podagra', 'pootje', 'druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop', 'hap', 'brok', 'beet']",
+        "word original": "drop"
+    },
+    "['o\u00eddo', 'orejas', 'oreja', 'protecci\u00f3n del o\u00eddo', 'protecci\u00f3n auditiva', 'audici\u00f3n', 'facultad auditiva', 'modalidad auditiva', 'sentido del o\u00eddo', 'sentido auditivo']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"nariz\" - Nederlands: \"neus\"\nEspa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"placa\" - Nederlands: \"kentekenplaat\"\nEspa\u00f1ol: \"o\u00eddo\" - Nederlands: \"",
+        "target": "['oor', 'oren', 'gehoororgaan', 'gehoorbescherming', 'gehoor']",
+        "word original": "ear"
+    },
+    "['huevo de gallina', 'huevo']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Nederlands: \"kabeltelevisie\"\nEspa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"trein\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"biblioteca\" - Nederlands: \"bibliotheek\"\nEspa\u00f1ol: \"huevo de gallina\" - Nederlands: \"",
+        "target": "['ei', 'kippenei']",
+        "word original": "egg"
+    },
+    "['motor', 'motocicleta', 'motora', 'moto', 'motociclo', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']": {
+        "prompt": "Espa\u00f1ol: \"labio\" - Nederlands: \"lip\"\nEspa\u00f1ol: \"trampa\" - Nederlands: \"het in klemmen vangen\"\nEspa\u00f1ol: \"bote\" - Nederlands: \"boot\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"spier\"\nEspa\u00f1ol: \"motor\" - Nederlands: \"",
+        "target": "['motorfiets', 'gemotoriseerde twee- of driewieler', 'machine', 'motorrijwiel', 'aandrijving', 'locomotief', 'elektromotor']",
+        "word original": "engine"
+    },
+    "['ojos', 'ojo', 'globo ocular', 'oculus']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"bandera\" - Nederlands: \"vaan\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"ojos\" - Nederlands: \"",
+        "target": "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']",
+        "word original": "eye"
+    },
+    "['rostro', 'cara', 'jeta', 'faz', 'rostro humano']": {
+        "prompt": "Espa\u00f1ol: \"hormiga\" - Nederlands: \"mier\"\nEspa\u00f1ol: \"joya\" - Nederlands: \"sieraad\"\nEspa\u00f1ol: \"garganta\" - Nederlands: \"kloof\"\nEspa\u00f1ol: \"ba\u00fal\" - Nederlands: \"kist\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"rostro\" - Nederlands: \"",
+        "target": "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']",
+        "word original": "face"
+    },
+    "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"garganta\" - Nederlands: \"kloof\"\nEspa\u00f1ol: \"joya\" - Nederlands: \"sieraad\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"bolsillo\" - Nederlands: \"paperback\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"broek\"\nEspa\u00f1ol: \"granja\" - Nederlands: \"",
+        "target": "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee']",
+        "word original": "farm"
+    },
+    "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'boli', 'bol\u00edgrafo']": {
+        "prompt": "Espa\u00f1ol: \"factura\" - Nederlands: \"factuur\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"broek\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Nederlands: \"verlichting\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder', 'pen']",
+        "word original": "pen"
+    },
+    "['dedo', 'peineta', 'corte de manga', 'higa', 'd\u00edgito', 'pulgar', 'dedo pulgar', 'pollex', 'dedo gordo', 'dedos de la mano', 'dedo de la mano', 'dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Nederlands: \"netwerk\"\nEspa\u00f1ol: \"botella\" - Nederlands: \"fles\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"strijdkrachten\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"ba\u00fal\" - Nederlands: \"kist\"\nEspa\u00f1ol: \"dedo\" - Nederlands: \"",
+        "target": "['middelvinger', 'the finger', 'digit', 'Digit', 'vinger', 'teen', 'cijfer', 'duim', 'kleine teen', 'tenen', 'kom nou']",
+        "word original": "finger"
+    },
+    "['pescado', 'pez', 'Pisces', 'pisces', 'peces']": {
+        "prompt": "Espa\u00f1ol: \"espada\" - Nederlands: \"zwaard\"\nEspa\u00f1ol: \"motor\" - Nederlands: \"motorfiets\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"mond\"\nEspa\u00f1ol: \"labio\" - Nederlands: \"lip\"\nEspa\u00f1ol: \"arado\" - Nederlands: \"ploeg\"\nEspa\u00f1ol: \"pescado\" - Nederlands: \"",
+        "target": "['vissen', 'vis']",
+        "word original": "fish"
+    },
+    "['bandera', 'pabell\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"memoria\" - Nederlands: \"retorica\"\nEspa\u00f1ol: \"barco\" - Nederlands: \"schip\"\nEspa\u00f1ol: \"nudo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"bandera\" - Nederlands: \"",
+        "target": "['vaan', 'vlag']",
+        "word original": "flag"
+    },
+    "['dolina', 'valle', 'val']": {
+        "prompt": "Espa\u00f1ol: \"estante\" - Nederlands: \"boekenkast\"\nEspa\u00f1ol: \"guimbarda\" - Nederlands: \"trompet\"\nEspa\u00f1ol: \"hueso\" - Nederlands: \"knok\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"paraguas\" - Nederlands: \"paraplu\"\nEspa\u00f1ol: \"dolina\" - Nederlands: \"",
+        "target": "['dal', 'vallei']",
+        "word original": "floor"
+    },
+    "['mosca', 'mosco', 'Diptera']": {
+        "prompt": "Espa\u00f1ol: \"hervidor\" - Nederlands: \"theeketel\"\nEspa\u00f1ol: \"pescado\" - Nederlands: \"vissen\"\nEspa\u00f1ol: \"\u00e1rbol\" - Nederlands: \"boom\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"gota\" - Nederlands: \"jicht\"\nEspa\u00f1ol: \"mosca\" - Nederlands: \"",
+        "target": "['vlieg', 'tweevleugeligen']",
+        "word original": "fly"
+    },
+    "['pie', 'proto-indo-europeo', 'idioma protoindoeuropeo', 'protoindoeuropeo', 'pes', 'pata', 'base', 'subestructura', 'cimentaci\u00f3n', 'cimiento', 'fundaci\u00f3n', 'fundamento', 'tarta', 'pastel', 'pay', 'empanada', 'torta']": {
+        "prompt": "Espa\u00f1ol: \"gusano\" - Nederlands: \"aardworm\"\nEspa\u00f1ol: \"bote\" - Nederlands: \"boot\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"casaca\" - Nederlands: \"jas\"\nEspa\u00f1ol: \"huevo de gallina\" - Nederlands: \"ei\"\nEspa\u00f1ol: \"pie\" - Nederlands: \"",
+        "target": "['Proto-Indo-Europees', 'voet', 'voeten', 'poot', 'pootje', 'fundament', 'basis', 'fundering', 'grondvesting', 'grondslag', 'grondvest', 'bedding', 'taart', 'pastei', 'gebak']",
+        "word original": "foot"
+    },
+    "['tenedor', 'bifurcaci\u00f3n', 'cruce', 'intersecci\u00f3n vial', 'intersecci\u00f3n', 'crucero', 'carrefour', 'encrucijada', 'cruce de caminos']": {
+        "prompt": "Espa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"bombillo\" - Nederlands: \"gloeilamp\"\nEspa\u00f1ol: \"tenedor\" - Nederlands: \"",
+        "target": "['kruising', 'T-splitsing', 'kruispunt', 'zijweg', 'vork', 'splitsing']",
+        "word original": "fork"
+    },
+    "['ave de corral', 'Galloanserae', 'ave']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"universidad\" - Nederlands: \"universiteit\"\nEspa\u00f1ol: \"medias\" - Nederlands: \"kous\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"",
+        "target": "['gevogelte', 'pluimvee', 'Galloanserae', 'hoen', 'huishen', 'hoentje', 'hen', 'kip']",
+        "word original": "fowl"
+    },
+    "['constituci\u00f3n', 'organizativo', 'organizaci\u00f3n', 'establecimiento', 'fundaci\u00f3n', 'formaci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"cola\" - Nederlands: \"konvooi\"\nEspa\u00f1ol: \"lavabo\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"motor\" - Nederlands: \"motorfiets\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Nederlands: \"",
+        "target": "['organisatorisch', 'organisatie', 'installatie', 'bestel', 'vestiging', 'menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']",
+        "word original": "frame"
+    },
+    "['jard\u00edn']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"comit\u00e9\" - Nederlands: \"commissie\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"kantoor\"\nEspa\u00f1ol: \"paquete\" - Nederlands: \"programma\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"",
+        "target": "['tuin', 'hof']",
+        "word original": "garden"
+    },
+    "['chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'mujer', 'se\u00f1orito', 'chico', 'fille', 'se\u00f1orita', 'mujercita', 'novia', 'pareja', 'compa\u00f1era', 'prometida', 'compa\u00f1era sentimental']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"piel\" - Nederlands: \"vel\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"ducto\" - Nederlands: \"waterleiding\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"",
+        "target": "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw', 'vriendin', 'vriendinnetje', 'grietje']",
+        "word original": "girl"
+    },
+    "['guante']": {
+        "prompt": "Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"o\u00eddo\" - Nederlands: \"oor\"\nEspa\u00f1ol: \"caballo\" - Nederlands: \"paard\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"guante\" - Nederlands: \"",
+        "target": "['handschoen', 'want']",
+        "word original": "glove"
+    },
+    "['cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']": {
+        "prompt": "Espa\u00f1ol: \"tenedor\" - Nederlands: \"kruising\"\nEspa\u00f1ol: \"dolina\" - Nederlands: \"dal\"\nEspa\u00f1ol: \"ventana\" - Nederlands: \"raam\"\nEspa\u00f1ol: \"horno\" - Nederlands: \"hoogoven\"\nEspa\u00f1ol: \"mesa\" - Nederlands: \"plateau\"\nEspa\u00f1ol: \"cabra\" - Nederlands: \"",
+        "target": "['geit', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'arma', 'pistola']": {
+        "prompt": "Espa\u00f1ol: \"abeja\" - Nederlands: \"bij\"\nEspa\u00f1ol: \"bandera\" - Nederlands: \"vaan\"\nEspa\u00f1ol: \"o\u00eddo\" - Nederlands: \"oor\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"trein\"\nEspa\u00f1ol: \"u\u00f1a\" - Nederlands: \"vingernagel\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"",
+        "target": "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk']",
+        "word original": "gun"
+    },
+    "['cabello', 'pelo']": {
+        "prompt": "Espa\u00f1ol: \"ducto\" - Nederlands: \"waterleiding\"\nEspa\u00f1ol: \"mesa\" - Nederlands: \"plateau\"\nEspa\u00f1ol: \"dolina\" - Nederlands: \"dal\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"guimbarda\" - Nederlands: \"trompet\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"",
+        "target": "['haar', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']",
+        "word original": "root"
+    },
+    "['martillo', 'lanzamiento de martillo']": {
+        "prompt": "Espa\u00f1ol: \"piel\" - Nederlands: \"vel\"\nEspa\u00f1ol: \"mosca\" - Nederlands: \"vlieg\"\nEspa\u00f1ol: \"ropa\" - Nederlands: \"kledij\"\nEspa\u00f1ol: \"hoja\" - Nederlands: \"papier\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"martillo\" - Nederlands: \"",
+        "target": "['hamerwerpen', 'kogelslingeren', 'hamerslingeren', 'vuisthamer', 'hamer', 'vuist']",
+        "word original": "hammer"
+    },
+    "['sombrero', 'Chap\u00f3']": {
+        "prompt": "Espa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"hervidor\" - Nederlands: \"theeketel\"\nEspa\u00f1ol: \"tarifa\" - Nederlands: \"honorarium\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"sombrero\" - Nederlands: \"",
+        "target": "['hoed', 'Chapeau!']",
+        "word original": "hat"
+    },
+    "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o', 'centro', 'ojo', 'medio']": {
+        "prompt": "Espa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"caballo\" - Nederlands: \"paard\"\nEspa\u00f1ol: \"red de computadoras\" - Nederlands: \"netwerk\"\nEspa\u00f1ol: \"domingo\" - Nederlands: \"zondag\"\nEspa\u00f1ol: \"amortiguador\" - Nederlands: \"schokbreker\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"",
+        "target": "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid', 'kern']",
+        "word original": "pump"
+    },
+    "['trampa', 'atrape', 'cepo', 'truco', 'hacer trampas', 'estafa', 'timo', 'enga\u00f1o', 'fraude', 'bulo', 'enga\u00f1ifa', 'bober\u00eda', 'tonter\u00eda', 'farsa', 'filfa', 'disparate', 'embuste', 'mistificaci\u00f3n', 'camelo', 'patra\u00f1a', 'pastrana']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"cuadrado\" - Nederlands: \"vierkant\"\nEspa\u00f1ol: \"u\u00f1a\" - Nederlands: \"vingernagel\"\nEspa\u00f1ol: \"dedo\" - Nederlands: \"middelvinger\"\nEspa\u00f1ol: \"trampa\" - Nederlands: \"",
+        "target": "['het in klemmen vangen', 'val', 'dierenval', 'valsspelen', 'bedrog', 'klem', 'zwanenhals', 'hoax', 'Humbug', 'geknoei', 'oplichterij', 'gerommel', 'gesjoemel', 'fraude', 'knoeierij']",
+        "word original": "hook"
+    },
+    "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"espada\" - Nederlands: \"zwaard\"\nEspa\u00f1ol: \"cola\" - Nederlands: \"konvooi\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"barco de vela\" - Nederlands: \"zeilschip\"\nEspa\u00f1ol: \"guimbarda\" - Nederlands: \"",
+        "target": "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']",
+        "word original": "horn"
+    },
+    "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"mono\" - Nederlands: \"aap\"\nEspa\u00f1ol: \"falda\" - Nederlands: \"rok\"\nEspa\u00f1ol: \"ventana\" - Nederlands: \"raam\"\nEspa\u00f1ol: \"caballo\" - Nederlands: \"",
+        "target": "['paard', 'peerd', 'viervoeter', 'ros']",
+        "word original": "horse"
+    },
+    "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"pie\" - Nederlands: \"Proto-Indo-Europees\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Nederlands: \"honkbal\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"",
+        "target": "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']",
+        "word original": "hospital"
+    },
+    "['casa', 'edificaci\u00f3n', 'edificio', 'edificio p\u00fablico', 'inmueble', 'edificios', 'construcci\u00f3n', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'manufactura', 'fabricante', 'firma', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'compa\u00f1\u00eda', 'empresa', 'empresas', 'hospedaje', 'viviendas']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"kantoor\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"meisje\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"ladrillo\" - Nederlands: \"klinker\"\nEspa\u00f1ol: \"casa\" - Nederlands: \"",
+        "target": "['gebouw', 'openbaar gebouw', 'bouwwerk', 'pand', 'huis', 'bouwen', 'perceel', 'bouw', 'denkkader', 'constructie', 'optrekje', 'woning', 'onderdak', 'woonplaats', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'huishouden', 'huisgezin', 'familie', 'huishouding', 'gezin', 'fabrikant', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte', 'corporatie', 'onderneming', 'firma', 'bedrijf', 'onderkomen', 'handelsmaatschappij', 'handelmaatschappij', 'volkshuisvesting', 'logies', 'slaapplaats', 'slaapgelegenheid', 'rustplaats']",
+        "word original": "house"
+    },
+    "['isla', 'islas']": {
+        "prompt": "Espa\u00f1ol: \"casaca\" - Nederlands: \"jas\"\nEspa\u00f1ol: \"hoja\" - Nederlands: \"papier\"\nEspa\u00f1ol: \"castigo corporal\" - Nederlands: \"lijfstraf\"\nEspa\u00f1ol: \"guimbarda\" - Nederlands: \"trompet\"\nEspa\u00f1ol: \"dedos del pie\" - Nederlands: \"kleine teen\"\nEspa\u00f1ol: \"isla\" - Nederlands: \"",
+        "target": "['eiland', 'enclave']",
+        "word original": "island"
+    },
+    "['joya', 'joyer\u00eda', 'joyas', 'alhajas', 'alegr\u00eda', 'regocijo', 'j\u00fabilo', 'felicidad', 'gozo', 'ilusi\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"naranja\" - Nederlands: \"oranje\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Nederlands: \"satelliet\"\nEspa\u00f1ol: \"ducto\" - Nederlands: \"waterleiding\"\nEspa\u00f1ol: \"joya\" - Nederlands: \"",
+        "target": "['sieraad', 'bijou', 'juwelen', 'vreugde', 'blijheid']",
+        "word original": "jewel"
+    },
+    "['hervidor', 'caldera', 'calentador', 'Caldera']": {
+        "prompt": "Espa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"rostro\" - Nederlands: \"tronie\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Nederlands: \"seizoen\"\nEspa\u00f1ol: \"isla\" - Nederlands: \"eiland\"\nEspa\u00f1ol: \"cable\" - Nederlands: \"kabeltelevisie\"\nEspa\u00f1ol: \"hervidor\" - Nederlands: \"",
+        "target": "['theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']",
+        "word original": "kettle"
+    },
+    "['llave', 'v\u00e1lvula', 'clave', 'llave inglesa', 'llave de tuerca', 'llave fija']": {
+        "prompt": "Espa\u00f1ol: \"gusano\" - Nederlands: \"aardworm\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"cepillo del pelo\" - Nederlands: \"borstel\"\nEspa\u00f1ol: \"cuchillo\" - Nederlands: \"mes\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"llave\" - Nederlands: \"",
+        "target": "['klep', 'ventiel', 'ventielklep', 'sleutel', 'toets', 'Engelse sleutel', 'steeksleutel', 'moersleutel', 'schroefsleutel', 'fietssleutel', 'moeilijk afscheid', 'verdriet', 'ruk']",
+        "word original": "key"
+    },
+    "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']": {
+        "prompt": "Espa\u00f1ol: \"amortiguador\" - Nederlands: \"schokbreker\"\nEspa\u00f1ol: \"camisa\" - Nederlands: \"t-shirt\"\nEspa\u00f1ol: \"medias\" - Nederlands: \"kous\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"fosfor\"\nEspa\u00f1ol: \"ropa\" - Nederlands: \"kledij\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"",
+        "target": "['knie', 'knietje']",
+        "word original": "knee"
+    },
+    "['cuchillo']": {
+        "prompt": "Espa\u00f1ol: \"ganado bovino\" - Nederlands: \"rundvee\"\nEspa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"bolsillo\" - Nederlands: \"paperback\"\nEspa\u00f1ol: \"ladrillo\" - Nederlands: \"klinker\"\nEspa\u00f1ol: \"sombrero\" - Nederlands: \"hoed\"\nEspa\u00f1ol: \"cuchillo\" - Nederlands: \"",
+        "target": "['mes']",
+        "word original": "knife"
+    },
+    "['nudo', 'tallo', 'lazo']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Nederlands: \"kabeltelevisie\"\nEspa\u00f1ol: \"paquete\" - Nederlands: \"programma\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"hoja\" - Nederlands: \"papier\"\nEspa\u00f1ol: \"nudo\" - Nederlands: \"",
+        "target": "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven', 'knoop']",
+        "word original": "knot"
+    },
+    "['hoja', 'papel', 'follaje', 'Laphi', 'hoja de papel', 'cuartilla', 'folio', 'pliego', 'filo', 'cuchilla']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"lavabo\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"gota\" - Nederlands: \"jicht\"\nEspa\u00f1ol: \"hoja\" - Nederlands: \"",
+        "target": "['papier', 'lover', 'gebladerte', 'blad', 'Laphi', 'blaadje', 'velletje', 'vel', 'kling', 'lemmet', 'lemmer', 'plaat', 'folie']",
+        "word original": "leaf"
+    },
+    "['pierna', 'extremidad inferior', 'pata', 'piernas', 'miembro inferior', 'miembro inferior humano']": {
+        "prompt": "Espa\u00f1ol: \"estaci\u00f3n\" - Nederlands: \"seizoen\"\nEspa\u00f1ol: \"cuadrado\" - Nederlands: \"vierkant\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"horno\" - Nederlands: \"hoogoven\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"",
+        "target": "['been', 'benen', 'poot', 'stelt', 'menselijke been', 'onderdanen', 'onderdaan']",
+        "word original": "pin"
+    },
+    "['biblioteca', 'librer\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"documento nacional de identidad\" - Nederlands: \"identiteitskaart\"\nEspa\u00f1ol: \"cepillo del pelo\" - Nederlands: \"borstel\"\nEspa\u00f1ol: \"hervidor\" - Nederlands: \"theeketel\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"pescado\" - Nederlands: \"vissen\"\nEspa\u00f1ol: \"biblioteca\" - Nederlands: \"",
+        "target": "['bibliotheek', 'boekerij', 'boekenkast', 'boekenverzameling']",
+        "word original": "library"
+    },
+    "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'television', 'TV', 'imagen']": {
+        "prompt": "Espa\u00f1ol: \"hormiga\" - Nederlands: \"mier\"\nEspa\u00f1ol: \"u\u00f1a\" - Nederlands: \"vingernagel\"\nEspa\u00f1ol: \"espada\" - Nederlands: \"zwaard\"\nEspa\u00f1ol: \"amortiguador\" - Nederlands: \"schokbreker\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"kam\"\nEspa\u00f1ol: \"video\" - Nederlands: \"",
+        "target": "['televisie', 'videotechniek', 'kijkbuis', 'beeldomroep']",
+        "word original": "line"
+    },
+    "['labio', 'labios']": {
+        "prompt": "Espa\u00f1ol: \"bolsillo\" - Nederlands: \"paperback\"\nEspa\u00f1ol: \"cuello\" - Nederlands: \"hals\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"dedos del pie\" - Nederlands: \"kleine teen\"\nEspa\u00f1ol: \"labio\" - Nederlands: \"",
+        "target": "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']",
+        "word original": "lip"
+    },
+    "['funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia']": {
+        "prompt": "Espa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"o\u00eddo\" - Nederlands: \"oor\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"martillo\" - Nederlands: \"hamerwerpen\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"",
+        "target": "['functie', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie']",
+        "word original": "map"
+    },
+    "['f\u00f3sforo', 'P', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo']": {
+        "prompt": "Espa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"patata\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"cama\" - Nederlands: \"bed\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"",
+        "target": "['fosfor', 'zwavelstokje', 'lucifer']",
+        "word original": "match"
+    },
+    "['mono', 'mico', 'simio']": {
+        "prompt": "Espa\u00f1ol: \"botella\" - Nederlands: \"fles\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Nederlands: \"hoek\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"kam\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"mono\" - Nederlands: \"",
+        "target": "['aap', 'apen']",
+        "word original": "monkey"
+    },
+    "['sat\u00e9lite', 'sat\u00e9lite artificial', 'satelite', 'orbitador']": {
+        "prompt": "Espa\u00f1ol: \"caballo\" - Nederlands: \"paard\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"arado\" - Nederlands: \"ploeg\"\nEspa\u00f1ol: \"rostro\" - Nederlands: \"tronie\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Nederlands: \"",
+        "target": "['satelliet', 'kunstmaan', 'wachter', 'bijplaneet', 'maan', 'trawant']",
+        "word original": "moon"
+    },
+    "['boca', 'cavidad oral', 'cavidad bucal', 'desembocadura', 'rima oris', 'entrada', 'zagu\u00e1n', 'recibidor', 'vest\u00edbulo', 'acceso', 'v\u00eda de acceso', 'ingreso', 'nariz']": {
+        "prompt": "Espa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"cable\" - Nederlands: \"kabeltelevisie\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"kam\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"ojos\" - Nederlands: \"oogbol\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"",
+        "target": "['mond', 'bek', 'muil', 'riviermond', 'monding', 'ingang', 'entree', 'toegangsdeur', 'hal', 'reukorgaan', 'snufferd', 'snotkoker', 'neus']",
+        "word original": "mouth"
+    },
+    "['m\u00fasculo', 'tejido muscular']": {
+        "prompt": "Espa\u00f1ol: \"hilo\" - Nederlands: \"garen\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Nederlands: \"verlichting\"\nEspa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"manantial\" - Nederlands: \"bron\"\nEspa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"",
+        "target": "['spier', 'spierweefsel']",
+        "word original": "muscle"
+    },
+    "['u\u00f1a', 'garra', 'clavo', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"labio\" - Nederlands: \"lip\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"pulgar\" - Nederlands: \"duim\"\nEspa\u00f1ol: \"trampa\" - Nederlands: \"het in klemmen vangen\"\nEspa\u00f1ol: \"u\u00f1a\" - Nederlands: \"",
+        "target": "['vingernagel', 'nagel', 'spijker', 'draadnagel']",
+        "word original": "nail"
+    },
+    "['cuello', 'pescuezo', 'nuca', 'cerviz']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Nederlands: \"wolk\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"pulgar\" - Nederlands: \"duim\"\nEspa\u00f1ol: \"dedos del pie\" - Nederlands: \"kleine teen\"\nEspa\u00f1ol: \"video\" - Nederlands: \"televisie\"\nEspa\u00f1ol: \"cuello\" - Nederlands: \"",
+        "target": "['hals', 'nek', 'flessenhals']",
+        "word original": "neck"
+    },
+    "['nervio', 'nervus']": {
+        "prompt": "Espa\u00f1ol: \"memoria\" - Nederlands: \"retorica\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"u\u00f1a\" - Nederlands: \"vingernagel\"\nEspa\u00f1ol: \"nervio\" - Nederlands: \"",
+        "target": "['zenuw']",
+        "word original": "nerve"
+    },
+    "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio', 'malla', 'rejilla']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"hormiga\" - Nederlands: \"mier\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"llave\" - Nederlands: \"klep\"\nEspa\u00f1ol: \"red de computadoras\" - Nederlands: \"",
+        "target": "['netwerk', 'computernetwerk', 'Internet', 'cyberspace', 'internet', 'gaas', 'net', 'breisteek', 'vangnet']",
+        "word original": "net"
+    },
+    "['nariz', '\u00f3rgano olfactivo', 'olfato', 'boca']": {
+        "prompt": "Espa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"botella\" - Nederlands: \"fles\"\nEspa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"puerta\" - Nederlands: \"poort\"\nEspa\u00f1ol: \"nariz\" - Nederlands: \"",
+        "target": "['neus', 'snufferd', 'snotkoker', 'reukorgaan', 'mond', 'muil']",
+        "word original": "nose"
+    },
+    "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'r\u00e9gimen pol\u00edtico', 'gobierno', 'r\u00e9gimen', 'l\u00edder', 'jefe', 'cabeza', 'dirigente']": {
+        "prompt": "Espa\u00f1ol: \"cepillo del pelo\" - Nederlands: \"borstel\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"tarifa\" - Nederlands: \"honorarium\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"comit\u00e9\" - Nederlands: \"commissie\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"",
+        "target": "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'regime', 'staatsapparaat', 'regering', 'overheidsapparaat', 'leider', 'hoofd', 'directeur', 'chef', 'baas', 'meester', 'meesteres']",
+        "word original": "office"
+    },
+    "['naranja', 'anaranjado']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Nederlands: \"rok\"\nEspa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"spier\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"kantoor\"\nEspa\u00f1ol: \"naranja\" - Nederlands: \"",
+        "target": "['oranje']",
+        "word original": "orange"
+    },
+    "['horno', 'alto horno', 'estufa', 'horno de pan', 'panader\u00eda', 'tahona']": {
+        "prompt": "Espa\u00f1ol: \"dolina\" - Nederlands: \"dal\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"cuchillo\" - Nederlands: \"mes\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"horno\" - Nederlands: \"",
+        "target": "['hoogoven', 'bakoven', 'oven', 'bakkerij']",
+        "word original": "oven"
+    },
+    "['paquete', 'elementos de programaci\u00f3n', 'programa inform\u00e1tico', 'programa', 'programa de computaci\u00f3n', 'programa de ordenador', 'software', 'sistema software']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"arado\" - Nederlands: \"ploeg\"\nEspa\u00f1ol: \"botella\" - Nederlands: \"fles\"\nEspa\u00f1ol: \"fuete\" - Nederlands: \"zweep\"\nEspa\u00f1ol: \"garganta\" - Nederlands: \"kloof\"\nEspa\u00f1ol: \"paquete\" - Nederlands: \"",
+        "target": "['programma', 'software', 'softwaresysteem', 'programmatuur', 'vrachtstuk', 'pakje', 'pak', 'pakket']",
+        "word original": "parcel"
+    },
+    "['l\u00e1piz']": {
+        "prompt": "Espa\u00f1ol: \"gota\" - Nederlands: \"jicht\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"cuello\" - Nederlands: \"hals\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"tarifa\" - Nederlands: \"honorarium\"\nEspa\u00f1ol: \"l\u00e1piz\" - Nederlands: \"",
+        "target": "['crayon', 'potlood', 'kwastje', 'penseel']",
+        "word original": "pencil"
+    },
+    "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine', 'embuste', 'mentira', 'mentirijilla', 'mentirilla', 'mentira de emergencia', 'mentira blanca', 'infundio', 'historia', 'trola', 'patra\u00f1a', 'falsedad', 'bola', 'cinema', 'celuloide']": {
+        "prompt": "Espa\u00f1ol: \"labio\" - Nederlands: \"lip\"\nEspa\u00f1ol: \"cuadrado\" - Nederlands: \"vierkant\"\nEspa\u00f1ol: \"domingo\" - Nederlands: \"zondag\"\nEspa\u00f1ol: \"cigarro\" - Nederlands: \"sigaret\"\nEspa\u00f1ol: \"tarifa\" - Nederlands: \"honorarium\"\nEspa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"",
+        "target": "['film', 'rolprent', 'leugentje om bestwil', 'leugen', 'filmkunst', 'cinematografie']",
+        "word original": "picture"
+    },
+    "['marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'porc', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'Sus scrofa']": {
+        "prompt": "Espa\u00f1ol: \"b\u00e9isbol\" - Nederlands: \"honkbal\"\nEspa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"broek\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"marrano\" - Nederlands: \"",
+        "target": "['varken', 'zwijn', 'echte zwijnen', 'krulstaart']",
+        "word original": "pig"
+    },
+    "['ducto', 'tuber\u00eda', 'conducto', 'conducto de agua', 'acueducto', 'Tuber\u00eda', 'tuber\u00edas', 'ca\u00f1er\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"pescado\" - Nederlands: \"vissen\"\nEspa\u00f1ol: \"ala\" - Nederlands: \"alanine\"\nEspa\u00f1ol: \"nariz\" - Nederlands: \"neus\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"trein\"\nEspa\u00f1ol: \"ducto\" - Nederlands: \"",
+        "target": "['waterleiding', 'aquaduct', 'pijp', 'leiding', 'buis', 'leidingwerk']",
+        "word original": "pipe"
+    },
+    "['avi\u00f3n', 'aeronave', 'aeroplano']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"nube\" - Nederlands: \"wolk\"\nEspa\u00f1ol: \"amortiguador\" - Nederlands: \"schokbreker\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"strijdkrachten\"\nEspa\u00f1ol: \"avi\u00f3n\" - Nederlands: \"",
+        "target": "['toestel', 'kist', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']",
+        "word original": "plane"
+    },
+    "['placa', 'chapa', 'patente', 'matr\u00edcula', 'tablilla', 'distintivo', 'insignia', 'pin', 'medalla', 'piocha', 'plancha']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"ganado bovino\" - Nederlands: \"rundvee\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"cepillo del pelo\" - Nederlands: \"borstel\"\nEspa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"placa\" - Nederlands: \"",
+        "target": "['kentekenplaat', 'nummerbord', 'nummerplaat', 'ereteken', 'badge']",
+        "word original": "plate"
+    },
+    "['arado', 'arar', 'arada']": {
+        "prompt": "Espa\u00f1ol: \"constituci\u00f3n\" - Nederlands: \"organisatorisch\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"cola\" - Nederlands: \"konvooi\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"kam\"\nEspa\u00f1ol: \"arado\" - Nederlands: \"",
+        "target": "['ploeg']",
+        "word original": "plough"
+    },
+    "['bolsillo', 'encuadernaci\u00f3n de tapa blanda', 'r\u00fastica', 'encuadernaci\u00f3n en r\u00fastica', 'libro de bolsillo', 'bolsa']": {
+        "prompt": "Espa\u00f1ol: \"barco de vela\" - Nederlands: \"zeilschip\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"estrella\" - Nederlands: \"zon\"\nEspa\u00f1ol: \"domingo\" - Nederlands: \"zondag\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Nederlands: \"seizoen\"\nEspa\u00f1ol: \"bolsillo\" - Nederlands: \"",
+        "target": "['paperback', 'pocket', 'zakuitgave', 'pocketboek', 'zak', 'broekzak']",
+        "word original": "pocket"
+    },
+    "['inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"cuchillo\" - Nederlands: \"mes\"\nEspa\u00f1ol: \"huevo de gallina\" - Nederlands: \"ei\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Nederlands: \"vogel\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"inodoro\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'privaat', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']",
+        "word original": "pot"
+    },
+    "['patata', 'papa', 'Solanum tuberosum', 'tater']": {
+        "prompt": "Espa\u00f1ol: \"c\u00e1scara de manzana\" - Nederlands: \"appelschil\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"paraguas\" - Nederlands: \"paraplu\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Nederlands: \"verlichting\"\nEspa\u00f1ol: \"patata\" - Nederlands: \"",
+        "target": "['patat', 'aardappel', 'pieper', 'knol']",
+        "word original": "potato"
+    },
+    "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']": {
+        "prompt": "Espa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"placa\" - Nederlands: \"kentekenplaat\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"",
+        "target": "['nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot']",
+        "word original": "prison"
+    },
+    "['v\u00eda', 'calle', 'rieles', 'v\u00eda del ferrocarril', 'v\u00eda f\u00e9rrea', 'ferrocarriles', 'ferrocarril', 'modo', 'manera', 'guisa', 'moda', 'forma', 'estilo']": {
+        "prompt": "Espa\u00f1ol: \"m\u00fasculo\" - Nederlands: \"spier\"\nEspa\u00f1ol: \"espada\" - Nederlands: \"zwaard\"\nEspa\u00f1ol: \"bote\" - Nederlands: \"boot\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Nederlands: \"verlichting\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"",
+        "target": "['straat', 'rail', 'spoor', 'spoorweg', 'spoorlijn', 'spoorwegconstructie', 'wijze', 'manier', 'stijl', 'wijs', 'trant', 'modus', 'mode', 'aanpak']",
+        "word original": "rail"
+    },
+    "['rata', 'Rattus', 'rat', 'rattus', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"mond\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"rata\" - Nederlands: \"",
+        "target": "['rat', 'Rattus', 'bruine rat', 'muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje']",
+        "word original": "rat"
+    },
+    "['factura', 'albar\u00e1n', 'recibo', 'cuenta']": {
+        "prompt": "Espa\u00f1ol: \"manantial\" - Nederlands: \"bron\"\nEspa\u00f1ol: \"reloj\" - Nederlands: \"uurwerk\"\nEspa\u00f1ol: \"hilo\" - Nederlands: \"garen\"\nEspa\u00f1ol: \"estampilla\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"factura\" - Nederlands: \"",
+        "target": "['factuur', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening']",
+        "word original": "receipt"
+    },
+    "['castigo corporal', 'castigo f\u00edsico']": {
+        "prompt": "Espa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Nederlands: \"honkbal\"\nEspa\u00f1ol: \"barco de vela\" - Nederlands: \"zeilschip\"\nEspa\u00f1ol: \"bandera\" - Nederlands: \"vaan\"\nEspa\u00f1ol: \"ladrillo\" - Nederlands: \"klinker\"\nEspa\u00f1ol: \"castigo corporal\" - Nederlands: \"",
+        "target": "['lijfstraf']",
+        "word original": "rod"
+    },
+    "['techumbre', 'techo', 'cubierta', 'tejado']": {
+        "prompt": "Espa\u00f1ol: \"barbilla\" - Nederlands: \"kin\"\nEspa\u00f1ol: \"bolso\" - Nederlands: \"tas\"\nEspa\u00f1ol: \"lavabo\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"piel\" - Nederlands: \"vel\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Nederlands: \"hoek\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"",
+        "target": "['dak']",
+        "word original": "roof"
+    },
+    "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']": {
+        "prompt": "Espa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"u\u00f1a\" - Nederlands: \"vingernagel\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"bolso\" - Nederlands: \"tas\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"barco de vela\" - Nederlands: \"",
+        "target": "['zeilschip']",
+        "word original": "sail"
+    },
+    "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'college']": {
+        "prompt": "Espa\u00f1ol: \"guante\" - Nederlands: \"handschoen\"\nEspa\u00f1ol: \"casaca\" - Nederlands: \"jas\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"ojos\" - Nederlands: \"oogbol\"\nEspa\u00f1ol: \"cable\" - Nederlands: \"kabeltelevisie\"\nEspa\u00f1ol: \"universidad\" - Nederlands: \"",
+        "target": "['universiteit', 'academie', 'school', 'college', 'scholengemeenschap', 'faculteit', 'genootschap', 'maatschappij', 'unief', 'universitair']",
+        "word original": "school"
+    },
+    "['sax', 'tijeras', 'tijera']": {
+        "prompt": "Espa\u00f1ol: \"martillo\" - Nederlands: \"hamerwerpen\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"memoria\" - Nederlands: \"retorica\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Nederlands: \"identiteitskaart\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"",
+        "target": "['schaar']",
+        "word original": "scissors"
+    },
+    "['semilla', 'pepita', 'simiente']": {
+        "prompt": "Espa\u00f1ol: \"o\u00eddo\" - Nederlands: \"oor\"\nEspa\u00f1ol: \"lavabo\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"puente\" - Nederlands: \"brug\"\nEspa\u00f1ol: \"manantial\" - Nederlands: \"bron\"\nEspa\u00f1ol: \"trampa\" - Nederlands: \"het in klemmen vangen\"\nEspa\u00f1ol: \"semilla\" - Nederlands: \"",
+        "target": "['zaad']",
+        "word original": "seed"
+    },
+    "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia']": {
+        "prompt": "Espa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"paquete\" - Nederlands: \"programma\"\nEspa\u00f1ol: \"fuete\" - Nederlands: \"zweep\"\nEspa\u00f1ol: \"puente\" - Nederlands: \"brug\"\nEspa\u00f1ol: \"nudo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"",
+        "target": "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']",
+        "word original": "sheep"
+    },
+    "['estante', 'biblioteca', 'estanter\u00eda', 'librero', 'librer\u00eda', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"broek\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"ba\u00f1o\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"timbre\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"estante\" - Nederlands: \"",
+        "target": "['boekenkast', 'plank', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']",
+        "word original": "shelf"
+    },
+    "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'transbordador', 'ferry', 'ferri', 'bote', 'barca', 'barcos', 'casco', 'vaso']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Nederlands: \"rok\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"biblioteca\" - Nederlands: \"bibliotheek\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"mond\"\nEspa\u00f1ol: \"placa\" - Nederlands: \"kentekenplaat\"\nEspa\u00f1ol: \"barco\" - Nederlands: \"",
+        "target": "['schip', 'kiel', 'veerpont', 'veer', 'pont', 'veerboot', 'pontveer', 'ferryboot', 'ferry', 'veerdienst', 'boot', 'vaartuig', 'watervaartuig']",
+        "word original": "ship"
+    },
+    "['camisa', 'su\u00e9ter', 'camiseta', 'jersey', 'playera', 'Camiseta manga larga', 'polera', 't-shirt', 'niqui']": {
+        "prompt": "Espa\u00f1ol: \"manantial\" - Nederlands: \"bron\"\nEspa\u00f1ol: \"queso\" - Nederlands: \"kaas\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"ropa\" - Nederlands: \"kledij\"\nEspa\u00f1ol: \"hueso\" - Nederlands: \"knok\"\nEspa\u00f1ol: \"camisa\" - Nederlands: \"",
+        "target": "['t-shirt', 'pullover', 'T-shirt', 't-shirt met lange mouwen', 'hemd', 'shirt', 'overhemd']",
+        "word original": "shirt"
+    },
+    "['zapato']": {
+        "prompt": "Espa\u00f1ol: \"video\" - Nederlands: \"televisie\"\nEspa\u00f1ol: \"diente\" - Nederlands: \"gebitselement\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"broek\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"sierpe\" - Nederlands: \"slang\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"",
+        "target": "['schoen', 'aansteker']",
+        "word original": "tongue"
+    },
+    "['piel', 'cutis', 'tegumento', 'cuero', 'marroquiner\u00eda', 'pelaje']": {
+        "prompt": "Espa\u00f1ol: \"casaca\" - Nederlands: \"jas\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"zapato\" - Nederlands: \"schoen\"\nEspa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"piel\" - Nederlands: \"",
+        "target": "['vel', 'huid', 'skinhead', 'onderhuid', 'leder', 'lederwaren', 'leer', 'bont', 'pels', 'vacht']",
+        "word original": "skin"
+    },
+    "['falda', 'saya', 'enaguas', 'pollera', 'inclinaci\u00f3n', 'pendiente', 'subida', 'cuesta']": {
+        "prompt": "Espa\u00f1ol: \"esponja\" - Nederlands: \"spons\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"mesa\" - Nederlands: \"plateau\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"meisje\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"falda\" - Nederlands: \"",
+        "target": "['rok', 'schuinte', 'glooiing', 'helling', 'val']",
+        "word original": "skirt"
+    },
+    "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Nederlands: \"boerenbedrijf\"\nEspa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Nederlands: \"fotocamera\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"sierpe\" - Nederlands: \"",
+        "target": "['slang', 'serpent', 'slangen']",
+        "word original": "snake"
+    },
+    "['calcet\u00edn', 'media', 'calcetines']": {
+        "prompt": "Espa\u00f1ol: \"calle\" - Nederlands: \"baan\"\nEspa\u00f1ol: \"pie\" - Nederlands: \"Proto-Indo-Europees\"\nEspa\u00f1ol: \"patata\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "sock"
+    },
+    "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']": {
+        "prompt": "Espa\u00f1ol: \"c\u00edrculo\" - Nederlands: \"kring\"\nEspa\u00f1ol: \"econom\u00eda\" - Nederlands: \"economie\"\nEspa\u00f1ol: \"patata\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"bandera\" - Nederlands: \"vaan\"\nEspa\u00f1ol: \"ropa\" - Nederlands: \"kledij\"\nEspa\u00f1ol: \"esponja\" - Nederlands: \"",
+        "target": "['spons', 'sponzen', 'sponsdieren']",
+        "word original": "sponge"
+    },
+    "['cuchara']": {
+        "prompt": "Espa\u00f1ol: \"bandera\" - Nederlands: \"vaan\"\nEspa\u00f1ol: \"ala\" - Nederlands: \"alanine\"\nEspa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"boca\" - Nederlands: \"mond\"\nEspa\u00f1ol: \"mesa\" - Nederlands: \"plateau\"\nEspa\u00f1ol: \"cuchara\" - Nederlands: \"",
+        "target": "['lepel']",
+        "word original": "spoon"
+    },
+    "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"timbre\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"fosfor\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"ba\u00f1o\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"manantial\" - Nederlands: \"",
+        "target": "['bron', 'wel', 'fontein']",
+        "word original": "spring"
+    },
+    "['cuadrado', 'cuadro', 'cuadrado perfecto']": {
+        "prompt": "Espa\u00f1ol: \"cama\" - Nederlands: \"bed\"\nEspa\u00f1ol: \"bolsillo\" - Nederlands: \"paperback\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"espada\" - Nederlands: \"zwaard\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"cuadrado\" - Nederlands: \"",
+        "target": "['vierkant', 'carr\u00e9', 'kwadraat', 'tweede macht']",
+        "word original": "square"
+    },
+    "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']": {
+        "prompt": "Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"estampilla\" - Nederlands: \"",
+        "target": "['postzegel', 'zegel', 'herenakkoord']",
+        "word original": "stamp"
+    },
+    "['estrella', 'astro', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha', 'artista', 'protagonista']": {
+        "prompt": "Espa\u00f1ol: \"f\u00f3sforo\" - Nederlands: \"fosfor\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"meisje\"\nEspa\u00f1ol: \"estampilla\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"ala\" - Nederlands: \"alanine\"\nEspa\u00f1ol: \"ave de corral\" - Nederlands: \"gevogelte\"\nEspa\u00f1ol: \"estrella\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje', 'vedette', 'superster', 'expert', 'zelf-benoemde expert', 'adept', 'Maven', 'deskundige', 'zelf-benoemde specialist', 'kanjer', 'hoogvlieger', 'kei', 'topper', 'genie', 'aas', 'kraan', 'bollebof', 'licht', 'meesteres', 'knapperd', 'grootmeester', 'meester', 'crack', 'coryfee', 'virtuoos', 'meesterbrein', 'specialist', 'bolleboos', 'raspaardje', 'uitblinker', 'duivelskunstenaar', 'hoofdrolspeler']",
+        "word original": "star"
+    },
+    "['estaci\u00f3n', 'temporada', 'temporada de un club deportivo', 'temporada deportiva', 'per\u00edodo', 'estaci\u00f3n del a\u00f1o', 'estaciones del a\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Nederlands: \"netwerk\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"castigo corporal\" - Nederlands: \"lijfstraf\"\nEspa\u00f1ol: \"l\u00e1piz\" - Nederlands: \"crayon\"\nEspa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Nederlands: \"",
+        "target": "['seizoen', 'sportseizoen van een competitie', 'speelseizoen van sportvereniging', 'jaargetijde', 'jaargetij', 'station']",
+        "word original": "station"
+    },
+    "['tallo']": {
+        "prompt": "Espa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"film\"\nEspa\u00f1ol: \"\u00e1rbol\" - Nederlands: \"boom\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"hueso\" - Nederlands: \"knok\"\nEspa\u00f1ol: \"gato\" - Nederlands: \"kat\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"",
+        "target": "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven']",
+        "word original": "stem"
+    },
+    "['cigarro', 'cigarrillo', 'colilla', 'pitillo', 'no fumador', 'h\u00e1bito de fumar', 'fumar', 'fumada', 'puro', 'cigarro puro', 'chicote', 'tagarnina']": {
+        "prompt": "Espa\u00f1ol: \"avi\u00f3n\" - Nederlands: \"toestel\"\nEspa\u00f1ol: \"memoria\" - Nederlands: \"retorica\"\nEspa\u00f1ol: \"tallo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"dedos del pie\" - Nederlands: \"kleine teen\"\nEspa\u00f1ol: \"cigarro\" - Nederlands: \"",
+        "target": "['sigaret', 'peuk', 'sigarettenpeuk', 'kankerstok', 'saffie', 'sjekkie', 'strootje', 'shagje', 'roken', 'sigaar']",
+        "word original": "stick"
+    },
+    "['medias', 'media']": {
+        "prompt": "Espa\u00f1ol: \"dolina\" - Nederlands: \"dal\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"kantoor\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"medias\" - Nederlands: \"",
+        "target": "['kous', 'kousje']",
+        "word original": "stocking"
+    },
+    "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero']": {
+        "prompt": "Espa\u00f1ol: \"lavabo\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"video\" - Nederlands: \"televisie\"\nEspa\u00f1ol: \"nervio\" - Nederlands: \"zenuw\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"pel\u00edcula\" - Nederlands: \"film\"\nEspa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"",
+        "target": "['maag', 'buik']",
+        "word original": "stomach"
+    },
+    "['memoria', 'ret\u00f3rica', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional', 'estudio', 'reporte', 'informe']": {
+        "prompt": "Espa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"estante\" - Nederlands: \"boekenkast\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"taza\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"memoria\" - Nederlands: \"",
+        "target": "['retorica', 'redekunde', 'geheugen', 'nagedachtenis', 'opslagmedium', 'computergeheugen', 'intern geheugen', 'geheugeneenheid', 'studie', 'rapport', 'verslag']",
+        "word original": "store"
+    },
+    "['calle', 'carretera', 'camino', 'itinerario', 'ruta', 'rua']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"ducto\" - Nederlands: \"waterleiding\"\nEspa\u00f1ol: \"cuadrado\" - Nederlands: \"vierkant\"\nEspa\u00f1ol: \"amortiguador\" - Nederlands: \"schokbreker\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"calle\" - Nederlands: \"",
+        "target": "['baan', 'straat', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']",
+        "word original": "street"
+    },
+    "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']": {
+        "prompt": "Espa\u00f1ol: \"cuchillo\" - Nederlands: \"mes\"\nEspa\u00f1ol: \"naranja\" - Nederlands: \"oranje\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"rata\" - Nederlands: \"rat\"\nEspa\u00f1ol: \"cajas\" - Nederlands: \"dozen\"\nEspa\u00f1ol: \"domingo\" - Nederlands: \"",
+        "target": "['zondag']",
+        "word original": "sun"
+    },
+    "['mesa', 'meseta', 'aljarafe', 'altiplano', 'ajarafe', 'altiplan\u00edcie']": {
+        "prompt": "Espa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"factura\" - Nederlands: \"factuur\"\nEspa\u00f1ol: \"pierna\" - Nederlands: \"been\"\nEspa\u00f1ol: \"estampilla\" - Nederlands: \"postzegel\"\nEspa\u00f1ol: \"jard\u00edn\" - Nederlands: \"tuin\"\nEspa\u00f1ol: \"mesa\" - Nederlands: \"",
+        "target": "['plateau', 'hoogland', 'hoogvlakte', 'tafel']",
+        "word original": "table"
+    },
+    "['cola', 'procesi\u00f3n', 'convoy', 'pompa', 'comparsa', 'comitiva', 'romer\u00eda', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'tren', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"espada\" - Nederlands: \"zwaard\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"hospital\" - Nederlands: \"verpleeginrichting\"\nEspa\u00f1ol: \"amortiguador\" - Nederlands: \"schokbreker\"\nEspa\u00f1ol: \"cuello\" - Nederlands: \"hals\"\nEspa\u00f1ol: \"cola\" - Nederlands: \"",
+        "target": "['konvooi', 'karavaan', 'processie', 'defil\u00e9', 'omgang', 'cort\u00e8ge', 'optocht', 'stoet', 'staart', 'versnelling', 'aandrijflijn', 'trein', 'derailleur']",
+        "word original": "tail"
+    },
+    "['hilo', 'hebra', 'hilado', 'lana', 'hilaza', 'cordel', 'mecate', 'cuerda', 'guita', 'bramante', 'cord\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"arresto\" - Nederlands: \"aanhouding\"\nEspa\u00f1ol: \"v\u00eda\" - Nederlands: \"straat\"\nEspa\u00f1ol: \"rata\" - Nederlands: \"rat\"\nEspa\u00f1ol: \"cigarro\" - Nederlands: \"sigaret\"\nEspa\u00f1ol: \"hilo\" - Nederlands: \"",
+        "target": "['garen', 'draad', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees']",
+        "word original": "thread"
+    },
+    "['garganta', 'ca\u00f1\u00f3n', 'desfiladero', 'ca\u00f1\u00f3', 'canon', 'congosto', 'can\u00f3n', 'barranca', 'faringe']": {
+        "prompt": "Espa\u00f1ol: \"nudo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"nube\" - Nederlands: \"wolk\"\nEspa\u00f1ol: \"fuerza\" - Nederlands: \"strijdkrachten\"\nEspa\u00f1ol: \"garganta\" - Nederlands: \"",
+        "target": "['kloof', 'hals', 'keel', 'gorgel', 'farynx', 'strot']",
+        "word original": "throat"
+    },
+    "['pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"rata\" - Nederlands: \"rat\"\nEspa\u00f1ol: \"pluma\" - Nederlands: \"pluim\"\nEspa\u00f1ol: \"barco\" - Nederlands: \"schip\"\nEspa\u00f1ol: \"mente\" - Nederlands: \"brein\"\nEspa\u00f1ol: \"pulgar\" - Nederlands: \"",
+        "target": "['duim']",
+        "word original": "thumb"
+    },
+    "['tarifa', 'honorario', 'tasa', 'cuota', 'honorarios', 'estipendio', 'pasaje', 'billete']": {
+        "prompt": "Espa\u00f1ol: \"veh\u00edculo ferroviario\" - Nederlands: \"wagon\"\nEspa\u00f1ol: \"casa\" - Nederlands: \"gebouw\"\nEspa\u00f1ol: \"ni\u00f1o\" - Nederlands: \"patat\"\nEspa\u00f1ol: \"nudo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"tarifa\" - Nederlands: \"",
+        "target": "['honorarium', 'prijs', 'heffing', 'gage', 'vacatie', 'inschrijvingsgeld', 'inschrijfgeld', 'collegegeld', 'vacatiegeld', 'veergeld', 'vervoersprijs', 'veerloon', 'tarief']",
+        "word original": "ticket"
+    },
+    "['dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie', 'dedo']": {
+        "prompt": "Espa\u00f1ol: \"placa\" - Nederlands: \"kentekenplaat\"\nEspa\u00f1ol: \"biblioteca\" - Nederlands: \"bibliotheek\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Nederlands: \"hoek\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"perra\" - Nederlands: \"hond\"\nEspa\u00f1ol: \"dedos del pie\" - Nederlands: \"",
+        "target": "['kleine teen', 'tenen', 'teen', 'kom nou']",
+        "word original": "toe"
+    },
+    "['diente', 'dientes', 'diente humano']": {
+        "prompt": "Espa\u00f1ol: \"est\u00f3mago\" - Nederlands: \"maag\"\nEspa\u00f1ol: \"cama\" - Nederlands: \"bed\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Nederlands: \"organisatorisch\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Nederlands: \"nor\"\nEspa\u00f1ol: \"anillo\" - Nederlands: \"ring\"\nEspa\u00f1ol: \"diente\" - Nederlands: \"",
+        "target": "['gebitselement', 'tand', 'tanden', 'menselijke tand']",
+        "word original": "tooth"
+    },
+    "['tren', 'ferrocarril', 'locomotora', 'trenes', 'convoy', 'procesi\u00f3n', 'cola', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"ropa\" - Nederlands: \"kledij\"\nEspa\u00f1ol: \"cuadrado\" - Nederlands: \"vierkant\"\nEspa\u00f1ol: \"cable\" - Nederlands: \"kabeltelevisie\"\nEspa\u00f1ol: \"chica\" - Nederlands: \"meisje\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"",
+        "target": "['trein', 'konvooi', 'karavaan', 'versnelling', 'aandrijflijn', 'derailleur']",
+        "word original": "train"
+    },
+    "['\u00e1rbol', 'arbol']": {
+        "prompt": "Espa\u00f1ol: \"arma de fuego\" - Nederlands: \"geweer\"\nEspa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"arco\" - Nederlands: \"boog en pijlen\"\nEspa\u00f1ol: \"pulgar\" - Nederlands: \"duim\"\nEspa\u00f1ol: \"ojos\" - Nederlands: \"oogbol\"\nEspa\u00f1ol: \"\u00e1rbol\" - Nederlands: \"",
+        "target": "['boom']",
+        "word original": "tree"
+    },
+    "['pantal\u00f3n', 'pantalones', 'herales']": {
+        "prompt": "Espa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"sombrero\" - Nederlands: \"hoed\"\nEspa\u00f1ol: \"hormiga\" - Nederlands: \"mier\"\nEspa\u00f1ol: \"cortina\" - Nederlands: \"gordijn\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Nederlands: \"",
+        "target": "['broek']",
+        "word original": "trousers"
+    },
+    "['paraguas', 'sombrilla', 'parasol']": {
+        "prompt": "Espa\u00f1ol: \"techumbre\" - Nederlands: \"dak\"\nEspa\u00f1ol: \"o\u00eddo\" - Nederlands: \"oor\"\nEspa\u00f1ol: \"rodilla\" - Nederlands: \"knie\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"wand\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Nederlands: \"functie\"\nEspa\u00f1ol: \"paraguas\" - Nederlands: \"",
+        "target": "['paraplu', 'regenscherm']",
+        "word original": "umbrella"
+    },
+    "['pared', 'muro', 'muralla']": {
+        "prompt": "Espa\u00f1ol: \"fuete\" - Nederlands: \"zweep\"\nEspa\u00f1ol: \"nervio\" - Nederlands: \"zenuw\"\nEspa\u00f1ol: \"huevo de gallina\" - Nederlands: \"ei\"\nEspa\u00f1ol: \"motor\" - Nederlands: \"motorfiets\"\nEspa\u00f1ol: \"estrella\" - Nederlands: \"zon\"\nEspa\u00f1ol: \"pared\" - Nederlands: \"",
+        "target": "['wand', 'muur']",
+        "word original": "wall"
+    },
+    "['bicicleta', 'bici', 'bicicletas']": {
+        "prompt": "Espa\u00f1ol: \"ropa\" - Nederlands: \"kledij\"\nEspa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"calcet\u00edn\" - Nederlands: \"sok\"\nEspa\u00f1ol: \"inodoro\" - Nederlands: \"toilet\"\nEspa\u00f1ol: \"peine\" - Nederlands: \"kam\"\nEspa\u00f1ol: \"bicicleta\" - Nederlands: \"",
+        "target": "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros']",
+        "word original": "wheel"
+    },
+    "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']": {
+        "prompt": "Espa\u00f1ol: \"cuadrado\" - Nederlands: \"vierkant\"\nEspa\u00f1ol: \"nube\" - Nederlands: \"wolk\"\nEspa\u00f1ol: \"mono\" - Nederlands: \"aap\"\nEspa\u00f1ol: \"joya\" - Nederlands: \"sieraad\"\nEspa\u00f1ol: \"castigo corporal\" - Nederlands: \"lijfstraf\"\nEspa\u00f1ol: \"fuete\" - Nederlands: \"",
+        "target": "['zweep']",
+        "word original": "whip"
+    },
+    "['ventana']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Nederlands: \"hart\"\nEspa\u00f1ol: \"garganta\" - Nederlands: \"kloof\"\nEspa\u00f1ol: \"abeja\" - Nederlands: \"bij\"\nEspa\u00f1ol: \"trampa\" - Nederlands: \"het in klemmen vangen\"\nEspa\u00f1ol: \"nudo\" - Nederlands: \"stengel\"\nEspa\u00f1ol: \"ventana\" - Nederlands: \"",
+        "target": "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje']",
+        "word original": "window"
+    },
+    "['ala', 'alanina']": {
+        "prompt": "Espa\u00f1ol: \"sax\" - Nederlands: \"schaar\"\nEspa\u00f1ol: \"cabello\" - Nederlands: \"haar\"\nEspa\u00f1ol: \"ventana\" - Nederlands: \"raam\"\nEspa\u00f1ol: \"oveja\" - Nederlands: \"schaap\"\nEspa\u00f1ol: \"hilo\" - Nederlands: \"garen\"\nEspa\u00f1ol: \"ala\" - Nederlands: \"",
+        "target": "['alanine', 'vleugel', 'vlerk', 'wiek']",
+        "word original": "wing"
+    },
+    "['cable', 'televisi\u00f3n por cable', 'alambre']": {
+        "prompt": "Espa\u00f1ol: \"pastel\" - Nederlands: \"cake\"\nEspa\u00f1ol: \"autoridad\" - Nederlands: \"kantoor\"\nEspa\u00f1ol: \"arma\" - Nederlands: \"wapen\"\nEspa\u00f1ol: \"econom\u00eda\" - Nederlands: \"economie\"\nEspa\u00f1ol: \"pie\" - Nederlands: \"Proto-Indo-Europees\"\nEspa\u00f1ol: \"cable\" - Nederlands: \"",
+        "target": "['kabeltelevisie', 'kabel', 'kabelnet', 'kabelnetwerk', 'draad', 'snoer', 'elektriciteitsdraad', 'ader']",
+        "word original": "wire"
+    },
+    "['gusano', 'lombriz de tierra', 'Lumbricina', 'lombriz', 'Crassiclitellata', 'verme']": {
+        "prompt": "Espa\u00f1ol: \"balde\" - Nederlands: \"emmer\"\nEspa\u00f1ol: \"piel\" - Nederlands: \"vel\"\nEspa\u00f1ol: \"gato\" - Nederlands: \"kat\"\nEspa\u00f1ol: \"tren\" - Nederlands: \"trein\"\nEspa\u00f1ol: \"bicicleta\" - Nederlands: \"fiets\"\nEspa\u00f1ol: \"gusano\" - Nederlands: \"",
+        "target": "['aardworm', 'regenworm', 'Lumbricina', 'pier', 'worm', 'wormen', 'wurm']",
+        "word original": "worm"
+    }
+}

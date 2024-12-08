@@ -1,0 +1,862 @@
+{
+    "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios']": {
+        "prompt": "Espa\u00f1ol: \"v\u00eda\" - Suomi: \"katu\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Suomi: \"organisaatio\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Suomi: \"funktio\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Suomi: \"",
+        "target": "['suplementtikulmat', 'Suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma']",
+        "word original": "angle"
+    },
+    "['hormiga', 'Formicidae', 'formicidae']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00f1o\" - Suomi: \"potta\"\nEspa\u00f1ol: \"gusano\" - Suomi: \"lierot\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"cola\" - Suomi: \"Ristisaatto\"\nEspa\u00f1ol: \"boca\" - Suomi: \"suu\"\nEspa\u00f1ol: \"hormiga\" - Suomi: \"",
+        "target": "['muurahainen', 'muurahaiset', 'kusiainen']",
+        "word original": "ant"
+    },
+    "['c\u00e1scara de manzana', 'manzana']": {
+        "prompt": "Espa\u00f1ol: \"piel\" - Suomi: \"iho\"\nEspa\u00f1ol: \"econom\u00eda\" - Suomi: \"talosel\u00e4m\u00e4\"\nEspa\u00f1ol: \"bote\" - Suomi: \"vene\"\nEspa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"",
+        "target": "['omena']",
+        "word original": "apple"
+    },
+    "['arco', 'arco y flecha', 'chispa', 'arco el\u00e9ctrico', 'descarga el\u00e9ctrica', 'chispa el\u00e9ctrica', 'centella', 'arco voltaico']": {
+        "prompt": "Espa\u00f1ol: \"gato\" - Suomi: \"mirri\"\nEspa\u00f1ol: \"garganta\" - Suomi: \"kanjoni\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"l\u00e4hde\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"arco\" - Suomi: \"",
+        "target": "['jousi', 'jousi ja nuoli', 'jousipyssy', 's\u00e4hk\u00f6kipin\u00e4', 'valokaari', 'Valokaari', 'kipin\u00e4', 's\u00e4hk\u00f6purkaus', 's\u00e4hk\u00f6valokaari', 'purkaus', 'kaari']",
+        "word original": "arch"
+    },
+    "['arma', 'arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'pistola', 'armamento']": {
+        "prompt": "Espa\u00f1ol: \"estante\" - Suomi: \"kirjahylly\"\nEspa\u00f1ol: \"ladrillo\" - Suomi: \"tiili\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"perra\" - Suomi: \"koira\"\nEspa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"arma\" - Suomi: \"",
+        "target": "['ase', 'astalo', 'ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy', 'aseistus']",
+        "word original": "arm"
+    },
+    "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas', 'violencia', 'vigor', 'intensidad', 'intensidad sonora', 'volumen', 'intensidad de sonido', 'sonoridad', '\u00f1eque', 'fortaleza', 'empuje', 'impulso', 'poder\u00edo', 'potencia', 'poder']": {
+        "prompt": "Espa\u00f1ol: \"cuadrado\" - Suomi: \"neli\u00f6\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"u\u00f1a\" - Suomi: \"kynsi\"\nEspa\u00f1ol: \"pie\" - Suomi: \"indoeurooppalainen kantakieli\"\nEspa\u00f1ol: \"chica\" - Suomi: \"tytt\u00f6\"\nEspa\u00f1ol: \"fuerza\" - Suomi: \"",
+        "target": "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat', 'v\u00e4kivalta', 'voima', '\u00e4\u00e4nekkyys', 'kuuluvuus', '\u00e4\u00e4nenvoimakkuus', '\u00c4\u00e4nenvoimakkuus', 'volyymi', 'vahvuus', 'voimakkuus', 't\u00f6n\u00e4isy', 'ty\u00f6nt\u00f6', 'k\u00e4ytt\u00f6voima', 'ty\u00f6nt\u00f6voima', 'v\u00e4kevyys']",
+        "word original": "army"
+    },
+    "['ni\u00f1o', 'papa frita', 'ni\u00f1a', 'menor de edad', 'menor', 'joven', 'infancia', 'minor\u00eda de edad', 'jovenzuelo', 'mozalbete', 'chico', 'muchachuelo', 'chiq\u00fcelo', 'chiquillo', 'criatura', 'cr\u00edo', 'chango', 'pececillo', 'cr\u00eda', 'chaval', 'alev\u00edn', 'nene', 'tike', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'jovencito', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'mozo', 'ni\u00f1os', 'ninzzo', 'hijo', 'hija']": {
+        "prompt": "Espa\u00f1ol: \"casa\" - Suomi: \"julkinen rakennus\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"hueso\" - Suomi: \"luu\"\nEspa\u00f1ol: \"ganado bovino\" - Suomi: \"karja\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"",
+        "target": "['alaik\u00e4inen', 'lapsi', 'vekara', 'pikkumies', 'vinti\u00f6', 'napero', 'lapsukainen', 'kersa', 'pentu', 'tenava', 'ipana', 'muksu', 'pikkulapsi', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4', 'poika']",
+        "word original": "boy"
+    },
+    "['bolso', 'cartera', 'bulto', 'bolsa', 'bolsa de papel', 'costal', 'saco', 'bolsa pl\u00e1stica de compra']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"guante\" - Suomi: \"hansikas\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"l\u00e4hde\"\nEspa\u00f1ol: \"bolso\" - Suomi: \"",
+        "target": "['k\u00e4silaukku', 'K\u00e4silaukku', 'laukku', 'lompakko', 'kukkaro', 'pussi', 'kassi', 'muovikassi', 'paperikassi', 'paperipussi', 's\u00e4kki']",
+        "word original": "bag"
+    },
+    "['b\u00e9isbol', 'beisbol', 'baseball']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"marrano\" - Suomi: \"sika\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"kausi\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Suomi: \"",
+        "target": "['baseball', 'baseball-peli']",
+        "word original": "ball"
+    },
+    "['anillo', 'alianza', 'sortija']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"pared\" - Suomi: \"sein\u00e4\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"u\u00f1a\" - Suomi: \"kynsi\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"",
+        "target": "['sormus']",
+        "word original": "ring"
+    },
+    "['lavabo', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter', 'lavamanos', 'palangana', 'fregadero', 'pila']": {
+        "prompt": "Espa\u00f1ol: \"nudo\" - Suomi: \"varsi\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"housut\"\nEspa\u00f1ol: \"joya\" - Suomi: \"koru\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"lavabo\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'kylpyhuone', 'kylpyl\u00e4', 'toiletti', 'pesuhuone', 'amme', 'pesuallas', 'lavuaari', 'Lavuaari', 'viem\u00e4riallas']",
+        "word original": "basin"
+    },
+    "['ba\u00f1o', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'w\u00e1ter', 'retrete', 'abluci\u00f3n', 'lavatorio', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"labio\" - Suomi: \"huuli\"\nEspa\u00f1ol: \"avi\u00f3n\" - Suomi: \"ilma-alus\"\nEspa\u00f1ol: \"ba\u00f1o\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'Kylpeminen', 'kylpeminen', 'peseytyminen', 'kylpyhuone', 'kylpyl\u00e4', 'toiletti', 'pesuhuone']",
+        "word original": "bath"
+    },
+    "['cama', 'piltra', 'catre', 'sobre', 'lecho']": {
+        "prompt": "Espa\u00f1ol: \"dedos del pie\" - Suomi: \"varvas\"\nEspa\u00f1ol: \"ladrillo\" - Suomi: \"tiili\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"rodilla\" - Suomi: \"polvi\"\nEspa\u00f1ol: \"cama\" - Suomi: \"",
+        "target": "['vuode', 's\u00e4nky', 'peti']",
+        "word original": "bed"
+    },
+    "['abeja', 'Anthophila', 'anthophila']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"lavabo\" - Suomi: \"potta\"\nEspa\u00f1ol: \"arresto\" - Suomi: \"pid\u00e4tys\"\nEspa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"abeja\" - Suomi: \"",
+        "target": "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset']",
+        "word original": "bee"
+    },
+    "['timbre', 'estampilla', 'timbre postal', 'sello', 'sello postal', 'porte', 'franqueo', 'sello de correos', 'campanilla de puerta']": {
+        "prompt": "Espa\u00f1ol: \"peine\" - Suomi: \"kampa\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"estante\" - Suomi: \"kirjahylly\"\nEspa\u00f1ol: \"nariz\" - Suomi: \"nen\u00e4\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"",
+        "target": "['postimerkki', 'merkki', 'sinetti', 'leimasin', 'leima', 'ovikello', 'Ovikello', 'ovisummeri']",
+        "word original": "bell"
+    },
+    "['p\u00e1jaro', 'ave', 'aves']": {
+        "prompt": "Espa\u00f1ol: \"pel\u00edcula\" - Suomi: \"filmi\"\nEspa\u00f1ol: \"joya\" - Suomi: \"koru\"\nEspa\u00f1ol: \"jard\u00edn\" - Suomi: \"puutarha\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"l\u00e4hde\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Suomi: \"",
+        "target": "['linnut', 'lintu']",
+        "word original": "bird"
+    },
+    "['espada', 'garrancha', 'albacora', 'pez espada', 'Xiphias gladius', 'Pez espada', 'xiphias gladius']": {
+        "prompt": "Espa\u00f1ol: \"gato\" - Suomi: \"mirri\"\nEspa\u00f1ol: \"garganta\" - Suomi: \"kanjoni\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"v\u00eda\" - Suomi: \"katu\"\nEspa\u00f1ol: \"llave\" - Suomi: \"venttiili\"\nEspa\u00f1ol: \"espada\" - Suomi: \"",
+        "target": "['miekka', 'kalpa', 'miekkakala', 'Miekkakala', 'Xiphias gladius']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'comisi\u00f3n', 'bur\u00f3', 'junta', 'consejo']": {
+        "prompt": "Espa\u00f1ol: \"cajas\" - Suomi: \"laatikko\"\nEspa\u00f1ol: \"paquete\" - Suomi: \"ohjelmisto\"\nEspa\u00f1ol: \"estampilla\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"bote\" - Suomi: \"vene\"\nEspa\u00f1ol: \"ojos\" - Suomi: \"silm\u00e4muna\"\nEspa\u00f1ol: \"comit\u00e9\" - Suomi: \"",
+        "target": "['komitea', 'valiokunta', 'toimikunta', 'lautakunta', 'hallitus']",
+        "word original": "board"
+    },
+    "['bote', 'barco', 'barca', 'barcos', 'nave', 'embarcaci\u00f3n', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'lata']": {
+        "prompt": "Espa\u00f1ol: \"peine\" - Suomi: \"kampa\"\nEspa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"rodilla\" - Suomi: \"polvi\"\nEspa\u00f1ol: \"tren\" - Suomi: \"juna\"\nEspa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"bote\" - Suomi: \"",
+        "target": "['vene', 'potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 's\u00e4ilykepurkki', 's\u00e4ilyket\u00f6lkki', 'metalliastia', 't\u00f6lkki', 'purkki']",
+        "word original": "boat"
+    },
+    "['hueso', 'os']": {
+        "prompt": "Espa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"iglesia\" - Suomi: \"kirkko\"\nEspa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"hueso\" - Suomi: \"",
+        "target": "['luu', 'os']",
+        "word original": "bone"
+    },
+    "['botella', 'frasco']": {
+        "prompt": "Espa\u00f1ol: \"paraguas\" - Suomi: \"sateenvarjo\"\nEspa\u00f1ol: \"ojos\" - Suomi: \"silm\u00e4muna\"\nEspa\u00f1ol: \"abeja\" - Suomi: \"mehil\u00e4iset\"\nEspa\u00f1ol: \"queso\" - Suomi: \"juusto\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"botella\" - Suomi: \"",
+        "target": "['pullo']",
+        "word original": "bottle"
+    },
+    "['cajas', 'caja']": {
+        "prompt": "Espa\u00f1ol: \"rodilla\" - Suomi: \"polvi\"\nEspa\u00f1ol: \"estante\" - Suomi: \"kirjahylly\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"cepillo del pelo\" - Suomi: \"harja\"\nEspa\u00f1ol: \"cajas\" - Suomi: \"",
+        "target": "['laatikko', 'rasia', 'aski']",
+        "word original": "box"
+    },
+    "['mente', 'psique', 'Nous', 'nous', 'cabeza', 'cerebro', 'raz\u00f3n', 'intelecto', 'entendimiento', 'inteligencia', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"casa\" - Suomi: \"julkinen rakennus\"\nEspa\u00f1ol: \"balde\" - Suomi: \"\u00e4mp\u00e4ri\"\nEspa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"bicicleta\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEspa\u00f1ol: \"mente\" - Suomi: \"",
+        "target": "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'nous', 'j\u00e4rki', '\u00e4lli', 'J\u00e4rki', 'ymm\u00e4rrys', 'tolkku', 'lanttu', 'kallo']",
+        "word original": "head"
+    },
+    "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas', 'sistema econ\u00f3mico']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"hueso\" - Suomi: \"luu\"\nEspa\u00f1ol: \"o\u00eddo\" - Suomi: \"korva\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"nudo\" - Suomi: \"varsi\"\nEspa\u00f1ol: \"econom\u00eda\" - Suomi: \"",
+        "target": "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia', 's\u00e4\u00e4st\u00e4v\u00e4isyys', 'talous', 'talousj\u00e4rjestelm\u00e4']",
+        "word original": "branch"
+    },
+    "['ladrillo']": {
+        "prompt": "Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Suomi: \"funktio\"\nEspa\u00f1ol: \"gota\" - Suomi: \"kihti\"\nEspa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"paquete\" - Suomi: \"ohjelmisto\"\nEspa\u00f1ol: \"ganado bovino\" - Suomi: \"karja\"\nEspa\u00f1ol: \"ladrillo\" - Suomi: \"",
+        "target": "['tiili', 'tiiliskivi']",
+        "word original": "brick"
+    },
+    "['puente', 'b\u00f3veda']": {
+        "prompt": "Espa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"nariz\" - Suomi: \"nen\u00e4\"\nEspa\u00f1ol: \"oveja\" - Suomi: \"lammas\"\nEspa\u00f1ol: \"jard\u00edn\" - Suomi: \"puutarha\"\nEspa\u00f1ol: \"puente\" - Suomi: \"",
+        "target": "['silta']",
+        "word original": "bridge"
+    },
+    "['cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']": {
+        "prompt": "Espa\u00f1ol: \"hospital\" - Suomi: \"sairaala\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"calle\" - Suomi: \"tie\"\nEspa\u00f1ol: \"hilo\" - Suomi: \"rihma\"\nEspa\u00f1ol: \"est\u00f3mago\" - Suomi: \"vatsa\"\nEspa\u00f1ol: \"cepillo del pelo\" - Suomi: \"",
+        "target": "['harja', 'suti', 'sivellin', 'suka']",
+        "word original": "brush"
+    },
+    "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']": {
+        "prompt": "Espa\u00f1ol: \"arado\" - Suomi: \"aura\"\nEspa\u00f1ol: \"isla\" - Suomi: \"saari\"\nEspa\u00f1ol: \"ave de corral\" - Suomi: \"siipikarja\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"balde\" - Suomi: \"",
+        "target": "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']",
+        "word original": "bucket"
+    },
+    "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Suomi: \"hame\"\nEspa\u00f1ol: \"amortiguador\" - Suomi: \"iskunvaimennin\"\nEspa\u00f1ol: \"cortina\" - Suomi: \"verho\"\nEspa\u00f1ol: \"m\u00fasculo\" - Suomi: \"lihas\"\nEspa\u00f1ol: \"rostro\" - Suomi: \"naama\"\nEspa\u00f1ol: \"bombillo\" - Suomi: \"",
+        "target": "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']",
+        "word original": "bulb"
+    },
+    "['pastel', 'torta', 'bizcocho', 'cake', 'coca', 'tarta', 'pie', 'pay', 'empanada']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"universidad\" - Suomi: \"yliopisto\"\nEspa\u00f1ol: \"casaca\" - Suomi: \"takki\"\nEspa\u00f1ol: \"hoja\" - Suomi: \"paperi\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"pastel\" - Suomi: \"",
+        "target": "['kakku', 'piirakka', 'torttu', 'piiras']",
+        "word original": "cake"
+    },
+    "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1ngulo\" - Suomi: \"suplementtikulmat\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"abeja\" - Suomi: \"mehil\u00e4iset\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Suomi: \"",
+        "target": "['kamera', 'valokuvakamera']",
+        "word original": "camera"
+    },
+    "['documento nacional de identidad', 'documento de identidad', 'identificaci\u00f3n', 'carn\u00e9 de identidad', 'carnet de identidad', 'c\u00e9dula de identidad', 'DNI', 'credencial', 'carnet']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Suomi: \"pilvi\"\nEspa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Suomi: \"satelliitti\"\nEspa\u00f1ol: \"calcet\u00edn\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"",
+        "target": "['henkil\u00f6kortti', 'henkil\u00f6llisyystodistus', 'henkil\u00f6todistus', 'I.D.', 'ID']",
+        "word original": "card"
+    },
+    "['veh\u00edculo ferroviario', 'vag\u00f3n', 'Automotor', 'automotor', 'material remolcado', 'vag\u00f3n de ferrocarril', 'Coche automotor', 'coche', 'tren', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos']": {
+        "prompt": "Espa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"autoridad\" - Suomi: \"virka\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"",
+        "target": "['rautatieajoneuvo', 'moottorivaunu', 'junanvaunu', 'rautatievaunu', 'Moottorivaunu', 'vaunu', 'junavaunu', 'hissikori', 'kiskoauto', 'raidevaunu', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat']",
+        "word original": "carriage"
+    },
+    "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']": {
+        "prompt": "Espa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"peine\" - Suomi: \"kampa\"\nEspa\u00f1ol: \"calcet\u00edn\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"cepillo del pelo\" - Suomi: \"harja\"\nEspa\u00f1ol: \"isla\" - Suomi: \"saari\"\nEspa\u00f1ol: \"gato\" - Suomi: \"",
+        "target": "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']",
+        "word original": "cat"
+    },
+    "['queso']": {
+        "prompt": "Espa\u00f1ol: \"abeja\" - Suomi: \"mehil\u00e4iset\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"nube\" - Suomi: \"pilvi\"\nEspa\u00f1ol: \"queso\" - Suomi: \"",
+        "target": "['juusto']",
+        "word original": "cheese"
+    },
+    "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre']": {
+        "prompt": "Espa\u00f1ol: \"dedos del pie\" - Suomi: \"varvas\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"red de computadoras\" - Suomi: \"internet\"\nEspa\u00f1ol: \"trampa\" - Suomi: \"sieppaaminen\"\nEspa\u00f1ol: \"cuchillo\" - Suomi: \"veitsi\"\nEspa\u00f1ol: \"ba\u00fal\" - Suomi: \"",
+        "target": "['Arkku', 'arkku', 'kirstu']",
+        "word original": "chest"
+    },
+    "['barbilla', 'ment\u00f3n', 'pera', 'barba']": {
+        "prompt": "Espa\u00f1ol: \"llave\" - Suomi: \"venttiili\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Suomi: \"linna\"\nEspa\u00f1ol: \"hoja\" - Suomi: \"paperi\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"cortina\" - Suomi: \"verho\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"",
+        "target": "['leuka', 'leukakyhmy', 'mentum']",
+        "word original": "chin"
+    },
+    "['iglesia']": {
+        "prompt": "Espa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"sax\" - Suomi: \"sakset\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"kausi\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"iglesia\" - Suomi: \"",
+        "target": "['kirkko', 'kirkkorakennus']",
+        "word original": "church"
+    },
+    "['c\u00edrculo', 'circunferencia', 'disco']": {
+        "prompt": "Espa\u00f1ol: \"ganado bovino\" - Suomi: \"karja\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Suomi: \"kamera\"\nEspa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"caballo\" - Suomi: \"hevonen\"\nEspa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"c\u00edrculo\" - Suomi: \"",
+        "target": "['ympyr\u00e4', 'kiekko', 'py\u00f6re\u00e4 levy', 'lautanen']",
+        "word original": "circle"
+    },
+    "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']": {
+        "prompt": "Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Suomi: \"funktio\"\nEspa\u00f1ol: \"cama\" - Suomi: \"vuode\"\nEspa\u00f1ol: \"pastel\" - Suomi: \"kakku\"\nEspa\u00f1ol: \"gota\" - Suomi: \"kihti\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"kausi\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"",
+        "target": "['kello', 'rannekello', 'taskukello']",
+        "word original": "watch"
+    },
+    "['nube', 'nubes']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1ngulo\" - Suomi: \"suplementtikulmat\"\nEspa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"nube\" - Suomi: \"",
+        "target": "['pilvi']",
+        "word original": "cloud"
+    },
+    "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'jacket', 'campera', 'chompa']": {
+        "prompt": "Espa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"perra\" - Suomi: \"koira\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"cepillo del pelo\" - Suomi: \"harja\"\nEspa\u00f1ol: \"casaca\" - Suomi: \"",
+        "target": "['takki', 'pusakka', 'pikkutakki']",
+        "word original": "coat"
+    },
+    "['arresto', 'detenci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"naranja\" - Suomi: \"oranssius\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"arma de fuego\" - Suomi: \"ampuma-ase\"\nEspa\u00f1ol: \"falda\" - Suomi: \"hame\"\nEspa\u00f1ol: \"arresto\" - Suomi: \"",
+        "target": "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni']",
+        "word original": "collar"
+    },
+    "['peine']": {
+        "prompt": "Espa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"huevo de gallina\" - Suomi: \"muna\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"arado\" - Suomi: \"aura\"\nEspa\u00f1ol: \"bicicleta\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEspa\u00f1ol: \"peine\" - Suomi: \"",
+        "target": "['kampa']",
+        "word original": "comb"
+    },
+    "['ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno']": {
+        "prompt": "Espa\u00f1ol: \"estampilla\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"gusano\" - Suomi: \"lierot\"\nEspa\u00f1ol: \"ojos\" - Suomi: \"silm\u00e4muna\"\nEspa\u00f1ol: \"llave\" - Suomi: \"venttiili\"\nEspa\u00f1ol: \"ganado bovino\" - Suomi: \"",
+        "target": "['karja', 'Bos taurus', 'nauta', 'nautakarja']",
+        "word original": "cow"
+    },
+    "['taza', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'copa', 'vaso', 'taza de pi\u00e9', 'taz\u00f3n', 'jarro']": {
+        "prompt": "Espa\u00f1ol: \"balde\" - Suomi: \"\u00e4mp\u00e4ri\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"m\u00fasculo\" - Suomi: \"lihas\"\nEspa\u00f1ol: \"pescado\" - Suomi: \"kala\"\nEspa\u00f1ol: \"abeja\" - Suomi: \"mehil\u00e4iset\"\nEspa\u00f1ol: \"taza\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'kuppi', 'juomalasi', 'juomapikari', 'Juomalasi', 'muki', 'Muki']",
+        "word original": "cup"
+    },
+    "['cortina', 'cortinaje', 'cortinas', 'sombra']": {
+        "prompt": "Espa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"hormiga\" - Suomi: \"muurahainen\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"estrella\" - Suomi: \"t\u00e4hti\"\nEspa\u00f1ol: \"cortina\" - Suomi: \"",
+        "target": "['verho', 'verhot', 'varjo', 'siimes', 'varjoisuus']",
+        "word original": "curtain"
+    },
+    "['amortiguador']": {
+        "prompt": "Espa\u00f1ol: \"bolsillo\" - Suomi: \"taskukirja\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"espada\" - Suomi: \"miekka\"\nEspa\u00f1ol: \"estampilla\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"gota\" - Suomi: \"kihti\"\nEspa\u00f1ol: \"amortiguador\" - Suomi: \"",
+        "target": "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']",
+        "word original": "cushion"
+    },
+    "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico']": {
+        "prompt": "Espa\u00f1ol: \"avi\u00f3n\" - Suomi: \"ilma-alus\"\nEspa\u00f1ol: \"cabra\" - Suomi: \"vuohi\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"cigarro\" - Suomi: \"tupakka\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"kausi\"\nEspa\u00f1ol: \"perra\" - Suomi: \"",
+        "target": "['koira', 'Canis lupus familiaris', 'Canis familiaris']",
+        "word original": "dog"
+    },
+    "['puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"isla\" - Suomi: \"saari\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"",
+        "target": "['ovi', 'portti']",
+        "word original": "drain"
+    },
+    "['ilustraci\u00f3n', 'Iluminismo', 'figura', 'retrato', 'dibujo', 'imagen', 'croquis', 'esquema', 'foto', 'fotograf\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"calcet\u00edn\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"rostro\" - Suomi: \"naama\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"naranja\" - Suomi: \"oranssius\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Suomi: \"",
+        "target": "['valistusaika', 'valistus', 'valistuksen aika', 'j\u00e4rjen aikakausi', 'piirros', 'piirustus', 'kuva']",
+        "word original": "drawer"
+    },
+    "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"boca\" - Suomi: \"suu\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"",
+        "target": "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku', 'vaateparsi']",
+        "word original": "dress"
+    },
+    "['gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima', 'bocado', 'porci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"arado\" - Suomi: \"aura\"\nEspa\u00f1ol: \"martillo\" - Suomi: \"moukarinheitto\"\nEspa\u00f1ol: \"pel\u00edcula\" - Suomi: \"filmi\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"housut\"\nEspa\u00f1ol: \"bombillo\" - Suomi: \"hehkulamppu\"\nEspa\u00f1ol: \"gota\" - Suomi: \"",
+        "target": "['kihti', 'tippa', 'pisara', 'tilkka', 'suupala', 'murunen']",
+        "word original": "drop"
+    },
+    "['o\u00eddo', 'orejas', 'oreja', 'protecci\u00f3n del o\u00eddo', 'protecci\u00f3n auditiva', 'audici\u00f3n', 'facultad auditiva', 'modalidad auditiva', 'sentido del o\u00eddo', 'sentido auditivo']": {
+        "prompt": "Espa\u00f1ol: \"autoridad\" - Suomi: \"virka\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"perra\" - Suomi: \"koira\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"camisa\" - Suomi: \"villapaita\"\nEspa\u00f1ol: \"o\u00eddo\" - Suomi: \"",
+        "target": "['korva', 'kuulonsuojaus', 'kuulo', 'kuuloaisti', 'kuulokyky', 'auditiivinen aisti', 'kuuloaistimus']",
+        "word original": "ear"
+    },
+    "['huevo de gallina', 'huevo']": {
+        "prompt": "Espa\u00f1ol: \"ala\" - Suomi: \"alaniini\"\nEspa\u00f1ol: \"caballo\" - Suomi: \"hevonen\"\nEspa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"castigo corporal\" - Suomi: \"ruumiinrangaistus\"\nEspa\u00f1ol: \"biblioteca\" - Suomi: \"kirjasto\"\nEspa\u00f1ol: \"huevo de gallina\" - Suomi: \"",
+        "target": "['muna', 'kananmuna', 'munat']",
+        "word original": "egg"
+    },
+    "['motor', 'motocicleta', 'motora', 'moto', 'motociclo', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']": {
+        "prompt": "Espa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"abeja\" - Suomi: \"mehil\u00e4iset\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Suomi: \"satelliitti\"\nEspa\u00f1ol: \"inodoro\" - Suomi: \"potta\"\nEspa\u00f1ol: \"gota\" - Suomi: \"kihti\"\nEspa\u00f1ol: \"motor\" - Suomi: \"",
+        "target": "['moottoripy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'moottori']",
+        "word original": "engine"
+    },
+    "['ojos', 'ojo', 'globo ocular', 'oculus']": {
+        "prompt": "Espa\u00f1ol: \"p\u00e1jaro\" - Suomi: \"linnut\"\nEspa\u00f1ol: \"factura\" - Suomi: \"lasku\"\nEspa\u00f1ol: \"cama\" - Suomi: \"vuode\"\nEspa\u00f1ol: \"bicicleta\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEspa\u00f1ol: \"oveja\" - Suomi: \"lammas\"\nEspa\u00f1ol: \"ojos\" - Suomi: \"",
+        "target": "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']",
+        "word original": "eye"
+    },
+    "['rostro', 'cara', 'jeta', 'faz', 'rostro humano']": {
+        "prompt": "Espa\u00f1ol: \"b\u00e9isbol\" - Suomi: \"baseball\"\nEspa\u00f1ol: \"autoridad\" - Suomi: \"virka\"\nEspa\u00f1ol: \"castigo corporal\" - Suomi: \"ruumiinrangaistus\"\nEspa\u00f1ol: \"casa\" - Suomi: \"julkinen rakennus\"\nEspa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"rostro\" - Suomi: \"",
+        "target": "['naama', 'kasvot', 'p\u00e4rst\u00e4']",
+        "word original": "face"
+    },
+    "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"joya\" - Suomi: \"koru\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Suomi: \"baseball\"\nEspa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"barco\" - Suomi: \"laiva\"\nEspa\u00f1ol: \"cola\" - Suomi: \"Ristisaatto\"\nEspa\u00f1ol: \"granja\" - Suomi: \"",
+        "target": "['maatila', 'tila', 'farmi']",
+        "word original": "farm"
+    },
+    "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'boli', 'bol\u00edgrafo']": {
+        "prompt": "Espa\u00f1ol: \"naranja\" - Suomi: \"oranssius\"\nEspa\u00f1ol: \"ladrillo\" - Suomi: \"tiili\"\nEspa\u00f1ol: \"econom\u00eda\" - Suomi: \"talosel\u00e4m\u00e4\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"",
+        "target": "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka', 'kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "pen"
+    },
+    "['dedo', 'peineta', 'corte de manga', 'higa', 'd\u00edgito', 'pulgar', 'dedo pulgar', 'pollex', 'dedo gordo', 'dedos de la mano', 'dedo de la mano', 'dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie']": {
+        "prompt": "Espa\u00f1ol: \"garganta\" - Suomi: \"kanjoni\"\nEspa\u00f1ol: \"perra\" - Suomi: \"koira\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"bolso\" - Suomi: \"k\u00e4silaukku\"\nEspa\u00f1ol: \"dedo\" - Suomi: \"",
+        "target": "['keskisormi', 'Keskisormi', 'varvas', 'sormi', 'peukalo', 'pollex', 'n\u00e4ppi']",
+        "word original": "finger"
+    },
+    "['pescado', 'pez', 'Pisces', 'pisces', 'peces']": {
+        "prompt": "Espa\u00f1ol: \"marrano\" - Suomi: \"sika\"\nEspa\u00f1ol: \"cuchillo\" - Suomi: \"veitsi\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"pescado\" - Suomi: \"",
+        "target": "['kala', 'ruokakala', 'Kala ruokana', 'kala ruokana']",
+        "word original": "fish"
+    },
+    "['bandera', 'pabell\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"constituci\u00f3n\" - Suomi: \"organisaatio\"\nEspa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"labio\" - Suomi: \"huuli\"\nEspa\u00f1ol: \"m\u00fasculo\" - Suomi: \"lihas\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"",
+        "target": "['lippu']",
+        "word original": "flag"
+    },
+    "['dolina', 'valle', 'val']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"c\u00edrculo\" - Suomi: \"ympyr\u00e4\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"pie\" - Suomi: \"indoeurooppalainen kantakieli\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"dolina\" - Suomi: \"",
+        "target": "['laakso']",
+        "word original": "floor"
+    },
+    "['mosca', 'mosco', 'Diptera']": {
+        "prompt": "Espa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"sax\" - Suomi: \"sakset\"\nEspa\u00f1ol: \"medias\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"calle\" - Suomi: \"tie\"\nEspa\u00f1ol: \"bolso\" - Suomi: \"k\u00e4silaukku\"\nEspa\u00f1ol: \"mosca\" - Suomi: \"",
+        "target": "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']",
+        "word original": "fly"
+    },
+    "['pie', 'proto-indo-europeo', 'idioma protoindoeuropeo', 'protoindoeuropeo', 'pes', 'pata', 'base', 'subestructura', 'cimentaci\u00f3n', 'cimiento', 'fundaci\u00f3n', 'fundamento', 'tarta', 'pastel', 'pay', 'empanada', 'torta']": {
+        "prompt": "Espa\u00f1ol: \"hormiga\" - Suomi: \"muurahainen\"\nEspa\u00f1ol: \"sierpe\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEspa\u00f1ol: \"cigarro\" - Suomi: \"tupakka\"\nEspa\u00f1ol: \"estante\" - Suomi: \"kirjahylly\"\nEspa\u00f1ol: \"guante\" - Suomi: \"hansikas\"\nEspa\u00f1ol: \"pie\" - Suomi: \"",
+        "target": "['indoeurooppalainen kantakieli', 'kantaindoeurooppa', 'Indoeurooppalainen kantakieli', 'jalkater\u00e4', 'jalka', 'perustus', 'alusrakenne', 'pohja', 'jalusta', 'kanta', 'juuri', 'alaosa', 'pohjaty\u00f6', 'perus', 'rakennuspohja', 'jalkop\u00e4\u00e4', 'alap\u00e4\u00e4', 'alusta', 'antura', 'perusta', 'perusrakenne', 'perusmuuri', 'piirakka', 'torttu', 'piiras']",
+        "word original": "foot"
+    },
+    "['tenedor', 'bifurcaci\u00f3n', 'cruce', 'intersecci\u00f3n vial', 'intersecci\u00f3n', 'crucero', 'carrefour', 'encrucijada', 'cruce de caminos']": {
+        "prompt": "Espa\u00f1ol: \"garganta\" - Suomi: \"kanjoni\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\" - Suomi: \"kamera\"\nEspa\u00f1ol: \"cuchillo\" - Suomi: \"veitsi\"\nEspa\u00f1ol: \"tenedor\" - Suomi: \"",
+        "target": "['risteys', 'liittym\u00e4', 'poikkikatu', 'poikkitie', 'haarukka']",
+        "word original": "fork"
+    },
+    "['ave de corral', 'Galloanserae', 'ave']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"ojos\" - Suomi: \"silm\u00e4muna\"\nEspa\u00f1ol: \"bolsillo\" - Suomi: \"taskukirja\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"ave de corral\" - Suomi: \"",
+        "target": "['siipikarja', 'riistalintu', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['constituci\u00f3n', 'organizativo', 'organizaci\u00f3n', 'establecimiento', 'fundaci\u00f3n', 'formaci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"sat\u00e9lite\" - Suomi: \"satelliitti\"\nEspa\u00f1ol: \"bolsillo\" - Suomi: \"taskukirja\"\nEspa\u00f1ol: \"o\u00eddo\" - Suomi: \"korva\"\nEspa\u00f1ol: \"sombrero\" - Suomi: \"hattu\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"constituci\u00f3n\" - Suomi: \"",
+        "target": "['organisaatio', 'j\u00e4rjest\u00f6', 'perustaminen', 'muodostaminen', 'ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']",
+        "word original": "frame"
+    },
+    "['jard\u00edn']": {
+        "prompt": "Espa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"tallo\" - Suomi: \"varsi\"\nEspa\u00f1ol: \"motor\" - Suomi: \"moottoripy\u00f6r\u00e4\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"jard\u00edn\" - Suomi: \"",
+        "target": "['puutarha', 'kasvimaa']",
+        "word original": "garden"
+    },
+    "['chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'mujer', 'se\u00f1orito', 'chico', 'fille', 'se\u00f1orita', 'mujercita', 'novia', 'pareja', 'compa\u00f1era', 'prometida', 'compa\u00f1era sentimental']": {
+        "prompt": "Espa\u00f1ol: \"o\u00eddo\" - Suomi: \"korva\"\nEspa\u00f1ol: \"estampilla\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"l\u00e4hde\"\nEspa\u00f1ol: \"chica\" - Suomi: \"",
+        "target": "['tytt\u00f6', 'neiti', 'nuori nainen', 'tytt\u00f6kaveri', 'tytt\u00f6yst\u00e4v\u00e4', 'naisyst\u00e4v\u00e4']",
+        "word original": "girl"
+    },
+    "['guante']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"bolso\" - Suomi: \"k\u00e4silaukku\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"guimbarda\" - Suomi: \"munniharppu\"\nEspa\u00f1ol: \"guante\" - Suomi: \"",
+        "target": "['hansikas', 'sormikas', 'hanska', 'k\u00e4sine']",
+        "word original": "glove"
+    },
+    "['cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']": {
+        "prompt": "Espa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"housut\"\nEspa\u00f1ol: \"v\u00eda\" - Suomi: \"katu\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"cabra\" - Suomi: \"",
+        "target": "['vuohi', 'vuohiel\u00e4in']",
+        "word original": "goat"
+    },
+    "['arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'arma', 'pistola']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"video\" - Suomi: \"televisio\"\nEspa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"barco de vela\" - Suomi: \"purjealus\"\nEspa\u00f1ol: \"arma de fuego\" - Suomi: \"",
+        "target": "['ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']",
+        "word original": "gun"
+    },
+    "['cabello', 'pelo']": {
+        "prompt": "Espa\u00f1ol: \"hospital\" - Suomi: \"sairaala\"\nEspa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"gusano\" - Suomi: \"lierot\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"housut\"\nEspa\u00f1ol: \"pared\" - Suomi: \"sein\u00e4\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"",
+        "target": "['karvoitus', 'karva', 'hius', 'jouhi', 'ihokarva']",
+        "word original": "root"
+    },
+    "['martillo', 'lanzamiento de martillo']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"l\u00e4hde\"\nEspa\u00f1ol: \"paraguas\" - Suomi: \"sateenvarjo\"\nEspa\u00f1ol: \"queso\" - Suomi: \"juusto\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"martillo\" - Suomi: \"",
+        "target": "['moukarinheitto', 'vasara']",
+        "word original": "hammer"
+    },
+    "['sombrero', 'Chap\u00f3']": {
+        "prompt": "Espa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"hilo\" - Suomi: \"rihma\"\nEspa\u00f1ol: \"ventana\" - Suomi: \"ikkuna\"\nEspa\u00f1ol: \"u\u00f1a\" - Suomi: \"kynsi\"\nEspa\u00f1ol: \"calcet\u00edn\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"sombrero\" - Suomi: \"",
+        "target": "['hattu', 'lakki', 'p\u00e4\u00e4hine']",
+        "word original": "hat"
+    },
+    "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o', 'centro', 'ojo', 'medio']": {
+        "prompt": "Espa\u00f1ol: \"camisa\" - Suomi: \"villapaita\"\nEspa\u00f1ol: \"horno\" - Suomi: \"masuuni\"\nEspa\u00f1ol: \"arco\" - Suomi: \"jousi\"\nEspa\u00f1ol: \"cortina\" - Suomi: \"verho\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"",
+        "target": "['syd\u00e4n', 'syd\u00e4nlihas', 'pumppu', 'kiintymys', 'rakkaus', 'mieltymys', 'syd\u00e4mellisyys', 'l\u00e4mp\u00f6', 'l\u00e4mminsyd\u00e4misyys', 'rakastavuus', 'filia', 'hellyys', 'heikkous', 'keskusta', 'keskus', 'silm\u00e4', 'keskipiste', 'sisus']",
+        "word original": "pump"
+    },
+    "['trampa', 'atrape', 'cepo', 'truco', 'hacer trampas', 'estafa', 'timo', 'enga\u00f1o', 'fraude', 'bulo', 'enga\u00f1ifa', 'bober\u00eda', 'tonter\u00eda', 'farsa', 'filfa', 'disparate', 'embuste', 'mistificaci\u00f3n', 'camelo', 'patra\u00f1a', 'pastrana']": {
+        "prompt": "Espa\u00f1ol: \"camisa\" - Suomi: \"villapaita\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"dolina\" - Suomi: \"laakso\"\nEspa\u00f1ol: \"boca\" - Suomi: \"suu\"\nEspa\u00f1ol: \"trampa\" - Suomi: \"",
+        "target": "['sieppaaminen', 'p\u00e4\u00e4llekk\u00e4ispainaminen', 'ansa', 'loukku', 'sadin', 'huijaus', 'vilppi', 'petos', 'pila', 'Humpuuki', 'humpuuki', 'kuje', 'petkutus']",
+        "word original": "hook"
+    },
+    "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']": {
+        "prompt": "Espa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"memoria\" - Suomi: \"Retoriikka\"\nEspa\u00f1ol: \"barco\" - Suomi: \"laiva\"\nEspa\u00f1ol: \"hilo\" - Suomi: \"rihma\"\nEspa\u00f1ol: \"caballo\" - Suomi: \"hevonen\"\nEspa\u00f1ol: \"guimbarda\" - Suomi: \"",
+        "target": "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']",
+        "word original": "horn"
+    },
+    "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']": {
+        "prompt": "Espa\u00f1ol: \"econom\u00eda\" - Suomi: \"talosel\u00e4m\u00e4\"\nEspa\u00f1ol: \"cola\" - Suomi: \"Ristisaatto\"\nEspa\u00f1ol: \"medias\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"caballo\" - Suomi: \"",
+        "target": "['hevonen', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']": {
+        "prompt": "Espa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"henkil\u00f6kortti\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"lavabo\" - Suomi: \"potta\"\nEspa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Suomi: \"fosfori\"\nEspa\u00f1ol: \"hospital\" - Suomi: \"",
+        "target": "['sairaala', 'sairasosasto']",
+        "word original": "hospital"
+    },
+    "['casa', 'edificaci\u00f3n', 'edificio', 'edificio p\u00fablico', 'inmueble', 'edificios', 'construcci\u00f3n', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'manufactura', 'fabricante', 'firma', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'compa\u00f1\u00eda', 'empresa', 'empresas', 'hospedaje', 'viviendas']": {
+        "prompt": "Espa\u00f1ol: \"paraguas\" - Suomi: \"sateenvarjo\"\nEspa\u00f1ol: \"garganta\" - Suomi: \"kanjoni\"\nEspa\u00f1ol: \"marrano\" - Suomi: \"sika\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"rostro\" - Suomi: \"naama\"\nEspa\u00f1ol: \"casa\" - Suomi: \"",
+        "target": "['julkinen rakennus', 'rakennus', 'rakennelma', 'talo', 'talous', 'kotitalous', 'suku', 'ruokakunta', 'perhekunta', 'perhe', 'valmistaja', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4', 'yritykset', 'kauppahuone', 'liikeyritys', 'yritys', 'majapaikka', 'majoitus', 'asunnot', 'asuinrakennukset']",
+        "word original": "house"
+    },
+    "['isla', 'islas']": {
+        "prompt": "Espa\u00f1ol: \"tenedor\" - Suomi: \"risteys\"\nEspa\u00f1ol: \"cigarro\" - Suomi: \"tupakka\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"cama\" - Suomi: \"vuode\"\nEspa\u00f1ol: \"isla\" - Suomi: \"",
+        "target": "['saari', 'saareke']",
+        "word original": "island"
+    },
+    "['joya', 'joyer\u00eda', 'joyas', 'alhajas', 'alegr\u00eda', 'regocijo', 'j\u00fabilo', 'felicidad', 'gozo', 'ilusi\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"calcet\u00edn\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"joya\" - Suomi: \"",
+        "target": "['koru', 'korut', 'ilo', 'riemu', 'onni', 'iloisuus', 'riemukkuus']",
+        "word original": "jewel"
+    },
+    "['hervidor', 'caldera', 'calentador', 'Caldera']": {
+        "prompt": "Espa\u00f1ol: \"p\u00e1jaro\" - Suomi: \"linnut\"\nEspa\u00f1ol: \"estrella\" - Suomi: \"t\u00e4hti\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"techumbre\" - Suomi: \"ulkokatto\"\nEspa\u00f1ol: \"oveja\" - Suomi: \"lammas\"\nEspa\u00f1ol: \"hervidor\" - Suomi: \"",
+        "target": "['teepannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']",
+        "word original": "kettle"
+    },
+    "['llave', 'v\u00e1lvula', 'clave', 'llave inglesa', 'llave de tuerca', 'llave fija']": {
+        "prompt": "Espa\u00f1ol: \"cama\" - Suomi: \"vuode\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"cepillo del pelo\" - Suomi: \"harja\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Suomi: \"fosfori\"\nEspa\u00f1ol: \"chica\" - Suomi: \"tytt\u00f6\"\nEspa\u00f1ol: \"llave\" - Suomi: \"",
+        "target": "['venttiili', 'avain', 'kiintoavain', 'jakoavain', 'v\u00e4\u00e4nt\u00f6ty\u00f6kalu', 'V\u00e4\u00e4nt\u00f6ty\u00f6kalu']",
+        "word original": "key"
+    },
+    "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']": {
+        "prompt": "Espa\u00f1ol: \"isla\" - Suomi: \"saari\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"boca\" - Suomi: \"suu\"\nEspa\u00f1ol: \"hoja\" - Suomi: \"paperi\"\nEspa\u00f1ol: \"v\u00eda\" - Suomi: \"katu\"\nEspa\u00f1ol: \"rodilla\" - Suomi: \"",
+        "target": "['polvi', 'polvinivel', 'articulatio genus']",
+        "word original": "knee"
+    },
+    "['cuchillo']": {
+        "prompt": "Espa\u00f1ol: \"paraguas\" - Suomi: \"sateenvarjo\"\nEspa\u00f1ol: \"queso\" - Suomi: \"juusto\"\nEspa\u00f1ol: \"motor\" - Suomi: \"moottoripy\u00f6r\u00e4\"\nEspa\u00f1ol: \"estrella\" - Suomi: \"t\u00e4hti\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"cuchillo\" - Suomi: \"",
+        "target": "['veitsi', 'puukko']",
+        "word original": "knife"
+    },
+    "['nudo', 'tallo', 'lazo']": {
+        "prompt": "Espa\u00f1ol: \"castigo corporal\" - Suomi: \"ruumiinrangaistus\"\nEspa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"hormiga\" - Suomi: \"muurahainen\"\nEspa\u00f1ol: \"queso\" - Suomi: \"juusto\"\nEspa\u00f1ol: \"barco de vela\" - Suomi: \"purjealus\"\nEspa\u00f1ol: \"nudo\" - Suomi: \"",
+        "target": "['varsi', 'Varsi', 'solmu', 'Solmu']",
+        "word original": "knot"
+    },
+    "['hoja', 'papel', 'follaje', 'Laphi', 'hoja de papel', 'cuartilla', 'folio', 'pliego', 'filo', 'cuchilla']": {
+        "prompt": "Espa\u00f1ol: \"rata\" - Suomi: \"rotat\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Suomi: \"linna\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Suomi: \"suplementtikulmat\"\nEspa\u00f1ol: \"castigo corporal\" - Suomi: \"ruumiinrangaistus\"\nEspa\u00f1ol: \"hoja\" - Suomi: \"",
+        "target": "['paperi', 'lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti', 'arkki', 'paperinpala', 'paperiarkki', 'ter\u00e4']",
+        "word original": "leaf"
+    },
+    "['pierna', 'extremidad inferior', 'pata', 'piernas', 'miembro inferior', 'miembro inferior humano']": {
+        "prompt": "Espa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"red de computadoras\" - Suomi: \"internet\"\nEspa\u00f1ol: \"biblioteca\" - Suomi: \"kirjasto\"\nEspa\u00f1ol: \"hueso\" - Suomi: \"luu\"\nEspa\u00f1ol: \"arresto\" - Suomi: \"pid\u00e4tys\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"",
+        "target": "['jalka', 's\u00e4\u00e4ri']",
+        "word original": "pin"
+    },
+    "['biblioteca', 'librer\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"bombillo\" - Suomi: \"hehkulamppu\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"martillo\" - Suomi: \"moukarinheitto\"\nEspa\u00f1ol: \"sax\" - Suomi: \"sakset\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"biblioteca\" - Suomi: \"",
+        "target": "['kirjasto', 'kokoelma']",
+        "word original": "library"
+    },
+    "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'television', 'TV', 'imagen']": {
+        "prompt": "Espa\u00f1ol: \"hilo\" - Suomi: \"rihma\"\nEspa\u00f1ol: \"sierpe\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEspa\u00f1ol: \"perra\" - Suomi: \"koira\"\nEspa\u00f1ol: \"bombillo\" - Suomi: \"hehkulamppu\"\nEspa\u00f1ol: \"tren\" - Suomi: \"juna\"\nEspa\u00f1ol: \"video\" - Suomi: \"",
+        "target": "['televisio', 'TV', 'televisiointi', 'kuva']",
+        "word original": "line"
+    },
+    "['labio', 'labios']": {
+        "prompt": "Espa\u00f1ol: \"bicicleta\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEspa\u00f1ol: \"calle\" - Suomi: \"tie\"\nEspa\u00f1ol: \"boca\" - Suomi: \"suu\"\nEspa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"pel\u00edcula\" - Suomi: \"filmi\"\nEspa\u00f1ol: \"labio\" - Suomi: \"",
+        "target": "['huuli', 'huulet']",
+        "word original": "lip"
+    },
+    "['funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia']": {
+        "prompt": "Espa\u00f1ol: \"hospital\" - Suomi: \"sairaala\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"techumbre\" - Suomi: \"ulkokatto\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Suomi: \"",
+        "target": "['funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio']",
+        "word original": "map"
+    },
+    "['f\u00f3sforo', 'P', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo']": {
+        "prompt": "Espa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"autoridad\" - Suomi: \"virka\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"henkil\u00f6kortti\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Suomi: \"",
+        "target": "['fosfori', 'P', 'tulitikku', 'rikkitulitikku']",
+        "word original": "match"
+    },
+    "['mono', 'mico', 'simio']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Suomi: \"internet\"\nEspa\u00f1ol: \"avi\u00f3n\" - Suomi: \"ilma-alus\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"gusano\" - Suomi: \"lierot\"\nEspa\u00f1ol: \"arresto\" - Suomi: \"pid\u00e4tys\"\nEspa\u00f1ol: \"mono\" - Suomi: \"",
+        "target": "['apina', 'apinat']",
+        "word original": "monkey"
+    },
+    "['sat\u00e9lite', 'sat\u00e9lite artificial', 'satelite', 'orbitador']": {
+        "prompt": "Espa\u00f1ol: \"castigo corporal\" - Suomi: \"ruumiinrangaistus\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"medias\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"sierpe\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Suomi: \"",
+        "target": "['satelliitti', 'tekokuu']",
+        "word original": "moon"
+    },
+    "['boca', 'cavidad oral', 'cavidad bucal', 'desembocadura', 'rima oris', 'entrada', 'zagu\u00e1n', 'recibidor', 'vest\u00edbulo', 'acceso', 'v\u00eda de acceso', 'ingreso', 'nariz']": {
+        "prompt": "Espa\u00f1ol: \"u\u00f1a\" - Suomi: \"kynsi\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"calcet\u00edn\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"patata\" - Suomi: \"peruna\"\nEspa\u00f1ol: \"boca\" - Suomi: \"",
+        "target": "['suu', 'suuontelo', 'kita', 'eteinen', 'sis\u00e4\u00e4nk\u00e4ynti', 'suuaukko']",
+        "word original": "mouth"
+    },
+    "['m\u00fasculo', 'tejido muscular']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"cuchillo\" - Suomi: \"veitsi\"\nEspa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"pescado\" - Suomi: \"kala\"\nEspa\u00f1ol: \"m\u00fasculo\" - Suomi: \"",
+        "target": "['lihas', 'lihaskudos']",
+        "word original": "muscle"
+    },
+    "['u\u00f1a', 'garra', 'clavo', 'punta']": {
+        "prompt": "Espa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"tren\" - Suomi: \"juna\"\nEspa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"u\u00f1a\" - Suomi: \"",
+        "target": "['kynsi', 'Kynsi', 'naula']",
+        "word original": "nail"
+    },
+    "['cuello', 'pescuezo', 'nuca', 'cerviz']": {
+        "prompt": "Espa\u00f1ol: \"b\u00e9isbol\" - Suomi: \"baseball\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"barco de vela\" - Suomi: \"purjealus\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"",
+        "target": "['kaula']",
+        "word original": "neck"
+    },
+    "['nervio', 'nervus']": {
+        "prompt": "Espa\u00f1ol: \"nube\" - Suomi: \"pilvi\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"arco\" - Suomi: \"jousi\"\nEspa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"lusikka\"\nEspa\u00f1ol: \"nervio\" - Suomi: \"",
+        "target": "['hermo']",
+        "word original": "nerve"
+    },
+    "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio', 'malla', 'rejilla']": {
+        "prompt": "Espa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"housut\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"casaca\" - Suomi: \"takki\"\nEspa\u00f1ol: \"pared\" - Suomi: \"sein\u00e4\"\nEspa\u00f1ol: \"red de computadoras\" - Suomi: \"",
+        "target": "['internet', 'netti', 'Internet', 'kyberavaruus', 'verkko', 'seula']",
+        "word original": "net"
+    },
+    "['nariz', '\u00f3rgano olfactivo', 'olfato', 'boca']": {
+        "prompt": "Espa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"espada\" - Suomi: \"miekka\"\nEspa\u00f1ol: \"casaca\" - Suomi: \"takki\"\nEspa\u00f1ol: \"video\" - Suomi: \"televisio\"\nEspa\u00f1ol: \"abeja\" - Suomi: \"mehil\u00e4iset\"\nEspa\u00f1ol: \"nariz\" - Suomi: \"",
+        "target": "['nen\u00e4', 'hajuelin', 'suuaukko']",
+        "word original": "nose"
+    },
+    "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'r\u00e9gimen pol\u00edtico', 'gobierno', 'r\u00e9gimen', 'l\u00edder', 'jefe', 'cabeza', 'dirigente']": {
+        "prompt": "Espa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Suomi: \"linnut\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"f\u00f3sforo\" - Suomi: \"fosfori\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Suomi: \"baseball\"\nEspa\u00f1ol: \"autoridad\" - Suomi: \"",
+        "target": "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'j\u00e4rjestelm\u00e4', 'valtioneuvosto', 'hallitustapa', 'viranomaiset', 'hallintoj\u00e4rjestelm\u00e4', 'hallitus', 'johtaja', 'p\u00e4\u00e4llikk\u00f6']",
+        "word original": "office"
+    },
+    "['naranja', 'anaranjado']": {
+        "prompt": "Espa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"cigarro\" - Suomi: \"tupakka\"\nEspa\u00f1ol: \"estante\" - Suomi: \"kirjahylly\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"lusikka\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"naranja\" - Suomi: \"",
+        "target": "['oranssius', 'oranssi', 'oranssisuus']",
+        "word original": "orange"
+    },
+    "['horno', 'alto horno', 'estufa', 'horno de pan', 'panader\u00eda', 'tahona']": {
+        "prompt": "Espa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"factura\" - Suomi: \"lasku\"\nEspa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"lusikka\"\nEspa\u00f1ol: \"avi\u00f3n\" - Suomi: \"ilma-alus\"\nEspa\u00f1ol: \"horno\" - Suomi: \"",
+        "target": "['masuuni', 'uuni', 'leipomo']",
+        "word original": "oven"
+    },
+    "['paquete', 'elementos de programaci\u00f3n', 'programa inform\u00e1tico', 'programa', 'programa de computaci\u00f3n', 'programa de ordenador', 'software', 'sistema software']": {
+        "prompt": "Espa\u00f1ol: \"piel\" - Suomi: \"iho\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"pastel\" - Suomi: \"kakku\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"falda\" - Suomi: \"hame\"\nEspa\u00f1ol: \"paquete\" - Suomi: \"",
+        "target": "['ohjelmisto', 'ohjelma', 'tietokoneohjelma', 'softa', 'tietokoneohjelmisto', 'ohjelmistokokonaisuus', 'ohjelmistotekniikka', 'pakkaus', 'paketti']",
+        "word original": "parcel"
+    },
+    "['l\u00e1piz']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"bote\" - Suomi: \"vene\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"",
+        "target": "['lyijykyn\u00e4', 'kyn\u00e4']",
+        "word original": "pencil"
+    },
+    "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine', 'embuste', 'mentira', 'mentirijilla', 'mentirilla', 'mentira de emergencia', 'mentira blanca', 'infundio', 'historia', 'trola', 'patra\u00f1a', 'falsedad', 'bola', 'cinema', 'celuloide']": {
+        "prompt": "Espa\u00f1ol: \"p\u00e1jaro\" - Suomi: \"linnut\"\nEspa\u00f1ol: \"est\u00f3mago\" - Suomi: \"vatsa\"\nEspa\u00f1ol: \"rodilla\" - Suomi: \"polvi\"\nEspa\u00f1ol: \"autoridad\" - Suomi: \"virka\"\nEspa\u00f1ol: \"queso\" - Suomi: \"juusto\"\nEspa\u00f1ol: \"pel\u00edcula\" - Suomi: \"",
+        "target": "['filmi', 'ohut kalvo', 'elokuva', 'leffa', 'elokuvan\u00e4yt\u00f6s', 'vale', 'valehtelu', 'valhe', 'v\u00e4lttely', 'elokuvateollisuus']",
+        "word original": "picture"
+    },
+    "['marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'porc', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'Sus scrofa']": {
+        "prompt": "Espa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"henkil\u00f6kortti\"\nEspa\u00f1ol: \"cabra\" - Suomi: \"vuohi\"\nEspa\u00f1ol: \"bolsillo\" - Suomi: \"taskukirja\"\nEspa\u00f1ol: \"marrano\" - Suomi: \"",
+        "target": "['sika', 'siat', 'Siat', 'possu', 'Sus scrofa', 'sy\u00f6tt\u00f6karju']",
+        "word original": "pig"
+    },
+    "['ducto', 'tuber\u00eda', 'conducto', 'conducto de agua', 'acueducto', 'Tuber\u00eda', 'tuber\u00edas', 'ca\u00f1er\u00eda']": {
+        "prompt": "Espa\u00f1ol: \"jard\u00edn\" - Suomi: \"puutarha\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"estampilla\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"hoja\" - Suomi: \"paperi\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"",
+        "target": "['akvedukti', 'putki', 'johto', 'putkisto', 'vesijohto']",
+        "word original": "pipe"
+    },
+    "['avi\u00f3n', 'aeronave', 'aeroplano']": {
+        "prompt": "Espa\u00f1ol: \"red de computadoras\" - Suomi: \"internet\"\nEspa\u00f1ol: \"hilo\" - Suomi: \"rihma\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"avi\u00f3n\" - Suomi: \"",
+        "target": "['ilma-alus', 'lentokone', 'kone']",
+        "word original": "plane"
+    },
+    "['placa', 'chapa', 'patente', 'matr\u00edcula', 'tablilla', 'distintivo', 'insignia', 'pin', 'medalla', 'piocha', 'plancha']": {
+        "prompt": "Espa\u00f1ol: \"arma de fuego\" - Suomi: \"ampuma-ase\"\nEspa\u00f1ol: \"trampa\" - Suomi: \"sieppaaminen\"\nEspa\u00f1ol: \"camisa\" - Suomi: \"villapaita\"\nEspa\u00f1ol: \"jard\u00edn\" - Suomi: \"puutarha\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"placa\" - Suomi: \"",
+        "target": "['rekisterikilpi', 'merkki', 'rintamerkki', 'tunnus', 'arvomerkki', 'virkamerkki', 'levy']",
+        "word original": "plate"
+    },
+    "['arado', 'arar', 'arada']": {
+        "prompt": "Espa\u00f1ol: \"lavabo\" - Suomi: \"potta\"\nEspa\u00f1ol: \"joya\" - Suomi: \"koru\"\nEspa\u00f1ol: \"guante\" - Suomi: \"hansikas\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"arado\" - Suomi: \"",
+        "target": "['aura']",
+        "word original": "plough"
+    },
+    "['bolsillo', 'encuadernaci\u00f3n de tapa blanda', 'r\u00fastica', 'encuadernaci\u00f3n en r\u00fastica', 'libro de bolsillo', 'bolsa']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"guimbarda\" - Suomi: \"munniharppu\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"tenedor\" - Suomi: \"risteys\"\nEspa\u00f1ol: \"bolsillo\" - Suomi: \"",
+        "target": "['taskukirja', 'pehme\u00e4kantinen kirja', 'pokkari', 'tasku']",
+        "word original": "pocket"
+    },
+    "['inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']": {
+        "prompt": "Espa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"ganado bovino\" - Suomi: \"karja\"\nEspa\u00f1ol: \"p\u00e1jaro\" - Suomi: \"linnut\"\nEspa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"cortina\" - Suomi: \"verho\"\nEspa\u00f1ol: \"inodoro\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'kylpyhuone', 'toiletti', 'pesuhuone']",
+        "word original": "pot"
+    },
+    "['patata', 'papa', 'Solanum tuberosum', 'tater']": {
+        "prompt": "Espa\u00f1ol: \"sombrero\" - Suomi: \"hattu\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"kausi\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"patata\" - Suomi: \"",
+        "target": "['peruna', 'potaatti', 'pottu']",
+        "word original": "potato"
+    },
+    "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']": {
+        "prompt": "Espa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"kausi\"\nEspa\u00f1ol: \"video\" - Suomi: \"televisio\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"bicicleta\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEspa\u00f1ol: \"tren\" - Suomi: \"juna\"\nEspa\u00f1ol: \"c\u00e1rcel\" - Suomi: \"",
+        "target": "['linna', 'vankila', 'tyrm\u00e4']",
+        "word original": "prison"
+    },
+    "['v\u00eda', 'calle', 'rieles', 'v\u00eda del ferrocarril', 'v\u00eda f\u00e9rrea', 'ferrocarriles', 'ferrocarril', 'modo', 'manera', 'guisa', 'moda', 'forma', 'estilo']": {
+        "prompt": "Espa\u00f1ol: \"dedos del pie\" - Suomi: \"varvas\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"pel\u00edcula\" - Suomi: \"filmi\"\nEspa\u00f1ol: \"ojos\" - Suomi: \"silm\u00e4muna\"\nEspa\u00f1ol: \"veh\u00edculo ferroviario\" - Suomi: \"rautatieajoneuvo\"\nEspa\u00f1ol: \"v\u00eda\" - Suomi: \"",
+        "target": "['katu', 'rautatie', 'rata', 'junarata', 'raide', 'Raide', 'raiteet', 'rautatiekisko', 'tapa', 'tyyli']",
+        "word original": "rail"
+    },
+    "['rata', 'Rattus', 'rat', 'rattus', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus']": {
+        "prompt": "Espa\u00f1ol: \"espada\" - Suomi: \"miekka\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"lusikka\"\nEspa\u00f1ol: \"piel\" - Suomi: \"iho\"\nEspa\u00f1ol: \"rodilla\" - Suomi: \"polvi\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"rata\" - Suomi: \"",
+        "target": "['rotat', 'rotta', 'hiiri', 'kotihiiret', 'Kotihiiret']",
+        "word original": "rat"
+    },
+    "['factura', 'albar\u00e1n', 'recibo', 'cuenta']": {
+        "prompt": "Espa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"arado\" - Suomi: \"aura\"\nEspa\u00f1ol: \"hilo\" - Suomi: \"rihma\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Suomi: \"valistusaika\"\nEspa\u00f1ol: \"factura\" - Suomi: \"",
+        "target": "['lasku', 'tili', 'ravintolalasku', 'tavaralasku']",
+        "word original": "receipt"
+    },
+    "['castigo corporal', 'castigo f\u00edsico']": {
+        "prompt": "Espa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"henkil\u00f6kortti\"\nEspa\u00f1ol: \"huevo de gallina\" - Suomi: \"muna\"\nEspa\u00f1ol: \"avi\u00f3n\" - Suomi: \"ilma-alus\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"castigo corporal\" - Suomi: \"",
+        "target": "['ruumiinrangaistus', 'ruumiillinen rangaistus']",
+        "word original": "rod"
+    },
+    "['techumbre', 'techo', 'cubierta', 'tejado']": {
+        "prompt": "Espa\u00f1ol: \"sombrero\" - Suomi: \"hattu\"\nEspa\u00f1ol: \"arresto\" - Suomi: \"pid\u00e4tys\"\nEspa\u00f1ol: \"bolso\" - Suomi: \"k\u00e4silaukku\"\nEspa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"cortina\" - Suomi: \"verho\"\nEspa\u00f1ol: \"techumbre\" - Suomi: \"",
+        "target": "['ulkokatto', 'katto']",
+        "word original": "roof"
+    },
+    "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']": {
+        "prompt": "Espa\u00f1ol: \"puente\" - Suomi: \"silta\"\nEspa\u00f1ol: \"memoria\" - Suomi: \"Retoriikka\"\nEspa\u00f1ol: \"amortiguador\" - Suomi: \"iskunvaimennin\"\nEspa\u00f1ol: \"hospital\" - Suomi: \"sairaala\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"barco de vela\" - Suomi: \"",
+        "target": "['purjealus', 'purjehdusalus', 'purjelaiva']",
+        "word original": "sail"
+    },
+    "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'college']": {
+        "prompt": "Espa\u00f1ol: \"pared\" - Suomi: \"sein\u00e4\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"guimbarda\" - Suomi: \"munniharppu\"\nEspa\u00f1ol: \"isla\" - Suomi: \"saari\"\nEspa\u00f1ol: \"horno\" - Suomi: \"masuuni\"\nEspa\u00f1ol: \"universidad\" - Suomi: \"",
+        "target": "['yliopisto', 'koulu', 'college', 'akatemia', 'tiedeakatemia', 'taideakatemia']",
+        "word original": "school"
+    },
+    "['sax', 'tijeras', 'tijera']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"perra\" - Suomi: \"koira\"\nEspa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"sax\" - Suomi: \"",
+        "target": "['sakset']",
+        "word original": "scissors"
+    },
+    "['semilla', 'pepita', 'simiente']": {
+        "prompt": "Espa\u00f1ol: \"factura\" - Suomi: \"lasku\"\nEspa\u00f1ol: \"est\u00f3mago\" - Suomi: \"vatsa\"\nEspa\u00f1ol: \"ave de corral\" - Suomi: \"siipikarja\"\nEspa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"",
+        "target": "['siemen']",
+        "word original": "seed"
+    },
+    "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"guimbarda\" - Suomi: \"munniharppu\"\nEspa\u00f1ol: \"cabra\" - Suomi: \"vuohi\"\nEspa\u00f1ol: \"arresto\" - Suomi: \"pid\u00e4tys\"\nEspa\u00f1ol: \"oveja\" - Suomi: \"",
+        "target": "['lammas', 'lampaat', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['estante', 'biblioteca', 'estanter\u00eda', 'librero', 'librer\u00eda', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"b\u00e9isbol\" - Suomi: \"baseball\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"estante\" - Suomi: \"",
+        "target": "['kirjahylly', 'Kirjahylly', 'kirjakaappi', 'hylly']",
+        "word original": "shelf"
+    },
+    "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'transbordador', 'ferry', 'ferri', 'bote', 'barca', 'barcos', 'casco', 'vaso']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1rbol\" - Suomi: \"puu\"\nEspa\u00f1ol: \"o\u00eddo\" - Suomi: \"korva\"\nEspa\u00f1ol: \"\u00e1ngulo\" - Suomi: \"suplementtikulmat\"\nEspa\u00f1ol: \"placa\" - Suomi: \"rekisterikilpi\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"housut\"\nEspa\u00f1ol: \"barco\" - Suomi: \"",
+        "target": "['laiva', 'alus', 'lautta', 'autolautta', 'matkustajalautta', 'vene', 'vesikulkuneuvo', 'vesialus']",
+        "word original": "ship"
+    },
+    "['camisa', 'su\u00e9ter', 'camiseta', 'jersey', 'playera', 'Camiseta manga larga', 'polera', 't-shirt', 'niqui']": {
+        "prompt": "Espa\u00f1ol: \"dedos del pie\" - Suomi: \"varvas\"\nEspa\u00f1ol: \"cajas\" - Suomi: \"laatikko\"\nEspa\u00f1ol: \"hoja\" - Suomi: \"paperi\"\nEspa\u00f1ol: \"cuadrado\" - Suomi: \"neli\u00f6\"\nEspa\u00f1ol: \"arco\" - Suomi: \"jousi\"\nEspa\u00f1ol: \"camisa\" - Suomi: \"",
+        "target": "['villapaita', 'villapusero', 't-paita', 'T-paita', 'neulepusero', 'paita', 'aluspaita', 'paitapusero']",
+        "word original": "shirt"
+    },
+    "['zapato']": {
+        "prompt": "Espa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"ducto\" - Suomi: \"akvedukti\"\nEspa\u00f1ol: \"ala\" - Suomi: \"alaniini\"\nEspa\u00f1ol: \"motor\" - Suomi: \"moottoripy\u00f6r\u00e4\"\nEspa\u00f1ol: \"bombillo\" - Suomi: \"hehkulamppu\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"",
+        "target": "['kenk\u00e4']",
+        "word original": "tongue"
+    },
+    "['piel', 'cutis', 'tegumento', 'cuero', 'marroquiner\u00eda', 'pelaje']": {
+        "prompt": "Espa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"calle\" - Suomi: \"tie\"\nEspa\u00f1ol: \"nube\" - Suomi: \"pilvi\"\nEspa\u00f1ol: \"video\" - Suomi: \"televisio\"\nEspa\u00f1ol: \"motor\" - Suomi: \"moottoripy\u00f6r\u00e4\"\nEspa\u00f1ol: \"piel\" - Suomi: \"",
+        "target": "['iho', 'nahka', 'tegumentti', 'cutis', 'turkki', 'turkis', 'talja', 'vuota']",
+        "word original": "skin"
+    },
+    "['falda', 'saya', 'enaguas', 'pollera', 'inclinaci\u00f3n', 'pendiente', 'subida', 'cuesta']": {
+        "prompt": "Espa\u00f1ol: \"hoja\" - Suomi: \"paperi\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"lusikka\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"garganta\" - Suomi: \"kanjoni\"\nEspa\u00f1ol: \"falda\" - Suomi: \"",
+        "target": "['hame', 'm\u00e4ki', 'rinne', 't\u00f6rm\u00e4']",
+        "word original": "skirt"
+    },
+    "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']": {
+        "prompt": "Espa\u00f1ol: \"tren\" - Suomi: \"juna\"\nEspa\u00f1ol: \"iglesia\" - Suomi: \"kirkko\"\nEspa\u00f1ol: \"u\u00f1a\" - Suomi: \"kynsi\"\nEspa\u00f1ol: \"nariz\" - Suomi: \"nen\u00e4\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"sierpe\" - Suomi: \"",
+        "target": "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']",
+        "word original": "snake"
+    },
+    "['calcet\u00edn', 'media', 'calcetines']": {
+        "prompt": "Espa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"casa\" - Suomi: \"julkinen rakennus\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"funci\u00f3n matem\u00e1tica\" - Suomi: \"funktio\"\nEspa\u00f1ol: \"calcet\u00edn\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "sock"
+    },
+    "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']": {
+        "prompt": "Espa\u00f1ol: \"rostro\" - Suomi: \"naama\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"ala\" - Suomi: \"alaniini\"\nEspa\u00f1ol: \"techumbre\" - Suomi: \"ulkokatto\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"maksu\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"",
+        "target": "['sieniel\u00e4imet', 'sieniel\u00e4in']",
+        "word original": "sponge"
+    },
+    "['cuchara']": {
+        "prompt": "Espa\u00f1ol: \"cola\" - Suomi: \"Ristisaatto\"\nEspa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"guante\" - Suomi: \"hansikas\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"",
+        "target": "['lusikka', 'kapusta']",
+        "word original": "spoon"
+    },
+    "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"falda\" - Suomi: \"hame\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"",
+        "target": "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde']",
+        "word original": "spring"
+    },
+    "['cuadrado', 'cuadro', 'cuadrado perfecto']": {
+        "prompt": "Espa\u00f1ol: \"cigarro\" - Suomi: \"tupakka\"\nEspa\u00f1ol: \"cepillo del pelo\" - Suomi: \"harja\"\nEspa\u00f1ol: \"hueso\" - Suomi: \"luu\"\nEspa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"cuadrado\" - Suomi: \"",
+        "target": "['neli\u00f6', 'nelikulmio', 'Neli\u00f6', 'toinen potenssi']",
+        "word original": "square"
+    },
+    "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']": {
+        "prompt": "Espa\u00f1ol: \"constituci\u00f3n\" - Suomi: \"organisaatio\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"avi\u00f3n\" - Suomi: \"ilma-alus\"\nEspa\u00f1ol: \"sombrero\" - Suomi: \"hattu\"\nEspa\u00f1ol: \"calle\" - Suomi: \"tie\"\nEspa\u00f1ol: \"estampilla\" - Suomi: \"",
+        "target": "['postimerkki', 'merkki']",
+        "word original": "stamp"
+    },
+    "['estrella', 'astro', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha', 'artista', 'protagonista']": {
+        "prompt": "Espa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"tenedor\" - Suomi: \"risteys\"\nEspa\u00f1ol: \"fuerza\" - Suomi: \"asevoimat\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"estrella\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti', '-niekka', 'supert\u00e4hti', 'ekspertti', 'tuntija', 'asiantuntija', 'taituri', 'taitaja', 'Adepti', '\u00e4ss\u00e4', 'taitoniekka', 'adepti', 'huippu-', 'mestari', 'nero', 'virtuoosi', 'velho', 'huippu', 'p\u00e4\u00e4osan esitt\u00e4j\u00e4']",
+        "word original": "star"
+    },
+    "['estaci\u00f3n', 'temporada', 'temporada de un club deportivo', 'temporada deportiva', 'per\u00edodo', 'estaci\u00f3n del a\u00f1o', 'estaciones del a\u00f1o']": {
+        "prompt": "Espa\u00f1ol: \"f\u00f3sforo\" - Suomi: \"fosfori\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"nariz\" - Suomi: \"nen\u00e4\"\nEspa\u00f1ol: \"sat\u00e9lite\" - Suomi: \"satelliitti\"\nEspa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"estaci\u00f3n\" - Suomi: \"",
+        "target": "['kausi', 'urheilukilpailun kausi', 'urheiluseuran kausi', 'vuodenaika', 'asema']",
+        "word original": "station"
+    },
+    "['tallo']": {
+        "prompt": "Espa\u00f1ol: \"\u00e1ngulo\" - Suomi: \"suplementtikulmat\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"ruoska\"\nEspa\u00f1ol: \"econom\u00eda\" - Suomi: \"talosel\u00e4m\u00e4\"\nEspa\u00f1ol: \"gato\" - Suomi: \"mirri\"\nEspa\u00f1ol: \"tallo\" - Suomi: \"",
+        "target": "['varsi', 'Varsi']",
+        "word original": "stem"
+    },
+    "['cigarro', 'cigarrillo', 'colilla', 'pitillo', 'no fumador', 'h\u00e1bito de fumar', 'fumar', 'fumada', 'puro', 'cigarro puro', 'chicote', 'tagarnina']": {
+        "prompt": "Espa\u00f1ol: \"ala\" - Suomi: \"alaniini\"\nEspa\u00f1ol: \"balde\" - Suomi: \"\u00e4mp\u00e4ri\"\nEspa\u00f1ol: \"dedo\" - Suomi: \"keskisormi\"\nEspa\u00f1ol: \"pluma\" - Suomi: \"h\u00f6yhenet\"\nEspa\u00f1ol: \"sax\" - Suomi: \"sakset\"\nEspa\u00f1ol: \"cigarro\" - Suomi: \"",
+        "target": "['tupakka', 'savuke', 'Savuke', 'r\u00f6\u00f6ki', 's\u00e4tk\u00e4', 'sy\u00f6p\u00e4k\u00e4\u00e4ryle', 'kessu', 'tupakointi', 'tupakoimaton', 'savut', 'tupakanpoltto', 'sikari']",
+        "word original": "stick"
+    },
+    "['medias', 'media']": {
+        "prompt": "Espa\u00f1ol: \"hervidor\" - Suomi: \"teepannu\"\nEspa\u00f1ol: \"martillo\" - Suomi: \"moukarinheitto\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"c\u00e1scara de manzana\" - Suomi: \"omena\"\nEspa\u00f1ol: \"red de computadoras\" - Suomi: \"internet\"\nEspa\u00f1ol: \"medias\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "stocking"
+    },
+    "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero']": {
+        "prompt": "Espa\u00f1ol: \"gusano\" - Suomi: \"lierot\"\nEspa\u00f1ol: \"ventana\" - Suomi: \"ikkuna\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"pulgar\" - Suomi: \"peukalo\"\nEspa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"est\u00f3mago\" - Suomi: \"",
+        "target": "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu']",
+        "word original": "stomach"
+    },
+    "['memoria', 'ret\u00f3rica', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional', 'estudio', 'reporte', 'informe']": {
+        "prompt": "Espa\u00f1ol: \"huevo de gallina\" - Suomi: \"muna\"\nEspa\u00f1ol: \"sax\" - Suomi: \"sakset\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"barbilla\" - Suomi: \"leuka\"\nEspa\u00f1ol: \"memoria\" - Suomi: \"",
+        "target": "['Retoriikka', 'retoriikka', 'muisti', 'Muisti', 'muistaminen', 'muistikortti', 'tietokonemuisti', 'raportti', 'selvitys', 'selostus', 'kirjallinen raportti', 'tutkimus']",
+        "word original": "store"
+    },
+    "['calle', 'carretera', 'camino', 'itinerario', 'ruta', 'rua']": {
+        "prompt": "Espa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"camisa\" - Suomi: \"villapaita\"\nEspa\u00f1ol: \"l\u00e1piz\" - Suomi: \"lyijykyn\u00e4\"\nEspa\u00f1ol: \"pel\u00edcula\" - Suomi: \"filmi\"\nEspa\u00f1ol: \"taza\" - Suomi: \"potta\"\nEspa\u00f1ol: \"calle\" - Suomi: \"",
+        "target": "['tie', 'maantie', 'reitti', 'katu']",
+        "word original": "street"
+    },
+    "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']": {
+        "prompt": "Espa\u00f1ol: \"caballo\" - Suomi: \"hevonen\"\nEspa\u00f1ol: \"iglesia\" - Suomi: \"kirkko\"\nEspa\u00f1ol: \"falda\" - Suomi: \"hame\"\nEspa\u00f1ol: \"joya\" - Suomi: \"koru\"\nEspa\u00f1ol: \"cola\" - Suomi: \"Ristisaatto\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"",
+        "target": "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']",
+        "word original": "sun"
+    },
+    "['mesa', 'meseta', 'aljarafe', 'altiplano', 'ajarafe', 'altiplan\u00edcie']": {
+        "prompt": "Espa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"trampa\" - Suomi: \"sieppaaminen\"\nEspa\u00f1ol: \"esponja\" - Suomi: \"sieniel\u00e4imet\"\nEspa\u00f1ol: \"bolsillo\" - Suomi: \"taskukirja\"\nEspa\u00f1ol: \"boca\" - Suomi: \"suu\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"",
+        "target": "['yl\u00e4nk\u00f6', 'tasanko', 'laakiomaa', 'p\u00f6yt\u00e4']",
+        "word original": "table"
+    },
+    "['cola', 'procesi\u00f3n', 'convoy', 'pompa', 'comparsa', 'comitiva', 'romer\u00eda', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'tren', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"camisa\" - Suomi: \"villapaita\"\nEspa\u00f1ol: \"botella\" - Suomi: \"pullo\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"queso\" - Suomi: \"juusto\"\nEspa\u00f1ol: \"bandera\" - Suomi: \"lippu\"\nEspa\u00f1ol: \"cola\" - Suomi: \"",
+        "target": "['Ristisaatto', 'kulkue', 'ristisaatto', 'Prosessio', 'saatto', 'paraati', 'pyrst\u00f6', 'h\u00e4nt\u00e4', 'voimalinja', 'hammasv\u00e4litys', 'vaihteisto', 'vaihdelaitteisto', 'vaihde', 'voimansiirtolaitteisto', 'vipulaitteisto', 'vaihteet']",
+        "word original": "tail"
+    },
+    "['hilo', 'hebra', 'hilado', 'lana', 'hilaza', 'cordel', 'mecate', 'cuerda', 'guita', 'bramante', 'cord\u00f3n']": {
+        "prompt": "Espa\u00f1ol: \"mono\" - Suomi: \"apina\"\nEspa\u00f1ol: \"universidad\" - Suomi: \"yliopisto\"\nEspa\u00f1ol: \"piel\" - Suomi: \"iho\"\nEspa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"semilla\" - Suomi: \"siemen\"\nEspa\u00f1ol: \"hilo\" - Suomi: \"",
+        "target": "['rihma', 'lanka', 'kuitu', 's\u00e4ie', 'naru', 'ny\u00f6ri']",
+        "word original": "thread"
+    },
+    "['garganta', 'ca\u00f1\u00f3n', 'desfiladero', 'ca\u00f1\u00f3', 'canon', 'congosto', 'can\u00f3n', 'barranca', 'faringe']": {
+        "prompt": "Espa\u00f1ol: \"nudo\" - Suomi: \"varsi\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"balde\" - Suomi: \"\u00e4mp\u00e4ri\"\nEspa\u00f1ol: \"joya\" - Suomi: \"koru\"\nEspa\u00f1ol: \"granja\" - Suomi: \"maatila\"\nEspa\u00f1ol: \"garganta\" - Suomi: \"",
+        "target": "['kanjoni', 'rotkolaakso', 'kurkku', 'pharynx', 'nielu']",
+        "word original": "throat"
+    },
+    "['pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']": {
+        "prompt": "Espa\u00f1ol: \"f\u00f3sforo\" - Suomi: \"fosfori\"\nEspa\u00f1ol: \"coraz\u00f3n\" - Suomi: \"syd\u00e4n\"\nEspa\u00f1ol: \"barco de vela\" - Suomi: \"purjealus\"\nEspa\u00f1ol: \"medias\" - Suomi: \"sukka\"\nEspa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"pulgar\" - Suomi: \"",
+        "target": "['peukalo', 'pollex']",
+        "word original": "thumb"
+    },
+    "['tarifa', 'honorario', 'tasa', 'cuota', 'honorarios', 'estipendio', 'pasaje', 'billete']": {
+        "prompt": "Espa\u00f1ol: \"hormiga\" - Suomi: \"muurahainen\"\nEspa\u00f1ol: \"tallo\" - Suomi: \"varsi\"\nEspa\u00f1ol: \"ilustraci\u00f3n\" - Suomi: \"valistusaika\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"cajas\" - Suomi: \"laatikko\"\nEspa\u00f1ol: \"tarifa\" - Suomi: \"",
+        "target": "['maksu', 'palkkio', 'hinta', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta']",
+        "word original": "ticket"
+    },
+    "['dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie', 'dedo']": {
+        "prompt": "Espa\u00f1ol: \"chica\" - Suomi: \"tytt\u00f6\"\nEspa\u00f1ol: \"factura\" - Suomi: \"lasku\"\nEspa\u00f1ol: \"tenedor\" - Suomi: \"risteys\"\nEspa\u00f1ol: \"bolso\" - Suomi: \"k\u00e4silaukku\"\nEspa\u00f1ol: \"iglesia\" - Suomi: \"kirkko\"\nEspa\u00f1ol: \"dedos del pie\" - Suomi: \"",
+        "target": "['varvas']",
+        "word original": "toe"
+    },
+    "['diente', 'dientes', 'diente humano']": {
+        "prompt": "Espa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"arado\" - Suomi: \"aura\"\nEspa\u00f1ol: \"paraguas\" - Suomi: \"sateenvarjo\"\nEspa\u00f1ol: \"arma\" - Suomi: \"ase\"\nEspa\u00f1ol: \"ganado bovino\" - Suomi: \"karja\"\nEspa\u00f1ol: \"diente\" - Suomi: \"",
+        "target": "['hammas', 'Hammas']",
+        "word original": "tooth"
+    },
+    "['tren', 'ferrocarril', 'locomotora', 'trenes', 'convoy', 'procesi\u00f3n', 'cola', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'marcha', 'engranaje']": {
+        "prompt": "Espa\u00f1ol: \"comit\u00e9\" - Suomi: \"komitea\"\nEspa\u00f1ol: \"balde\" - Suomi: \"\u00e4mp\u00e4ri\"\nEspa\u00f1ol: \"estante\" - Suomi: \"kirjahylly\"\nEspa\u00f1ol: \"ventana\" - Suomi: \"ikkuna\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"henkil\u00f6kortti\"\nEspa\u00f1ol: \"tren\" - Suomi: \"",
+        "target": "['juna', 'opettaa', 'harjoittaa', 'voimalinja', 'hammasv\u00e4litys', 'vaihteisto', 'vaihdelaitteisto', 'vaihde', 'voimansiirtolaitteisto', 'vipulaitteisto', 'vaihteet']",
+        "word original": "train"
+    },
+    "['\u00e1rbol', 'arbol']": {
+        "prompt": "Espa\u00f1ol: \"sierpe\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"zapato\" - Suomi: \"kenk\u00e4\"\nEspa\u00f1ol: \"u\u00f1a\" - Suomi: \"kynsi\"\nEspa\u00f1ol: \"o\u00eddo\" - Suomi: \"korva\"\nEspa\u00f1ol: \"\u00e1rbol\" - Suomi: \"",
+        "target": "['puu']",
+        "word original": "tree"
+    },
+    "['pantal\u00f3n', 'pantalones', 'herales']": {
+        "prompt": "Espa\u00f1ol: \"rodilla\" - Suomi: \"polvi\"\nEspa\u00f1ol: \"mente\" - Suomi: \"Nous\"\nEspa\u00f1ol: \"anillo\" - Suomi: \"sormus\"\nEspa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"paquete\" - Suomi: \"ohjelmisto\"\nEspa\u00f1ol: \"pantal\u00f3n\" - Suomi: \"",
+        "target": "['housut']",
+        "word original": "trousers"
+    },
+    "['paraguas', 'sombrilla', 'parasol']": {
+        "prompt": "Espa\u00f1ol: \"c\u00edrculo\" - Suomi: \"ympyr\u00e4\"\nEspa\u00f1ol: \"comit\u00e9\" - Suomi: \"komitea\"\nEspa\u00f1ol: \"ventana\" - Suomi: \"ikkuna\"\nEspa\u00f1ol: \"cuchillo\" - Suomi: \"veitsi\"\nEspa\u00f1ol: \"pel\u00edcula\" - Suomi: \"filmi\"\nEspa\u00f1ol: \"paraguas\" - Suomi: \"",
+        "target": "['sateenvarjo']",
+        "word original": "umbrella"
+    },
+    "['pared', 'muro', 'muralla']": {
+        "prompt": "Espa\u00f1ol: \"arresto\" - Suomi: \"pid\u00e4tys\"\nEspa\u00f1ol: \"pierna\" - Suomi: \"jalka\"\nEspa\u00f1ol: \"trampa\" - Suomi: \"sieppaaminen\"\nEspa\u00f1ol: \"patata\" - Suomi: \"peruna\"\nEspa\u00f1ol: \"cable\" - Suomi: \"kaapelitelevisio\"\nEspa\u00f1ol: \"pared\" - Suomi: \"",
+        "target": "['sein\u00e4', 'muuri']",
+        "word original": "wall"
+    },
+    "['bicicleta', 'bici', 'bicicletas']": {
+        "prompt": "Espa\u00f1ol: \"falda\" - Suomi: \"hame\"\nEspa\u00f1ol: \"cuello\" - Suomi: \"kaula\"\nEspa\u00f1ol: \"tenedor\" - Suomi: \"risteys\"\nEspa\u00f1ol: \"guimbarda\" - Suomi: \"munniharppu\"\nEspa\u00f1ol: \"manantial\" - Suomi: \"l\u00e4hde\"\nEspa\u00f1ol: \"bicicleta\" - Suomi: \"",
+        "target": "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari']",
+        "word original": "wheel"
+    },
+    "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']": {
+        "prompt": "Espa\u00f1ol: \"puerta\" - Suomi: \"ovi\"\nEspa\u00f1ol: \"universidad\" - Suomi: \"yliopisto\"\nEspa\u00f1ol: \"ba\u00fal\" - Suomi: \"Arkku\"\nEspa\u00f1ol: \"documento nacional de identidad\" - Suomi: \"henkil\u00f6kortti\"\nEspa\u00f1ol: \"pie\" - Suomi: \"indoeurooppalainen kantakieli\"\nEspa\u00f1ol: \"fuete\" - Suomi: \"",
+        "target": "['ruoska', 'piiska']",
+        "word original": "whip"
+    },
+    "['ventana']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"cabello\" - Suomi: \"karvoitus\"\nEspa\u00f1ol: \"m\u00fasculo\" - Suomi: \"lihas\"\nEspa\u00f1ol: \"chica\" - Suomi: \"tytt\u00f6\"\nEspa\u00f1ol: \"ropa\" - Suomi: \"vaatetus\"\nEspa\u00f1ol: \"ventana\" - Suomi: \"",
+        "target": "['ikkuna', 'akkuna']",
+        "word original": "window"
+    },
+    "['ala', 'alanina']": {
+        "prompt": "Espa\u00f1ol: \"reloj\" - Suomi: \"kello\"\nEspa\u00f1ol: \"mesa\" - Suomi: \"yl\u00e4nk\u00f6\"\nEspa\u00f1ol: \"barco\" - Suomi: \"laiva\"\nEspa\u00f1ol: \"nervio\" - Suomi: \"hermo\"\nEspa\u00f1ol: \"horno\" - Suomi: \"masuuni\"\nEspa\u00f1ol: \"ala\" - Suomi: \"",
+        "target": "['alaniini', 'Alaniini', 'siipi']",
+        "word original": "wing"
+    },
+    "['cable', 'televisi\u00f3n por cable', 'alambre']": {
+        "prompt": "Espa\u00f1ol: \"diente\" - Suomi: \"hammas\"\nEspa\u00f1ol: \"naranja\" - Suomi: \"oranssius\"\nEspa\u00f1ol: \"domingo\" - Suomi: \"sunnuntai\"\nEspa\u00f1ol: \"v\u00eda\" - Suomi: \"katu\"\nEspa\u00f1ol: \"cuchara\" - Suomi: \"lusikka\"\nEspa\u00f1ol: \"cable\" - Suomi: \"",
+        "target": "['kaapelitelevisio', 'Kaapelitelevisio', 'vaijeri', 'johto', 'kaapeli', 'johdin', 's\u00e4hk\u00f6johto']",
+        "word original": "wire"
+    },
+    "['gusano', 'lombriz de tierra', 'Lumbricina', 'lombriz', 'Crassiclitellata', 'verme']": {
+        "prompt": "Espa\u00f1ol: \"biblioteca\" - Suomi: \"kirjasto\"\nEspa\u00f1ol: \"ni\u00f1o\" - Suomi: \"alaik\u00e4inen\"\nEspa\u00f1ol: \"timbre\" - Suomi: \"postimerkki\"\nEspa\u00f1ol: \"tren\" - Suomi: \"juna\"\nEspa\u00f1ol: \"bolsillo\" - Suomi: \"taskukirja\"\nEspa\u00f1ol: \"gusano\" - Suomi: \"",
+        "target": "['lierot', 'Lumbricina', 'kastemato', 'onkimato', 'Crassiclitellata', 'kasteliero', 'onkiliero', 'mato', 'iso kastemato', 'toukka']",
+        "word original": "worm"
+    }
+}

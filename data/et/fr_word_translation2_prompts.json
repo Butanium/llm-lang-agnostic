@@ -1,0 +1,812 @@
+{
+    "['nurk']": {
+        "prompt": "Eesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"pidur\" - Fran\u00e7ais: \"freinage\"\nEesti: \"postmark\" - Fran\u00e7ais: \"timbre-poste\"\nEesti: \"haamer\" - Fran\u00e7ais: \"marteau\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"nurk\" - Fran\u00e7ais: \"",
+        "target": "['angle', 'angles oppos\u00e9s par le sommet', 'angles suppl\u00e9mentaires', 'angles adjacents', 'angles compl\u00e9mentaires', 'coin', 'coin de rue']",
+        "word original": "angle"
+    },
+    "['sipelgas', 'sipelglased', 'Sipelglased']": {
+        "prompt": "Eesti: \"ahv\" - Fran\u00e7ais: \"singe\"\nEesti: \"Sukad\" - Fran\u00e7ais: \"bas\"\nEesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"sipelgas\" - Fran\u00e7ais: \"",
+        "target": "['fourmi', 'Formicidae']",
+        "word original": "ant"
+    },
+    "['\u00f5un']": {
+        "prompt": "Eesti: \"ID-kaart\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"ahi\" - Fran\u00e7ais: \"four\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"\u00f5un\" - Fran\u00e7ais: \"",
+        "target": "['peau de pomme', 'pomme']",
+        "word original": "apple"
+    },
+    "['Kaar', 'S\u00e4delahendus', 'Kaarlahendus', 'elektrilahendus', 'kaarlahendus', 'Elektrilahendus', 's\u00e4delahendus']": {
+        "prompt": "Eesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"kontor\" - Fran\u00e7ais: \"organisme\"\nEesti: \"haamer\" - Fran\u00e7ais: \"marteau\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"Kaar\" - Fran\u00e7ais: \"",
+        "target": "['arc', 'arc \u00e9lectrique', '\u00e9tincelle \u00e9lectrique', 'd\u00e9charge \u00e9lectrique', 'Arc \u00e9lectrique']",
+        "word original": "arch"
+    },
+    "['relv', 'tulirelv']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"koer\" - Fran\u00e7ais: \"chien\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"nuga\" - Fran\u00e7ais: \"couteau\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"relv\" - Fran\u00e7ais: \"",
+        "target": "['arme', 'arme \u00e0 feu', 'arme de projectile', 'pistolet']",
+        "word original": "arm"
+    },
+    "['relvaj\u00f5ud', 's\u00f5jav\u00e4gi']": {
+        "prompt": "Eesti: \"Hari\" - Fran\u00e7ais: \"cimier\"\nEesti: \"tiib\" - Fran\u00e7ais: \"aile\"\nEesti: \"joonistus\" - Fran\u00e7ais: \"illustration\"\nEesti: \"lusikas\" - Fran\u00e7ais: \"cuill\u00e8re\"\nEesti: \"raudtees\u00f5iduk\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEesti: \"relvaj\u00f5ud\" - Fran\u00e7ais: \"",
+        "target": "['forces arm\u00e9es', 'arm\u00e9e', 'machine de guerre', 'troupes']",
+        "word original": "army"
+    },
+    "['v\u00e4ikelaps', 'beebi', 'Imik', 'imik']": {
+        "prompt": "Eesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"vars\" - Fran\u00e7ais: \"tige\"\nEesti: \"haigla\" - Fran\u00e7ais: \"h\u00f4pital\"\nEesti: \"kedrus\" - Fran\u00e7ais: \"fil\"\nEesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"",
+        "target": "['nourrisson', 'nourisson', 'b\u00e9b\u00e9', 'enfant en bas \u00e2ge', 'poupon', 'enfant']",
+        "word original": "baby"
+    },
+    "['pesapall']": {
+        "prompt": "Eesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"haamer\" - Fran\u00e7ais: \"marteau\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"nurk\" - Fran\u00e7ais: \"angle\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"pesapall\" - Fran\u00e7ais: \"",
+        "target": "['baseball']",
+        "word original": "ball"
+    },
+    "['s\u00f5rmus']": {
+        "prompt": "Eesti: \"k\u00e4ekell\" - Fran\u00e7ais: \"bracelet-montre\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"salle de bain\"\nEesti: \"raudtees\u00f5iduk\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"",
+        "target": "['anneau', 'bague']",
+        "word original": "ring"
+    },
+    "['kraanikauss', 'bassein', 'Bassein', 'valamu']": {
+        "prompt": "Eesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"verre\"\nEesti: \"kontor\" - Fran\u00e7ais: \"organisme\"\nEesti: \"uss\" - Fran\u00e7ais: \"ver\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"",
+        "target": "['lavabo', '\u00e9vier']",
+        "word original": "basin"
+    },
+    "['korv', 'k\u00f5rv']": {
+        "prompt": "Eesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"muna\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEesti: \"kurk\" - Fran\u00e7ais: \"concombre\"\nEesti: \"aken\" - Fran\u00e7ais: \"rebord\"\nEesti: \"korv\" - Fran\u00e7ais: \"",
+        "target": "['oreille', 'oreilles', 'panier']",
+        "word original": "basket"
+    },
+    "['vannituba']": {
+        "prompt": "Eesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"kuu\" - Fran\u00e7ais: \"mois\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"allikas\" - Fran\u00e7ais: \"source\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"",
+        "target": "['salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'toilette']",
+        "word original": "bath"
+    },
+    "['voodi']": {
+        "prompt": "Eesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"Kirst\" - Fran\u00e7ais: \"coffre\"\nEesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"paire de ciseaux\"\nEesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"voodi\" - Fran\u00e7ais: \"",
+        "target": "['lit', 'couche']",
+        "word original": "bed"
+    },
+    "['mesilane', 'Mesilased']": {
+        "prompt": "Eesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"purjekas\" - Fran\u00e7ais: \"voilier\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"",
+        "target": "['abeille']",
+        "word original": "bee"
+    },
+    "['uksekell']": {
+        "prompt": "Eesti: \"allikas\" - Fran\u00e7ais: \"source\"\nEesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"kontor\" - Fran\u00e7ais: \"organisme\"\nEesti: \"l\u00f5ug\" - Fran\u00e7ais: \"menton\"\nEesti: \"uksekell\" - Fran\u00e7ais: \"",
+        "target": "['sonnette']",
+        "word original": "bell"
+    },
+    "['lind', 'linnud']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"kass\" - Fran\u00e7ais: \"minou\"\nEesti: \"l\u00f5ug\" - Fran\u00e7ais: \"menton\"\nEesti: \"saar\" - Fran\u00e7ais: \"ile\"\nEesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"lind\" - Fran\u00e7ais: \"",
+        "target": "['oiseau']",
+        "word original": "bird"
+    },
+    "['m\u00f5\u00f5k']": {
+        "prompt": "Eesti: \"kits\" - Fran\u00e7ais: \"ch\u00e8vre\"\nEesti: \"Kaar\" - Fran\u00e7ais: \"arc\"\nEesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"sein\" - Fran\u00e7ais: \"mur\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9p\u00e9e', 'glaive', 'lame']",
+        "word original": "blade"
+    },
+    "['komitee', 'komisjon']": {
+        "prompt": "Eesti: \"arve\" - Fran\u00e7ais: \"anicroche\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"komitee\" - Fran\u00e7ais: \"",
+        "target": "['comit\u00e9', 'commission']",
+        "word original": "board"
+    },
+    "['paat']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"s\u00e4rk\" - Fran\u00e7ais: \"chemise\"\nEesti: \"tilk\" - Fran\u00e7ais: \"lentigo\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"verre\"\nEesti: \"ihunuhtlus\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nEesti: \"paat\" - Fran\u00e7ais: \"",
+        "target": "['bateau', 'nacelle', 'barque', 'canot']",
+        "word original": "boat"
+    },
+    "['kont', 'luu']": {
+        "prompt": "Eesti: \"k\u00fc\u00fcs\" - Fran\u00e7ais: \"ongle\"\nEesti: \"kell\" - Fran\u00e7ais: \"cloche\"\nEesti: \"piits\" - Fran\u00e7ais: \"fouet\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"kont\" - Fran\u00e7ais: \"",
+        "target": "['os']",
+        "word original": "bone"
+    },
+    "['raamat']": {
+        "prompt": "Eesti: \"arve\" - Fran\u00e7ais: \"anicroche\"\nEesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"corps humain\"\nEesti: \"p\u00fcksid\" - Fran\u00e7ais: \"falzar\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"raamat\" - Fran\u00e7ais: \"",
+        "target": "['livre']",
+        "word original": "book"
+    },
+    "['pudel']": {
+        "prompt": "Eesti: \"voodi\" - Fran\u00e7ais: \"lit\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"salle de bain\"\nEesti: \"laud\" - Fran\u00e7ais: \"table\"\nEesti: \"\u00f5un\" - Fran\u00e7ais: \"peau de pomme\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"pudel\" - Fran\u00e7ais: \"",
+        "target": "['bouteille']",
+        "word original": "bottle"
+    },
+    "['Kast', 'kastis\u00fcsteem', 'Kastis\u00fcsteem']": {
+        "prompt": "Eesti: \"pilv\" - Fran\u00e7ais: \"nuage\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"v\u00f5ti\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEesti: \"Sigar\" - Fran\u00e7ais: \"cigare\"\nEesti: \"Hiir\" - Fran\u00e7ais: \"souris\"\nEesti: \"Kast\" - Fran\u00e7ais: \"",
+        "target": "['caste', 'caisse', 'bo\u00eete']",
+        "word original": "box"
+    },
+    "['poiss']": {
+        "prompt": "Eesti: \"veised\" - Fran\u00e7ais: \"vache\"\nEesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"nourrisson\"\nEesti: \"ID-kaart\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"salle de bain\"\nEesti: \"poiss\" - Fran\u00e7ais: \"",
+        "target": "['gar\u00e7on', 'petit ami', 'ami', 'mec', 'copain', 'homme', 'fils']",
+        "word original": "boy"
+    },
+    "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'vaim', 'Vaim']": {
+        "prompt": "Eesti: \"seeme\" - Fran\u00e7ais: \"graine\"\nEesti: \"p\u00fcksid\" - Fran\u00e7ais: \"falzar\"\nEesti: \"paat\" - Fran\u00e7ais: \"bateau\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"nous\" - Fran\u00e7ais: \"",
+        "target": "['psych\u00e9', 'esprit', 'no\u00fbs', 'No\u00fbs', 'cerveau', 't\u00eate']",
+        "word original": "head"
+    },
+    "['pidur']": {
+        "prompt": "Eesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"puu\" - Fran\u00e7ais: \"arbre\"\nEesti: \"\u00f5un\" - Fran\u00e7ais: \"peau de pomme\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"pidur\" - Fran\u00e7ais: \"",
+        "target": "['freinage', 'frein']",
+        "word original": "brake"
+    },
+    "['\u00f6konoomika', 'majandusteadus', 'Poliitiline \u00f6konoomia', 'poliitiline \u00f6konoomia']": {
+        "prompt": "Eesti: \"t\u00fcdruk\" - Fran\u00e7ais: \"fille\"\nEesti: \"vangla\" - Fran\u00e7ais: \"prison\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"",
+        "target": "['science \u00e9conomique', '\u00e9conomie', '\u00e9conomie politique', 'sciences \u00e9conomiques', 'Sciences \u00e9conomiques']",
+        "word original": "branch"
+    },
+    "['tellis']": {
+        "prompt": "Eesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"tellis\" - Fran\u00e7ais: \"",
+        "target": "['brique']",
+        "word original": "brick"
+    },
+    "['sild']": {
+        "prompt": "Eesti: \"s\u00f5rmik\" - Fran\u00e7ais: \"gant\"\nEesti: \"riietus\" - Fran\u00e7ais: \"fringue\"\nEesti: \"tilk\" - Fran\u00e7ais: \"lentigo\"\nEesti: \"kaamera\" - Fran\u00e7ais: \"appareil photographique\"\nEesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"sild\" - Fran\u00e7ais: \"",
+        "target": "['pont', 'liste de ponts romains', 'passerelle']",
+        "word original": "bridge"
+    },
+    "['Hari', 'pintsel']": {
+        "prompt": "Eesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"purjekas\" - Fran\u00e7ais: \"voilier\"\nEesti: \"Kook\" - Fran\u00e7ais: \"cuisine\"\nEesti: \"uss\" - Fran\u00e7ais: \"ver\"\nEesti: \"Hari\" - Fran\u00e7ais: \"",
+        "target": "['cimier', 'aigrette', 'huppe', 'brosse', 'brosse \u00e0 cheveux']",
+        "word original": "brush"
+    },
+    "['\u00c4mber', 'pang']": {
+        "prompt": "Eesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"nahk\" - Fran\u00e7ais: \"peau\"\nEesti: \"ID-kaart\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEesti: \"pliiats\" - Fran\u00e7ais: \"crayon\"\nEesti: \"juust\" - Fran\u00e7ais: \"fromage\"\nEesti: \"\u00c4mber\" - Fran\u00e7ais: \"",
+        "target": "['seau', 'chaudi\u00e8re', 'bac', 'baquet']",
+        "word original": "bucket"
+    },
+    "['pirn', 'elektripirn', 'lamp', 'Elektervalgustus', 'elektervalgustus', 'h\u00f5\u00f5glamp']": {
+        "prompt": "Eesti: \"mootor\" - Fran\u00e7ais: \"moteur\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"nurk\" - Fran\u00e7ais: \"angle\"\nEesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"pirn\" - Fran\u00e7ais: \"",
+        "target": "['ampoule', 'lampe incandescente', 'lampe \u00e0 incandescence', 'ampoule \u00e0 incandescence', 'lampe \u00e9lectrique', 'lampe']",
+        "word original": "bulb"
+    },
+    "['Kook', 'kulinaarne', 'rahvusk\u00f6\u00f6k', 'kokakunst', 'K\u00f6\u00f6k', 'kulinaaria', 'kokandus', 'k\u00f6\u00f6k']": {
+        "prompt": "Eesti: \"kornet\" - Fran\u00e7ais: \"citaro\"\nEesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"nourrisson\"\nEesti: \"sulgloomad\" - Fran\u00e7ais: \"volaille\"\nEesti: \"s\u00f5rmik\" - Fran\u00e7ais: \"gant\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"Kook\" - Fran\u00e7ais: \"",
+        "target": "['cuisine', 'gastronomie', 'gastrologie', 'culinaire', 'art culinaire', 'g\u00e2teau']",
+        "word original": "cake"
+    },
+    "['kaamera', 'fotoaparaat']": {
+        "prompt": "Eesti: \"ahv\" - Fran\u00e7ais: \"singe\"\nEesti: \"Kook\" - Fran\u00e7ais: \"cuisine\"\nEesti: \"labak\u00e4si\" - Fran\u00e7ais: \"main\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"pidur\" - Fran\u00e7ais: \"freinage\"\nEesti: \"kaamera\" - Fran\u00e7ais: \"",
+        "target": "['appareil photographique', 'cam\u00e9ra', 'appareil photo']",
+        "word original": "camera"
+    },
+    "['ID-kaart', 'isikutunnistus']": {
+        "prompt": "Eesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"lusikas\" - Fran\u00e7ais: \"cuill\u00e8re\"\nEesti: \"huuled\" - Fran\u00e7ais: \"l\u00e8vres\"\nEesti: \"silm\" - Fran\u00e7ais: \"yeux\"\nEesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"ID-kaart\" - Fran\u00e7ais: \"",
+        "target": "['pi\u00e8ce d\u2019identit\u00e9', \"carte d'identit\u00e9\", \"carte d'identification\", \"pi\u00e8ce d'identit\u00e9\", 'carte d\u2019identit\u00e9', 'carte', 'document']",
+        "word original": "card"
+    },
+    "['raudtees\u00f5iduk', 'mootorvagun', 'vagun', 'Vagun', 'Mootorvagun', 't\u00f5ld', 'T\u00f5ld']": {
+        "prompt": "Eesti: \"Kirst\" - Fran\u00e7ais: \"coffre\"\nEesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"Sigar\" - Fran\u00e7ais: \"cigare\"\nEesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"corps humain\"\nEesti: \"raudtees\u00f5iduk\" - Fran\u00e7ais: \"",
+        "target": "['v\u00e9hicule ferroviaire', 'wagon', 'automotrice', 'autorail', 'automotrice tractrice', 'v\u00e9hicule ferroviaire remorqu\u00e9', 'v\u00e9hicule automoteur', 'voiture', 'carrosse', '\u00e9quipage', 'voiture \u00e0 cheval']",
+        "word original": "carriage"
+    },
+    "['kass']": {
+        "prompt": "Eesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"kirik\" - Fran\u00e7ais: \"\u00e9glise\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"kass\" - Fran\u00e7ais: \"",
+        "target": "['minou', 'chat', 'chat domestique']",
+        "word original": "cat"
+    },
+    "['juust', 's\u00f5ir']": {
+        "prompt": "Eesti: \"lennuk\" - Fran\u00e7ais: \"appareil volant\"\nEesti: \"lusikas\" - Fran\u00e7ais: \"cuill\u00e8re\"\nEesti: \"amortisaator\" - Fran\u00e7ais: \"amortisseur\"\nEesti: \"Hambad\" - Fran\u00e7ais: \"dents\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"juust\" - Fran\u00e7ais: \"",
+        "target": "['fromage']",
+        "word original": "cheese"
+    },
+    "['Kirst']": {
+        "prompt": "Eesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"paire de ciseaux\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"t\u00fcdruk\" - Fran\u00e7ais: \"fille\"\nEesti: \"pliiats\" - Fran\u00e7ais: \"crayon\"\nEesti: \"Kirst\" - Fran\u00e7ais: \"",
+        "target": "['coffre', 'malle']",
+        "word original": "chest"
+    },
+    "['l\u00f5ug']": {
+        "prompt": "Eesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"corps humain\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"kaamera\" - Fran\u00e7ais: \"appareil photographique\"\nEesti: \"Kast\" - Fran\u00e7ais: \"caste\"\nEesti: \"l\u00f5ug\" - Fran\u00e7ais: \"",
+        "target": "['menton']",
+        "word original": "chin"
+    },
+    "['kirik']": {
+        "prompt": "Eesti: \"pilv\" - Fran\u00e7ais: \"nuage\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"kala\" - Fran\u00e7ais: \"poisson\"\nEesti: \"p\u00f5lv\" - Fran\u00e7ais: \"genou\"\nEesti: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEesti: \"kirik\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9glise']",
+        "word original": "church"
+    },
+    "['ringjoon', 'ring']": {
+        "prompt": "Eesti: \"M\u00e4lu\" - Fran\u00e7ais: \"m\u00e9moire\"\nEesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"nourrisson\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"uksekell\" - Fran\u00e7ais: \"sonnette\"\nEesti: \"ringjoon\" - Fran\u00e7ais: \"",
+        "target": "['cercle', 'rond']",
+        "word original": "circle"
+    },
+    "['kell', 'k\u00e4ekell']": {
+        "prompt": "Eesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"l\u00f5ug\" - Fran\u00e7ais: \"menton\"\nEesti: \"veised\" - Fran\u00e7ais: \"vache\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"laud\" - Fran\u00e7ais: \"table\"\nEesti: \"kell\" - Fran\u00e7ais: \"",
+        "target": "['cloche', 'horloge', 'pendule', 'bracelet-montre', 'montre', 'montre-bracelet']",
+        "word original": "clock"
+    },
+    "['pilv']": {
+        "prompt": "Eesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"pidur\" - Fran\u00e7ais: \"freinage\"\nEesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"muna\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"pilv\" - Fran\u00e7ais: \"",
+        "target": "['nuage']",
+        "word original": "cloud"
+    },
+    "['jakk']": {
+        "prompt": "Eesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"p\u00fchap\u00e4ev\" - Fran\u00e7ais: \"dimanche\"\nEesti: \"tulirelv\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nEesti: \"ahv\" - Fran\u00e7ais: \"singe\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"jakk\" - Fran\u00e7ais: \"",
+        "target": "['yack', 'yak', 'veste']",
+        "word original": "coat"
+    },
+    "['Vahistamine']": {
+        "prompt": "Eesti: \"p\u00fcksid\" - Fran\u00e7ais: \"falzar\"\nEesti: \"katus\" - Fran\u00e7ais: \"toit\"\nEesti: \"komitee\" - Fran\u00e7ais: \"comit\u00e9\"\nEesti: \"juust\" - Fran\u00e7ais: \"fromage\"\nEesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"corps humain\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"",
+        "target": "['arrestation']",
+        "word original": "collar"
+    },
+    "['veised', 'veis']": {
+        "prompt": "Eesti: \"m\u00fcts\" - Fran\u00e7ais: \"chapeau\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"p\u00f6ial\" - Fran\u00e7ais: \"pouce\"\nEesti: \"huuled\" - Fran\u00e7ais: \"l\u00e8vres\"\nEesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"veised\" - Fran\u00e7ais: \"",
+        "target": "['vache', 'b\u00e9tail', 'bovins', 'Bos taurus', 'bos taurus', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['Klaas', 'Tass', 'tass']": {
+        "prompt": "Eesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"v\u00f5ti\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEesti: \"sulgloomad\" - Fran\u00e7ais: \"volaille\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"doigt\"\nEesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"",
+        "target": "['verre', 'tasse', 'coupe']",
+        "word original": "cup"
+    },
+    "['eesriie', 'kardin', 'Kardin']": {
+        "prompt": "Eesti: \"lihas\" - Fran\u00e7ais: \"muscle\"\nEesti: \"haigla\" - Fran\u00e7ais: \"h\u00f4pital\"\nEesti: \"uksekell\" - Fran\u00e7ais: \"sonnette\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"doigt\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"",
+        "target": "['rideau']",
+        "word original": "curtain"
+    },
+    "['amortisaator']": {
+        "prompt": "Eesti: \"saar\" - Fran\u00e7ais: \"ile\"\nEesti: \"Kaar\" - Fran\u00e7ais: \"arc\"\nEesti: \"Internet\" - Fran\u00e7ais: \"r\u00e9seau informatique\"\nEesti: \"labak\u00e4si\" - Fran\u00e7ais: \"main\"\nEesti: \"haigla\" - Fran\u00e7ais: \"h\u00f4pital\"\nEesti: \"amortisaator\" - Fran\u00e7ais: \"",
+        "target": "['amortisseur', 'coussin']",
+        "word original": "cushion"
+    },
+    "['koer', 'Canis lupus familiaris']": {
+        "prompt": "Eesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEesti: \"koer\" - Fran\u00e7ais: \"",
+        "target": "['chien', 'Canis lupus familiaris', 'canis familiaris']",
+        "word original": "dog"
+    },
+    "['uks', '\u00fcks', '\u00dcks']": {
+        "prompt": "Eesti: \"ehtekivi\" - Fran\u00e7ais: \"joyau\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"kass\" - Fran\u00e7ais: \"minou\"\nEesti: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEesti: \"Sigar\" - Fran\u00e7ais: \"cigare\"\nEesti: \"uks\" - Fran\u00e7ais: \"",
+        "target": "['un', 'Un', 'encadrement de porte', 'porte', 'porti\u00e8re', 'huis']",
+        "word original": "drain"
+    },
+    "['joonistus', 'joonistamine']": {
+        "prompt": "Eesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"joonistus\" - Fran\u00e7ais: \"",
+        "target": "['illustration', 'figure', 'image', 'reproduction', 'dessin']",
+        "word original": "drawer"
+    },
+    "['riietus']": {
+        "prompt": "Eesti: \"pliiats\" - Fran\u00e7ais: \"crayon\"\nEesti: \"ahi\" - Fran\u00e7ais: \"four\"\nEesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"riietus\" - Fran\u00e7ais: \"",
+        "target": "['fringue', 'v\u00eatements', 'habit', 'v\u00eatement', 'habillement', 'habits', 'fringues', 'tenue', 'atours']",
+        "word original": "dress"
+    },
+    "['tilk', 'tedret\u00e4ht', 'Tedret\u00e4hed', 'tedret\u00e4hn', 'tedret\u00e4hed']": {
+        "prompt": "Eesti: \"ader\" - Fran\u00e7ais: \"charrue\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"kala\" - Fran\u00e7ais: \"poisson\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"teekann\" - Fran\u00e7ais: \"th\u00e9i\u00e8re\"\nEesti: \"tilk\" - Fran\u00e7ais: \"",
+        "target": "['lentigo', '\u00e9ph\u00e9lide', 'tache de rousseur', 'goutte de pluie', 'goutte']",
+        "word original": "drop"
+    },
+    "['k\u00f5rv']": {
+        "prompt": "Eesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEesti: \"mootor\" - Fran\u00e7ais: \"moteur\"\nEesti: \"tiib\" - Fran\u00e7ais: \"aile\"\nEesti: \"t\u00e4ht\" - Fran\u00e7ais: \"\u00e9toile\"\nEesti: \"k\u00f5rv\" - Fran\u00e7ais: \"",
+        "target": "['oreille', 'oreilles']",
+        "word original": "ear"
+    },
+    "['muna']": {
+        "prompt": "Eesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"kirik\" - Fran\u00e7ais: \"\u00e9glise\"\nEesti: \"t\u00fcdruk\" - Fran\u00e7ais: \"fille\"\nEesti: \"ID-kaart\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEesti: \"pliiats\" - Fran\u00e7ais: \"crayon\"\nEesti: \"muna\" - Fran\u00e7ais: \"",
+        "target": "['\u0153uf de poule', '\u0153uf', 'oeuf']",
+        "word original": "egg"
+    },
+    "['mootor', 'Motor']": {
+        "prompt": "Eesti: \"teekann\" - Fran\u00e7ais: \"th\u00e9i\u00e8re\"\nEesti: \"\u00fclikool\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEesti: \"komitee\" - Fran\u00e7ais: \"comit\u00e9\"\nEesti: \"pidur\" - Fran\u00e7ais: \"freinage\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"verre\"\nEesti: \"mootor\" - Fran\u00e7ais: \"",
+        "target": "['moteur', 'Motor']",
+        "word original": "engine"
+    },
+    "['silm', 'silmamuna']": {
+        "prompt": "Eesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"jalgratas\" - Fran\u00e7ais: \"v\u00e9lo\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"silm\" - Fran\u00e7ais: \"",
+        "target": "['yeux', \"globe de l'oeil\", '\u0153il', 'globe oculaire']",
+        "word original": "eye"
+    },
+    "['n\u00e4gu']": {
+        "prompt": "Eesti: \"madu\" - Fran\u00e7ais: \"serpent\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEesti: \"Riiul\" - Fran\u00e7ais: \"\u00e9tag\u00e8re\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"haigla\" - Fran\u00e7ais: \"h\u00f4pital\"\nEesti: \"n\u00e4gu\" - Fran\u00e7ais: \"",
+        "target": "['face', 'figure', 'visage']",
+        "word original": "face"
+    },
+    "['talu', 'farm']": {
+        "prompt": "Eesti: \"k\u00fc\u00fcs\" - Fran\u00e7ais: \"ongle\"\nEesti: \"vars\" - Fran\u00e7ais: \"tige\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"Sokk\" - Fran\u00e7ais: \"chaussette\"\nEesti: \"p\u00f6ial\" - Fran\u00e7ais: \"pouce\"\nEesti: \"talu\" - Fran\u00e7ais: \"",
+        "target": "['ferme', 'exploitation agricole', 'domaine']",
+        "word original": "farm"
+    },
+    "['sulg', 'sulestik', 'Sulestik', 'sulepea']": {
+        "prompt": "Eesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"sein\" - Fran\u00e7ais: \"mur\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"kell\" - Fran\u00e7ais: \"cloche\"\nEesti: \"p\u00f5lv\" - Fran\u00e7ais: \"genou\"\nEesti: \"sulg\" - Fran\u00e7ais: \"",
+        "target": "['plumage', 'barbule', 'plume', 'plum\u00e9e', 'pennage', 'stylographe', 'stylo \u00e0 encre', 'stylo']",
+        "word original": "pen"
+    },
+    "['s\u00f5rm', 'n\u00e4pp', 's\u00f5rmed']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"Hambad\" - Fran\u00e7ais: \"dents\"\nEesti: \"tiib\" - Fran\u00e7ais: \"aile\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"",
+        "target": "['doigt']",
+        "word original": "finger"
+    },
+    "['kala', 'kalad', 'Pisces']": {
+        "prompt": "Eesti: \"t\u00e4ht\" - Fran\u00e7ais: \"\u00e9toile\"\nEesti: \"kaamera\" - Fran\u00e7ais: \"appareil photographique\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"kala\" - Fran\u00e7ais: \"",
+        "target": "['poisson', 'Pisces']",
+        "word original": "fish"
+    },
+    "['lipp']": {
+        "prompt": "Eesti: \"kedrus\" - Fran\u00e7ais: \"fil\"\nEesti: \"kell\" - Fran\u00e7ais: \"cloche\"\nEesti: \"kahvel\" - Fran\u00e7ais: \"fourchette\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"ahi\" - Fran\u00e7ais: \"four\"\nEesti: \"lipp\" - Fran\u00e7ais: \"",
+        "target": "['drapeau']",
+        "word original": "flag"
+    },
+    "['org']": {
+        "prompt": "Eesti: \"p\u00fchap\u00e4ev\" - Fran\u00e7ais: \"dimanche\"\nEesti: \"ehtekivi\" - Fran\u00e7ais: \"joyau\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"huuled\" - Fran\u00e7ais: \"l\u00e8vres\"\nEesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"org\" - Fran\u00e7ais: \"",
+        "target": "['vall\u00e9e', 'val']",
+        "word original": "floor"
+    },
+    "['Kahetiivalised']": {
+        "prompt": "Eesti: \"haigla\" - Fran\u00e7ais: \"h\u00f4pital\"\nEesti: \"Hiir\" - Fran\u00e7ais: \"souris\"\nEesti: \"Riiul\" - Fran\u00e7ais: \"\u00e9tag\u00e8re\"\nEesti: \"poiss\" - Fran\u00e7ais: \"gar\u00e7on\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"",
+        "target": "['dipt\u00e8re', 'Diptera', 'mouche']",
+        "word original": "fly"
+    },
+    "['Labajalg']": {
+        "prompt": "Eesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"pesapall\" - Fran\u00e7ais: \"baseball\"\nEesti: \"ehtekivi\" - Fran\u00e7ais: \"joyau\"\nEesti: \"Labajalg\" - Fran\u00e7ais: \"",
+        "target": "['pied']",
+        "word original": "foot"
+    },
+    "['kahvel']": {
+        "prompt": "Eesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"paire de ciseaux\"\nEesti: \"Sukad\" - Fran\u00e7ais: \"bas\"\nEesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"Labajalg\" - Fran\u00e7ais: \"pied\"\nEesti: \"kahvel\" - Fran\u00e7ais: \"",
+        "target": "['fourchette']",
+        "word original": "fork"
+    },
+    "['sulgloomad', 'kodulinnud', 'kodulind', 'Galloanserae']": {
+        "prompt": "Eesti: \"teekann\" - Fran\u00e7ais: \"th\u00e9i\u00e8re\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"raudtees\u00f5iduk\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEesti: \"sulgloomad\" - Fran\u00e7ais: \"",
+        "target": "['volaille', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha']": {
+        "prompt": "Eesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"vars\" - Fran\u00e7ais: \"tige\"\nEesti: \"poiss\" - Fran\u00e7ais: \"gar\u00e7on\"\nEesti: \"kahvel\" - Fran\u00e7ais: \"fourchette\"\nEesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"",
+        "target": "['corps humain', 'carrure', 'physiologie humaine', 'ossature', 'forme', 'figure', 'chair', 'silhouette', 'physique', 'Corps humain']",
+        "word original": "frame"
+    },
+    "['aed', 'tara']": {
+        "prompt": "Eesti: \"siga\" - Fran\u00e7ais: \"porc\"\nEesti: \"k\u00e4ekell\" - Fran\u00e7ais: \"bracelet-montre\"\nEesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"paire de ciseaux\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"k\u00fc\u00fcs\" - Fran\u00e7ais: \"ongle\"\nEesti: \"aed\" - Fran\u00e7ais: \"",
+        "target": "['jardin', 'cl\u00f4ture']",
+        "word original": "garden"
+    },
+    "['t\u00fcdruk', 'plika']": {
+        "prompt": "Eesti: \"Riiul\" - Fran\u00e7ais: \"\u00e9tag\u00e8re\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"salle de bain\"\nEesti: \"hobune\" - Fran\u00e7ais: \"cheval\"\nEesti: \"Sukad\" - Fran\u00e7ais: \"bas\"\nEesti: \"t\u00fcdruk\" - Fran\u00e7ais: \"",
+        "target": "['fille', 'femme', 'jeune femme', 'jeune fille', 'petite copine', 'petite amie', 'copine']",
+        "word original": "girl"
+    },
+    "['s\u00f5rmik', 'Kindad', 'kindad']": {
+        "prompt": "Eesti: \"paat\" - Fran\u00e7ais: \"bateau\"\nEesti: \"Kirst\" - Fran\u00e7ais: \"coffre\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"k\u00fc\u00fcs\" - Fran\u00e7ais: \"ongle\"\nEesti: \"s\u00f5rmik\" - Fran\u00e7ais: \"",
+        "target": "['gant']",
+        "word original": "glove"
+    },
+    "['kits', 'kodukits', 'Capra aegagrus hircus']": {
+        "prompt": "Eesti: \"Hambad\" - Fran\u00e7ais: \"dents\"\nEesti: \"nahk\" - Fran\u00e7ais: \"peau\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"M\u00e4lu\" - Fran\u00e7ais: \"m\u00e9moire\"\nEesti: \"nurk\" - Fran\u00e7ais: \"angle\"\nEesti: \"kits\" - Fran\u00e7ais: \"",
+        "target": "['ch\u00e8vre']",
+        "word original": "goat"
+    },
+    "['tulirelv']": {
+        "prompt": "Eesti: \"mootor\" - Fran\u00e7ais: \"moteur\"\nEesti: \"funktsioon\" - Fran\u00e7ais: \"fonction\"\nEesti: \"\u00f5un\" - Fran\u00e7ais: \"peau de pomme\"\nEesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"nourrisson\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"tulirelv\" - Fran\u00e7ais: \"",
+        "target": "['arme \u00e0 feu', 'arme de projectile', 'pistolet']",
+        "word original": "gun"
+    },
+    "['karv', 'karvad']": {
+        "prompt": "Eesti: \"pesapall\" - Fran\u00e7ais: \"baseball\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"doigt\"\nEesti: \"k\u00f5rv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"karv\" - Fran\u00e7ais: \"",
+        "target": "['chevelure', 'pelage', 'cheveux', 'poil']",
+        "word original": "root"
+    },
+    "['haamer', 'vasar']": {
+        "prompt": "Eesti: \"hobune\" - Fran\u00e7ais: \"cheval\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"tilk\" - Fran\u00e7ais: \"lentigo\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"haamer\" - Fran\u00e7ais: \"",
+        "target": "['marteau']",
+        "word original": "hammer"
+    },
+    "['labak\u00e4si']": {
+        "prompt": "Eesti: \"puu\" - Fran\u00e7ais: \"arbre\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"kurk\" - Fran\u00e7ais: \"concombre\"\nEesti: \"lennuk\" - Fran\u00e7ais: \"appareil volant\"\nEesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"labak\u00e4si\" - Fran\u00e7ais: \"",
+        "target": "['main', 'patte']",
+        "word original": "hand"
+    },
+    "['m\u00fcts', 'k\u00fcbar', 'nokkm\u00fcts', 'Nokkm\u00fcts']": {
+        "prompt": "Eesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"sein\" - Fran\u00e7ais: \"mur\"\nEesti: \"ader\" - Fran\u00e7ais: \"charrue\"\nEesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"m\u00fcts\" - Fran\u00e7ais: \"",
+        "target": "['chapeau', 'Chapeau!', 'couvercle', 'casquette', 'casquette \u00e0 visi\u00e8re', 'bonnet']",
+        "word original": "hat"
+    },
+    "['s\u00fcda']": {
+        "prompt": "Eesti: \"Hiir\" - Fran\u00e7ais: \"souris\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"hobune\" - Fran\u00e7ais: \"cheval\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"seeme\" - Fran\u00e7ais: \"graine\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"",
+        "target": "['c\u0153ur', 'myocarde', 'c\u0153ur humain', 'cavit\u00e9 cardiaque']",
+        "word original": "pump"
+    },
+    "['kornet', 'parmupill', 'trompet']": {
+        "prompt": "Eesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"postmark\" - Fran\u00e7ais: \"timbre-poste\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"kornet\" - Fran\u00e7ais: \"",
+        "target": "['citaro', 'trompe-laquais', 'campurgne', 'guimbarde', 'trompettiste', 'harpe \u00e0 bouche', 'trompette tsigane', 'hanche-en-ruban', 'trompe de B\u00e9arn', 'cornet', 'trompette', 'cornet \u00e0 pistons', 'corne']",
+        "word original": "horn"
+    },
+    "['hobune']": {
+        "prompt": "Eesti: \"\u00f5un\" - Fran\u00e7ais: \"peau de pomme\"\nEesti: \"komitee\" - Fran\u00e7ais: \"comit\u00e9\"\nEesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"hobune\" - Fran\u00e7ais: \"",
+        "target": "['cheval', 'equus caballus']",
+        "word original": "horse"
+    },
+    "['haigla']": {
+        "prompt": "Eesti: \"riietus\" - Fran\u00e7ais: \"fringue\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"haigla\" - Fran\u00e7ais: \"",
+        "target": "['h\u00f4pital', 'hosto', 'infirmerie']",
+        "word original": "hospital"
+    },
+    "['hoone', 'ehitus', 'ehitis', 'maja', 's\u00fcnnikodu']": {
+        "prompt": "Eesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"oran\u017e\" - Fran\u00e7ais: \"orange\"\nEesti: \"p\u00fcksid\" - Fran\u00e7ais: \"falzar\"\nEesti: \"nuga\" - Fran\u00e7ais: \"couteau\"\nEesti: \"hoone\" - Fran\u00e7ais: \"",
+        "target": "['b\u00e2timent', 'b\u00e2timent public', '\u00e9difice', 'immeuble', 'maison', 'domicile', 'habitation', 'r\u00e9sidence', 'logement', 'foyer', 'demeure']",
+        "word original": "house"
+    },
+    "['saar']": {
+        "prompt": "Eesti: \"pesapall\" - Fran\u00e7ais: \"baseball\"\nEesti: \"mootor\" - Fran\u00e7ais: \"moteur\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"kurk\" - Fran\u00e7ais: \"concombre\"\nEesti: \"kirik\" - Fran\u00e7ais: \"\u00e9glise\"\nEesti: \"saar\" - Fran\u00e7ais: \"",
+        "target": "['ile', '\u00eele', 'fr\u00eane', 'bois de fr\u00eane', 'Fr\u00eane']",
+        "word original": "island"
+    },
+    "['ehtekivi', 'kalliskivi', 'v\u00e4\u00e4riskivi']": {
+        "prompt": "Eesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"s\u00f5rmik\" - Fran\u00e7ais: \"gant\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"ehtekivi\" - Fran\u00e7ais: \"",
+        "target": "['joyau', 'gemme', 'pierre pr\u00e9cieuse', 'Gemme']",
+        "word original": "jewel"
+    },
+    "['teekann']": {
+        "prompt": "Eesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"oran\u017e\" - Fran\u00e7ais: \"orange\"\nEesti: \"ID-kaart\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"teekann\" - Fran\u00e7ais: \"",
+        "target": "['th\u00e9i\u00e8re', 'tisani\u00e8re', 'Th\u00e9i\u00e8re', 'bouilloire \u00e0 th\u00e9', 'bouilloire']",
+        "word original": "kettle"
+    },
+    "['v\u00f5ti', 'Tonaalsus', 'tonaalsus', 'helistik', 'Helistik', 'toon', 'klahv']": {
+        "prompt": "Eesti: \"t\u00e4ht\" - Fran\u00e7ais: \"\u00e9toile\"\nEesti: \"Sokk\" - Fran\u00e7ais: \"chaussette\"\nEesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"nahk\" - Fran\u00e7ais: \"peau\"\nEesti: \"v\u00f5ti\" - Fran\u00e7ais: \"",
+        "target": "['tonalit\u00e9', 'clef', 'cl\u00e9']",
+        "word original": "key"
+    },
+    "['p\u00f5lv']": {
+        "prompt": "Eesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"funktsioon\" - Fran\u00e7ais: \"fonction\"\nEesti: \"purjekas\" - Fran\u00e7ais: \"voilier\"\nEesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEesti: \"p\u00f5lv\" - Fran\u00e7ais: \"",
+        "target": "['genou']",
+        "word original": "knee"
+    },
+    "['nuga']": {
+        "prompt": "Eesti: \"pliiats\" - Fran\u00e7ais: \"crayon\"\nEesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"veised\" - Fran\u00e7ais: \"vache\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"nuga\" - Fran\u00e7ais: \"",
+        "target": "['couteau']",
+        "word original": "knife"
+    },
+    "['s\u00f5lm']": {
+        "prompt": "Eesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"riietus\" - Fran\u00e7ais: \"fringue\"\nEesti: \"kell\" - Fran\u00e7ais: \"cloche\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"s\u00f5lm\" - Fran\u00e7ais: \"",
+        "target": "['n\u0153ud']",
+        "word original": "knot"
+    },
+    "['leht', 'lehestik']": {
+        "prompt": "Eesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"voodi\" - Fran\u00e7ais: \"lit\"\nEesti: \"Labajalg\" - Fran\u00e7ais: \"pied\"\nEesti: \"laud\" - Fran\u00e7ais: \"table\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"leht\" - Fran\u00e7ais: \"",
+        "target": "['feuillage', 'feuille']",
+        "word original": "leaf"
+    },
+    "['video', 'televisioon']": {
+        "prompt": "Eesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"amortisaator\" - Fran\u00e7ais: \"amortisseur\"\nEesti: \"pliiats\" - Fran\u00e7ais: \"crayon\"\nEesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"p\u00f6ial\" - Fran\u00e7ais: \"pouce\"\nEesti: \"video\" - Fran\u00e7ais: \"",
+        "target": "['t\u00e9l\u00e9vision', 'vid\u00e9o', 't\u00e9l\u00e9']",
+        "word original": "line"
+    },
+    "['huuled']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"k\u00fc\u00fcs\" - Fran\u00e7ais: \"ongle\"\nEesti: \"postmark\" - Fran\u00e7ais: \"timbre-poste\"\nEesti: \"huuled\" - Fran\u00e7ais: \"",
+        "target": "['l\u00e8vres', 'l\u00e8vre']",
+        "word original": "lip"
+    },
+    "['funktsioon']": {
+        "prompt": "Eesti: \"relv\" - Fran\u00e7ais: \"arme\"\nEesti: \"Kaar\" - Fran\u00e7ais: \"arc\"\nEesti: \"labak\u00e4si\" - Fran\u00e7ais: \"main\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"jakk\" - Fran\u00e7ais: \"yack\"\nEesti: \"funktsioon\" - Fran\u00e7ais: \"",
+        "target": "['fonction', 'application', 'fonction monovalu\u00e9e']",
+        "word original": "map"
+    },
+    "['tuletikk', 'tikk']": {
+        "prompt": "Eesti: \"haigla\" - Fran\u00e7ais: \"h\u00f4pital\"\nEesti: \"Kast\" - Fran\u00e7ais: \"caste\"\nEesti: \"silm\" - Fran\u00e7ais: \"yeux\"\nEesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"",
+        "target": "['allumette']",
+        "word original": "match"
+    },
+    "['ahv']": {
+        "prompt": "Eesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"nurk\" - Fran\u00e7ais: \"angle\"\nEesti: \"ader\" - Fran\u00e7ais: \"charrue\"\nEesti: \"hobune\" - Fran\u00e7ais: \"cheval\"\nEesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"ahv\" - Fran\u00e7ais: \"",
+        "target": "['singe']",
+        "word original": "monkey"
+    },
+    "['kuu']": {
+        "prompt": "Eesti: \"veised\" - Fran\u00e7ais: \"vache\"\nEesti: \"s\u00f5rmik\" - Fran\u00e7ais: \"gant\"\nEesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"nourrisson\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"kuu\" - Fran\u00e7ais: \"",
+        "target": "['mois']",
+        "word original": "moon"
+    },
+    "['lihas']": {
+        "prompt": "Eesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"paire de ciseaux\"\nEesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEesti: \"laud\" - Fran\u00e7ais: \"table\"\nEesti: \"lihas\" - Fran\u00e7ais: \"",
+        "target": "['muscle']",
+        "word original": "muscle"
+    },
+    "['k\u00fc\u00fcs']": {
+        "prompt": "Eesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"lennuk\" - Fran\u00e7ais: \"appareil volant\"\nEesti: \"kontor\" - Fran\u00e7ais: \"organisme\"\nEesti: \"aed\" - Fran\u00e7ais: \"jardin\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"salle de bain\"\nEesti: \"k\u00fc\u00fcs\" - Fran\u00e7ais: \"",
+        "target": "['ongle']",
+        "word original": "nail"
+    },
+    "['kael', 'kaelus']": {
+        "prompt": "Eesti: \"m\u00fcts\" - Fran\u00e7ais: \"chapeau\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"sulgloomad\" - Fran\u00e7ais: \"volaille\"\nEesti: \"lind\" - Fran\u00e7ais: \"oiseau\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"doigt\"\nEesti: \"kael\" - Fran\u00e7ais: \"",
+        "target": "['cou', 'nuque']",
+        "word original": "neck"
+    },
+    "['n\u00e4rv']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"kedrus\" - Fran\u00e7ais: \"fil\"\nEesti: \"aken\" - Fran\u00e7ais: \"rebord\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"verre\"\nEesti: \"saar\" - Fran\u00e7ais: \"ile\"\nEesti: \"n\u00e4rv\" - Fran\u00e7ais: \"",
+        "target": "['nerf']",
+        "word original": "nerve"
+    },
+    "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'k\u00fcbermaailm']": {
+        "prompt": "Eesti: \"Hari\" - Fran\u00e7ais: \"cimier\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"verre\"\nEesti: \"jalgratas\" - Fran\u00e7ais: \"v\u00e9lo\"\nEesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"madu\" - Fran\u00e7ais: \"serpent\"\nEesti: \"Internet\" - Fran\u00e7ais: \"",
+        "target": "['r\u00e9seau informatique', 'r\u00e9seau', 'cyberespace']",
+        "word original": "net"
+    },
+    "['nina', 'neem']": {
+        "prompt": "Eesti: \"saar\" - Fran\u00e7ais: \"ile\"\nEesti: \"kontor\" - Fran\u00e7ais: \"organisme\"\nEesti: \"ahi\" - Fran\u00e7ais: \"four\"\nEesti: \"voodi\" - Fran\u00e7ais: \"lit\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"nina\" - Fran\u00e7ais: \"",
+        "target": "['cap', 'nez', 'pif']",
+        "word original": "nose"
+    },
+    "['kontor', 'b\u00fcroo', 'asutus']": {
+        "prompt": "Eesti: \"arve\" - Fran\u00e7ais: \"anicroche\"\nEesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"kontor\" - Fran\u00e7ais: \"",
+        "target": "['organisme', 'autorit\u00e9', 'agence', 'bureau', 'agence publique', 'minist\u00e8re', 'office', 'administration f\u00e9d\u00e9rale']",
+        "word original": "office"
+    },
+    "['oran\u017e']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"pidur\" - Fran\u00e7ais: \"freinage\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"komitee\" - Fran\u00e7ais: \"comit\u00e9\"\nEesti: \"oran\u017e\" - Fran\u00e7ais: \"",
+        "target": "['orange']",
+        "word original": "orange"
+    },
+    "['ahi', 'pliit', 'Pliit']": {
+        "prompt": "Eesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"silm\" - Fran\u00e7ais: \"yeux\"\nEesti: \"s\u00f5lm\" - Fran\u00e7ais: \"n\u0153ud\"\nEesti: \"uksekell\" - Fran\u00e7ais: \"sonnette\"\nEesti: \"ahi\" - Fran\u00e7ais: \"",
+        "target": "['four', 'foyer', '\u00e9tuve', 'po\u00eale', 'fourneau', 'fourneau de cuisine', 'cuisini\u00e8re']",
+        "word original": "oven"
+    },
+    "['pliiats', 'sulg', 'sulepea']": {
+        "prompt": "Eesti: \"silm\" - Fran\u00e7ais: \"yeux\"\nEesti: \"ahv\" - Fran\u00e7ais: \"singe\"\nEesti: \"Kast\" - Fran\u00e7ais: \"caste\"\nEesti: \"relv\" - Fran\u00e7ais: \"arme\"\nEesti: \"ringjoon\" - Fran\u00e7ais: \"cercle\"\nEesti: \"pliiats\" - Fran\u00e7ais: \"",
+        "target": "['crayon', 'stylographe', 'stylo \u00e0 encre', 'stylo']",
+        "word original": "pencil"
+    },
+    "['siga', 'sigalane', 'Sus scrofa domestica']": {
+        "prompt": "Eesti: \"ringjoon\" - Fran\u00e7ais: \"cercle\"\nEesti: \"puu\" - Fran\u00e7ais: \"arbre\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"kornet\" - Fran\u00e7ais: \"citaro\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"siga\" - Fran\u00e7ais: \"",
+        "target": "['porc', 'cochon', 'Sus', 'Sus scrofa domestica']",
+        "word original": "pig"
+    },
+    "['lennuk', '\u00f5hus\u00f5iduk', '\u00d5hus\u00f5iduk', 'aeroplaan', 'tasand']": {
+        "prompt": "Eesti: \"puu\" - Fran\u00e7ais: \"arbre\"\nEesti: \"amortisaator\" - Fran\u00e7ais: \"amortisseur\"\nEesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEesti: \"n\u00e4rv\" - Fran\u00e7ais: \"nerf\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"lennuk\" - Fran\u00e7ais: \"",
+        "target": "['appareil volant', 'a\u00e9ronef', 'avion', 'a\u00e9roplane', 'plan']",
+        "word original": "plane"
+    },
+    "['ader']": {
+        "prompt": "Eesti: \"v\u00e4ikelaps\" - Fran\u00e7ais: \"nourrisson\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"postmark\" - Fran\u00e7ais: \"timbre-poste\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"ehtekivi\" - Fran\u00e7ais: \"joyau\"\nEesti: \"ader\" - Fran\u00e7ais: \"",
+        "target": "['charrue']",
+        "word original": "plough"
+    },
+    "['k\u00e4imla']": {
+        "prompt": "Eesti: \"p\u00fchap\u00e4ev\" - Fran\u00e7ais: \"dimanche\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"mootor\" - Fran\u00e7ais: \"moteur\"\nEesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"k\u00e4imla\" - Fran\u00e7ais: \"",
+        "target": "['toilette', 'toilettes', 'pot de chambre', 'pot']",
+        "word original": "pot"
+    },
+    "['kartul', 'harilik kartul']": {
+        "prompt": "Eesti: \"juust\" - Fran\u00e7ais: \"fromage\"\nEesti: \"Hambad\" - Fran\u00e7ais: \"dents\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"pidur\" - Fran\u00e7ais: \"freinage\"\nEesti: \"tiib\" - Fran\u00e7ais: \"aile\"\nEesti: \"kartul\" - Fran\u00e7ais: \"",
+        "target": "['patate', 'pomme de terre']",
+        "word original": "potato"
+    },
+    "['vangla']": {
+        "prompt": "Eesti: \"paat\" - Fran\u00e7ais: \"bateau\"\nEesti: \"m\u00fcts\" - Fran\u00e7ais: \"chapeau\"\nEesti: \"Internet\" - Fran\u00e7ais: \"r\u00e9seau informatique\"\nEesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"vangla\" - Fran\u00e7ais: \"",
+        "target": "['prison', 'p\u00e9nitencier', 't\u00f4le', 'trou', 'placard', 'taule', 'ge\u00f4le', 'cabane']",
+        "word original": "prison"
+    },
+    "['Hiir', 'arvutihiir']": {
+        "prompt": "Eesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"relvaj\u00f5ud\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEesti: \"poiss\" - Fran\u00e7ais: \"gar\u00e7on\"\nEesti: \"kurk\" - Fran\u00e7ais: \"concombre\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"Hiir\" - Fran\u00e7ais: \"",
+        "target": "['souris', 'rat', 'Mus']",
+        "word original": "rat"
+    },
+    "['arve', 'seaduseeln\u00f5u', 'eeln\u00f5u']": {
+        "prompt": "Eesti: \"kedrus\" - Fran\u00e7ais: \"fil\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"poiss\" - Fran\u00e7ais: \"gar\u00e7on\"\nEesti: \"purjekas\" - Fran\u00e7ais: \"voilier\"\nEesti: \"ringjoon\" - Fran\u00e7ais: \"cercle\"\nEesti: \"arve\" - Fran\u00e7ais: \"",
+        "target": "['anicroche', 'serpe', 'serpette', 'serpe de guerre', 'projet de loi', 'proposition de loi', 'mesure', 'note', 'facture', 'addition', 'compte']",
+        "word original": "receipt"
+    },
+    "['ihunuhtlus']": {
+        "prompt": "Eesti: \"paat\" - Fran\u00e7ais: \"bateau\"\nEesti: \"saba\" - Fran\u00e7ais: \"miches\"\nEesti: \"puu\" - Fran\u00e7ais: \"arbre\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"teekann\" - Fran\u00e7ais: \"th\u00e9i\u00e8re\"\nEesti: \"ihunuhtlus\" - Fran\u00e7ais: \"",
+        "target": "['ch\u00e2timent corporel']",
+        "word original": "rod"
+    },
+    "['katus']": {
+        "prompt": "Eesti: \"Hambad\" - Fran\u00e7ais: \"dents\"\nEesti: \"saar\" - Fran\u00e7ais: \"ile\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"nahk\" - Fran\u00e7ais: \"peau\"\nEesti: \"katus\" - Fran\u00e7ais: \"",
+        "target": "['toit']",
+        "word original": "roof"
+    },
+    "['purjekas', 'purjelaev']": {
+        "prompt": "Eesti: \"funktsioon\" - Fran\u00e7ais: \"fonction\"\nEesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"relvaj\u00f5ud\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"purjekas\" - Fran\u00e7ais: \"",
+        "target": "['voilier']",
+        "word original": "sail"
+    },
+    "['\u00fclikool', 'kool', 'akadeemia']": {
+        "prompt": "Eesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"raudtees\u00f5iduk\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"doigt\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"postmark\" - Fran\u00e7ais: \"timbre-poste\"\nEesti: \"\u00fclikool\" - Fran\u00e7ais: \"",
+        "target": "['acad\u00e9mie', 'universit\u00e9', '\u00e9cole', 'coll\u00e8ge', 'univ', 'fac']",
+        "word original": "school"
+    },
+    "['k\u00e4\u00e4rid']": {
+        "prompt": "Eesti: \"puu\" - Fran\u00e7ais: \"arbre\"\nEesti: \"p\u00fchap\u00e4ev\" - Fran\u00e7ais: \"dimanche\"\nEesti: \"riietus\" - Fran\u00e7ais: \"fringue\"\nEesti: \"vars\" - Fran\u00e7ais: \"tige\"\nEesti: \"kurk\" - Fran\u00e7ais: \"concombre\"\nEesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"",
+        "target": "['paire de ciseaux', 'ciseaux']",
+        "word original": "scissors"
+    },
+    "['seeme']": {
+        "prompt": "Eesti: \"haamer\" - Fran\u00e7ais: \"marteau\"\nEesti: \"Hari\" - Fran\u00e7ais: \"cimier\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"arve\" - Fran\u00e7ais: \"anicroche\"\nEesti: \"pirn\" - Fran\u00e7ais: \"ampoule\"\nEesti: \"seeme\" - Fran\u00e7ais: \"",
+        "target": "['graine', 'semence']",
+        "word original": "seed"
+    },
+    "['lambad', 'lammas']": {
+        "prompt": "Eesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"oran\u017e\" - Fran\u00e7ais: \"orange\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"s\u00e4rk\" - Fran\u00e7ais: \"chemise\"\nEesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"lambad\" - Fran\u00e7ais: \"",
+        "target": "['mouton', 'ovid\u00e9', 'Ovis aries', 'mouton domestique', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['Riiul', 'raamaturiiul', 'raamatukapp']": {
+        "prompt": "Eesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"madu\" - Fran\u00e7ais: \"serpent\"\nEesti: \"p\u00fchap\u00e4ev\" - Fran\u00e7ais: \"dimanche\"\nEesti: \"ader\" - Fran\u00e7ais: \"charrue\"\nEesti: \"Riiul\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9tag\u00e8re', 'biblioth\u00e8que', 'rayon', 'tablard', 'tablette']",
+        "word original": "shelf"
+    },
+    "['laev', 'vees\u00f5iduk', 'Vees\u00f5iduk']": {
+        "prompt": "Eesti: \"Sukad\" - Fran\u00e7ais: \"bas\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"seeme\" - Fran\u00e7ais: \"graine\"\nEesti: \"Kook\" - Fran\u00e7ais: \"cuisine\"\nEesti: \"veised\" - Fran\u00e7ais: \"vache\"\nEesti: \"laev\" - Fran\u00e7ais: \"",
+        "target": "['navire', 'bateau', 'vaisseau', 'embarcation']",
+        "word original": "ship"
+    },
+    "['s\u00e4rk']": {
+        "prompt": "Eesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"s\u00f5rm\" - Fran\u00e7ais: \"doigt\"\nEesti: \"Riiul\" - Fran\u00e7ais: \"\u00e9tag\u00e8re\"\nEesti: \"tilk\" - Fran\u00e7ais: \"lentigo\"\nEesti: \"voodi\" - Fran\u00e7ais: \"lit\"\nEesti: \"s\u00e4rk\" - Fran\u00e7ais: \"",
+        "target": "['chemise']",
+        "word original": "shirt"
+    },
+    "['king', 'kingad']": {
+        "prompt": "Eesti: \"ruut\" - Fran\u00e7ais: \"carr\u00e9\"\nEesti: \"Hari\" - Fran\u00e7ais: \"cimier\"\nEesti: \"\u00f6konoomika\" - Fran\u00e7ais: \"science \u00e9conomique\"\nEesti: \"talu\" - Fran\u00e7ais: \"ferme\"\nEesti: \"sulgloomad\" - Fran\u00e7ais: \"volaille\"\nEesti: \"king\" - Fran\u00e7ais: \"",
+        "target": "['soulier', 'tatane', 'chaussure', 'pompe', 'grolle', 'godasse']",
+        "word original": "tongue"
+    },
+    "['nahk']": {
+        "prompt": "Eesti: \"muna\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEesti: \"madu\" - Fran\u00e7ais: \"serpent\"\nEesti: \"M\u00e4lu\" - Fran\u00e7ais: \"m\u00e9moire\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"nahk\" - Fran\u00e7ais: \"",
+        "target": "['peau', 't\u00e9gument', 'cuir', 'maroquinerie']",
+        "word original": "skin"
+    },
+    "['seelik']": {
+        "prompt": "Eesti: \"hobune\" - Fran\u00e7ais: \"cheval\"\nEesti: \"kornet\" - Fran\u00e7ais: \"citaro\"\nEesti: \"madu\" - Fran\u00e7ais: \"serpent\"\nEesti: \"sulg\" - Fran\u00e7ais: \"plumage\"\nEesti: \"kala\" - Fran\u00e7ais: \"poisson\"\nEesti: \"seelik\" - Fran\u00e7ais: \"",
+        "target": "['jupe']",
+        "word original": "skirt"
+    },
+    "['madu', 'maolised']": {
+        "prompt": "Eesti: \"lusikas\" - Fran\u00e7ais: \"cuill\u00e8re\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"ehtekivi\" - Fran\u00e7ais: \"joyau\"\nEesti: \"lennuk\" - Fran\u00e7ais: \"appareil volant\"\nEesti: \"org\" - Fran\u00e7ais: \"vall\u00e9e\"\nEesti: \"madu\" - Fran\u00e7ais: \"",
+        "target": "['serpent', 'ophidien', 'serpentes']",
+        "word original": "snake"
+    },
+    "['Sokk']": {
+        "prompt": "Eesti: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEesti: \"mesilane\" - Fran\u00e7ais: \"abeille\"\nEesti: \"jakk\" - Fran\u00e7ais: \"yack\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"Sokk\" - Fran\u00e7ais: \"",
+        "target": "['chaussette', 'bas', 'stupeur', 'ahurissement', 'stup\u00e9faction', 'abasourdissement', '\u00e9tat stuporeux', 'choc']",
+        "word original": "sock"
+    },
+    "['k\u00e4sn', 'k\u00e4snad']": {
+        "prompt": "Eesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"p\u00f5lv\" - Fran\u00e7ais: \"genou\"\nEesti: \"jakk\" - Fran\u00e7ais: \"yack\"\nEesti: \"lind\" - Fran\u00e7ais: \"oiseau\"\nEesti: \"kass\" - Fran\u00e7ais: \"minou\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9ponge', '\u00e9ponges', 'Porifera', 'parazoaire']",
+        "word original": "sponge"
+    },
+    "['lusikas']": {
+        "prompt": "Eesti: \"paat\" - Fran\u00e7ais: \"bateau\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"arve\" - Fran\u00e7ais: \"anicroche\"\nEesti: \"allikas\" - Fran\u00e7ais: \"source\"\nEesti: \"\u00fclikool\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEesti: \"lusikas\" - Fran\u00e7ais: \"",
+        "target": "['cuill\u00e8re', 'cuiller']",
+        "word original": "spoon"
+    },
+    "['allikas', 'l\u00e4te', 'veesilm']": {
+        "prompt": "Eesti: \"Hari\" - Fran\u00e7ais: \"cimier\"\nEesti: \"huuled\" - Fran\u00e7ais: \"l\u00e8vres\"\nEesti: \"ID-kaart\" - Fran\u00e7ais: \"pi\u00e8ce d\u2019identit\u00e9\"\nEesti: \"laud\" - Fran\u00e7ais: \"table\"\nEesti: \"Sokk\" - Fran\u00e7ais: \"chaussette\"\nEesti: \"allikas\" - Fran\u00e7ais: \"",
+        "target": "['source', 'origine', 'd\u00e9but', 'racine']",
+        "word original": "spring"
+    },
+    "['ruut']": {
+        "prompt": "Eesti: \"Internet\" - Fran\u00e7ais: \"r\u00e9seau informatique\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"saar\" - Fran\u00e7ais: \"ile\"\nEesti: \"M\u00e4lu\" - Fran\u00e7ais: \"m\u00e9moire\"\nEesti: \"silm\" - Fran\u00e7ais: \"yeux\"\nEesti: \"ruut\" - Fran\u00e7ais: \"",
+        "target": "['carr\u00e9', 'carr\u00e9 en je broertjte']",
+        "word original": "square"
+    },
+    "['postmark', 'mark']": {
+        "prompt": "Eesti: \"M\u00e4lu\" - Fran\u00e7ais: \"m\u00e9moire\"\nEesti: \"siga\" - Fran\u00e7ais: \"porc\"\nEesti: \"k\u00e4\u00e4rid\" - Fran\u00e7ais: \"paire de ciseaux\"\nEesti: \"amortisaator\" - Fran\u00e7ais: \"amortisseur\"\nEesti: \"Vahistamine\" - Fran\u00e7ais: \"arrestation\"\nEesti: \"postmark\" - Fran\u00e7ais: \"",
+        "target": "['timbre-poste', 'timbre', 'timbre postal']",
+        "word original": "stamp"
+    },
+    "['t\u00e4ht', 'pookstav', 'kirjat\u00e4ht', 'aabe', 'superstaar', 'sepp', 'talent', 'adept', 'staar', 'Adept', 'kuulsus']": {
+        "prompt": "Eesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"Internet\" - Fran\u00e7ais: \"r\u00e9seau informatique\"\nEesti: \"v\u00f5ti\" - Fran\u00e7ais: \"tonalit\u00e9\"\nEesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"ader\" - Fran\u00e7ais: \"charrue\"\nEesti: \"t\u00e4ht\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9toile', 'caract\u00e8re', 'lettre', 'superstar', 'sp\u00e9cialiste', 'vedette', 'connaisseur', 'as', 'machine', 'expert', 'champion', 'Maven', 'virtuose', 'g\u00e9nie', 'b\u00eate', 'effet superstar', 'star', 'sommit\u00e9']",
+        "word original": "star"
+    },
+    "['vars']": {
+        "prompt": "Eesti: \"p\u00fcksid\" - Fran\u00e7ais: \"falzar\"\nEesti: \"aken\" - Fran\u00e7ais: \"rebord\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"kala\" - Fran\u00e7ais: \"poisson\"\nEesti: \"eesriie\" - Fran\u00e7ais: \"rideau\"\nEesti: \"vars\" - Fran\u00e7ais: \"",
+        "target": "['tige']",
+        "word original": "stem"
+    },
+    "['Sigar']": {
+        "prompt": "Eesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"kass\" - Fran\u00e7ais: \"minou\"\nEesti: \"silm\" - Fran\u00e7ais: \"yeux\"\nEesti: \"vannituba\" - Fran\u00e7ais: \"salle de bain\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"Sigar\" - Fran\u00e7ais: \"",
+        "target": "['cigare']",
+        "word original": "stick"
+    },
+    "['Sukad']": {
+        "prompt": "Eesti: \"arve\" - Fran\u00e7ais: \"anicroche\"\nEesti: \"nous\" - Fran\u00e7ais: \"psych\u00e9\"\nEesti: \"kedrus\" - Fran\u00e7ais: \"fil\"\nEesti: \"raudtees\u00f5iduk\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nEesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"Sukad\" - Fran\u00e7ais: \"",
+        "target": "['bas']",
+        "word original": "stocking"
+    },
+    "['k\u00f5ht', 'magu', 'Magu', 'taimetoitaine', 'toitumine', 'toiteelement', 'toitesool']": {
+        "prompt": "Eesti: \"ahi\" - Fran\u00e7ais: \"four\"\nEesti: \"jakk\" - Fran\u00e7ais: \"yack\"\nEesti: \"t\u00e4ht\" - Fran\u00e7ais: \"\u00e9toile\"\nEesti: \"lind\" - Fran\u00e7ais: \"oiseau\"\nEesti: \"hoone\" - Fran\u00e7ais: \"b\u00e2timent\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"",
+        "target": "['estomac', 'ventre', 'nutrition', 'nutriment', 'alimentation', 'nourriture']",
+        "word original": "stomach"
+    },
+    "['M\u00e4lu', 'arvuti m\u00e4lu']": {
+        "prompt": "Eesti: \"nurk\" - Fran\u00e7ais: \"angle\"\nEesti: \"teekann\" - Fran\u00e7ais: \"th\u00e9i\u00e8re\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"Kook\" - Fran\u00e7ais: \"cuisine\"\nEesti: \"sein\" - Fran\u00e7ais: \"mur\"\nEesti: \"M\u00e4lu\" - Fran\u00e7ais: \"",
+        "target": "['m\u00e9moire', 'm\u00e9moire informatique', 'm\u00e9moire de stockage']",
+        "word original": "store"
+    },
+    "['p\u00fchap\u00e4ev']": {
+        "prompt": "Eesti: \"t\u00fcdruk\" - Fran\u00e7ais: \"fille\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"Hambad\" - Fran\u00e7ais: \"dents\"\nEesti: \"M\u00e4lu\" - Fran\u00e7ais: \"m\u00e9moire\"\nEesti: \"s\u00e4rk\" - Fran\u00e7ais: \"chemise\"\nEesti: \"p\u00fchap\u00e4ev\" - Fran\u00e7ais: \"",
+        "target": "['dimanche', 'jour du Seigneur', 'Dimanche']",
+        "word original": "sun"
+    },
+    "['laud']": {
+        "prompt": "Eesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"jakk\" - Fran\u00e7ais: \"yack\"\nEesti: \"kontor\" - Fran\u00e7ais: \"organisme\"\nEesti: \"k\u00f5rv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"linn\" - Fran\u00e7ais: \"agglom\u00e9ration urbaine\"\nEesti: \"laud\" - Fran\u00e7ais: \"",
+        "target": "['table']",
+        "word original": "table"
+    },
+    "['saba', 'istmik', 'Istmik']": {
+        "prompt": "Eesti: \"kirik\" - Fran\u00e7ais: \"\u00e9glise\"\nEesti: \"s\u00f5rmik\" - Fran\u00e7ais: \"gant\"\nEesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"k\u00e4sn\" - Fran\u00e7ais: \"\u00e9ponge\"\nEesti: \"uss\" - Fran\u00e7ais: \"ver\"\nEesti: \"saba\" - Fran\u00e7ais: \"",
+        "target": "['miches', 'fesses', 'fouind\u00e9', 's\u00e9ant', 'post\u00e9rieur', 'fesse', 'derri\u00e8re', 'pleine lune', 'lune', 'cul', 'fessier', 'arri\u00e8re-train', 'R\u00e9troversion', 'r\u00e9troversion', 'si\u00e8ge', 'queue']",
+        "word original": "tail"
+    },
+    "['kedrus', 'l\u00f5ng', 'niit']": {
+        "prompt": "Eesti: \"\u00c4mber\" - Fran\u00e7ais: \"seau\"\nEesti: \"Klaas\" - Fran\u00e7ais: \"verre\"\nEesti: \"pesapall\" - Fran\u00e7ais: \"baseball\"\nEesti: \"Kook\" - Fran\u00e7ais: \"cuisine\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"kedrus\" - Fran\u00e7ais: \"",
+        "target": "['fil', 'fil textile']",
+        "word original": "thread"
+    },
+    "['kurk', 'harilik kurk']": {
+        "prompt": "Eesti: \"aken\" - Fran\u00e7ais: \"rebord\"\nEesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"uks\" - Fran\u00e7ais: \"un\"\nEesti: \"kont\" - Fran\u00e7ais: \"os\"\nEesti: \"poiss\" - Fran\u00e7ais: \"gar\u00e7on\"\nEesti: \"kurk\" - Fran\u00e7ais: \"",
+        "target": "['concombre', 'cucumis sativus', 'gorge', 'pharynx']",
+        "word original": "throat"
+    },
+    "['p\u00f6ial']": {
+        "prompt": "Eesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"kala\" - Fran\u00e7ais: \"poisson\"\nEesti: \"pudel\" - Fran\u00e7ais: \"bouteille\"\nEesti: \"vangla\" - Fran\u00e7ais: \"prison\"\nEesti: \"Kahetiivalised\" - Fran\u00e7ais: \"dipt\u00e8re\"\nEesti: \"p\u00f6ial\" - Fran\u00e7ais: \"",
+        "target": "['pouce']",
+        "word original": "thumb"
+    },
+    "['Hambad', 'hammas']": {
+        "prompt": "Eesti: \"kurk\" - Fran\u00e7ais: \"concombre\"\nEesti: \"purjekas\" - Fran\u00e7ais: \"voilier\"\nEesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"corps humain\"\nEesti: \"vangla\" - Fran\u00e7ais: \"prison\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"Hambad\" - Fran\u00e7ais: \"",
+        "target": "['dents', 'dent', 'dent humaine']",
+        "word original": "tooth"
+    },
+    "['linn', 'pealinn', 'suurlinn', 'Suurlinn']": {
+        "prompt": "Eesti: \"haamer\" - Fran\u00e7ais: \"marteau\"\nEesti: \"king\" - Fran\u00e7ais: \"soulier\"\nEesti: \"p\u00f5lv\" - Fran\u00e7ais: \"genou\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"linn\" - Fran\u00e7ais: \"",
+        "target": "['agglom\u00e9ration urbaine', 'm\u00e9tropole', 'ville', 'cit\u00e9', 'grande-ville', 'bourgade', 'bourg']",
+        "word original": "town"
+    },
+    "['rong']": {
+        "prompt": "Eesti: \"Sukad\" - Fran\u00e7ais: \"bas\"\nEesti: \"lusikas\" - Fran\u00e7ais: \"cuill\u00e8re\"\nEesti: \"ringjoon\" - Fran\u00e7ais: \"cercle\"\nEesti: \"kedrus\" - Fran\u00e7ais: \"fil\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"rong\" - Fran\u00e7ais: \"",
+        "target": "['train', 'convoi']",
+        "word original": "train"
+    },
+    "['puu', 'puit', 'vili', 'puuvili']": {
+        "prompt": "Eesti: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nEesti: \"riietus\" - Fran\u00e7ais: \"fringue\"\nEesti: \"lambad\" - Fran\u00e7ais: \"mouton\"\nEesti: \"inimf\u00fcsioloogia\" - Fran\u00e7ais: \"corps humain\"\nEesti: \"muna\" - Fran\u00e7ais: \"\u0153uf de poule\"\nEesti: \"puu\" - Fran\u00e7ais: \"",
+        "target": "['arbre', 'aubier', 'bois', 'fruit', 'fruit charnu']",
+        "word original": "tree"
+    },
+    "['p\u00fcksid']": {
+        "prompt": "Eesti: \"tilk\" - Fran\u00e7ais: \"lentigo\"\nEesti: \"vangla\" - Fran\u00e7ais: \"prison\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"nina\" - Fran\u00e7ais: \"cap\"\nEesti: \"nahk\" - Fran\u00e7ais: \"peau\"\nEesti: \"p\u00fcksid\" - Fran\u00e7ais: \"",
+        "target": "['falzar', 'falzard', 'b\u00e9noche', 'fendard', 'futal', 'fute', 'froc', 'pantalon', 'b\u00e9nard']",
+        "word original": "trousers"
+    },
+    "['vihmavari']": {
+        "prompt": "Eesti: \"kael\" - Fran\u00e7ais: \"cou\"\nEesti: \"leht\" - Fran\u00e7ais: \"feuillage\"\nEesti: \"sild\" - Fran\u00e7ais: \"pont\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"rong\" - Fran\u00e7ais: \"train\"\nEesti: \"vihmavari\" - Fran\u00e7ais: \"",
+        "target": "['p\u00e9pin', 'parapluie', 'p\u00e9broque', 'riflard', 'en-cas', 'ombrelle']",
+        "word original": "umbrella"
+    },
+    "['sein', 'm\u00fc\u00fcr']": {
+        "prompt": "Eesti: \"\u00fclikool\" - Fran\u00e7ais: \"acad\u00e9mie\"\nEesti: \"kirik\" - Fran\u00e7ais: \"\u00e9glise\"\nEesti: \"kartul\" - Fran\u00e7ais: \"patate\"\nEesti: \"tuletikk\" - Fran\u00e7ais: \"allumette\"\nEesti: \"relv\" - Fran\u00e7ais: \"arme\"\nEesti: \"sein\" - Fran\u00e7ais: \"",
+        "target": "['mur']",
+        "word original": "wall"
+    },
+    "['k\u00e4ekell', 'kell']": {
+        "prompt": "Eesti: \"seelik\" - Fran\u00e7ais: \"jupe\"\nEesti: \"s\u00e4rk\" - Fran\u00e7ais: \"chemise\"\nEesti: \"Kast\" - Fran\u00e7ais: \"caste\"\nEesti: \"Kaar\" - Fran\u00e7ais: \"arc\"\nEesti: \"sipelgas\" - Fran\u00e7ais: \"fourmi\"\nEesti: \"k\u00e4ekell\" - Fran\u00e7ais: \"",
+        "target": "['bracelet-montre', 'montre', 'montre-bracelet']",
+        "word original": "watch"
+    },
+    "['jalgratas', 'ratas']": {
+        "prompt": "Eesti: \"kont\" - Fran\u00e7ais: \"os\"\nEesti: \"Hari\" - Fran\u00e7ais: \"cimier\"\nEesti: \"kaamera\" - Fran\u00e7ais: \"appareil photographique\"\nEesti: \"Kook\" - Fran\u00e7ais: \"cuisine\"\nEesti: \"karv\" - Fran\u00e7ais: \"chevelure\"\nEesti: \"jalgratas\" - Fran\u00e7ais: \"",
+        "target": "['v\u00e9lo', 'bicyclette', 'petite reine', 'v\u00e9locip\u00e8de']",
+        "word original": "wheel"
+    },
+    "['piits']": {
+        "prompt": "Eesti: \"vihmavari\" - Fran\u00e7ais: \"p\u00e9pin\"\nEesti: \"k\u00f5ht\" - Fran\u00e7ais: \"estomac\"\nEesti: \"m\u00f5\u00f5k\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nEesti: \"s\u00fcda\" - Fran\u00e7ais: \"c\u0153ur\"\nEesti: \"kala\" - Fran\u00e7ais: \"poisson\"\nEesti: \"piits\" - Fran\u00e7ais: \"",
+        "target": "['fouet']",
+        "word original": "whip"
+    },
+    "['aken']": {
+        "prompt": "Eesti: \"katus\" - Fran\u00e7ais: \"toit\"\nEesti: \"s\u00f5rmus\" - Fran\u00e7ais: \"anneau\"\nEesti: \"laev\" - Fran\u00e7ais: \"navire\"\nEesti: \"n\u00e4rv\" - Fran\u00e7ais: \"nerf\"\nEesti: \"lipp\" - Fran\u00e7ais: \"drapeau\"\nEesti: \"aken\" - Fran\u00e7ais: \"",
+        "target": "['rebord', 'fen\u00eatre', 'rebord de fen\u00eatre']",
+        "word original": "window"
+    },
+    "['tiib']": {
+        "prompt": "Eesti: \"seeme\" - Fran\u00e7ais: \"graine\"\nEesti: \"korv\" - Fran\u00e7ais: \"oreille\"\nEesti: \"lihas\" - Fran\u00e7ais: \"muscle\"\nEesti: \"koer\" - Fran\u00e7ais: \"chien\"\nEesti: \"p\u00f6ial\" - Fran\u00e7ais: \"pouce\"\nEesti: \"tiib\" - Fran\u00e7ais: \"",
+        "target": "['aile']",
+        "word original": "wing"
+    },
+    "['uss', 'ussid', 'Ussid']": {
+        "prompt": "Eesti: \"sild\" - Fran\u00e7ais: \"pont\"\nEesti: \"n\u00e4gu\" - Fran\u00e7ais: \"face\"\nEesti: \"nuga\" - Fran\u00e7ais: \"couteau\"\nEesti: \"Sigar\" - Fran\u00e7ais: \"cigare\"\nEesti: \"kraanikauss\" - Fran\u00e7ais: \"lavabo\"\nEesti: \"uss\" - Fran\u00e7ais: \"",
+        "target": "['ver']",
+        "word original": "worm"
+    }
+}

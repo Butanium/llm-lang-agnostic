@@ -1,0 +1,847 @@
+{
+    "['Winkel', 'Supplementwinkel']": {
+        "prompt": "Deutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Samenkorn\" - Italiano: \"seme\"\nDeutsch: \"Dach\" - Italiano: \"tetto\"\nDeutsch: \"B\u00fcrste\" - Italiano: \"spazzola\"\nDeutsch: \"Gl\u00fchbirne\" - Italiano: \"lampadina\"\nDeutsch: \"Winkel\" - Italiano: \"",
+        "target": "['angolo', 'angolo supplementare', 'Teorema degli angoli opposti al vertice', 'angolo complementare', 'Angolo complementare', 'angoli opposti al vertice']",
+        "word original": "angle"
+    },
+    "['Ameise', 'Ameisen']": {
+        "prompt": "Deutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Schraube\" - Italiano: \"vite\"\nDeutsch: \"Ziegelstein\" - Italiano: \"mattone\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Fotoapparat\" - Italiano: \"camera\"\nDeutsch: \"Ameise\" - Italiano: \"",
+        "target": "['formica', 'Formicidae']",
+        "word original": "ant"
+    },
+    "['Apfel', 'Apfelschale']": {
+        "prompt": "Deutsch: \"Bureau\" - Italiano: \"ente\"\nDeutsch: \"Hand\" - Italiano: \"mano\"\nDeutsch: \"Haut\" - Italiano: \"pelle\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Apfel\" - Italiano: \"",
+        "target": "['buccia di mela', 'mela', 'pomo']",
+        "word original": "apple"
+    },
+    "['Bogen', 'totes Holz', 'Papier', 'Totholz', 'Blatt']": {
+        "prompt": "Deutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Festnahme\" - Italiano: \"arresto\"\nDeutsch: \"Fingernagel\" - Italiano: \"unghia\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Bogen\" - Italiano: \"",
+        "target": "['carta', 'foglio', 'arco']",
+        "word original": "arch"
+    },
+    "['Waffe', 'Arm', 'Schusswaffe', 'Feuerwaffe']": {
+        "prompt": "Deutsch: \"Maus\" - Italiano: \"topo\"\nDeutsch: \"F\u00fcller\" - Italiano: \"penna stilografica\"\nDeutsch: \"Kleinstadt\" - Italiano: \"insediamento umano\"\nDeutsch: \"Klosett\" - Italiano: \"tazza\"\nDeutsch: \"Stern\" - Italiano: \"stella\"\nDeutsch: \"Waffe\" - Italiano: \"",
+        "target": "['arma', 'ordigno', 'arma da fuoco', 'arma balistica', 'pistola']",
+        "word original": "arm"
+    },
+    "['Milit\u00e4r', 'Streitkr\u00e4fte', 'Milit\u00e4rwesen', 'Armee', 'Kriegsmaschinerie']": {
+        "prompt": "Deutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Hausrind\" - Italiano: \"mucca\"\nDeutsch: \"Hand\" - Italiano: \"mano\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"",
+        "target": "['unit\u00e0 militare', 'forze di polizia', \"forze dell'ordine\", 'forze militari', 'militari', 'forze armate', 'forza armata', 'militare', 'esercito']",
+        "word original": "army"
+    },
+    "['Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kind', 'Kriechling']": {
+        "prompt": "Deutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"Fu\u00df\" - Italiano: \"piede\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Ziegelstein\" - Italiano: \"mattone\"\nDeutsch: \"Bauernhof\" - Italiano: \"fattoria\"\nDeutsch: \"Baby\" - Italiano: \"",
+        "target": "['neonato', 'bambino piccolo', 'bambina', 'bambino', 'beb\u00e8', 'piccino', 'fantolino', 'bimbo', 'beb\u00e9', 'infante', 'piccolo', 'creatura', 'pupo', 'lattante', 'poppante']",
+        "word original": "baby"
+    },
+    "['Fingerring', 'Fingerreif', 'Ring', 'Reif', 'Reifen']": {
+        "prompt": "Deutsch: \"Bauernhof\" - Italiano: \"fattoria\"\nDeutsch: \"Motor\" - Italiano: \"motore\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Schwanz\" - Italiano: \"mazza\"\nDeutsch: \"Baby\" - Italiano: \"neonato\"\nDeutsch: \"Fingerring\" - Italiano: \"",
+        "target": "['anello']",
+        "word original": "ring"
+    },
+    "['Waschbecken', 'Karsttrichter', 'Doline', 'Schluckloch', 'Senkloch', 'Flussschwinde', 'Erdfall', 'Schwalgloch', 'Schwinde', 'Sinkloch', 'Lavabo', 'Sp\u00fcle', 'Sp\u00fclstein', 'Sp\u00fclbecken']": {
+        "prompt": "Deutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Mond\" - Italiano: \"mese\"\nDeutsch: \"Tisch\" - Italiano: \"tavola\"\nDeutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Waschbecken\" - Italiano: \"",
+        "target": "['dolina', 'dolina carsica', 'pulo', 'inghiottitoio', 'lavello', 'lavabo', 'lavandino', 'bacino', 'acquaio', 'toilette']",
+        "word original": "basin"
+    },
+    "['Badestube', 'Badeanstalt', 'Badehaus', 'Badezimmer', 'Bad', 'Vorlage:Andere Sprachen']": {
+        "prompt": "Deutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"uccello\"\nDeutsch: \"Maus\" - Italiano: \"topo\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Motor\" - Italiano: \"motore\"\nDeutsch: \"Badestube\" - Italiano: \"",
+        "target": "['bagno pubblico', 'bagno', 'stanza da bagno', 'ritirata', 'toilette']",
+        "word original": "bath"
+    },
+    "['Bett']": {
+        "prompt": "Deutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Bett\" - Italiano: \"",
+        "target": "['letto', 'giaciglio']",
+        "word original": "bed"
+    },
+    "['Imme', 'Biene', 'Bienen', 'Beivogl']": {
+        "prompt": "Deutsch: \"Festnahme\" - Italiano: \"arresto\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Stern\" - Italiano: \"stella\"\nDeutsch: \"Winkel\" - Italiano: \"angolo\"\nDeutsch: \"Imme\" - Italiano: \"",
+        "target": "['ape', 'Anthophila', 'pecchia']",
+        "word original": "bee"
+    },
+    "['Klingel', 'T\u00fcrglocke', 'T\u00fcrklingel', 'Hausglocke']": {
+        "prompt": "Deutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Kasten\" - Italiano: \"casta\"\nDeutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Klingel\" - Italiano: \"",
+        "target": "['campanello']",
+        "word original": "bell"
+    },
+    "['V\u00f6gelchen', 'Vogel', 'Piepmatz', 'V\u00f6gel']": {
+        "prompt": "Deutsch: \"Mund\" - Italiano: \"cavit\u00e0 orale\"\nDeutsch: \"Zigarre\" - Italiano: \"sigaro\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Ohren\" - Italiano: \"orecchio\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"",
+        "target": "['uccello', 'Aves', 'volatile', 'volativo', 'volatio', 'pennuto', 'augello']",
+        "word original": "bird"
+    },
+    "['Schwert']": {
+        "prompt": "Deutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Hosentasche\" - Italiano: \"tasca dei calzoni\"\nDeutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Schwert\" - Italiano: \"",
+        "target": "['spada', 'gladio', 'brando', 'stocco', 'durindana', 'durlindana', 'lama', 'ferro', 'acciaro']",
+        "word original": "blade"
+    },
+    "['Komitee', 'Kommission', 'Ausschuss', 'Ausschu\u00df']": {
+        "prompt": "Deutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Armbanduhr\" - Italiano: \"orologio\"\nDeutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Komitee\" - Italiano: \"",
+        "target": "['commissione', 'comitato']",
+        "word original": "board"
+    },
+    "['Boot', 'Schiff', 'Wasserfahrzeug']": {
+        "prompt": "Deutsch: \"\u00d6konomie\" - Italiano: \"economia\"\nDeutsch: \"Kreis\" - Italiano: \"territorio\"\nDeutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"Maus\" - Italiano: \"topo\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Boot\" - Italiano: \"",
+        "target": "['imbarcazione', 'nave', 'barca', 'scialuppa', 'lancia', 'schifo', 'battello', 'natante', 'bastimento', 'transatlantico', 'chiatta', 'barcone', 'vascello']",
+        "word original": "boat"
+    },
+    "['Bein', 'Knochengewebe', 'Knochen', 'Gebeine', 'Beine', 'menschliches Bein']": {
+        "prompt": "Deutsch: \"Motor\" - Italiano: \"motore\"\nDeutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Fu\u00df\" - Italiano: \"piede\"\nDeutsch: \"Strumpf\" - Italiano: \"calzino\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Bein\" - Italiano: \"",
+        "target": "['osso', 'gambe', 'gamba', 'arto inferiore umano', 'arto inferiore']",
+        "word original": "pin"
+    },
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Kasten\" - Italiano: \"casta\"\nDeutsch: \"Nase\" - Italiano: \"naso\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Waggon\" - Italiano: \"veicolo su rotaia\"\nDeutsch: \"Schwanz\" - Italiano: \"mazza\"\nDeutsch: \"Buch\" - Italiano: \"",
+        "target": "['libro', 'carta']",
+        "word original": "book"
+    },
+    "['Kasten', 'Kaste', 'Schrank', 'Schr\u00e4nkchen', 'Kemenate', 'Kiste']": {
+        "prompt": "Deutsch: \"Motor\" - Italiano: \"motore\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Italiano: \"punizione corporale\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Fenster\" - Italiano: \"finestra\"\nDeutsch: \"Regentropfen\" - Italiano: \"goccia di pioggia\"\nDeutsch: \"Kasten\" - Italiano: \"",
+        "target": "['casta', 'credenza', 'dispensa', 'armadietto', 'armadio', 'Guardaroba', 'ripostiglio', 'stipo', 'scatola', 'cassetta', 'astuccio', 'cassa']",
+        "word original": "box"
+    },
+    "['J\u00fcngling', 'Knabe', 'Bub', 'Bursche', 'Junge']": {
+        "prompt": "Deutsch: \"Visage\" - Italiano: \"viso\"\nDeutsch: \"Schaf\" - Italiano: \"pecora domestica\"\nDeutsch: \"Boot\" - Italiano: \"imbarcazione\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Handschuh\" - Italiano: \"guanto\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"",
+        "target": "['ragazzo', 'figliuolo', 'bambino', 'bimbo', 'figliolo', 'fanciullo', 'ragazzino', 'guaglione', 'maschietto']",
+        "word original": "boy"
+    },
+    "['Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Vernunft', 'Intellekt']": {
+        "prompt": "Deutsch: \"Hund\" - Italiano: \"cane\"\nDeutsch: \"Dach\" - Italiano: \"tetto\"\nDeutsch: \"B\u00fcrste\" - Italiano: \"spazzola\"\nDeutsch: \"Peitsche\" - Italiano: \"frustino\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Verstand\" - Italiano: \"",
+        "target": "['testare', 'pensiero', 'mente', 'cervello', 'Intelletto cosmico', 'psiche', 'nous', 'testa', 'psicologia', 'intelletto', 'ragione', 'raziocinio']",
+        "word original": "head"
+    },
+    "['Abbremsen', 'Bremsen', 'Bremse']": {
+        "prompt": "Deutsch: \"Tasse\" - Italiano: \"tazza\"\nDeutsch: \"Drommeter\" - Italiano: \"scacciapensieri\"\nDeutsch: \"Kreis\" - Italiano: \"territorio\"\nDeutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Fisch\" - Italiano: \"pesce\"\nDeutsch: \"Abbremsen\" - Italiano: \"",
+        "target": "['freno']",
+        "word original": "brake"
+    },
+    "['\u00d6konomie', 'Wirtschaftswissenschaft', '\u00d6konomik', 'politische \u00d6konomie', 'Politische \u00d6konomie', 'Wirtschaftssystem', 'Wirtschaft']": {
+        "prompt": "Deutsch: \"Flugzeug\" - Italiano: \"velivolo\"\nDeutsch: \"Wolke\" - Italiano: \"nube\"\nDeutsch: \"Fahrrad\" - Italiano: \"bicicletta\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Baby\" - Italiano: \"neonato\"\nDeutsch: \"\u00d6konomie\" - Italiano: \"",
+        "target": "['economia', 'scienze economiche', 'economia politica', 'sistema economico']",
+        "word original": "branch"
+    },
+    "['Ziegelstein', 'Backstein', 'Mauerziegel', 'Ziegel']": {
+        "prompt": "Deutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Imme\" - Italiano: \"ape\"\nDeutsch: \"Visage\" - Italiano: \"viso\"\nDeutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Ziegelstein\" - Italiano: \"",
+        "target": "['mattone', 'tegola', 'laterizio', 'mattonella']",
+        "word original": "brick"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Mond\" - Italiano: \"mese\"\nDeutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Regal\" - Italiano: \"appannaggio\"\nDeutsch: \"Insel\" - Italiano: \"isola\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Br\u00fccke\" - Italiano: \"",
+        "target": "['ponte', 'ponti romani']",
+        "word original": "bridge"
+    },
+    "['B\u00fcrste', 'Pinsel']": {
+        "prompt": "Deutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Hammer\" - Italiano: \"pianoforte\"\nDeutsch: \"Drommeter\" - Italiano: \"scacciapensieri\"\nDeutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"B\u00fcrste\" - Italiano: \"",
+        "target": "['spazzola', 'pennello']",
+        "word original": "brush"
+    },
+    "['Eimer']": {
+        "prompt": "Deutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Quadrat\" - Italiano: \"cancelletto\"\nDeutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Rock\" - Italiano: \"musica rock\"\nDeutsch: \"Pflug\" - Italiano: \"aratro\"\nDeutsch: \"Eimer\" - Italiano: \"",
+        "target": "['secchio', 'secchia', 'bugliolo']",
+        "word original": "bucket"
+    },
+    "['Gl\u00fchbirne', 'Gl\u00fchlampe', 'elektrisches Licht']": {
+        "prompt": "Deutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Peitsche\" - Italiano: \"frustino\"\nDeutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Gl\u00fchbirne\" - Italiano: \"",
+        "target": "['lampadina', 'lampada a incandescenza', 'luce elettrica', 'bulbo']",
+        "word original": "bulb"
+    },
+    "['Kuchen', 'K\u00fcche', 'Torte', 'Pastete']": {
+        "prompt": "Deutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Hausrind\" - Italiano: \"mucca\"\nDeutsch: \"Personalausweis\" - Italiano: \"carta d'identit\u00e0\"\nDeutsch: \"Fu\u00df\" - Italiano: \"piede\"\nDeutsch: \"Kuchen\" - Italiano: \"",
+        "target": "['cucina', 'torta', 'cake', 'pie', 'crostata', 'pasticcio']",
+        "word original": "cake"
+    },
+    "['Fotoapparat', 'Kamera']": {
+        "prompt": "Deutsch: \"B\u00fcrste\" - Italiano: \"spazzola\"\nDeutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"Ofen\" - Italiano: \"forno\"\nDeutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Gl\u00fchbirne\" - Italiano: \"lampadina\"\nDeutsch: \"Fotoapparat\" - Italiano: \"",
+        "target": "['camera', 'fotocamera', 'macchina fotografica', 'apparecchio fotografico']",
+        "word original": "camera"
+    },
+    "['Personalausweis', 'Ausweis', 'ID', 'Identit\u00e4tskarte']": {
+        "prompt": "Deutsch: \"Nase\" - Italiano: \"naso\"\nDeutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Fahrrad\" - Italiano: \"bicicletta\"\nDeutsch: \"Hauskatze\" - Italiano: \"micio\"\nDeutsch: \"Personalausweis\" - Italiano: \"",
+        "target": "[\"carta d'identit\u00e0\", \"documento d'identit\u00e0\", 'carta di identit\u00e0', 'documento']",
+        "word original": "card"
+    },
+    "['Karren', 'Schubkarre', 'Karette', 'Scheibtruhe', 'Schiebetruhe', 'Karre', 'Handwagen', 'Ochsenwagen', 'Handkarren']": {
+        "prompt": "Deutsch: \"Buch\" - Italiano: \"libro\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Boot\" - Italiano: \"imbarcazione\"\nDeutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Karren\" - Italiano: \"",
+        "target": "['carriola', 'carretto', 'barroccino', 'baroccino']",
+        "word original": "cart"
+    },
+    "['Waggon', 'Eisenbahnwagen', 'Kabine', 'Triebwagen', 'Verbrennungstriebwagen', 'Equipage', 'Kutsche', 'Wagen']": {
+        "prompt": "Deutsch: \"Motor\" - Italiano: \"motore\"\nDeutsch: \"Hausrind\" - Italiano: \"mucca\"\nDeutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"Abbremsen\" - Italiano: \"freno\"\nDeutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"Waggon\" - Italiano: \"",
+        "target": "['veicolo su rotaia', 'vagone', 'automotrice', 'carrozza', 'cabina', 'bisarca', 'carro merci']",
+        "word original": "carriage"
+    },
+    "['Hauskatze', 'Katze', 'Mietzekatze', 'Mietze', 'Stubentiger']": {
+        "prompt": "Deutsch: \"Imme\" - Italiano: \"ape\"\nDeutsch: \"Drommeter\" - Italiano: \"scacciapensieri\"\nDeutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Klosett\" - Italiano: \"tazza\"\nDeutsch: \"Uni\" - Italiano: \"universit\u00e0\"\nDeutsch: \"Hauskatze\" - Italiano: \"",
+        "target": "['micio', 'gatto', 'gatto domestico', 'micino', 'Felis silvestris catus']",
+        "word original": "cat"
+    },
+    "['K\u00e4se']": {
+        "prompt": "Deutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Pflug\" - Italiano: \"aratro\"\nDeutsch: \"Schlange\" - Italiano: \"serpente\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Zug\" - Italiano: \"treno passeggeri\"\nDeutsch: \"K\u00e4se\" - Italiano: \"",
+        "target": "['formaggio', 'cacio']",
+        "word original": "cheese"
+    },
+    "['Truhe', 'Koffer']": {
+        "prompt": "Deutsch: \"Uni\" - Italiano: \"universit\u00e0\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Strafanstalt\" - Italiano: \"carcere\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Hosentasche\" - Italiano: \"tasca dei calzoni\"\nDeutsch: \"Truhe\" - Italiano: \"",
+        "target": "['baule', 'cassapanca', 'cassa', 'cofano']",
+        "word original": "chest"
+    },
+    "['Kinn']": {
+        "prompt": "Deutsch: \"Haut\" - Italiano: \"pelle\"\nDeutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Dach\" - Italiano: \"tetto\"\nDeutsch: \"Karren\" - Italiano: \"carriola\"\nDeutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"Kinn\" - Italiano: \"",
+        "target": "['mento', 'bazza']",
+        "word original": "chin"
+    },
+    "['Kirche', 'Kirchengeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Imme\" - Italiano: \"ape\"\nDeutsch: \"Knie\" - Italiano: \"ginocchio\"\nDeutsch: \"Belaubung\" - Italiano: \"foglia\"\nDeutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Kirche\" - Italiano: \"",
+        "target": "['chiesa']",
+        "word original": "church"
+    },
+    "['Kreis', 'Territorium', 'Machtgebiet', 'Einflussbereich', 'Stadtteil', 'Bezirk', 'Distrikt', 'Dominion', 'Stadtviertel', 'Herrschaftsgebiet', 'Landkreis', 'Stadtbezirk']": {
+        "prompt": "Deutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Fahrrad\" - Italiano: \"bicicletta\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Kehle\" - Italiano: \"gola\"\nDeutsch: \"Kreis\" - Italiano: \"",
+        "target": "['territorio', 'distretto', 'plaga', 'regione', 'compartimento', 'mandamento', 'circoscrizione', 'comprensorio', 'circondario', 'cerchio', 'circonferenza', 'circolo']",
+        "word original": "circle"
+    },
+    "['Uhr', 'Armbanduhr', 'Taschenuhr oder Armbanduhr']": {
+        "prompt": "Deutsch: \"Strasse\" - Italiano: \"strada\"\nDeutsch: \"Bauch\" - Italiano: \"stomaco\"\nDeutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Uhr\" - Italiano: \"",
+        "target": "['orologio', 'oriolo', 'orologio da polso', 'orologio da tasca', 'cipolla']",
+        "word original": "clock"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Bauch\" - Italiano: \"stomaco\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Baum\" - Italiano: \"albero\"\nDeutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Wolke\" - Italiano: \"",
+        "target": "['nube', 'nuvola', 'nembo']",
+        "word original": "cloud"
+    },
+    "['Jacke', 'Mantel']": {
+        "prompt": "Deutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Daumen\" - Italiano: \"dito grosso\"\nDeutsch: \"Strafanstalt\" - Italiano: \"carcere\"\nDeutsch: \"Z\u00fcndholz\" - Italiano: \"fiammifero\"\nDeutsch: \"Jacke\" - Italiano: \"",
+        "target": "['cappotto', 'mantello', 'giacca', 'casacca', 'giacchetta', 'giubba', 'soprabito', 'palt\u00f2', 'paletot']",
+        "word original": "coat"
+    },
+    "['Festnahme', 'Fang', 'Beschlagnahme', 'Erfassung', 'Gefangennahme']": {
+        "prompt": "Deutsch: \"Bett\" - Italiano: \"letto\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Strafanstalt\" - Italiano: \"carcere\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Festnahme\" - Italiano: \"",
+        "target": "['arresto', 'fermo', 'cattura', 'sequestro']",
+        "word original": "collar"
+    },
+    "['Hausrind', 'Rind', 'Rindvieh', 'K\u00fche', 'Rinder', 'Bos taurus']": {
+        "prompt": "Deutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Waggon\" - Italiano: \"veicolo su rotaia\"\nDeutsch: \"Internet\" - Italiano: \"rete informatica\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Tisch\" - Italiano: \"tavola\"\nDeutsch: \"Hausrind\" - Italiano: \"",
+        "target": "['mucca', 'bestiame bovino', 'vacca', 'bestiame', 'Bos taurus', 'Bos taurus taurus', 'bovini', 'bue', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['Tasse', 'Trinkglas', 'Trinkschale', 'Pokal', 'Henkelbecher', 'Becher']": {
+        "prompt": "Deutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Belaubung\" - Italiano: \"foglia\"\nDeutsch: \"Fingerchen\" - Italiano: \"dito\"\nDeutsch: \"Ameise\" - Italiano: \"formica\"\nDeutsch: \"Tasse\" - Italiano: \"",
+        "target": "['tazza', 'coppa', 'bicchiere', 'boccale', 'mug', 'gotto']",
+        "word original": "cup"
+    },
+    "['Vorhang', 'Schleier', 'Kopfbedeckung', 'Gardine', 'Fensterdekoration']": {
+        "prompt": "Deutsch: \"Baby\" - Italiano: \"neonato\"\nDeutsch: \"Strahlen\" - Italiano: \"barbula\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Z\u00fcndholz\" - Italiano: \"fiammifero\"\nDeutsch: \"Festnahme\" - Italiano: \"arresto\"\nDeutsch: \"Vorhang\" - Italiano: \"",
+        "target": "['velo', 'veletta', 'copricapo', 'tenda', 'drappo', 'drappeggio', 'tappezzeria', 'tendina', 'tendaggio', 'panneggiamento', 'cortina', 'velario']",
+        "word original": "curtain"
+    },
+    "['Sto\u00dfd\u00e4mpfer', 'Schlag']": {
+        "prompt": "Deutsch: \"Klosett\" - Italiano: \"tazza\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Schere\" - Italiano: \"forbici\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Italiano: \"",
+        "target": "['ammortizzatore', 'scossa']",
+        "word original": "cushion"
+    },
+    "['Hund', 'Wauwau', 'K\u00f6ter', 'T\u00f6le', 'Canis lupus familiaris', 'Haushund']": {
+        "prompt": "Deutsch: \"Funktion\" - Italiano: \"funzione\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Hund\" - Italiano: \"",
+        "target": "['cane', 'Canis lupus familiaris', 'Canis familiaris']",
+        "word original": "dog"
+    },
+    "['T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcr', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Abbremsen\" - Italiano: \"freno\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Haut\" - Italiano: \"pelle\"\nDeutsch: \"Visage\" - Italiano: \"viso\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"",
+        "target": "['telaio della porta', 'porta', 'portiera', 'uscio', 'sportello']",
+        "word original": "door"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Kirche\" - Italiano: \"chiesa\"\nDeutsch: \"Strasse\" - Italiano: \"strada\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"Schaf\" - Italiano: \"pecora domestica\"\nDeutsch: \"T\u00fcr\" - Italiano: \"",
+        "target": "['telaio della porta', 'porta', 'portiera', 'uscio', 'sportello']",
+        "word original": "drain"
+    },
+    "['Abbildung', 'Funktion', 'Zeichnung', 'Bild', 'Abbild']": {
+        "prompt": "Deutsch: \"Nerv\" - Italiano: \"nervo\"\nDeutsch: \"Wolke\" - Italiano: \"nube\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Schwert\" - Italiano: \"spada\"\nDeutsch: \"\u00d6konomie\" - Italiano: \"economia\"\nDeutsch: \"Abbildung\" - Italiano: \"",
+        "target": "['funzione', 'funzione matematica', 'mappa', 'disegno', 'figura', 'riproduzione', 'illustrazione', 'immagine']",
+        "word original": "drawer"
+    },
+    "['Bekleidung', 'Kleider', 'Gewandung', 'Kleidungsst\u00fcck', 'Kleidung']": {
+        "prompt": "Deutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"K\u00e4se\" - Italiano: \"formaggio\"\nDeutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Bekleidung\" - Italiano: \"",
+        "target": "['vestiti', 'vestiario', 'abbigliamento', 'indumento', 'vestito', 'abito', 'vestire', 'abiti', 'veste']",
+        "word original": "dress"
+    },
+    "['Regentropfen', 'Tropfen']": {
+        "prompt": "Deutsch: \"Personalausweis\" - Italiano: \"carta d'identit\u00e0\"\nDeutsch: \"Messer\" - Italiano: \"coltello\"\nDeutsch: \"Bauch\" - Italiano: \"stomaco\"\nDeutsch: \"Mund\" - Italiano: \"cavit\u00e0 orale\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Regentropfen\" - Italiano: \"",
+        "target": "['goccia di pioggia', 'goccia', 'gocciola', 'lagrima', 'gocciolo', 'lacrima', 'goccio']",
+        "word original": "drop"
+    },
+    "['Ohren', 'Ohr']": {
+        "prompt": "Deutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Buch\" - Italiano: \"libro\"\nDeutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Ohren\" - Italiano: \"",
+        "target": "['orecchio', 'oreia', 'orecchie', 'orecchia']",
+        "word original": "ear"
+    },
+    "['H\u00fchnerei', 'Ei']": {
+        "prompt": "Deutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Gefl\u00fcgel\" - Italiano: \"pollame\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Ziegelstein\" - Italiano: \"mattone\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"",
+        "target": "['uovo', 'uovo di gallina']",
+        "word original": "egg"
+    },
+    "['Motor', 'Triebwerk', 'Antrieb']": {
+        "prompt": "Deutsch: \"Nerv\" - Italiano: \"nervo\"\nDeutsch: \"Klingel\" - Italiano: \"campanello\"\nDeutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"Hosentasche\" - Italiano: \"tasca dei calzoni\"\nDeutsch: \"Uni\" - Italiano: \"universit\u00e0\"\nDeutsch: \"Motor\" - Italiano: \"",
+        "target": "['motore']",
+        "word original": "engine"
+    },
+    "['Augapfel', 'Auge', 'Augen']": {
+        "prompt": "Deutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Zug\" - Italiano: \"treno passeggeri\"\nDeutsch: \"Uhr\" - Italiano: \"orologio\"\nDeutsch: \"Kasten\" - Italiano: \"casta\"\nDeutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Augapfel\" - Italiano: \"",
+        "target": "['bulbo oculare', 'occhio', 'occhi']",
+        "word original": "eye"
+    },
+    "['Visage', 'Angesicht', 'Antlitz', 'Gesicht']": {
+        "prompt": "Deutsch: \"Messer\" - Italiano: \"coltello\"\nDeutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"Hauskatze\" - Italiano: \"micio\"\nDeutsch: \"Garten\" - Italiano: \"giardino\"\nDeutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Visage\" - Italiano: \"",
+        "target": "['viso', 'faccia', 'volto']",
+        "word original": "face"
+    },
+    "['Bauernhof', 'Farm']": {
+        "prompt": "Deutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Insel\" - Italiano: \"isola\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Parapluie\" - Italiano: \"ombrello\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Bauernhof\" - Italiano: \"",
+        "target": "['fattoria', 'tenuta agricola', 'masseria', 'podere', 'allevamento']",
+        "word original": "farm"
+    },
+    "['Strahlen', 'Feder', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder']": {
+        "prompt": "Deutsch: \"Briefmarke\" - Italiano: \"francobollo\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"Z\u00e4hne\" - Italiano: \"denti\"\nDeutsch: \"Internet\" - Italiano: \"rete informatica\"\nDeutsch: \"Rock\" - Italiano: \"musica rock\"\nDeutsch: \"Strahlen\" - Italiano: \"",
+        "target": "['barbula', 'piumaggio', 'piuma', 'penna', 'piume']",
+        "word original": "feather"
+    },
+    "['Fingerchen', 'Finger']": {
+        "prompt": "Deutsch: \"Nase\" - Italiano: \"naso\"\nDeutsch: \"Television\" - Italiano: \"televisione\"\nDeutsch: \"Z\u00fcndholz\" - Italiano: \"fiammifero\"\nDeutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Schwert\" - Italiano: \"spada\"\nDeutsch: \"Fingerchen\" - Italiano: \"",
+        "target": "['dito', 'dito della mano', 'dita']",
+        "word original": "finger"
+    },
+    "['Fisch', 'Fische', 'Speisefisch', 'Pisces']": {
+        "prompt": "Deutsch: \"Schraube\" - Italiano: \"vite\"\nDeutsch: \"Truhe\" - Italiano: \"baule\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Flugzeug\" - Italiano: \"velivolo\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Fisch\" - Italiano: \"",
+        "target": "['pesce', 'Pisces']",
+        "word original": "fish"
+    },
+    "['Flagge']": {
+        "prompt": "Deutsch: \"Strahlen\" - Italiano: \"barbula\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"Peitsche\" - Italiano: \"frustino\"\nDeutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Uhr\" - Italiano: \"orologio\"\nDeutsch: \"Flagge\" - Italiano: \"",
+        "target": "['bandiera', 'insegna']",
+        "word original": "flag"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Fisch\" - Italiano: \"pesce\"\nDeutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Tasse\" - Italiano: \"tazza\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Tal\" - Italiano: \"",
+        "target": "['valle', 'vallata', 'conca']",
+        "word original": "floor"
+    },
+    "['Fliege', 'Zweifl\u00fcgler']": {
+        "prompt": "Deutsch: \"F\u00fcller\" - Italiano: \"penna stilografica\"\nDeutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"Schl\u00fcssel\" - Italiano: \"chiave\"\nDeutsch: \"Fliege\" - Italiano: \"",
+        "target": "['mosca', 'Ditteri', 'Diptera', 'Mosca']",
+        "word original": "fly"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Nerv\" - Italiano: \"nervo\"\nDeutsch: \"Hausrind\" - Italiano: \"mucca\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Fu\u00df\" - Italiano: \"",
+        "target": "['piede']",
+        "word original": "foot"
+    },
+    "['Gabel', 'Besteck', 'Essbesteck', 'Pommesgabel']": {
+        "prompt": "Deutsch: \"\u00d6konomie\" - Italiano: \"economia\"\nDeutsch: \"Quadrat\" - Italiano: \"cancelletto\"\nDeutsch: \"Tasse\" - Italiano: \"tazza\"\nDeutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Gabel\" - Italiano: \"",
+        "target": "['posate', 'coltelleria', 'posata', 'forchetta']",
+        "word original": "fork"
+    },
+    "['Gefl\u00fcgel', 'Galloanserae']": {
+        "prompt": "Deutsch: \"Jacke\" - Italiano: \"cappotto\"\nDeutsch: \"Baby\" - Italiano: \"neonato\"\nDeutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Gefl\u00fcgel\" - Italiano: \"",
+        "target": "['pollame', 'volatile', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['Humanphysiologie', 'menschlicher K\u00f6rper', 'Figur', 'Gestalt', 'Bau', 'Statur', 'Form', 'K\u00f6rperbau']": {
+        "prompt": "Deutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Winkel\" - Italiano: \"angolo\"\nDeutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Klosett\" - Italiano: \"tazza\"\nDeutsch: \"Humanphysiologie\" - Italiano: \"",
+        "target": "['fisiologia umana', 'corpo umano', 'figura', 'ossatura', 'forma', 'scheletro', 'fisico', 'sagoma', 'carne']",
+        "word original": "frame"
+    },
+    "['Garten']": {
+        "prompt": "Deutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Zug\" - Italiano: \"treno passeggeri\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Hose\" - Italiano: \"pantaloni\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Garten\" - Italiano: \"",
+        "target": "['giardino']",
+        "word original": "garden"
+    },
+    "['M\u00e4dchen', 'Fr\u00e4ulein', 'Frau', 'Weib', 'Weibsperson', 'Dame', 'Frauenzimmer', 'weibliches Geschlecht', 'Weibchen', 'weiblicher Mensch', 'Freundin']": {
+        "prompt": "Deutsch: \"Fingernagel\" - Italiano: \"unghia\"\nDeutsch: \"Insel\" - Italiano: \"isola\"\nDeutsch: \"Gefl\u00fcgel\" - Italiano: \"pollame\"\nDeutsch: \"Quadrat\" - Italiano: \"cancelletto\"\nDeutsch: \"Kuchen\" - Italiano: \"cucina\"\nDeutsch: \"M\u00e4dchen\" - Italiano: \"",
+        "target": "['ragazza', 'signorinella', 'signorina', 'giovane', 'madamigella', 'donna', 'femmina', 'umano femmina', 'fidanzata', 'innamorata', 'bella']",
+        "word original": "girl"
+    },
+    "['Handschuh']": {
+        "prompt": "Deutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"Hand\" - Italiano: \"mano\"\nDeutsch: \"Fisch\" - Italiano: \"pesce\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"Gefl\u00fcgel\" - Italiano: \"pollame\"\nDeutsch: \"Handschuh\" - Italiano: \"",
+        "target": "['guanto']",
+        "word original": "glove"
+    },
+    "['Hausziege', 'Ziege']": {
+        "prompt": "Deutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Bekleidung\" - Italiano: \"vestiti\"\nDeutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Hausziege\" - Italiano: \"",
+        "target": "['capra', 'capra domestica', 'Capra hircus']",
+        "word original": "goat"
+    },
+    "['Schusswaffe', 'Feuerwaffe']": {
+        "prompt": "Deutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Karren\" - Italiano: \"carriola\"\nDeutsch: \"Ameise\" - Italiano: \"formica\"\nDeutsch: \"Pfeife\" - Italiano: \"pipa\"\nDeutsch: \"Schusswaffe\" - Italiano: \"",
+        "target": "['arma da fuoco', 'arma balistica', 'pistola']",
+        "word original": "gun"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"Kasten\" - Italiano: \"casta\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Boot\" - Italiano: \"imbarcazione\"\nDeutsch: \"Pflug\" - Italiano: \"aratro\"\nDeutsch: \"Strahlen\" - Italiano: \"barbula\"\nDeutsch: \"Haar\" - Italiano: \"",
+        "target": "['pelo', 'peluria', 'capello']",
+        "word original": "root"
+    },
+    "['Hammer', 'Piano', 'Pianoforte', 'Klavier']": {
+        "prompt": "Deutsch: \"Abbremsen\" - Italiano: \"freno\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Stern\" - Italiano: \"stella\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Bett\" - Italiano: \"letto\"\nDeutsch: \"Hammer\" - Italiano: \"",
+        "target": "['pianoforte', 'piano', 'martello']",
+        "word original": "hammer"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"\u00d6konomie\" - Italiano: \"economia\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Armbanduhr\" - Italiano: \"orologio\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Hand\" - Italiano: \"",
+        "target": "['mano']",
+        "word original": "hand"
+    },
+    "['Hut', 'Kopfbedeckung', 'Chapeau!', 'Kappe', 'M\u00fctze']": {
+        "prompt": "Deutsch: \"Uni\" - Italiano: \"universit\u00e0\"\nDeutsch: \"Strasse\" - Italiano: \"strada\"\nDeutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Hut\" - Italiano: \"",
+        "target": "['cappello', 'copricapo', 'chapeau']",
+        "word original": "hat"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"Kinn\" - Italiano: \"mento\"\nDeutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Uni\" - Italiano: \"universit\u00e0\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Herz\" - Italiano: \"",
+        "target": "['cuore', 'cuore umano', 'Superficie diaframmatica', 'superficie diaframmatica del cuore', 'philia', 'affezione', 'affetto', 'attaccamento', 'bene', 'amore']",
+        "word original": "pump"
+    },
+    "['Drommeter', 'Kornett', 'Trompete', 'Maultrommel', 'Trompeter', 'Drommete']": {
+        "prompt": "Deutsch: \"Samenkorn\" - Italiano: \"seme\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"uccello\"\nDeutsch: \"Television\" - Italiano: \"televisione\"\nDeutsch: \"Tal\" - Italiano: \"valle\"\nDeutsch: \"Drommeter\" - Italiano: \"",
+        "target": "['scacciapensieri', 'tromba', 'corno da caccia', 'tromba militare', 'armonica', 'cornetta', 'corno']",
+        "word original": "horn"
+    },
+    "['Gaul', 'Pferd', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"Buch\" - Italiano: \"libro\"\nDeutsch: \"Baum\" - Italiano: \"albero\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"Gaul\" - Italiano: \"",
+        "target": "['cavallo', 'Equus ferus caballus', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['Hospital', 'Krankenhaus', 'Klinik']": {
+        "prompt": "Deutsch: \"Z\u00e4hne\" - Italiano: \"denti\"\nDeutsch: \"Uhr\" - Italiano: \"orologio\"\nDeutsch: \"Strasse\" - Italiano: \"strada\"\nDeutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Hospital\" - Italiano: \"",
+        "target": "['ospedale', 'clinica', 'nosocomio', 'infermeria', 'astanteria']",
+        "word original": "hospital"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"Schw\u00e4mme\" - Italiano: \"porifera\"\nDeutsch: \"Hammer\" - Italiano: \"pianoforte\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Personalausweis\" - Italiano: \"carta d'identit\u00e0\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Haus\" - Italiano: \"",
+        "target": "['casa', 'domicilio', 'abitazione', 'dimora', 'residenza', 'magione']",
+        "word original": "house"
+    },
+    "['Insel', 'Eiland']": {
+        "prompt": "Deutsch: \"Wurm\" - Italiano: \"serpente\"\nDeutsch: \"Kirche\" - Italiano: \"chiesa\"\nDeutsch: \"Schwert\" - Italiano: \"spada\"\nDeutsch: \"Karren\" - Italiano: \"carriola\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Italiano: \"ammortizzatore\"\nDeutsch: \"Insel\" - Italiano: \"",
+        "target": "['isola']",
+        "word original": "island"
+    },
+    "['Juwel', 'Schmuckstein', 'Edelstein', 'Kleinod']": {
+        "prompt": "Deutsch: \"Knie\" - Italiano: \"ginocchio\"\nDeutsch: \"Hose\" - Italiano: \"pantaloni\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Gefl\u00fcgel\" - Italiano: \"pollame\"\nDeutsch: \"Hauskatze\" - Italiano: \"micio\"\nDeutsch: \"Juwel\" - Italiano: \"",
+        "target": "['gemma', 'pietra preziosa']",
+        "word original": "jewel"
+    },
+    "['Teekessel', 'Kochtopf', 'Pfeifkessel', 'Kessel', 'Wasserkessel']": {
+        "prompt": "Deutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Uhr\" - Italiano: \"orologio\"\nDeutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"L\u00f6ffel\" - Italiano: \"cucchiaio\"\nDeutsch: \"Teekessel\" - Italiano: \"",
+        "target": "['bollitore da t\u00e8', 'bollitore', 'cucuma', 'pentola', 'caldaia']",
+        "word original": "kettle"
+    },
+    "['Schl\u00fcssel', 'Schraubenschl\u00fcssel']": {
+        "prompt": "Deutsch: \"Bauernhof\" - Italiano: \"fattoria\"\nDeutsch: \"Mutter\" - Italiano: \"maternit\u00e0\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Fotoapparat\" - Italiano: \"camera\"\nDeutsch: \"Schl\u00fcssel\" - Italiano: \"",
+        "target": "['chiave', 'serradadi', 'chiave piatta', 'chiave inglese']",
+        "word original": "key"
+    },
+    "['Knie', 'Kniegelenk']": {
+        "prompt": "Deutsch: \"Mund\" - Italiano: \"cavit\u00e0 orale\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Handschuh\" - Italiano: \"guanto\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"Knie\" - Italiano: \"",
+        "target": "['ginocchio']",
+        "word original": "knee"
+    },
+    "['Messer']": {
+        "prompt": "Deutsch: \"Hand\" - Italiano: \"mano\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"Strumpf\" - Italiano: \"calzino\"\nDeutsch: \"Schw\u00e4mme\" - Italiano: \"porifera\"\nDeutsch: \"Messer\" - Italiano: \"",
+        "target": "['coltello']",
+        "word original": "knife"
+    },
+    "['Knoten']": {
+        "prompt": "Deutsch: \"Bauch\" - Italiano: \"stomaco\"\nDeutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Regentropfen\" - Italiano: \"goccia di pioggia\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Knoten\" - Italiano: \"",
+        "target": "['nodo', 'annodamento', 'groppo', 'annodatura']",
+        "word original": "knot"
+    },
+    "['Belaubung', 'Blattwerk', 'Blatt', 'Laub', 'Laubwerk', 'Bl\u00e4tterwerk', 'Laphi']": {
+        "prompt": "Deutsch: \"Rock\" - Italiano: \"musica rock\"\nDeutsch: \"Baby\" - Italiano: \"neonato\"\nDeutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Abbremsen\" - Italiano: \"freno\"\nDeutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"Belaubung\" - Italiano: \"",
+        "target": "['foglia', 'fogliame', 'chioma']",
+        "word original": "leaf"
+    },
+    "['Television', 'Video', 'Fernsehen', 'Videotechnik', 'TV-Ger\u00e4t', 'Fernseher', 'Fernsehapparat', 'Fernsehempf\u00e4nger', 'Fernsehger\u00e4t']": {
+        "prompt": "Deutsch: \"Sto\u00dfd\u00e4mpfer\" - Italiano: \"ammortizzatore\"\nDeutsch: \"Truhe\" - Italiano: \"baule\"\nDeutsch: \"Baby\" - Italiano: \"neonato\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"Television\" - Italiano: \"",
+        "target": "['televisione', 'video', 'tiv\u00f9', 'tele', 'tivv\u00f9', 'TV', 'televisore', 'tv', 'teleschermo']",
+        "word original": "line"
+    },
+    "['Lippe']": {
+        "prompt": "Deutsch: \"Baum\" - Italiano: \"albero\"\nDeutsch: \"Nerv\" - Italiano: \"nervo\"\nDeutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Wurm\" - Italiano: \"serpente\"\nDeutsch: \"Motor\" - Italiano: \"motore\"\nDeutsch: \"Lippe\" - Italiano: \"",
+        "target": "['labbro', 'labbra']",
+        "word original": "lip"
+    },
+    "['Funktion', 'Abbildung']": {
+        "prompt": "Deutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Belaubung\" - Italiano: \"foglia\"\nDeutsch: \"Fl\u00fcgel\" - Italiano: \"ala\"\nDeutsch: \"Funktion\" - Italiano: \"",
+        "target": "['funzione', 'funzione matematica', 'mappa']",
+        "word original": "map"
+    },
+    "['Z\u00fcndholz', 'Streichholz', 'H\u00f6lzchen']": {
+        "prompt": "Deutsch: \"Kehle\" - Italiano: \"gola\"\nDeutsch: \"Drommeter\" - Italiano: \"scacciapensieri\"\nDeutsch: \"F\u00fcller\" - Italiano: \"penna stilografica\"\nDeutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Strahlen\" - Italiano: \"barbula\"\nDeutsch: \"Z\u00fcndholz\" - Italiano: \"",
+        "target": "['fiammifero', 'zolfanello']",
+        "word original": "match"
+    },
+    "['Affe']": {
+        "prompt": "Deutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Mund\" - Italiano: \"cavit\u00e0 orale\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Dach\" - Italiano: \"tetto\"\nDeutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Affe\" - Italiano: \"",
+        "target": "['scimmia', 'quadrumane']",
+        "word original": "monkey"
+    },
+    "['Mond', 'Monat']": {
+        "prompt": "Deutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Bauch\" - Italiano: \"stomaco\"\nDeutsch: \"Strumpf\" - Italiano: \"calzino\"\nDeutsch: \"Schaf\" - Italiano: \"pecora domestica\"\nDeutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Mond\" - Italiano: \"",
+        "target": "['mese']",
+        "word original": "moon"
+    },
+    "['Mund', 'Schnauze', 'Mundh\u00f6hle', 'Maul']": {
+        "prompt": "Deutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Strafanstalt\" - Italiano: \"carcere\"\nDeutsch: \"Mutter\" - Italiano: \"maternit\u00e0\"\nDeutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Mund\" - Italiano: \"",
+        "target": "['cavit\u00e0 orale', 'bocca', 'cavo orale']",
+        "word original": "mouth"
+    },
+    "['Muskel']": {
+        "prompt": "Deutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Kehle\" - Italiano: \"gola\"\nDeutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Schl\u00fcssel\" - Italiano: \"chiave\"\nDeutsch: \"Messer\" - Italiano: \"coltello\"\nDeutsch: \"Muskel\" - Italiano: \"",
+        "target": "['muscolo']",
+        "word original": "muscle"
+    },
+    "['Fingernagel', 'Nagel']": {
+        "prompt": "Deutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Ohren\" - Italiano: \"orecchio\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Z\u00e4hne\" - Italiano: \"denti\"\nDeutsch: \"Kleinstadt\" - Italiano: \"insediamento umano\"\nDeutsch: \"Fingernagel\" - Italiano: \"",
+        "target": "['unghia']",
+        "word original": "nail"
+    },
+    "['Hals', 'Nacken', 'Genick']": {
+        "prompt": "Deutsch: \"Nase\" - Italiano: \"naso\"\nDeutsch: \"Briefmarke\" - Italiano: \"francobollo\"\nDeutsch: \"Fingernagel\" - Italiano: \"unghia\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"uccello\"\nDeutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"Hals\" - Italiano: \"",
+        "target": "['collo', 'cervice']",
+        "word original": "neck"
+    },
+    "['Nerv']": {
+        "prompt": "Deutsch: \"Zigarre\" - Italiano: \"sigaro\"\nDeutsch: \"Hammer\" - Italiano: \"pianoforte\"\nDeutsch: \"Regal\" - Italiano: \"appannaggio\"\nDeutsch: \"Wolke\" - Italiano: \"nube\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Nerv\" - Italiano: \"",
+        "target": "['nervo', 'nerbo']",
+        "word original": "nerve"
+    },
+    "['Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Cyberspace']": {
+        "prompt": "Deutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Z\u00e4hne\" - Italiano: \"denti\"\nDeutsch: \"Strumpf\" - Italiano: \"calzino\"\nDeutsch: \"Wolke\" - Italiano: \"nube\"\nDeutsch: \"Internet\" - Italiano: \"",
+        "target": "['rete informatica', 'rete di calcolatori', 'rete', 'cyberspazio']",
+        "word original": "net"
+    },
+    "['Nase']": {
+        "prompt": "Deutsch: \"Sprossachse\" - Italiano: \"fusto\"\nDeutsch: \"T\u00fcrfutter\" - Italiano: \"telaio della porta\"\nDeutsch: \"Tasse\" - Italiano: \"tazza\"\nDeutsch: \"Gefl\u00fcgel\" - Italiano: \"pollame\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Italiano: \"ammortizzatore\"\nDeutsch: \"Nase\" - Italiano: \"",
+        "target": "['naso']",
+        "word original": "nose"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Festnahme\" - Italiano: \"arresto\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Z\u00e4hne\" - Italiano: \"denti\"\nDeutsch: \"Mutter\" - Italiano: \"",
+        "target": "['maternit\u00e0', 'madre', 'mamma', 'genitrice', \"ma'\", 'mammina', 'dado']",
+        "word original": "nut"
+    },
+    "['Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'B\u00fcro', 'Beh\u00f6rde', 'Kontor']": {
+        "prompt": "Deutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Jacke\" - Italiano: \"cappotto\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Italiano: \"punizione corporale\"\nDeutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Bureau\" - Italiano: \"",
+        "target": "['ente', 'organo', 'ufficio', 'agenzia', 'fonte', 'agenzia governativa', 'istituzione']",
+        "word original": "office"
+    },
+    "['Ofen', 'Backofen']": {
+        "prompt": "Deutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Wurm\" - Italiano: \"serpente\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"uccello\"\nDeutsch: \"Badestube\" - Italiano: \"bagno pubblico\"\nDeutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Ofen\" - Italiano: \"",
+        "target": "['forno', 'stufa', 'fornello', 'fuoco']",
+        "word original": "oven"
+    },
+    "['F\u00fcller', 'F\u00fcllfederhalter', 'Feder', 'Schreibstift']": {
+        "prompt": "Deutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Personalausweis\" - Italiano: \"carta d'identit\u00e0\"\nDeutsch: \"F\u00fcller\" - Italiano: \"",
+        "target": "['penna stilografica', 'stilografica', 'penna']",
+        "word original": "pen"
+    },
+    "['Bleistift']": {
+        "prompt": "Deutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Belaubung\" - Italiano: \"foglia\"\nDeutsch: \"Kehle\" - Italiano: \"gola\"\nDeutsch: \"Baum\" - Italiano: \"albero\"\nDeutsch: \"Strafanstalt\" - Italiano: \"carcere\"\nDeutsch: \"Bleistift\" - Italiano: \"",
+        "target": "['matita', 'lapis']",
+        "word original": "pencil"
+    },
+    "['Hausschwein', 'Schwein', 'Sus']": {
+        "prompt": "Deutsch: \"Affe\" - Italiano: \"scimmia\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Winkel\" - Italiano: \"angolo\"\nDeutsch: \"Visage\" - Italiano: \"viso\"\nDeutsch: \"Hausschwein\" - Italiano: \"",
+        "target": "['maiale', 'porco', 'sus scrofa domesticus', 'Sus', 'Sus scrofa', 'suino', 'Sus scrofa domestica']",
+        "word original": "pig"
+    },
+    "['Wasserrohr', 'Aqu\u00e4dukt', 'Rohr', 'Rohrleitung']": {
+        "prompt": "Deutsch: \"Jacke\" - Italiano: \"cappotto\"\nDeutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"Hammer\" - Italiano: \"pianoforte\"\nDeutsch: \"Fingerchen\" - Italiano: \"dito\"\nDeutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Wasserrohr\" - Italiano: \"",
+        "target": "[\"conduttura dell'acqua\", 'conduttura principale', 'acquedotto', 'tubazione', 'tubatura', 'conduttura', 'sistemi di tubazioni', 'sistema di tubazioni', 'tubo', 'condotto', 'condotta', 'canale', 'collettore']",
+        "word original": "pipe"
+    },
+    "['Flugzeug', 'Luftfahrzeug', 'Flieger', 'Maschine']": {
+        "prompt": "Deutsch: \"Messer\" - Italiano: \"coltello\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Dach\" - Italiano: \"tetto\"\nDeutsch: \"Ziegelstein\" - Italiano: \"mattone\"\nDeutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Flugzeug\" - Italiano: \"",
+        "target": "['velivolo', 'aeromobile', 'apparecchio aereo', 'aeroplano', 'areoplano', 'aereo', 'apparecchio']",
+        "word original": "plane"
+    },
+    "['Pflug']": {
+        "prompt": "Deutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Augapfel\" - Italiano: \"bulbo oculare\"\nDeutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Fisch\" - Italiano: \"pesce\"\nDeutsch: \"Pflug\" - Italiano: \"",
+        "target": "['aratro']",
+        "word original": "plough"
+    },
+    "['Hosentasche', 'Tasche', 'Sack']": {
+        "prompt": "Deutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Kinn\" - Italiano: \"mento\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Hosentasche\" - Italiano: \"",
+        "target": "['tasca dei calzoni', 'tasca dei pantaloni', 'tasca']",
+        "word original": "pocket"
+    },
+    "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'Abtritt', '\u00d6rtchen', 'WC', 'Abort', 'stilles \u00d6rtchen', 'Lokus']": {
+        "prompt": "Deutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Abbremsen\" - Italiano: \"freno\"\nDeutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"\u00d6konomie\" - Italiano: \"economia\"\nDeutsch: \"Datenspeicher\" - Italiano: \"memoria per computer\"\nDeutsch: \"Klosett\" - Italiano: \"",
+        "target": "['tazza', 'gabinetto', 'vaso', 'water', 'orinale', 'pitale', 'vaso da notte', 'bagno', 'toilette', 'latrina', 'cesso', 'ritirata', 'cacatoio', 'toletta']",
+        "word original": "pot"
+    },
+    "['Erdapfel', 'Speisekartoffel', 'Tartuffel', 'H\u00e4rd\u00f6pfel', 'Krumenbeere', 'Kartoffel', 'Grundbirne', 'Kartoffeln']": {
+        "prompt": "Deutsch: \"Bureau\" - Italiano: \"ente\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"uccello\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Belaubung\" - Italiano: \"foglia\"\nDeutsch: \"Erdapfel\" - Italiano: \"",
+        "target": "['patata', 'Solanum tuberosum']",
+        "word original": "potato"
+    },
+    "['Strafanstalt', 'Kittchen', 'Gef\u00e4ngnis', 'Bau', 'Knast', 'Haftanstalt', 'Loch']": {
+        "prompt": "Deutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"B\u00fcrste\" - Italiano: \"spazzola\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Strumpf\" - Italiano: \"calzino\"\nDeutsch: \"Strafanstalt\" - Italiano: \"",
+        "target": "['carcere', 'prigione', 'galera', 'penitenziario', 'ergastolo', 'casa di detenzione', 'casa circondariale', 'casa di reclusione', 'casa di pena', 'reclusorio', 'gattabuia', 'gabbia']",
+        "word original": "prison"
+    },
+    "['Maus', 'Ratte', 'M\u00e4use', 'Computermaus', 'Rechnermaus']": {
+        "prompt": "Deutsch: \"Bauch\" - Italiano: \"stomaco\"\nDeutsch: \"Rock\" - Italiano: \"musica rock\"\nDeutsch: \"Kasten\" - Italiano: \"casta\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Baum\" - Italiano: \"albero\"\nDeutsch: \"Maus\" - Italiano: \"",
+        "target": "['topo', 'sorcio', 'ratto', 'Mus', 'mouse']",
+        "word original": "rat"
+    },
+    "['Rechnung', 'Hippe', 'Gesetzentwurf', 'Gesetzesentwurf', 'Gesetzesvorlage', 'Abrechnung', 'Faktura']": {
+        "prompt": "Deutsch: \"Mond\" - Italiano: \"mese\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Rechnung\" - Italiano: \"",
+        "target": "['roncola', 'pennato', 'disegno di legge', 'proposta di legge', 'progetto di legge', 'bolletta', 'fattura', 'dovuto', 'spettanza', 'conto', 'bulletta']",
+        "word original": "receipt"
+    },
+    "['Pr\u00fcgelstrafe', 'K\u00f6rperstrafe', 'k\u00f6rperliche Z\u00fcchtigung']": {
+        "prompt": "Deutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Z\u00e4hne\" - Italiano: \"denti\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Flugzeug\" - Italiano: \"velivolo\"\nDeutsch: \"Bauernhof\" - Italiano: \"fattoria\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Italiano: \"",
+        "target": "['punizione corporale']",
+        "word original": "rod"
+    },
+    "['Dach']": {
+        "prompt": "Deutsch: \"Samenkorn\" - Italiano: \"seme\"\nDeutsch: \"Funktion\" - Italiano: \"funzione\"\nDeutsch: \"Sprossachse\" - Italiano: \"fusto\"\nDeutsch: \"Hammer\" - Italiano: \"pianoforte\"\nDeutsch: \"Buch\" - Italiano: \"libro\"\nDeutsch: \"Dach\" - Italiano: \"",
+        "target": "['tetto', 'copertura']",
+        "word original": "roof"
+    },
+    "['Segelschiff']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - Italiano: \"piede\"\nDeutsch: \"Peitsche\" - Italiano: \"frustino\"\nDeutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"Nerv\" - Italiano: \"nervo\"\nDeutsch: \"Hose\" - Italiano: \"pantaloni\"\nDeutsch: \"Segelschiff\" - Italiano: \"",
+        "target": "['veliero']",
+        "word original": "sail"
+    },
+    "['Uni', 'Universit\u00e4t', 'Akademie', 'Schule', 'Hochschule']": {
+        "prompt": "Deutsch: \"Kirche\" - Italiano: \"chiesa\"\nDeutsch: \"Buch\" - Italiano: \"libro\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Pfeife\" - Italiano: \"pipa\"\nDeutsch: \"Uni\" - Italiano: \"",
+        "target": "['universit\u00e0', 'accademia', 'scuola', 'istituto', 'academia', 'collegio', 'ateneo', 'politecnico']",
+        "word original": "school"
+    },
+    "['Schere']": {
+        "prompt": "Deutsch: \"Ofen\" - Italiano: \"forno\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Bauernhof\" - Italiano: \"fattoria\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Buch\" - Italiano: \"libro\"\nDeutsch: \"Schere\" - Italiano: \"",
+        "target": "['forbici', 'forbice']",
+        "word original": "scissors"
+    },
+    "['Schraube', 'Holzschraube']": {
+        "prompt": "Deutsch: \"Augapfel\" - Italiano: \"bulbo oculare\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Daumen\" - Italiano: \"dito grosso\"\nDeutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Jacke\" - Italiano: \"cappotto\"\nDeutsch: \"Schraube\" - Italiano: \"",
+        "target": "['vite']",
+        "word original": "screw"
+    },
+    "['Samenkorn', 'Saat', 'Same', 'Samen']": {
+        "prompt": "Deutsch: \"Hund\" - Italiano: \"cane\"\nDeutsch: \"Maus\" - Italiano: \"topo\"\nDeutsch: \"Knie\" - Italiano: \"ginocchio\"\nDeutsch: \"V\u00f6gelchen\" - Italiano: \"uccello\"\nDeutsch: \"Winkel\" - Italiano: \"angolo\"\nDeutsch: \"Samenkorn\" - Italiano: \"",
+        "target": "['seme']",
+        "word original": "seed"
+    },
+    "['Schaf', 'Hausschaf', 'Ovine', 'Ovis aries', 'Ovis orientalis aries']": {
+        "prompt": "Deutsch: \"Jacke\" - Italiano: \"cappotto\"\nDeutsch: \"Fotoapparat\" - Italiano: \"camera\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Abbildung\" - Italiano: \"funzione\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Schaf\" - Italiano: \"",
+        "target": "['pecora domestica', 'ovino', 'pecora', 'ovino domestico', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['Regal', 'Pr\u00e4rogative', 'Vorrecht', 'Alleinrecht', 'ausschlie\u00dfliches Recht', 'Privileg']": {
+        "prompt": "Deutsch: \"Karren\" - Italiano: \"carriola\"\nDeutsch: \"Z\u00fcndholz\" - Italiano: \"fiammifero\"\nDeutsch: \"Truhe\" - Italiano: \"baule\"\nDeutsch: \"Hose\" - Italiano: \"pantaloni\"\nDeutsch: \"Ofen\" - Italiano: \"forno\"\nDeutsch: \"Regal\" - Italiano: \"",
+        "target": "['appannaggio', 'destra esclusiva', 'prerogativa', 'diritto esclusivo', 'diritto', 'esclusiva', 'privilegio', 'scaffale', 'palchetto', 'ripiano', 'mensola', 'cartelliera', 'scansia']",
+        "word original": "shelf"
+    },
+    "['Schiff', 'Boot', 'Wasserfahrzeug']": {
+        "prompt": "Deutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Datenspeicher\" - Italiano: \"memoria per computer\"\nDeutsch: \"Peitsche\" - Italiano: \"frustino\"\nDeutsch: \"Hund\" - Italiano: \"cane\"\nDeutsch: \"Schiff\" - Italiano: \"",
+        "target": "['nave', 'dirigibile', 'astronave', 'naviglio', 'bastimento', 'imbarcazione', 'barca', 'scialuppa', 'lancia', 'schifo', 'battello', 'natante', 'transatlantico', 'chiatta', 'barcone', 'vascello']",
+        "word original": "ship"
+    },
+    "['Hemd']": {
+        "prompt": "Deutsch: \"Augapfel\" - Italiano: \"bulbo oculare\"\nDeutsch: \"Br\u00fccke\" - Italiano: \"ponte\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Schwert\" - Italiano: \"spada\"\nDeutsch: \"Regentropfen\" - Italiano: \"goccia di pioggia\"\nDeutsch: \"Hemd\" - Italiano: \"",
+        "target": "['camicia', 'maglia']",
+        "word original": "shirt"
+    },
+    "['Schuh', 'Lackschuh']": {
+        "prompt": "Deutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Bureau\" - Italiano: \"ente\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Italiano: \"punizione corporale\"\nDeutsch: \"Kirche\" - Italiano: \"chiesa\"\nDeutsch: \"Schuh\" - Italiano: \"",
+        "target": "['scarpa', 'calzatura']",
+        "word original": "tongue"
+    },
+    "['Haut']": {
+        "prompt": "Deutsch: \"Hund\" - Italiano: \"cane\"\nDeutsch: \"Tisch\" - Italiano: \"tavola\"\nDeutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"Haut\" - Italiano: \"",
+        "target": "['pelle', 'buccia', 'cute', 'epidermide']",
+        "word original": "skin"
+    },
+    "['Rock', 'Rock \u2019n\u2019 Roll', 'Rockmusik']": {
+        "prompt": "Deutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"Regal\" - Italiano: \"appannaggio\"\nDeutsch: \"Datenspeicher\" - Italiano: \"memoria per computer\"\nDeutsch: \"Hausschwein\" - Italiano: \"maiale\"\nDeutsch: \"F\u00fcller\" - Italiano: \"penna stilografica\"\nDeutsch: \"Rock\" - Italiano: \"",
+        "target": "['musica rock', 'rock and roll', 'gonna', 'sottana', 'gonnella']",
+        "word original": "skirt"
+    },
+    "['Schlange', 'Schlangen', 'Wurm']": {
+        "prompt": "Deutsch: \"Bekleidung\" - Italiano: \"vestiti\"\nDeutsch: \"Knie\" - Italiano: \"ginocchio\"\nDeutsch: \"Fahrrad\" - Italiano: \"bicicletta\"\nDeutsch: \"Parapluie\" - Italiano: \"ombrello\"\nDeutsch: \"Hausrind\" - Italiano: \"mucca\"\nDeutsch: \"Schlange\" - Italiano: \"",
+        "target": "['serpente', 'serpe', 'biscia', 'serpentes', 'colubro', 'Serpente']",
+        "word original": "snake"
+    },
+    "['Strumpf', 'Socke']": {
+        "prompt": "Deutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"H\u00fchnerei\" - Italiano: \"uovo\"\nDeutsch: \"Waggon\" - Italiano: \"veicolo su rotaia\"\nDeutsch: \"Wolke\" - Italiano: \"nube\"\nDeutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"Strumpf\" - Italiano: \"",
+        "target": "['calzino', 'calza', 'pedalino', 'calzetta']",
+        "word original": "sock"
+    },
+    "['Schw\u00e4mme', 'Schwamm']": {
+        "prompt": "Deutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Hauskatze\" - Italiano: \"micio\"\nDeutsch: \"Schw\u00e4mme\" - Italiano: \"",
+        "target": "['porifera', 'spugna', 'Porifera']",
+        "word original": "sponge"
+    },
+    "['L\u00f6ffel']": {
+        "prompt": "Deutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Messer\" - Italiano: \"coltello\"\nDeutsch: \"Haar\" - Italiano: \"pelo\"\nDeutsch: \"Schlange\" - Italiano: \"serpente\"\nDeutsch: \"L\u00f6ffel\" - Italiano: \"",
+        "target": "['cucchiaio']",
+        "word original": "spoon"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"Visage\" - Italiano: \"viso\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Tisch\" - Italiano: \"tavola\"\nDeutsch: \"Kirche\" - Italiano: \"chiesa\"\nDeutsch: \"Quelle\" - Italiano: \"",
+        "target": "['sorgente', 'fonte', 'polla', 'scaturigine', 'pozzo', 'radice', 'origine', 'provenienza']",
+        "word original": "spring"
+    },
+    "['Quadrat', 'Doppelkreuz', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Hand\" - Italiano: \"mano\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"calzino\"\nDeutsch: \"Fisch\" - Italiano: \"pesce\"\nDeutsch: \"Apfel\" - Italiano: \"buccia di mela\"\nDeutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Quadrat\" - Italiano: \"",
+        "target": "['cancelletto', 'quadrato']",
+        "word original": "square"
+    },
+    "['Briefmarke', 'Wertzeichen', 'Freimarke', 'Wert', 'Postwertzeichen', 'Marke']": {
+        "prompt": "Deutsch: \"Winkel\" - Italiano: \"angolo\"\nDeutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Insel\" - Italiano: \"isola\"\nDeutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Briefmarke\" - Italiano: \"",
+        "target": "['francobollo', 'francatura', 'affrancazione', 'affrancatura']",
+        "word original": "stamp"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Bleistift\" - Italiano: \"matita\"\nDeutsch: \"Fisch\" - Italiano: \"pesce\"\nDeutsch: \"Belaubung\" - Italiano: \"foglia\"\nDeutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Stern\" - Italiano: \"",
+        "target": "['stella', 'astro', 'sole']",
+        "word original": "star"
+    },
+    "['Sprossachse', 'Strunk', 'Stiel', 'St\u00e4ngel']": {
+        "prompt": "Deutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Segelschiff\" - Italiano: \"veliero\"\nDeutsch: \"Waschbecken\" - Italiano: \"dolina\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Pflug\" - Italiano: \"aratro\"\nDeutsch: \"Sprossachse\" - Italiano: \"",
+        "target": "['fusto', 'caule', 'venatura centrale', 'gambo', 'stelo']",
+        "word original": "stem"
+    },
+    "['Zigarre']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"Kinn\" - Italiano: \"mento\"\nDeutsch: \"Juwel\" - Italiano: \"gemma\"\nDeutsch: \"Imme\" - Italiano: \"ape\"\nDeutsch: \"Kirche\" - Italiano: \"chiesa\"\nDeutsch: \"Zigarre\" - Italiano: \"",
+        "target": "['sigaro']",
+        "word original": "stick"
+    },
+    "['Str\u00fcmpfe', 'Strumpf', 'Socke']": {
+        "prompt": "Deutsch: \"Garn\" - Italiano: \"filo\"\nDeutsch: \"Ameise\" - Italiano: \"formica\"\nDeutsch: \"Kuchen\" - Italiano: \"cucina\"\nDeutsch: \"Ziegelstein\" - Italiano: \"mattone\"\nDeutsch: \"Stern\" - Italiano: \"stella\"\nDeutsch: \"Str\u00fcmpfe\" - Italiano: \"",
+        "target": "['calzino', 'calza', 'pedalino', 'calzetta']",
+        "word original": "stocking"
+    },
+    "['Bauch', 'Magen']": {
+        "prompt": "Deutsch: \"Fotoapparat\" - Italiano: \"camera\"\nDeutsch: \"Klingel\" - Italiano: \"campanello\"\nDeutsch: \"Tal\" - Italiano: \"valle\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Bauch\" - Italiano: \"",
+        "target": "['stomaco', 'pancia', 'addome', 'ventre']",
+        "word original": "stomach"
+    },
+    "['Datenspeicher', 'Speichermedium', 'Speicher', 'Computerspeicher', 'Arbeitsspeicher']": {
+        "prompt": "Deutsch: \"Television\" - Italiano: \"televisione\"\nDeutsch: \"Samenkorn\" - Italiano: \"seme\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Hose\" - Italiano: \"pantaloni\"\nDeutsch: \"Verstand\" - Italiano: \"testare\"\nDeutsch: \"Datenspeicher\" - Italiano: \"",
+        "target": "['memoria per computer', 'memoria', 'memoria informatica']",
+        "word original": "store"
+    },
+    "['Strasse', 'Stra\u00dfe', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Ohren\" - Italiano: \"orecchio\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"T\u00fcr\" - Italiano: \"telaio della porta\"\nDeutsch: \"Strasse\" - Italiano: \"",
+        "target": "['strada', 'itinerario', 'percorso', 'via di comunicazione', 'via', 'strada di citt\u00e0', 'strada urbana']",
+        "word original": "street"
+    },
+    "['Sonntag', 'Herrentag', 'Tag des Herrn', 'Herrntag']": {
+        "prompt": "Deutsch: \"Hausrind\" - Italiano: \"mucca\"\nDeutsch: \"Zeh\" - Italiano: \"dito\"\nDeutsch: \"Datenspeicher\" - Italiano: \"memoria per computer\"\nDeutsch: \"Br\u00fccke\" - Italiano: \"ponte\"\nDeutsch: \"Flugzeug\" - Italiano: \"velivolo\"\nDeutsch: \"Sonntag\" - Italiano: \"",
+        "target": "['domenica']",
+        "word original": "sun"
+    },
+    "['Tisch']": {
+        "prompt": "Deutsch: \"Personalausweis\" - Italiano: \"carta d'identit\u00e0\"\nDeutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"Fliege\" - Italiano: \"mosca\"\nDeutsch: \"Tisch\" - Italiano: \"",
+        "target": "['tavola', 'tavolo']",
+        "word original": "table"
+    },
+    "['Schwanz', 'Zipfel', 'L\u00fcmmel', 'Penis', 'Pimmel', 'Willy', 'Pipimann', 'Piepmatz', 'Glied', 'Penis der V\u00f6gel', 'Penis der S\u00e4ugetiere', 'm\u00e4nnliches Glied', 'Teil', 'Ger\u00e4t']": {
+        "prompt": "Deutsch: \"Bureau\" - Italiano: \"ente\"\nDeutsch: \"Hemd\" - Italiano: \"camicia\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Hose\" - Italiano: \"pantaloni\"\nDeutsch: \"Fenster\" - Italiano: \"finestra\"\nDeutsch: \"Schwanz\" - Italiano: \"",
+        "target": "['mazza', 'pene', 'membro', 'cazzo', 'verga', 'arnese', 'asta', 'membro virile', 'fallo', 'coda']",
+        "word original": "tail"
+    },
+    "['Garn', 'Faden', 'Zwirn', 'Strang', 'N\u00e4hgarn']": {
+        "prompt": "Deutsch: \"Samenkorn\" - Italiano: \"seme\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Flagge\" - Italiano: \"bandiera\"\nDeutsch: \"Zigarre\" - Italiano: \"sigaro\"\nDeutsch: \"Personalausweis\" - Italiano: \"carta d'identit\u00e0\"\nDeutsch: \"Garn\" - Italiano: \"",
+        "target": "['filo', 'filato', 'refe', 'cucirino']",
+        "word original": "thread"
+    },
+    "['Kehle']": {
+        "prompt": "Deutsch: \"Kasten\" - Italiano: \"casta\"\nDeutsch: \"Pfeife\" - Italiano: \"pipa\"\nDeutsch: \"Knoten\" - Italiano: \"nodo\"\nDeutsch: \"Hauskatze\" - Italiano: \"micio\"\nDeutsch: \"Strumpf\" - Italiano: \"calzino\"\nDeutsch: \"Kehle\" - Italiano: \"",
+        "target": "['gola', 'gozzo', 'faringe', 'strozza', 'gorgia']",
+        "word original": "throat"
+    },
+    "['Daumen']": {
+        "prompt": "Deutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Bekleidung\" - Italiano: \"vestiti\"\nDeutsch: \"Bureau\" - Italiano: \"ente\"\nDeutsch: \"Pfeife\" - Italiano: \"pipa\"\nDeutsch: \"Schraube\" - Italiano: \"vite\"\nDeutsch: \"Daumen\" - Italiano: \"",
+        "target": "['dito grosso', 'pollice', 'indice']",
+        "word original": "thumb"
+    },
+    "['Zeh', 'Digitus', 'Finger', 'kleiner Zeh', 'Zehe', 'Digitus pedis III', 'Digitus pedis II']": {
+        "prompt": "Deutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Drommeter\" - Italiano: \"scacciapensieri\"\nDeutsch: \"Pfeife\" - Italiano: \"pipa\"\nDeutsch: \"Quelle\" - Italiano: \"sorgente\"\nDeutsch: \"Hand\" - Italiano: \"mano\"\nDeutsch: \"Zeh\" - Italiano: \"",
+        "target": "['dito', 'digito', 'minolo', 'quinto dito', 'dito del piede', 'alluce']",
+        "word original": "toe"
+    },
+    "['Z\u00e4hne', 'Zahn', 'menschlicher Zahn']": {
+        "prompt": "Deutsch: \"Muskel\" - Italiano: \"muscolo\"\nDeutsch: \"Rock\" - Italiano: \"musica rock\"\nDeutsch: \"Datenspeicher\" - Italiano: \"memoria per computer\"\nDeutsch: \"Imme\" - Italiano: \"ape\"\nDeutsch: \"Mutter\" - Italiano: \"maternit\u00e0\"\nDeutsch: \"Z\u00e4hne\" - Italiano: \"",
+        "target": "['denti', 'dente', 'dente umano']",
+        "word original": "tooth"
+    },
+    "['Kleinstadt', 'Siedlung', 'Siedler', 'Bourg']": {
+        "prompt": "Deutsch: \"Schuh\" - Italiano: \"scarpa\"\nDeutsch: \"Regentropfen\" - Italiano: \"goccia di pioggia\"\nDeutsch: \"Bein\" - Italiano: \"osso\"\nDeutsch: \"Schwert\" - Italiano: \"spada\"\nDeutsch: \"Bekleidung\" - Italiano: \"vestiti\"\nDeutsch: \"Kleinstadt\" - Italiano: \"",
+        "target": "['insediamento umano', 'villaggio', 'cittadina', 'paese', 'borgo', 'grosso paese', 'citt\u00e0']",
+        "word original": "town"
+    },
+    "['Zug', 'Personenzug', 'Spielzug']": {
+        "prompt": "Deutsch: \"Humanphysiologie\" - Italiano: \"fisiologia umana\"\nDeutsch: \"Teekessel\" - Italiano: \"bollitore da t\u00e8\"\nDeutsch: \"Lippe\" - Italiano: \"labbro\"\nDeutsch: \"Schl\u00fcssel\" - Italiano: \"chiave\"\nDeutsch: \"Bogen\" - Italiano: \"carta\"\nDeutsch: \"Zug\" - Italiano: \"",
+        "target": "['treno passeggeri', 'treno', 'convoglio', 'mossa', 'spostamento', 'movimento']",
+        "word original": "train"
+    },
+    "['Baum']": {
+        "prompt": "Deutsch: \"Rechnung\" - Italiano: \"roncola\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Bauernhof\" - Italiano: \"fattoria\"\nDeutsch: \"Milit\u00e4r\" - Italiano: \"unit\u00e0 militare\"\nDeutsch: \"Hals\" - Italiano: \"collo\"\nDeutsch: \"Baum\" - Italiano: \"",
+        "target": "['albero', 'albore', 'arbore']",
+        "word original": "tree"
+    },
+    "['Hose', 'Hosen']": {
+        "prompt": "Deutsch: \"Uni\" - Italiano: \"universit\u00e0\"\nDeutsch: \"Hemd\" - Italiano: \"camicia\"\nDeutsch: \"Hund\" - Italiano: \"cane\"\nDeutsch: \"J\u00fcngling\" - Italiano: \"ragazzo\"\nDeutsch: \"Schiff\" - Italiano: \"nave\"\nDeutsch: \"Hose\" - Italiano: \"",
+        "target": "['pantaloni', 'brache']",
+        "word original": "trousers"
+    },
+    "['Parapluie', 'Schirm', 'Regenschirm']": {
+        "prompt": "Deutsch: \"Fotoapparat\" - Italiano: \"camera\"\nDeutsch: \"Hospital\" - Italiano: \"ospedale\"\nDeutsch: \"Knie\" - Italiano: \"ginocchio\"\nDeutsch: \"Sprossachse\" - Italiano: \"fusto\"\nDeutsch: \"Herz\" - Italiano: \"cuore\"\nDeutsch: \"Parapluie\" - Italiano: \"",
+        "target": "['ombrello', 'parapioggia', 'ombrellone', 'paracqua']",
+        "word original": "umbrella"
+    },
+    "['Wand', 'Mauer']": {
+        "prompt": "Deutsch: \"B\u00fcrste\" - Italiano: \"spazzola\"\nDeutsch: \"Schw\u00e4mme\" - Italiano: \"porifera\"\nDeutsch: \"Schlange\" - Italiano: \"serpente\"\nDeutsch: \"Sonntag\" - Italiano: \"domenica\"\nDeutsch: \"Klosett\" - Italiano: \"tazza\"\nDeutsch: \"Wand\" - Italiano: \"",
+        "target": "['parete', 'muro']",
+        "word original": "wall"
+    },
+    "['Armbanduhr', 'Uhr', 'Taschenuhr oder Armbanduhr']": {
+        "prompt": "Deutsch: \"Television\" - Italiano: \"televisione\"\nDeutsch: \"Pfeife\" - Italiano: \"pipa\"\nDeutsch: \"Schw\u00e4mme\" - Italiano: \"porifera\"\nDeutsch: \"Fingerring\" - Italiano: \"anello\"\nDeutsch: \"Schaf\" - Italiano: \"pecora domestica\"\nDeutsch: \"Armbanduhr\" - Italiano: \"",
+        "target": "['orologio', 'orologio da polso', 'orologio da tasca', 'cipolla']",
+        "word original": "watch"
+    },
+    "['Fahrrad', 'Rad', 'Veloziped', 'Velo', 'Drahtesel']": {
+        "prompt": "Deutsch: \"Gaul\" - Italiano: \"cavallo\"\nDeutsch: \"Pflug\" - Italiano: \"aratro\"\nDeutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Flugzeug\" - Italiano: \"velivolo\"\nDeutsch: \"Strasse\" - Italiano: \"strada\"\nDeutsch: \"Fahrrad\" - Italiano: \"",
+        "target": "['bicicletta', 'bici', 'ciclo', 'bike']",
+        "word original": "wheel"
+    },
+    "['Peitsche', 'Knute', 'Zagel']": {
+        "prompt": "Deutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Haus\" - Italiano: \"casa\"\nDeutsch: \"Hausziege\" - Italiano: \"capra\"\nDeutsch: \"Vorhang\" - Italiano: \"velo\"\nDeutsch: \"Waffe\" - Italiano: \"arma\"\nDeutsch: \"Peitsche\" - Italiano: \"",
+        "target": "['frustino', 'frusta', 'sferza', 'nerbo', 'staffile', 'scudiscio']",
+        "word original": "whip"
+    },
+    "['Pfeife', 'Tabakspfeife', 'Tabakpfeife', 'Trillerpfeife']": {
+        "prompt": "Deutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Wand\" - Italiano: \"parete\"\nDeutsch: \"Eimer\" - Italiano: \"secchio\"\nDeutsch: \"Komitee\" - Italiano: \"commissione\"\nDeutsch: \"Apfel\" - Italiano: \"buccia di mela\"\nDeutsch: \"Pfeife\" - Italiano: \"",
+        "target": "['pipa', 'fischietto', 'fischio']",
+        "word original": "whistle"
+    },
+    "['Fenster', 'Fensterbank', 'Intervall', 'Zeitfenster']": {
+        "prompt": "Deutsch: \"Wasserrohr\" - Italiano: \"conduttura dell'acqua\"\nDeutsch: \"Bett\" - Italiano: \"letto\"\nDeutsch: \"Gabel\" - Italiano: \"posate\"\nDeutsch: \"Br\u00fccke\" - Italiano: \"ponte\"\nDeutsch: \"Kleinstadt\" - Italiano: \"insediamento umano\"\nDeutsch: \"Fenster\" - Italiano: \"",
+        "target": "['finestra', 'davanzale', 'bordo della finestra', 'davanzale della finestra', 'intervallo', 'finestra temporale']",
+        "word original": "window"
+    },
+    "['Fl\u00fcgel']": {
+        "prompt": "Deutsch: \"Klingel\" - Italiano: \"campanello\"\nDeutsch: \"Erdapfel\" - Italiano: \"patata\"\nDeutsch: \"Fingerchen\" - Italiano: \"dito\"\nDeutsch: \"Kuchen\" - Italiano: \"cucina\"\nDeutsch: \"Briefmarke\" - Italiano: \"francobollo\"\nDeutsch: \"Fl\u00fcgel\" - Italiano: \"",
+        "target": "['ala']",
+        "word original": "wing"
+    },
+    "['Wurm', 'Schlange', 'Schlangen', 'W\u00fcrmer']": {
+        "prompt": "Deutsch: \"Hut\" - Italiano: \"cappello\"\nDeutsch: \"Tisch\" - Italiano: \"tavola\"\nDeutsch: \"Schusswaffe\" - Italiano: \"arma da fuoco\"\nDeutsch: \"Schere\" - Italiano: \"forbici\"\nDeutsch: \"Pflug\" - Italiano: \"aratro\"\nDeutsch: \"Wurm\" - Italiano: \"",
+        "target": "['serpente', 'serpe', 'biscia', 'serpentes', 'colubro', 'Serpente', 'verme', 'bruco', 'baco', 'eruca', 'bigatto', 'vermo']",
+        "word original": "worm"
+    }
+}

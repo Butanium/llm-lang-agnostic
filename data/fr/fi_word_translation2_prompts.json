@@ -1,0 +1,887 @@
+{
+    "['angle', 'angles oppos\u00e9s par le sommet', 'angles suppl\u00e9mentaires', 'angles adjacents', 'angles compl\u00e9mentaires', 'coin']": {
+        "prompt": "Fran\u00e7ais: \"a\u00e9roplane\" - Suomi: \"lentokone\"\nFran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"fouet\" - Suomi: \"ruoska\"\nFran\u00e7ais: \"porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"angle\" - Suomi: \"",
+        "target": "['suplementtikulmat', 'Suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma', 'nurkka']",
+        "word original": "angle"
+    },
+    "['fourmi', 'Formicidae']": {
+        "prompt": "Fran\u00e7ais: \"aiguille\" - Suomi: \"Rautatievaihde\"\nFran\u00e7ais: \"note\" - Suomi: \"seteli\"\nFran\u00e7ais: \"cuill\u00e8re\" - Suomi: \"lusikka\"\nFran\u00e7ais: \"colis\" - Suomi: \"nyytti\"\nFran\u00e7ais: \"arc\" - Suomi: \"jousi\"\nFran\u00e7ais: \"fourmi\" - Suomi: \"",
+        "target": "['muurahainen', 'muurahaiset', 'kusiainen']",
+        "word original": "ant"
+    },
+    "['peau de pomme', 'pomme']": {
+        "prompt": "Fran\u00e7ais: \"cercle\" - Suomi: \"ympyr\u00e4\"\nFran\u00e7ais: \"plateau\" - Suomi: \"yl\u00e4nk\u00f6\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"falzar\" - Suomi: \"housut\"\nFran\u00e7ais: \"porc\" - Suomi: \"sika\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"",
+        "target": "['omena']",
+        "word original": "apple"
+    },
+    "['arc', 'arc \u00e0 fl\u00e8che', 'arc et fl\u00e8che', 'arc \u00e9lectrique', '\u00e9tincelle \u00e9lectrique', 'd\u00e9charge \u00e9lectrique', 'Arc \u00e9lectrique', 'arc \u00e0 fl\u00e8ches']": {
+        "prompt": "Fran\u00e7ais: \"vall\u00e9e\" - Suomi: \"laakso\"\nFran\u00e7ais: \"train\" - Suomi: \"juna\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"falzar\" - Suomi: \"housut\"\nFran\u00e7ais: \"arc\" - Suomi: \"",
+        "target": "['jousi', 'jousi ja nuoli', 'jousipyssy', 's\u00e4hk\u00f6kipin\u00e4', 'valokaari', 'Valokaari', 'kipin\u00e4', 's\u00e4hk\u00f6purkaus', 's\u00e4hk\u00f6valokaari', 'purkaus', 'kaari']",
+        "word original": "arch"
+    },
+    "['arme']": {
+        "prompt": "Fran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"veste\" - Suomi: \"takki\"\nFran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"lavabo\" - Suomi: \"lavuaari\"\nFran\u00e7ais: \"arme\" - Suomi: \"",
+        "target": "['ase', 'astalo']",
+        "word original": "arm"
+    },
+    "['forces arm\u00e9es', 'arm\u00e9e', 'machine de guerre', 'troupes']": {
+        "prompt": "Fran\u00e7ais: \"aile\" - Suomi: \"siipi\"\nFran\u00e7ais: \"goutte de pluie\" - Suomi: \"sadevesi\"\nFran\u00e7ais: \"nerf\" - Suomi: \"hermo\"\nFran\u00e7ais: \"baie\" - Suomi: \"lahti\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Suomi: \"",
+        "target": "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat']",
+        "word original": "army"
+    },
+    "['nourrisson', 'nourisson', 'b\u00e9b\u00e9', 'enfant en bas \u00e2ge', 'poupon', 'enfant']": {
+        "prompt": "Fran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"marteau\" - Suomi: \"piano\"\nFran\u00e7ais: \"chemise\" - Suomi: \"paita\"\nFran\u00e7ais: \"nourrisson\" - Suomi: \"",
+        "target": "['pikkulapsi', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4']",
+        "word original": "baby"
+    },
+    "['anneau', 'bague']": {
+        "prompt": "Fran\u00e7ais: \"navire\" - Suomi: \"laiva\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"anneau\" - Suomi: \"",
+        "target": "['sormus']",
+        "word original": "ring"
+    },
+    "['lavabo', '\u00e9vier']": {
+        "prompt": "Fran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"cigare\" - Suomi: \"sikari\"\nFran\u00e7ais: \"conduite principale\" - Suomi: \"akvedukti\"\nFran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"rayon\" - Suomi: \"hylly\"\nFran\u00e7ais: \"lavabo\" - Suomi: \"",
+        "target": "['lavuaari', 'pesuvati', 'pesuallas', 'k\u00e4sienpesuallas', 'amme', 'Lavuaari', 'viem\u00e4riallas']",
+        "word original": "basin"
+    },
+    "['salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'toilette', 'cabinet de toilette']": {
+        "prompt": "Fran\u00e7ais: \"boucle\" - Suomi: \"korvakoru\"\nFran\u00e7ais: \"dipt\u00e8re\" - Suomi: \"kaksisiipiset\"\nFran\u00e7ais: \"abeille\" - Suomi: \"mehil\u00e4iset\"\nFran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"ongle\" - Suomi: \"kynsi\"\nFran\u00e7ais: \"salle de bain\" - Suomi: \"",
+        "target": "['kylpyhuone', 'kylpyl\u00e4', 'k\u00e4ym\u00e4l\u00e4', 'toiletti', 'vessa', 'pesuhuone']",
+        "word original": "bath"
+    },
+    "['lit', 'couche']": {
+        "prompt": "Fran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"m\u00e9moire\" - Suomi: \"muisti\"\nFran\u00e7ais: \"cigare\" - Suomi: \"sikari\"\nFran\u00e7ais: \"acad\u00e9mie\" - Suomi: \"yliopisto\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"lit\" - Suomi: \"",
+        "target": "['vuode', 's\u00e4nky', 'peti']",
+        "word original": "bed"
+    },
+    "['abeille']": {
+        "prompt": "Fran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"fonction\" - Suomi: \"asema\"\nFran\u00e7ais: \"serpent\" - Suomi: \"k\u00e4\u00e4rmeet\"\nFran\u00e7ais: \"minou\" - Suomi: \"mirri\"\nFran\u00e7ais: \"abeille\" - Suomi: \"",
+        "target": "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset']",
+        "word original": "bee"
+    },
+    "['sonnette', 'carillon', 'gong', 'cloche']": {
+        "prompt": "Fran\u00e7ais: \"fourmi\" - Suomi: \"muurahainen\"\nFran\u00e7ais: \"voilier\" - Suomi: \"purjealus\"\nFran\u00e7ais: \"os\" - Suomi: \"k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"pont\" - Suomi: \"silta\"\nFran\u00e7ais: \"sonnette\" - Suomi: \"",
+        "target": "['kellopeli', 'kellot', 'putkikellot', 'kello', 'ovikello', 'Ovikello', 'ovisummeri']",
+        "word original": "bell"
+    },
+    "['baie']": {
+        "prompt": "Fran\u00e7ais: \"corps humain\" - Suomi: \"ihmisruumis\"\nFran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Suomi: \"sametti\"\nFran\u00e7ais: \"p\u00e9pin\" - Suomi: \"sateenvarjo\"\nFran\u00e7ais: \"paire de ciseaux\" - Suomi: \"sakset\"\nFran\u00e7ais: \"baie\" - Suomi: \"",
+        "target": "['lahti', 'merenlahti', 'poukama']",
+        "word original": "berry"
+    },
+    "['oiseau']": {
+        "prompt": "Fran\u00e7ais: \"mouton\" - Suomi: \"lammas\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"cuill\u00e8re\" - Suomi: \"lusikka\"\nFran\u00e7ais: \"vache\" - Suomi: \"karja\"\nFran\u00e7ais: \"stylographe\" - Suomi: \"t\u00e4ytekyn\u00e4\"\nFran\u00e7ais: \"oiseau\" - Suomi: \"",
+        "target": "['linnut', 'lintu']",
+        "word original": "bird"
+    },
+    "['\u00e9p\u00e9e', 'glaive', 'lame']": {
+        "prompt": "Fran\u00e7ais: \"station\" - Suomi: \"rautatieasema\"\nFran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"allumette\" - Suomi: \"tulitikku\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"",
+        "target": "['miekka', 'kalpa']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'commission']": {
+        "prompt": "Fran\u00e7ais: \"serpent\" - Suomi: \"k\u00e4\u00e4rmeet\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"arrestation\" - Suomi: \"pid\u00e4tys\"\nFran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"comit\u00e9\" - Suomi: \"",
+        "target": "['komitea', 'valiokunta', 'toimikunta', 'lautakunta']",
+        "word original": "board"
+    },
+    "['bateau', 'navire', 'nacelle', 'barque', 'canot']": {
+        "prompt": "Fran\u00e7ais: \"rayon\" - Suomi: \"hylly\"\nFran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"bateau\" - Suomi: \"",
+        "target": "['laiva', 'alus', 'vene']",
+        "word original": "boat"
+    },
+    "['os', 'SE', \"syst\u00e8me d'exploitation\", 'syst\u00e8me d\u2019exploitation']": {
+        "prompt": "Fran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"patate\" - Suomi: \"peruna\"\nFran\u00e7ais: \"rue\" - Suomi: \"tie\"\nFran\u00e7ais: \"muscle\" - Suomi: \"lihas\"\nFran\u00e7ais: \"os\" - Suomi: \"",
+        "target": "['k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4', 'luu']",
+        "word original": "bone"
+    },
+    "['livre', 'livre sterling', '\u00a3']": {
+        "prompt": "Fran\u00e7ais: \"pouce\" - Suomi: \"tuuma\"\nFran\u00e7ais: \"lune\" - Suomi: \"satelliitti\"\nFran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"livre\" - Suomi: \"",
+        "target": "['kirja', 'punta', 'Englannin punta', '\u00a3', 'pauna', 'naula', 'lb']",
+        "word original": "book"
+    },
+    "['bouteille']": {
+        "prompt": "Fran\u00e7ais: \"cercle\" - Suomi: \"ympyr\u00e4\"\nFran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Suomi: \"sametti\"\nFran\u00e7ais: \"plumage\" - Suomi: \"h\u00f6yhenet\"\nFran\u00e7ais: \"\u00e9glise\" - Suomi: \"kirkko\"\nFran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"bouteille\" - Suomi: \"",
+        "target": "['pullo']",
+        "word original": "bottle"
+    },
+    "['caisse', 'voiture', 'bagnole', 'automobile', 'auto', 'char', 'bo\u00eete']": {
+        "prompt": "Fran\u00e7ais: \"brique\" - Suomi: \"tiili\"\nFran\u00e7ais: \"minou\" - Suomi: \"mirri\"\nFran\u00e7ais: \"rue\" - Suomi: \"tie\"\nFran\u00e7ais: \"stylographe\" - Suomi: \"t\u00e4ytekyn\u00e4\"\nFran\u00e7ais: \"peau\" - Suomi: \"iho\"\nFran\u00e7ais: \"caisse\" - Suomi: \"",
+        "target": "['auto', 'henkil\u00f6auto', 'automobiili', 'moottoriajoneuvo', 'ajoneuvo', 'laatikko', 'rasia', 'aski']",
+        "word original": "box"
+    },
+    "['gar\u00e7on', 'serveur', 'fils']": {
+        "prompt": "Fran\u00e7ais: \"rideau\" - Suomi: \"verho\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"gar\u00e7on\" - Suomi: \"",
+        "target": "['poika', 'tarjoilija']",
+        "word original": "boy"
+    },
+    "['psych\u00e9', 'esprit', 'no\u00fbs', 'No\u00fbs', 'cerveau', 't\u00eate']": {
+        "prompt": "Fran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"sonnette\" - Suomi: \"kellopeli\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"nerf\" - Suomi: \"hermo\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"",
+        "target": "['Nous', 'Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'nous', 'j\u00e4rki', '\u00e4lli']",
+        "word original": "head"
+    },
+    "['freinage', 'frein']": {
+        "prompt": "Fran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"\u00e9glise\" - Suomi: \"kirkko\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"freinage\" - Suomi: \"",
+        "target": "['Jarru', 'jarru']",
+        "word original": "brake"
+    },
+    "['science \u00e9conomique', '\u00e9conomie', '\u00e9conomie politique', 'sciences \u00e9conomiques', 'Sciences \u00e9conomiques']": {
+        "prompt": "Fran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"rideau\" - Suomi: \"verho\"\nFran\u00e7ais: \"moteur\" - Suomi: \"moottori\"\nFran\u00e7ais: \"internet\" - Suomi: \"netti\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"",
+        "target": "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia']",
+        "word original": "branch"
+    },
+    "['brique']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"joyau\" - Suomi: \"koru\"\nFran\u00e7ais: \"seau\" - Suomi: \"\u00e4mp\u00e4ri\"\nFran\u00e7ais: \"dents\" - Suomi: \"hammas\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"brique\" - Suomi: \"",
+        "target": "['tiili', 'tiiliskivi']",
+        "word original": "brick"
+    },
+    "['pont', 'liste de ponts romains', 'passerelle']": {
+        "prompt": "Fran\u00e7ais: \"lavabo\" - Suomi: \"lavuaari\"\nFran\u00e7ais: \"ferme\" - Suomi: \"maatila\"\nFran\u00e7ais: \"menton\" - Suomi: \"leuka\"\nFran\u00e7ais: \"carr\u00e9\" - Suomi: \"ristikkomerkki\"\nFran\u00e7ais: \"fromage\" - Suomi: \"juusto\"\nFran\u00e7ais: \"pont\" - Suomi: \"",
+        "target": "['silta']",
+        "word original": "bridge"
+    },
+    "['brosse', 'brosse \u00e0 cheveux']": {
+        "prompt": "Fran\u00e7ais: \"nerf\" - Suomi: \"hermo\"\nFran\u00e7ais: \"cigare\" - Suomi: \"sikari\"\nFran\u00e7ais: \"face\" - Suomi: \"naama\"\nFran\u00e7ais: \"ile\" - Suomi: \"saari\"\nFran\u00e7ais: \"m\u00e9moire\" - Suomi: \"muisti\"\nFran\u00e7ais: \"brosse\" - Suomi: \"",
+        "target": "['harja', 'suti', 'sivellin', 'suka']",
+        "word original": "brush"
+    },
+    "['seau', 'chaudi\u00e8re', 'bac', 'baquet']": {
+        "prompt": "Fran\u00e7ais: \"singe\" - Suomi: \"k\u00e4delliset\"\nFran\u00e7ais: \"freinage\" - Suomi: \"Jarru\"\nFran\u00e7ais: \"brosse\" - Suomi: \"harja\"\nFran\u00e7ais: \"minou\" - Suomi: \"mirri\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"seau\" - Suomi: \"",
+        "target": "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']",
+        "word original": "bucket"
+    },
+    "['ampoule', 'lampe incandescente', 'lampe \u00e0 incandescence', 'ampoule \u00e0 incandescence', 'lampe \u00e9lectrique', 'lampe']": {
+        "prompt": "Fran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"marteau\" - Suomi: \"piano\"\nFran\u00e7ais: \"\u00e9toile\" - Suomi: \"t\u00e4hti\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"plumage\" - Suomi: \"h\u00f6yhenet\"\nFran\u00e7ais: \"ampoule\" - Suomi: \"",
+        "target": "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']",
+        "word original": "bulb"
+    },
+    "['g\u00e2teau']": {
+        "prompt": "Fran\u00e7ais: \"crayon\" - Suomi: \"lyijykyn\u00e4\"\nFran\u00e7ais: \"nerf\" - Suomi: \"hermo\"\nFran\u00e7ais: \"a\u00e9roplane\" - Suomi: \"lentokone\"\nFran\u00e7ais: \"aiguille\" - Suomi: \"Rautatievaihde\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"g\u00e2teau\" - Suomi: \"",
+        "target": "['kakku']",
+        "word original": "cake"
+    },
+    "['appareil photographique', 'cam\u00e9ra', 'appareil photo']": {
+        "prompt": "Fran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"aiguille\" - Suomi: \"Rautatievaihde\"\nFran\u00e7ais: \"fourmi\" - Suomi: \"muurahainen\"\nFran\u00e7ais: \"carte d'identification\" - Suomi: \"henkil\u00f6llisyystodistus\"\nFran\u00e7ais: \"fouet\" - Suomi: \"ruoska\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"",
+        "target": "['kamera', 'valokuvakamera']",
+        "word original": "camera"
+    },
+    "[\"carte d'identification\", \"carte d'identit\u00e9\", \"pi\u00e8ce d'identit\u00e9\", 'carte d\u2019identit\u00e9', 'pi\u00e8ce d\u2019identit\u00e9', 'carte', 'document']": {
+        "prompt": "Fran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"iskunvaimennin\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"carte d'identification\" - Suomi: \"",
+        "target": "['henkil\u00f6llisyystodistus', 'henkil\u00f6kortti', 'henkil\u00f6todistus']",
+        "word original": "card"
+    },
+    "['v\u00e9hicule ferroviaire', 'wagon', 'automotrice', 'autorail', 'automotrice tractrice', 'v\u00e9hicule ferroviaire remorqu\u00e9', 'v\u00e9hicule automoteur', 'voiture', 'carrosse', '\u00e9quipage', 'voiture \u00e0 cheval']": {
+        "prompt": "Fran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"porc\" - Suomi: \"sika\"\nFran\u00e7ais: \"sonnette\" - Suomi: \"kellopeli\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"",
+        "target": "['rautatieajoneuvo', 'moottorivaunu', 'junanvaunu', 'rautatievaunu', 'Moottorivaunu', 'vaunu', 'junavaunu', 'hissikori', 'kiskoauto', 'raidevaunu', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat']",
+        "word original": "carriage"
+    },
+    "['minou', 'chat', 'chat domestique']": {
+        "prompt": "Fran\u00e7ais: \"four\" - Suomi: \"uuni\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"allumette\" - Suomi: \"tulitikku\"\nFran\u00e7ais: \"moteur\" - Suomi: \"moottori\"\nFran\u00e7ais: \"nez\" - Suomi: \"nen\u00e4\"\nFran\u00e7ais: \"minou\" - Suomi: \"",
+        "target": "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']",
+        "word original": "cat"
+    },
+    "['fromage']": {
+        "prompt": "Fran\u00e7ais: \"prison\" - Suomi: \"linna\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"a\u00e9roplane\" - Suomi: \"lentokone\"\nFran\u00e7ais: \"brosse\" - Suomi: \"harja\"\nFran\u00e7ais: \"fromage\" - Suomi: \"",
+        "target": "['juusto']",
+        "word original": "cheese"
+    },
+    "['coffre', 'malle', 'coffre-fort']": {
+        "prompt": "Fran\u00e7ais: \"falzar\" - Suomi: \"housut\"\nFran\u00e7ais: \"oiseau\" - Suomi: \"linnut\"\nFran\u00e7ais: \"internet\" - Suomi: \"netti\"\nFran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"brique\" - Suomi: \"tiili\"\nFran\u00e7ais: \"coffre\" - Suomi: \"",
+        "target": "['Arkku', 'arkku', 'kirstu', 'kassakaappi', 'tallelokero', 'turvalipas']",
+        "word original": "chest"
+    },
+    "['menton']": {
+        "prompt": "Fran\u00e7ais: \"internet\" - Suomi: \"netti\"\nFran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"fromage\" - Suomi: \"juusto\"\nFran\u00e7ais: \"yeux\" - Suomi: \"silm\u00e4muna\"\nFran\u00e7ais: \"menton\" - Suomi: \"",
+        "target": "['leuka', 'leukakyhmy', 'mentum']",
+        "word original": "chin"
+    },
+    "['\u00e9glise']": {
+        "prompt": "Fran\u00e7ais: \"lune\" - Suomi: \"satelliitti\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"note\" - Suomi: \"seteli\"\nFran\u00e7ais: \"singe\" - Suomi: \"k\u00e4delliset\"\nFran\u00e7ais: \"charrue\" - Suomi: \"aura\"\nFran\u00e7ais: \"\u00e9glise\" - Suomi: \"",
+        "target": "['kirkko', 'kirkkorakennus']",
+        "word original": "church"
+    },
+    "['cercle', 'rond']": {
+        "prompt": "Fran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"plateau\" - Suomi: \"yl\u00e4nk\u00f6\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"genou\" - Suomi: \"polvi\"\nFran\u00e7ais: \"cercle\" - Suomi: \"",
+        "target": "['ympyr\u00e4']",
+        "word original": "circle"
+    },
+    "['horloge', 'pendule']": {
+        "prompt": "Fran\u00e7ais: \"plumage\" - Suomi: \"h\u00f6yhenet\"\nFran\u00e7ais: \"gar\u00e7on\" - Suomi: \"poika\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"encadrement de porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"horloge\" - Suomi: \"",
+        "target": "['kello']",
+        "word original": "clock"
+    },
+    "['nuage']": {
+        "prompt": "Fran\u00e7ais: \"graine\" - Suomi: \"siemen\"\nFran\u00e7ais: \"lit\" - Suomi: \"vuode\"\nFran\u00e7ais: \"angle\" - Suomi: \"suplementtikulmat\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"nuage\" - Suomi: \"",
+        "target": "['pilvi']",
+        "word original": "cloud"
+    },
+    "['veste', 'paletot', 'pardessus', 'manteau']": {
+        "prompt": "Fran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"queue\" - Suomi: \"siitin\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"colis\" - Suomi: \"nyytti\"\nFran\u00e7ais: \"veste\" - Suomi: \"",
+        "target": "['takki', 'pusakka', 'pikkutakki']",
+        "word original": "coat"
+    },
+    "['arrestation']": {
+        "prompt": "Fran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"doigt\" - Suomi: \"keskisormi\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"patate\" - Suomi: \"peruna\"\nFran\u00e7ais: \"arrestation\" - Suomi: \"",
+        "target": "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni']",
+        "word original": "collar"
+    },
+    "['peigne']": {
+        "prompt": "Fran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"ferme\" - Suomi: \"maatila\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"peigne\" - Suomi: \"",
+        "target": "['kampa']",
+        "word original": "comb"
+    },
+    "['velours c\u00f4tel\u00e9', 'velours']": {
+        "prompt": "Fran\u00e7ais: \"vall\u00e9e\" - Suomi: \"laakso\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"freinage\" - Suomi: \"Jarru\"\nFran\u00e7ais: \"paire de ciseaux\" - Suomi: \"sakset\"\nFran\u00e7ais: \"encadrement de porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Suomi: \"",
+        "target": "['sametti']",
+        "word original": "cord"
+    },
+    "['vache', 'b\u00e9tail', 'bovins', 'Bos taurus', 'bos taurus', 'Bos primigenius taurus', 'boeuf', 'b\u0153uf', 'viande de boeuf', 'viande de b\u0153uf', 'viande bovine']": {
+        "prompt": "Fran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"ampuma-ase\"\nFran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"genou\" - Suomi: \"polvi\"\nFran\u00e7ais: \"chemise\" - Suomi: \"paita\"\nFran\u00e7ais: \"vache\" - Suomi: \"",
+        "target": "['karja', 'Bos taurus', 'nauta', 'nautakarja', 'naudanliha', 'h\u00e4r\u00e4nliha', 'liha-', 'lehm\u00e4']",
+        "word original": "cow"
+    },
+    "['tasse', 'verre', 'coupe', 'mug', 'chope']": {
+        "prompt": "Fran\u00e7ais: \"comit\u00e9\" - Suomi: \"komitea\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"bouteille\" - Suomi: \"pullo\"\nFran\u00e7ais: \"livre\" - Suomi: \"kirja\"\nFran\u00e7ais: \"tasse\" - Suomi: \"",
+        "target": "['kuppi', 'juomalasi', 'juomapikari', 'Juomalasi', 'muki', 'Muki']",
+        "word original": "cup"
+    },
+    "['rideau']": {
+        "prompt": "Fran\u00e7ais: \"os\" - Suomi: \"k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4\"\nFran\u00e7ais: \"carte d'identification\" - Suomi: \"henkil\u00f6llisyystodistus\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"lit\" - Suomi: \"vuode\"\nFran\u00e7ais: \"rideau\" - Suomi: \"",
+        "target": "['verho', 'verhot']",
+        "word original": "curtain"
+    },
+    "['amortisseur', 'coussin']": {
+        "prompt": "Fran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"mur\" - Suomi: \"sein\u00e4\"\nFran\u00e7ais: \"comit\u00e9\" - Suomi: \"komitea\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"",
+        "target": "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']",
+        "word original": "cushion"
+    },
+    "['chien', 'Canis lupus familiaris', 'canis familiaris']": {
+        "prompt": "Fran\u00e7ais: \"porc\" - Suomi: \"sika\"\nFran\u00e7ais: \"lune\" - Suomi: \"satelliitti\"\nFran\u00e7ais: \"poisson\" - Suomi: \"kala\"\nFran\u00e7ais: \"crayon\" - Suomi: \"lyijykyn\u00e4\"\nFran\u00e7ais: \"toit\" - Suomi: \"ulkokatto\"\nFran\u00e7ais: \"chien\" - Suomi: \"",
+        "target": "['koira', 'Canis lupus familiaris', 'Canis familiaris']",
+        "word original": "dog"
+    },
+    "['encadrement de porte', 'porte', 'porti\u00e8re', 'huis']": {
+        "prompt": "Fran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"v\u00e9lo\" - Suomi: \"polkupy\u00f6r\u00e4\"\nFran\u00e7ais: \"plumage\" - Suomi: \"h\u00f6yhenet\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"pouce\" - Suomi: \"tuuma\"\nFran\u00e7ais: \"encadrement de porte\" - Suomi: \"",
+        "target": "['ovi']",
+        "word original": "door"
+    },
+    "['porte', 'encadrement de porte', 'porti\u00e8re', 'huis']": {
+        "prompt": "Fran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"orteil\" - Suomi: \"varvas\"\nFran\u00e7ais: \"nuage\" - Suomi: \"pilvi\"\nFran\u00e7ais: \"prison\" - Suomi: \"linna\"\nFran\u00e7ais: \"coffre\" - Suomi: \"Arkku\"\nFran\u00e7ais: \"porte\" - Suomi: \"",
+        "target": "['ovi', 'portti']",
+        "word original": "drain"
+    },
+    "['illustration', 'figure', 'image', 'reproduction', 'dessin', 'ic\u00f4ne', 'graphique', 'diagramme', 'plan', 'sch\u00e9ma', 'projet']": {
+        "prompt": "Fran\u00e7ais: \"encadrement de porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"chien\" - Suomi: \"koira\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"vache\" - Suomi: \"karja\"\nFran\u00e7ais: \"arbre\" - Suomi: \"puu\"\nFran\u00e7ais: \"illustration\" - Suomi: \"",
+        "target": "['piirros', 'piirustus', 'kuva', 'kuvitus', 'grafiikka', 'teos', 'taideteos', 'kuvamateriaali', 'muu kuin tekstiaineisto', 'diagrammi', 'kaavio']",
+        "word original": "drawer"
+    },
+    "['fringue', 'v\u00eatements', 'habit', 'v\u00eatement', 'habillement', 'habits', 'fringues', 'tenue']": {
+        "prompt": "Fran\u00e7ais: \"p\u00e9pin\" - Suomi: \"sateenvarjo\"\nFran\u00e7ais: \"acad\u00e9mie\" - Suomi: \"yliopisto\"\nFran\u00e7ais: \"lune\" - Suomi: \"satelliitti\"\nFran\u00e7ais: \"timbre-poste\" - Suomi: \"postimerkki\"\nFran\u00e7ais: \"marteau\" - Suomi: \"piano\"\nFran\u00e7ais: \"fringue\" - Suomi: \"",
+        "target": "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku']",
+        "word original": "dress"
+    },
+    "['goutte de pluie', 'eau de pluie', 'flotte', 'pluie', 'eau pluviale', 'goutte']": {
+        "prompt": "Fran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"v\u00e9lo\" - Suomi: \"polkupy\u00f6r\u00e4\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"voilier\" - Suomi: \"purjealus\"\nFran\u00e7ais: \"goutte de pluie\" - Suomi: \"",
+        "target": "['sadevesi', 'vesisade', 'sade', 'tippa', 'pisara', 'tilkka']",
+        "word original": "drop"
+    },
+    "['oreille', 'oreilles']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"comit\u00e9\" - Suomi: \"komitea\"\nFran\u00e7ais: \"joyau\" - Suomi: \"koru\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"oreille\" - Suomi: \"",
+        "target": "['korva']",
+        "word original": "ear"
+    },
+    "['\u0153uf de poule', '\u0153uf']": {
+        "prompt": "Fran\u00e7ais: \"oiseau\" - Suomi: \"linnut\"\nFran\u00e7ais: \"seau\" - Suomi: \"\u00e4mp\u00e4ri\"\nFran\u00e7ais: \"joyau\" - Suomi: \"koru\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"\u0153uf de poule\" - Suomi: \"",
+        "target": "['muna', 'kananmuna', 'munat']",
+        "word original": "egg"
+    },
+    "['moteur', 'Motor']": {
+        "prompt": "Fran\u00e7ais: \"graine\" - Suomi: \"siemen\"\nFran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"gar\u00e7on\" - Suomi: \"poika\"\nFran\u00e7ais: \"coffre\" - Suomi: \"Arkku\"\nFran\u00e7ais: \"toit\" - Suomi: \"ulkokatto\"\nFran\u00e7ais: \"moteur\" - Suomi: \"",
+        "target": "['moottori', 'Motor']",
+        "word original": "engine"
+    },
+    "['yeux', \"globe de l'oeil\", '\u0153il', 'globe oculaire']": {
+        "prompt": "Fran\u00e7ais: \"livre\" - Suomi: \"kirja\"\nFran\u00e7ais: \"gar\u00e7on\" - Suomi: \"poika\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"fil\" - Suomi: \"Norsut\"\nFran\u00e7ais: \"poisson\" - Suomi: \"kala\"\nFran\u00e7ais: \"yeux\" - Suomi: \"",
+        "target": "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']",
+        "word original": "eye"
+    },
+    "['face', 'figure', 'visage', 'verso', 'avers', 'aspect', 'facette']": {
+        "prompt": "Fran\u00e7ais: \"goutte de pluie\" - Suomi: \"sadevesi\"\nFran\u00e7ais: \"sonnette\" - Suomi: \"kellopeli\"\nFran\u00e7ais: \"nigga\" - Suomi: \"Negridinen rotu\"\nFran\u00e7ais: \"oiseau\" - Suomi: \"linnut\"\nFran\u00e7ais: \"dimanche\" - Suomi: \"sunnuntai\"\nFran\u00e7ais: \"face\" - Suomi: \"",
+        "target": "['naama', 'kasvot', 'p\u00e4rst\u00e4', 'klaava', 'k\u00e4\u00e4nt\u00f6puoli', 'puoli', 'aspekti', 'ominaisuus', 'n\u00e4k\u00f6kohta', 'n\u00e4k\u00f6kulma', 'n\u00e4k\u00f6kanta']",
+        "word original": "face"
+    },
+    "['ferme', 'exploitation agricole', 'domaine', 'boite', 'entreprise', 'bo\u00eete', 'soci\u00e9t\u00e9', 'firme']": {
+        "prompt": "Fran\u00e7ais: \"stylographe\" - Suomi: \"t\u00e4ytekyn\u00e4\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"bateau\" - Suomi: \"laiva\"\nFran\u00e7ais: \"rideau\" - Suomi: \"verho\"\nFran\u00e7ais: \"abeille\" - Suomi: \"mehil\u00e4iset\"\nFran\u00e7ais: \"ferme\" - Suomi: \"",
+        "target": "['maatila', 'tila', 'farmi', 'yritykset', 'kauppahuone', 'liikeyritys', 'yritys']",
+        "word original": "farm"
+    },
+    "['plumage', 'barbule', 'plume', 'plum\u00e9e', 'pennage']": {
+        "prompt": "Fran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"arbre\" - Suomi: \"puu\"\nFran\u00e7ais: \"encadrement de porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"orteil\" - Suomi: \"varvas\"\nFran\u00e7ais: \"plumage\" - Suomi: \"",
+        "target": "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka']",
+        "word original": "feather"
+    },
+    "['doigt', \"doigt d'honneur\", 'dactyle', 'orteil']": {
+        "prompt": "Fran\u00e7ais: \"salle de bain\" - Suomi: \"kylpyhuone\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"iskunvaimennin\"\nFran\u00e7ais: \"gar\u00e7on\" - Suomi: \"poika\"\nFran\u00e7ais: \"poisson\" - Suomi: \"kala\"\nFran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"doigt\" - Suomi: \"",
+        "target": "['keskisormi', 'Keskisormi', 'varvas', 'sormi', 'n\u00e4ppi']",
+        "word original": "finger"
+    },
+    "['poisson', 'Pisces']": {
+        "prompt": "Fran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"abeille\" - Suomi: \"mehil\u00e4iset\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"aiguille\" - Suomi: \"Rautatievaihde\"\nFran\u00e7ais: \"poisson\" - Suomi: \"",
+        "target": "['kala', 'ruokakala', 'Kala ruokana', 'kala ruokana', 'kalat', 'Pisces']",
+        "word original": "fish"
+    },
+    "['drapeau']": {
+        "prompt": "Fran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"yeux\" - Suomi: \"silm\u00e4muna\"\nFran\u00e7ais: \"carr\u00e9\" - Suomi: \"ristikkomerkki\"\nFran\u00e7ais: \"toit\" - Suomi: \"ulkokatto\"\nFran\u00e7ais: \"muscle\" - Suomi: \"lihas\"\nFran\u00e7ais: \"drapeau\" - Suomi: \"",
+        "target": "['lippu']",
+        "word original": "flag"
+    },
+    "['vall\u00e9e', 'val']": {
+        "prompt": "Fran\u00e7ais: \"organisme\" - Suomi: \"virka\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"dimanche\" - Suomi: \"sunnuntai\"\nFran\u00e7ais: \"vall\u00e9e\" - Suomi: \"",
+        "target": "['laakso']",
+        "word original": "floor"
+    },
+    "['dipt\u00e8re', 'Diptera', 'mouche']": {
+        "prompt": "Fran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"ampuma-ase\"\nFran\u00e7ais: \"arrestation\" - Suomi: \"pid\u00e4tys\"\nFran\u00e7ais: \"rayon\" - Suomi: \"hylly\"\nFran\u00e7ais: \"face\" - Suomi: \"naama\"\nFran\u00e7ais: \"comit\u00e9\" - Suomi: \"komitea\"\nFran\u00e7ais: \"dipt\u00e8re\" - Suomi: \"",
+        "target": "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']",
+        "word original": "fly"
+    },
+    "['pied', 'pieds', 'fondation', 'substruction', 'soubassement', 'infrastructure', 'substructure', 'fondement', 'base']": {
+        "prompt": "Fran\u00e7ais: \"allumette\" - Suomi: \"tulitikku\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"iskunvaimennin\"\nFran\u00e7ais: \"fourchette\" - Suomi: \"haarukka\"\nFran\u00e7ais: \"colis\" - Suomi: \"nyytti\"\nFran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"pied\" - Suomi: \"",
+        "target": "['jalka', 'jalkater\u00e4', 'perustus', 'alusrakenne', 'pohja', 'jalusta', 'kanta', 'juuri', 'alaosa', 'pohjaty\u00f6', 'perus', 'rakennuspohja', 'jalkop\u00e4\u00e4', 'alap\u00e4\u00e4', 'alusta', 'antura', 'perusta', 'perusrakenne', 'perusmuuri']",
+        "word original": "foot"
+    },
+    "['fourchette']": {
+        "prompt": "Fran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"nigga\" - Suomi: \"Negridinen rotu\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"fourchette\" - Suomi: \"",
+        "target": "['haarukka']",
+        "word original": "fork"
+    },
+    "['volaille', 'poulet', 'viande de poulet']": {
+        "prompt": "Fran\u00e7ais: \"fil\" - Suomi: \"Norsut\"\nFran\u00e7ais: \"four\" - Suomi: \"uuni\"\nFran\u00e7ais: \"angle\" - Suomi: \"suplementtikulmat\"\nFran\u00e7ais: \"plumage\" - Suomi: \"h\u00f6yhenet\"\nFran\u00e7ais: \"genou\" - Suomi: \"polvi\"\nFran\u00e7ais: \"volaille\" - Suomi: \"",
+        "target": "['kana', 'kananliha', 'broilerinliha', 'siipikarjanliha']",
+        "word original": "fowl"
+    },
+    "['corps humain', 'carrure', 'physiologie humaine', 'ossature', 'forme', 'figure', 'chair', 'silhouette', 'physique', 'Corps humain']": {
+        "prompt": "Fran\u00e7ais: \"vall\u00e9e\" - Suomi: \"laakso\"\nFran\u00e7ais: \"salle de bain\" - Suomi: \"kylpyhuone\"\nFran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"gorge\" - Suomi: \"kanjoni\"\nFran\u00e7ais: \"corps humain\" - Suomi: \"",
+        "target": "['ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']",
+        "word original": "frame"
+    },
+    "['jardin']": {
+        "prompt": "Fran\u00e7ais: \"marteau\" - Suomi: \"piano\"\nFran\u00e7ais: \"veste\" - Suomi: \"takki\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"gar\u00e7on\" - Suomi: \"poika\"\nFran\u00e7ais: \"jardin\" - Suomi: \"",
+        "target": "['puutarha', 'kasvimaa']",
+        "word original": "garden"
+    },
+    "['fille', 'femme', 'jeune femme', 'jeune fille', 'petite copine', 'petite amie', 'copine']": {
+        "prompt": "Fran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"cou\" - Suomi: \"kaula\"\nFran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"salle de bain\" - Suomi: \"kylpyhuone\"\nFran\u00e7ais: \"fille\" - Suomi: \"",
+        "target": "['tytt\u00f6', 'neiti', 'nuori nainen', 'tyt\u00e4r', 'tytt\u00f6kaveri', 'tytt\u00f6yst\u00e4v\u00e4', 'naisyst\u00e4v\u00e4']",
+        "word original": "girl"
+    },
+    "['gant']": {
+        "prompt": "Fran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"ongle\" - Suomi: \"kynsi\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"corps humain\" - Suomi: \"ihmisruumis\"\nFran\u00e7ais: \"gant\" - Suomi: \"",
+        "target": "['hansikas', 'sormikas', 'hanska', 'k\u00e4sine']",
+        "word original": "glove"
+    },
+    "['ch\u00e8vre']": {
+        "prompt": "Fran\u00e7ais: \"queue\" - Suomi: \"siitin\"\nFran\u00e7ais: \"v\u00e9lo\" - Suomi: \"polkupy\u00f6r\u00e4\"\nFran\u00e7ais: \"plumage\" - Suomi: \"h\u00f6yhenet\"\nFran\u00e7ais: \"minou\" - Suomi: \"mirri\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"",
+        "target": "['vuohi', 'vuohiel\u00e4in']",
+        "word original": "goat"
+    },
+    "['arme \u00e0 feu', 'arme de projectile', 'pistolet']": {
+        "prompt": "Fran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"oreille\" - Suomi: \"korva\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Suomi: \"kirjasto\"\nFran\u00e7ais: \"fourchette\" - Suomi: \"haarukka\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"",
+        "target": "['ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']",
+        "word original": "gun"
+    },
+    "['chevelure', 'pelage', 'cheveux', 'poil']": {
+        "prompt": "Fran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"mur\" - Suomi: \"sein\u00e4\"\nFran\u00e7ais: \"stylographe\" - Suomi: \"t\u00e4ytekyn\u00e4\"\nFran\u00e7ais: \"chemise\" - Suomi: \"paita\"\nFran\u00e7ais: \"cuill\u00e8re\" - Suomi: \"lusikka\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"",
+        "target": "['karvoitus', 'karva', 'hius', 'jouhi']",
+        "word original": "root"
+    },
+    "['marteau', 'forte-piano', 'piano-forte', 'piano']": {
+        "prompt": "Fran\u00e7ais: \"genou\" - Suomi: \"polvi\"\nFran\u00e7ais: \"peigne\" - Suomi: \"kampa\"\nFran\u00e7ais: \"joyau\" - Suomi: \"koru\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"marteau\" - Suomi: \"",
+        "target": "['piano', 'vasara']",
+        "word original": "hammer"
+    },
+    "['main', 'jeu de cartes', 'cartes', 'Jeu de cartes', 'patte']": {
+        "prompt": "Fran\u00e7ais: \"minou\" - Suomi: \"mirri\"\nFran\u00e7ais: \"encadrement de porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"oiseau\" - Suomi: \"linnut\"\nFran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"main\" - Suomi: \"",
+        "target": "['korttipeli', 'k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus']",
+        "word original": "hand"
+    },
+    "['chapeau', 'Chapeau!', 'couvercle', 'casquette']": {
+        "prompt": "Fran\u00e7ais: \"marteau\" - Suomi: \"piano\"\nFran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"station\" - Suomi: \"rautatieasema\"\nFran\u00e7ais: \"note\" - Suomi: \"seteli\"\nFran\u00e7ais: \"graine\" - Suomi: \"siemen\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"",
+        "target": "['hattu', 'lakki', 'p\u00e4\u00e4hine']",
+        "word original": "hat"
+    },
+    "['c\u0153ur', 'myocarde', 'c\u0153ur humain', 'cavit\u00e9 cardiaque', 'Philia', 'affection', 'philia', 'centre']": {
+        "prompt": "Fran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"baie\" - Suomi: \"lahti\"\nFran\u00e7ais: \"crayon\" - Suomi: \"lyijykyn\u00e4\"\nFran\u00e7ais: \"yeux\" - Suomi: \"silm\u00e4muna\"\nFran\u00e7ais: \"l\u00e8vres\" - Suomi: \"huuli\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"",
+        "target": "['syd\u00e4n', 'syd\u00e4nlihas', 'pumppu', 'kiintymys', 'rakkaus', 'mieltymys', 'syd\u00e4mellisyys', 'l\u00e4mp\u00f6', 'l\u00e4mminsyd\u00e4misyys', 'rakastavuus', 'filia', 'hellyys', 'heikkous', 'keskusta', 'sisus']",
+        "word original": "pump"
+    },
+    "['citaro', 'trompe-laquais', 'campurgne', 'guimbarde', 'trompettiste', 'harpe \u00e0 bouche', 'trompette tsigane', 'hanche-en-ruban', 'trompe de B\u00e9arn', 'cornet', 'trompette', 'cornet \u00e0 pistons', 'corne']": {
+        "prompt": "Fran\u00e7ais: \"patate\" - Suomi: \"peruna\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Suomi: \"teepannu\"\nFran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"nuage\" - Suomi: \"pilvi\"\nFran\u00e7ais: \"citaro\" - Suomi: \"",
+        "target": "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']",
+        "word original": "horn"
+    },
+    "['cheval', 'equus caballus']": {
+        "prompt": "Fran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"voilier\" - Suomi: \"purjealus\"\nFran\u00e7ais: \"orteil\" - Suomi: \"varvas\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"cheval\" - Suomi: \"",
+        "target": "['hevonen', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['h\u00f4pital', 'hosto', 'infirmerie']": {
+        "prompt": "Fran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"ampuma-ase\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"m\u00e9moire\" - Suomi: \"muisti\"\nFran\u00e7ais: \"h\u00f4pital\" - Suomi: \"",
+        "target": "['sairaala', 'sairasosasto']",
+        "word original": "hospital"
+    },
+    "['domicile', 'maison', 'habitation', 'r\u00e9sidence', 'logement', 'foyer', 'demeure']": {
+        "prompt": "Fran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"internet\" - Suomi: \"netti\"\nFran\u00e7ais: \"corps humain\" - Suomi: \"ihmisruumis\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"domicile\" - Suomi: \"",
+        "target": "['talo', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4']",
+        "word original": "house"
+    },
+    "['ile', '\u00eele']": {
+        "prompt": "Fran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"nez\" - Suomi: \"nen\u00e4\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"arbre\" - Suomi: \"puu\"\nFran\u00e7ais: \"ile\" - Suomi: \"",
+        "target": "['saari', 'saareke']",
+        "word original": "island"
+    },
+    "['joyau', 'jaoillerie', 'joaillerie', 'bijoux']": {
+        "prompt": "Fran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"v\u00e9lo\" - Suomi: \"polkupy\u00f6r\u00e4\"\nFran\u00e7ais: \"peigne\" - Suomi: \"kampa\"\nFran\u00e7ais: \"joyau\" - Suomi: \"",
+        "target": "['koru', 'korut']",
+        "word original": "jewel"
+    },
+    "['bouilloire \u00e0 th\u00e9', 'bouilloire']": {
+        "prompt": "Fran\u00e7ais: \"fromage\" - Suomi: \"juusto\"\nFran\u00e7ais: \"timbre-poste\" - Suomi: \"postimerkki\"\nFran\u00e7ais: \"paire de ciseaux\" - Suomi: \"sakset\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Suomi: \"",
+        "target": "['teepannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']",
+        "word original": "kettle"
+    },
+    "['clef', 'cl\u00e9', 'cl\u00e9 de serrage', 'clef \u00e0 \u00e9crous', 'serre-\u00e9crou']": {
+        "prompt": "Fran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"clef\" - Suomi: \"",
+        "target": "['avain', 'kiintoavain', 'jakoavain', 'v\u00e4\u00e4nt\u00f6ty\u00f6kalu', 'V\u00e4\u00e4nt\u00f6ty\u00f6kalu']",
+        "word original": "key"
+    },
+    "['genou']": {
+        "prompt": "Fran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"ampuma-ase\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"cigare\" - Suomi: \"sikari\"\nFran\u00e7ais: \"peigne\" - Suomi: \"kampa\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"genou\" - Suomi: \"",
+        "target": "['polvi', 'polvinivel', 'articulatio genus']",
+        "word original": "knee"
+    },
+    "['couteau']": {
+        "prompt": "Fran\u00e7ais: \"mouton\" - Suomi: \"lammas\"\nFran\u00e7ais: \"boucle\" - Suomi: \"korvakoru\"\nFran\u00e7ais: \"nuage\" - Suomi: \"pilvi\"\nFran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"comit\u00e9\" - Suomi: \"komitea\"\nFran\u00e7ais: \"couteau\" - Suomi: \"",
+        "target": "['veitsi', 'puukko']",
+        "word original": "knife"
+    },
+    "['n\u0153ud', 'tige']": {
+        "prompt": "Fran\u00e7ais: \"poisson\" - Suomi: \"kala\"\nFran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"cou\" - Suomi: \"kaula\"\nFran\u00e7ais: \"colis\" - Suomi: \"nyytti\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"",
+        "target": "['varsi', 'Varsi', 'solmu', 'Solmu']",
+        "word original": "knot"
+    },
+    "['feuillage', 'feuille']": {
+        "prompt": "Fran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"cheval\" - Suomi: \"hevonen\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"feuillage\" - Suomi: \"",
+        "target": "['lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti']",
+        "word original": "leaf"
+    },
+    "['jambe', 'membre inf\u00e9rieur', 'patte', 'jambes', 'membre inf\u00e9rieur humain']": {
+        "prompt": "Fran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"chemise\" - Suomi: \"paita\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"jambe\" - Suomi: \"",
+        "target": "['jalka', 's\u00e4\u00e4ri']",
+        "word original": "pin"
+    },
+    "['biblioth\u00e8que', 'librairie']": {
+        "prompt": "Fran\u00e7ais: \"fonction\" - Suomi: \"asema\"\nFran\u00e7ais: \"arc\" - Suomi: \"jousi\"\nFran\u00e7ais: \"doigt\" - Suomi: \"keskisormi\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"prison\" - Suomi: \"linna\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Suomi: \"",
+        "target": "['kirjasto', 'kokoelma']",
+        "word original": "library"
+    },
+    "['t\u00e9l\u00e9vision', 'vid\u00e9o', 't\u00e9l\u00e9', 't\u00e9loche', 't\u00e9l\u00e9viseur']": {
+        "prompt": "Fran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"oreille\" - Suomi: \"korva\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"",
+        "target": "['televisio', 'video', 'TV', 'televisiointi', 'televisiovastaanotin', 't\u00f6ll\u00f6tin', 'telkkari', 'telkka', 'televisiolaite', 'p\u00f6ntt\u00f6', 'telkku', 'tv']",
+        "word original": "line"
+    },
+    "['l\u00e8vres', 'l\u00e8vre']": {
+        "prompt": "Fran\u00e7ais: \"porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Suomi: \"kirjasto\"\nFran\u00e7ais: \"serpent\" - Suomi: \"k\u00e4\u00e4rmeet\"\nFran\u00e7ais: \"l\u00e8vres\" - Suomi: \"",
+        "target": "['huuli', 'huulet']",
+        "word original": "lip"
+    },
+    "['boucle', \"boucle d'oreille\", 'boucle d\u2019oreille', '\u00e9pi de cheveux', 'Pijpenkrul']": {
+        "prompt": "Fran\u00e7ais: \"chien\" - Suomi: \"koira\"\nFran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"orteil\" - Suomi: \"varvas\"\nFran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"boucle\" - Suomi: \"",
+        "target": "['korvakoru', 'korvarengas', 'kihara', 'Pijpenkrul', 'kiehkura', 'hiussuortuva']",
+        "word original": "lock"
+    },
+    "['fonction', 'application', 'fonction monovalu\u00e9e', 'emploi', 'position', 'place', 'situation']": {
+        "prompt": "Fran\u00e7ais: \"mur\" - Suomi: \"sein\u00e4\"\nFran\u00e7ais: \"rue\" - Suomi: \"tie\"\nFran\u00e7ais: \"vis\" - Suomi: \"ruuvi\"\nFran\u00e7ais: \"conduite principale\" - Suomi: \"akvedukti\"\nFran\u00e7ais: \"face\" - Suomi: \"naama\"\nFran\u00e7ais: \"fonction\" - Suomi: \"",
+        "target": "['asema', 'funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio', 'virka', 'ty\u00f6paikka', 'paikka', 'toimi']",
+        "word original": "map"
+    },
+    "['allumette']": {
+        "prompt": "Fran\u00e7ais: \"p\u00e9pin\" - Suomi: \"sateenvarjo\"\nFran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"menton\" - Suomi: \"leuka\"\nFran\u00e7ais: \"allumette\" - Suomi: \"",
+        "target": "['tulitikku', 'rikkitulitikku']",
+        "word original": "match"
+    },
+    "['singe', 'primates', 'primate']": {
+        "prompt": "Fran\u00e7ais: \"toit\" - Suomi: \"ulkokatto\"\nFran\u00e7ais: \"charrue\" - Suomi: \"aura\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"ampuma-ase\"\nFran\u00e7ais: \"timbre-poste\" - Suomi: \"postimerkki\"\nFran\u00e7ais: \"prison\" - Suomi: \"linna\"\nFran\u00e7ais: \"singe\" - Suomi: \"",
+        "target": "['k\u00e4delliset', 'k\u00e4dellinen', 'apina', 'apinat']",
+        "word original": "monkey"
+    },
+    "['lune', 'satellite artificiel', 'satellite', 'orbiteur']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9glise\" - Suomi: \"kirkko\"\nFran\u00e7ais: \"allumette\" - Suomi: \"tulitikku\"\nFran\u00e7ais: \"cuill\u00e8re\" - Suomi: \"lusikka\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"iskunvaimennin\"\nFran\u00e7ais: \"lune\" - Suomi: \"",
+        "target": "['satelliitti', 'tekokuu']",
+        "word original": "moon"
+    },
+    "['bouche', 'cavit\u00e9 buccale', 'cavit\u00e9 orale', 'gueule', 'vestibule de la bouche']": {
+        "prompt": "Fran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"ile\" - Suomi: \"saari\"\nFran\u00e7ais: \"\u00e9ponge\" - Suomi: \"sieniel\u00e4imet\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Suomi: \"kirjasto\"\nFran\u00e7ais: \"lavabo\" - Suomi: \"lavuaari\"\nFran\u00e7ais: \"bouche\" - Suomi: \"",
+        "target": "['suu', 'suuontelo', 'kita', 'suuaukko']",
+        "word original": "mouth"
+    },
+    "['muscle']": {
+        "prompt": "Fran\u00e7ais: \"v\u00e9lo\" - Suomi: \"polkupy\u00f6r\u00e4\"\nFran\u00e7ais: \"toilette\" - Suomi: \"pakkeli\"\nFran\u00e7ais: \"oreille\" - Suomi: \"korva\"\nFran\u00e7ais: \"cercle\" - Suomi: \"ympyr\u00e4\"\nFran\u00e7ais: \"lit\" - Suomi: \"vuode\"\nFran\u00e7ais: \"muscle\" - Suomi: \"",
+        "target": "['lihas', 'lihaskudos']",
+        "word original": "muscle"
+    },
+    "['ongle']": {
+        "prompt": "Fran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"timbre-poste\" - Suomi: \"postimerkki\"\nFran\u00e7ais: \"train\" - Suomi: \"juna\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"ampoule\" - Suomi: \"hehkulamppu\"\nFran\u00e7ais: \"ongle\" - Suomi: \"",
+        "target": "['kynsi', 'Kynsi']",
+        "word original": "nail"
+    },
+    "['cou', 'nuque']": {
+        "prompt": "Fran\u00e7ais: \"brique\" - Suomi: \"tiili\"\nFran\u00e7ais: \"marteau\" - Suomi: \"piano\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"cou\" - Suomi: \"",
+        "target": "['kaula']",
+        "word original": "neck"
+    },
+    "['aiguille', 'aiguillage', 'curseur', 'pointeur', 'aiguille hypodermique', \"canule d'injection\", '\u00e9pingle']": {
+        "prompt": "Fran\u00e7ais: \"drapeau\" - Suomi: \"lippu\"\nFran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"dipt\u00e8re\" - Suomi: \"kaksisiipiset\"\nFran\u00e7ais: \"aiguille\" - Suomi: \"",
+        "target": "['Rautatievaihde', 'rautatievaihde', 'vaihde', 'viisari', 'kohdistin', 'osoitin', 'kursori', 'neula']",
+        "word original": "needle"
+    },
+    "['nerf']": {
+        "prompt": "Fran\u00e7ais: \"sonnette\" - Suomi: \"kellopeli\"\nFran\u00e7ais: \"serpent\" - Suomi: \"k\u00e4\u00e4rmeet\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"fille\" - Suomi: \"tytt\u00f6\"\nFran\u00e7ais: \"graine\" - Suomi: \"siemen\"\nFran\u00e7ais: \"nerf\" - Suomi: \"",
+        "target": "['hermo']",
+        "word original": "nerve"
+    },
+    "['internet', 'r\u00e9seau informatique', 'r\u00e9seau', 'cyberespace']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9toile\" - Suomi: \"t\u00e4hti\"\nFran\u00e7ais: \"aiguille\" - Suomi: \"Rautatievaihde\"\nFran\u00e7ais: \"brosse\" - Suomi: \"harja\"\nFran\u00e7ais: \"g\u00e2teau\" - Suomi: \"kakku\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"internet\" - Suomi: \"",
+        "target": "['netti', 'kyberavaruus', 'verkko']",
+        "word original": "net"
+    },
+    "['nez', 'pif']": {
+        "prompt": "Fran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"brique\" - Suomi: \"tiili\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"lavabo\" - Suomi: \"lavuaari\"\nFran\u00e7ais: \"nez\" - Suomi: \"",
+        "target": "['nen\u00e4', 'hajuelin']",
+        "word original": "nose"
+    },
+    "['organisme', 'autorit\u00e9', 'agence', 'bureau', 'agence publique', 'minist\u00e8re', 'office', 'administration f\u00e9d\u00e9rale', '\u00eatre']": {
+        "prompt": "Fran\u00e7ais: \"allumette\" - Suomi: \"tulitikku\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"vall\u00e9e\" - Suomi: \"laakso\"\nFran\u00e7ais: \"chemise\" - Suomi: \"paita\"\nFran\u00e7ais: \"organisme\" - Suomi: \"",
+        "target": "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'organismi', 'eli\u00f6', 'oleminen', 'olento']",
+        "word original": "office"
+    },
+    "['four']": {
+        "prompt": "Fran\u00e7ais: \"paire de ciseaux\" - Suomi: \"sakset\"\nFran\u00e7ais: \"toilette\" - Suomi: \"pakkeli\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"salle de bain\" - Suomi: \"kylpyhuone\"\nFran\u00e7ais: \"four\" - Suomi: \"",
+        "target": "['uuni']",
+        "word original": "oven"
+    },
+    "['colis', 'paquet', 'faisceau', 'fagot', 'paquetage']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"fille\" - Suomi: \"tytt\u00f6\"\nFran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"\u00e9toile\" - Suomi: \"t\u00e4hti\"\nFran\u00e7ais: \"colis\" - Suomi: \"",
+        "target": "['nyytti', 'pakkaus', 'kimppu', 'paketti', 'nippu', 'k\u00e4\u00e4r\u00f6']",
+        "word original": "parcel"
+    },
+    "['stylographe', 'stylo plume', 'stylo \u00e0 plume', 'stylo-plume', 'Stylo-plume', 'stylo \u00e0 encre', 'stylo']": {
+        "prompt": "Fran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"fourchette\" - Suomi: \"haarukka\"\nFran\u00e7ais: \"chemise\" - Suomi: \"paita\"\nFran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"paire de ciseaux\" - Suomi: \"sakset\"\nFran\u00e7ais: \"stylographe\" - Suomi: \"",
+        "target": "['t\u00e4ytekyn\u00e4', 'kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "pen"
+    },
+    "['crayon']": {
+        "prompt": "Fran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"toilette\" - Suomi: \"pakkeli\"\nFran\u00e7ais: \"coffre\" - Suomi: \"Arkku\"\nFran\u00e7ais: \"crayon\" - Suomi: \"",
+        "target": "['lyijykyn\u00e4', 'kyn\u00e4']",
+        "word original": "pencil"
+    },
+    "['porc', 'cochon', 'Sus', 'Sus scrofa domestica', 'viande de porc']": {
+        "prompt": "Fran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"joyau\" - Suomi: \"koru\"\nFran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"baie\" - Suomi: \"lahti\"\nFran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"porc\" - Suomi: \"",
+        "target": "['sika', 'siat', 'Siat', 'possu', 'Sus scrofa', 'sy\u00f6tt\u00f6karju', 'sianliha', 'porsas']",
+        "word original": "pig"
+    },
+    "['conduite principale', 'aqueduc', 'tuyau', 'conduit', 'canalisation']": {
+        "prompt": "Fran\u00e7ais: \"carr\u00e9\" - Suomi: \"ristikkomerkki\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"organisme\" - Suomi: \"virka\"\nFran\u00e7ais: \"yeux\" - Suomi: \"silm\u00e4muna\"\nFran\u00e7ais: \"chien\" - Suomi: \"koira\"\nFran\u00e7ais: \"conduite principale\" - Suomi: \"",
+        "target": "['akvedukti', 'putki', 'johto', 'putkisto', 'vesijohto']",
+        "word original": "pipe"
+    },
+    "['a\u00e9roplane', 'avion']": {
+        "prompt": "Fran\u00e7ais: \"dipt\u00e8re\" - Suomi: \"kaksisiipiset\"\nFran\u00e7ais: \"arbre\" - Suomi: \"puu\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"lavabo\" - Suomi: \"lavuaari\"\nFran\u00e7ais: \"a\u00e9roplane\" - Suomi: \"",
+        "target": "['lentokone', 'kone']",
+        "word original": "plane"
+    },
+    "['charrue']": {
+        "prompt": "Fran\u00e7ais: \"voilier\" - Suomi: \"purjealus\"\nFran\u00e7ais: \"seau\" - Suomi: \"\u00e4mp\u00e4ri\"\nFran\u00e7ais: \"vis\" - Suomi: \"ruuvi\"\nFran\u00e7ais: \"cheval\" - Suomi: \"hevonen\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"charrue\" - Suomi: \"",
+        "target": "['aura']",
+        "word original": "plough"
+    },
+    "['poche', 'sac plastique', 'cornet', 'poche pantalon', 'poche de pantalon']": {
+        "prompt": "Fran\u00e7ais: \"sonnette\" - Suomi: \"kellopeli\"\nFran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"crayon\" - Suomi: \"lyijykyn\u00e4\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Suomi: \"miekka\"\nFran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"poche\" - Suomi: \"",
+        "target": "['muovipussi', 'muovikassi', 'tasku']",
+        "word original": "pocket"
+    },
+    "['toilette', 'maquillage', 'cosm\u00e9tique', 'toilettes', 'pot de chambre', 'pot', 'salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'cabinet de toilette', 'lavage', 'laver', 'hygi\u00e8ne du corps']": {
+        "prompt": "Fran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"vall\u00e9e\" - Suomi: \"laakso\"\nFran\u00e7ais: \"crayon\" - Suomi: \"lyijykyn\u00e4\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"iskunvaimennin\"\nFran\u00e7ais: \"toilette\" - Suomi: \"",
+        "target": "['pakkeli', 'meikki', 'kosmetiikka', 'ehoste', 'ehostus', 'sotamaalaus', 'potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin', 'kylpyhuone', 'kylpyl\u00e4', 'toiletti', 'pesuhuone', 'peseminen', 'pesu']",
+        "word original": "pot"
+    },
+    "['patate', 'pomme de terre']": {
+        "prompt": "Fran\u00e7ais: \"rideau\" - Suomi: \"verho\"\nFran\u00e7ais: \"muscle\" - Suomi: \"lihas\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"cheval\" - Suomi: \"hevonen\"\nFran\u00e7ais: \"\u00e9glise\" - Suomi: \"kirkko\"\nFran\u00e7ais: \"patate\" - Suomi: \"",
+        "target": "['peruna', 'potaatti', 'pottu']",
+        "word original": "potato"
+    },
+    "['prison', 'p\u00e9nitencier', 't\u00f4le', 'trou', 'placard', 'taule', 'ge\u00f4le', 'cabane']": {
+        "prompt": "Fran\u00e7ais: \"p\u00e9pin\" - Suomi: \"sateenvarjo\"\nFran\u00e7ais: \"carte d'identification\" - Suomi: \"henkil\u00f6llisyystodistus\"\nFran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"rideau\" - Suomi: \"verho\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"prison\" - Suomi: \"",
+        "target": "['linna', 'vankila', 'tyrm\u00e4']",
+        "word original": "prison"
+    },
+    "['souris', 'rat', 'Mus']": {
+        "prompt": "Fran\u00e7ais: \"dents\" - Suomi: \"hammas\"\nFran\u00e7ais: \"plateau\" - Suomi: \"yl\u00e4nk\u00f6\"\nFran\u00e7ais: \"queue\" - Suomi: \"siitin\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"orteil\" - Suomi: \"varvas\"\nFran\u00e7ais: \"souris\" - Suomi: \"",
+        "target": "['hiiri', 'kotihiiret', 'Kotihiiret', 'tietokoneen hiiri']",
+        "word original": "rat"
+    },
+    "['note', 'billet', 'billet de banque', 'facture', 'greenback', 'Greenback', 'addition', 'compte', 'score']": {
+        "prompt": "Fran\u00e7ais: \"aile\" - Suomi: \"siipi\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"plateau\" - Suomi: \"yl\u00e4nk\u00f6\"\nFran\u00e7ais: \"organisme\" - Suomi: \"virka\"\nFran\u00e7ais: \"jardin\" - Suomi: \"puutarha\"\nFran\u00e7ais: \"note\" - Suomi: \"",
+        "target": "['seteli', 'vekseli', 'dollari', 'keskuspankin liikkeeseen laskema seteli', 'dollarin seteli', 'seteliraha', 'paperiraha', 'lasku', 'tili', 'ravintolalasku', 'tavaralasku', 'arvosana', 'tulos', 'koetulos', 'pistem\u00e4\u00e4r\u00e4', 'numero', 'muistiinpano', 'muistutus', 'muistilappu']",
+        "word original": "receipt"
+    },
+    "['ch\u00e2timent corporel']": {
+        "prompt": "Fran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"pont\" - Suomi: \"silta\"\nFran\u00e7ais: \"plateau\" - Suomi: \"yl\u00e4nk\u00f6\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"m\u00e9moire\" - Suomi: \"muisti\"\nFran\u00e7ais: \"ch\u00e2timent corporel\" - Suomi: \"",
+        "target": "['ruumiinrangaistus', 'ruumiillinen rangaistus']",
+        "word original": "rod"
+    },
+    "['toit']": {
+        "prompt": "Fran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"encadrement de porte\" - Suomi: \"ovi\"\nFran\u00e7ais: \"goutte de pluie\" - Suomi: \"sadevesi\"\nFran\u00e7ais: \"pied\" - Suomi: \"jalka\"\nFran\u00e7ais: \"vall\u00e9e\" - Suomi: \"laakso\"\nFran\u00e7ais: \"toit\" - Suomi: \"",
+        "target": "['ulkokatto', 'katto']",
+        "word original": "roof"
+    },
+    "['voilier']": {
+        "prompt": "Fran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"fromage\" - Suomi: \"juusto\"\nFran\u00e7ais: \"chaussette\" - Suomi: \"sukka\"\nFran\u00e7ais: \"nuage\" - Suomi: \"pilvi\"\nFran\u00e7ais: \"internet\" - Suomi: \"netti\"\nFran\u00e7ais: \"voilier\" - Suomi: \"",
+        "target": "['purjealus', 'purjehdusalus', 'purjelaiva']",
+        "word original": "sail"
+    },
+    "['acad\u00e9mie', 'universit\u00e9', '\u00e9cole', 'coll\u00e8ge', 'univ', 'fac']": {
+        "prompt": "Fran\u00e7ais: \"carte d'identification\" - Suomi: \"henkil\u00f6llisyystodistus\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"cercle\" - Suomi: \"ympyr\u00e4\"\nFran\u00e7ais: \"aiguille\" - Suomi: \"Rautatievaihde\"\nFran\u00e7ais: \"acad\u00e9mie\" - Suomi: \"",
+        "target": "['yliopisto', 'koulu', 'college', 'akatemia', 'tiedeakatemia', 'taideakatemia']",
+        "word original": "school"
+    },
+    "['paire de ciseaux', 'ciseaux']": {
+        "prompt": "Fran\u00e7ais: \"serpent\" - Suomi: \"k\u00e4\u00e4rmeet\"\nFran\u00e7ais: \"m\u00e9moire\" - Suomi: \"muisti\"\nFran\u00e7ais: \"main\" - Suomi: \"korttipeli\"\nFran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"paire de ciseaux\" - Suomi: \"",
+        "target": "['sakset']",
+        "word original": "scissors"
+    },
+    "['vis', 'vis de fixation']": {
+        "prompt": "Fran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"acad\u00e9mie\" - Suomi: \"yliopisto\"\nFran\u00e7ais: \"abeille\" - Suomi: \"mehil\u00e4iset\"\nFran\u00e7ais: \"oiseau\" - Suomi: \"linnut\"\nFran\u00e7ais: \"bouche\" - Suomi: \"suu\"\nFran\u00e7ais: \"vis\" - Suomi: \"",
+        "target": "['ruuvi', 'Ruuvi', 'mutteri']",
+        "word original": "screw"
+    },
+    "['graine', 'semence']": {
+        "prompt": "Fran\u00e7ais: \"mouton\" - Suomi: \"lammas\"\nFran\u00e7ais: \"genou\" - Suomi: \"polvi\"\nFran\u00e7ais: \"ampoule\" - Suomi: \"hehkulamppu\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"graine\" - Suomi: \"",
+        "target": "['siemen']",
+        "word original": "seed"
+    },
+    "['mouton', 'ovid\u00e9', 'Ovis aries', 'mouton domestique', 'Ovis orientalis aries']": {
+        "prompt": "Fran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"bas\" - Suomi: \"sukka\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"pouce\" - Suomi: \"tuuma\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"mouton\" - Suomi: \"",
+        "target": "['lammas', 'lampaat', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['rayon', 'ra\u00efon municipal', 'district municipal', '\u00e9tag\u00e8re', 'tablard', 'tablette', 'faisceau lumineux', 'rayon lumineux', 'irradiation']": {
+        "prompt": "Fran\u00e7ais: \"livre\" - Suomi: \"kirja\"\nFran\u00e7ais: \"chien\" - Suomi: \"koira\"\nFran\u00e7ais: \"l\u00e8vres\" - Suomi: \"huuli\"\nFran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"rayon\" - Suomi: \"",
+        "target": "['hylly', 'valokeila', 's\u00e4de', 's\u00e4teilytys', 'valons\u00e4de', 'pilkahdus']",
+        "word original": "shelf"
+    },
+    "['navire', 'bateau', 'vaisseau', 'embarcation']": {
+        "prompt": "Fran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"cigare\" - Suomi: \"sikari\"\nFran\u00e7ais: \"jardin\" - Suomi: \"puutarha\"\nFran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"navire\" - Suomi: \"",
+        "target": "['laiva', 'alus', 'vesikulkuneuvo', 'vesialus']",
+        "word original": "ship"
+    },
+    "['chemise']": {
+        "prompt": "Fran\u00e7ais: \"forces arm\u00e9es\" - Suomi: \"asevoimat\"\nFran\u00e7ais: \"chien\" - Suomi: \"koira\"\nFran\u00e7ais: \"nez\" - Suomi: \"nen\u00e4\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"chemise\" - Suomi: \"",
+        "target": "['paita', 'aluspaita', 'paitapusero']",
+        "word original": "shirt"
+    },
+    "['soulier', 'tatane', 'chaussure', 'pompe', 'grolle', 'godasse', 'bottine', 'botte']": {
+        "prompt": "Fran\u00e7ais: \"domicile\" - Suomi: \"talo\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"\u0153uf de poule\" - Suomi: \"muna\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"soulier\" - Suomi: \"",
+        "target": "['kenk\u00e4', 'Saapas', 'saapas', 'varsikenk\u00e4']",
+        "word original": "tongue"
+    },
+    "['peau', 't\u00e9gument', 'cuir', 'fourrure', 'd\u00e9pouille']": {
+        "prompt": "Fran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"vis\" - Suomi: \"ruuvi\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"nez\" - Suomi: \"nen\u00e4\"\nFran\u00e7ais: \"peau\" - Suomi: \"",
+        "target": "['iho', 'nahka', 'tegumentti', 'cutis', 'turkki', 'turkis', 'talja', 'vuota', 'p\u00e4\u00e4llys']",
+        "word original": "skin"
+    },
+    "['jupe']": {
+        "prompt": "Fran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"poche\" - Suomi: \"muovipussi\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Suomi: \"teepannu\"\nFran\u00e7ais: \"porc\" - Suomi: \"sika\"\nFran\u00e7ais: \"feuillage\" - Suomi: \"lehvist\u00f6\"\nFran\u00e7ais: \"jupe\" - Suomi: \"",
+        "target": "['hame']",
+        "word original": "skirt"
+    },
+    "['serpent', 'ophidien', 'serpentes']": {
+        "prompt": "Fran\u00e7ais: \"pont\" - Suomi: \"silta\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"navire\" - Suomi: \"laiva\"\nFran\u00e7ais: \"genou\" - Suomi: \"polvi\"\nFran\u00e7ais: \"serpent\" - Suomi: \"",
+        "target": "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']",
+        "word original": "snake"
+    },
+    "['chaussette', 'bas']": {
+        "prompt": "Fran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"jupe\" - Suomi: \"hame\"\nFran\u00e7ais: \"carte d'identification\" - Suomi: \"henkil\u00f6llisyystodistus\"\nFran\u00e7ais: \"corps humain\" - Suomi: \"ihmisruumis\"\nFran\u00e7ais: \"nez\" - Suomi: \"nen\u00e4\"\nFran\u00e7ais: \"chaussette\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "sock"
+    },
+    "['nigga', 'noir', 'black', 'n\u00e8gre', 'Histoire du terme \u00ab n\u00e8gre', 'N\u00e9gro\u00efde', 'n\u00e9gro\u00efde', 'N\u00e8gre']": {
+        "prompt": "Fran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"amortisseur\" - Suomi: \"iskunvaimennin\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"rannekello\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"os\" - Suomi: \"k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4\"\nFran\u00e7ais: \"nigga\" - Suomi: \"",
+        "target": "['Negridinen rotu', 'negridi', 'neekeri', 'negridinen rotu', 'tummaihoinen', 'murjaani', 'negroidi', 'musta']",
+        "word original": "spade"
+    },
+    "['\u00e9ponge', '\u00e9ponges', 'Porifera', 'parazoaire']": {
+        "prompt": "Fran\u00e7ais: \"charrue\" - Suomi: \"aura\"\nFran\u00e7ais: \"fouet\" - Suomi: \"ruoska\"\nFran\u00e7ais: \"\u0153uf de poule\" - Suomi: \"muna\"\nFran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"vache\" - Suomi: \"karja\"\nFran\u00e7ais: \"\u00e9ponge\" - Suomi: \"",
+        "target": "['sieniel\u00e4imet', 'sieniel\u00e4in']",
+        "word original": "sponge"
+    },
+    "['cuill\u00e8re', 'cuiller']": {
+        "prompt": "Fran\u00e7ais: \"livre\" - Suomi: \"kirja\"\nFran\u00e7ais: \"l\u00e8vres\" - Suomi: \"huuli\"\nFran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"cuill\u00e8re\" - Suomi: \"",
+        "target": "['lusikka', 'kapusta']",
+        "word original": "spoon"
+    },
+    "['source', 'origine', 'd\u00e9but', 'racine']": {
+        "prompt": "Fran\u00e7ais: \"paire de ciseaux\" - Suomi: \"sakset\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"vis\" - Suomi: \"ruuvi\"\nFran\u00e7ais: \"a\u00e9roplane\" - Suomi: \"lentokone\"\nFran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"source\" - Suomi: \"",
+        "target": "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde', 'alku', 'alkuper\u00e4', 'juuristo', 'juuri', 'alkul\u00e4hde']",
+        "word original": "spring"
+    },
+    "['carr\u00e9', 'Croisillon', 'croisillon', 'carr\u00e9 en je broertjte']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"veste\" - Suomi: \"takki\"\nFran\u00e7ais: \"arme\" - Suomi: \"ase\"\nFran\u00e7ais: \"volaille\" - Suomi: \"kana\"\nFran\u00e7ais: \"voilier\" - Suomi: \"purjealus\"\nFran\u00e7ais: \"carr\u00e9\" - Suomi: \"",
+        "target": "['ristikkomerkki', 'neli\u00f6', 'nelikulmio', 'Neli\u00f6', 'toinen potenssi']",
+        "word original": "square"
+    },
+    "['timbre-poste', 'timbre', 'timbre postal']": {
+        "prompt": "Fran\u00e7ais: \"arbre\" - Suomi: \"puu\"\nFran\u00e7ais: \"appareil photographique\" - Suomi: \"kamera\"\nFran\u00e7ais: \"source\" - Suomi: \"l\u00e4hde\"\nFran\u00e7ais: \"comit\u00e9\" - Suomi: \"komitea\"\nFran\u00e7ais: \"brosse\" - Suomi: \"harja\"\nFran\u00e7ais: \"timbre-poste\" - Suomi: \"",
+        "target": "['postimerkki', 'merkki']",
+        "word original": "stamp"
+    },
+    "['\u00e9toile', 'superstar', 'sp\u00e9cialiste', 'vedette', 'connaisseur', 'as', 'machine', 'expert', 'champion', 'Maven', 'virtuose', 'g\u00e9nie', 'b\u00eate', 'effet superstar', 'star', 'sommit\u00e9']": {
+        "prompt": "Fran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"cheval\" - Suomi: \"hevonen\"\nFran\u00e7ais: \"main\" - Suomi: \"korttipeli\"\nFran\u00e7ais: \"fourmi\" - Suomi: \"muurahainen\"\nFran\u00e7ais: \"plateau\" - Suomi: \"yl\u00e4nk\u00f6\"\nFran\u00e7ais: \"\u00e9toile\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti', '-niekka', 'supert\u00e4hti', 'ekspertti', 'tuntija', 'asiantuntija', 'taituri', 'taitaja', 'Adepti', '\u00e4ss\u00e4', 'taitoniekka', 'adepti', 'huippu-', 'mestari', 'nero', 'virtuoosi', 'velho', 'huippu']",
+        "word original": "star"
+    },
+    "['station', 'gare', 'gare ferroviaire', 'gare de chemin de fer']": {
+        "prompt": "Fran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"vis\" - Suomi: \"ruuvi\"\nFran\u00e7ais: \"n\u0153ud\" - Suomi: \"varsi\"\nFran\u00e7ais: \"ferme\" - Suomi: \"maatila\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"station\" - Suomi: \"",
+        "target": "['rautatieasema', 'juna-asema', 'junapys\u00e4kki', 'asema']",
+        "word original": "station"
+    },
+    "['tige', 'cylindre']": {
+        "prompt": "Fran\u00e7ais: \"falzar\" - Suomi: \"housut\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Suomi: \"asevoimat\"\nFran\u00e7ais: \"os\" - Suomi: \"k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4\"\nFran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"tige\" - Suomi: \"",
+        "target": "['varsi', 'Varsi', 'lieri\u00f6', 'sylinteri', 'ympyr\u00e4lieri\u00f6', 'valssi']",
+        "word original": "stem"
+    },
+    "['cigare']": {
+        "prompt": "Fran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"fourmi\" - Suomi: \"muurahainen\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"ver\" - Suomi: \"mato\"\nFran\u00e7ais: \"tarif\" - Suomi: \"hinta\"\nFran\u00e7ais: \"cigare\" - Suomi: \"",
+        "target": "['sikari']",
+        "word original": "stick"
+    },
+    "['bas', 'chaussette', 'fond']": {
+        "prompt": "Fran\u00e7ais: \"ile\" - Suomi: \"saari\"\nFran\u00e7ais: \"oreille\" - Suomi: \"korva\"\nFran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"ch\u00e2timent corporel\" - Suomi: \"ruumiinrangaistus\"\nFran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"bas\" - Suomi: \"",
+        "target": "['sukka', 'alap\u00e4\u00e4', 'alaosa', 'alalaita']",
+        "word original": "stocking"
+    },
+    "['estomac', 'ventre']": {
+        "prompt": "Fran\u00e7ais: \"chaussette\" - Suomi: \"sukka\"\nFran\u00e7ais: \"timbre-poste\" - Suomi: \"postimerkki\"\nFran\u00e7ais: \"nerf\" - Suomi: \"hermo\"\nFran\u00e7ais: \"souris\" - Suomi: \"hiiri\"\nFran\u00e7ais: \"pont\" - Suomi: \"silta\"\nFran\u00e7ais: \"estomac\" - Suomi: \"",
+        "target": "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu']",
+        "word original": "stomach"
+    },
+    "['m\u00e9moire', 'm\u00e9moire informatique', 'm\u00e9moire de stockage']": {
+        "prompt": "Fran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"freinage\" - Suomi: \"Jarru\"\nFran\u00e7ais: \"tige\" - Suomi: \"varsi\"\nFran\u00e7ais: \"corps humain\" - Suomi: \"ihmisruumis\"\nFran\u00e7ais: \"chaussette\" - Suomi: \"sukka\"\nFran\u00e7ais: \"m\u00e9moire\" - Suomi: \"",
+        "target": "['muisti', 'Muisti', 'muistaminen', 'muistikortti', 'tietokonemuisti']",
+        "word original": "store"
+    },
+    "['rue', 'route', 'itin\u00e9raire', 'chemin']": {
+        "prompt": "Fran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"nigga\" - Suomi: \"Negridinen rotu\"\nFran\u00e7ais: \"rebord\" - Suomi: \"ikkuna\"\nFran\u00e7ais: \"crayon\" - Suomi: \"lyijykyn\u00e4\"\nFran\u00e7ais: \"corps humain\" - Suomi: \"ihmisruumis\"\nFran\u00e7ais: \"rue\" - Suomi: \"",
+        "target": "['tie', 'maantie', 'reitti', 'katu']",
+        "word original": "street"
+    },
+    "['dimanche', 'jour du Seigneur']": {
+        "prompt": "Fran\u00e7ais: \"fonction\" - Suomi: \"asema\"\nFran\u00e7ais: \"\u0153uf de poule\" - Suomi: \"muna\"\nFran\u00e7ais: \"ongle\" - Suomi: \"kynsi\"\nFran\u00e7ais: \"chaussette\" - Suomi: \"sukka\"\nFran\u00e7ais: \"c\u0153ur\" - Suomi: \"syd\u00e4n\"\nFran\u00e7ais: \"dimanche\" - Suomi: \"",
+        "target": "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']",
+        "word original": "sun"
+    },
+    "['queue', 'verge', 'zob', 'membre', 'p\u00e9nis', 'zizi', 'bite', 'membre viril', \"p\u00e9nis d'oiseau\", 'P\u00e9nis']": {
+        "prompt": "Fran\u00e7ais: \"graine\" - Suomi: \"siemen\"\nFran\u00e7ais: \"fourmi\" - Suomi: \"muurahainen\"\nFran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"moteur\" - Suomi: \"moottori\"\nFran\u00e7ais: \"organisme\" - Suomi: \"virka\"\nFran\u00e7ais: \"queue\" - Suomi: \"",
+        "target": "['siitin', 'penis', 'nahkahuilu', 'sladdi', 'jortikka', 'parru', 'raaja', 'elin', 'veijari', 'kikkeli', 'kulli', 'kyrp\u00e4', 'veitikka', 'meisseli', 'lihatiirikka', 'slerba', 'pikkuveli', 'kolmas jalka', 'slaikka', 'kalu', 'patukka', 'tatti', 'pipuli', 'taikavarpu', 'j\u00e4sen', 'j\u00f6rb\u00e4', 'lerssi', 'jorma', 'vehje', 'lihatikkari', 'slaikkari', 'pensseli', 'kikuli', 'mahtitatti', 'mela', 'pippeli', 'molo', 'heppi', 'etuveitikka', 'muna', 'k\u00f6li', 'mulkku', 'fallos', 'pyrst\u00f6', 'h\u00e4nt\u00e4']",
+        "word original": "tail"
+    },
+    "['fil', 'Elephantidae', 'elephantidae', 'fil textile', 'ficelle', 'corde', 'fil m\u00e9tallique']": {
+        "prompt": "Fran\u00e7ais: \"t\u00e9l\u00e9vision\" - Suomi: \"televisio\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Suomi: \"kirjasto\"\nFran\u00e7ais: \"citaro\" - Suomi: \"munniharppu\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"fil\" - Suomi: \"",
+        "target": "['Norsut', 'norsut', 'Elephantidae-heimo', 'rihma', 'lanka', 'kuitu', 's\u00e4ie', 'naru', 'ny\u00f6ri', 'johdin', 's\u00e4hk\u00f6johto']",
+        "word original": "thread"
+    },
+    "['gorge', 'canyon', 'canon', 'ca\u00f1on', 'pharynx']": {
+        "prompt": "Fran\u00e7ais: \"doigt\" - Suomi: \"keskisormi\"\nFran\u00e7ais: \"ferme\" - Suomi: \"maatila\"\nFran\u00e7ais: \"os\" - Suomi: \"k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4\"\nFran\u00e7ais: \"\u00e9glise\" - Suomi: \"kirkko\"\nFran\u00e7ais: \"angle\" - Suomi: \"suplementtikulmat\"\nFran\u00e7ais: \"gorge\" - Suomi: \"",
+        "target": "['kanjoni', 'rotkolaakso', 'kurkku', 'pharynx', 'nielu']",
+        "word original": "throat"
+    },
+    "['pouce']": {
+        "prompt": "Fran\u00e7ais: \"ile\" - Suomi: \"saari\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"abeille\" - Suomi: \"mehil\u00e4iset\"\nFran\u00e7ais: \"pouce\" - Suomi: \"",
+        "target": "['tuuma', 'XXX', 'peukalo', 'pollex']",
+        "word original": "thumb"
+    },
+    "['tarif', 'prix', 'frais administratifs', 'taxe', 'honoraires']": {
+        "prompt": "Fran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"patate\" - Suomi: \"peruna\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"h\u00f4pital\" - Suomi: \"sairaala\"\nFran\u00e7ais: \"jambe\" - Suomi: \"jalka\"\nFran\u00e7ais: \"tarif\" - Suomi: \"",
+        "target": "['hinta', 'v\u00e4hitt\u00e4ismyyntihinta', 'v\u00e4hitt\u00e4ishinta', 'korvaus', 'maksu', 'palkkio', 'tariffi', 'taksa', 'julkisen liikenteen maksu', 'ajomaksu', 'matkalipun hinta']",
+        "word original": "ticket"
+    },
+    "['orteil', 'doigt', 'dactyle', 'doigt de pied', 'doigts de pied', 'petit orteil']": {
+        "prompt": "Fran\u00e7ais: \"nez\" - Suomi: \"nen\u00e4\"\nFran\u00e7ais: \"peau de pomme\" - Suomi: \"omena\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Suomi: \"rautatieajoneuvo\"\nFran\u00e7ais: \"note\" - Suomi: \"seteli\"\nFran\u00e7ais: \"orteil\" - Suomi: \"",
+        "target": "['varvas', 'sormi']",
+        "word original": "toe"
+    },
+    "['dents', 'dent', 'dent humaine']": {
+        "prompt": "Fran\u00e7ais: \"forces arm\u00e9es\" - Suomi: \"asevoimat\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"couteau\" - Suomi: \"veitsi\"\nFran\u00e7ais: \"arrestation\" - Suomi: \"pid\u00e4tys\"\nFran\u00e7ais: \"peigne\" - Suomi: \"kampa\"\nFran\u00e7ais: \"dents\" - Suomi: \"",
+        "target": "['hammas', 'Hammas']",
+        "word original": "tooth"
+    },
+    "['train', 'convoi', 'vitesse', 'groupe motopropulseur', 'engrenage']": {
+        "prompt": "Fran\u00e7ais: \"oiseau\" - Suomi: \"linnut\"\nFran\u00e7ais: \"anneau\" - Suomi: \"sormus\"\nFran\u00e7ais: \"dimanche\" - Suomi: \"sunnuntai\"\nFran\u00e7ais: \"fille\" - Suomi: \"tytt\u00f6\"\nFran\u00e7ais: \"illustration\" - Suomi: \"piirros\"\nFran\u00e7ais: \"train\" - Suomi: \"",
+        "target": "['juna', 'opettaa', 'harjoittaa', 'voimalinja', 'hammasv\u00e4litys', 'vaihteisto', 'vaihdelaitteisto', 'vaihde', 'voimansiirtolaitteisto', 'vipulaitteisto', 'vaihteet']",
+        "word original": "train"
+    },
+    "['plateau', 'estrade', 'sc\u00e8ne']": {
+        "prompt": "Fran\u00e7ais: \"train\" - Suomi: \"juna\"\nFran\u00e7ais: \"chevelure\" - Suomi: \"karvoitus\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"ferme\" - Suomi: \"maatila\"\nFran\u00e7ais: \"v\u00e9lo\" - Suomi: \"polkupy\u00f6r\u00e4\"\nFran\u00e7ais: \"plateau\" - Suomi: \"",
+        "target": "['yl\u00e4nk\u00f6', 'tasanko', 'laakiomaa', 'n\u00e4ytt\u00e4m\u00f6', 'estradi', 'esiintymislava']",
+        "word original": "tray"
+    },
+    "['arbre']": {
+        "prompt": "Fran\u00e7ais: \"dents\" - Suomi: \"hammas\"\nFran\u00e7ais: \"ongle\" - Suomi: \"kynsi\"\nFran\u00e7ais: \"ile\" - Suomi: \"saari\"\nFran\u00e7ais: \"cercle\" - Suomi: \"ympyr\u00e4\"\nFran\u00e7ais: \"jardin\" - Suomi: \"puutarha\"\nFran\u00e7ais: \"arbre\" - Suomi: \"",
+        "target": "['puu']",
+        "word original": "tree"
+    },
+    "['falzar', 'falzard', 'b\u00e9noche', 'fendard', 'futal', 'fute', 'froc', 'pantalon', 'b\u00e9nard']": {
+        "prompt": "Fran\u00e7ais: \"estomac\" - Suomi: \"vatsa\"\nFran\u00e7ais: \"ch\u00e8vre\" - Suomi: \"vuohi\"\nFran\u00e7ais: \"lit\" - Suomi: \"vuode\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"dimanche\" - Suomi: \"sunnuntai\"\nFran\u00e7ais: \"falzar\" - Suomi: \"",
+        "target": "['housut']",
+        "word original": "trousers"
+    },
+    "['p\u00e9pin', 'parapluie', 'p\u00e9broque', 'riflard', 'en-cas', 'ombrelle']": {
+        "prompt": "Fran\u00e7ais: \"soulier\" - Suomi: \"kenk\u00e4\"\nFran\u00e7ais: \"porc\" - Suomi: \"sika\"\nFran\u00e7ais: \"nourrisson\" - Suomi: \"pikkulapsi\"\nFran\u00e7ais: \"peau\" - Suomi: \"iho\"\nFran\u00e7ais: \"abeille\" - Suomi: \"mehil\u00e4iset\"\nFran\u00e7ais: \"p\u00e9pin\" - Suomi: \"",
+        "target": "['sateenvarjo']",
+        "word original": "umbrella"
+    },
+    "['mur']": {
+        "prompt": "Fran\u00e7ais: \"lavabo\" - Suomi: \"lavuaari\"\nFran\u00e7ais: \"patate\" - Suomi: \"peruna\"\nFran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"psych\u00e9\" - Suomi: \"Nous\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Suomi: \"ampuma-ase\"\nFran\u00e7ais: \"mur\" - Suomi: \"",
+        "target": "['sein\u00e4', 'muuri']",
+        "word original": "wall"
+    },
+    "['bracelet-montre', 'montre', 'montre-bracelet']": {
+        "prompt": "Fran\u00e7ais: \"face\" - Suomi: \"naama\"\nFran\u00e7ais: \"poisson\" - Suomi: \"kala\"\nFran\u00e7ais: \"toilette\" - Suomi: \"pakkeli\"\nFran\u00e7ais: \"pont\" - Suomi: \"silta\"\nFran\u00e7ais: \"\u00e9glise\" - Suomi: \"kirkko\"\nFran\u00e7ais: \"bracelet-montre\" - Suomi: \"",
+        "target": "['rannekello', 'taskukello', 'kello']",
+        "word original": "watch"
+    },
+    "['v\u00e9lo', 'bicyclette', 'petite reine', 'v\u00e9locip\u00e8de', 'motocyclette', 'moto', 'v\u00e9lomoteur', 'motocycle', 'cyclisme', 'Cyclisme f\u00e9minin']": {
+        "prompt": "Fran\u00e7ais: \"cercle\" - Suomi: \"ympyr\u00e4\"\nFran\u00e7ais: \"salle de bain\" - Suomi: \"kylpyhuone\"\nFran\u00e7ais: \"fringue\" - Suomi: \"vaatetus\"\nFran\u00e7ais: \"porc\" - Suomi: \"sika\"\nFran\u00e7ais: \"gant\" - Suomi: \"hansikas\"\nFran\u00e7ais: \"v\u00e9lo\" - Suomi: \"",
+        "target": "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari', 'moottoripy\u00f6r\u00e4', 'py\u00f6r\u00e4ily', 'polkupy\u00f6r\u00e4ily', 'naisten py\u00f6r\u00e4ily', 'moottoripy\u00f6r\u00e4ily']",
+        "word original": "wheel"
+    },
+    "['fouet']": {
+        "prompt": "Fran\u00e7ais: \"timbre-poste\" - Suomi: \"postimerkki\"\nFran\u00e7ais: \"science \u00e9conomique\" - Suomi: \"talosel\u00e4m\u00e4\"\nFran\u00e7ais: \"cou\" - Suomi: \"kaula\"\nFran\u00e7ais: \"graine\" - Suomi: \"siemen\"\nFran\u00e7ais: \"chapeau\" - Suomi: \"hattu\"\nFran\u00e7ais: \"fouet\" - Suomi: \"",
+        "target": "['ruoska', 'piiska']",
+        "word original": "whip"
+    },
+    "['rebord', 'fen\u00eatre', 'rebord de fen\u00eatre', 'marge', 'bord', 'fronti\u00e8re', 'limite']": {
+        "prompt": "Fran\u00e7ais: \"mur\" - Suomi: \"sein\u00e4\"\nFran\u00e7ais: \"organisme\" - Suomi: \"virka\"\nFran\u00e7ais: \"dipt\u00e8re\" - Suomi: \"kaksisiipiset\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Suomi: \"asevoimat\"\nFran\u00e7ais: \"horloge\" - Suomi: \"kello\"\nFran\u00e7ais: \"rebord\" - Suomi: \"",
+        "target": "['ikkuna', 'akkuna', 'reuna', 'ymp\u00e4rys', 'laita']",
+        "word original": "window"
+    },
+    "['aile']": {
+        "prompt": "Fran\u00e7ais: \"caisse\" - Suomi: \"auto\"\nFran\u00e7ais: \"clef\" - Suomi: \"avain\"\nFran\u00e7ais: \"freinage\" - Suomi: \"Jarru\"\nFran\u00e7ais: \"note\" - Suomi: \"seteli\"\nFran\u00e7ais: \"carr\u00e9\" - Suomi: \"ristikkomerkki\"\nFran\u00e7ais: \"aile\" - Suomi: \"",
+        "target": "['siipi']",
+        "word original": "wing"
+    },
+    "['ver']": {
+        "prompt": "Fran\u00e7ais: \"stylographe\" - Suomi: \"t\u00e4ytekyn\u00e4\"\nFran\u00e7ais: \"baie\" - Suomi: \"lahti\"\nFran\u00e7ais: \"nerf\" - Suomi: \"hermo\"\nFran\u00e7ais: \"jardin\" - Suomi: \"puutarha\"\nFran\u00e7ais: \"face\" - Suomi: \"naama\"\nFran\u00e7ais: \"ver\" - Suomi: \"",
+        "target": "['mato', 'toukka']",
+        "word original": "worm"
+    }
+}

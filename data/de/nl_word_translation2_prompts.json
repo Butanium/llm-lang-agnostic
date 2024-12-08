@@ -1,0 +1,847 @@
+{
+    "['Winkel', 'Supplementwinkel']": {
+        "prompt": "Deutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"T\u00fcrfutter\" - Nederlands: \"poort\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Flagge\" - Nederlands: \"vaan\"\nDeutsch: \"Winkel\" - Nederlands: \"",
+        "target": "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek']",
+        "word original": "angle"
+    },
+    "['Ameise', 'Ameisen']": {
+        "prompt": "Deutsch: \"Festnahme\" - Nederlands: \"aanhouding\"\nDeutsch: \"Schw\u00e4mme\" - Nederlands: \"spons\"\nDeutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Ameise\" - Nederlands: \"",
+        "target": "['mier', 'mieren']",
+        "word original": "ant"
+    },
+    "['Apfel', 'Apfelschale']": {
+        "prompt": "Deutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Segelschiff\" - Nederlands: \"zeilschip\"\nDeutsch: \"Festnahme\" - Nederlands: \"aanhouding\"\nDeutsch: \"Hammer\" - Nederlands: \"piano\"\nDeutsch: \"Apfel\" - Nederlands: \"",
+        "target": "['appelschil', 'appel']",
+        "word original": "apple"
+    },
+    "['Bogen', 'totes Holz', 'Papier', 'Totholz', 'Blatt']": {
+        "prompt": "Deutsch: \"Klingel\" - Nederlands: \"deurbel\"\nDeutsch: \"Hund\" - Nederlands: \"hond\"\nDeutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Kirche\" - Nederlands: \"kerk\"\nDeutsch: \"Abbremsen\" - Nederlands: \"rem\"\nDeutsch: \"Bogen\" - Nederlands: \"",
+        "target": "['papier', 'blad', 'velletje', 'blaadje', 'vel', 'boog']",
+        "word original": "arch"
+    },
+    "['Waffe', 'Arm', 'Schusswaffe', 'Feuerwaffe']": {
+        "prompt": "Deutsch: \"Zeh\" - Nederlands: \"digit\"\nDeutsch: \"Hose\" - Nederlands: \"broek\"\nDeutsch: \"Haut\" - Nederlands: \"vel\"\nDeutsch: \"Schusswaffe\" - Nederlands: \"geweer\"\nDeutsch: \"\u00d6konomie\" - Nederlands: \"economie\"\nDeutsch: \"Waffe\" - Nederlands: \"",
+        "target": "['wapen', 'gevechtswapen', 'strijdmiddel', 'geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk']",
+        "word original": "arm"
+    },
+    "['Milit\u00e4r', 'Streitkr\u00e4fte', 'Milit\u00e4rwesen', 'Armee', 'Kriegsmaschinerie']": {
+        "prompt": "Deutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Handschuh\" - Nederlands: \"handschoen\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Milit\u00e4r\" - Nederlands: \"",
+        "target": "['strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e']",
+        "word original": "army"
+    },
+    "['Baby', 'S\u00e4ugling', 'Kleinkind', 'kleines Kind', 'Wickelkind', 'Kind', 'Kriechling']": {
+        "prompt": "Deutsch: \"Schwanz\" - Nederlands: \"jongeheer\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Rechnung\" - Nederlands: \"Hiep\"\nDeutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Baby\" - Nederlands: \"",
+        "target": "['zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje']",
+        "word original": "baby"
+    },
+    "['Fingerring', 'Fingerreif', 'Ring', 'Reif', 'Reifen']": {
+        "prompt": "Deutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Kreis\" - Nederlands: \"district\"\nDeutsch: \"Personalausweis\" - Nederlands: \"identiteitskaart\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Fingerring\" - Nederlands: \"",
+        "target": "['ring']",
+        "word original": "ring"
+    },
+    "['Waschbecken', 'Karsttrichter', 'Doline', 'Schluckloch', 'Senkloch', 'Flussschwinde', 'Erdfall', 'Schwalgloch', 'Schwinde', 'Sinkloch', 'Lavabo', 'Sp\u00fcle', 'Sp\u00fclstein', 'Sp\u00fclbecken']": {
+        "prompt": "Deutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"Engelse voet\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Schw\u00e4mme\" - Nederlands: \"spons\"\nDeutsch: \"Waschbecken\" - Nederlands: \"",
+        "target": "['doline', 'zinkgat', 'bassin', 'wastafel', 'bekken', 'gootsteen', 'afwasbak']",
+        "word original": "basin"
+    },
+    "['Badestube', 'Badeanstalt', 'Badehaus', 'Badezimmer', 'Bad', 'Vorlage:Andere Sprachen']": {
+        "prompt": "Deutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"vulpen\"\nDeutsch: \"Hausziege\" - Nederlands: \"geit\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Badestube\" - Nederlands: \"",
+        "target": "['openbaar bad', 'badhuis', 'wasgelegenheid', 'badkamer', 'badkuip', 'bad']",
+        "word original": "bath"
+    },
+    "['Bett']": {
+        "prompt": "Deutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Klosett\" - Nederlands: \"toilet\"\nDeutsch: \"Waffe\" - Nederlands: \"wapen\"\nDeutsch: \"Flagge\" - Nederlands: \"vaan\"\nDeutsch: \"Bett\" - Nederlands: \"",
+        "target": "['bed', 'legerstede', 'sponde', 'bedstede', 'ledikant', 'nest']",
+        "word original": "bed"
+    },
+    "['Imme', 'Biene', 'Bienen', 'Beivogl']": {
+        "prompt": "Deutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Kreis\" - Nederlands: \"district\"\nDeutsch: \"Schaf\" - Nederlands: \"schaap\"\nDeutsch: \"Motor\" - Nederlands: \"aandrijving\"\nDeutsch: \"Imme\" - Nederlands: \"",
+        "target": "['bij', 'honingbij', 'bijen']",
+        "word original": "bee"
+    },
+    "['Klingel', 'T\u00fcrglocke', 'T\u00fcrklingel', 'Hausglocke']": {
+        "prompt": "Deutsch: \"Kinn\" - Nederlands: \"kin\"\nDeutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Z\u00e4hne\" - Nederlands: \"gebitselement\"\nDeutsch: \"Klingel\" - Nederlands: \"",
+        "target": "['deurbel', 'bel', 'zoemer', 'huisbel', 'schel', 'door Bell', 'ding-dong']",
+        "word original": "bell"
+    },
+    "['V\u00f6gelchen', 'Vogel', 'Piepmatz', 'V\u00f6gel']": {
+        "prompt": "Deutsch: \"Festnahme\" - Nederlands: \"aanhouding\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Schwanz\" - Nederlands: \"jongeheer\"\nDeutsch: \"Boot\" - Nederlands: \"schip\"\nDeutsch: \"Armbanduhr\" - Nederlands: \"polshorloge\"\nDeutsch: \"V\u00f6gelchen\" - Nederlands: \"",
+        "target": "['vogel', 'vogels', 'Eu-', 'vogeltje']",
+        "word original": "bird"
+    },
+    "['Schwert']": {
+        "prompt": "Deutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Armbanduhr\" - Nederlands: \"polshorloge\"\nDeutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Strafanstalt\" - Nederlands: \"nor\"\nDeutsch: \"Pflug\" - Nederlands: \"ploeg\"\nDeutsch: \"Schwert\" - Nederlands: \"",
+        "target": "['zwaard', 'degen']",
+        "word original": "blade"
+    },
+    "['Komitee', 'Kommission', 'Ausschuss', 'Ausschu\u00df']": {
+        "prompt": "Deutsch: \"Personalausweis\" - Nederlands: \"identiteitskaart\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"Badestube\" - Nederlands: \"openbaar bad\"\nDeutsch: \"Strafanstalt\" - Nederlands: \"nor\"\nDeutsch: \"Imme\" - Nederlands: \"bij\"\nDeutsch: \"Komitee\" - Nederlands: \"",
+        "target": "['comit\u00e9', 'commissie', 'kamer', 'cie', 'college']",
+        "word original": "board"
+    },
+    "['Boot', 'Schiff', 'Wasserfahrzeug']": {
+        "prompt": "Deutsch: \"Insel\" - Nederlands: \"eiland\"\nDeutsch: \"Komitee\" - Nederlands: \"comit\u00e9\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"K\u00e4se\" - Nederlands: \"kaas\"\nDeutsch: \"Boot\" - Nederlands: \"",
+        "target": "['schip', 'vaartuig', 'watervaartuig']",
+        "word original": "boat"
+    },
+    "['Bein', 'Knochengewebe', 'Knochen', 'Gebeine', 'Beine', 'menschliches Bein']": {
+        "prompt": "Deutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Bogen\" - Nederlands: \"papier\"\nDeutsch: \"Muskel\" - Nederlands: \"spier\"\nDeutsch: \"Bein\" - Nederlands: \"",
+        "target": "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat', 'benen', 'poot', 'stelt', 'menselijke been', 'onderdanen', 'onderdaan']",
+        "word original": "pin"
+    },
+    "['Buch', 'totes Holz', 'Papier', 'Totholz']": {
+        "prompt": "Deutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Ziegelstein\" - Nederlands: \"klinker\"\nDeutsch: \"Belaubung\" - Nederlands: \"lover\"\nDeutsch: \"Wand\" - Nederlands: \"muur\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Buch\" - Nederlands: \"",
+        "target": "['boek', 'boeken', 'album', 'boekwerk', 'boekje', 'papier']",
+        "word original": "book"
+    },
+    "['Kasten', 'Kaste', 'Schrank', 'Schr\u00e4nkchen', 'Kemenate', 'Kiste']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Regal\" - Nederlands: \"alleenrecht\"\nDeutsch: \"Hammer\" - Nederlands: \"piano\"\nDeutsch: \"Internet\" - Nederlands: \"netwerk\"\nDeutsch: \"Bekleidung\" - Nederlands: \"kledij\"\nDeutsch: \"Kasten\" - Nederlands: \"",
+        "target": "['kastestelsel', 'kaste', 'kastenstelsel', 'kast', 'kleerkast', 'kledingkast', 'kabinet', 'kemenade', 'bergkast', 'kastje', 'dozen', 'doos', 'bak']",
+        "word original": "box"
+    },
+    "['J\u00fcngling', 'Knabe', 'Bub', 'Bursche', 'Junge']": {
+        "prompt": "Deutsch: \"Fisch\" - Nederlands: \"vissen\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Tisch\" - Nederlands: \"tafel\"\nDeutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Gabel\" - Nederlands: \"bestek\"\nDeutsch: \"J\u00fcngling\" - Nederlands: \"",
+        "target": "['joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen']",
+        "word original": "boy"
+    },
+    "['Verstand', 'Nous', 'Psyche', 'Geist', 'Wahrnehmung', 'Vernunft', 'Intellekt']": {
+        "prompt": "Deutsch: \"Knoten\" - Nederlands: \"knoop\"\nDeutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Baum\" - Nederlands: \"boom\"\nDeutsch: \"Verstand\" - Nederlands: \"",
+        "target": "['brein', 'psyche', 'Nous', 'geest', 'nous', 'denkvermogen', 'rede', 'geestvermogen', 'hersenen', 'hersens']",
+        "word original": "head"
+    },
+    "['Abbremsen', 'Bremsen', 'Bremse']": {
+        "prompt": "Deutsch: \"Gabel\" - Nederlands: \"bestek\"\nDeutsch: \"Kinn\" - Nederlands: \"kin\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"\u00d6konomie\" - Nederlands: \"economie\"\nDeutsch: \"Abbremsen\" - Nederlands: \"",
+        "target": "['rem', 'remmen']",
+        "word original": "brake"
+    },
+    "['\u00d6konomie', 'Wirtschaftswissenschaft', '\u00d6konomik', 'politische \u00d6konomie', 'Politische \u00d6konomie', 'Wirtschaftssystem', 'Wirtschaft']": {
+        "prompt": "Deutsch: \"Karren\" - Nederlands: \"kruiwagen\"\nDeutsch: \"Str\u00fcmpfe\" - Nederlands: \"sok\"\nDeutsch: \"Pflug\" - Nederlands: \"ploeg\"\nDeutsch: \"Erdapfel\" - Nederlands: \"patat\"\nDeutsch: \"Abbremsen\" - Nederlands: \"rem\"\nDeutsch: \"\u00d6konomie\" - Nederlands: \"",
+        "target": "['economie', 'politieke economie', 'economisch systeem']",
+        "word original": "branch"
+    },
+    "['Ziegelstein', 'Backstein', 'Mauerziegel', 'Ziegel']": {
+        "prompt": "Deutsch: \"Bett\" - Nederlands: \"bed\"\nDeutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Erdapfel\" - Nederlands: \"patat\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Ziegelstein\" - Nederlands: \"",
+        "target": "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']",
+        "word original": "brick"
+    },
+    "['Br\u00fccke', 'Liste r\u00f6mischer Br\u00fccken']": {
+        "prompt": "Deutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Haut\" - Nederlands: \"vel\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Flagge\" - Nederlands: \"vaan\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"",
+        "target": "['brug', 'lijst van Romeinse bruggen']",
+        "word original": "bridge"
+    },
+    "['B\u00fcrste', 'Pinsel']": {
+        "prompt": "Deutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Bekleidung\" - Nederlands: \"kledij\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"Kuchen\" - Nederlands: \"keuken\"\nDeutsch: \"B\u00fcrste\" - Nederlands: \"",
+        "target": "['borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']",
+        "word original": "brush"
+    },
+    "['Eimer']": {
+        "prompt": "Deutsch: \"Personalausweis\" - Nederlands: \"identiteitskaart\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Z\u00e4hne\" - Nederlands: \"gebitselement\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Eimer\" - Nederlands: \"",
+        "target": "['emmer']",
+        "word original": "bucket"
+    },
+    "['Gl\u00fchbirne', 'Gl\u00fchlampe', 'elektrisches Licht']": {
+        "prompt": "Deutsch: \"Schw\u00e4mme\" - Nederlands: \"spons\"\nDeutsch: \"Internet\" - Nederlands: \"netwerk\"\nDeutsch: \"\u00d6konomie\" - Nederlands: \"economie\"\nDeutsch: \"Knie\" - Nederlands: \"knietje\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Gl\u00fchbirne\" - Nederlands: \"",
+        "target": "['gloeilamp', 'elektrisch licht', 'peer']",
+        "word original": "bulb"
+    },
+    "['Kuchen', 'K\u00fcche', 'Torte', 'Pastete']": {
+        "prompt": "Deutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Ameise\" - Nederlands: \"mier\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Bauch\" - Nederlands: \"maag\"\nDeutsch: \"Bogen\" - Nederlands: \"papier\"\nDeutsch: \"Kuchen\" - Nederlands: \"",
+        "target": "['keuken', 'kookgelegenheid', 'cake', 'taart', 'pastei', 'pie', 'gebak']",
+        "word original": "cake"
+    },
+    "['Fotoapparat', 'Kamera']": {
+        "prompt": "Deutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Samenkorn\" - Nederlands: \"zaad\"\nDeutsch: \"Belaubung\" - Nederlands: \"lover\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"",
+        "target": "['fotocamera', 'camera', 'videocamera', 'filmcamera', 'fototoestel']",
+        "word original": "camera"
+    },
+    "['Personalausweis', 'Ausweis', 'ID', 'Identit\u00e4tskarte']": {
+        "prompt": "Deutsch: \"Schere\" - Nederlands: \"schaar\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Ameise\" - Nederlands: \"mier\"\nDeutsch: \"Tasse\" - Nederlands: \"kop\"\nDeutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Personalausweis\" - Nederlands: \"",
+        "target": "['identiteitskaart', 'legitimatiebewijs', 'stamkaart', 'identiteitsbewijs', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']",
+        "word original": "card"
+    },
+    "['Karren', 'Schubkarre', 'Karette', 'Scheibtruhe', 'Schiebetruhe', 'Karre', 'Handwagen', 'Ochsenwagen', 'Handkarren']": {
+        "prompt": "Deutsch: \"Mund\" - Nederlands: \"mond\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Eimer\" - Nederlands: \"emmer\"\nDeutsch: \"Komitee\" - Nederlands: \"comit\u00e9\"\nDeutsch: \"Zeh\" - Nederlands: \"digit\"\nDeutsch: \"Karren\" - Nederlands: \"",
+        "target": "['kruiwagen', 'duwkar', 'steekkar', 'kar', 'handkar', 'ossenwagen', 'handwagen', 'skelter', 'trapauto']",
+        "word original": "cart"
+    },
+    "['Waggon', 'Eisenbahnwagen', 'Kabine', 'Triebwagen', 'Verbrennungstriebwagen', 'Equipage', 'Kutsche', 'Wagen']": {
+        "prompt": "Deutsch: \"Internet\" - Nederlands: \"netwerk\"\nDeutsch: \"Gaul\" - Nederlands: \"paard\"\nDeutsch: \"Messer\" - Nederlands: \"mes\"\nDeutsch: \"Kinn\" - Nederlands: \"kin\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Waggon\" - Nederlands: \"",
+        "target": "['wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'motorrijtuig', 'railvoertuig', 'motorwagen', 'spoorrijtuig', 'treinwagon', 'koets', 'break', 'brik', 'janplezier']",
+        "word original": "carriage"
+    },
+    "['Hauskatze', 'Katze', 'Mietzekatze', 'Mietze', 'Stubentiger']": {
+        "prompt": "Deutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Z\u00e4hne\" - Nederlands: \"gebitselement\"\nDeutsch: \"Handschuh\" - Nederlands: \"handschoen\"\nDeutsch: \"Hosentasche\" - Nederlands: \"zak\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"Hauskatze\" - Nederlands: \"",
+        "target": "['kat', 'huiskat']",
+        "word original": "cat"
+    },
+    "['K\u00e4se']": {
+        "prompt": "Deutsch: \"Kinn\" - Nederlands: \"kin\"\nDeutsch: \"Festnahme\" - Nederlands: \"aanhouding\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Bauch\" - Nederlands: \"maag\"\nDeutsch: \"Ohren\" - Nederlands: \"oor\"\nDeutsch: \"K\u00e4se\" - Nederlands: \"",
+        "target": "['kaas']",
+        "word original": "cheese"
+    },
+    "['Truhe', 'Koffer']": {
+        "prompt": "Deutsch: \"Augapfel\" - Nederlands: \"oogbol\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"Ziegelstein\" - Nederlands: \"klinker\"\nDeutsch: \"Fisch\" - Nederlands: \"vissen\"\nDeutsch: \"Schwanz\" - Nederlands: \"jongeheer\"\nDeutsch: \"Truhe\" - Nederlands: \"",
+        "target": "['kist']",
+        "word original": "chest"
+    },
+    "['Kinn']": {
+        "prompt": "Deutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Hut\" - Nederlands: \"hoed\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"\u00d6konomie\" - Nederlands: \"economie\"\nDeutsch: \"Kinn\" - Nederlands: \"",
+        "target": "['kin', 'kinnebak']",
+        "word original": "chin"
+    },
+    "['Kirche', 'Kirchengeb\u00e4ude']": {
+        "prompt": "Deutsch: \"Nase\" - Nederlands: \"neus\"\nDeutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Kuchen\" - Nederlands: \"keuken\"\nDeutsch: \"Kirche\" - Nederlands: \"",
+        "target": "['kerk', 'kerkgebouw', 'godshuis']",
+        "word original": "church"
+    },
+    "['Kreis', 'Territorium', 'Machtgebiet', 'Einflussbereich', 'Stadtteil', 'Bezirk', 'Distrikt', 'Dominion', 'Stadtviertel', 'Herrschaftsgebiet', 'Landkreis', 'Stadtbezirk']": {
+        "prompt": "Deutsch: \"Samenkorn\" - Nederlands: \"zaad\"\nDeutsch: \"Str\u00fcmpfe\" - Nederlands: \"sok\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Winkel\" - Nederlands: \"hoek\"\nDeutsch: \"Hose\" - Nederlands: \"broek\"\nDeutsch: \"Kreis\" - Nederlands: \"",
+        "target": "['district', 'grondgebied', 'territorium', 'regio', 'gebied', 'rayon', 'werkgebied', 'kring', 'cirkel']",
+        "word original": "circle"
+    },
+    "['Uhr', 'Armbanduhr', 'Taschenuhr oder Armbanduhr']": {
+        "prompt": "Deutsch: \"Belaubung\" - Nederlands: \"lover\"\nDeutsch: \"Flagge\" - Nederlands: \"vaan\"\nDeutsch: \"Humanphysiologie\" - Nederlands: \"menselijke verrichtingsleer\"\nDeutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Internet\" - Nederlands: \"netwerk\"\nDeutsch: \"Uhr\" - Nederlands: \"",
+        "target": "['uurwerk', 'klok', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje']",
+        "word original": "clock"
+    },
+    "['Wolke', 'Gew\u00f6lk']": {
+        "prompt": "Deutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Z\u00e4hne\" - Nederlands: \"gebitselement\"\nDeutsch: \"Humanphysiologie\" - Nederlands: \"menselijke verrichtingsleer\"\nDeutsch: \"Abbremsen\" - Nederlands: \"rem\"\nDeutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Wolke\" - Nederlands: \"",
+        "target": "['wolk']",
+        "word original": "cloud"
+    },
+    "['Jacke', 'Mantel']": {
+        "prompt": "Deutsch: \"Hausziege\" - Nederlands: \"geit\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"Belaubung\" - Nederlands: \"lover\"\nDeutsch: \"Jacke\" - Nederlands: \"",
+        "target": "['jas', 'jack', 'mantel', 'overjas']",
+        "word original": "coat"
+    },
+    "['Festnahme', 'Fang', 'Beschlagnahme', 'Erfassung', 'Gefangennahme']": {
+        "prompt": "Deutsch: \"Hosentasche\" - Nederlands: \"zak\"\nDeutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Humanphysiologie\" - Nederlands: \"menselijke verrichtingsleer\"\nDeutsch: \"Schaf\" - Nederlands: \"schaap\"\nDeutsch: \"Festnahme\" - Nederlands: \"",
+        "target": "['aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand']",
+        "word original": "collar"
+    },
+    "['Hausrind', 'Rind', 'Rindvieh', 'K\u00fche', 'Rinder', 'Bos taurus']": {
+        "prompt": "Deutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Knie\" - Nederlands: \"knietje\"\nDeutsch: \"Schwanz\" - Nederlands: \"jongeheer\"\nDeutsch: \"Z\u00fcndholz\" - Nederlands: \"zwavelstokje\"\nDeutsch: \"Hausrind\" - Nederlands: \"",
+        "target": "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['Tasse', 'Trinkglas', 'Trinkschale', 'Pokal', 'Henkelbecher', 'Becher']": {
+        "prompt": "Deutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Schiff\" - Nederlands: \"schip\"\nDeutsch: \"Augapfel\" - Nederlands: \"oogbol\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Tasse\" - Nederlands: \"",
+        "target": "['kop', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'mok']",
+        "word original": "cup"
+    },
+    "['Vorhang', 'Schleier', 'Kopfbedeckung', 'Gardine', 'Fensterdekoration']": {
+        "prompt": "Deutsch: \"Fliege\" - Nederlands: \"vlieg\"\nDeutsch: \"Schwanz\" - Nederlands: \"jongeheer\"\nDeutsch: \"Kinn\" - Nederlands: \"kin\"\nDeutsch: \"Kirche\" - Nederlands: \"kerk\"\nDeutsch: \"Schusswaffe\" - Nederlands: \"geweer\"\nDeutsch: \"Vorhang\" - Nederlands: \"",
+        "target": "['sluier', 'gordijn', 'voorhangsel', 'lijkkleed', 'doek']",
+        "word original": "curtain"
+    },
+    "['Sto\u00dfd\u00e4mpfer', 'Schlag']": {
+        "prompt": "Deutsch: \"Personalausweis\" - Nederlands: \"identiteitskaart\"\nDeutsch: \"Badestube\" - Nederlands: \"openbaar bad\"\nDeutsch: \"Internet\" - Nederlands: \"netwerk\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"",
+        "target": "['schokbreker', 'schokdemper', 'schok', 'kussen']",
+        "word original": "cushion"
+    },
+    "['Hund', 'Wauwau', 'K\u00f6ter', 'T\u00f6le', 'Canis lupus familiaris', 'Haushund']": {
+        "prompt": "Deutsch: \"Handschuh\" - Nederlands: \"handschoen\"\nDeutsch: \"Hammer\" - Nederlands: \"piano\"\nDeutsch: \"Schiff\" - Nederlands: \"schip\"\nDeutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Hund\" - Nederlands: \"",
+        "target": "['hond', 'Canis lupus familiaris', 'joekel']",
+        "word original": "dog"
+    },
+    "['T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcr', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Bauernhof\" - Nederlands: \"boerenbedrijf\"\nDeutsch: \"Fl\u00fcgel\" - Nederlands: \"vleugel\"\nDeutsch: \"Boot\" - Nederlands: \"schip\"\nDeutsch: \"V\u00f6gelchen\" - Nederlands: \"vogel\"\nDeutsch: \"Strahlen\" - Nederlands: \"pluim\"\nDeutsch: \"T\u00fcrfutter\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur']",
+        "word original": "door"
+    },
+    "['T\u00fcr', 'T\u00fcrfutter', 'T\u00fcrrahmen', 'Tor', 'T\u00fcrzarge', 'T\u00fcren', 'T\u00fcre']": {
+        "prompt": "Deutsch: \"Bett\" - Nederlands: \"bed\"\nDeutsch: \"Funktion\" - Nederlands: \"functie\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Eimer\" - Nederlands: \"emmer\"\nDeutsch: \"Wasserrohr\" - Nederlands: \"waterleiding\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"",
+        "target": "['poort', 'portier', 'deur']",
+        "word original": "drain"
+    },
+    "['Abbildung', 'Funktion', 'Zeichnung', 'Bild', 'Abbild']": {
+        "prompt": "Deutsch: \"Waggon\" - Nederlands: \"wagon\"\nDeutsch: \"Fl\u00fcgel\" - Nederlands: \"vleugel\"\nDeutsch: \"Eimer\" - Nederlands: \"emmer\"\nDeutsch: \"Zeh\" - Nederlands: \"digit\"\nDeutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Abbildung\" - Nederlands: \"",
+        "target": "['functie', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie', 'tekening', 'tekenkunst', 'prent', 'illustratie', 'figuur', 'portret', 'plaatje']",
+        "word original": "drawer"
+    },
+    "['Bekleidung', 'Kleider', 'Gewandung', 'Kleidungsst\u00fcck', 'Kleidung']": {
+        "prompt": "Deutsch: \"Winkel\" - Nederlands: \"hoek\"\nDeutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Karren\" - Nederlands: \"kruiwagen\"\nDeutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Bekleidung\" - Nederlands: \"",
+        "target": "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed']",
+        "word original": "dress"
+    },
+    "['Regentropfen', 'Tropfen']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - Nederlands: \"Engelse voet\"\nDeutsch: \"Ohren\" - Nederlands: \"oor\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Funktion\" - Nederlands: \"functie\"\nDeutsch: \"Tisch\" - Nederlands: \"tafel\"\nDeutsch: \"Regentropfen\" - Nederlands: \"",
+        "target": "['druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop']",
+        "word original": "drop"
+    },
+    "['Ohren', 'Ohr']": {
+        "prompt": "Deutsch: \"Bauch\" - Nederlands: \"maag\"\nDeutsch: \"Fl\u00fcgel\" - Nederlands: \"vleugel\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Bleistift\" - Nederlands: \"crayon\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Ohren\" - Nederlands: \"",
+        "target": "['oor', 'oren', 'gehoororgaan']",
+        "word original": "ear"
+    },
+    "['H\u00fchnerei', 'Ei']": {
+        "prompt": "Deutsch: \"Motor\" - Nederlands: \"aandrijving\"\nDeutsch: \"Gabel\" - Nederlands: \"bestek\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"H\u00fchnerei\" - Nederlands: \"",
+        "target": "['ei', 'kippenei']",
+        "word original": "egg"
+    },
+    "['Motor', 'Triebwerk', 'Antrieb']": {
+        "prompt": "Deutsch: \"Schiff\" - Nederlands: \"schip\"\nDeutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Boot\" - Nederlands: \"schip\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Motor\" - Nederlands: \"",
+        "target": "['aandrijving', 'locomotief', 'elektromotor']",
+        "word original": "engine"
+    },
+    "['Augapfel', 'Auge', 'Augen']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Augapfel\" - Nederlands: \"",
+        "target": "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']",
+        "word original": "eye"
+    },
+    "['Visage', 'Angesicht', 'Antlitz', 'Gesicht']": {
+        "prompt": "Deutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Armbanduhr\" - Nederlands: \"polshorloge\"\nDeutsch: \"Vorhang\" - Nederlands: \"sluier\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Schl\u00fcssel\" - Nederlands: \"sleutel\"\nDeutsch: \"Visage\" - Nederlands: \"",
+        "target": "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']",
+        "word original": "face"
+    },
+    "['Bauernhof', 'Farm']": {
+        "prompt": "Deutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Baum\" - Nederlands: \"boom\"\nDeutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Schusswaffe\" - Nederlands: \"geweer\"\nDeutsch: \"Eimer\" - Nederlands: \"emmer\"\nDeutsch: \"Bauernhof\" - Nederlands: \"",
+        "target": "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee']",
+        "word original": "farm"
+    },
+    "['Strahlen', 'Feder', 'Gefieder', 'Federschmuck', 'Federkleid', 'Vogelgefieder']": {
+        "prompt": "Deutsch: \"Hosentasche\" - Nederlands: \"zak\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Karren\" - Nederlands: \"kruiwagen\"\nDeutsch: \"Milit\u00e4r\" - Nederlands: \"strijdkrachten\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Strahlen\" - Nederlands: \"",
+        "target": "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder']",
+        "word original": "feather"
+    },
+    "['Fingerchen', 'Finger']": {
+        "prompt": "Deutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Muskel\" - Nederlands: \"spier\"\nDeutsch: \"Bogen\" - Nederlands: \"papier\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Fingerchen\" - Nederlands: \"",
+        "target": "['vinger']",
+        "word original": "finger"
+    },
+    "['Fisch', 'Fische', 'Speisefisch', 'Pisces']": {
+        "prompt": "Deutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"Ziegelstein\" - Nederlands: \"klinker\"\nDeutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Teekessel\" - Nederlands: \"theeketel\"\nDeutsch: \"Fisch\" - Nederlands: \"",
+        "target": "['vissen', 'vis', 'Pisces']",
+        "word original": "fish"
+    },
+    "['Flagge']": {
+        "prompt": "Deutsch: \"Internet\" - Nederlands: \"netwerk\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Hals\" - Nederlands: \"nek\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Badestube\" - Nederlands: \"openbaar bad\"\nDeutsch: \"Flagge\" - Nederlands: \"",
+        "target": "['vaan', 'vlag']",
+        "word original": "flag"
+    },
+    "['Tal', 'Senke']": {
+        "prompt": "Deutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Tal\" - Nederlands: \"",
+        "target": "['dal', 'vallei']",
+        "word original": "floor"
+    },
+    "['Fliege', 'Zweifl\u00fcgler']": {
+        "prompt": "Deutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"Flagge\" - Nederlands: \"vaan\"\nDeutsch: \"Pfeife\" - Nederlands: \"pijp\"\nDeutsch: \"Haut\" - Nederlands: \"vel\"\nDeutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Fliege\" - Nederlands: \"",
+        "target": "['vlieg', 'tweevleugeligen']",
+        "word original": "fly"
+    },
+    "['Fu\u00df', 'Pes']": {
+        "prompt": "Deutsch: \"Segelschiff\" - Nederlands: \"zeilschip\"\nDeutsch: \"Hammer\" - Nederlands: \"piano\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"vulpen\"\nDeutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"",
+        "target": "['Engelse voet', 'voeten', 'voet', 'poot', 'pootje']",
+        "word original": "foot"
+    },
+    "['Gabel', 'Besteck', 'Essbesteck', 'Pommesgabel']": {
+        "prompt": "Deutsch: \"Vorhang\" - Nederlands: \"sluier\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Hals\" - Nederlands: \"nek\"\nDeutsch: \"Fingernagel\" - Nederlands: \"vingernagel\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Gabel\" - Nederlands: \"",
+        "target": "['bestek', 'couvert', 'tafelgerei', 'tafelgarnituur', 'vork', 'splitsing']",
+        "word original": "fork"
+    },
+    "['Gefl\u00fcgel', 'Galloanserae']": {
+        "prompt": "Deutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Z\u00e4hne\" - Nederlands: \"gebitselement\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Gefl\u00fcgel\" - Nederlands: \"",
+        "target": "['gevogelte', 'pluimvee', 'Galloanserae', 'hoen', 'huishen', 'hoentje', 'hen', 'kip']",
+        "word original": "fowl"
+    },
+    "['Humanphysiologie', 'menschlicher K\u00f6rper', 'Figur', 'Gestalt', 'Bau', 'Statur', 'Form', 'K\u00f6rperbau']": {
+        "prompt": "Deutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"Schl\u00fcssel\" - Nederlands: \"sleutel\"\nDeutsch: \"Schwanz\" - Nederlands: \"jongeheer\"\nDeutsch: \"Humanphysiologie\" - Nederlands: \"",
+        "target": "['menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']",
+        "word original": "frame"
+    },
+    "['Garten']": {
+        "prompt": "Deutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Garten\" - Nederlands: \"",
+        "target": "['tuin', 'hof']",
+        "word original": "garden"
+    },
+    "['M\u00e4dchen', 'Fr\u00e4ulein', 'Frau', 'Weib', 'Weibsperson', 'Dame', 'Frauenzimmer', 'weibliches Geschlecht', 'Weibchen', 'weiblicher Mensch', 'Freundin']": {
+        "prompt": "Deutsch: \"Kreis\" - Nederlands: \"district\"\nDeutsch: \"Segelschiff\" - Nederlands: \"zeilschip\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Funktion\" - Nederlands: \"functie\"\nDeutsch: \"Klosett\" - Nederlands: \"toilet\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"",
+        "target": "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw', 'dame', 'mevrouw', 'juffrouw', 'vrouwelijk', 'vrouwelijk organisme', 'vrouwelijk mens', 'zij', 'vriendin', 'vriendinnetje', 'grietje']",
+        "word original": "girl"
+    },
+    "['Handschuh']": {
+        "prompt": "Deutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Motor\" - Nederlands: \"aandrijving\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Wand\" - Nederlands: \"muur\"\nDeutsch: \"Handschuh\" - Nederlands: \"",
+        "target": "['handschoen', 'want']",
+        "word original": "glove"
+    },
+    "['Hausziege', 'Ziege']": {
+        "prompt": "Deutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Segelschiff\" - Nederlands: \"zeilschip\"\nDeutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Schwert\" - Nederlands: \"zwaard\"\nDeutsch: \"Schaf\" - Nederlands: \"schaap\"\nDeutsch: \"Hausziege\" - Nederlands: \"",
+        "target": "['geit', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['Schusswaffe', 'Feuerwaffe']": {
+        "prompt": "Deutsch: \"Kuchen\" - Nederlands: \"keuken\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"vulpen\"\nDeutsch: \"Drommeter\" - Nederlands: \"trompet\"\nDeutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Schusswaffe\" - Nederlands: \"",
+        "target": "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk']",
+        "word original": "gun"
+    },
+    "['Haar', 'Haupthaar', 'Kopfhaar']": {
+        "prompt": "Deutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Nerv\" - Nederlands: \"zenuw\"\nDeutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Schusswaffe\" - Nederlands: \"geweer\"\nDeutsch: \"Haar\" - Nederlands: \"",
+        "target": "['kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']",
+        "word original": "root"
+    },
+    "['Hammer', 'Piano', 'Pianoforte', 'Klavier']": {
+        "prompt": "Deutsch: \"Eimer\" - Nederlands: \"emmer\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Haus\" - Nederlands: \"optrekje\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Zigarre\" - Nederlands: \"sigaar\"\nDeutsch: \"Hammer\" - Nederlands: \"",
+        "target": "['piano', 'pianoforte', 'klavierinstrument', 'klavier', 'tingeltangel', 'pianino', 'vuisthamer', 'hamer', 'vuist']",
+        "word original": "hammer"
+    },
+    "['Hand']": {
+        "prompt": "Deutsch: \"Mund\" - Nederlands: \"mond\"\nDeutsch: \"Jacke\" - Nederlands: \"jas\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"Visage\" - Nederlands: \"tronie\"\nDeutsch: \"Affe\" - Nederlands: \"aap\"\nDeutsch: \"Hand\" - Nederlands: \"",
+        "target": "['klauw', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken']",
+        "word original": "hand"
+    },
+    "['Hut', 'Kopfbedeckung', 'Chapeau!', 'Kappe', 'M\u00fctze']": {
+        "prompt": "Deutsch: \"Hose\" - Nederlands: \"broek\"\nDeutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Waschbecken\" - Nederlands: \"doline\"\nDeutsch: \"Baby\" - Nederlands: \"zuigeling\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Hut\" - Nederlands: \"",
+        "target": "['hoed', 'Chapeau!']",
+        "word original": "hat"
+    },
+    "['Herz', 'Philia', 'Affektion', 'Zuneigung']": {
+        "prompt": "Deutsch: \"Bett\" - Nederlands: \"bed\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Peitsche\" - Nederlands: \"zweep\"\nDeutsch: \"B\u00fcrste\" - Nederlands: \"borstel\"\nDeutsch: \"Kirche\" - Nederlands: \"kerk\"\nDeutsch: \"Herz\" - Nederlands: \"",
+        "target": "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid']",
+        "word original": "pump"
+    },
+    "['Drommeter', 'Kornett', 'Trompete', 'Maultrommel', 'Trompeter', 'Drommete']": {
+        "prompt": "Deutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Augapfel\" - Nederlands: \"oogbol\"\nDeutsch: \"Imme\" - Nederlands: \"bij\"\nDeutsch: \"T\u00fcr\" - Nederlands: \"poort\"\nDeutsch: \"Schw\u00e4mme\" - Nederlands: \"spons\"\nDeutsch: \"Drommeter\" - Nederlands: \"",
+        "target": "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']",
+        "word original": "horn"
+    },
+    "['Gaul', 'Pferd', 'Ross', 'Hauspferd']": {
+        "prompt": "Deutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Hospital\" - Nederlands: \"verpleeginrichting\"\nDeutsch: \"Hammer\" - Nederlands: \"piano\"\nDeutsch: \"Nase\" - Nederlands: \"neus\"\nDeutsch: \"Belaubung\" - Nederlands: \"lover\"\nDeutsch: \"Gaul\" - Nederlands: \"",
+        "target": "['paard', 'peerd', 'viervoeter', 'ros']",
+        "word original": "horse"
+    },
+    "['Hospital', 'Krankenhaus', 'Klinik']": {
+        "prompt": "Deutsch: \"Bauch\" - Nederlands: \"maag\"\nDeutsch: \"Peitsche\" - Nederlands: \"zweep\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Hosentasche\" - Nederlands: \"zak\"\nDeutsch: \"Hospital\" - Nederlands: \"",
+        "target": "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']",
+        "word original": "hospital"
+    },
+    "['Haus', 'Zuhause', 'Heim', 'Domizil', 'Nest', 'Behausung', 'Elternhaus', 'Wohnsitz', 'Wohnhaus', 'Wohnung', 'Wohnst\u00e4tte']": {
+        "prompt": "Deutsch: \"Schwert\" - Nederlands: \"zwaard\"\nDeutsch: \"Briefmarke\" - Nederlands: \"postzegel\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Haus\" - Nederlands: \"",
+        "target": "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte']",
+        "word original": "house"
+    },
+    "['Insel', 'Eiland']": {
+        "prompt": "Deutsch: \"Rechnung\" - Nederlands: \"Hiep\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"T\u00fcrfutter\" - Nederlands: \"poort\"\nDeutsch: \"Nase\" - Nederlands: \"neus\"\nDeutsch: \"V\u00f6gelchen\" - Nederlands: \"vogel\"\nDeutsch: \"Insel\" - Nederlands: \"",
+        "target": "['eiland', 'enclave']",
+        "word original": "island"
+    },
+    "['Juwel', 'Schmuckstein', 'Edelstein', 'Kleinod']": {
+        "prompt": "Deutsch: \"Zeh\" - Nederlands: \"digit\"\nDeutsch: \"Uhr\" - Nederlands: \"uurwerk\"\nDeutsch: \"\u00d6konomie\" - Nederlands: \"economie\"\nDeutsch: \"Badestube\" - Nederlands: \"openbaar bad\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Juwel\" - Nederlands: \"",
+        "target": "['edelsteen', 'ruwe (half)edelsteen', 'steen']",
+        "word original": "jewel"
+    },
+    "['Teekessel', 'Kochtopf', 'Pfeifkessel', 'Kessel', 'Wasserkessel']": {
+        "prompt": "Deutsch: \"Abbremsen\" - Nederlands: \"rem\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Schwert\" - Nederlands: \"zwaard\"\nDeutsch: \"Fisch\" - Nederlands: \"vissen\"\nDeutsch: \"Strasse\" - Nederlands: \"baan\"\nDeutsch: \"Teekessel\" - Nederlands: \"",
+        "target": "['theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']",
+        "word original": "kettle"
+    },
+    "['Schl\u00fcssel', 'Schraubenschl\u00fcssel']": {
+        "prompt": "Deutsch: \"Affe\" - Nederlands: \"aap\"\nDeutsch: \"Quadrat\" - Nederlands: \"hekje\"\nDeutsch: \"Dach\" - Nederlands: \"dak\"\nDeutsch: \"Winkel\" - Nederlands: \"hoek\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Schl\u00fcssel\" - Nederlands: \"",
+        "target": "['sleutel', 'toets', 'Engelse sleutel', 'steeksleutel', 'moersleutel', 'schroefsleutel', 'fietssleutel', 'moeilijk afscheid', 'verdriet', 'ruk']",
+        "word original": "key"
+    },
+    "['Knie', 'Kniegelenk']": {
+        "prompt": "Deutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"vulpen\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"Fl\u00fcgel\" - Nederlands: \"vleugel\"\nDeutsch: \"Schwert\" - Nederlands: \"zwaard\"\nDeutsch: \"Knie\" - Nederlands: \"",
+        "target": "['knietje']",
+        "word original": "knee"
+    },
+    "['Messer']": {
+        "prompt": "Deutsch: \"Hut\" - Nederlands: \"hoed\"\nDeutsch: \"Ohren\" - Nederlands: \"oor\"\nDeutsch: \"Nase\" - Nederlands: \"neus\"\nDeutsch: \"Vorhang\" - Nederlands: \"sluier\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Messer\" - Nederlands: \"",
+        "target": "['mes']",
+        "word original": "knife"
+    },
+    "['Knoten']": {
+        "prompt": "Deutsch: \"Fu\u00df\" - Nederlands: \"Engelse voet\"\nDeutsch: \"Str\u00fcmpfe\" - Nederlands: \"sok\"\nDeutsch: \"Pflug\" - Nederlands: \"ploeg\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Funktion\" - Nederlands: \"functie\"\nDeutsch: \"Knoten\" - Nederlands: \"",
+        "target": "['knoop']",
+        "word original": "knot"
+    },
+    "['Belaubung', 'Blattwerk', 'Blatt', 'Laub', 'Laubwerk', 'Bl\u00e4tterwerk', 'Laphi']": {
+        "prompt": "Deutsch: \"Maus\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"K\u00e4se\" - Nederlands: \"kaas\"\nDeutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"Augapfel\" - Nederlands: \"oogbol\"\nDeutsch: \"Belaubung\" - Nederlands: \"",
+        "target": "['lover', 'gebladerte', 'blad', 'Laphi', 'blaadje']",
+        "word original": "leaf"
+    },
+    "['Television', 'Video', 'Fernsehen', 'Videotechnik', 'TV-Ger\u00e4t', 'Fernseher', 'Fernsehapparat', 'Fernsehempf\u00e4nger', 'Fernsehger\u00e4t']": {
+        "prompt": "Deutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Briefmarke\" - Nederlands: \"postzegel\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"Television\" - Nederlands: \"",
+        "target": "['video', 'televisie', 'videotechniek', 'kijkbuis', 'beeldomroep', 'televisietoestel', 'buis', 'tv', 'televisieontvanger', 'teeveetoestel', 'beeldbuis', 'kijkdoos', 'kastje', 'televisie-ontvanger', 't.v.', 'teevee', 'treurbuis', 'kijkkast']",
+        "word original": "line"
+    },
+    "['Lippe']": {
+        "prompt": "Deutsch: \"Fisch\" - Nederlands: \"vissen\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Schaf\" - Nederlands: \"schaap\"\nDeutsch: \"Erdapfel\" - Nederlands: \"patat\"\nDeutsch: \"Badestube\" - Nederlands: \"openbaar bad\"\nDeutsch: \"Lippe\" - Nederlands: \"",
+        "target": "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']",
+        "word original": "lip"
+    },
+    "['Funktion', 'Abbildung']": {
+        "prompt": "Deutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Bureau\" - Nederlands: \"kantoor\"\nDeutsch: \"Hospital\" - Nederlands: \"verpleeginrichting\"\nDeutsch: \"Nerv\" - Nederlands: \"zenuw\"\nDeutsch: \"Funktion\" - Nederlands: \"",
+        "target": "['functie', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie']",
+        "word original": "map"
+    },
+    "['Z\u00fcndholz', 'Streichholz', 'H\u00f6lzchen']": {
+        "prompt": "Deutsch: \"Klosett\" - Nederlands: \"toilet\"\nDeutsch: \"Hospital\" - Nederlands: \"verpleeginrichting\"\nDeutsch: \"Klingel\" - Nederlands: \"deurbel\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Z\u00fcndholz\" - Nederlands: \"",
+        "target": "['zwavelstokje', 'lucifer']",
+        "word original": "match"
+    },
+    "['Affe']": {
+        "prompt": "Deutsch: \"Jacke\" - Nederlands: \"jas\"\nDeutsch: \"Augapfel\" - Nederlands: \"oogbol\"\nDeutsch: \"Uhr\" - Nederlands: \"uurwerk\"\nDeutsch: \"Imme\" - Nederlands: \"bij\"\nDeutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Affe\" - Nederlands: \"",
+        "target": "['aap', 'apen']",
+        "word original": "monkey"
+    },
+    "['Mond', 'Monat']": {
+        "prompt": "Deutsch: \"Muskel\" - Nederlands: \"spier\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Hausziege\" - Nederlands: \"geit\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Pfeife\" - Nederlands: \"pijp\"\nDeutsch: \"Mond\" - Nederlands: \"",
+        "target": "['maand', 'kalendermaand']",
+        "word original": "moon"
+    },
+    "['Mund', 'Schnauze', 'Mundh\u00f6hle', 'Maul']": {
+        "prompt": "Deutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Motor\" - Nederlands: \"aandrijving\"\nDeutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Armbanduhr\" - Nederlands: \"polshorloge\"\nDeutsch: \"Mund\" - Nederlands: \"",
+        "target": "['mond', 'bek', 'muil', 'riviermond', 'monding', 'reukorgaan', 'snufferd', 'snotkoker', 'neus']",
+        "word original": "mouth"
+    },
+    "['Muskel']": {
+        "prompt": "Deutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Schiff\" - Nederlands: \"schip\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Fl\u00fcgel\" - Nederlands: \"vleugel\"\nDeutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"Muskel\" - Nederlands: \"",
+        "target": "['spier', 'spierweefsel']",
+        "word original": "muscle"
+    },
+    "['Fingernagel', 'Nagel']": {
+        "prompt": "Deutsch: \"Uhr\" - Nederlands: \"uurwerk\"\nDeutsch: \"Festnahme\" - Nederlands: \"aanhouding\"\nDeutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Fingernagel\" - Nederlands: \"",
+        "target": "['vingernagel', 'nagel']",
+        "word original": "nail"
+    },
+    "['Hals', 'Nacken', 'Genick']": {
+        "prompt": "Deutsch: \"Kehle\" - Nederlands: \"hals\"\nDeutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Fingernagel\" - Nederlands: \"vingernagel\"\nDeutsch: \"Hals\" - Nederlands: \"",
+        "target": "['nek', 'flessenhals']",
+        "word original": "neck"
+    },
+    "['Nerv']": {
+        "prompt": "Deutsch: \"Daumen\" - Nederlands: \"duim\"\nDeutsch: \"Kirche\" - Nederlands: \"kerk\"\nDeutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Quadrat\" - Nederlands: \"hekje\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Nerv\" - Nederlands: \"",
+        "target": "['zenuw']",
+        "word original": "nerve"
+    },
+    "['Internet', 'Netzwerk', 'Rechnernetz', 'Computernetzwerk', 'Netz', 'Cyberspace']": {
+        "prompt": "Deutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Hemd\" - Nederlands: \"shirt\"\nDeutsch: \"L\u00f6ffel\" - Nederlands: \"lepel\"\nDeutsch: \"Kreis\" - Nederlands: \"district\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Internet\" - Nederlands: \"",
+        "target": "['netwerk', 'computernetwerk', 'cyberspace']",
+        "word original": "net"
+    },
+    "['Nase']": {
+        "prompt": "Deutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Jacke\" - Nederlands: \"jas\"\nDeutsch: \"Garn\" - Nederlands: \"garen\"\nDeutsch: \"Z\u00fcndholz\" - Nederlands: \"zwavelstokje\"\nDeutsch: \"Nase\" - Nederlands: \"",
+        "target": "['neus', 'snufferd', 'snotkoker', 'reukorgaan']",
+        "word original": "nose"
+    },
+    "['Mutter', 'Mutterschaft', 'Schraubenmutter']": {
+        "prompt": "Deutsch: \"Garn\" - Nederlands: \"garen\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Schwert\" - Nederlands: \"zwaard\"\nDeutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Hausziege\" - Nederlands: \"geit\"\nDeutsch: \"Mutter\" - Nederlands: \"",
+        "target": "['moeder', 'moederschap', 'moes', 'moesje', 'moederlief', 'mam', 'mama', 'ma', 'mammie', 'moe', 'mamma', 'moer', 'Moer', 'teelbal', 'zot', 'zottin', 'kop', 'gekkin', 'gek', 'bal']",
+        "word original": "nut"
+    },
+    "['Bureau', 'Autorit\u00e4t', 'Amt', 'Koryph\u00e4e', 'B\u00fcro', 'Beh\u00f6rde', 'Kontor']": {
+        "prompt": "Deutsch: \"K\u00e4se\" - Nederlands: \"kaas\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Schere\" - Nederlands: \"schaar\"\nDeutsch: \"Ohren\" - Nederlands: \"oor\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Bureau\" - Nederlands: \"",
+        "target": "['kantoor', 'autoriteit', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling']",
+        "word original": "office"
+    },
+    "['Ofen', 'Backofen']": {
+        "prompt": "Deutsch: \"Bauch\" - Nederlands: \"maag\"\nDeutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Wasserrohr\" - Nederlands: \"waterleiding\"\nDeutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Hose\" - Nederlands: \"broek\"\nDeutsch: \"Ofen\" - Nederlands: \"",
+        "target": "['bakoven', 'oven', 'kachel', 'haard', 'verwarmingstoestel', 'kacheltje']",
+        "word original": "oven"
+    },
+    "['F\u00fcller', 'F\u00fcllfederhalter', 'Feder', 'Schreibstift']": {
+        "prompt": "Deutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"",
+        "target": "['vulpen', 'pen']",
+        "word original": "pen"
+    },
+    "['Bleistift']": {
+        "prompt": "Deutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Daumen\" - Nederlands: \"duim\"\nDeutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"Briefmarke\" - Nederlands: \"postzegel\"\nDeutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Bleistift\" - Nederlands: \"",
+        "target": "['crayon', 'potlood', 'kwastje', 'penseel']",
+        "word original": "pencil"
+    },
+    "['Hausschwein', 'Schwein', 'Sus']": {
+        "prompt": "Deutsch: \"Schusswaffe\" - Nederlands: \"geweer\"\nDeutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Apfel\" - Nederlands: \"appelschil\"\nDeutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Abbremsen\" - Nederlands: \"rem\"\nDeutsch: \"Hausschwein\" - Nederlands: \"",
+        "target": "['varken', 'zwijn', 'echte zwijnen', 'krulstaart']",
+        "word original": "pig"
+    },
+    "['Wasserrohr', 'Aqu\u00e4dukt', 'Rohr', 'Rohrleitung']": {
+        "prompt": "Deutsch: \"Hauskatze\" - Nederlands: \"kat\"\nDeutsch: \"Mutter\" - Nederlands: \"moeder\"\nDeutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Schl\u00fcssel\" - Nederlands: \"sleutel\"\nDeutsch: \"Teekessel\" - Nederlands: \"theeketel\"\nDeutsch: \"Wasserrohr\" - Nederlands: \"",
+        "target": "['waterleiding', 'aquaduct', 'pijp', 'leiding', 'buis', 'leidingwerk']",
+        "word original": "pipe"
+    },
+    "['Flugzeug', 'Luftfahrzeug', 'Flieger', 'Maschine']": {
+        "prompt": "Deutsch: \"Hauskatze\" - Nederlands: \"kat\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Flugzeug\" - Nederlands: \"",
+        "target": "['toestel', 'kist', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']",
+        "word original": "plane"
+    },
+    "['Pflug']": {
+        "prompt": "Deutsch: \"Rock\" - Nederlands: \"rock-'n-roll\"\nDeutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Imme\" - Nederlands: \"bij\"\nDeutsch: \"Pflug\" - Nederlands: \"",
+        "target": "['ploeg']",
+        "word original": "plough"
+    },
+    "['Hosentasche', 'Tasche', 'Sack']": {
+        "prompt": "Deutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Pfeife\" - Nederlands: \"pijp\"\nDeutsch: \"B\u00fcrste\" - Nederlands: \"borstel\"\nDeutsch: \"Visage\" - Nederlands: \"tronie\"\nDeutsch: \"Hosentasche\" - Nederlands: \"",
+        "target": "['zak', 'broekzak']",
+        "word original": "pocket"
+    },
+    "['Klosett', 'Toilette', 'Wasserklosett', 'Klo', 'Nachtgeschirr', 'Nachttopf', 'Abtritt', '\u00d6rtchen', 'WC', 'Abort', 'stilles \u00d6rtchen', 'Lokus']": {
+        "prompt": "Deutsch: \"Regal\" - Nederlands: \"alleenrecht\"\nDeutsch: \"Bogen\" - Nederlands: \"papier\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Schlange\" - Nederlands: \"slang\"\nDeutsch: \"Klosett\" - Nederlands: \"",
+        "target": "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'privaat', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']",
+        "word original": "pot"
+    },
+    "['Erdapfel', 'Speisekartoffel', 'Tartuffel', 'H\u00e4rd\u00f6pfel', 'Krumenbeere', 'Kartoffel', 'Grundbirne', 'Kartoffeln']": {
+        "prompt": "Deutsch: \"Dach\" - Nederlands: \"dak\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Quadrat\" - Nederlands: \"hekje\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Apfel\" - Nederlands: \"appelschil\"\nDeutsch: \"Erdapfel\" - Nederlands: \"",
+        "target": "['patat', 'aardappel', 'pieper', 'knol']",
+        "word original": "potato"
+    },
+    "['Strafanstalt', 'Kittchen', 'Gef\u00e4ngnis', 'Bau', 'Knast', 'Haftanstalt', 'Loch']": {
+        "prompt": "Deutsch: \"Hemd\" - Nederlands: \"shirt\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"Engelse voet\"\nDeutsch: \"T\u00fcrfutter\" - Nederlands: \"poort\"\nDeutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Affe\" - Nederlands: \"aap\"\nDeutsch: \"Strafanstalt\" - Nederlands: \"",
+        "target": "['nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot']",
+        "word original": "prison"
+    },
+    "['Maus', 'Ratte', 'M\u00e4use', 'Computermaus', 'Rechnermaus']": {
+        "prompt": "Deutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Bett\" - Nederlands: \"bed\"\nDeutsch: \"Z\u00fcndholz\" - Nederlands: \"zwavelstokje\"\nDeutsch: \"Dach\" - Nederlands: \"dak\"\nDeutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"Maus\" - Nederlands: \"",
+        "target": "['muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje', 'computermuis']",
+        "word original": "rat"
+    },
+    "['Rechnung', 'Hippe', 'Gesetzentwurf', 'Gesetzesentwurf', 'Gesetzesvorlage', 'Abrechnung', 'Faktura']": {
+        "prompt": "Deutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Knoten\" - Nederlands: \"knoop\"\nDeutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Boot\" - Nederlands: \"schip\"\nDeutsch: \"Rechnung\" - Nederlands: \"",
+        "target": "['Hiep', 'hiep', 'snoeimes', 'wetsvoorstel', 'wetsontwerp', 'memorandum', 'factuur', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening']",
+        "word original": "receipt"
+    },
+    "['Pr\u00fcgelstrafe', 'K\u00f6rperstrafe', 'k\u00f6rperliche Z\u00fcchtigung']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"H\u00fchnerei\" - Nederlands: \"ei\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Milit\u00e4r\" - Nederlands: \"strijdkrachten\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"",
+        "target": "['lijfstraf']",
+        "word original": "rod"
+    },
+    "['Dach']": {
+        "prompt": "Deutsch: \"Peitsche\" - Nederlands: \"zweep\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Tisch\" - Nederlands: \"tafel\"\nDeutsch: \"Kreis\" - Nederlands: \"district\"\nDeutsch: \"Dach\" - Nederlands: \"",
+        "target": "['dak']",
+        "word original": "roof"
+    },
+    "['Segelschiff']": {
+        "prompt": "Deutsch: \"Haut\" - Nederlands: \"vel\"\nDeutsch: \"Hausziege\" - Nederlands: \"geit\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"B\u00fcrste\" - Nederlands: \"borstel\"\nDeutsch: \"Messer\" - Nederlands: \"mes\"\nDeutsch: \"Segelschiff\" - Nederlands: \"",
+        "target": "['zeilschip']",
+        "word original": "sail"
+    },
+    "['Uni', 'Universit\u00e4t', 'Akademie', 'Schule', 'Hochschule']": {
+        "prompt": "Deutsch: \"Bleistift\" - Nederlands: \"crayon\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Insel\" - Nederlands: \"eiland\"\nDeutsch: \"Gabel\" - Nederlands: \"bestek\"\nDeutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Uni\" - Nederlands: \"",
+        "target": "['universiteit', 'academie', 'school', 'genootschap', 'maatschappij', 'college', 'unief', 'universitair']",
+        "word original": "school"
+    },
+    "['Schere']": {
+        "prompt": "Deutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Ohren\" - Nederlands: \"oor\"\nDeutsch: \"Daumen\" - Nederlands: \"duim\"\nDeutsch: \"Schiff\" - Nederlands: \"schip\"\nDeutsch: \"Schere\" - Nederlands: \"",
+        "target": "['schaar']",
+        "word original": "scissors"
+    },
+    "['Schraube', 'Holzschraube']": {
+        "prompt": "Deutsch: \"Hosentasche\" - Nederlands: \"zak\"\nDeutsch: \"Kirche\" - Nederlands: \"kerk\"\nDeutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Pfeife\" - Nederlands: \"pijp\"\nDeutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Schraube\" - Nederlands: \"",
+        "target": "['schroef', 'vijs']",
+        "word original": "screw"
+    },
+    "['Samenkorn', 'Saat', 'Same', 'Samen']": {
+        "prompt": "Deutsch: \"Pflug\" - Nederlands: \"ploeg\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Strafanstalt\" - Nederlands: \"nor\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Bauch\" - Nederlands: \"maag\"\nDeutsch: \"Samenkorn\" - Nederlands: \"",
+        "target": "['zaad']",
+        "word original": "seed"
+    },
+    "['Schaf', 'Hausschaf', 'Ovine', 'Ovis aries', 'Ovis orientalis aries']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Festnahme\" - Nederlands: \"aanhouding\"\nDeutsch: \"Pflug\" - Nederlands: \"ploeg\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Affe\" - Nederlands: \"aap\"\nDeutsch: \"Schaf\" - Nederlands: \"",
+        "target": "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']",
+        "word original": "sheep"
+    },
+    "['Regal', 'Pr\u00e4rogative', 'Vorrecht', 'Alleinrecht', 'ausschlie\u00dfliches Recht', 'Privileg']": {
+        "prompt": "Deutsch: \"Augapfel\" - Nederlands: \"oogbol\"\nDeutsch: \"Karren\" - Nederlands: \"kruiwagen\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Hund\" - Nederlands: \"hond\"\nDeutsch: \"Peitsche\" - Nederlands: \"zweep\"\nDeutsch: \"Regal\" - Nederlands: \"",
+        "target": "['alleenrecht', 'prerogatief', 'exclusief recht', 'Prerogatief', 'voorrecht', 'monopolie', 'supplementair', 'plank', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']",
+        "word original": "shelf"
+    },
+    "['Schiff', 'Boot', 'Wasserfahrzeug']": {
+        "prompt": "Deutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"vulpen\"\nDeutsch: \"Klingel\" - Nederlands: \"deurbel\"\nDeutsch: \"Hammer\" - Nederlands: \"piano\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Schiff\" - Nederlands: \"",
+        "target": "['schip', 'kiel', 'boot', 'vaartuig', 'watervaartuig']",
+        "word original": "ship"
+    },
+    "['Hemd']": {
+        "prompt": "Deutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"F\u00fcller\" - Nederlands: \"vulpen\"\nDeutsch: \"Hemd\" - Nederlands: \"",
+        "target": "['shirt', 'overhemd']",
+        "word original": "shirt"
+    },
+    "['Schuh', 'Lackschuh']": {
+        "prompt": "Deutsch: \"Kuchen\" - Nederlands: \"keuken\"\nDeutsch: \"Knoten\" - Nederlands: \"knoop\"\nDeutsch: \"Tisch\" - Nederlands: \"tafel\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Schuh\" - Nederlands: \"",
+        "target": "['schoen', 'aansteker']",
+        "word original": "tongue"
+    },
+    "['Haut']": {
+        "prompt": "Deutsch: \"Tal\" - Nederlands: \"dal\"\nDeutsch: \"Drommeter\" - Nederlands: \"trompet\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"Haar\" - Nederlands: \"kuif\"\nDeutsch: \"Haut\" - Nederlands: \"",
+        "target": "['vel', 'huid', 'skinhead', 'onderhuid']",
+        "word original": "skin"
+    },
+    "['Rock', 'Rock \u2019n\u2019 Roll', 'Rockmusik']": {
+        "prompt": "Deutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"V\u00f6gelchen\" - Nederlands: \"vogel\"\nDeutsch: \"Zug\" - Nederlands: \"trein\"\nDeutsch: \"Mund\" - Nederlands: \"mond\"\nDeutsch: \"Rock\" - Nederlands: \"",
+        "target": "[\"rock-'n-roll\", 'rockmuziek', 'Rock n roll', 'rok']",
+        "word original": "skirt"
+    },
+    "['Schlange', 'Schlangen', 'Wurm']": {
+        "prompt": "Deutsch: \"L\u00f6ffel\" - Nederlands: \"lepel\"\nDeutsch: \"Gefl\u00fcgel\" - Nederlands: \"gevogelte\"\nDeutsch: \"K\u00e4se\" - Nederlands: \"kaas\"\nDeutsch: \"Winkel\" - Nederlands: \"hoek\"\nDeutsch: \"Fahrrad\" - Nederlands: \"fiets\"\nDeutsch: \"Schlange\" - Nederlands: \"",
+        "target": "['slang', 'serpent', 'slangen']",
+        "word original": "snake"
+    },
+    "['Strumpf', 'Socke']": {
+        "prompt": "Deutsch: \"Pfeife\" - Nederlands: \"pijp\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"Dach\" - Nederlands: \"dak\"\nDeutsch: \"Eimer\" - Nederlands: \"emmer\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Strumpf\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "sock"
+    },
+    "['Schw\u00e4mme', 'Schwamm']": {
+        "prompt": "Deutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"T\u00fcrfutter\" - Nederlands: \"poort\"\nDeutsch: \"Schw\u00e4mme\" - Nederlands: \"",
+        "target": "['spons', 'sponzen', 'sponsdieren']",
+        "word original": "sponge"
+    },
+    "['L\u00f6ffel']": {
+        "prompt": "Deutsch: \"Karren\" - Nederlands: \"kruiwagen\"\nDeutsch: \"Mund\" - Nederlands: \"mond\"\nDeutsch: \"Hemd\" - Nederlands: \"shirt\"\nDeutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Knie\" - Nederlands: \"knietje\"\nDeutsch: \"L\u00f6ffel\" - Nederlands: \"",
+        "target": "['lepel']",
+        "word original": "spoon"
+    },
+    "['Quelle', 'Brunnen', 'Brunnenschacht', 'Bohrloch', 'Anfang', 'Ursprung', 'Wurzel', 'Entstehung']": {
+        "prompt": "Deutsch: \"Verstand\" - Nederlands: \"brein\"\nDeutsch: \"Erdapfel\" - Nederlands: \"patat\"\nDeutsch: \"Str\u00fcmpfe\" - Nederlands: \"sok\"\nDeutsch: \"Bureau\" - Nederlands: \"kantoor\"\nDeutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Quelle\" - Nederlands: \"",
+        "target": "['bron', 'wel', 'fontein', 'put', 'boorput', 'aanvang', 'oorsprong', 'start', 'begin', 'herkomst', 'wortel', 'origine', 'oerbron', 'kiem']",
+        "word original": "spring"
+    },
+    "['Quadrat', 'Doppelkreuz', 'Quadrat en je zusje']": {
+        "prompt": "Deutsch: \"Klosett\" - Nederlands: \"toilet\"\nDeutsch: \"Hauskatze\" - Nederlands: \"kat\"\nDeutsch: \"Regal\" - Nederlands: \"alleenrecht\"\nDeutsch: \"Ameise\" - Nederlands: \"mier\"\nDeutsch: \"Gl\u00fchbirne\" - Nederlands: \"gloeilamp\"\nDeutsch: \"Quadrat\" - Nederlands: \"",
+        "target": "['hekje', 'Hekje', 'vierkant', 'carr\u00e9', 'kwadraat', 'tweede macht']",
+        "word original": "square"
+    },
+    "['Briefmarke', 'Wertzeichen', 'Freimarke', 'Wert', 'Postwertzeichen', 'Marke']": {
+        "prompt": "Deutsch: \"V\u00f6gelchen\" - Nederlands: \"vogel\"\nDeutsch: \"Flagge\" - Nederlands: \"vaan\"\nDeutsch: \"Jacke\" - Nederlands: \"jas\"\nDeutsch: \"Gefl\u00fcgel\" - Nederlands: \"gevogelte\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Briefmarke\" - Nederlands: \"",
+        "target": "['postzegel', 'zegel', 'herenakkoord']",
+        "word original": "stamp"
+    },
+    "['Stern', 'Sonne', 'Fixstern']": {
+        "prompt": "Deutsch: \"Lippe\" - Nederlands: \"lip\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Hosentasche\" - Nederlands: \"zak\"\nDeutsch: \"V\u00f6gelchen\" - Nederlands: \"vogel\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Stern\" - Nederlands: \"",
+        "target": "['zon', 'ster', 'sterretje']",
+        "word original": "star"
+    },
+    "['Sprossachse', 'Strunk', 'Stiel', 'St\u00e4ngel']": {
+        "prompt": "Deutsch: \"Rechnung\" - Nederlands: \"Hiep\"\nDeutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Briefmarke\" - Nederlands: \"postzegel\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Handschuh\" - Nederlands: \"handschoen\"\nDeutsch: \"Sprossachse\" - Nederlands: \"",
+        "target": "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven']",
+        "word original": "stem"
+    },
+    "['Zigarre']": {
+        "prompt": "Deutsch: \"Hut\" - Nederlands: \"hoed\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"Peitsche\" - Nederlands: \"zweep\"\nDeutsch: \"Imme\" - Nederlands: \"bij\"\nDeutsch: \"Insel\" - Nederlands: \"eiland\"\nDeutsch: \"Zigarre\" - Nederlands: \"",
+        "target": "['sigaar']",
+        "word original": "stick"
+    },
+    "['Str\u00fcmpfe', 'Strumpf', 'Socke']": {
+        "prompt": "Deutsch: \"Zeh\" - Nederlands: \"digit\"\nDeutsch: \"Kasten\" - Nederlands: \"kastestelsel\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Str\u00fcmpfe\" - Nederlands: \"",
+        "target": "['sok']",
+        "word original": "stocking"
+    },
+    "['Bauch', 'Magen']": {
+        "prompt": "Deutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Knie\" - Nederlands: \"knietje\"\nDeutsch: \"Erdapfel\" - Nederlands: \"patat\"\nDeutsch: \"Quelle\" - Nederlands: \"bron\"\nDeutsch: \"Strasse\" - Nederlands: \"baan\"\nDeutsch: \"Bauch\" - Nederlands: \"",
+        "target": "['maag', 'buik']",
+        "word original": "stomach"
+    },
+    "['Datenspeicher', 'Speichermedium', 'Speicher', 'Computerspeicher', 'Arbeitsspeicher']": {
+        "prompt": "Deutsch: \"Jacke\" - Nederlands: \"jas\"\nDeutsch: \"Personalausweis\" - Nederlands: \"identiteitskaart\"\nDeutsch: \"Armbanduhr\" - Nederlands: \"polshorloge\"\nDeutsch: \"Wurm\" - Nederlands: \"slang\"\nDeutsch: \"Winkel\" - Nederlands: \"hoek\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"",
+        "target": "['opslagmedium', 'geheugen', 'computergeheugen', 'intern geheugen', 'geheugeneenheid']",
+        "word original": "store"
+    },
+    "['Strasse', 'Stra\u00dfe', 'Wegstrecke', 'Weg', 'Pfad', 'Route']": {
+        "prompt": "Deutsch: \"Stern\" - Nederlands: \"zon\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Gaul\" - Nederlands: \"paard\"\nDeutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Schraube\" - Nederlands: \"schroef\"\nDeutsch: \"Strasse\" - Nederlands: \"",
+        "target": "['baan', 'straat', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']",
+        "word original": "street"
+    },
+    "['Sonntag', 'Herrentag', 'Tag des Herrn', 'Herrntag']": {
+        "prompt": "Deutsch: \"Zigarre\" - Nederlands: \"sigaar\"\nDeutsch: \"Rechnung\" - Nederlands: \"Hiep\"\nDeutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Bekleidung\" - Nederlands: \"kledij\"\nDeutsch: \"Sonntag\" - Nederlands: \"",
+        "target": "['zondag']",
+        "word original": "sun"
+    },
+    "['Tisch']": {
+        "prompt": "Deutsch: \"Knoten\" - Nederlands: \"knoop\"\nDeutsch: \"Sonntag\" - Nederlands: \"zondag\"\nDeutsch: \"Strasse\" - Nederlands: \"baan\"\nDeutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Kirche\" - Nederlands: \"kerk\"\nDeutsch: \"Tisch\" - Nederlands: \"",
+        "target": "['tafel']",
+        "word original": "table"
+    },
+    "['Schwanz', 'Zipfel', 'L\u00fcmmel', 'Penis', 'Pimmel', 'Willy', 'Pipimann', 'Piepmatz', 'Glied', 'Penis der V\u00f6gel', 'Penis der S\u00e4ugetiere', 'm\u00e4nnliches Glied', 'Teil', 'Ger\u00e4t']": {
+        "prompt": "Deutsch: \"Garn\" - Nederlands: \"garen\"\nDeutsch: \"Gabel\" - Nederlands: \"bestek\"\nDeutsch: \"Sprossachse\" - Nederlands: \"stengel\"\nDeutsch: \"Baby\" - Nederlands: \"zuigeling\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Schwanz\" - Nederlands: \"",
+        "target": "['jongeheer', 'fallus', 'roede', 'lul', 'lid', 'piemel', 'penis', 'plasser', 'snikkel', 'leuter', 'pik', 'ledemaat', 'penis van vogels', 'mannelijk lid', 'pisser', 'joystick', 'tamp', 'tampeloeres', 'potlood', 'piel', 'zwengel', 'fluit', 'sannie', 'geslachtsdeel', 'staart']",
+        "word original": "tail"
+    },
+    "['Garn', 'Faden', 'Zwirn', 'Strang', 'N\u00e4hgarn']": {
+        "prompt": "Deutsch: \"Ameise\" - Nederlands: \"mier\"\nDeutsch: \"Hand\" - Nederlands: \"klauw\"\nDeutsch: \"Schw\u00e4mme\" - Nederlands: \"spons\"\nDeutsch: \"Herz\" - Nederlands: \"hart\"\nDeutsch: \"Waggon\" - Nederlands: \"wagon\"\nDeutsch: \"Garn\" - Nederlands: \"",
+        "target": "['garen', 'draad']",
+        "word original": "thread"
+    },
+    "['Kehle']": {
+        "prompt": "Deutsch: \"Regentropfen\" - Nederlands: \"druppel\"\nDeutsch: \"Muskel\" - Nederlands: \"spier\"\nDeutsch: \"Regal\" - Nederlands: \"alleenrecht\"\nDeutsch: \"Hauskatze\" - Nederlands: \"kat\"\nDeutsch: \"Abbildung\" - Nederlands: \"functie\"\nDeutsch: \"Kehle\" - Nederlands: \"",
+        "target": "['hals', 'keel', 'gorgel', 'farynx', 'strot']",
+        "word original": "throat"
+    },
+    "['Daumen']": {
+        "prompt": "Deutsch: \"Bauernhof\" - Nederlands: \"boerenbedrijf\"\nDeutsch: \"Fenster\" - Nederlands: \"raam\"\nDeutsch: \"V\u00f6gelchen\" - Nederlands: \"vogel\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Milit\u00e4r\" - Nederlands: \"strijdkrachten\"\nDeutsch: \"Daumen\" - Nederlands: \"",
+        "target": "['duim']",
+        "word original": "thumb"
+    },
+    "['Zeh', 'Digitus', 'Finger', 'kleiner Zeh', 'Zehe', 'Digitus pedis III', 'Digitus pedis II']": {
+        "prompt": "Deutsch: \"Handschuh\" - Nederlands: \"handschoen\"\nDeutsch: \"Tisch\" - Nederlands: \"tafel\"\nDeutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Zeh\" - Nederlands: \"",
+        "target": "['digit', 'Digit', 'vinger', 'teen', 'cijfer', 'kleine teen', 'tenen', 'kom nou']",
+        "word original": "toe"
+    },
+    "['Z\u00e4hne', 'Zahn', 'menschlicher Zahn']": {
+        "prompt": "Deutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Hut\" - Nederlands: \"hoed\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"Engelse voet\"\nDeutsch: \"Z\u00e4hne\" - Nederlands: \"",
+        "target": "['gebitselement', 'tand', 'tanden', 'menselijke tand']",
+        "word original": "tooth"
+    },
+    "['Kleinstadt', 'Siedlung', 'Siedler', 'Bourg']": {
+        "prompt": "Deutsch: \"Bureau\" - Nederlands: \"kantoor\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Juwel\" - Nederlands: \"edelsteen\"\nDeutsch: \"Mond\" - Nederlands: \"maand\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"",
+        "target": "['nederzetting', 'woonplaats', 'town', 'middelgrote plaats of stadje', 'plaats', 'gemeente']",
+        "word original": "town"
+    },
+    "['Zug', 'Personenzug', 'Spielzug']": {
+        "prompt": "Deutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"M\u00e4dchen\" - Nederlands: \"meisje\"\nDeutsch: \"Personalausweis\" - Nederlands: \"identiteitskaart\"\nDeutsch: \"Zug\" - Nederlands: \"",
+        "target": "['trein', 'konvooi', 'karavaan', 'zet', 'transpositie', 'verplaatsing', 'translocatie', 'omzetting']",
+        "word original": "train"
+    },
+    "['Baum']": {
+        "prompt": "Deutsch: \"Truhe\" - Nederlands: \"kist\"\nDeutsch: \"Knie\" - Nederlands: \"knietje\"\nDeutsch: \"Kreis\" - Nederlands: \"district\"\nDeutsch: \"Sto\u00dfd\u00e4mpfer\" - Nederlands: \"schokbreker\"\nDeutsch: \"Hose\" - Nederlands: \"broek\"\nDeutsch: \"Baum\" - Nederlands: \"",
+        "target": "['boom']",
+        "word original": "tree"
+    },
+    "['Hose', 'Hosen']": {
+        "prompt": "Deutsch: \"Bureau\" - Nederlands: \"kantoor\"\nDeutsch: \"Insel\" - Nederlands: \"eiland\"\nDeutsch: \"Fotoapparat\" - Nederlands: \"fotocamera\"\nDeutsch: \"Waschbecken\" - Nederlands: \"doline\"\nDeutsch: \"Handschuh\" - Nederlands: \"handschoen\"\nDeutsch: \"Hose\" - Nederlands: \"",
+        "target": "['broek']",
+        "word original": "trousers"
+    },
+    "['Parapluie', 'Schirm', 'Regenschirm']": {
+        "prompt": "Deutsch: \"Pr\u00fcgelstrafe\" - Nederlands: \"lijfstraf\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Str\u00fcmpfe\" - Nederlands: \"sok\"\nDeutsch: \"Br\u00fccke\" - Nederlands: \"brug\"\nDeutsch: \"Muskel\" - Nederlands: \"spier\"\nDeutsch: \"Parapluie\" - Nederlands: \"",
+        "target": "['paraplu', 'regenscherm']",
+        "word original": "umbrella"
+    },
+    "['Wand', 'Mauer']": {
+        "prompt": "Deutsch: \"Kinn\" - Nederlands: \"kin\"\nDeutsch: \"Motor\" - Nederlands: \"aandrijving\"\nDeutsch: \"Fu\u00df\" - Nederlands: \"Engelse voet\"\nDeutsch: \"Kleinstadt\" - Nederlands: \"nederzetting\"\nDeutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Wand\" - Nederlands: \"",
+        "target": "['muur']",
+        "word original": "wall"
+    },
+    "['Armbanduhr', 'Uhr', 'Taschenuhr oder Armbanduhr']": {
+        "prompt": "Deutsch: \"Television\" - Nederlands: \"video\"\nDeutsch: \"Fingerchen\" - Nederlands: \"vinger\"\nDeutsch: \"Garten\" - Nederlands: \"tuin\"\nDeutsch: \"Milit\u00e4r\" - Nederlands: \"strijdkrachten\"\nDeutsch: \"Strumpf\" - Nederlands: \"sok\"\nDeutsch: \"Armbanduhr\" - Nederlands: \"",
+        "target": "['polshorloge', 'klokje', 'horloge', 'klok', 'uurwerk']",
+        "word original": "watch"
+    },
+    "['Fahrrad', 'Rad', 'Veloziped', 'Velo', 'Drahtesel']": {
+        "prompt": "Deutsch: \"Winkel\" - Nederlands: \"hoek\"\nDeutsch: \"B\u00fcrste\" - Nederlands: \"borstel\"\nDeutsch: \"Hausrind\" - Nederlands: \"rundvee\"\nDeutsch: \"Quadrat\" - Nederlands: \"hekje\"\nDeutsch: \"Baum\" - Nederlands: \"boom\"\nDeutsch: \"Fahrrad\" - Nederlands: \"",
+        "target": "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros']",
+        "word original": "wheel"
+    },
+    "['Peitsche', 'Knute', 'Zagel']": {
+        "prompt": "Deutsch: \"Hausschwein\" - Nederlands: \"varken\"\nDeutsch: \"Fingerring\" - Nederlands: \"ring\"\nDeutsch: \"Wolke\" - Nederlands: \"wolk\"\nDeutsch: \"Bureau\" - Nederlands: \"kantoor\"\nDeutsch: \"Hose\" - Nederlands: \"broek\"\nDeutsch: \"Peitsche\" - Nederlands: \"",
+        "target": "['zweep']",
+        "word original": "whip"
+    },
+    "['Pfeife', 'Tabakspfeife', 'Tabakpfeife', 'Trillerpfeife']": {
+        "prompt": "Deutsch: \"Buch\" - Nederlands: \"boek\"\nDeutsch: \"Bett\" - Nederlands: \"bed\"\nDeutsch: \"Badestube\" - Nederlands: \"openbaar bad\"\nDeutsch: \"Ofen\" - Nederlands: \"bakoven\"\nDeutsch: \"Parapluie\" - Nederlands: \"paraplu\"\nDeutsch: \"Pfeife\" - Nederlands: \"",
+        "target": "['pijp', 'fluitje', 'scheidsrechtersfluit', 'fluittoon']",
+        "word original": "whistle"
+    },
+    "['Fenster', 'Fensterbank', 'Intervall', 'Zeitfenster']": {
+        "prompt": "Deutsch: \"Maus\" - Nederlands: \"muizen en ratten van de Oude Wereld\"\nDeutsch: \"Schuh\" - Nederlands: \"schoen\"\nDeutsch: \"Knoten\" - Nederlands: \"knoop\"\nDeutsch: \"Datenspeicher\" - Nederlands: \"opslagmedium\"\nDeutsch: \"Flugzeug\" - Nederlands: \"toestel\"\nDeutsch: \"Fenster\" - Nederlands: \"",
+        "target": "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje', 'interval']",
+        "word original": "window"
+    },
+    "['Fl\u00fcgel']": {
+        "prompt": "Deutsch: \"Schusswaffe\" - Nederlands: \"geweer\"\nDeutsch: \"Apfel\" - Nederlands: \"appelschil\"\nDeutsch: \"Rechnung\" - Nederlands: \"Hiep\"\nDeutsch: \"J\u00fcngling\" - Nederlands: \"joch\"\nDeutsch: \"Messer\" - Nederlands: \"mes\"\nDeutsch: \"Fl\u00fcgel\" - Nederlands: \"",
+        "target": "['vleugel', 'vlerk', 'wiek']",
+        "word original": "wing"
+    },
+    "['Wurm', 'Schlange', 'Schlangen', 'W\u00fcrmer']": {
+        "prompt": "Deutsch: \"Bein\" - Nederlands: \"knok\"\nDeutsch: \"Uni\" - Nederlands: \"universiteit\"\nDeutsch: \"Ziegelstein\" - Nederlands: \"klinker\"\nDeutsch: \"Regal\" - Nederlands: \"alleenrecht\"\nDeutsch: \"Strafanstalt\" - Nederlands: \"nor\"\nDeutsch: \"Wurm\" - Nederlands: \"",
+        "target": "['slang', 'serpent', 'slangen', 'worm', 'pier', 'wormen', 'regenworm', 'aardworm']",
+        "word original": "worm"
+    }
+}

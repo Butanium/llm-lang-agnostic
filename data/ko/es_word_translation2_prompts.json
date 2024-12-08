@@ -1,0 +1,842 @@
+{
+    "['\ub9de\uaf2d\uc9c0\uac01', '\uac01\ub3c4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae30\" - Espa\u00f1ol: \"bandera\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Espa\u00f1ol: \"balde\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Espa\u00f1ol: \"tetera\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Espa\u00f1ol: \"artiller\u00eda\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios']",
+        "word original": "angle"
+    },
+    "['\uac1c\ubbf8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Espa\u00f1ol: \"fuerza\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Espa\u00f1ol: \"fuete\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Espa\u00f1ol: \"joyer\u00eda\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Espa\u00f1ol: \"",
+        "target": "['hormiga', 'Formicidae', 'formicidae']",
+        "word original": "ant"
+    },
+    "['\uc0ac\uacfc', '\uc0ac\uacfc\ub098\ubb34']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"amortiguador\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1scara de manzana', 'manzana']",
+        "word original": "apple"
+    },
+    "['\uc544\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Espa\u00f1ol: \"torno\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Espa\u00f1ol: \"nudo\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"",
+        "target": "['arco']",
+        "word original": "arch"
+    },
+    "['\ubb34\uae30', '\ubcd1\uae30', '\uc804\uc7c1\ubb34\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Espa\u00f1ol: \"paraguas\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Espa\u00f1ol: \"peine\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Espa\u00f1ol: \"bombillo\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Espa\u00f1ol: \"",
+        "target": "['arma', 'armas', 'armamento']",
+        "word original": "arm"
+    },
+    "['\uad70\uc0ac', '\uad70\ub300', '\ubcd1', '\ubcd1\uc0ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Espa\u00f1ol: \"estampilla\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"martillo\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Espa\u00f1ol: \"peine\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Espa\u00f1ol: \"",
+        "target": "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas', 'soldado']",
+        "word original": "army"
+    },
+    "['\uc544\uae30', '\uc720\uc544']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"animal del campo\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Espa\u00f1ol: \"",
+        "target": "['ni\u00f1o', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'ni\u00f1a', 'nene', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'criatura']",
+        "word original": "baby"
+    },
+    "['\uc57c\uad6c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"ventana\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Espa\u00f1ol: \"cerdo\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Espa\u00f1ol: \"hormiga\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"",
+        "target": "['b\u00e9isbol', 'beisbol', 'baseball']",
+        "word original": "ball"
+    },
+    "['\uac00\ub77d\uc9c0', '\ubc18\uc9c0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Espa\u00f1ol: \"castigo corporal\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Espa\u00f1ol: \"l\u00e1piz\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Espa\u00f1ol: \"autoridad\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"",
+        "target": "['anillo', 'alianza', 'sortija']",
+        "word original": "ring"
+    },
+    "['\uac1c\uc218\ub300', '\uc2f1\ud06c', '\uc138\uba74\uae30', '\uc2f1\ud06c\ub300']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\" - Espa\u00f1ol: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"asentamiento humano\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"martillo\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Espa\u00f1ol: \"",
+        "target": "['lavabo', 'lavamanos', 'palangana', 'fregadero', 'pila']",
+        "word original": "basin"
+    },
+    "['\ud654\uc7a5\uc2e4', '\uc694\uac15', '\ubcc0\uc18c', '\ubcc0\uae30', '\ubaa9\uc695\uc2e4', '\uc695\uc2e4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Espa\u00f1ol: \"naranja\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Espa\u00f1ol: \"isla\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"",
+        "target": "['inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']",
+        "word original": "pot"
+    },
+    "['\uce68\ub300', '\uc7a0\uc790\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"",
+        "target": "['cama', 'piltra', 'catre', 'sobre', 'lecho']",
+        "word original": "bed"
+    },
+    "['\ubc8c', '\uafc0\ubc8c\ub958', '\ubc00\ubd09', '\ud615\ubc8c', '\ucc98\ubc8c', '\uc9d5\ubc8c', '\uafc0\ubc8c\ub958\uac00 \uc544\ub2cc \ubc8c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"",
+        "target": "['abeja', 'Anthophila', 'anthophila', 'castigo', 'pena', 'penalizaci\u00f3n', 'avispa', 'Avispa']",
+        "word original": "bee"
+    },
+    "['\uc804\ub839', '\ubb38\uc7a5\ud559', '\ucd08\uc778\uc885', '\ub3c4\uc5b4\ud3f0', '\ubca8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"mesa\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Espa\u00f1ol: \"freno\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Espa\u00f1ol: \"u\u00f1a\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Espa\u00f1ol: \"bombillo\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Espa\u00f1ol: \"",
+        "target": "['her\u00e1ldica', 'blas\u00f3n', 'timbre', 'campanilla de puerta']",
+        "word original": "bell"
+    },
+    "['\uc0c8', 'Aves', '\ub2ed', 'Gallus gallus domesticus', '\ucc38\uc0c8\uacfc', '\ub3d9\ucabd', '\ub3d9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Espa\u00f1ol: \"her\u00e1ldica\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Espa\u00f1ol: \"piel\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Espa\u00f1ol: \"madera de pino\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Espa\u00f1ol: \"pescado\"\n\ud55c\uad6d\uc5b4: \"\uc0c8\" - Espa\u00f1ol: \"",
+        "target": "['p\u00e1jaro', 'ave', 'aves', 'pollo', 'Gallus gallus domesticus', 'gallina', 'gorri\u00f3n', 'Passeridae', 'este', 'levante', 'oriente']",
+        "word original": "bird"
+    },
+    "['\ub3c4\uac80', '\uce7c', '\uac80']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"sierpe\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Espa\u00f1ol: \"calcet\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Espa\u00f1ol: \"labio\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"martillo\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Espa\u00f1ol: \"",
+        "target": "['espada', 'garrancha']",
+        "word original": "blade"
+    },
+    "['\uc704\uc6d0\ud68c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Espa\u00f1ol: \"libro\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Espa\u00f1ol: \"taza\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Espa\u00f1ol: \"",
+        "target": "['comit\u00e9', 'comisi\u00f3n']",
+        "word original": "board"
+    },
+    "['\ubcf4\ud2b8', '\uc7a0\uc218\ud568', '\ubc30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Espa\u00f1ol: \"freno\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Espa\u00f1ol: \"ley\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Espa\u00f1ol: \"naranja\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Espa\u00f1ol: \"",
+        "target": "['buque submarino', 'sumergible', 'buque sumergible', 'submarino', 'pigboat', 'U-boat', 'bote', 'barco', 'barca', 'barcos', 'nave', 'embarcaci\u00f3n']",
+        "word original": "boat"
+    },
+    "['\ubf08', '\ub300\uc704', '\uac1c\uc694', '\uacbd\uac1c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"animal del campo\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Espa\u00f1ol: \"falda\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Espa\u00f1ol: \"barbilla\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"",
+        "target": "['hueso', 'os', 'resumen', 'sinopsis', 'sumario', 'resumen documental', 'abstracci\u00f3n', 'extracto', 'abstract']",
+        "word original": "bone"
+    },
+    "['\ucc45', '\uc758\ubb34', '\uadfc\ubb34', '\uc5c5\ubb34', '\uc784\ubb34', '\ub2f4', '\uc6b8\ud0c0\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Espa\u00f1ol: \"entierro\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Espa\u00f1ol: \"autoridad\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Espa\u00f1ol: \"",
+        "target": "['libro', 'responsabilidad', 'menester', 'compromiso', 'deuda', 'cometido', 'obligaci\u00f3n', 'deber', 'alambrada', 'barda', 'seto', 'valla', 'cerca', 'cerramiento', 'cercado']",
+        "word original": "book"
+    },
+    "['\ubcd1', '\uc9c8\ubcd1', '\ubcd1\uc0ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Espa\u00f1ol: \"balde\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Espa\u00f1ol: \"castigo corporal\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"",
+        "target": "['dolencia', 'morbilidad', 'mal', 'enfermedad', 'afecci\u00f3n', 'patolog\u00eda', 'enfermedades', 'soldado', 'botella', 'frasco']",
+        "word original": "bottle"
+    },
+    "['\uc0c1\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Espa\u00f1ol: \"dolina\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Espa\u00f1ol: \"libro\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Espa\u00f1ol: \"avi\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"",
+        "target": "['cajas', 'caja']",
+        "word original": "box"
+    },
+    "['\uc18c\ub144']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc12c\" - Espa\u00f1ol: \"isla\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Espa\u00f1ol: \"domingo\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Espa\u00f1ol: \"cuchara\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Espa\u00f1ol: \"",
+        "target": "['ni\u00f1o', 'chico', 'jovencito', 'joven', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'chaval', 'mozo']",
+        "word original": "boy"
+    },
+    "['\ub204\uc2a4', '\ud504\uc2dc\ucf00', '\ub9c8\uc74c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Espa\u00f1ol: \"sax\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"ladrillo\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Espa\u00f1ol: \"queso\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"",
+        "target": "['mente', 'psique', 'Mente', 'Nous', 'nous', 'cabeza', 'cerebro']",
+        "word original": "head"
+    },
+    "['\uc81c\ub3d9\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Espa\u00f1ol: \"pulgar\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Espa\u00f1ol: \"nevada\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Espa\u00f1ol: \"",
+        "target": "['freno']",
+        "word original": "brake"
+    },
+    "['\uacbd\uc81c\ud559', '\u7d93\u6fdf\u5b78', '\uc815\uce58\uacbd\uc81c\ud559']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"ladrillo\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Espa\u00f1ol: \"falda\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"",
+        "target": "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas']",
+        "word original": "branch"
+    },
+    "['\ubcbd\ub3cc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Espa\u00f1ol: \"mujer\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Espa\u00f1ol: \"mosca\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"",
+        "target": "['ladrillo']",
+        "word original": "brick"
+    },
+    "['\ub2e4\ub9ac', '\uad50\ub7c9', '\ubc1c', '\uc0ac\ub78c\uc758 \ub2e4\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Espa\u00f1ol: \"hospital\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Espa\u00f1ol: \"falda\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"ventana\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"",
+        "target": "['puente', 'b\u00f3veda', 'pie', 'pes', 'pata', 'pierna', 'piernas', 'miembro inferior', 'miembro inferior humano']",
+        "word original": "pin"
+    },
+    "['\uc194', '\uc18c\ub098\ubb34\uc18d', '\uc18c\ub098\ubb34', '\ube0c\ub7ec\uc2dc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"barco de vela\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"ventana\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"dolencia\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Espa\u00f1ol: \"",
+        "target": "['madera de pino', 'pino', 'Pinus', 'pino real', 'pinus', 'cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']",
+        "word original": "brush"
+    },
+    "['\uc591\ub3d9\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Espa\u00f1ol: \"sax\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Espa\u00f1ol: \"",
+        "target": "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']",
+        "word original": "bucket"
+    },
+    "['\uc804\uad6c', '\ubc31\uc5f4\ub4f1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"B\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Espa\u00f1ol: \"nariz\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"amortiguador\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Espa\u00f1ol: \"",
+        "target": "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']",
+        "word original": "bulb"
+    },
+    "['\ucf00\uc774\ud06c', '\uacfc\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Espa\u00f1ol: \"comit\u00e9\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Espa\u00f1ol: \"hilo\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"",
+        "target": "['pastel', 'torta', 'bizcocho', 'cake', 'coca', 'tarta']",
+        "word original": "cake"
+    },
+    "['\uce74\uba54\ub77c', '\uc0ac\uc9c4\uae30', '\uc6f9\ucea0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Espa\u00f1ol: \"artiller\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Espa\u00f1ol: \"red de computadoras\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Espa\u00f1ol: \"estampilla\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara', 'c\u00e1mara web', 'webcam']",
+        "word original": "camera"
+    },
+    "['\uc2e0\ubd84\uc99d', 'ID \uce74\ub4dc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Espa\u00f1ol: \"mujer\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Espa\u00f1ol: \"armadura\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"",
+        "target": "['documento de identidad', 'identificaci\u00f3n', 'carn\u00e9 de identidad', 'carnet de identidad', 'documento nacional de identidad', 'c\u00e9dula de identidad', 'DNI', 'credencial', 'carnet']",
+        "word original": "card"
+    },
+    "['\uc218\ub808', '\uc790\ub3d9\ucc28', '\uc0ac\ub95c\ucc28', '\uc2b9\uc6a9\ucc28', '\ucc28', '\uc2b9\uc6a9\uc790\ub3d9\ucc28']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Espa\u00f1ol: \"patata\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Espa\u00f1ol: \"falda\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Espa\u00f1ol: \"bandera\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Espa\u00f1ol: \"huevo de gallina\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"",
+        "target": "['carro', 'coche', 'autom\u00f3vil', 'auto', 'veh\u00edculo', 'm\u00e1quina', 'turismo', 'carreta', 'carret\u00f3n de mano', 'carretilla']",
+        "word original": "cart"
+    },
+    "['\ub9c8\ucc28', '\uac1d\ucc28', '\uc218\ub808']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Espa\u00f1ol: \"marrano\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Espa\u00f1ol: \"arma\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"ladrillo\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"B\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Espa\u00f1ol: \"",
+        "target": "['vag\u00f3n', 'coche de pasajeros', 'vag\u00f3n de pasajeros', 'coche', 'veh\u00edculo ferroviario', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos', 'carreta', 'carret\u00f3n de mano', 'carro', 'carretilla']",
+        "word original": "carriage"
+    },
+    "['\uace0\uc591\uc774', 'Felis silvestris catus']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"pastel\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Espa\u00f1ol: \"hospital\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"",
+        "target": "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']",
+        "word original": "cat"
+    },
+    "['\uac74\ub77d', '\uce58\uc988']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Espa\u00f1ol: \"tetera\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"mesa\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Espa\u00f1ol: \"mono\"\n\ud55c\uad6d\uc5b4: \"\uac74\ub77d\" - Espa\u00f1ol: \"",
+        "target": "['queso']",
+        "word original": "cheese"
+    },
+    "['\uada4', '\ubd88\uad50 \uc6a9\uc5b4 \ubaa9\ub85d', '\ubd88\uad50 \uc6a9\uc5b4 \ubaa9\ub85d/\uad6c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Espa\u00f1ol: \"barbilla\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Espa\u00f1ol: \"medias\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Espa\u00f1ol: \"oveja\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"",
+        "target": "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre']",
+        "word original": "chest"
+    },
+    "['\ud131', '\uc544\ub798\ud131', '\ub4f1\uae09']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc194\" - Espa\u00f1ol: \"madera de pino\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Espa\u00f1ol: \"nevada\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Espa\u00f1ol: \"calcet\u00edn\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Espa\u00f1ol: \"",
+        "target": "['barbilla', 'ment\u00f3n', 'pera', 'barba', 'mand\u00edbula', 'mand\u00edbulas', 'quijada', 'grado', 'nivel', 'raz\u00f3n', 'causa']",
+        "word original": "chin"
+    },
+    "['\uad50\ud68c', '\uc131\ub2f9', '\uad50\ud68c\ub2f9', '\ub840\ubc30\ub2f9', '\uc608\ubc30\ub2f9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Espa\u00f1ol: \"huevo de gallina\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"animal del campo\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Espa\u00f1ol: \"",
+        "target": "['iglesia']",
+        "word original": "church"
+    },
+    "['\uc6d0', '\ub3d9\uadf8\ub77c\ubbf8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"econom\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"B\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Espa\u00f1ol: \"perra\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Espa\u00f1ol: \"domingo\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"",
+        "target": "['c\u00edrculo', 'circunferencia']",
+        "word original": "circle"
+    },
+    "['\uc2dc\uacc4', '\uc2dc\uac04\ud314\ucc0c', '\ud734\ub300\uc6a9 \uc2dc\uacc4', '\uc190\ubaa9 \uc2dc\uacc4', '\uc6cc\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Espa\u00f1ol: \"\u00e1ngulo\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Espa\u00f1ol: \"estampilla\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"ladrillo\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Espa\u00f1ol: \"",
+        "target": "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']",
+        "word original": "clock"
+    },
+    "['\uad6c\ub984']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Espa\u00f1ol: \"",
+        "target": "['nube', 'nubes']",
+        "word original": "cloud"
+    },
+    "['\uc7ac\ud0b7']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"gato\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Espa\u00f1ol: \"isla\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"cuadrado\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"",
+        "target": "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'jacket', 'campera', 'chompa']",
+        "word original": "coat"
+    },
+    "['\uccb4\ud3ec']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Espa\u00f1ol: \"mosca\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Espa\u00f1ol: \"taza\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Espa\u00f1ol: \"pared\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Espa\u00f1ol: \"",
+        "target": "['arresto', 'detenci\u00f3n']",
+        "word original": "collar"
+    },
+    "['\ube57']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Espa\u00f1ol: \"cerdo\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Espa\u00f1ol: \"guimbarda\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Espa\u00f1ol: \"",
+        "target": "['peine']",
+        "word original": "comb"
+    },
+    "['\uc18c', '\uc7ac\ud310', '\uc18c\uc1a1', 'Bos primigenius taurus', '\ud669\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"amortiguador\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Espa\u00f1ol: \"cuchara\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Espa\u00f1ol: \"u\u00f1a\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"",
+        "target": "['demanda', 'juicio', 'querella', 'proceso judicial', 'pleito', 'proceso', 'acci\u00f3n', 'causa', 'argumento', 'demanda judicial', 'caso judicial', 'litigio', 'caso', 'ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno']",
+        "word original": "cow"
+    },
+    "['\ucef5', '\uc794', '\uc720\ub9ac\uc794', '\uba38\uadf8\uc794']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Espa\u00f1ol: \"guimbarda\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Espa\u00f1ol: \"nudo\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Espa\u00f1ol: \"",
+        "target": "['taza', 'copa', 'vaso', 'taza de pi\u00e9', 'taz\u00f3n', 'jarro']",
+        "word original": "cup"
+    },
+    "['\ucee4\ud2bc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"pastel\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Espa\u00f1ol: \"oveja\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Espa\u00f1ol: \"armadura\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"roedor\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"",
+        "target": "['cortina', 'cortinaje', 'cortinas']",
+        "word original": "curtain"
+    },
+    "['\uc644\ucda9\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Espa\u00f1ol: \"cerdo\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"",
+        "target": "['amortiguador']",
+        "word original": "cushion"
+    },
+    "['\uac1c', 'Canis lupus familiaris', '\uc9c0\ubd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Espa\u00f1ol: \"horno\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Espa\u00f1ol: \"guimbarda\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Espa\u00f1ol: \"domingo\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Espa\u00f1ol: \"",
+        "target": "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico', 'techumbre', 'techo', 'cubierta', 'tejado']",
+        "word original": "dog"
+    },
+    "['\ubb38', '\ucc3d', '\ucc3d\ubb38', '\uad00\ubb38', '\ub300\ubb38']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Espa\u00f1ol: \"iglesia\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Espa\u00f1ol: \"patata\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"",
+        "target": "['ventana', 'puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n', 'literatura']",
+        "word original": "drain"
+    },
+    "['\ub3c4\ud654', '\uadf8\ub9bc', '\uc18c\ubb18']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Espa\u00f1ol: \"barco\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Espa\u00f1ol: \"avi\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Espa\u00f1ol: \"",
+        "target": "['ilustraci\u00f3n', 'figura', 'retrato', 'dibujo', 'imagen', 'croquis', 'esquema']",
+        "word original": "drawer"
+    },
+    "['\uc637', '\ub4dc\ub808\uc2a4', '\uc758\ubcf5', '\uc6d0\ud53c\uc2a4', '\uc591\ubcf5', '\u6d0b\u670d', '\uc288\ud2b8', '\uc815\uc7a5', '\ubcf5\uc7a5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Espa\u00f1ol: \"piel\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Espa\u00f1ol: \"",
+        "target": "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment', 'terno', 'tacuche', 'flux', 'conjunto', 'veste', 'atuendo']",
+        "word original": "dress"
+    },
+    "['\ubc29\uc6b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"mesa\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Espa\u00f1ol: \"Windows\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"",
+        "target": "['gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima', 'campana']",
+        "word original": "drop"
+    },
+    "['\uadc0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Espa\u00f1ol: \"sombrero de fieltro\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Espa\u00f1ol: \"paraguas\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\"\n\ud55c\uad6d\uc5b4: \"\uadc0\" - Espa\u00f1ol: \"",
+        "target": "['o\u00eddo', 'orejas', 'oreja', 'agujero', 'hoyo', 'hueco', 'cavidad', 'orificio']",
+        "word original": "ear"
+    },
+    "['\uc54c', '\ub2ec\uac40', '\uad8c\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Espa\u00f1ol: \"nube\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Espa\u00f1ol: \"granja\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"barco de vela\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Espa\u00f1ol: \"",
+        "target": "['huevo de gallina', 'huevo', 'derecho', 'derecho subjetivo', 'derechos', '\u00f3vulo']",
+        "word original": "egg"
+    },
+    "['\ubaa8\ud130', '\uc804\ub3d9\uae30', '\uc5d4\uc9c4', '\uae30\uad00', 'Motor']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Espa\u00f1ol: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"asentamiento humano\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Espa\u00f1ol: \"",
+        "target": "['motor el\u00e9ctrico', 'electromotor', 'motor', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']",
+        "word original": "engine"
+    },
+    "['\ub208']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9d0\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"barco de vela\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\ub208\" - Espa\u00f1ol: \"",
+        "target": "['nevada', 'capa de nieve', 'nieve', 'nevar', 'ojos', 'ojo', 'globo ocular', 'oculus']",
+        "word original": "eye"
+    },
+    "['\uc5bc\uad74']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"sierpe\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc6d0\ud68c\" - Espa\u00f1ol: \"comit\u00e9\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Espa\u00f1ol: \"sombrero\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Espa\u00f1ol: \"",
+        "target": "['rostro', 'cara', 'jeta', 'faz', 'rostro humano']",
+        "word original": "face"
+    },
+    "['\ub18d\uc7a5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Espa\u00f1ol: \"guimbarda\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Espa\u00f1ol: \"hilo\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Espa\u00f1ol: \"",
+        "target": "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda']",
+        "word original": "farm"
+    },
+    "['\uae43', '\uae43\ud138']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"pastel\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Espa\u00f1ol: \"rostro\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Espa\u00f1ol: \"",
+        "target": "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas']",
+        "word original": "feather"
+    },
+    "['\uc190\uac00\ub77d', '\uc190\ubc1c\uac00\ub77d', '\ubc1c\uac00\ub77d', '\uc5c4\uc9c0', '\uc5c4\uc9c0\uc190\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"pel\u00edcula\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"",
+        "target": "['dedo', 'd\u00edgito', 'pulgar', 'dedo pulgar', 'pollex', 'dedo gordo', 'dedos de la mano', 'dedo de la mano']",
+        "word original": "finger"
+    },
+    "['\ubb3c\uace0\uae30', '\uc5b4\ub958', '\uace0\uae30', '\uc0dd\uc120', 'Pisces']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc78e\" - Espa\u00f1ol: \"hoja\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Espa\u00f1ol: \"her\u00e1ldica\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"pel\u00edcula\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Espa\u00f1ol: \"",
+        "target": "['pescado', 'pez', 'Pisces', 'pisces', 'peces', 'piscis']",
+        "word original": "fish"
+    },
+    "['\uae30', '\ub2e8\uc704', '\uce21\uc815 \ub2e8\uc704', '\uae30\uac04', '\ub2e8\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Espa\u00f1ol: \"labio\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Espa\u00f1ol: \"arma\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Espa\u00f1ol: \"artiller\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Espa\u00f1ol: \"",
+        "target": "['bandera', 'pabell\u00f3n', 'unidad', 'unidad de medida', 'etapa', 'per\u00edodo', 'estadio', 'fase', '\u00e9poca', 'era', 'periodo', 'per\u00edodo geol\u00f3gico', 't\u00e9rmino', 'plazo', 'periodo hist\u00f3rico', 'per\u00edodo hist\u00f3rico']",
+        "word original": "flag"
+    },
+    "['\uace8\uc9dc\uae30', '\uacc4\uace1', '\ud611\uace1', '\uc0b0\uace8\uc9dc\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Espa\u00f1ol: \"rostro\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"mesa\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Espa\u00f1ol: \"",
+        "target": "['dolina', 'valle', 'val', 'barranco', 'ca\u00f1ada', 'quebrada', 'torrente']",
+        "word original": "floor"
+    },
+    "['\ud30c\ub9ac\ubaa9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Espa\u00f1ol: \"patata\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Espa\u00f1ol: \"libro\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"asentamiento humano\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Espa\u00f1ol: \"bandera\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Espa\u00f1ol: \"",
+        "target": "['mosca', 'mosco', 'Diptera']",
+        "word original": "fly"
+    },
+    "['\ubc1c', '\uc911\uc808\ubaa8\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"mesa\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Espa\u00f1ol: \"huevo de gallina\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Espa\u00f1ol: \"autoridad\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Espa\u00f1ol: \"",
+        "target": "['sombrero de fieltro', 'Trilby', 'fedora', 'borsalino', 'Homburg', 'gacho', 'Fedora', 'homburg', 'fieltro', 'pie', 'pes', 'pata']",
+        "word original": "foot"
+    },
+    "['\ud3ec\ud06c', '\ub3fc\uc9c0\uace0\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Espa\u00f1ol: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"asentamiento humano\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"constituci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Espa\u00f1ol: \"",
+        "target": "['cerdo', 'carne de cerdo', 'puerco', 'porc', 'tenedor']",
+        "word original": "fork"
+    },
+    "['\uac00\uae08', '\uac00\ucd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Espa\u00f1ol: \"barco\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"B\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Espa\u00f1ol: \"patata\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"",
+        "target": "['animal del campo', 'ganado']",
+        "word original": "fowl"
+    },
+    "['\uc778\uccb4\uc0dd\ub9ac\ud559', '\uccb4\uaca9', '\uc778\uac04\uc758 \ubab8', '\ubab8\ub9e4', '\uc778\uccb4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Espa\u00f1ol: \"pared\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ud3ec\" - Espa\u00f1ol: \"arresto\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"",
+        "target": "['constituci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']",
+        "word original": "frame"
+    },
+    "['\uc815\uc6d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Espa\u00f1ol: \"l\u00e1piz\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Espa\u00f1ol: \"naranja\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"",
+        "target": "['jard\u00edn']",
+        "word original": "garden"
+    },
+    "['\uc5ec\uc790', '\uc5ec\uc131', '\uacc4\uc9d1', '\uc18c\ub140', '\ub140\uc790', '\ubd80\uc778', '\uc544\ub0b4', '\uc554\ucef7', '\uc5ec\uc778']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Espa\u00f1ol: \"her\u00e1ldica\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"ventana\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Espa\u00f1ol: \"tren\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Espa\u00f1ol: \"",
+        "target": "['mujer', 'hembra adulta', 'chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'se\u00f1orito', 'chico', 'fille', 'se\u00f1orita', 'mujercita', 'c\u00f3nyuge', 'esposa', 'marido', 'esposo', 'se\u00f1ora', 'mujer casada', 'hembra', 'ser humano femenino']",
+        "word original": "girl"
+    },
+    "['\uc7a5\uac11', '\uac11\uc637', '\uac11\uc8fc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Espa\u00f1ol: \"barco\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\"\n\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Espa\u00f1ol: \"",
+        "target": "['armadura', 'blindaje', 'panoplia', 'guante']",
+        "word original": "glove"
+    },
+    "['\uc5fc\uc18c', 'Capra aegagrus hircus']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Espa\u00f1ol: \"nube\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\uc5fc\uc18c\" - Espa\u00f1ol: \"",
+        "target": "['cloro', 'cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']",
+        "word original": "goat"
+    },
+    "['\ucd1d', '\ub300\ud3ec', '\ud654\uae30', '\uc18c\ucd1d', '\ub77c\uc774\ud50c \ucd1d', '\ub77c\uc774\ud50c', '\ucd1d\ud654', '\ud569\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"gato\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Espa\u00f1ol: \"fuerza\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\ucd1d\" - Espa\u00f1ol: \"",
+        "target": "['artiller\u00eda', 'arma', 'heavy weapon', 'arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'pistola', 'fusil', 'rifle', 'suma', 'total', 'montante', 'adici\u00f3n', 'monta', 'cantidad', 'monto']",
+        "word original": "gun"
+    },
+    "['\ud138', '\ucf67\uc218\uc5fc', '\uc218\uc5fc', '\ud131\uc218\uc5fc', '\uba38\ub9ac', '\uae43', '\uae43\ud138', '\uba38\ub9ac\uce74\ub77d', '\uba38\ub9ac\uce7c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"pel\u00edcula\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"econom\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Espa\u00f1ol: \"calcet\u00edn\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"",
+        "target": "['barba', 'barba cerrada', 'bigote', 'vibrisas', 'cabello', 'pelo', 'pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'mostacho']",
+        "word original": "root"
+    },
+    "['\ub9dd\uce58']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Espa\u00f1ol: \"joyer\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc804\uad6c\" - Espa\u00f1ol: \"bombillo\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Espa\u00f1ol: \"horno\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"",
+        "target": "['martillo']",
+        "word original": "hammer"
+    },
+    "['\uc190', '\u00de', '\uac12', '\u8cc8\u683c', '\uac00\uaca9', '\uc190\uac00\ub77d', '\uc810\uc720\uad8c', '\uc190\uc8fc', '\uc190\ubc14\ub2e5', '\ub3c4\uc6c0', '\uc6d0\uc870', '\uc9c0\uc6d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Espa\u00f1ol: \"horno\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\ub3c4\uac80\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"barco de vela\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Espa\u00f1ol: \"",
+        "target": "['thorn', '\u00de', 'precio', 'canon', 'precio unitario', 'importe', 'da\u00f1o', 'condiciones', 'mano', 'palma', 'zarpa', 'manus', 'pata', 'dedo', 'dedos de la mano', 'dedo de la mano', 'posesi\u00f3n', 'propiedad', 'tenencia', 'nieta', 'nieto', 'nieto o nieta', 'palma de la mano', 'asistencia', 'ayuda', 'auxilio', 'socorro']",
+        "word original": "hand"
+    },
+    "['\ubaa8\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"gato\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Espa\u00f1ol: \"peine\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"cuadrado\"\n\ud55c\uad6d\uc5b4: \"\uad6c\ub984\" - Espa\u00f1ol: \"nube\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uacc4\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Espa\u00f1ol: \"",
+        "target": "['sombrero', 'Chap\u00f3']",
+        "word original": "hat"
+    },
+    "['\uc2ec\uc7a5', '\uc6a9\uae30', '\uc6a9\uac10\uc131', '\uc6a9\uac10']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Espa\u00f1ol: \"mosca\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Espa\u00f1ol: \"oveja\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"",
+        "target": "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'valor', 'coraje', 'valent\u00eda', 'centro', 'ojo', 'medio']",
+        "word original": "pump"
+    },
+    "['\ud2b8\ub7fc\ud3ab', '\ucf54\ub137']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc704\" - Espa\u00f1ol: \"est\u00f3mago\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Espa\u00f1ol: \"esponja\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Espa\u00f1ol: \"arma\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Espa\u00f1ol: \"",
+        "target": "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']",
+        "word original": "horn"
+    },
+    "['\ub9d0', '\ub9c8\uc744', '\ucd0c\ub77d', '\uc5b8\uc5b4', '\uac1c\uac1c\uc758 \uc5b8\uc5b4', '\uc18c', 'Bos primigenius taurus', '\ud669\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Espa\u00f1ol: \"calcet\u00edn\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Espa\u00f1ol: \"insecto\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"econom\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Espa\u00f1ol: \"mono\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Espa\u00f1ol: \"",
+        "target": "['caser\u00edo', 'pueblo', 'aldea', 'aldehuela', 'lengua', 'idioma', 'lenguaje', 'comunicaci\u00f3n ling\u00fc\u00edstica', 'caballo', 'Equus ferus caballus', 'yegua', 'equinos', 'ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno']",
+        "word original": "horse"
+    },
+    "['\ubcd1\uc6d0', '\u75c5\u9662']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"econom\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Espa\u00f1ol: \"c\u00e1rcel\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Espa\u00f1ol: \"",
+        "target": "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']",
+        "word original": "hospital"
+    },
+    "['\uc9d1', '\uc8fc\uac70\uc9c0', '\uc815\ucc29\uc9c0', '\uc8fc\uc2a4', '\uacfc\uc77c \uc8fc\uc2a4', '\uacfc\uc999', '\uc999', '\uacfc\uc77c\ub2e8\ubb3c', '\uc138\ub300', '\uc8fc\uac70', '\uac70\ub958', '\uc8fc\ud0dd']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc18c\ub144\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Espa\u00f1ol: \"pescado\"\n\ud55c\uad6d\uc5b4: \"\uae30\" - Espa\u00f1ol: \"bandera\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"",
+        "target": "['asentamiento humano', 'asentamiento', 'lugar poblado', 'pueblito', 'pueblucho', 'poblado', 'pueblo', 'aldea', 'casa', 'zumo', 'jugo', 'jugo de frutas', 'jugos de frutas y vegetales', 'zumo de fruta', 'jugo de fruta', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso']",
+        "word original": "house"
+    },
+    "['\uc12c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Espa\u00f1ol: \"pulgar\"\n\ud55c\uad6d\uc5b4: \"\ud2b8\ub7fc\ud3ab\" - Espa\u00f1ol: \"guimbarda\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Espa\u00f1ol: \"esponja\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Espa\u00f1ol: \"entierro\"\n\ud55c\uad6d\uc5b4: \"\uc12c\" - Espa\u00f1ol: \"",
+        "target": "['isla', 'islas']",
+        "word original": "island"
+    },
+    "['\ubcf4\uc11d', '\ubcf4\uc11d\ub958', '\uc8fc\uc5bc\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3c4\ud654\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Espa\u00f1ol: \"avi\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Espa\u00f1ol: \"mujer\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Espa\u00f1ol: \"sax\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Espa\u00f1ol: \"",
+        "target": "['joyer\u00eda', 'joyas', 'alhajas', 'joya']",
+        "word original": "jewel"
+    },
+    "['\uc8fc\uc804\uc790', '\ucc3b\uc8fc\uc804\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\ud130\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Espa\u00f1ol: \"libro\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Espa\u00f1ol: \"",
+        "target": "['tetera', 'hervidor', 'caldera', 'calentador', 'Caldera']",
+        "word original": "kettle"
+    },
+    "['\uc5f4\uc1e0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc3d\" - Espa\u00f1ol: \"Windows\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Espa\u00f1ol: \"lavabo\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Espa\u00f1ol: \"medias\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"dolencia\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Espa\u00f1ol: \"red de computadoras\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"",
+        "target": "['llave', 'clave']",
+        "word original": "key"
+    },
+    "['\ubb34\ub98e']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Espa\u00f1ol: \"pescado\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Espa\u00f1ol: \"rostro\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"",
+        "target": "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']",
+        "word original": "knee"
+    },
+    "['\ub098\uc774\ud504', '\uce7c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Espa\u00f1ol: \"hormiga\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Espa\u00f1ol: \"fuerza\"\n\ud55c\uad6d\uc5b4: \"\ubb34\ub98e\" - Espa\u00f1ol: \"rodilla\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"",
+        "target": "['cuchillo']",
+        "word original": "knife"
+    },
+    "['\ub9e4\ub4ed']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Espa\u00f1ol: \"ley\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc194\" - Espa\u00f1ol: \"madera de pino\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Espa\u00f1ol: \"",
+        "target": "['nudo', 'lazo']",
+        "word original": "knot"
+    },
+    "['\uc78e']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"dolencia\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"econom\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Espa\u00f1ol: \"",
+        "target": "['hoja', 'follaje', 'Laphi']",
+        "word original": "leaf"
+    },
+    "['\ud154\ub808\ube44\uc804', '\ud2f0\ubdd4', '\ube44\ub514\uc624', '\ud2f0\ube44', '\ud154\ub808\ube44', '\uc804\uc2dc', '\ud14c\ub808\ube44', '\ud2f0\ube0c\uc774', '\ud154\ub808\ube44\uc804 \uc218\uc0c1\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"barco de vela\"\n\ud55c\uad6d\uc5b4: \"\uc5bc\uad74\" - Espa\u00f1ol: \"rostro\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Espa\u00f1ol: \"fuete\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Espa\u00f1ol: \"",
+        "target": "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'television', 'TV', 'caja idiota', 'aparato de televisi\u00f3n', 'caja tonta']",
+        "word original": "line"
+    },
+    "['\uc785\uc220']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"cuadrado\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Espa\u00f1ol: \"lavabo\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\uc785\uc220\" - Espa\u00f1ol: \"",
+        "target": "['labio', 'labios']",
+        "word original": "lip"
+    },
+    "['\uac00\ub9c8', '\uc804\ucc28', '\uc7a5\uac11\uc804\ud22c\ucc28\ub7c9', '\uae30\uac11\uc804\ud22c\ucc28\ub7c9', '\uc8fc\uc804\uc790']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Espa\u00f1ol: \"torno\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Espa\u00f1ol: \"nariz\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\uc11d\" - Espa\u00f1ol: \"joyer\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Espa\u00f1ol: \"estampilla\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"",
+        "target": "['tanque', 'veh\u00edculo blindado de combate', 'carro de combate', 'hervidor', 'caldera', 'calentador', 'Caldera', 'rizo', 'tirabuz\u00f3n', 'bucle', 'Tirabuz\u00f3n', 'sortija', 'rulo', 'onda', 'mecha', 'caracol', 'chicho']",
+        "word original": "lock"
+    },
+    "['\uc77c\uac00\ud568\uc218', '\ub9f5\ud551', '\ud568\uc218']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucc3d\" - Espa\u00f1ol: \"Windows\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"ladrillo\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Espa\u00f1ol: \"hilo\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Espa\u00f1ol: \"pescado\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"",
+        "target": "['funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia']",
+        "word original": "map"
+    },
+    "['\uc131\ub0e5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc637\" - Espa\u00f1ol: \"ropa\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Espa\u00f1ol: \"red de computadoras\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Espa\u00f1ol: \"autoridad\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"sierpe\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"",
+        "target": "['f\u00f3sforo', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo']",
+        "word original": "match"
+    },
+    "['\uc6d0\uc22d\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Espa\u00f1ol: \"camisa\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Espa\u00f1ol: \"dolina\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Espa\u00f1ol: \"torno\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Espa\u00f1ol: \"horno\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Espa\u00f1ol: \"",
+        "target": "['mono', 'mico', 'simio']",
+        "word original": "monkey"
+    },
+    "['\uc704\uc131', '\uc778\uacf5\uc704\uc131', '\uc0c8\ud2c0\ub77c\uc774\ud2b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Espa\u00f1ol: \"",
+        "target": "['sat\u00e9lite artificial', 'sat\u00e9lite', 'satelite', 'orbitador']",
+        "word original": "moon"
+    },
+    "['\uadfc\uc721', '\ud749\uadfc']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Espa\u00f1ol: \"pulgar\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Espa\u00f1ol: \"manantial\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"",
+        "target": "['m\u00fasculo', 'tejido muscular', 'm\u00fasculos pectorales', 'M\u00fasculos pectorales', 'pectoral', 'm\u00fasculo pectoral']",
+        "word original": "muscle"
+    },
+    "['\uc190\ud1b1', '\uc190\ubc1c\ud1b1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Espa\u00f1ol: \"lavabo\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Espa\u00f1ol: \"piel\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Espa\u00f1ol: \"medias\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Espa\u00f1ol: \"",
+        "target": "['u\u00f1a', 'garra']",
+        "word original": "nail"
+    },
+    "['\ubaa9', '\ub208', '\uba38\ub9ac', '\uba71\uc0b4', '\ubaa9\uad6c\uba4d', '\uba71']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Espa\u00f1ol: \"iglesia\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Espa\u00f1ol: \"tren\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Espa\u00f1ol: \"balde\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"animal del campo\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"",
+        "target": "['ojos', 'ojo', 'globo ocular', 'oculus', 'cuello', 'pescuezo', 'nuca', 'cerviz', 'mente', 'cabeza', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta', 'garganta', 'faringe']",
+        "word original": "neck"
+    },
+    "['\uc2e0\uacbd', '\uc2e0\uacbd\uacc4', '\uc2e0\uacbd\uacc4\ud1b5']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Espa\u00f1ol: \"medias\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"",
+        "target": "['sistema nervioso', 'systema nervosum', 'nervio', 'nervus']",
+        "word original": "nerve"
+    },
+    "['\uc778\ud130\ub137', '\uc778\ud130\ub124\ud2b8', '\ub204\ub9ac\ub9dd', '\ub137', '\uac00\uc0c1 \uacf5\uac04']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Espa\u00f1ol: \"mosca\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"animal del campo\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Espa\u00f1ol: \"",
+        "target": "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio']",
+        "word original": "net"
+    },
+    "['\ucf54', '\ud3ec\uc778\ud2b8', '\ub4dd\uc810', '\uc8fc\ub465\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Espa\u00f1ol: \"esponja\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Espa\u00f1ol: \"freno\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"sierpe\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Espa\u00f1ol: \"",
+        "target": "['nariz', '\u00f3rgano olfactivo', 'olfato', 'puntaje', 'puntuaci\u00f3n', 'point', 'tantos', 'punto', 'hocico']",
+        "word original": "nose"
+    },
+    "['\uc0ac\ubb34\uc2e4', '\uc815\ubd80 \uae30\uad00', '\uad00\uccad', '\uc624\ud53c\uc2a4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Espa\u00f1ol: \"video\"\n\ud55c\uad6d\uc5b4: \"\uc704\uc131\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\n\ud55c\uad6d\uc5b4: \"\ubb3c\uace0\uae30\" - Espa\u00f1ol: \"pescado\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"roedor\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Espa\u00f1ol: \"estrella\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Espa\u00f1ol: \"",
+        "target": "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento']",
+        "word original": "office"
+    },
+    "['\uc8fc\ud669', '\uc8fc\ud669\uc0c9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Espa\u00f1ol: \"espada\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub3d9\uc774\" - Espa\u00f1ol: \"balde\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"constituci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Espa\u00f1ol: \"",
+        "target": "['naranja', 'anaranjado']",
+        "word original": "orange"
+    },
+    "['\uc624\ube10']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc7a5\uac11\" - Espa\u00f1ol: \"armadura\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"dolencia\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Espa\u00f1ol: \"mono\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Espa\u00f1ol: \"iglesia\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\uc624\ube10\" - Espa\u00f1ol: \"",
+        "target": "['horno', 'estufa']",
+        "word original": "oven"
+    },
+    "['\ud39c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae30\" - Espa\u00f1ol: \"bandera\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"dolencia\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"constituci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\ud669\" - Espa\u00f1ol: \"naranja\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"",
+        "target": "['pluma', 'boli', 'bol\u00edgrafo']",
+        "word original": "pen"
+    },
+    "['\uc5f0\ud544']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Espa\u00f1ol: \"marrano\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Espa\u00f1ol: \"c\u00e1rcel\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"abeja\"\n\ud55c\uad6d\uc5b4: \"\uc5f0\ud544\" - Espa\u00f1ol: \"",
+        "target": "['l\u00e1piz']",
+        "word original": "pencil"
+    },
+    "['\uc601\ud654', '\ud30c\uc6b4\ub4dc \uc2a4\ud138\ub9c1', '\ud30c\uc6b4\ub4dc', '\u00a3']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"roedor\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Espa\u00f1ol: \"ley\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"",
+        "target": "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine', 'libra esterlina', 'libra', 'libras esterlinas', 'esterlina', '\u00a3', 'cinema', 'celuloide']",
+        "word original": "picture"
+    },
+    "['\ub3fc\uc9c0', '\uba67\ub3fc\uc9c0\uc18d', 'Sus scrofa domestica']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uae43\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Espa\u00f1ol: \"avi\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Espa\u00f1ol: \"",
+        "target": "['marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'porc', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'Sus scrofa']",
+        "word original": "pig"
+    },
+    "['\ube44\ud589\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"pastel\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Espa\u00f1ol: \"\u00e1ngulo\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Espa\u00f1ol: \"hilo\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"ventana\"\n\ud55c\uad6d\uc5b4: \"\ube44\ud589\uae30\" - Espa\u00f1ol: \"",
+        "target": "['avi\u00f3n', 'aeroplano', 'Avi\u00f3n', 'aeronave']",
+        "word original": "plane"
+    },
+    "['\uc7c1\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\ub3cc\" - Espa\u00f1ol: \"ladrillo\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Espa\u00f1ol: \"estrella\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"",
+        "target": "['arado', 'arar', 'arada']",
+        "word original": "plough"
+    },
+    "['\ud638\uc8fc\uba38\ub2c8', '\uc8fc\uba38\ub2c8', '\ud3ec\ucf13']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"B\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\uc131\ub0e5\" - Espa\u00f1ol: \"f\u00f3sforo\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Espa\u00f1ol: \"vag\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"",
+        "target": "['bolsillo', 'bolsa']",
+        "word original": "pocket"
+    },
+    "['\uac10\uc790', 'Solanum tuberosum']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud3ec\ud06c\" - Espa\u00f1ol: \"cerdo\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Espa\u00f1ol: \"cuchara\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Espa\u00f1ol: \"sax\"\n\ud55c\uad6d\uc5b4: \"\uac00\uae08\" - Espa\u00f1ol: \"animal del campo\"\n\ud55c\uad6d\uc5b4: \"\uac10\uc790\" - Espa\u00f1ol: \"",
+        "target": "['patata', 'papa', 'Solanum tuberosum', 'tater']",
+        "word original": "potato"
+    },
+    "['\uad50\ub3c4\uc18c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Espa\u00f1ol: \"ropa\"\n\ud55c\uad6d\uc5b4: \"\uc190\" - Espa\u00f1ol: \"thorn\"\n\ud55c\uad6d\uc5b4: \"\uacbd\uc81c\ud559\" - Espa\u00f1ol: \"econom\u00eda\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']",
+        "word original": "prison"
+    },
+    "['\uc950', '\uc124\uce58\ub958', '\uc0dd\uc950\uc18d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub208\" - Espa\u00f1ol: \"nevada\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Espa\u00f1ol: \"ropa\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"gato\"\n\ud55c\uad6d\uc5b4: \"\uc54c\" - Espa\u00f1ol: \"huevo de gallina\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"",
+        "target": "['roedor', 'Rodentia', 'gnawer', 'roedores', 'rodentia', 'rata', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus']",
+        "word original": "rat"
+    },
+    "['\uc1a1\uc7a5', '\uc7a5\ub840', '\uc7a5\ub840\uc2dd', '\uc778\ubcf4\uc774\uc2a4', '\uacc4\uc0b0\uc11c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"constituci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ucc45\" - Espa\u00f1ol: \"libro\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"roedor\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Espa\u00f1ol: \"",
+        "target": "['entierro', 'funeral', 'factura', 'albar\u00e1n', 'recibo', 'cuenta']",
+        "word original": "receipt"
+    },
+    "['\uccb4\ubc8c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"pel\u00edcula\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Espa\u00f1ol: \"c\u00e1rcel\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"abeja\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Espa\u00f1ol: \"sax\"\n\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Espa\u00f1ol: \"",
+        "target": "['castigo corporal', 'castigo f\u00edsico']",
+        "word original": "rod"
+    },
+    "['\uc9c0\ubd95']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc544\uae30\" - Espa\u00f1ol: \"ni\u00f1o\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Espa\u00f1ol: \"tren\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Espa\u00f1ol: \"Windows\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"",
+        "target": "['techumbre', 'techo', 'cubierta', 'tejado']",
+        "word original": "roof"
+    },
+    "['\ubc94\uc120']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Espa\u00f1ol: \"estampilla\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"",
+        "target": "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']",
+        "word original": "sail"
+    },
+    "['\ub300\ud559\uad50', '\ud559\uad50', '\uc544\uce74\ub370\ubbf8', '\ud559\ud68c', '\ub300\ud559']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Espa\u00f1ol: \"domingo\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\" - Espa\u00f1ol: \"sombrero de fieltro\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Espa\u00f1ol: \"marrano\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Espa\u00f1ol: \"her\u00e1ldica\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"",
+        "target": "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto']",
+        "word original": "school"
+    },
+    "['\uac00\uc704']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9d0\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Espa\u00f1ol: \"peine\"\n\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"martillo\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"cuadrado\"\n\ud55c\uad6d\uc5b4: \"\uac00\uc704\" - Espa\u00f1ol: \"",
+        "target": "['sax', 'tijeras', 'tijera']",
+        "word original": "scissors"
+    },
+    "['\uc528', '\uc131\uc528', '\uc528\uc557']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"gato\"\n\ud55c\uad6d\uc5b4: \"\ub098\uc774\ud504\" - Espa\u00f1ol: \"cuchillo\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uc5f4\uc1e0\" - Espa\u00f1ol: \"llave\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Espa\u00f1ol: \"calcet\u00edn\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"",
+        "target": "['apellido', 'sobrenombre', 'semilla', 'pepita', 'simiente', 'causa']",
+        "word original": "seed"
+    },
+    "['\uc591', 'Ovis aries', '\ub458', '\uc774', '\ub450', '\ube44\uc728', '\uae08\uc561', '\uc561\uc218']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf54\" - Espa\u00f1ol: \"nariz\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Espa\u00f1ol: \"cuchara\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"amortiguador\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Espa\u00f1ol: \"",
+        "target": "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia', 'dos', 'cantidad', 'cuant\u00eda', 'monto', 'montante', 'medida', '\u00edndice', 'tasa', 'ritmo', 'velocidad', 'est\u00e1ndar', 'criterio', 'norma', 'patr\u00f3n', 'pauta', 'piedra de toque', 'regla', 'n\u00famero', 'suma', 'importe']",
+        "word original": "sheep"
+    },
+    "['\uc120\ubc18']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\uace0\uc591\uc774\" - Espa\u00f1ol: \"gato\"\n\ud55c\uad6d\uc5b4: \"\uc804\ub839\" - Espa\u00f1ol: \"her\u00e1ldica\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Espa\u00f1ol: \"\u00e1ngulo\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Espa\u00f1ol: \"",
+        "target": "['torno', 'Torno', 'estante', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o', 'estanter\u00eda']",
+        "word original": "shelf"
+    },
+    "['\uc120\ubc15', '\ubc30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Espa\u00f1ol: \"ropa\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Espa\u00f1ol: \"pared\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\ucef5\" - Espa\u00f1ol: \"taza\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Espa\u00f1ol: \"",
+        "target": "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'casco', 'vaso']",
+        "word original": "ship"
+    },
+    "['\uc154\uce20', '\uc640\uc774\uc154\uce20', '\ub0a8\ubc29']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"asentamiento humano\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"dios\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Espa\u00f1ol: \"",
+        "target": "['camisa']",
+        "word original": "shirt"
+    },
+    "['\uc2e0', '\uc2e0\ubc1c', '\uc2e0\uc7a5', '\ucf69\ud325', '\ud658\ud76c', '\uae30\uc068', '\uc990\uac70\uc6c0', '\ud30c\ub178\ub77c\ub9c8', 'panorama', '\uc5f4\uad11']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Espa\u00f1ol: \"paraguas\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Espa\u00f1ol: \"oveja\"\n\ud55c\uad6d\uc5b4: \"\ube57\" - Espa\u00f1ol: \"peine\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\" - Espa\u00f1ol: \"",
+        "target": "['dios', 'deidad', 'diosa', 'divinidad', 'inmortal', 'zapato', 'ri\u00f1\u00f3n', 'alegr\u00eda', 'regocijo', 'j\u00fabilo', 'felicidad', 'gozo', 'ilusi\u00f3n', 'joya', 'panorama', 'imagen panor\u00e1mica', 'vista', 'aspecto', 'escena', 'perspectiva', 'entusiasmo', 'confianza', 'certidumbre', 'f\u00e9', 'excitaci\u00f3n']",
+        "word original": "tongue"
+    },
+    "['\uc0b4\uac17', '\ud53c\ubd80']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucf54\" - Espa\u00f1ol: \"nariz\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"sierpe\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"amortiguador\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"roedor\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Espa\u00f1ol: \"",
+        "target": "['piel', 'cutis', 'tegumento']",
+        "word original": "skin"
+    },
+    "['\uce58\ub9c8', '\uc2a4\ucee4\ud2b8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Espa\u00f1ol: \"hilo\"\n\ud55c\uad6d\uc5b4: \"\uc644\ucda9\uae30\" - Espa\u00f1ol: \"amortiguador\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Espa\u00f1ol: \"",
+        "target": "['falda', 'saya', 'enaguas', 'pollera']",
+        "word original": "skirt"
+    },
+    "['\ubc40']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Espa\u00f1ol: \"insecto\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"",
+        "target": "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']",
+        "word original": "snake"
+    },
+    "['\uc591\ub9d0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Espa\u00f1ol: \"u\u00f1a\"\n\ud55c\uad6d\uc5b4: \"\ubb34\uae30\" - Espa\u00f1ol: \"arma\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Espa\u00f1ol: \"entierro\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"Cosaco\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Espa\u00f1ol: \"ley\"\n\ud55c\uad6d\uc5b4: \"\uc591\ub9d0\" - Espa\u00f1ol: \"",
+        "target": "['calcet\u00edn', 'media', 'calcetines']",
+        "word original": "sock"
+    },
+    "['\ud574\uba74\ub3d9\ubb3c', 'Porifera']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Espa\u00f1ol: \"entierro\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"garganta\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Espa\u00f1ol: \"reloj\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"pastel\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Espa\u00f1ol: \"",
+        "target": "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']",
+        "word original": "sponge"
+    },
+    "['\uc2a4\ud47c', '\uc21f\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Espa\u00f1ol: \"dolina\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"cigarro\"\n\ud55c\uad6d\uc5b4: \"\ud39c\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uac1c\ubbf8\" - Espa\u00f1ol: \"hormiga\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Espa\u00f1ol: \"iglesia\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud47c\" - Espa\u00f1ol: \"",
+        "target": "['cuchara']",
+        "word original": "spoon"
+    },
+    "['\uc0d8\ud130', '\uc0d8']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc77c\uac00\ud568\uc218\" - Espa\u00f1ol: \"funci\u00f3n matem\u00e1tica\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\n\ud55c\uad6d\uc5b4: \"\uac1c\" - Espa\u00f1ol: \"perra\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"fundillo\"\n\ud55c\uad6d\uc5b4: \"\uc0d8\ud130\" - Espa\u00f1ol: \"",
+        "target": "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n']",
+        "word original": "spring"
+    },
+    "['\uc815\uc0ac\uac01\ud615']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc12c\" - Espa\u00f1ol: \"isla\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"pel\u00edcula\"\n\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\uada4\" - Espa\u00f1ol: \"ba\u00fal\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"",
+        "target": "['cuadrado', 'cuadro']",
+        "word original": "square"
+    },
+    "['\uc6b0\ud45c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\uc120\ubc18\" - Espa\u00f1ol: \"torno\"\n\ud55c\uad6d\uc5b4: \"\ubc94\uc120\" - Espa\u00f1ol: \"barco de vela\"\n\ud55c\uad6d\uc5b4: \"\uce58\ub9c8\" - Espa\u00f1ol: \"falda\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\ud45c\" - Espa\u00f1ol: \"",
+        "target": "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']",
+        "word original": "stamp"
+    },
+    "['\ubcc4', '\ud56d\uc131', '\uc678\uacc4 \ud589\uc131 \uc8fc\uc778\ubcc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"abeja\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\uc7c1\uae30\" - Espa\u00f1ol: \"arado\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Espa\u00f1ol: \"c\u00e1rcel\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Espa\u00f1ol: \"",
+        "target": "['estrella', 'astro']",
+        "word original": "star"
+    },
+    "['\uc904\uae30', '\uadfc\uc721', '\uac00\uc9c0', '\ub098\ubb47\uac00\uc9c0', '\ub098\ubb34\uc904\uae30', '\uadf8\ub8e8', '\uad11\uc120\ube54', '\uad11\uc120']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Espa\u00f1ol: \"u\u00f1a\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Espa\u00f1ol: \"vag\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\uad50\ub3c4\uc18c\" - Espa\u00f1ol: \"c\u00e1rcel\"\n\ud55c\uad6d\uc5b4: \"\uad50\ud68c\" - Espa\u00f1ol: \"iglesia\"\n\ud55c\uad6d\uc5b4: \"\uc904\uae30\" - Espa\u00f1ol: \"",
+        "target": "['m\u00fasculo', 'tejido muscular', 'rama', 'tronco', 'rayo', 'rayo luminoso', 'rayo de luz', 'haz', 'haz de luz', 'irradiaci\u00f3n']",
+        "word original": "stem"
+    },
+    "['\uc5fd\uad90\ub828']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud154\ub808\ube44\uc804\" - Espa\u00f1ol: \"video\"\n\ud55c\uad6d\uc5b4: \"\uae43\" - Espa\u00f1ol: \"pluma\"\n\ud55c\uad6d\uc5b4: \"\uc9c0\ubd95\" - Espa\u00f1ol: \"techumbre\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"abeja\"\n\ud55c\uad6d\uc5b4: \"\ubcf4\ud2b8\" - Espa\u00f1ol: \"buque submarino\"\n\ud55c\uad6d\uc5b4: \"\uc5fd\uad90\ub828\" - Espa\u00f1ol: \"",
+        "target": "['cigarro', 'puro', 'cigarro puro', 'cigarrillo', 'chicote', 'tagarnina']",
+        "word original": "stick"
+    },
+    "['\uc2a4\ud0c0\ud0b9']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"martillo\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Espa\u00f1ol: \"fuete\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Espa\u00f1ol: \"tren\"\n\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Espa\u00f1ol: \"sombrero\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Espa\u00f1ol: \"",
+        "target": "['medias', 'media']",
+        "word original": "stocking"
+    },
+    "['\uc704', '\uc704\uc7a5', '\uba38\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc218\ub808\" - Espa\u00f1ol: \"carro\"\n\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\ubb34\uc2e4\" - Espa\u00f1ol: \"autoridad\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Espa\u00f1ol: \"freno\"\n\ud55c\uad6d\uc5b4: \"\uc5ec\uc790\" - Espa\u00f1ol: \"mujer\"\n\ud55c\uad6d\uc5b4: \"\uc704\" - Espa\u00f1ol: \"",
+        "target": "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero', 'mente', 'cabeza', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta', 'visi\u00f3n', 'mirada', 'perspectiva', 'vista']",
+        "word original": "stomach"
+    },
+    "['\uc8fc\uae30\uc5b5\uc7a5\uce58', '\uae30\uc5b5 \uc7a5\uce58', '\uba54\ubaa8\ub9ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\ud30c\ub9ac\ubaa9\" - Espa\u00f1ol: \"mosca\"\n\ud55c\uad6d\uc5b4: \"\uc591\" - Espa\u00f1ol: \"oveja\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"mesa\"\n\ud55c\uad6d\uc5b4: \"\ud638\uc8fc\uba38\ub2c8\" - Espa\u00f1ol: \"bolsillo\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"",
+        "target": "['memoria', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional']",
+        "word original": "store"
+    },
+    "['\uc77c\uc694\uc77c', '\uc8fc\uc77c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Espa\u00f1ol: \"piel\"\n\ud55c\uad6d\uc5b4: \"\ub3fc\uc9c0\" - Espa\u00f1ol: \"marrano\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Espa\u00f1ol: \"dolina\"\n\ud55c\uad6d\uc5b4: \"\uad70\uc0ac\" - Espa\u00f1ol: \"fuerza\"\n\ud55c\uad6d\uc5b4: \"\uc77c\uc694\uc77c\" - Espa\u00f1ol: \"",
+        "target": "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']",
+        "word original": "sun"
+    },
+    "['\ud14c\uc774\ube14', '\ud0c1\uc790', '\ubc25\uc0c1', '\uc0c1', '\ucc45\uc0c1']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\ubb38\" - Espa\u00f1ol: \"ventana\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"cuadrado\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Espa\u00f1ol: \"mono\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"\u00e1rbol\"\n\ud55c\uad6d\uc5b4: \"\ud14c\uc774\ube14\" - Espa\u00f1ol: \"",
+        "target": "['mesa', 'escritorio', 'pupitre', 'mesa de despacho', 'bufete', 'buro']",
+        "word original": "table"
+    },
+    "['\uaf2c\ub9ac', '\ubcfc\uae30']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uc154\uce20\" - Espa\u00f1ol: \"camisa\"\n\ud55c\uad6d\uc5b4: \"\uc637\" - Espa\u00f1ol: \"ropa\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uaf2c\ub9ac\" - Espa\u00f1ol: \"",
+        "target": "['fundillo', 'culo', 'trasero', 'nalga', 'asiento', 'gl\u00fateos', 'asentaderas', 'ancas', 'pandero', 'tras', 'oc\u00f3te', 'posas', 'cola', 'suelo', 'traste', 'ano', 'tuje', 'cachas', 'posaderas', 'keister', 'fondo', 'grupa', 'fin', 'rul\u00e9', 'poto', 'posterior', 'as de oros', 'nalgas', 'cachetes', 'pompis']",
+        "word original": "tail"
+    },
+    "['\uc2e4', '\ud138\uc2e4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\uc815\uc0ac\uac01\ud615\" - Espa\u00f1ol: \"cuadrado\"\n\ud55c\uad6d\uc5b4: \"\uce74\uba54\ub77c\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Espa\u00f1ol: \"pared\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uc2e4\" - Espa\u00f1ol: \"",
+        "target": "['hilo', 'hebra', 'hilado', 'lana', 'hilaza']",
+        "word original": "thread"
+    },
+    "['\uba71\uc0b4', '\ubaa9\uad6c\uba4d', '\uba71']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc1a1\uc7a5\" - Espa\u00f1ol: \"entierro\"\n\ud55c\uad6d\uc5b4: \"\uc9d1\" - Espa\u00f1ol: \"asentamiento humano\"\n\ud55c\uad6d\uc5b4: \"\uac1c\uc218\ub300\" - Espa\u00f1ol: \"lavabo\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\ucc28\" - Espa\u00f1ol: \"vag\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ub9e4\ub4ed\" - Espa\u00f1ol: \"nudo\"\n\ud55c\uad6d\uc5b4: \"\uba71\uc0b4\" - Espa\u00f1ol: \"",
+        "target": "['garganta', 'faringe']",
+        "word original": "throat"
+    },
+    "['\uc5c4\uc9c0', '\uc5c4\uc9c0\uc190\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"B\"\n\ud55c\uad6d\uc5b4: \"\uc2a4\ud0c0\ud0b9\" - Espa\u00f1ol: \"medias\"\n\ud55c\uad6d\uc5b4: \"\ub9de\uaf2d\uc9c0\uac01\" - Espa\u00f1ol: \"\u00e1ngulo\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\ubf08\" - Espa\u00f1ol: \"hueso\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Espa\u00f1ol: \"",
+        "target": "['pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']",
+        "word original": "thumb"
+    },
+    "['\ube44', 'B', '\ub959', '\uc5ec\uc12f', '\uc721', '\uacfc\uae08', '\uc694\uae08', '\ub8cc\uae08', '\uc6b4\uc784']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ud131\" - Espa\u00f1ol: \"barbilla\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"abeja\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uc804\uc790\" - Espa\u00f1ol: \"tetera\"\n\ud55c\uad6d\uc5b4: \"\uc544\uce58\" - Espa\u00f1ol: \"arco\"\n\ud55c\uad6d\uc5b4: \"\uc81c\ub3d9\uae30\" - Espa\u00f1ol: \"freno\"\n\ud55c\uad6d\uc5b4: \"\ube44\" - Espa\u00f1ol: \"",
+        "target": "['B', 'agua pluvial', 'lluvia', 'agua de lluvia', 'precipitaci\u00f3n', 'aguacero', 'seis', 'Sexteto de m\u00fasica', 'sixer', 'sexteto', 'sise', 'hexad', 'sestet', 'honorario', 'tasa', 'tarifa', 'cuota', 'honorarios', 'estipendio', 'pasaje', 'billete', 'raz\u00f3n', '\u00edndice', 'cociente', 'ratio', 'proporci\u00f3n', 'relaci\u00f3n', 'raz\u00f3n aritm\u00e9tica']",
+        "word original": "ticket"
+    },
+    "['\ubc1c\uac00\ub77d', '\uc190\uac00\ub77d', '\uc190\ubc1c\uac00\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\uc950\" - Espa\u00f1ol: \"roedor\"\n\ud55c\uad6d\uc5b4: \"\ub9dd\uce58\" - Espa\u00f1ol: \"martillo\"\n\ud55c\uad6d\uc5b4: \"\ub300\ud559\uad50\" - Espa\u00f1ol: \"universidad\"\n\ud55c\uad6d\uc5b4: \"\uac00\ub9c8\" - Espa\u00f1ol: \"tanque\"\n\ud55c\uad6d\uc5b4: \"\ubc1c\uac00\ub77d\" - Espa\u00f1ol: \"",
+        "target": "['dedo', 'd\u00edgito', 'dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie']",
+        "word original": "toe"
+    },
+    "['\uc774', '\uc790\uc5f0\ubc95', '\ubc95\ub960', '\ub458', '\ub450', '\uc0ac\ub78c\uc758 \uc774', '\uadc0', '\ud131', '\uc544\ub798\ud131', '\uc624\uc58f', '\uc11c\uc591\uc790\ub450', '\uc790\ub450', '\uc21c\uc774\uc775', '\uc774\uc775']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc120\ubc15\" - Espa\u00f1ol: \"barco\"\n\ud55c\uad6d\uc5b4: \"\uc5c4\uc9c0\" - Espa\u00f1ol: \"pulgar\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\" - Espa\u00f1ol: \"abeja\"\n\ud55c\uad6d\uc5b4: \"\ubcc4\" - Espa\u00f1ol: \"estrella\"\n\ud55c\uad6d\uc5b4: \"\uc190\ud1b1\" - Espa\u00f1ol: \"u\u00f1a\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Espa\u00f1ol: \"",
+        "target": "['ley', 'derecho', 'derecho natural', 'ley natural', 'dos', 'diente', 'dientes', 'diente humano', 'o\u00eddo', 'orejas', 'oreja', 'barbilla', 'ment\u00f3n', 'pera', 'barba', 'ciruela', 'pruna', 'color ciruela', 'ganancia', 'beneficio', 'ingreso neto', 'lucro', 'ingresos netos', 'net', 'ganancia neta', 'beneficio neto', 'beneficios', 'ganancias', 'productividad', 'rendimiento', 'r\u00e9dito', 'ingresos', 'ganancia econ\u00f3mica']",
+        "word original": "tooth"
+    },
+    "['\ub9c8\uc744', '\ucd0c\ub77d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc815\uc6d0\" - Espa\u00f1ol: \"jard\u00edn\"\n\ud55c\uad6d\uc5b4: \"\ud138\" - Espa\u00f1ol: \"barba\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\ud574\uba74\ub3d9\ubb3c\" - Espa\u00f1ol: \"esponja\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"constituci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ub9c8\uc744\" - Espa\u00f1ol: \"",
+        "target": "['caser\u00edo', 'pueblo', 'aldea', 'aldehuela', 'villa', 'ciudad', 'poblaci\u00f3n']",
+        "word original": "town"
+    },
+    "['\uae30\ucc28', '\uc5f4\ucc28']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\ud131\" - Espa\u00f1ol: \"barbilla\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Espa\u00f1ol: \"insecto\"\n\ud55c\uad6d\uc5b4: \"\ucf54\" - Espa\u00f1ol: \"nariz\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\uc22d\uc774\" - Espa\u00f1ol: \"mono\"\n\ud55c\uad6d\uc5b4: \"\uae30\ucc28\" - Espa\u00f1ol: \"",
+        "target": "['tren', 'ferrocarril', 'locomotora', 'trenes']",
+        "word original": "train"
+    },
+    "['\ub098\ubb34', '\ubaa9\uc7ac']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc0c1\uc790\" - Espa\u00f1ol: \"cajas\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\uacbd\" - Espa\u00f1ol: \"sistema nervioso\"\n\ud55c\uad6d\uc5b4: \"\uadfc\uc721\" - Espa\u00f1ol: \"m\u00fasculo\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\uc774\" - Espa\u00f1ol: \"ley\"\n\ud55c\uad6d\uc5b4: \"\ub098\ubb34\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1rbol', 'arbol', 'albura', 's\u00e1mago', 'madera']",
+        "word original": "tree"
+    },
+    "['\ubc14\uc9c0', '\uce74\uc790\ud06c']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\ucf00\uc774\ud06c\" - Espa\u00f1ol: \"pastel\"\n\ud55c\uad6d\uc5b4: \"\uc78e\" - Espa\u00f1ol: \"hoja\"\n\ud55c\uad6d\uc5b4: \"\uc778\uccb4\uc0dd\ub9ac\ud559\" - Espa\u00f1ol: \"constituci\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ubc14\uc9c0\" - Espa\u00f1ol: \"",
+        "target": "['Cosaco', 'cosaco', 'pantal\u00f3n', 'pantalones', 'herales']",
+        "word original": "trousers"
+    },
+    "['\uc6b0\uc0b0\uacfc \uc591\uc0b0']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ucef5\" - Espa\u00f1ol: \"taza\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"bicicleta\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\uc0b4\uac17\" - Espa\u00f1ol: \"piel\"\n\ud55c\uad6d\uc5b4: \"\uc6b0\uc0b0\uacfc \uc591\uc0b0\" - Espa\u00f1ol: \"",
+        "target": "['paraguas', 'sombrilla', 'parasol']",
+        "word original": "umbrella"
+    },
+    "['\ubcbd']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\uc0ac\uacfc\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\" - Espa\u00f1ol: \"dolencia\"\n\ud55c\uad6d\uc5b4: \"\ubc40\" - Espa\u00f1ol: \"sierpe\"\n\ud55c\uad6d\uc5b4: \"\uc2ec\uc7a5\" - Espa\u00f1ol: \"coraz\u00f3n\"\n\ud55c\uad6d\uc5b4: \"\ubcbd\" - Espa\u00f1ol: \"",
+        "target": "['pared', 'muro', 'muralla']",
+        "word original": "wall"
+    },
+    "['\uc2dc\uac04\ud314\ucc0c', '\ud734\ub300\uc6a9 \uc2dc\uacc4', '\uc190\ubaa9 \uc2dc\uacc4', '\uc6cc\uce58', '\uc2dc\uacc4']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uac00\ub77d\uc9c0\" - Espa\u00f1ol: \"anillo\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uc778\ud130\ub137\" - Espa\u00f1ol: \"red de computadoras\"\n\ud55c\uad6d\uc5b4: \"\ubaa9\" - Espa\u00f1ol: \"ojos\"\n\ud55c\uad6d\uc5b4: \"\uc2dc\uac04\ud314\ucc0c\" - Espa\u00f1ol: \"",
+        "target": "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']",
+        "word original": "watch"
+    },
+    "['\u81ea\u8f49\u8eca', '\uc790\uc804\uac70']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uccb4\ubc8c\" - Espa\u00f1ol: \"castigo corporal\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Espa\u00f1ol: \"insecto\"\n\ud55c\uad6d\uc5b4: \"\uc8fc\uae30\uc5b5\uc7a5\uce58\" - Espa\u00f1ol: \"memoria\"\n\ud55c\uad6d\uc5b4: \"\ub9d0\" - Espa\u00f1ol: \"caser\u00edo\"\n\ud55c\uad6d\uc5b4: \"\ubaa8\uc790\" - Espa\u00f1ol: \"sombrero\"\n\ud55c\uad6d\uc5b4: \"\u81ea\u8f49\u8eca\" - Espa\u00f1ol: \"",
+        "target": "['bicicleta', 'bici', 'bicicletas']",
+        "word original": "wheel"
+    },
+    "['\ucc44\ucc0d']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc57c\uad6c\" - Espa\u00f1ol: \"b\u00e9isbol\"\n\ud55c\uad6d\uc5b4: \"\uace8\uc9dc\uae30\" - Espa\u00f1ol: \"dolina\"\n\ud55c\uad6d\uc5b4: \"\uc6d0\" - Espa\u00f1ol: \"c\u00edrculo\"\n\ud55c\uad6d\uc5b4: \"\ub204\uc2a4\" - Espa\u00f1ol: \"mente\"\n\ud55c\uad6d\uc5b4: \"\ub2e4\ub9ac\" - Espa\u00f1ol: \"puente\"\n\ud55c\uad6d\uc5b4: \"\ucc44\ucc0d\" - Espa\u00f1ol: \"",
+        "target": "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']",
+        "word original": "whip"
+    },
+    "['\ucc3d', '\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8 \uc708\ub3c4\uc6b0', '\uc708\ub3c4', '\uc708\ub3c4\uc6b0', '\ub3c4\uac80', '\uce7c', '\uac80', '\ucc3d\ubb38']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc704\" - Espa\u00f1ol: \"est\u00f3mago\"\n\ud55c\uad6d\uc5b4: \"\ub18d\uc7a5\" - Espa\u00f1ol: \"granja\"\n\ud55c\uad6d\uc5b4: \"\uc601\ud654\" - Espa\u00f1ol: \"pel\u00edcula\"\n\ud55c\uad6d\uc5b4: \"\ubc29\uc6b8\" - Espa\u00f1ol: \"gota\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\ucc3d\" - Espa\u00f1ol: \"",
+        "target": "['Windows', 'Microsoft Windows', 'windows', 'espada', 'garrancha', 'ventana']",
+        "word original": "window"
+    },
+    "['\ub0a0\uac1c', '\ub3c4\uac80', '\uce7c', '\uac80', '\uae43', '\uae43\ud138', '\ud314\ub2e4\ub9ac', '\uc0ac\uc9c0', '\uc9c0', '\ud314', '\ub0a0', '\uaca8\ub4dc\ub791\uc774']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc528\" - Espa\u00f1ol: \"apellido\"\n\ud55c\uad6d\uc5b4: \"\uce68\ub300\" - Espa\u00f1ol: \"cama\"\n\ud55c\uad6d\uc5b4: \"\ucee4\ud2bc\" - Espa\u00f1ol: \"cortina\"\n\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\uc7ac\ud0b7\" - Espa\u00f1ol: \"casaca\"\n\ud55c\uad6d\uc5b4: \"\ub0a0\uac1c\" - Espa\u00f1ol: \"",
+        "target": "['espada', 'garrancha', 'pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas', 'ala', 'miembro', 'extremidad', 'filo', 'cuchilla', 'hoja', 'axila', 'sobaco', 'fosa axilar']",
+        "word original": "wing"
+    },
+    "['\ubc8c\ub808', '\uace4\ucda9', 'Insecta']": {
+        "prompt": "\ud55c\uad6d\uc5b4: \"\uc18c\" - Espa\u00f1ol: \"demanda\"\n\ud55c\uad6d\uc5b4: \"\ud654\uc7a5\uc2e4\" - Espa\u00f1ol: \"inodoro\"\n\ud55c\uad6d\uc5b4: \"\uc2e0\ubd84\uc99d\" - Espa\u00f1ol: \"documento de identidad\"\n\ud55c\uad6d\uc5b4: \"\uc190\uac00\ub77d\" - Espa\u00f1ol: \"dedo\"\n\ud55c\uad6d\uc5b4: \"\ubcd1\uc6d0\" - Espa\u00f1ol: \"hospital\"\n\ud55c\uad6d\uc5b4: \"\ubc8c\ub808\" - Espa\u00f1ol: \"",
+        "target": "['insecto', 'Insecta', 'insecta', 'insectos', 'gusano', 'verme', 'chinche', 'hem\u00edptero', 'hemipteron']",
+        "word original": "worm"
+    }
+}

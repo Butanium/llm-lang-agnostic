@@ -1,0 +1,882 @@
+{
+    "['angle', 'adjacent angle', 'supplementary angles', 'Complementary angles', 'vertically opposite angle theorem', 'vertical angles']": {
+        "prompt": "English: \"clinic\" - Espa\u00f1ol: \"hospital\"\nEnglish: \"camera\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nEnglish: \"hat\" - Espa\u00f1ol: \"sombrero\"\nEnglish: \"natural satellite\" - Espa\u00f1ol: \"sat\u00e9lite\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"angle\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios']",
+        "word original": "angle"
+    },
+    "['ant', 'emmet', 'pismire', 'Formicidae']": {
+        "prompt": "English: \"camera\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nEnglish: \"finger\" - Espa\u00f1ol: \"peineta\"\nEnglish: \"bridge\" - Espa\u00f1ol: \"puente\"\nEnglish: \"nut\" - Espa\u00f1ol: \"\u00f3vulo\"\nEnglish: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"ant\" - Espa\u00f1ol: \"",
+        "target": "['hormiga', 'Formicidae', 'formicidae']",
+        "word original": "ant"
+    },
+    "['apple peel', 'apple']": {
+        "prompt": "English: \"bee\" - Espa\u00f1ol: \"abeja\"\nEnglish: \"orangeness\" - Espa\u00f1ol: \"naranja\"\nEnglish: \"tree\" - Espa\u00f1ol: \"\u00e1rbol\"\nEnglish: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"hand\" - Espa\u00f1ol: \"caligraf\u00eda\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1scara de manzana', 'manzana']",
+        "word original": "apple"
+    },
+    "['arch']": {
+        "prompt": "English: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"roof\" - Espa\u00f1ol: \"techumbre\"\nEnglish: \"cycle\" - Espa\u00f1ol: \"bicicleta\"\nEnglish: \"curtain\" - Espa\u00f1ol: \"cortina\"\nEnglish: \"picture\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"arch\" - Espa\u00f1ol: \"",
+        "target": "['arco']",
+        "word original": "arch"
+    },
+    "['weapon', 'weapon system', 'arm', 'horn']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"dog\" - Espa\u00f1ol: \"perra\"\nEnglish: \"fish\" - Espa\u00f1ol: \"pescado\"\nEnglish: \"boxes\" - Espa\u00f1ol: \"cajas\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"weapon\" - Espa\u00f1ol: \"",
+        "target": "['arma', 'cuerno', 'Cuerno']",
+        "word original": "arm"
+    },
+    "['armed forces', 'military', 'force', 'military unit', 'military force', 'war machine', 'armed services', 'military machine']": {
+        "prompt": "English: \"orangeness\" - Espa\u00f1ol: \"naranja\"\nEnglish: \"circle\" - Espa\u00f1ol: \"c\u00edrculo\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"motor\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"armed forces\" - Espa\u00f1ol: \"",
+        "target": "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas']",
+        "word original": "army"
+    },
+    "['baby', 'infaneto', 'infant', 'babe']": {
+        "prompt": "English: \"musculus\" - Espa\u00f1ol: \"m\u00fasculo\"\nEnglish: \"duct\" - Espa\u00f1ol: \"ducto\"\nEnglish: \"human body\" - Espa\u00f1ol: \"constituci\u00f3n\"\nEnglish: \"circle\" - Espa\u00f1ol: \"c\u00edrculo\"\nEnglish: \"seed\" - Espa\u00f1ol: \"semilla\"\nEnglish: \"baby\" - Espa\u00f1ol: \"",
+        "target": "['ni\u00f1o', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'ni\u00f1a', 'nene', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'criatura']",
+        "word original": "baby"
+    },
+    "['ring', 'band', 'gang', 'pack', 'mob', 'boxing ring']": {
+        "prompt": "English: \"wall\" - Espa\u00f1ol: \"pared\"\nEnglish: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"bell\" - Espa\u00f1ol: \"campana\"\nEnglish: \"ring\" - Espa\u00f1ol: \"",
+        "target": "['anillo', 'alianza', 'sortija', 'cuadrilla', 'pandilla', 'banda', 'cuadril\u00e1tero']",
+        "word original": "ring"
+    },
+    "['sink', 'swallet', 'doline', 'sinkhole', 'shake hole', 'cenote', 'sink hole', 'swallow hole', 'shakehole', 'basin', 'kitchen sink']": {
+        "prompt": "English: \"stem\" - Espa\u00f1ol: \"tallo\"\nEnglish: \"brush\" - Espa\u00f1ol: \"Matorral\"\nEnglish: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"wing\" - Espa\u00f1ol: \"ala\"\nEnglish: \"throat\" - Espa\u00f1ol: \"garganta\"\nEnglish: \"sink\" - Espa\u00f1ol: \"",
+        "target": "['dolina', 'cenote', 'torca', 'lavabo', 'lavamanos', 'palangana', 'fregadero', 'pila']",
+        "word original": "basin"
+    },
+    "['bath', 'restroom', 'bathroom']": {
+        "prompt": "English: \"mouth\" - Espa\u00f1ol: \"cavidad oral\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"nose\" - Espa\u00f1ol: \"nariz\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"bath\" - Espa\u00f1ol: \"",
+        "target": "['ba\u00f1o', 'cuarto de ba\u00f1o', 'lavabo']",
+        "word original": "bath"
+    },
+    "['bed']": {
+        "prompt": "English: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"seed\" - Espa\u00f1ol: \"semilla\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"domestic sheep\" - Espa\u00f1ol: \"oveja\"\nEnglish: \"poultry\" - Espa\u00f1ol: \"ave de corral\"\nEnglish: \"bed\" - Espa\u00f1ol: \"",
+        "target": "['cama', 'piltra', 'catre', 'sobre', 'lecho']",
+        "word original": "bed"
+    },
+    "['bee', 'Anthophila']": {
+        "prompt": "English: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"aeroplane\" - Espa\u00f1ol: \"aeronave\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"chest\" - Espa\u00f1ol: \"ba\u00fal\"\nEnglish: \"bath\" - Espa\u00f1ol: \"ba\u00f1o\"\nEnglish: \"bee\" - Espa\u00f1ol: \"",
+        "target": "['abeja', 'Anthophila', 'anthophila']",
+        "word original": "bee"
+    },
+    "['bell', 'buzzer', 'doorbell']": {
+        "prompt": "English: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"brake\" - Espa\u00f1ol: \"freno\"\nEnglish: \"chest\" - Espa\u00f1ol: \"ba\u00fal\"\nEnglish: \"screw\" - Espa\u00f1ol: \"tornillo\"\nEnglish: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"bell\" - Espa\u00f1ol: \"",
+        "target": "['campana', 'timbre', 'campanilla de puerta']",
+        "word original": "bell"
+    },
+    "['bird', 'Eu-']": {
+        "prompt": "English: \"cup\" - Espa\u00f1ol: \"taza\"\nEnglish: \"thumb\" - Espa\u00f1ol: \"pulgar\"\nEnglish: \"skirt\" - Espa\u00f1ol: \"falda\"\nEnglish: \"jacket\" - Espa\u00f1ol: \"casaca\"\nEnglish: \"cake\" - Espa\u00f1ol: \"pastel\"\nEnglish: \"bird\" - Espa\u00f1ol: \"",
+        "target": "['p\u00e1jaro', 'ave', 'aves']",
+        "word original": "bird"
+    },
+    "['sword', 'brand', 'steel', 'blade']": {
+        "prompt": "English: \"leaf\" - Espa\u00f1ol: \"hoja\"\nEnglish: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"brush\" - Espa\u00f1ol: \"Matorral\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"sword\" - Espa\u00f1ol: \"",
+        "target": "['espada', 'garrancha']",
+        "word original": "blade"
+    },
+    "['committee', 'commission']": {
+        "prompt": "English: \"cigar\" - Espa\u00f1ol: \"cigarro\"\nEnglish: \"nose\" - Espa\u00f1ol: \"nariz\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"circle\" - Espa\u00f1ol: \"c\u00edrculo\"\nEnglish: \"committee\" - Espa\u00f1ol: \"",
+        "target": "['comit\u00e9', 'comisi\u00f3n']",
+        "word original": "board"
+    },
+    "['boat']": {
+        "prompt": "English: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"skin\" - Espa\u00f1ol: \"piel\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"nose\" - Espa\u00f1ol: \"nariz\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"haz\"\nEnglish: \"boat\" - Espa\u00f1ol: \"",
+        "target": "['bote', 'barco', 'barca', 'barcos', 'nave', 'embarcaci\u00f3n']",
+        "word original": "boat"
+    },
+    "['bone', 'os']": {
+        "prompt": "English: \"committee\" - Espa\u00f1ol: \"comit\u00e9\"\nEnglish: \"star\" - Espa\u00f1ol: \"estrella\"\nEnglish: \"economics\" - Espa\u00f1ol: \"econom\u00eda\"\nEnglish: \"taking into custody\" - Espa\u00f1ol: \"arresto\"\nEnglish: \"brush\" - Espa\u00f1ol: \"Matorral\"\nEnglish: \"bone\" - Espa\u00f1ol: \"",
+        "target": "['hueso', 'os']",
+        "word original": "bone"
+    },
+    "['book']": {
+        "prompt": "English: \"human foot\" - Espa\u00f1ol: \"pie\"\nEnglish: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"tail\" - Espa\u00f1ol: \"fundillo\"\nEnglish: \"book\" - Espa\u00f1ol: \"",
+        "target": "['libro']",
+        "word original": "book"
+    },
+    "['boot', 'kicking', 'kick']": {
+        "prompt": "English: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"bed\" - Espa\u00f1ol: \"cama\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"picture\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"boot\" - Espa\u00f1ol: \"",
+        "target": "['bota', 'patada', 'coz', 'puntapi\u00e9']",
+        "word original": "boot"
+    },
+    "['bottle']": {
+        "prompt": "English: \"clothes\" - Espa\u00f1ol: \"ropa\"\nEnglish: \"Sunday\" - Espa\u00f1ol: \"domingo\"\nEnglish: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"picture\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"bucket\" - Espa\u00f1ol: \"balde\"\nEnglish: \"bottle\" - Espa\u00f1ol: \"",
+        "target": "['botella', 'frasco']",
+        "word original": "bottle"
+    },
+    "['boxes', 'box']": {
+        "prompt": "English: \"bed\" - Espa\u00f1ol: \"cama\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"potato\" - Espa\u00f1ol: \"patata\"\nEnglish: \"duct\" - Espa\u00f1ol: \"ducto\"\nEnglish: \"ear\" - Espa\u00f1ol: \"o\u00eddo\"\nEnglish: \"boxes\" - Espa\u00f1ol: \"",
+        "target": "['cajas', 'caja']",
+        "word original": "box"
+    },
+    "['boy', 'heroin', 'diacetylmorphine', 'male child', 'son']": {
+        "prompt": "English: \"hand\" - Espa\u00f1ol: \"caligraf\u00eda\"\nEnglish: \"sock\" - Espa\u00f1ol: \"calcet\u00edn\"\nEnglish: \"television\" - Espa\u00f1ol: \"video\"\nEnglish: \"sink\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"nut\" - Espa\u00f1ol: \"\u00f3vulo\"\nEnglish: \"boy\" - Espa\u00f1ol: \"",
+        "target": "['hero\u00edna', 'jaco', 'heroina', 'caballo', 'ni\u00f1o', 'chico', 'jovencito', 'joven', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'chaval', 'mozo', 'hijo']",
+        "word original": "boy"
+    },
+    "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'managing director', 'manager', 'top dog', 'question']": {
+        "prompt": "English: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"square\" - Espa\u00f1ol: \"plaza\"\nEnglish: \"corporal punishment\" - Espa\u00f1ol: \"castigo corporal\"\nEnglish: \"brick\" - Espa\u00f1ol: \"ladrillo\"\nEnglish: \"star\" - Espa\u00f1ol: \"estrella\"\nEnglish: \"head\" - Espa\u00f1ol: \"",
+        "target": "['mente', 'psique', 'Mente', 'Nous', 'nous', 'cabeza', 'cerebro', 'marote', 'mel\u00f3n', 'testa', 'sesera', 'coco', 'sabiola', 'tarro', 'maceta', 'chola', 'punta', 'l\u00edder', 'jefe', 'autoridad', 'dirigente', 'director', 'gerente', 'gestor', 'administrador', 'directora', 'manager', 'responsable', 'tema', 'asunto', 'encabezado', 'cuesti\u00f3n', 'titular', 'aspecto', 'materia', 't\u00f3pico']",
+        "word original": "head"
+    },
+    "['brake', 'braking']": {
+        "prompt": "English: \"match\" - Espa\u00f1ol: \"evento deportivo\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"haz\"\nEnglish: \"tooth\" - Espa\u00f1ol: \"diente\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"brake\" - Espa\u00f1ol: \"",
+        "target": "['freno']",
+        "word original": "brake"
+    },
+    "['economics', 'economic science', 'political economy']": {
+        "prompt": "English: \"boy\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"shelf\" - Espa\u00f1ol: \"estante\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"economics\" - Espa\u00f1ol: \"",
+        "target": "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas']",
+        "word original": "branch"
+    },
+    "['brick']": {
+        "prompt": "English: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"lock\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"brick\" - Espa\u00f1ol: \"",
+        "target": "['ladrillo']",
+        "word original": "brick"
+    },
+    "['bridge', 'span', 'list of Roman bridges']": {
+        "prompt": "English: \"stem\" - Espa\u00f1ol: \"tallo\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"natural satellite\" - Espa\u00f1ol: \"sat\u00e9lite\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"bridge\" - Espa\u00f1ol: \"",
+        "target": "['puente', 'b\u00f3veda']",
+        "word original": "bridge"
+    },
+    "['brush', 'scrubland', 'shrubland']": {
+        "prompt": "English: \"domestic sheep\" - Espa\u00f1ol: \"oveja\"\nEnglish: \"poultry\" - Espa\u00f1ol: \"ave de corral\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"toes\" - Espa\u00f1ol: \"dedos del pie\"\nEnglish: \"stocking\" - Espa\u00f1ol: \"medias\"\nEnglish: \"brush\" - Espa\u00f1ol: \"",
+        "target": "['Matorral', 'matorral', 'cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']",
+        "word original": "brush"
+    },
+    "['bucket', 'pail', 'Pail']": {
+        "prompt": "English: \"girl\" - Espa\u00f1ol: \"chica\"\nEnglish: \"cornet\" - Espa\u00f1ol: \"guimbarda\"\nEnglish: \"hat\" - Espa\u00f1ol: \"sombrero\"\nEnglish: \"curtain\" - Espa\u00f1ol: \"cortina\"\nEnglish: \"spring\" - Espa\u00f1ol: \"manantial\"\nEnglish: \"bucket\" - Espa\u00f1ol: \"",
+        "target": "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']",
+        "word original": "bucket"
+    },
+    "['lightbulb', 'electric-light bulb', 'incandescent light bulb', 'electric light', 'electric bulb', 'bulb', 'incandescent lamp', 'light bulb']": {
+        "prompt": "English: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"human body\" - Espa\u00f1ol: \"constituci\u00f3n\"\nEnglish: \"angle\" - Espa\u00f1ol: \"\u00e1ngulo\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"star\" - Espa\u00f1ol: \"estrella\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"",
+        "target": "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']",
+        "word original": "bulb"
+    },
+    "['button', 'curling', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"plume\" - Espa\u00f1ol: \"pluma\"\nEnglish: \"tooth\" - Espa\u00f1ol: \"diente\"\nEnglish: \"pig\" - Espa\u00f1ol: \"jabal\u00ed\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"arch\" - Espa\u00f1ol: \"arco\"\nEnglish: \"button\" - Espa\u00f1ol: \"",
+        "target": "['curling', 'bot\u00f3n', 'tecla', 'pulsar', 'bot\u00f3n pulsador']",
+        "word original": "button"
+    },
+    "['cake']": {
+        "prompt": "English: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"bath\" - Espa\u00f1ol: \"ba\u00f1o\"\nEnglish: \"screw\" - Espa\u00f1ol: \"tornillo\"\nEnglish: \"brush\" - Espa\u00f1ol: \"Matorral\"\nEnglish: \"cake\" - Espa\u00f1ol: \"",
+        "target": "['pastel', 'torta', 'bizcocho', 'coca', 'tarta']",
+        "word original": "cake"
+    },
+    "['camera', 'photographic camera', 'still camera', 'movie camera', 'television camera', 'tv camera', 'professional video camera']": {
+        "prompt": "English: \"chin\" - Espa\u00f1ol: \"barbilla\"\nEnglish: \"pig\" - Espa\u00f1ol: \"jabal\u00ed\"\nEnglish: \"thumb\" - Espa\u00f1ol: \"pulgar\"\nEnglish: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"camera\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara', 'c\u00e1mara de video profesional', 'c\u00e1mara de televisi\u00f3n']",
+        "word original": "camera"
+    },
+    "['identity card', 'I.D.', 'ID', 'identity document', 'identification card', 'card', 'ID card']": {
+        "prompt": "English: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"fly\" - Espa\u00f1ol: \"mosca\"\nEnglish: \"poultry\" - Espa\u00f1ol: \"ave de corral\"\nEnglish: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"Sunday\" - Espa\u00f1ol: \"domingo\"\nEnglish: \"identity card\" - Espa\u00f1ol: \"",
+        "target": "['documento de identidad', 'identificaci\u00f3n', 'carn\u00e9 de identidad', 'carnet de identidad', 'documento nacional de identidad', 'c\u00e9dula de identidad', 'DNI', 'credencial', 'carnet']",
+        "word original": "card"
+    },
+    "['carriage', 'railroad car', 'railway carriage', 'car', 'railcar', 'railway car', 'motor coach', 'rig', 'equipage']": {
+        "prompt": "English: \"mouth\" - Espa\u00f1ol: \"cavidad oral\"\nEnglish: \"throat\" - Espa\u00f1ol: \"garganta\"\nEnglish: \"pocket\" - Espa\u00f1ol: \"bolsillo\"\nEnglish: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"carriage\" - Espa\u00f1ol: \"",
+        "target": "['vag\u00f3n', 'veh\u00edculo ferroviario', 'Automotor', 'automotor', 'material remolcado', 'vag\u00f3n de ferrocarril', 'Coche automotor', 'coche', 'tren', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos']",
+        "word original": "carriage"
+    },
+    "['pussy', 'domestic cat', 'kitty-cat', 'cat', 'pussycat', 'kitty', 'puss', 'true cat', 'house cat']": {
+        "prompt": "English: \"toes\" - Espa\u00f1ol: \"dedos del pie\"\nEnglish: \"carriage\" - Espa\u00f1ol: \"vag\u00f3n\"\nEnglish: \"tail\" - Espa\u00f1ol: \"fundillo\"\nEnglish: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"picture\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"pussy\" - Espa\u00f1ol: \"",
+        "target": "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']",
+        "word original": "cat"
+    },
+    "['cheese', 'YAMSHD']": {
+        "prompt": "English: \"network\" - Espa\u00f1ol: \"red de computadoras\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"memoria\"\nEnglish: \"cup\" - Espa\u00f1ol: \"taza\"\nEnglish: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"haz\"\nEnglish: \"cheese\" - Espa\u00f1ol: \"",
+        "target": "['queso']",
+        "word original": "cheese"
+    },
+    "['chest', 'breast', 'thorax', 'chest cavity', 'thoracic cavity', 'pectus']": {
+        "prompt": "English: \"plough\" - Espa\u00f1ol: \"arado\"\nEnglish: \"wall\" - Espa\u00f1ol: \"pared\"\nEnglish: \"square\" - Espa\u00f1ol: \"plaza\"\nEnglish: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"bath\" - Espa\u00f1ol: \"ba\u00f1o\"\nEnglish: \"chest\" - Espa\u00f1ol: \"",
+        "target": "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre', 't\u00f3rax', 'pecho', 'caja tor\u00e1cica', 'cavidad tor\u00e1cica', 'torso', 'pectus', 'seno', 'pechuga']",
+        "word original": "chest"
+    },
+    "['chin', 'mentum']": {
+        "prompt": "English: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"agency\" - Espa\u00f1ol: \"autoridad\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"haz\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"chin\" - Espa\u00f1ol: \"",
+        "target": "['barbilla', 'ment\u00f3n', 'pera', 'barba']",
+        "word original": "chin"
+    },
+    "['church', 'church building']": {
+        "prompt": "English: \"clock\" - Espa\u00f1ol: \"reloj\"\nEnglish: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"book\" - Espa\u00f1ol: \"libro\"\nEnglish: \"comb\" - Espa\u00f1ol: \"peine\"\nEnglish: \"baby\" - Espa\u00f1ol: \"ni\u00f1o\"\nEnglish: \"church\" - Espa\u00f1ol: \"",
+        "target": "['iglesia']",
+        "word original": "church"
+    },
+    "['circle', 'disk', 'disc']": {
+        "prompt": "English: \"library\" - Espa\u00f1ol: \"biblioteca\"\nEnglish: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"brick\" - Espa\u00f1ol: \"ladrillo\"\nEnglish: \"goat\" - Espa\u00f1ol: \"cabra\"\nEnglish: \"boxes\" - Espa\u00f1ol: \"cajas\"\nEnglish: \"circle\" - Espa\u00f1ol: \"",
+        "target": "['c\u00edrculo', 'circunferencia', 'disco']",
+        "word original": "circle"
+    },
+    "['clock']": {
+        "prompt": "English: \"bell\" - Espa\u00f1ol: \"campana\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"hat\" - Espa\u00f1ol: \"sombrero\"\nEnglish: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"skirt\" - Espa\u00f1ol: \"falda\"\nEnglish: \"clock\" - Espa\u00f1ol: \"",
+        "target": "['reloj']",
+        "word original": "clock"
+    },
+    "['cloud']": {
+        "prompt": "English: \"dog\" - Espa\u00f1ol: \"perra\"\nEnglish: \"comb\" - Espa\u00f1ol: \"peine\"\nEnglish: \"stamp\" - Espa\u00f1ol: \"estampilla\"\nEnglish: \"boat\" - Espa\u00f1ol: \"bote\"\nEnglish: \"marine sponge\" - Espa\u00f1ol: \"esponja\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"",
+        "target": "['nube', 'nubes']",
+        "word original": "cloud"
+    },
+    "['jacket', 'coat']": {
+        "prompt": "English: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"memoria\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"cheese\" - Espa\u00f1ol: \"queso\"\nEnglish: \"ear\" - Espa\u00f1ol: \"o\u00eddo\"\nEnglish: \"jacket\" - Espa\u00f1ol: \"",
+        "target": "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'campera', 'chompa']",
+        "word original": "coat"
+    },
+    "['taking into custody', 'arrest', 'collar', 'catch', 'apprehension', 'pinch']": {
+        "prompt": "English: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"motor\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\nEnglish: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"bird\" - Espa\u00f1ol: \"p\u00e1jaro\"\nEnglish: \"taking into custody\" - Espa\u00f1ol: \"",
+        "target": "['arresto', 'detenci\u00f3n']",
+        "word original": "collar"
+    },
+    "['comb']": {
+        "prompt": "English: \"human foot\" - Espa\u00f1ol: \"pie\"\nEnglish: \"toes\" - Espa\u00f1ol: \"dedos del pie\"\nEnglish: \"sailing ship\" - Espa\u00f1ol: \"barco de vela\"\nEnglish: \"clinic\" - Espa\u00f1ol: \"hospital\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"comb\" - Espa\u00f1ol: \"",
+        "target": "['peine']",
+        "word original": "comb"
+    },
+    "['cow', 'cattle', 'kine', 'oxen', 'Bos taurus', 'cows', 'moo-cow']": {
+        "prompt": "English: \"baby\" - Espa\u00f1ol: \"ni\u00f1o\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"marine sponge\" - Espa\u00f1ol: \"esponja\"\nEnglish: \"cow\" - Espa\u00f1ol: \"",
+        "target": "['ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno', 'vaquita']",
+        "word original": "cow"
+    },
+    "['cup', 'standing cup', 'cup with stem', 'drinking glass']": {
+        "prompt": "English: \"carriage\" - Espa\u00f1ol: \"vag\u00f3n\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"stomach\" - Espa\u00f1ol: \"est\u00f3mago\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"hand\" - Espa\u00f1ol: \"caligraf\u00eda\"\nEnglish: \"cup\" - Espa\u00f1ol: \"",
+        "target": "['taza', 'copa', 'vaso', 'taza de pi\u00e9']",
+        "word original": "cup"
+    },
+    "['curtain', 'drapery', 'drape', 'mantle', 'pall', 'altar cloth']": {
+        "prompt": "English: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"cup\" - Espa\u00f1ol: \"taza\"\nEnglish: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"carriage\" - Espa\u00f1ol: \"vag\u00f3n\"\nEnglish: \"tail\" - Espa\u00f1ol: \"fundillo\"\nEnglish: \"curtain\" - Espa\u00f1ol: \"",
+        "target": "['cortina', 'cortinaje', 'cortinas']",
+        "word original": "curtain"
+    },
+    "['shock absorber', 'shock', 'cushion']": {
+        "prompt": "English: \"brick\" - Espa\u00f1ol: \"ladrillo\"\nEnglish: \"musculus\" - Espa\u00f1ol: \"m\u00fasculo\"\nEnglish: \"girl\" - Espa\u00f1ol: \"chica\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"shock absorber\" - Espa\u00f1ol: \"",
+        "target": "['amortiguador']",
+        "word original": "cushion"
+    },
+    "['dog', 'Canis familiaris', 'domestic dog', 'Canis lupus familiaris']": {
+        "prompt": "English: \"bone\" - Espa\u00f1ol: \"hueso\"\nEnglish: \"network\" - Espa\u00f1ol: \"red de computadoras\"\nEnglish: \"spoon\" - Espa\u00f1ol: \"cuchara\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"boxes\" - Espa\u00f1ol: \"cajas\"\nEnglish: \"dog\" - Espa\u00f1ol: \"",
+        "target": "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico']",
+        "word original": "dog"
+    },
+    "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe']": {
+        "prompt": "English: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"goat\" - Espa\u00f1ol: \"cabra\"\nEnglish: \"star\" - Espa\u00f1ol: \"estrella\"\nEnglish: \"door case\" - Espa\u00f1ol: \"",
+        "target": "['puerta', 'marco de puerta', 'seguro']",
+        "word original": "door"
+    },
+    "['gate', 'lock', 'canal lock', 'lock chamber']": {
+        "prompt": "English: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"goat\" - Espa\u00f1ol: \"cabra\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"gate\" - Espa\u00f1ol: \"",
+        "target": "['esclusa', 'puerta', 'verja', 'barrera', 'port\u00f3n']",
+        "word original": "drain"
+    },
+    "['picture', 'movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture show', 'moving-picture show', 'image', 'artist', 'painting', 'painter', 'art of painting', 'drawing', 'map', 'portraiture', 'design', 'illustration', 'figure', 'pattern', 'ikon', 'icon', 'photo', 'photograph', 'exposure', 'video']": {
+        "prompt": "English: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"goat\" - Espa\u00f1ol: \"cabra\"\nEnglish: \"pencil\" - Espa\u00f1ol: \"l\u00e1piz\"\nEnglish: \"picture\" - Espa\u00f1ol: \"",
+        "target": "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine', 'pintora', 'imagen', 'pintor', 'pintura', 'pintado', 'lienzo', 'cuadro', 'ilustraci\u00f3n', 'figura', 'retrato', 'dibujo', 'croquis', 'esquema', 'foto', 'fotograf\u00eda', 'exposici\u00f3n', 'v\u00eddeo']",
+        "word original": "drawer"
+    },
+    "['clothes', 'thing', 'things', 'garments', 'garment', 'apparel', 'raiment', 'clothing', 'wearable', 'article of clothing', 'wear', 'habiliment', 'vesture', 'dress', 'wearing apparel']": {
+        "prompt": "English: \"circle\" - Espa\u00f1ol: \"c\u00edrculo\"\nEnglish: \"screw\" - Espa\u00f1ol: \"tornillo\"\nEnglish: \"stomach\" - Espa\u00f1ol: \"est\u00f3mago\"\nEnglish: \"bee\" - Espa\u00f1ol: \"abeja\"\nEnglish: \"house\" - Espa\u00f1ol: \"casa\"\nEnglish: \"clothes\" - Espa\u00f1ol: \"",
+        "target": "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment']",
+        "word original": "dress"
+    },
+    "['drop', 'cliff', 'drop-off', 'raindrop', 'drib', 'driblet']": {
+        "prompt": "English: \"Sunday\" - Espa\u00f1ol: \"domingo\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"bath\" - Espa\u00f1ol: \"ba\u00f1o\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"drop\" - Espa\u00f1ol: \"",
+        "target": "['acantilado', 'despe\u00f1adero', 'pe\u00f1asco', 'risco', 'cantil', 'precipicio', 'gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima']",
+        "word original": "drop"
+    },
+    "['ear', 'ears']": {
+        "prompt": "English: \"sailing ship\" - Espa\u00f1ol: \"barco de vela\"\nEnglish: \"oven\" - Espa\u00f1ol: \"horno\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"note\" - Espa\u00f1ol: \"billete de banco\"\nEnglish: \"ear\" - Espa\u00f1ol: \"",
+        "target": "['o\u00eddo', 'orejas', 'oreja']",
+        "word original": "ear"
+    },
+    "[\"hen's egg\", \"chicken's egg\", 'chicken egg', 'egg', 'eggs', 'Eggs as food', 'insect egg']": {
+        "prompt": "English: \"isle\" - Espa\u00f1ol: \"isla\"\nEnglish: \"brake\" - Espa\u00f1ol: \"freno\"\nEnglish: \"umbrella\" - Espa\u00f1ol: \"paraguas\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"hen's egg\" - Espa\u00f1ol: \"",
+        "target": "['huevo de gallina', 'huevo']",
+        "word original": "egg"
+    },
+    "['motor', 'electric motor', 'engine']": {
+        "prompt": "English: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"fly\" - Espa\u00f1ol: \"mosca\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"cheese\" - Espa\u00f1ol: \"queso\"\nEnglish: \"motor\" - Espa\u00f1ol: \"",
+        "target": "['motor el\u00e9ctrico', 'electromotor', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']",
+        "word original": "engine"
+    },
+    "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"ant\" - Espa\u00f1ol: \"hormiga\"\nEnglish: \"note\" - Espa\u00f1ol: \"billete de banco\"\nEnglish: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"library\" - Espa\u00f1ol: \"biblioteca\"\nEnglish: \"eye\" - Espa\u00f1ol: \"",
+        "target": "['ojos', 'ojo', 'globo ocular', 'oculus', 'centro', 'coraz\u00f3n', 'medio']",
+        "word original": "eye"
+    },
+    "['face', 'typeface', 'font', 'case', 'fount', 'human face', 'air', 'appearance', 'manner', 'demeanor', 'look', 'expression', 'mien', 'bearing', 'demeanour', 'facial expression', 'aspect']": {
+        "prompt": "English: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"pig\" - Espa\u00f1ol: \"jabal\u00ed\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"memoria\"\nEnglish: \"motor\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\nEnglish: \"arch\" - Espa\u00f1ol: \"arco\"\nEnglish: \"face\" - Espa\u00f1ol: \"",
+        "target": "['fuente', 'fuente tipogr\u00e1fica', 'tipo de letra', 'familia tipogr\u00e1fica', 'Tipofaz', 'tipograf\u00eda', 'clasificaci\u00f3n tipogr\u00e1fica', 'font', 'rostro', 'cara', 'jeta', 'faz', 'rostro humano', 'expresi\u00f3n', 'aspecto', 'apariencia', 'estampa']",
+        "word original": "face"
+    },
+    "['farm']": {
+        "prompt": "English: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"poultry\" - Espa\u00f1ol: \"ave de corral\"\nEnglish: \"weapon\" - Espa\u00f1ol: \"arma\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"farm\" - Espa\u00f1ol: \"",
+        "target": "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda']",
+        "word original": "farm"
+    },
+    "['plume', 'feathers', 'feather', 'plumage', 'barbule']": {
+        "prompt": "English: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"isle\" - Espa\u00f1ol: \"isla\"\nEnglish: \"jacket\" - Espa\u00f1ol: \"casaca\"\nEnglish: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"plume\" - Espa\u00f1ol: \"",
+        "target": "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas']",
+        "word original": "feather"
+    },
+    "['finger', 'the finger']": {
+        "prompt": "English: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"finger\" - Espa\u00f1ol: \"",
+        "target": "['peineta', 'corte de manga', 'higa', 'dedo', 'dedos de la mano', 'dedo de la mano']",
+        "word original": "finger"
+    },
+    "['fish', 'food fish', 'fish as food', 'Pisces']": {
+        "prompt": "English: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"stomach\" - Espa\u00f1ol: \"est\u00f3mago\"\nEnglish: \"ear\" - Espa\u00f1ol: \"o\u00eddo\"\nEnglish: \"bath\" - Espa\u00f1ol: \"ba\u00f1o\"\nEnglish: \"boy\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"fish\" - Espa\u00f1ol: \"",
+        "target": "['pescado', 'pez', 'Pisces', 'pisces', 'peces', 'piscis']",
+        "word original": "fish"
+    },
+    "['flag', 'penalty', 'Penalty']": {
+        "prompt": "English: \"cup\" - Espa\u00f1ol: \"taza\"\nEnglish: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"pocket\" - Espa\u00f1ol: \"bolsillo\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"bell\" - Espa\u00f1ol: \"campana\"\nEnglish: \"flag\" - Espa\u00f1ol: \"",
+        "target": "['bandera', 'pabell\u00f3n', 'Penalty']",
+        "word original": "flag"
+    },
+    "['valley', 'dale', 'vale']": {
+        "prompt": "English: \"armed forces\" - Espa\u00f1ol: \"fuerza\"\nEnglish: \"mouth\" - Espa\u00f1ol: \"cavidad oral\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"spring\" - Espa\u00f1ol: \"manantial\"\nEnglish: \"plume\" - Espa\u00f1ol: \"pluma\"\nEnglish: \"valley\" - Espa\u00f1ol: \"",
+        "target": "['dolina', 'valle', 'val']",
+        "word original": "floor"
+    },
+    "['fly', 'Diptera']": {
+        "prompt": "English: \"isle\" - Espa\u00f1ol: \"isla\"\nEnglish: \"identity card\" - Espa\u00f1ol: \"documento de identidad\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"pencil\" - Espa\u00f1ol: \"l\u00e1piz\"\nEnglish: \"lips\" - Espa\u00f1ol: \"labio\"\nEnglish: \"fly\" - Espa\u00f1ol: \"",
+        "target": "['mosca', 'mosco', 'Diptera']",
+        "word original": "fly"
+    },
+    "['human foot', 'foot', 'pes', 'Pes', 'Foot']": {
+        "prompt": "English: \"pussy\" - Espa\u00f1ol: \"gato\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"memoria\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"note\" - Espa\u00f1ol: \"billete de banco\"\nEnglish: \"human foot\" - Espa\u00f1ol: \"",
+        "target": "['pie', 'pes', 'pata']",
+        "word original": "foot"
+    },
+    "['fork', 'tributary', 'feeder', 'confluent', 'affluent']": {
+        "prompt": "English: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"throat\" - Espa\u00f1ol: \"garganta\"\nEnglish: \"pocket\" - Espa\u00f1ol: \"bolsillo\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"natural satellite\" - Espa\u00f1ol: \"sat\u00e9lite\"\nEnglish: \"fork\" - Espa\u00f1ol: \"",
+        "target": "['tributaria', 'afluente', 'tributario', 'tenedor']",
+        "word original": "fork"
+    },
+    "['poultry', 'fowl', 'domestic fowl', 'Galloanserae']": {
+        "prompt": "English: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"cheese\" - Espa\u00f1ol: \"queso\"\nEnglish: \"brake\" - Espa\u00f1ol: \"freno\"\nEnglish: \"eye\" - Espa\u00f1ol: \"ojos\"\nEnglish: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"poultry\" - Espa\u00f1ol: \"",
+        "target": "['ave de corral', 'Galloanserae', 'ave']",
+        "word original": "fowl"
+    },
+    "['human body', 'human physiology', 'build', 'figure', 'soma', 'chassis', 'form', 'anatomy', 'shape', 'frame', 'physique', 'flesh', 'material body', 'physical body', 'bod']": {
+        "prompt": "English: \"plume\" - Espa\u00f1ol: \"pluma\"\nEnglish: \"spoon\" - Espa\u00f1ol: \"cuchara\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"sock\" - Espa\u00f1ol: \"calcet\u00edn\"\nEnglish: \"television\" - Espa\u00f1ol: \"video\"\nEnglish: \"human body\" - Espa\u00f1ol: \"",
+        "target": "['constituci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']",
+        "word original": "frame"
+    },
+    "['garden']": {
+        "prompt": "English: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"cake\" - Espa\u00f1ol: \"pastel\"\nEnglish: \"armed forces\" - Espa\u00f1ol: \"fuerza\"\nEnglish: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"garden\" - Espa\u00f1ol: \"",
+        "target": "['jard\u00edn']",
+        "word original": "garden"
+    },
+    "['girl', 'young woman', 'miss', 'fille', 'missy', 'young lady', 'daughter', 'gf', 'girlfriend', 'lady friend']": {
+        "prompt": "English: \"camera\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nEnglish: \"stocking\" - Espa\u00f1ol: \"medias\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"face\" - Espa\u00f1ol: \"fuente\"\nEnglish: \"stamp\" - Espa\u00f1ol: \"estampilla\"\nEnglish: \"girl\" - Espa\u00f1ol: \"",
+        "target": "['chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'mujer', 'se\u00f1orito', 'chico', 'fille', 'se\u00f1orita', 'mujercita', 'hija', 'hijo', 'novia', 'pareja', 'compa\u00f1era', 'prometida', 'compa\u00f1era sentimental']",
+        "word original": "girl"
+    },
+    "['glove']": {
+        "prompt": "English: \"Sunday\" - Espa\u00f1ol: \"domingo\"\nEnglish: \"pencil\" - Espa\u00f1ol: \"l\u00e1piz\"\nEnglish: \"stamp\" - Espa\u00f1ol: \"estampilla\"\nEnglish: \"cigar\" - Espa\u00f1ol: \"cigarro\"\nEnglish: \"tree\" - Espa\u00f1ol: \"\u00e1rbol\"\nEnglish: \"glove\" - Espa\u00f1ol: \"",
+        "target": "['guante']",
+        "word original": "glove"
+    },
+    "['goat', 'domestic goat', 'caprine animal']": {
+        "prompt": "English: \"shock absorber\" - Espa\u00f1ol: \"amortiguador\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"garden\" - Espa\u00f1ol: \"jard\u00edn\"\nEnglish: \"ear\" - Espa\u00f1ol: \"o\u00eddo\"\nEnglish: \"bone\" - Espa\u00f1ol: \"hueso\"\nEnglish: \"goat\" - Espa\u00f1ol: \"",
+        "target": "['cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']",
+        "word original": "goat"
+    },
+    "['gun', 'ordnance', 'heavy weapon', 'artillery', 'firearm', 'fire arm', 'projectile weapon']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"boat\" - Espa\u00f1ol: \"bote\"\nEnglish: \"ear\" - Espa\u00f1ol: \"o\u00eddo\"\nEnglish: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"gun\" - Espa\u00f1ol: \"",
+        "target": "['artiller\u00eda', 'arma', 'heavy weapon', 'arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'pistola']",
+        "word original": "gun"
+    },
+    "['hair', 'pilus']": {
+        "prompt": "English: \"fingernail\" - Espa\u00f1ol: \"u\u00f1a\"\nEnglish: \"comb\" - Espa\u00f1ol: \"peine\"\nEnglish: \"circle\" - Espa\u00f1ol: \"c\u00edrculo\"\nEnglish: \"hand\" - Espa\u00f1ol: \"caligraf\u00eda\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"hair\" - Espa\u00f1ol: \"",
+        "target": "['cabello', 'pelo']",
+        "word original": "root"
+    },
+    "['hammer', 'heroin', 'diacetylmorphine']": {
+        "prompt": "English: \"sink\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"clothes\" - Espa\u00f1ol: \"ropa\"\nEnglish: \"bucket\" - Espa\u00f1ol: \"balde\"\nEnglish: \"chin\" - Espa\u00f1ol: \"barbilla\"\nEnglish: \"toes\" - Espa\u00f1ol: \"dedos del pie\"\nEnglish: \"hammer\" - Espa\u00f1ol: \"",
+        "target": "['hero\u00edna', 'jaco', 'heroina', 'caballo', 'martillo']",
+        "word original": "hammer"
+    },
+    "['hand', 'calligraphy', 'chirography', 'penmanship', 'manus', 'mitt', 'paw', 'Manus']": {
+        "prompt": "English: \"committee\" - Espa\u00f1ol: \"comit\u00e9\"\nEnglish: \"wing\" - Espa\u00f1ol: \"ala\"\nEnglish: \"baby\" - Espa\u00f1ol: \"ni\u00f1o\"\nEnglish: \"door case\" - Espa\u00f1ol: \"puerta\"\nEnglish: \"pencil\" - Espa\u00f1ol: \"l\u00e1piz\"\nEnglish: \"hand\" - Espa\u00f1ol: \"",
+        "target": "['caligraf\u00eda', 'letra', 'mano', 'palma', 'zarpa', 'manus', 'pata']",
+        "word original": "hand"
+    },
+    "['hat', 'chapeau', 'lid']": {
+        "prompt": "English: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"face\" - Espa\u00f1ol: \"fuente\"\nEnglish: \"shirt\" - Espa\u00f1ol: \"camisa\"\nEnglish: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"orangeness\" - Espa\u00f1ol: \"naranja\"\nEnglish: \"hat\" - Espa\u00f1ol: \"",
+        "target": "['sombrero', 'Chap\u00f3']",
+        "word original": "hat"
+    },
+    "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"pussy\" - Espa\u00f1ol: \"gato\"\nEnglish: \"garden\" - Espa\u00f1ol: \"jard\u00edn\"\nEnglish: \"chest\" - Espa\u00f1ol: \"ba\u00fal\"\nEnglish: \"bridge\" - Espa\u00f1ol: \"puente\"\nEnglish: \"heart\" - Espa\u00f1ol: \"",
+        "target": "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o', 'centro', 'ojo', 'medio']",
+        "word original": "pump"
+    },
+    "['cornet', 'mouth harp', 'trump', 'juice harp', \"Jew's trump\", 'Ozark harp', 'jaw harp', \"Jew's harp\", 'trumpet', 'guimbarde', 'trumpet player', 'trumpeter', 'horn']": {
+        "prompt": "English: \"face\" - Espa\u00f1ol: \"fuente\"\nEnglish: \"plough\" - Espa\u00f1ol: \"arado\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"square\" - Espa\u00f1ol: \"plaza\"\nEnglish: \"skin\" - Espa\u00f1ol: \"piel\"\nEnglish: \"cornet\" - Espa\u00f1ol: \"",
+        "target": "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']",
+        "word original": "horn"
+    },
+    "['horse', 'Equus caballus']": {
+        "prompt": "English: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"brush\" - Espa\u00f1ol: \"Matorral\"\nEnglish: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"television\" - Espa\u00f1ol: \"video\"\nEnglish: \"horse\" - Espa\u00f1ol: \"",
+        "target": "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']",
+        "word original": "horse"
+    },
+    "['clinic', 'hospital', 'infirmary']": {
+        "prompt": "English: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"cornet\" - Espa\u00f1ol: \"guimbarda\"\nEnglish: \"brick\" - Espa\u00f1ol: \"ladrillo\"\nEnglish: \"function\" - Espa\u00f1ol: \"posici\u00f3n\"\nEnglish: \"clinic\" - Espa\u00f1ol: \"",
+        "target": "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']",
+        "word original": "hospital"
+    },
+    "['house', 'home', 'dwelling', 'theater', 'theatre', 'playhouse', 'business firm', 'casino', 'establishment', 'firm', 'gambling casino', 'household', 'family', 'menage', 'private household', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'auditorium', 'enterprise', 'concern', 'corporation', 'partnership', 'venture', 'company']": {
+        "prompt": "English: \"network\" - Espa\u00f1ol: \"red de computadoras\"\nEnglish: \"aeroplane\" - Espa\u00f1ol: \"aeronave\"\nEnglish: \"goat\" - Espa\u00f1ol: \"cabra\"\nEnglish: \"sock\" - Espa\u00f1ol: \"calcet\u00edn\"\nEnglish: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"house\" - Espa\u00f1ol: \"",
+        "target": "['casa', 'teatro', 'sitio', 'establecimiento', 'casino', 'n\u00facleo familiar', 'familia', 'hogar', 'menaje', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso', 'auditorio', 'sala', 'auditorium', 'audit\u00f3rium', 'firma', 'compa\u00f1\u00eda', 'empresa', 'empresas']",
+        "word original": "house"
+    },
+    "['isle', 'island']": {
+        "prompt": "English: \"sink\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"dog\" - Espa\u00f1ol: \"perra\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"umbrella\" - Espa\u00f1ol: \"paraguas\"\nEnglish: \"pussy\" - Espa\u00f1ol: \"gato\"\nEnglish: \"isle\" - Espa\u00f1ol: \"",
+        "target": "['isla', 'islas']",
+        "word original": "island"
+    },
+    "['gemstone', 'gem', 'stone']": {
+        "prompt": "English: \"door case\" - Espa\u00f1ol: \"puerta\"\nEnglish: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"tree\" - Espa\u00f1ol: \"\u00e1rbol\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"",
+        "target": "['joya', 'gema', 'alhaja', 'piedra preciosa']",
+        "word original": "jewel"
+    },
+    "['teakettle', 'kettle', 'tea kettle', 'boiler']": {
+        "prompt": "English: \"skirt\" - Espa\u00f1ol: \"falda\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"shelf\" - Espa\u00f1ol: \"estante\"\nEnglish: \"human body\" - Espa\u00f1ol: \"constituci\u00f3n\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"",
+        "target": "['hervidor', 'caldera', 'calentador', 'Caldera']",
+        "word original": "kettle"
+    },
+    "['key', 'tonality', 'graph', 'chart', 'button', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"motor\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\nEnglish: \"fly\" - Espa\u00f1ol: \"mosca\"\nEnglish: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"bridge\" - Espa\u00f1ol: \"puente\"\nEnglish: \"key\" - Espa\u00f1ol: \"",
+        "target": "['clave', 'tono', 'tonalidad', 'llave', 'gr\u00e1fica', 'cuadro', 'tabla', 'gr\u00e1fico', 'bot\u00f3n', 'tecla', 'pulsar', 'bot\u00f3n pulsador']",
+        "word original": "key"
+    },
+    "['knee', 'genu', 'human knee', 'knee joint', 'articulatio genus']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"network\" - Espa\u00f1ol: \"red de computadoras\"\nEnglish: \"spoon\" - Espa\u00f1ol: \"cuchara\"\nEnglish: \"sword\" - Espa\u00f1ol: \"espada\"\nEnglish: \"library\" - Espa\u00f1ol: \"biblioteca\"\nEnglish: \"knee\" - Espa\u00f1ol: \"",
+        "target": "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']",
+        "word original": "knee"
+    },
+    "['knife']": {
+        "prompt": "English: \"lock\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"note\" - Espa\u00f1ol: \"billete de banco\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"Sunday\" - Espa\u00f1ol: \"domingo\"\nEnglish: \"knife\" - Espa\u00f1ol: \"",
+        "target": "['cuchillo']",
+        "word original": "knife"
+    },
+    "['knot']": {
+        "prompt": "English: \"domestic sheep\" - Espa\u00f1ol: \"oveja\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"economics\" - Espa\u00f1ol: \"econom\u00eda\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"knot\" - Espa\u00f1ol: \"",
+        "target": "['nudo', 'lazo']",
+        "word original": "knot"
+    },
+    "['leaf', 'foliage', 'leafage', 'Laphi']": {
+        "prompt": "English: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"oven\" - Espa\u00f1ol: \"horno\"\nEnglish: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"sailing ship\" - Espa\u00f1ol: \"barco de vela\"\nEnglish: \"leaf\" - Espa\u00f1ol: \"",
+        "target": "['hoja', 'follaje', 'Laphi']",
+        "word original": "leaf"
+    },
+    "['pin', 'leg', 'legs', 'human leg', 'badge', 'fall', 'personal identification number', 'PIN number', 'Personal identification number']": {
+        "prompt": "English: \"bird\" - Espa\u00f1ol: \"p\u00e1jaro\"\nEnglish: \"stamp\" - Espa\u00f1ol: \"estampilla\"\nEnglish: \"fish\" - Espa\u00f1ol: \"pescado\"\nEnglish: \"musculus\" - Espa\u00f1ol: \"m\u00fasculo\"\nEnglish: \"sink\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"pin\" - Espa\u00f1ol: \"",
+        "target": "['pierna', 'piernas', 'miembro inferior', 'miembro inferior humano', 'pata', 'distintivo', 'insignia', 'placa', 'medalla', 'piocha', 'n\u00famero de identificaci\u00f3n personal', 'N\u00famero de identificaci\u00f3n personal']",
+        "word original": "pin"
+    },
+    "['library']": {
+        "prompt": "English: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"glove\" - Espa\u00f1ol: \"guante\"\nEnglish: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"mouth\" - Espa\u00f1ol: \"cavidad oral\"\nEnglish: \"circle\" - Espa\u00f1ol: \"c\u00edrculo\"\nEnglish: \"library\" - Espa\u00f1ol: \"",
+        "target": "['biblioteca', 'librer\u00eda']",
+        "word original": "library"
+    },
+    "['television', 'video', 'TV', 'telecasting', 'videotape recording', 'tv', 'telly', 'idiot box', 'tv set', 'television set', 'boob tube', 'google box', 'television receiver', 'goggle box']": {
+        "prompt": "English: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"identity card\" - Espa\u00f1ol: \"documento de identidad\"\nEnglish: \"jacket\" - Espa\u00f1ol: \"casaca\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"television\" - Espa\u00f1ol: \"",
+        "target": "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'TV', 'caja idiota', 'aparato de televisi\u00f3n', 'caja tonta']",
+        "word original": "line"
+    },
+    "['lips', 'lip']": {
+        "prompt": "English: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"comb\" - Espa\u00f1ol: \"peine\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"lips\" - Espa\u00f1ol: \"",
+        "target": "['labio', 'labios']",
+        "word original": "lip"
+    },
+    "['lock', 'canal lock', 'lock chamber', 'ringlet', 'hair whorl', 'curl', 'whorl', 'wrestling lock']": {
+        "prompt": "English: \"human body\" - Espa\u00f1ol: \"constituci\u00f3n\"\nEnglish: \"camera\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nEnglish: \"identity card\" - Espa\u00f1ol: \"documento de identidad\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"lock\" - Espa\u00f1ol: \"",
+        "target": "['esclusa', 'rizo', 'tirabuz\u00f3n', 'bucle', 'Tirabuz\u00f3n', 'sortija', 'rulo', 'onda', 'mecha', 'caracol', 'chicho', 'cerradura', 'candado', 'chapa']",
+        "word original": "lock"
+    },
+    "['function', 'position', 'map', 'mapping', 'single-valued function', 'mathematical function', 'do', 'party']": {
+        "prompt": "English: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"boxes\" - Espa\u00f1ol: \"cajas\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"potato\" - Espa\u00f1ol: \"patata\"\nEnglish: \"function\" - Espa\u00f1ol: \"",
+        "target": "['posici\u00f3n', 'funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia', 'celebraci\u00f3n', 'fiesta', 'pachanga', 'carrete', 'revent\u00f3n']",
+        "word original": "map"
+    },
+    "['match', 'sporting event', 'sports competition', 'competitive sport', 'high-performance sport', 'friction match', 'lucifer']": {
+        "prompt": "English: \"jacket\" - Espa\u00f1ol: \"casaca\"\nEnglish: \"girl\" - Espa\u00f1ol: \"chica\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"brake\" - Espa\u00f1ol: \"freno\"\nEnglish: \"sink\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"match\" - Espa\u00f1ol: \"",
+        "target": "['evento deportivo', 'competici\u00f3n deportiva', 'deporte competitivo', 'f\u00f3sforo', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo', 'partido', 'encuentro']",
+        "word original": "match"
+    },
+    "['monkey']": {
+        "prompt": "English: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"fingernail\" - Espa\u00f1ol: \"u\u00f1a\"\nEnglish: \"camera\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"monkey\" - Espa\u00f1ol: \"",
+        "target": "['mono', 'mico', 'simio']",
+        "word original": "monkey"
+    },
+    "['natural satellite', 'moon', 'moons']": {
+        "prompt": "English: \"nose\" - Espa\u00f1ol: \"nariz\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"pocket\" - Espa\u00f1ol: \"bolsillo\"\nEnglish: \"pants\" - Espa\u00f1ol: \"pantal\u00f3n\"\nEnglish: \"natural satellite\" - Espa\u00f1ol: \"",
+        "target": "['sat\u00e9lite', 'sat\u00e9lite natural', 'luna']",
+        "word original": "moon"
+    },
+    "['mouth', 'oral cavity', 'oral fissure', 'rima oris', 'buccal cavity', 'vestibule of mouth']": {
+        "prompt": "English: \"leaf\" - Espa\u00f1ol: \"hoja\"\nEnglish: \"nut\" - Espa\u00f1ol: \"\u00f3vulo\"\nEnglish: \"chest\" - Espa\u00f1ol: \"ba\u00fal\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"mouth\" - Espa\u00f1ol: \"",
+        "target": "['cavidad oral', 'boca', 'cavidad bucal', 'desembocadura', 'rima oris', 'nariz']",
+        "word original": "mouth"
+    },
+    "['musculus', 'muscle']": {
+        "prompt": "English: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"bridge\" - Espa\u00f1ol: \"puente\"\nEnglish: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"glove\" - Espa\u00f1ol: \"guante\"\nEnglish: \"committee\" - Espa\u00f1ol: \"comit\u00e9\"\nEnglish: \"musculus\" - Espa\u00f1ol: \"",
+        "target": "['m\u00fasculo']",
+        "word original": "muscle"
+    },
+    "['fingernail', 'nail']": {
+        "prompt": "English: \"marine sponge\" - Espa\u00f1ol: \"esponja\"\nEnglish: \"whip\" - Espa\u00f1ol: \"fuete\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"Sunday\" - Espa\u00f1ol: \"domingo\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"fingernail\" - Espa\u00f1ol: \"",
+        "target": "['u\u00f1a', 'garra']",
+        "word original": "nail"
+    },
+    "['neck', 'Nixie', 'cervix', 'Cervix']": {
+        "prompt": "English: \"lips\" - Espa\u00f1ol: \"labio\"\nEnglish: \"pig\" - Espa\u00f1ol: \"jabal\u00ed\"\nEnglish: \"human body\" - Espa\u00f1ol: \"constituci\u00f3n\"\nEnglish: \"arch\" - Espa\u00f1ol: \"arco\"\nEnglish: \"cigar\" - Espa\u00f1ol: \"cigarro\"\nEnglish: \"neck\" - Espa\u00f1ol: \"",
+        "target": "['Nixe', 'nixe', 'cuello', 'pescuezo', 'nuca', 'cerviz']",
+        "word original": "neck"
+    },
+    "['needle', 'sewing needle', 'hypodermic needle']": {
+        "prompt": "English: \"roof\" - Espa\u00f1ol: \"techumbre\"\nEnglish: \"angle\" - Espa\u00f1ol: \"\u00e1ngulo\"\nEnglish: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"leaf\" - Espa\u00f1ol: \"hoja\"\nEnglish: \"face\" - Espa\u00f1ol: \"fuente\"\nEnglish: \"needle\" - Espa\u00f1ol: \"",
+        "target": "['aguja', 'aguja de coser', 'aguja hipod\u00e9rmica']",
+        "word original": "needle"
+    },
+    "['nerve', 'nervus']": {
+        "prompt": "English: \"face\" - Espa\u00f1ol: \"fuente\"\nEnglish: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"economics\" - Espa\u00f1ol: \"econom\u00eda\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"oven\" - Espa\u00f1ol: \"horno\"\nEnglish: \"nerve\" - Espa\u00f1ol: \"",
+        "target": "['nervio', 'nervus']",
+        "word original": "nerve"
+    },
+    "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'television broadcaster', 'television network', 'mesh', 'meshwork', 'meshing', 'knitting stitch']": {
+        "prompt": "English: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"garden\" - Espa\u00f1ol: \"jard\u00edn\"\nEnglish: \"lock\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"duct\" - Espa\u00f1ol: \"ducto\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"network\" - Espa\u00f1ol: \"",
+        "target": "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'Internet', 'red', 'internet', 'ciberespacio', 'cadena de televisi\u00f3n', 'cadena', 'red de comunicaciones', 'malla', 'rejilla']",
+        "word original": "net"
+    },
+    "['nose', 'olfactory organ']": {
+        "prompt": "English: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"function\" - Espa\u00f1ol: \"posici\u00f3n\"\nEnglish: \"lips\" - Espa\u00f1ol: \"labio\"\nEnglish: \"taking into custody\" - Espa\u00f1ol: \"arresto\"\nEnglish: \"girl\" - Espa\u00f1ol: \"chica\"\nEnglish: \"nose\" - Espa\u00f1ol: \"",
+        "target": "['nariz', '\u00f3rgano olfactivo', 'olfato']",
+        "word original": "nose"
+    },
+    "['nut', 'ballock', 'egg cell', 'testis', 'egg', 'orchis', 'ovum', 'ball', 'testicle', 'bollock', 'bollocks']": {
+        "prompt": "English: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"glove\" - Espa\u00f1ol: \"guante\"\nEnglish: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"whip\" - Espa\u00f1ol: \"fuete\"\nEnglish: \"nut\" - Espa\u00f1ol: \"",
+        "target": "['\u00f3vulo', 'test\u00edculo', 'cataplines', 'cojones', 'huevo', 'pelota', 'huevos', 'coj\u00f3n', 'bola', 'bolas', 'test\u00edculos', 'turma', 'd\u00eddimo', 'g\u00f3nada', 'tuerca']",
+        "word original": "nut"
+    },
+    "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'means', 'way']": {
+        "prompt": "English: \"bottle\" - Espa\u00f1ol: \"botella\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"eye\" - Espa\u00f1ol: \"ojos\"\nEnglish: \"cigar\" - Espa\u00f1ol: \"cigarro\"\nEnglish: \"corporal punishment\" - Espa\u00f1ol: \"castigo corporal\"\nEnglish: \"agency\" - Espa\u00f1ol: \"",
+        "target": "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'modo', 'manera', 'medio', 'forma', 'camino']",
+        "word original": "office"
+    },
+    "['orangeness', 'orange']": {
+        "prompt": "English: \"throat\" - Espa\u00f1ol: \"garganta\"\nEnglish: \"hand\" - Espa\u00f1ol: \"caligraf\u00eda\"\nEnglish: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"agency\" - Espa\u00f1ol: \"autoridad\"\nEnglish: \"mouth\" - Espa\u00f1ol: \"cavidad oral\"\nEnglish: \"orangeness\" - Espa\u00f1ol: \"",
+        "target": "['naranja', 'anaranjado']",
+        "word original": "orange"
+    },
+    "['oven']": {
+        "prompt": "English: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"stomach\" - Espa\u00f1ol: \"est\u00f3mago\"\nEnglish: \"skin\" - Espa\u00f1ol: \"piel\"\nEnglish: \"arch\" - Espa\u00f1ol: \"arco\"\nEnglish: \"human body\" - Espa\u00f1ol: \"constituci\u00f3n\"\nEnglish: \"oven\" - Espa\u00f1ol: \"",
+        "target": "['horno', 'estufa']",
+        "word original": "oven"
+    },
+    "['parcel', 'package', 'packet', 'bundle', 'share', 'portion']": {
+        "prompt": "English: \"arch\" - Espa\u00f1ol: \"arco\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"boat\" - Espa\u00f1ol: \"bote\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"roof\" - Espa\u00f1ol: \"techumbre\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"",
+        "target": "['haz', 'fajo', 'paquete', 'atado', 'mazo', 'bulto', 'l\u00edo', 'parte', 'trozo', 'porci\u00f3n']",
+        "word original": "parcel"
+    },
+    "['pen', 'penicillin']": {
+        "prompt": "English: \"oven\" - Espa\u00f1ol: \"horno\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"bee\" - Espa\u00f1ol: \"abeja\"\nEnglish: \"face\" - Espa\u00f1ol: \"fuente\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"pen\" - Espa\u00f1ol: \"",
+        "target": "['penicilina', 'pluma', 'boli', 'bol\u00edgrafo']",
+        "word original": "pen"
+    },
+    "['pencil']": {
+        "prompt": "English: \"church\" - Espa\u00f1ol: \"iglesia\"\nEnglish: \"throat\" - Espa\u00f1ol: \"garganta\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"glove\" - Espa\u00f1ol: \"guante\"\nEnglish: \"pencil\" - Espa\u00f1ol: \"",
+        "target": "['l\u00e1piz']",
+        "word original": "pencil"
+    },
+    "['movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture', 'picture show', 'moving-picture show']": {
+        "prompt": "English: \"drop\" - Espa\u00f1ol: \"acantilado\"\nEnglish: \"chest\" - Espa\u00f1ol: \"ba\u00fal\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"cheese\" - Espa\u00f1ol: \"queso\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"movie\" - Espa\u00f1ol: \"",
+        "target": "['pel\u00edcula', 'producci\u00f3n', 'film', 'filme', 'cine']",
+        "word original": "picture"
+    },
+    "['pig', 'boar', 'wild hog', 'wild boar', 'Sus scrofa', 'wild pig', 'hog', 'grunter', 'squealer', 'Sus', 'pork', 'porc', 'pork meat', 'policeman', 'police officer', 'policewoman', 'cop', 'officer']": {
+        "prompt": "English: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"cycle\" - Espa\u00f1ol: \"bicicleta\"\nEnglish: \"leaf\" - Espa\u00f1ol: \"hoja\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"pig\" - Espa\u00f1ol: \"",
+        "target": "['jabal\u00ed', 'Jabato', 'Sus scrofa', 'marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'porc', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'carne de cerdo', 'polic\u00eda', 'agente de polic\u00eda', 'oficial de polic\u00eda', 'pitufo', 'agente', 'paco', 'guardia', 'oficial', 'policial']",
+        "word original": "pig"
+    },
+    "['duct', 'aqueduct', 'main pipe', 'conduit', 'water main', 'main', 'pipe', 'pipage', 'piping']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"cornet\" - Espa\u00f1ol: \"guimbarda\"\nEnglish: \"pocket\" - Espa\u00f1ol: \"bolsillo\"\nEnglish: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"duct\" - Espa\u00f1ol: \"",
+        "target": "['ducto', 'tuber\u00eda', 'conducto', 'conducto de agua', 'acueducto', 'Tuber\u00eda', 'tuber\u00edas', 'ca\u00f1er\u00eda']",
+        "word original": "pipe"
+    },
+    "['aeroplane', 'aircraft', 'airplane', 'fixed-wing aircraft', 'plane']": {
+        "prompt": "English: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"eye\" - Espa\u00f1ol: \"ojos\"\nEnglish: \"taking into custody\" - Espa\u00f1ol: \"arresto\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"curtain\" - Espa\u00f1ol: \"cortina\"\nEnglish: \"aeroplane\" - Espa\u00f1ol: \"",
+        "target": "['aeronave', 'avi\u00f3n', 'aeroplano', 'Avi\u00f3n']",
+        "word original": "plane"
+    },
+    "['plough', 'plow']": {
+        "prompt": "English: \"boxes\" - Espa\u00f1ol: \"cajas\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"chest\" - Espa\u00f1ol: \"ba\u00fal\"\nEnglish: \"network\" - Espa\u00f1ol: \"red de computadoras\"\nEnglish: \"weapon\" - Espa\u00f1ol: \"arma\"\nEnglish: \"plough\" - Espa\u00f1ol: \"",
+        "target": "['arado', 'arar', 'arada']",
+        "word original": "plough"
+    },
+    "['pocket', 'trouser pocket']": {
+        "prompt": "English: \"jacket\" - Espa\u00f1ol: \"casaca\"\nEnglish: \"nerve\" - Espa\u00f1ol: \"nervio\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"pocket\" - Espa\u00f1ol: \"",
+        "target": "['bolsillo', 'bolsa']",
+        "word original": "pocket"
+    },
+    "['toilet', 'can', 'lavatory', 'loo', 'commode', 'pot', 'throne', 'crapper', 'stool', 'potty', 'chamber pot', 'lav', 'privy', 'john', 'bathroom', 'washroom', 'restroom', 'bog', 'water closet', 'WC']": {
+        "prompt": "English: \"tree\" - Espa\u00f1ol: \"\u00e1rbol\"\nEnglish: \"roof\" - Espa\u00f1ol: \"techumbre\"\nEnglish: \"pig\" - Espa\u00f1ol: \"jabal\u00ed\"\nEnglish: \"garden\" - Espa\u00f1ol: \"jard\u00edn\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"toilet\" - Espa\u00f1ol: \"",
+        "target": "['inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter']",
+        "word original": "pot"
+    },
+    "['potato', 'tater', 'spud', 'murphy', 'white potato', 'Irish potato']": {
+        "prompt": "English: \"pocket\" - Espa\u00f1ol: \"bolsillo\"\nEnglish: \"bird\" - Espa\u00f1ol: \"p\u00e1jaro\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"clothes\" - Espa\u00f1ol: \"ropa\"\nEnglish: \"cornet\" - Espa\u00f1ol: \"guimbarda\"\nEnglish: \"potato\" - Espa\u00f1ol: \"",
+        "target": "['patata', 'papa', 'Solanum tuberosum', 'tater']",
+        "word original": "potato"
+    },
+    "['jail', 'prison', 'gaol', 'lockup', 'prison house', 'jailhouse', 'slammer', 'clink', 'pokey', 'poky']": {
+        "prompt": "English: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"stem\" - Espa\u00f1ol: \"tallo\"\nEnglish: \"cloud\" - Espa\u00f1ol: \"nube\"\nEnglish: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"corporal punishment\" - Espa\u00f1ol: \"castigo corporal\"\nEnglish: \"jail\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']",
+        "word original": "prison"
+    },
+    "['mouse', 'rat', 'Mus', 'computer mouse']": {
+        "prompt": "English: \"shirt\" - Espa\u00f1ol: \"camisa\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"skin\" - Espa\u00f1ol: \"piel\"\nEnglish: \"finger\" - Espa\u00f1ol: \"peineta\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"mouse\" - Espa\u00f1ol: \"",
+        "target": "['rata', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus']",
+        "word original": "rat"
+    },
+    "['note', 'banknote', 'bill', 'bank note', 'greenback', 'bank bill', \"banker's bill\", 'Federal Reserve note', 'government note', 'Greenback', 'letter', 'missive', 'receipt', 'invoice', 'account', 'commentary', 'comment']": {
+        "prompt": "English: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"baby\" - Espa\u00f1ol: \"ni\u00f1o\"\nEnglish: \"cycle\" - Espa\u00f1ol: \"bicicleta\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"note\" - Espa\u00f1ol: \"",
+        "target": "['billete de banco', 'billete', 'papel moneda', 'letra', 'carta', 'misiva', 'factura', 'albar\u00e1n', 'recibo', 'cuenta', 'comentario', 'Comentario', 'comento', 'nota']",
+        "word original": "receipt"
+    },
+    "['corporal punishment']": {
+        "prompt": "English: \"monkey\" - Espa\u00f1ol: \"mono\"\nEnglish: \"house\" - Espa\u00f1ol: \"casa\"\nEnglish: \"roof\" - Espa\u00f1ol: \"techumbre\"\nEnglish: \"boy\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"brush\" - Espa\u00f1ol: \"Matorral\"\nEnglish: \"corporal punishment\" - Espa\u00f1ol: \"",
+        "target": "['castigo corporal', 'castigo f\u00edsico']",
+        "word original": "rod"
+    },
+    "['roof']": {
+        "prompt": "English: \"shelf\" - Espa\u00f1ol: \"estante\"\nEnglish: \"whip\" - Espa\u00f1ol: \"fuete\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"potato\" - Espa\u00f1ol: \"patata\"\nEnglish: \"arch\" - Espa\u00f1ol: \"arco\"\nEnglish: \"roof\" - Espa\u00f1ol: \"",
+        "target": "['techumbre', 'techo', 'cubierta', 'tejado']",
+        "word original": "roof"
+    },
+    "['sailing ship', 'sail', 'sailing vessel']": {
+        "prompt": "English: \"match\" - Espa\u00f1ol: \"evento deportivo\"\nEnglish: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"shirt\" - Espa\u00f1ol: \"camisa\"\nEnglish: \"movie\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"sailing ship\" - Espa\u00f1ol: \"",
+        "target": "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']",
+        "word original": "sail"
+    },
+    "['school', 'university', 'academy', 'faculty', 'staff', 'honorary society']": {
+        "prompt": "English: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"marine sponge\" - Espa\u00f1ol: \"esponja\"\nEnglish: \"screw\" - Espa\u00f1ol: \"tornillo\"\nEnglish: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"brick\" - Espa\u00f1ol: \"ladrillo\"\nEnglish: \"school\" - Espa\u00f1ol: \"",
+        "target": "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'facultad', 'facultad universitaria', 'claustro']",
+        "word original": "school"
+    },
+    "['scissors', 'pair of scissors']": {
+        "prompt": "English: \"cake\" - Espa\u00f1ol: \"pastel\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"scissors\" - Espa\u00f1ol: \"",
+        "target": "['sax', 'tijeras', 'tijera']",
+        "word original": "scissors"
+    },
+    "['screw', 'wood screw']": {
+        "prompt": "English: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"star\" - Espa\u00f1ol: \"estrella\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"thumb\" - Espa\u00f1ol: \"pulgar\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"screw\" - Espa\u00f1ol: \"",
+        "target": "['tornillo', 'tirafondo', 'tirafondos', 'rosca', 'tuerca de tornillo de potencia', 'tuerca husillo']",
+        "word original": "screw"
+    },
+    "['seed']": {
+        "prompt": "English: \"door case\" - Espa\u00f1ol: \"puerta\"\nEnglish: \"mouse\" - Espa\u00f1ol: \"rata\"\nEnglish: \"plough\" - Espa\u00f1ol: \"arado\"\nEnglish: \"movie\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"lock\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"seed\" - Espa\u00f1ol: \"",
+        "target": "['semilla', 'pepita', 'simiente']",
+        "word original": "seed"
+    },
+    "['domestic sheep', 'sheep', 'ovine', 'Ovis aries', 'domesticated sheep']": {
+        "prompt": "English: \"bone\" - Espa\u00f1ol: \"hueso\"\nEnglish: \"square\" - Espa\u00f1ol: \"plaza\"\nEnglish: \"duct\" - Espa\u00f1ol: \"ducto\"\nEnglish: \"agency\" - Espa\u00f1ol: \"autoridad\"\nEnglish: \"tail\" - Espa\u00f1ol: \"fundillo\"\nEnglish: \"domestic sheep\" - Espa\u00f1ol: \"",
+        "target": "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia']",
+        "word original": "sheep"
+    },
+    "['shelf']": {
+        "prompt": "English: \"bucket\" - Espa\u00f1ol: \"balde\"\nEnglish: \"library\" - Espa\u00f1ol: \"biblioteca\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"clock\" - Espa\u00f1ol: \"reloj\"\nEnglish: \"shelf\" - Espa\u00f1ol: \"",
+        "target": "['estante', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o', 'estanter\u00eda']",
+        "word original": "shelf"
+    },
+    "['ship']": {
+        "prompt": "English: \"sword\" - Espa\u00f1ol: \"espada\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"duct\" - Espa\u00f1ol: \"ducto\"\nEnglish: \"girl\" - Espa\u00f1ol: \"chica\"\nEnglish: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"ship\" - Espa\u00f1ol: \"",
+        "target": "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel']",
+        "word original": "ship"
+    },
+    "['shirt']": {
+        "prompt": "English: \"sailing ship\" - Espa\u00f1ol: \"barco de vela\"\nEnglish: \"pencil\" - Espa\u00f1ol: \"l\u00e1piz\"\nEnglish: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"gate\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"lock\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"shirt\" - Espa\u00f1ol: \"",
+        "target": "['camisa']",
+        "word original": "shirt"
+    },
+    "['shoe']": {
+        "prompt": "English: \"sock\" - Espa\u00f1ol: \"calcet\u00edn\"\nEnglish: \"seed\" - Espa\u00f1ol: \"semilla\"\nEnglish: \"cup\" - Espa\u00f1ol: \"taza\"\nEnglish: \"committee\" - Espa\u00f1ol: \"comit\u00e9\"\nEnglish: \"cigar\" - Espa\u00f1ol: \"cigarro\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"",
+        "target": "['zapato']",
+        "word original": "tongue"
+    },
+    "['skin', 'tegument', 'cutis', 'Cutis']": {
+        "prompt": "English: \"pencil\" - Espa\u00f1ol: \"l\u00e1piz\"\nEnglish: \"horse\" - Espa\u00f1ol: \"caballo\"\nEnglish: \"motor\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\nEnglish: \"nose\" - Espa\u00f1ol: \"nariz\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"skin\" - Espa\u00f1ol: \"",
+        "target": "['piel', 'cutis', 'tegumento']",
+        "word original": "skin"
+    },
+    "['skirt']": {
+        "prompt": "English: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"identity card\" - Espa\u00f1ol: \"documento de identidad\"\nEnglish: \"finger\" - Espa\u00f1ol: \"peineta\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"fly\" - Espa\u00f1ol: \"mosca\"\nEnglish: \"skirt\" - Espa\u00f1ol: \"",
+        "target": "['falda', 'saya', 'enaguas', 'pollera']",
+        "word original": "skirt"
+    },
+    "['snake', 'serpent', 'ophidian']": {
+        "prompt": "English: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"neck\" - Espa\u00f1ol: \"Nixe\"\nEnglish: \"sink\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"clinic\" - Espa\u00f1ol: \"hospital\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"snake\" - Espa\u00f1ol: \"",
+        "target": "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']",
+        "word original": "snake"
+    },
+    "['sock']": {
+        "prompt": "English: \"hammer\" - Espa\u00f1ol: \"hero\u00edna\"\nEnglish: \"toes\" - Espa\u00f1ol: \"dedos del pie\"\nEnglish: \"cycle\" - Espa\u00f1ol: \"bicicleta\"\nEnglish: \"cake\" - Espa\u00f1ol: \"pastel\"\nEnglish: \"clock\" - Espa\u00f1ol: \"reloj\"\nEnglish: \"sock\" - Espa\u00f1ol: \"",
+        "target": "['calcet\u00edn', 'media', 'calcetines']",
+        "word original": "sock"
+    },
+    "['marine sponge', 'sponges', 'poriferan', 'sponge', 'parazoan', 'Porifera']": {
+        "prompt": "English: \"square\" - Espa\u00f1ol: \"plaza\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"haz\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"hen's egg\" - Espa\u00f1ol: \"huevo de gallina\"\nEnglish: \"bone\" - Espa\u00f1ol: \"hueso\"\nEnglish: \"marine sponge\" - Espa\u00f1ol: \"",
+        "target": "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']",
+        "word original": "sponge"
+    },
+    "['spoon']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"mouse\" - Espa\u00f1ol: \"rata\"\nEnglish: \"street\" - Espa\u00f1ol: \"calle\"\nEnglish: \"thread\" - Espa\u00f1ol: \"hilo\"\nEnglish: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"spoon\" - Espa\u00f1ol: \"",
+        "target": "['cuchara']",
+        "word original": "spoon"
+    },
+    "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'season', 'time of year', 'springtime']": {
+        "prompt": "English: \"sill\" - Espa\u00f1ol: \"ventana\"\nEnglish: \"hen's egg\" - Espa\u00f1ol: \"huevo de gallina\"\nEnglish: \"boot\" - Espa\u00f1ol: \"bota\"\nEnglish: \"wing\" - Espa\u00f1ol: \"ala\"\nEnglish: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"spring\" - Espa\u00f1ol: \"",
+        "target": "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n', 'estaci\u00f3n', 'estaci\u00f3n del a\u00f1o', 'estaciones del a\u00f1o', 'primavera', 'resorte', 'muelle']",
+        "word original": "spring"
+    },
+    "['square', 'town square', 'public square', 'foursquare', 'second power']": {
+        "prompt": "English: \"plough\" - Espa\u00f1ol: \"arado\"\nEnglish: \"angle\" - Espa\u00f1ol: \"\u00e1ngulo\"\nEnglish: \"stem\" - Espa\u00f1ol: \"tallo\"\nEnglish: \"library\" - Espa\u00f1ol: \"biblioteca\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"square\" - Espa\u00f1ol: \"",
+        "target": "['plaza', 'plaza p\u00fablica', 'cuadrado', 'cuadro', 'cuadrado perfecto']",
+        "word original": "square"
+    },
+    "['stamp', 'postage', 'postage stamp', 'seal ring', 'signet ring', 'seal']": {
+        "prompt": "English: \"sword\" - Espa\u00f1ol: \"espada\"\nEnglish: \"bell\" - Espa\u00f1ol: \"campana\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"worm\" - Espa\u00f1ol: \"drag\u00f3n europeo\"\nEnglish: \"stamp\" - Espa\u00f1ol: \"",
+        "target": "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']",
+        "word original": "stamp"
+    },
+    "['star', 'asterisk', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']": {
+        "prompt": "English: \"jail\" - Espa\u00f1ol: \"c\u00e1rcel\"\nEnglish: \"boat\" - Espa\u00f1ol: \"bote\"\nEnglish: \"stocking\" - Espa\u00f1ol: \"medias\"\nEnglish: \"oven\" - Espa\u00f1ol: \"horno\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"star\" - Espa\u00f1ol: \"",
+        "target": "['estrella', 'astro', 'asterisco', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha', 'artista', 'protagonista']",
+        "word original": "star"
+    },
+    "['stem', 'stalk', 'plant stem']": {
+        "prompt": "English: \"garden\" - Espa\u00f1ol: \"jard\u00edn\"\nEnglish: \"door case\" - Espa\u00f1ol: \"puerta\"\nEnglish: \"function\" - Espa\u00f1ol: \"posici\u00f3n\"\nEnglish: \"corporal punishment\" - Espa\u00f1ol: \"castigo corporal\"\nEnglish: \"shirt\" - Espa\u00f1ol: \"camisa\"\nEnglish: \"stem\" - Espa\u00f1ol: \"",
+        "target": "['tallo']",
+        "word original": "stem"
+    },
+    "['cigar']": {
+        "prompt": "English: \"tooth\" - Espa\u00f1ol: \"diente\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"gun\" - Espa\u00f1ol: \"artiller\u00eda\"\nEnglish: \"watch\" - Espa\u00f1ol: \"reloj\"\nEnglish: \"button\" - Espa\u00f1ol: \"curling\"\nEnglish: \"cigar\" - Espa\u00f1ol: \"",
+        "target": "['cigarro', 'puro', 'cigarro puro', 'cigarrillo', 'chicote', 'tagarnina']",
+        "word original": "stick"
+    },
+    "['stocking', 'stockings']": {
+        "prompt": "English: \"house\" - Espa\u00f1ol: \"casa\"\nEnglish: \"snake\" - Espa\u00f1ol: \"sierpe\"\nEnglish: \"sword\" - Espa\u00f1ol: \"espada\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"stocking\" - Espa\u00f1ol: \"",
+        "target": "['medias', 'media']",
+        "word original": "stocking"
+    },
+    "['stomach', 'breadbasket', 'tummy', 'tum', 'body of stomach']": {
+        "prompt": "English: \"gate\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"nerve\" - Espa\u00f1ol: \"nervio\"\nEnglish: \"gemstone\" - Espa\u00f1ol: \"joya\"\nEnglish: \"jacket\" - Espa\u00f1ol: \"casaca\"\nEnglish: \"skirt\" - Espa\u00f1ol: \"falda\"\nEnglish: \"stomach\" - Espa\u00f1ol: \"",
+        "target": "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero']",
+        "word original": "stomach"
+    },
+    "['computer memory', 'computer storage', 'computer data storage', 'storage', 'memory', 'memory board', 'store']": {
+        "prompt": "English: \"clinic\" - Espa\u00f1ol: \"hospital\"\nEnglish: \"chin\" - Espa\u00f1ol: \"barbilla\"\nEnglish: \"cup\" - Espa\u00f1ol: \"taza\"\nEnglish: \"clock\" - Espa\u00f1ol: \"reloj\"\nEnglish: \"plough\" - Espa\u00f1ol: \"arado\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"",
+        "target": "['memoria', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional']",
+        "word original": "store"
+    },
+    "['street']": {
+        "prompt": "English: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"toes\" - Espa\u00f1ol: \"dedos del pie\"\nEnglish: \"house\" - Espa\u00f1ol: \"casa\"\nEnglish: \"library\" - Espa\u00f1ol: \"biblioteca\"\nEnglish: \"heart\" - Espa\u00f1ol: \"coraz\u00f3n\"\nEnglish: \"street\" - Espa\u00f1ol: \"",
+        "target": "['calle', 'rua']",
+        "word original": "street"
+    },
+    "['Sunday', 'Sun', \"Lord's Day\", 'Dominicus']": {
+        "prompt": "English: \"finger\" - Espa\u00f1ol: \"peineta\"\nEnglish: \"whip\" - Espa\u00f1ol: \"fuete\"\nEnglish: \"mouse\" - Espa\u00f1ol: \"rata\"\nEnglish: \"committee\" - Espa\u00f1ol: \"comit\u00e9\"\nEnglish: \"brake\" - Espa\u00f1ol: \"freno\"\nEnglish: \"Sunday\" - Espa\u00f1ol: \"",
+        "target": "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']",
+        "word original": "sun"
+    },
+    "['tail', 'nates', 'prat', 'fundament', 'ass cheek', 'tooshie', 'fanny', 'rear end', 'arse', 'can', 'seat', 'tush', 'hindquarters', 'derriere', 'tail end', 'hind end', 'bum', 'bottom', 'backside', 'buttocks', 'posterior', 'rump', 'butt', 'stern', 'rear', 'buns', 'butt cheek', 'ass', 'buttock', 'keister', 'behind', 'Anteversion']": {
+        "prompt": "English: \"function\" - Espa\u00f1ol: \"posici\u00f3n\"\nEnglish: \"potato\" - Espa\u00f1ol: \"patata\"\nEnglish: \"carriage\" - Espa\u00f1ol: \"vag\u00f3n\"\nEnglish: \"clinic\" - Espa\u00f1ol: \"hospital\"\nEnglish: \"committee\" - Espa\u00f1ol: \"comit\u00e9\"\nEnglish: \"tail\" - Espa\u00f1ol: \"",
+        "target": "['fundillo', 'culo', 'trasero', 'nalga', 'asiento', 'gl\u00fateos', 'asentaderas', 'ancas', 'pandero', 'tras', 'oc\u00f3te', 'posas', 'cola', 'suelo', 'traste', 'ano', 'tuje', 'cachas', 'posaderas', 'keister', 'fondo', 'grupa', 'fin', 'rul\u00e9', 'poto', 'posterior', 'as de oros', 'nalgas', 'cachetes', 'pompis']",
+        "word original": "tail"
+    },
+    "['thread', 'yarn', 'string', 'twine']": {
+        "prompt": "English: \"pin\" - Espa\u00f1ol: \"pierna\"\nEnglish: \"natural satellite\" - Espa\u00f1ol: \"sat\u00e9lite\"\nEnglish: \"note\" - Espa\u00f1ol: \"billete de banco\"\nEnglish: \"motor\" - Espa\u00f1ol: \"motor el\u00e9ctrico\"\nEnglish: \"sailing ship\" - Espa\u00f1ol: \"barco de vela\"\nEnglish: \"thread\" - Espa\u00f1ol: \"",
+        "target": "['hilo', 'hebra', 'hilado', 'lana', 'hilaza', 'cordel', 'mecate', 'cuerda', 'guita', 'bramante', 'cord\u00f3n']",
+        "word original": "thread"
+    },
+    "['throat', 'pharynx']": {
+        "prompt": "English: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"bird\" - Espa\u00f1ol: \"p\u00e1jaro\"\nEnglish: \"knot\" - Espa\u00f1ol: \"nudo\"\nEnglish: \"flag\" - Espa\u00f1ol: \"bandera\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"throat\" - Espa\u00f1ol: \"",
+        "target": "['garganta', 'faringe']",
+        "word original": "throat"
+    },
+    "['thumb', 'pollex']": {
+        "prompt": "English: \"passenger train\" - Espa\u00f1ol: \"tren\"\nEnglish: \"pig\" - Espa\u00f1ol: \"jabal\u00ed\"\nEnglish: \"finger\" - Espa\u00f1ol: \"peineta\"\nEnglish: \"oven\" - Espa\u00f1ol: \"horno\"\nEnglish: \"bath\" - Espa\u00f1ol: \"ba\u00f1o\"\nEnglish: \"thumb\" - Espa\u00f1ol: \"",
+        "target": "['pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']",
+        "word original": "thumb"
+    },
+    "['toes', 'baby toe', 'toe', 'little toe', 'pinky toe', 'fifth toe', 'second toe', 'third toe']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"key\" - Espa\u00f1ol: \"clave\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"farm\" - Espa\u00f1ol: \"granja\"\nEnglish: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"toes\" - Espa\u00f1ol: \"",
+        "target": "['dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie', 'dedo']",
+        "word original": "toe"
+    },
+    "['tooth', 'teeth', 'human tooth']": {
+        "prompt": "English: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"fork\" - Espa\u00f1ol: \"tributaria\"\nEnglish: \"ring\" - Espa\u00f1ol: \"anillo\"\nEnglish: \"poultry\" - Espa\u00f1ol: \"ave de corral\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"memoria\"\nEnglish: \"tooth\" - Espa\u00f1ol: \"",
+        "target": "['diente', 'dientes', 'diente humano']",
+        "word original": "tooth"
+    },
+    "['passenger train', 'train', 'railroad train']": {
+        "prompt": "English: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"nut\" - Espa\u00f1ol: \"\u00f3vulo\"\nEnglish: \"orangeness\" - Espa\u00f1ol: \"naranja\"\nEnglish: \"economics\" - Espa\u00f1ol: \"econom\u00eda\"\nEnglish: \"sword\" - Espa\u00f1ol: \"espada\"\nEnglish: \"passenger train\" - Espa\u00f1ol: \"",
+        "target": "['tren', 'ferrocarril', 'locomotora', 'trenes']",
+        "word original": "train"
+    },
+    "['tree']": {
+        "prompt": "English: \"match\" - Espa\u00f1ol: \"evento deportivo\"\nEnglish: \"pussy\" - Espa\u00f1ol: \"gato\"\nEnglish: \"ant\" - Espa\u00f1ol: \"hormiga\"\nEnglish: \"lips\" - Espa\u00f1ol: \"labio\"\nEnglish: \"toilet\" - Espa\u00f1ol: \"inodoro\"\nEnglish: \"tree\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1rbol', 'arbol']",
+        "word original": "tree"
+    },
+    "['pants', 'trousers', 'pair of trousers', 'pant', 'trouser']": {
+        "prompt": "English: \"stocking\" - Espa\u00f1ol: \"medias\"\nEnglish: \"roof\" - Espa\u00f1ol: \"techumbre\"\nEnglish: \"plume\" - Espa\u00f1ol: \"pluma\"\nEnglish: \"nerve\" - Espa\u00f1ol: \"nervio\"\nEnglish: \"valley\" - Espa\u00f1ol: \"dolina\"\nEnglish: \"pants\" - Espa\u00f1ol: \"",
+        "target": "['pantal\u00f3n', 'pantalones', 'herales']",
+        "word original": "trousers"
+    },
+    "['umbrella']": {
+        "prompt": "English: \"curtain\" - Espa\u00f1ol: \"cortina\"\nEnglish: \"gate\" - Espa\u00f1ol: \"esclusa\"\nEnglish: \"agency\" - Espa\u00f1ol: \"autoridad\"\nEnglish: \"nerve\" - Espa\u00f1ol: \"nervio\"\nEnglish: \"fingernail\" - Espa\u00f1ol: \"u\u00f1a\"\nEnglish: \"umbrella\" - Espa\u00f1ol: \"",
+        "target": "['paraguas', 'sombrilla', 'parasol']",
+        "word original": "umbrella"
+    },
+    "['wall']": {
+        "prompt": "English: \"cigar\" - Espa\u00f1ol: \"cigarro\"\nEnglish: \"cow\" - Espa\u00f1ol: \"ganado bovino\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"school\" - Espa\u00f1ol: \"universidad\"\nEnglish: \"wall\" - Espa\u00f1ol: \"",
+        "target": "['pared', 'muro', 'muralla']",
+        "word original": "wall"
+    },
+    "['watch', 'wrist watch', 'wristwatch', 'ticker']": {
+        "prompt": "English: \"picture\" - Espa\u00f1ol: \"pel\u00edcula\"\nEnglish: \"bone\" - Espa\u00f1ol: \"hueso\"\nEnglish: \"angle\" - Espa\u00f1ol: \"\u00e1ngulo\"\nEnglish: \"cake\" - Espa\u00f1ol: \"pastel\"\nEnglish: \"shoe\" - Espa\u00f1ol: \"zapato\"\nEnglish: \"watch\" - Espa\u00f1ol: \"",
+        "target": "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']",
+        "word original": "watch"
+    },
+    "['cycle', 'bicycle', 'bike', 'wheel', 'round', 'rhythm']": {
+        "prompt": "English: \"mouth\" - Espa\u00f1ol: \"cavidad oral\"\nEnglish: \"knife\" - Espa\u00f1ol: \"cuchillo\"\nEnglish: \"needle\" - Espa\u00f1ol: \"aguja\"\nEnglish: \"goat\" - Espa\u00f1ol: \"cabra\"\nEnglish: \"clock\" - Espa\u00f1ol: \"reloj\"\nEnglish: \"cycle\" - Espa\u00f1ol: \"",
+        "target": "['bicicleta', 'bici', 'bicicletas', 'ciclo']",
+        "word original": "wheel"
+    },
+    "['whip']": {
+        "prompt": "English: \"house\" - Espa\u00f1ol: \"casa\"\nEnglish: \"television\" - Espa\u00f1ol: \"video\"\nEnglish: \"hair\" - Espa\u00f1ol: \"cabello\"\nEnglish: \"natural satellite\" - Espa\u00f1ol: \"sat\u00e9lite\"\nEnglish: \"parcel\" - Espa\u00f1ol: \"haz\"\nEnglish: \"whip\" - Espa\u00f1ol: \"",
+        "target": "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']",
+        "word original": "whip"
+    },
+    "['sill', 'window ledge', 'window', 'window sill', 'ledge-sill']": {
+        "prompt": "English: \"fly\" - Espa\u00f1ol: \"mosca\"\nEnglish: \"knee\" - Espa\u00f1ol: \"rodilla\"\nEnglish: \"computer memory\" - Espa\u00f1ol: \"memoria\"\nEnglish: \"head\" - Espa\u00f1ol: \"mente\"\nEnglish: \"teakettle\" - Espa\u00f1ol: \"hervidor\"\nEnglish: \"sill\" - Espa\u00f1ol: \"",
+        "target": "['ventana']",
+        "word original": "window"
+    },
+    "['wing']": {
+        "prompt": "English: \"apple peel\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nEnglish: \"pen\" - Espa\u00f1ol: \"penicilina\"\nEnglish: \"fingernail\" - Espa\u00f1ol: \"u\u00f1a\"\nEnglish: \"boxes\" - Espa\u00f1ol: \"cajas\"\nEnglish: \"bird\" - Espa\u00f1ol: \"p\u00e1jaro\"\nEnglish: \"wing\" - Espa\u00f1ol: \"",
+        "target": "['ala']",
+        "word original": "wing"
+    },
+    "['worm', 'European dragon']": {
+        "prompt": "English: \"bone\" - Espa\u00f1ol: \"hueso\"\nEnglish: \"ear\" - Espa\u00f1ol: \"o\u00eddo\"\nEnglish: \"lightbulb\" - Espa\u00f1ol: \"bombillo\"\nEnglish: \"television\" - Espa\u00f1ol: \"video\"\nEnglish: \"chin\" - Espa\u00f1ol: \"barbilla\"\nEnglish: \"worm\" - Espa\u00f1ol: \"",
+        "target": "['drag\u00f3n europeo', 'gusano', 'verme']",
+        "word original": "worm"
+    }
+}

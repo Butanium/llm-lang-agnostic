@@ -1,0 +1,812 @@
+{
+    "['nurk']": {
+        "prompt": "Eesti: \"\u00c4mber\" - Suomi: \"\u00e4mp\u00e4ri\"\nEesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"pliiats\" - Suomi: \"lyijykyn\u00e4\"\nEesti: \"ader\" - Suomi: \"aura\"\nEesti: \"komitee\" - Suomi: \"komitea\"\nEesti: \"nurk\" - Suomi: \"",
+        "target": "['suplementtikulmat', 'Suplementtikulmat', 'kulma', 'Komplementtikulmat', 'viereinen kulma', 'vieruskulma', 'Kulma', 'kadunkulma', 'k\u00e4\u00e4ntymiskohta']",
+        "word original": "angle"
+    },
+    "['sipelgas', 'sipelglased', 'Sipelglased']": {
+        "prompt": "Eesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"n\u00e4gu\" - Suomi: \"naama\"\nEesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"paat\" - Suomi: \"vene\"\nEesti: \"teekann\" - Suomi: \"teekannu\"\nEesti: \"sipelgas\" - Suomi: \"",
+        "target": "['muurahainen', 'muurahaiset', 'kusiainen']",
+        "word original": "ant"
+    },
+    "['\u00f5un']": {
+        "prompt": "Eesti: \"oran\u017e\" - Suomi: \"oranssius\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"lennuk\" - Suomi: \"ilma-alus\"\nEesti: \"n\u00e4rv\" - Suomi: \"hermo\"\nEesti: \"tulirelv\" - Suomi: \"ampuma-ase\"\nEesti: \"\u00f5un\" - Suomi: \"",
+        "target": "['omena']",
+        "word original": "apple"
+    },
+    "['Kaar', 'S\u00e4delahendus', 'Kaarlahendus', 'elektrilahendus', 'kaarlahendus', 'Elektrilahendus', 's\u00e4delahendus']": {
+        "prompt": "Eesti: \"k\u00e4imla\" - Suomi: \"potta\"\nEesti: \"hoone\" - Suomi: \"julkinen rakennus\"\nEesti: \"k\u00fc\u00fcs\" - Suomi: \"kynsi\"\nEesti: \"veised\" - Suomi: \"karja\"\nEesti: \"Internet\" - Suomi: \"netti\"\nEesti: \"Kaar\" - Suomi: \"",
+        "target": "['holvikaari', 'Kaari', 'kaari', 'holvi', 's\u00e4hk\u00f6kipin\u00e4', 'valokaari', 'Valokaari', 'kipin\u00e4', 's\u00e4hk\u00f6purkaus', 's\u00e4hk\u00f6valokaari', 'purkaus']",
+        "word original": "arch"
+    },
+    "['relv', 'tulirelv']": {
+        "prompt": "Eesti: \"paat\" - Suomi: \"vene\"\nEesti: \"pudel\" - Suomi: \"pullo\"\nEesti: \"haamer\" - Suomi: \"vasara\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"lusikas\" - Suomi: \"lusikka\"\nEesti: \"relv\" - Suomi: \"",
+        "target": "['ase', 'astalo', 'ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']",
+        "word original": "arm"
+    },
+    "['relvaj\u00f5ud', 's\u00f5jav\u00e4gi']": {
+        "prompt": "Eesti: \"mesilane\" - Suomi: \"mehil\u00e4iset\"\nEesti: \"tiib\" - Suomi: \"siipi\"\nEesti: \"rong\" - Suomi: \"juna\"\nEesti: \"kael\" - Suomi: \"kaula\"\nEesti: \"madu\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"",
+        "target": "['asevoimat', 'sotakoneisto', 'sotakone', 'armeija', 'sotav\u00e4ki', 'puolustusvoimat', 'sotavoimat']",
+        "word original": "army"
+    },
+    "['v\u00e4ikelaps', 'beebi', 'Imik', 'imik']": {
+        "prompt": "Eesti: \"seeme\" - Suomi: \"siemen\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"pliiats\" - Suomi: \"lyijykyn\u00e4\"\nEesti: \"lambad\" - Suomi: \"lammas\"\nEesti: \"Sokk\" - Suomi: \"sukka\"\nEesti: \"v\u00e4ikelaps\" - Suomi: \"",
+        "target": "['pikkulapsi', 'pienokainen', 'vauva', 'imev\u00e4inen', 'vauvaik\u00e4']",
+        "word original": "baby"
+    },
+    "['pesapall']": {
+        "prompt": "Eesti: \"komitee\" - Suomi: \"komitea\"\nEesti: \"ID-kaart\" - Suomi: \"henkil\u00f6kortti\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"saar\" - Suomi: \"saari\"\nEesti: \"\u00fclikool\" - Suomi: \"yliopisto\"\nEesti: \"pesapall\" - Suomi: \"",
+        "target": "['baseball', 'baseball-peli']",
+        "word original": "ball"
+    },
+    "['s\u00f5rmus']": {
+        "prompt": "Eesti: \"k\u00f5ht\" - Suomi: \"vatsa\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"k\u00f5rv\" - Suomi: \"korva\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"uss\" - Suomi: \"mato\"\nEesti: \"s\u00f5rmus\" - Suomi: \"",
+        "target": "['sormus']",
+        "word original": "ring"
+    },
+    "['kraanikauss', 'bassein', 'Bassein', 'valamu']": {
+        "prompt": "Eesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"kuu\" - Suomi: \"kuukausi\"\nEesti: \"Kast\" - Suomi: \"kasti\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"kraanikauss\" - Suomi: \"",
+        "target": "['amme', 'pesuallas', 'lavuaari', 'Lavuaari', 'viem\u00e4riallas']",
+        "word original": "basin"
+    },
+    "['korv', 'k\u00f5rv']": {
+        "prompt": "Eesti: \"nahk\" - Suomi: \"iho\"\nEesti: \"\u00f6konoomika\" - Suomi: \"talosel\u00e4m\u00e4\"\nEesti: \"Sigar\" - Suomi: \"sikari\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"korv\" - Suomi: \"",
+        "target": "['korva', 'kori', 'koppa', 'vasu']",
+        "word original": "basket"
+    },
+    "['vannituba']": {
+        "prompt": "Eesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"sulgloomad\" - Suomi: \"siipikarja\"\nEesti: \"kartul\" - Suomi: \"peruna\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"vannituba\" - Suomi: \"",
+        "target": "['kylpyhuone', 'kylpyl\u00e4']",
+        "word original": "bath"
+    },
+    "['voodi']": {
+        "prompt": "Eesti: \"pesapall\" - Suomi: \"baseball\"\nEesti: \"m\u00f5\u00f5k\" - Suomi: \"miekka\"\nEesti: \"pidur\" - Suomi: \"Jarru\"\nEesti: \"pirn\" - Suomi: \"hehkulamppu\"\nEesti: \"\u00f5un\" - Suomi: \"omena\"\nEesti: \"voodi\" - Suomi: \"",
+        "target": "['vuode', 's\u00e4nky', 'peti']",
+        "word original": "bed"
+    },
+    "['mesilane', 'Mesilased']": {
+        "prompt": "Eesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"voodi\" - Suomi: \"vuode\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"madu\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEesti: \"juust\" - Suomi: \"juusto\"\nEesti: \"mesilane\" - Suomi: \"",
+        "target": "['mehil\u00e4iset', 'Mehil\u00e4inen', 'mehil\u00e4inen', 'mesipisti\u00e4iset']",
+        "word original": "bee"
+    },
+    "['uksekell']": {
+        "prompt": "Eesti: \"Kook\" - Suomi: \"ruokakulttuuri\"\nEesti: \"kont\" - Suomi: \"luu\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"uks\" - Suomi: \"yksi\"\nEesti: \"siga\" - Suomi: \"sika\"\nEesti: \"uksekell\" - Suomi: \"",
+        "target": "['ovikello', 'Ovikello', 'ovisummeri']",
+        "word original": "bell"
+    },
+    "['lind', 'linnud']": {
+        "prompt": "Eesti: \"s\u00f5rmik\" - Suomi: \"hansikas\"\nEesti: \"Labajalg\" - Suomi: \"jalkater\u00e4\"\nEesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"kaamera\" - Suomi: \"kamera\"\nEesti: \"\u00c4mber\" - Suomi: \"\u00e4mp\u00e4ri\"\nEesti: \"lind\" - Suomi: \"",
+        "target": "['linnut', 'lintu']",
+        "word original": "bird"
+    },
+    "['m\u00f5\u00f5k']": {
+        "prompt": "Eesti: \"p\u00fcksid\" - Suomi: \"housut\"\nEesti: \"ahi\" - Suomi: \"uuni\"\nEesti: \"kael\" - Suomi: \"kaula\"\nEesti: \"k\u00e4imla\" - Suomi: \"potta\"\nEesti: \"lennuk\" - Suomi: \"ilma-alus\"\nEesti: \"m\u00f5\u00f5k\" - Suomi: \"",
+        "target": "['miekka', 'kalpa']",
+        "word original": "blade"
+    },
+    "['komitee', 'komisjon']": {
+        "prompt": "Eesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"lihas\" - Suomi: \"lihaskudos\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"\u00f6konoomika\" - Suomi: \"talosel\u00e4m\u00e4\"\nEesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"komitee\" - Suomi: \"",
+        "target": "['komitea', 'valiokunta', 'toimikunta', 'lautakunta']",
+        "word original": "board"
+    },
+    "['paat']": {
+        "prompt": "Eesti: \"teekann\" - Suomi: \"teekannu\"\nEesti: \"relv\" - Suomi: \"ase\"\nEesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"t\u00fcdruk\" - Suomi: \"tytt\u00f6\"\nEesti: \"inimf\u00fcsioloogia\" - Suomi: \"ihmisruumis\"\nEesti: \"paat\" - Suomi: \"",
+        "target": "['vene']",
+        "word original": "boat"
+    },
+    "['kont', 'luu']": {
+        "prompt": "Eesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"madu\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEesti: \"\u00fclikool\" - Suomi: \"yliopisto\"\nEesti: \"hobune\" - Suomi: \"hevonen\"\nEesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"kont\" - Suomi: \"",
+        "target": "['luu', 'os']",
+        "word original": "bone"
+    },
+    "['raamat']": {
+        "prompt": "Eesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"kaamera\" - Suomi: \"kamera\"\nEesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"raamat\" - Suomi: \"",
+        "target": "['kirja']",
+        "word original": "book"
+    },
+    "['pudel']": {
+        "prompt": "Eesti: \"Kahetiivalised\" - Suomi: \"kaksisiipiset\"\nEesti: \"lind\" - Suomi: \"linnut\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"tiib\" - Suomi: \"siipi\"\nEesti: \"M\u00e4lu\" - Suomi: \"muisti\"\nEesti: \"pudel\" - Suomi: \"",
+        "target": "['pullo']",
+        "word original": "bottle"
+    },
+    "['Kast', 'kastis\u00fcsteem', 'Kastis\u00fcsteem']": {
+        "prompt": "Eesti: \"laev\" - Suomi: \"laiva\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"nahk\" - Suomi: \"iho\"\nEesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"Kast\" - Suomi: \"",
+        "target": "['kasti', 'kastilaitos', 'Kastilaitos', 'luokka', 's\u00e4\u00e4ty', 'laatikko', 'rasia', 'aski']",
+        "word original": "box"
+    },
+    "['poiss']": {
+        "prompt": "Eesti: \"aed\" - Suomi: \"puutarha\"\nEesti: \"Kahetiivalised\" - Suomi: \"kaksisiipiset\"\nEesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"kuu\" - Suomi: \"kuukausi\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"poiss\" - Suomi: \"",
+        "target": "['poika', 'poikayst\u00e4v\u00e4', 'kundikaveri', 'nuorikko', 'sulho', 'poikakaveri']",
+        "word original": "boy"
+    },
+    "['nous', 'ps\u00fc\u00fchika', 'Ps\u00fc\u00fchika', 'vaim', 'Vaim']": {
+        "prompt": "Eesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"Hari\" - Suomi: \"kyp\u00e4r\u00e4nkoriste\"\nEesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"kahvel\" - Suomi: \"haarukka\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"nous\" - Suomi: \"",
+        "target": "['Psyyke', 'mieli', 'p\u00e4\u00e4', 'psyyke', 'j\u00e4rki', '\u00e4lli']",
+        "word original": "head"
+    },
+    "['pidur']": {
+        "prompt": "Eesti: \"Kast\" - Suomi: \"kasti\"\nEesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"Sukad\" - Suomi: \"sukka\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"pidur\" - Suomi: \"",
+        "target": "['Jarru', 'jarru']",
+        "word original": "brake"
+    },
+    "['\u00f6konoomika', 'majandusteadus', 'Poliitiline \u00f6konoomia', 'poliitiline \u00f6konoomia']": {
+        "prompt": "Eesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"saba\" - Suomi: \"perskannikka\"\nEesti: \"hoone\" - Suomi: \"julkinen rakennus\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"tulirelv\" - Suomi: \"ampuma-ase\"\nEesti: \"\u00f6konoomika\" - Suomi: \"",
+        "target": "['talosel\u00e4m\u00e4', 'taloustiede', 'kansantalous', 'poliittinen talous', 'kansantaloustiede', 'ekonomia']",
+        "word original": "branch"
+    },
+    "['tellis']": {
+        "prompt": "Eesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"M\u00e4lu\" - Suomi: \"muisti\"\nEesti: \"t\u00fcdruk\" - Suomi: \"tytt\u00f6\"\nEesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"tellis\" - Suomi: \"",
+        "target": "['tiili', 'tiiliskivi']",
+        "word original": "brick"
+    },
+    "['sild']": {
+        "prompt": "Eesti: \"kahvel\" - Suomi: \"haarukka\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"Sukad\" - Suomi: \"sukka\"\nEesti: \"vangla\" - Suomi: \"linna\"\nEesti: \"sild\" - Suomi: \"",
+        "target": "['silta']",
+        "word original": "bridge"
+    },
+    "['Hari', 'pintsel']": {
+        "prompt": "Eesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"p\u00fcksid\" - Suomi: \"housut\"\nEesti: \"korv\" - Suomi: \"korva\"\nEesti: \"Hari\" - Suomi: \"",
+        "target": "['kyp\u00e4r\u00e4nkoriste', 't\u00f6yht\u00f6', 'Kyp\u00e4r\u00e4nkoriste', 'harja', 'suti', 'sivellin', 'suka']",
+        "word original": "brush"
+    },
+    "['\u00c4mber', 'pang']": {
+        "prompt": "Eesti: \"nina\" - Suomi: \"niemi\"\nEesti: \"kaamera\" - Suomi: \"kamera\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"n\u00e4gu\" - Suomi: \"naama\"\nEesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"\u00c4mber\" - Suomi: \"",
+        "target": "['\u00e4mp\u00e4ri', 'kiulu', 'sanko']",
+        "word original": "bucket"
+    },
+    "['pirn', 'elektripirn', 'lamp', 'Elektervalgustus', 'elektervalgustus', 'h\u00f5\u00f5glamp']": {
+        "prompt": "Eesti: \"nina\" - Suomi: \"niemi\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"sild\" - Suomi: \"silta\"\nEesti: \"\u00c4mber\" - Suomi: \"\u00e4mp\u00e4ri\"\nEesti: \"pirn\" - Suomi: \"",
+        "target": "['hehkulamppu', 'lamppu', 's\u00e4hk\u00f6valo', 'S\u00e4hk\u00f6valo', 's\u00e4hk\u00f6lamppu']",
+        "word original": "bulb"
+    },
+    "['Kook', 'kulinaarne', 'rahvusk\u00f6\u00f6k', 'kokakunst', 'K\u00f6\u00f6k', 'kulinaaria', 'kokandus', 'k\u00f6\u00f6k']": {
+        "prompt": "Eesti: \"muna\" - Suomi: \"kananmuna\"\nEesti: \"Sokk\" - Suomi: \"sukka\"\nEesti: \"postmark\" - Suomi: \"postimerkki\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"lihas\" - Suomi: \"lihaskudos\"\nEesti: \"Kook\" - Suomi: \"",
+        "target": "['ruokakulttuuri', 'keitti\u00f6', 'keittotaito', 'ruuanlaittotaito', 'kakku']",
+        "word original": "cake"
+    },
+    "['kaamera', 'fotoaparaat']": {
+        "prompt": "Eesti: \"nina\" - Suomi: \"niemi\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"uss\" - Suomi: \"mato\"\nEesti: \"sulgloomad\" - Suomi: \"siipikarja\"\nEesti: \"\u00fclikool\" - Suomi: \"yliopisto\"\nEesti: \"kaamera\" - Suomi: \"",
+        "target": "['kamera', 'valokuvakamera']",
+        "word original": "camera"
+    },
+    "['ID-kaart', 'isikutunnistus']": {
+        "prompt": "Eesti: \"pliiats\" - Suomi: \"lyijykyn\u00e4\"\nEesti: \"kirik\" - Suomi: \"kirkko\"\nEesti: \"koer\" - Suomi: \"koira\"\nEesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"ID-kaart\" - Suomi: \"",
+        "target": "['henkil\u00f6kortti', 'henkil\u00f6llisyystodistus', 'henkil\u00f6todistus', 'I.D.', 'ID']",
+        "word original": "card"
+    },
+    "['raudtees\u00f5iduk', 'mootorvagun', 'vagun', 'Vagun', 'Mootorvagun', 't\u00f5ld', 'T\u00f5ld']": {
+        "prompt": "Eesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"kaamera\" - Suomi: \"kamera\"\nEesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"raudtees\u00f5iduk\" - Suomi: \"",
+        "target": "['rautatieajoneuvo', 'moottorivaunu', 'junanvaunu', 'rautatievaunu', 'Moottorivaunu', 'vaunu', 'junavaunu', 'hissikori', 'kiskoauto', 'raidevaunu', 'ekipaasi', 'Valjakkovaunu', 'k\u00e4rryt', 'valjakkovaunu', 'vaunut', 'rattaat']",
+        "word original": "carriage"
+    },
+    "['kass']": {
+        "prompt": "Eesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"linn\" - Suomi: \"kaupunki\"\nEesti: \"komitee\" - Suomi: \"komitea\"\nEesti: \"kornet\" - Suomi: \"munniharppu\"\nEesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"kass\" - Suomi: \"",
+        "target": "['mirri', 'kissa', 'kesykissa', 'kisu', 'katti', 'kissael\u00e4in']",
+        "word original": "cat"
+    },
+    "['juust', 's\u00f5ir']": {
+        "prompt": "Eesti: \"hobune\" - Suomi: \"hevonen\"\nEesti: \"org\" - Suomi: \"laakso\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"juust\" - Suomi: \"",
+        "target": "['juusto']",
+        "word original": "cheese"
+    },
+    "['Kirst']": {
+        "prompt": "Eesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"m\u00fcts\" - Suomi: \"hattu\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"teekann\" - Suomi: \"teekannu\"\nEesti: \"Kirst\" - Suomi: \"",
+        "target": "['Arkku', 'arkku', 'kirstu']",
+        "word original": "chest"
+    },
+    "['l\u00f5ug']": {
+        "prompt": "Eesti: \"leht\" - Suomi: \"lehvist\u00f6\"\nEesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"kont\" - Suomi: \"luu\"\nEesti: \"lusikas\" - Suomi: \"lusikka\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"l\u00f5ug\" - Suomi: \"",
+        "target": "['leuka', 'leukakyhmy', 'mentum']",
+        "word original": "chin"
+    },
+    "['kirik']": {
+        "prompt": "Eesti: \"kael\" - Suomi: \"kaula\"\nEesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"p\u00f6ial\" - Suomi: \"peukalo\"\nEesti: \"uks\" - Suomi: \"yksi\"\nEesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"kirik\" - Suomi: \"",
+        "target": "['kirkko', 'kirkkorakennus']",
+        "word original": "church"
+    },
+    "['ringjoon', 'ring']": {
+        "prompt": "Eesti: \"k\u00e4sn\" - Suomi: \"sieniel\u00e4imet\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"kits\" - Suomi: \"vuohi\"\nEesti: \"ringjoon\" - Suomi: \"",
+        "target": "['ympyr\u00e4']",
+        "word original": "circle"
+    },
+    "['kell', 'k\u00e4ekell']": {
+        "prompt": "Eesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"p\u00f6ial\" - Suomi: \"peukalo\"\nEesti: \"laud\" - Suomi: \"p\u00f6yt\u00e4\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"kell\" - Suomi: \"",
+        "target": "['kello', 'rannekello', 'taskukello']",
+        "word original": "clock"
+    },
+    "['pilv']": {
+        "prompt": "Eesti: \"M\u00e4lu\" - Suomi: \"muisti\"\nEesti: \"m\u00fcts\" - Suomi: \"hattu\"\nEesti: \"kirik\" - Suomi: \"kirkko\"\nEesti: \"ahi\" - Suomi: \"uuni\"\nEesti: \"lihas\" - Suomi: \"lihaskudos\"\nEesti: \"pilv\" - Suomi: \"",
+        "target": "['pilvi']",
+        "word original": "cloud"
+    },
+    "['jakk']": {
+        "prompt": "Eesti: \"vars\" - Suomi: \"varsi\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"ID-kaart\" - Suomi: \"henkil\u00f6kortti\"\nEesti: \"tuletikk\" - Suomi: \"tulitikku\"\nEesti: \"voodi\" - Suomi: \"vuode\"\nEesti: \"jakk\" - Suomi: \"",
+        "target": "['Jakki', 'jakki', 'villijakki', 'takki', 'pusakka', 'pikkutakki']",
+        "word original": "coat"
+    },
+    "['Vahistamine']": {
+        "prompt": "Eesti: \"k\u00e4sn\" - Suomi: \"sieniel\u00e4imet\"\nEesti: \"koer\" - Suomi: \"koira\"\nEesti: \"Kast\" - Suomi: \"kasti\"\nEesti: \"kahvel\" - Suomi: \"haarukka\"\nEesti: \"k\u00f5rv\" - Suomi: \"korva\"\nEesti: \"Vahistamine\" - Suomi: \"",
+        "target": "['pid\u00e4tys', 'pid\u00e4tt\u00e4minen', 'kiinniotto', 'vangitseminen', 'saada kiinni']",
+        "word original": "collar"
+    },
+    "['veised', 'veis']": {
+        "prompt": "Eesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"riietus\" - Suomi: \"vaatetus\"\nEesti: \"lind\" - Suomi: \"linnut\"\nEesti: \"t\u00fcdruk\" - Suomi: \"tytt\u00f6\"\nEesti: \"veised\" - Suomi: \"",
+        "target": "['karja', 'Bos taurus', 'nauta', 'nautakarja']",
+        "word original": "cow"
+    },
+    "['Klaas', 'Tass', 'tass']": {
+        "prompt": "Eesti: \"arve\" - Suomi: \"vesuri\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"t\u00e4ht\" - Suomi: \"t\u00e4hti\"\nEesti: \"pudel\" - Suomi: \"pullo\"\nEesti: \"org\" - Suomi: \"laakso\"\nEesti: \"Klaas\" - Suomi: \"",
+        "target": "['lasi', 'kuppi', 'juomalasi', 'juomapikari', 'Juomalasi']",
+        "word original": "cup"
+    },
+    "['eesriie', 'kardin', 'Kardin']": {
+        "prompt": "Eesti: \"kell\" - Suomi: \"kello\"\nEesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"eesriie\" - Suomi: \"",
+        "target": "['verho', 'verhot']",
+        "word original": "curtain"
+    },
+    "['amortisaator']": {
+        "prompt": "Eesti: \"Vahistamine\" - Suomi: \"pid\u00e4tys\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"pudel\" - Suomi: \"pullo\"\nEesti: \"Kirst\" - Suomi: \"Arkku\"\nEesti: \"lind\" - Suomi: \"linnut\"\nEesti: \"amortisaator\" - Suomi: \"",
+        "target": "['iskunvaimennin', 's\u00e4hk\u00f6isku', 's\u00e4hk\u00f6shokki', 'pehmike']",
+        "word original": "cushion"
+    },
+    "['koer', 'Canis lupus familiaris']": {
+        "prompt": "Eesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"k\u00e4sn\" - Suomi: \"sieniel\u00e4imet\"\nEesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"s\u00e4rk\" - Suomi: \"paita\"\nEesti: \"koer\" - Suomi: \"",
+        "target": "['koira', 'Canis lupus familiaris', 'Canis familiaris']",
+        "word original": "dog"
+    },
+    "['uks', '\u00fcks', '\u00dcks']": {
+        "prompt": "Eesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"tuletikk\" - Suomi: \"tulitikku\"\nEesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"aken\" - Suomi: \"ikkuna\"\nEesti: \"Riiul\" - Suomi: \"kirjahylly\"\nEesti: \"uks\" - Suomi: \"",
+        "target": "['yksi', 'ykk\u00f6nen', 'I', 'ovi']",
+        "word original": "drain"
+    },
+    "['joonistus', 'joonistamine']": {
+        "prompt": "Eesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"kirik\" - Suomi: \"kirkko\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"org\" - Suomi: \"laakso\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"joonistus\" - Suomi: \"",
+        "target": "['piirros', 'piirustus']",
+        "word original": "drawer"
+    },
+    "['riietus']": {
+        "prompt": "Eesti: \"joonistus\" - Suomi: \"piirros\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"amortisaator\" - Suomi: \"iskunvaimennin\"\nEesti: \"\u00fclikool\" - Suomi: \"yliopisto\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"riietus\" - Suomi: \"",
+        "target": "['vaatetus', 'vaatteet', 'vaatekappale', 'vaate', 'vaatetavara', 'asu', 'puku']",
+        "word original": "dress"
+    },
+    "['tilk', 'tedret\u00e4ht', 'Tedret\u00e4hed', 'tedret\u00e4hn', 'tedret\u00e4hed']": {
+        "prompt": "Eesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"Kaar\" - Suomi: \"holvikaari\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"tilk\" - Suomi: \"",
+        "target": "['pisama', 'Pisama', 'kesakko', 'teerenpilkku', 'lentigo', 'tippa', 'pisara', 'tilkka']",
+        "word original": "drop"
+    },
+    "['k\u00f5rv']": {
+        "prompt": "Eesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"relv\" - Suomi: \"ase\"\nEesti: \"huuled\" - Suomi: \"huuli\"\nEesti: \"piits\" - Suomi: \"ruoska\"\nEesti: \"raudtees\u00f5iduk\" - Suomi: \"rautatieajoneuvo\"\nEesti: \"k\u00f5rv\" - Suomi: \"",
+        "target": "['korva']",
+        "word original": "ear"
+    },
+    "['muna']": {
+        "prompt": "Eesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"Sukad\" - Suomi: \"sukka\"\nEesti: \"linn\" - Suomi: \"kaupunki\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"muna\" - Suomi: \"",
+        "target": "['kananmuna', 'munat']",
+        "word original": "egg"
+    },
+    "['mootor', 'Motor']": {
+        "prompt": "Eesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"muna\" - Suomi: \"kananmuna\"\nEesti: \"teekann\" - Suomi: \"teekannu\"\nEesti: \"ader\" - Suomi: \"aura\"\nEesti: \"mootor\" - Suomi: \"",
+        "target": "['moottori', 'Motor']",
+        "word original": "engine"
+    },
+    "['silm', 'silmamuna']": {
+        "prompt": "Eesti: \"s\u00fcda\" - Suomi: \"syd\u00e4n\"\nEesti: \"\u00fclikool\" - Suomi: \"yliopisto\"\nEesti: \"sulg\" - Suomi: \"h\u00f6yhenet\"\nEesti: \"n\u00e4rv\" - Suomi: \"hermo\"\nEesti: \"ihunuhtlus\" - Suomi: \"ruumiinrangaistus\"\nEesti: \"silm\" - Suomi: \"",
+        "target": "['silm\u00e4muna', 'silm\u00e4', 'n\u00e4k\u00f6-', 'n\u00e4k\u00f6']",
+        "word original": "eye"
+    },
+    "['n\u00e4gu']": {
+        "prompt": "Eesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"haamer\" - Suomi: \"vasara\"\nEesti: \"Kook\" - Suomi: \"ruokakulttuuri\"\nEesti: \"saar\" - Suomi: \"saari\"\nEesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"n\u00e4gu\" - Suomi: \"",
+        "target": "['naama', 'kasvot', 'p\u00e4rst\u00e4']",
+        "word original": "face"
+    },
+    "['talu', 'farm']": {
+        "prompt": "Eesti: \"s\u00e4rk\" - Suomi: \"paita\"\nEesti: \"laud\" - Suomi: \"p\u00f6yt\u00e4\"\nEesti: \"\u00f6konoomika\" - Suomi: \"talosel\u00e4m\u00e4\"\nEesti: \"Sokk\" - Suomi: \"sukka\"\nEesti: \"ahi\" - Suomi: \"uuni\"\nEesti: \"talu\" - Suomi: \"",
+        "target": "['maatila', 'tila', 'farmi']",
+        "word original": "farm"
+    },
+    "['sulg', 'sulestik', 'Sulestik', 'sulepea']": {
+        "prompt": "Eesti: \"hobune\" - Suomi: \"hevonen\"\nEesti: \"paat\" - Suomi: \"vene\"\nEesti: \"Sigar\" - Suomi: \"sikari\"\nEesti: \"laud\" - Suomi: \"p\u00f6yt\u00e4\"\nEesti: \"kont\" - Suomi: \"luu\"\nEesti: \"sulg\" - Suomi: \"",
+        "target": "['h\u00f6yhenet', 'h\u00f6yhen', 'h\u00f6yhenpuku', 'h\u00f6yhenpeite', 'sulka', 'kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "pen"
+    },
+    "['s\u00f5rm', 'n\u00e4pp', 's\u00f5rmed']": {
+        "prompt": "Eesti: \"tiib\" - Suomi: \"siipi\"\nEesti: \"tuletikk\" - Suomi: \"tulitikku\"\nEesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"Vahistamine\" - Suomi: \"pid\u00e4tys\"\nEesti: \"video\" - Suomi: \"televisio\"\nEesti: \"s\u00f5rm\" - Suomi: \"",
+        "target": "['sormi', 'n\u00e4ppi']",
+        "word original": "finger"
+    },
+    "['kala', 'kalad', 'Pisces']": {
+        "prompt": "Eesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"vangla\" - Suomi: \"linna\"\nEesti: \"kirik\" - Suomi: \"kirkko\"\nEesti: \"oran\u017e\" - Suomi: \"oranssius\"\nEesti: \"kala\" - Suomi: \"",
+        "target": "['ruokakala', 'Kala ruokana', 'kala ruokana', 'kalat', 'Pisces']",
+        "word original": "fish"
+    },
+    "['lipp']": {
+        "prompt": "Eesti: \"kits\" - Suomi: \"vuohi\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"lipp\" - Suomi: \"",
+        "target": "['lippu']",
+        "word original": "flag"
+    },
+    "['org']": {
+        "prompt": "Eesti: \"sipelgas\" - Suomi: \"muurahainen\"\nEesti: \"k\u00e4sn\" - Suomi: \"sieniel\u00e4imet\"\nEesti: \"Hari\" - Suomi: \"kyp\u00e4r\u00e4nkoriste\"\nEesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"\u00f6konoomika\" - Suomi: \"talosel\u00e4m\u00e4\"\nEesti: \"org\" - Suomi: \"",
+        "target": "['laakso']",
+        "word original": "floor"
+    },
+    "['Kahetiivalised']": {
+        "prompt": "Eesti: \"k\u00f5rv\" - Suomi: \"korva\"\nEesti: \"kedrus\" - Suomi: \"rihma\"\nEesti: \"tilk\" - Suomi: \"pisama\"\nEesti: \"p\u00f6ial\" - Suomi: \"peukalo\"\nEesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"Kahetiivalised\" - Suomi: \"",
+        "target": "['kaksisiipiset', 'kaksisiipinen', 'k\u00e4rp\u00e4nen']",
+        "word original": "fly"
+    },
+    "['Labajalg']": {
+        "prompt": "Eesti: \"kits\" - Suomi: \"vuohi\"\nEesti: \"s\u00e4rk\" - Suomi: \"paita\"\nEesti: \"sulg\" - Suomi: \"h\u00f6yhenet\"\nEesti: \"pudel\" - Suomi: \"pullo\"\nEesti: \"seeme\" - Suomi: \"siemen\"\nEesti: \"Labajalg\" - Suomi: \"",
+        "target": "['jalkater\u00e4', 'jalka']",
+        "word original": "foot"
+    },
+    "['kahvel']": {
+        "prompt": "Eesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"ID-kaart\" - Suomi: \"henkil\u00f6kortti\"\nEesti: \"kuu\" - Suomi: \"kuukausi\"\nEesti: \"kaamera\" - Suomi: \"kamera\"\nEesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"kahvel\" - Suomi: \"",
+        "target": "['haarukka']",
+        "word original": "fork"
+    },
+    "['sulgloomad', 'kodulinnud', 'kodulind', 'Galloanserae']": {
+        "prompt": "Eesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"mesilane\" - Suomi: \"mehil\u00e4iset\"\nEesti: \"laev\" - Suomi: \"laiva\"\nEesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"vihmavari\" - Suomi: \"sateenvarjo\"\nEesti: \"sulgloomad\" - Suomi: \"",
+        "target": "['siipikarja', 'riistalintu', 'Galloanserae']",
+        "word original": "fowl"
+    },
+    "['inimf\u00fcsioloogia', 'inimese keha', 'Inimkeha', 'inimkeha']": {
+        "prompt": "Eesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"riietus\" - Suomi: \"vaatetus\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"uks\" - Suomi: \"yksi\"\nEesti: \"inimf\u00fcsioloogia\" - Suomi: \"",
+        "target": "['ihmisruumis', 'ihmisen fysiologia', 'muoto', 'kuvio', 'fysiikka', 'hahmo', 'figuuri', 'vartalo', 'keho', 'liha', 'ruumiinrakenne', 'runko', 'fyysinen keho', 'sooma', 'rakenne']",
+        "word original": "frame"
+    },
+    "['aed', 'tara']": {
+        "prompt": "Eesti: \"sulgloomad\" - Suomi: \"siipikarja\"\nEesti: \"s\u00f5rmik\" - Suomi: \"hansikas\"\nEesti: \"Kahetiivalised\" - Suomi: \"kaksisiipiset\"\nEesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"aed\" - Suomi: \"",
+        "target": "['puutarha', 'kasvimaa', 'aita', 'aitaus']",
+        "word original": "garden"
+    },
+    "['t\u00fcdruk', 'plika']": {
+        "prompt": "Eesti: \"rong\" - Suomi: \"juna\"\nEesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"video\" - Suomi: \"televisio\"\nEesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"haamer\" - Suomi: \"vasara\"\nEesti: \"t\u00fcdruk\" - Suomi: \"",
+        "target": "['tytt\u00f6', 'neiti', 'nuori nainen', 'tytt\u00f6kaveri', 'tytt\u00f6yst\u00e4v\u00e4', 'naisyst\u00e4v\u00e4']",
+        "word original": "girl"
+    },
+    "['s\u00f5rmik', 'Kindad', 'kindad']": {
+        "prompt": "Eesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"seelik\" - Suomi: \"hame\"\nEesti: \"lennuk\" - Suomi: \"ilma-alus\"\nEesti: \"linn\" - Suomi: \"kaupunki\"\nEesti: \"leht\" - Suomi: \"lehvist\u00f6\"\nEesti: \"s\u00f5rmik\" - Suomi: \"",
+        "target": "['hansikas', 'sormikas', 'hanska', 'k\u00e4sine']",
+        "word original": "glove"
+    },
+    "['kits', 'kodukits', 'Capra aegagrus hircus']": {
+        "prompt": "Eesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"k\u00e4sn\" - Suomi: \"sieniel\u00e4imet\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"s\u00f5rm\" - Suomi: \"sormi\"\nEesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"kits\" - Suomi: \"",
+        "target": "['vuohi', 'vuohiel\u00e4in']",
+        "word original": "goat"
+    },
+    "['tulirelv']": {
+        "prompt": "Eesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"k\u00e4imla\" - Suomi: \"potta\"\nEesti: \"nina\" - Suomi: \"niemi\"\nEesti: \"n\u00e4rv\" - Suomi: \"hermo\"\nEesti: \"k\u00f5ht\" - Suomi: \"vatsa\"\nEesti: \"tulirelv\" - Suomi: \"",
+        "target": "['ampuma-ase', 'tuliase', 'tykki', 'pistooli', 'pyssy']",
+        "word original": "gun"
+    },
+    "['karv', 'karvad']": {
+        "prompt": "Eesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"kedrus\" - Suomi: \"rihma\"\nEesti: \"s\u00fcda\" - Suomi: \"syd\u00e4n\"\nEesti: \"k\u00e4imla\" - Suomi: \"potta\"\nEesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"karv\" - Suomi: \"",
+        "target": "['karvoitus', 'karva', 'hius', 'jouhi']",
+        "word original": "root"
+    },
+    "['haamer', 'vasar']": {
+        "prompt": "Eesti: \"s\u00f5rmik\" - Suomi: \"hansikas\"\nEesti: \"Sukad\" - Suomi: \"sukka\"\nEesti: \"saar\" - Suomi: \"saari\"\nEesti: \"kartul\" - Suomi: \"peruna\"\nEesti: \"labak\u00e4si\" - Suomi: \"k\u00e4si\"\nEesti: \"haamer\" - Suomi: \"",
+        "target": "['vasara']",
+        "word original": "hammer"
+    },
+    "['labak\u00e4si']": {
+        "prompt": "Eesti: \"relv\" - Suomi: \"ase\"\nEesti: \"vangla\" - Suomi: \"linna\"\nEesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"kedrus\" - Suomi: \"rihma\"\nEesti: \"labak\u00e4si\" - Suomi: \"",
+        "target": "['k\u00e4si', 'jalka', 'k\u00e4p\u00e4l\u00e4', 'manus']",
+        "word original": "hand"
+    },
+    "['m\u00fcts', 'k\u00fcbar', 'nokkm\u00fcts', 'Nokkm\u00fcts']": {
+        "prompt": "Eesti: \"juust\" - Suomi: \"juusto\"\nEesti: \"kedrus\" - Suomi: \"rihma\"\nEesti: \"mesilane\" - Suomi: \"mehil\u00e4iset\"\nEesti: \"kornet\" - Suomi: \"munniharppu\"\nEesti: \"raudtees\u00f5iduk\" - Suomi: \"rautatieajoneuvo\"\nEesti: \"m\u00fcts\" - Suomi: \"",
+        "target": "['hattu', 'lakki', 'p\u00e4\u00e4hine', 'lippalakki']",
+        "word original": "hat"
+    },
+    "['s\u00fcda']": {
+        "prompt": "Eesti: \"t\u00fcdruk\" - Suomi: \"tytt\u00f6\"\nEesti: \"riietus\" - Suomi: \"vaatetus\"\nEesti: \"ihunuhtlus\" - Suomi: \"ruumiinrangaistus\"\nEesti: \"kornet\" - Suomi: \"munniharppu\"\nEesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"s\u00fcda\" - Suomi: \"",
+        "target": "['syd\u00e4n', 'syd\u00e4nlihas', 'pumppu']",
+        "word original": "pump"
+    },
+    "['kornet', 'parmupill', 'trompet']": {
+        "prompt": "Eesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"Sokk\" - Suomi: \"sukka\"\nEesti: \"joonistus\" - Suomi: \"piirros\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"vars\" - Suomi: \"varsi\"\nEesti: \"kornet\" - Suomi: \"",
+        "target": "['munniharppu', 'torvi', 'kornetti', 'vaskitorvi', 'trumpetti', 'vaskipuhallin']",
+        "word original": "horn"
+    },
+    "['hobune']": {
+        "prompt": "Eesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"piits\" - Suomi: \"ruoska\"\nEesti: \"funktsioon\" - Suomi: \"funktio\"\nEesti: \"tiib\" - Suomi: \"siipi\"\nEesti: \"hobune\" - Suomi: \"",
+        "target": "['hevonen', 'Equus caballus']",
+        "word original": "horse"
+    },
+    "['haigla']": {
+        "prompt": "Eesti: \"seelik\" - Suomi: \"hame\"\nEesti: \"eesriie\" - Suomi: \"verho\"\nEesti: \"sild\" - Suomi: \"silta\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"ahi\" - Suomi: \"uuni\"\nEesti: \"haigla\" - Suomi: \"",
+        "target": "['sairaala', 'sairasosasto']",
+        "word original": "hospital"
+    },
+    "['hoone', 'ehitus', 'ehitis', 'maja', 's\u00fcnnikodu']": {
+        "prompt": "Eesti: \"oran\u017e\" - Suomi: \"oranssius\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"juust\" - Suomi: \"juusto\"\nEesti: \"seelik\" - Suomi: \"hame\"\nEesti: \"video\" - Suomi: \"televisio\"\nEesti: \"hoone\" - Suomi: \"",
+        "target": "['julkinen rakennus', 'rakennus', 'rakennelma', 'talo', 'lapsuudenkoti', 'kotiosoite', 'asuinpaikka', 'asunto', 'kotitalo', 'kotipaikka', 'asuinrakennus', 'koti', 'asumus', 'paikka', 'k\u00e4mpp\u00e4']",
+        "word original": "house"
+    },
+    "['saar']": {
+        "prompt": "Eesti: \"kartul\" - Suomi: \"peruna\"\nEesti: \"\u00c4mber\" - Suomi: \"\u00e4mp\u00e4ri\"\nEesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"s\u00fcda\" - Suomi: \"syd\u00e4n\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"saar\" - Suomi: \"",
+        "target": "['saari', 'saareke', 'saarni', 'saarnipuu']",
+        "word original": "island"
+    },
+    "['ehtekivi', 'kalliskivi', 'v\u00e4\u00e4riskivi']": {
+        "prompt": "Eesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"ader\" - Suomi: \"aura\"\nEesti: \"ehtekivi\" - Suomi: \"",
+        "target": "['jalokivi', 'korukivi']",
+        "word original": "jewel"
+    },
+    "['teekann']": {
+        "prompt": "Eesti: \"n\u00e4gu\" - Suomi: \"naama\"\nEesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"sild\" - Suomi: \"silta\"\nEesti: \"\u00f6konoomika\" - Suomi: \"talosel\u00e4m\u00e4\"\nEesti: \"aken\" - Suomi: \"ikkuna\"\nEesti: \"teekann\" - Suomi: \"",
+        "target": "['teekannu', 'teepannu', 'kattila', 'keittoastia', 'h\u00f6yrykeitin', 'keitin', 'boileri']",
+        "word original": "kettle"
+    },
+    "['v\u00f5ti', 'Tonaalsus', 'tonaalsus', 'helistik', 'Helistik', 'toon', 'klahv']": {
+        "prompt": "Eesti: \"kuu\" - Suomi: \"kuukausi\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"k\u00f5ht\" - Suomi: \"vatsa\"\nEesti: \"m\u00f5\u00f5k\" - Suomi: \"miekka\"\nEesti: \"vars\" - Suomi: \"varsi\"\nEesti: \"v\u00f5ti\" - Suomi: \"",
+        "target": "['s\u00e4vellaji', 'tonaalisuus', 'avain']",
+        "word original": "key"
+    },
+    "['p\u00f5lv']": {
+        "prompt": "Eesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"allikas\" - Suomi: \"l\u00e4hde\"\nEesti: \"sild\" - Suomi: \"silta\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"p\u00f5lv\" - Suomi: \"",
+        "target": "['polvi', 'polvinivel', 'articulatio genus']",
+        "word original": "knee"
+    },
+    "['nuga']": {
+        "prompt": "Eesti: \"laev\" - Suomi: \"laiva\"\nEesti: \"sulgloomad\" - Suomi: \"siipikarja\"\nEesti: \"kraanikauss\" - Suomi: \"amme\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"allikas\" - Suomi: \"l\u00e4hde\"\nEesti: \"nuga\" - Suomi: \"",
+        "target": "['veitsi', 'puukko']",
+        "word original": "knife"
+    },
+    "['s\u00f5lm']": {
+        "prompt": "Eesti: \"tilk\" - Suomi: \"pisama\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"Kook\" - Suomi: \"ruokakulttuuri\"\nEesti: \"joonistus\" - Suomi: \"piirros\"\nEesti: \"lambad\" - Suomi: \"lammas\"\nEesti: \"s\u00f5lm\" - Suomi: \"",
+        "target": "['solmu', 'Solmu']",
+        "word original": "knot"
+    },
+    "['leht', 'lehestik']": {
+        "prompt": "Eesti: \"raudtees\u00f5iduk\" - Suomi: \"rautatieajoneuvo\"\nEesti: \"k\u00f5ht\" - Suomi: \"vatsa\"\nEesti: \"lind\" - Suomi: \"linnut\"\nEesti: \"pirn\" - Suomi: \"hehkulamppu\"\nEesti: \"labak\u00e4si\" - Suomi: \"k\u00e4si\"\nEesti: \"leht\" - Suomi: \"",
+        "target": "['lehvist\u00f6', 'lehdist\u00f6', 'havupuun neulanen', 'lehv\u00e4st\u00f6', 'lehdet', 'lehti']",
+        "word original": "leaf"
+    },
+    "['video', 'televisioon']": {
+        "prompt": "Eesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"madu\" - Suomi: \"k\u00e4\u00e4rmeet\"\nEesti: \"jalgratas\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEesti: \"huuled\" - Suomi: \"huuli\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"video\" - Suomi: \"",
+        "target": "['televisio', 'TV', 'televisiointi']",
+        "word original": "line"
+    },
+    "['huuled']": {
+        "prompt": "Eesti: \"Vahistamine\" - Suomi: \"pid\u00e4tys\"\nEesti: \"Labajalg\" - Suomi: \"jalkater\u00e4\"\nEesti: \"pliiats\" - Suomi: \"lyijykyn\u00e4\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"uss\" - Suomi: \"mato\"\nEesti: \"huuled\" - Suomi: \"",
+        "target": "['huuli', 'huulet']",
+        "word original": "lip"
+    },
+    "['funktsioon']": {
+        "prompt": "Eesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"mesilane\" - Suomi: \"mehil\u00e4iset\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"kahvel\" - Suomi: \"haarukka\"\nEesti: \"ihunuhtlus\" - Suomi: \"ruumiinrangaistus\"\nEesti: \"funktsioon\" - Suomi: \"",
+        "target": "['funktio', 'matemaattinen funktio', 'kuvaus', 'yksiarvoinen funktio']",
+        "word original": "map"
+    },
+    "['tuletikk', 'tikk']": {
+        "prompt": "Eesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"kael\" - Suomi: \"kaula\"\nEesti: \"saba\" - Suomi: \"perskannikka\"\nEesti: \"tuletikk\" - Suomi: \"",
+        "target": "['tulitikku', 'rikkitulitikku']",
+        "word original": "match"
+    },
+    "['ahv']": {
+        "prompt": "Eesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"Internet\" - Suomi: \"netti\"\nEesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"muna\" - Suomi: \"kananmuna\"\nEesti: \"nina\" - Suomi: \"niemi\"\nEesti: \"ahv\" - Suomi: \"",
+        "target": "['apina', 'apinat']",
+        "word original": "monkey"
+    },
+    "['kuu']": {
+        "prompt": "Eesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"voodi\" - Suomi: \"vuode\"\nEesti: \"p\u00f6ial\" - Suomi: \"peukalo\"\nEesti: \"laev\" - Suomi: \"laiva\"\nEesti: \"seeme\" - Suomi: \"siemen\"\nEesti: \"kuu\" - Suomi: \"",
+        "target": "['kuukausi', 'kalenterikuukausi']",
+        "word original": "moon"
+    },
+    "['lihas']": {
+        "prompt": "Eesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"korv\" - Suomi: \"korva\"\nEesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"koer\" - Suomi: \"koira\"\nEesti: \"lihas\" - Suomi: \"",
+        "target": "['lihaskudos']",
+        "word original": "muscle"
+    },
+    "['k\u00fc\u00fcs']": {
+        "prompt": "Eesti: \"p\u00fcksid\" - Suomi: \"housut\"\nEesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"k\u00f5rv\" - Suomi: \"korva\"\nEesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"k\u00fc\u00fcs\" - Suomi: \"",
+        "target": "['kynsi', 'Kynsi']",
+        "word original": "nail"
+    },
+    "['kael', 'kaelus']": {
+        "prompt": "Eesti: \"hobune\" - Suomi: \"hevonen\"\nEesti: \"k\u00e4imla\" - Suomi: \"potta\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"kedrus\" - Suomi: \"rihma\"\nEesti: \"Kast\" - Suomi: \"kasti\"\nEesti: \"kael\" - Suomi: \"",
+        "target": "['kaula']",
+        "word original": "neck"
+    },
+    "['n\u00e4rv']": {
+        "prompt": "Eesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"kraanikauss\" - Suomi: \"amme\"\nEesti: \"tilk\" - Suomi: \"pisama\"\nEesti: \"n\u00e4rv\" - Suomi: \"",
+        "target": "['hermo']",
+        "word original": "nerve"
+    },
+    "['Internet', 'veeb', 'nett', 'k\u00fcberruum', 'K\u00fcbermaailm', 'v\u00f5rk', 'k\u00fcbermaailm']": {
+        "prompt": "Eesti: \"sild\" - Suomi: \"silta\"\nEesti: \"haigla\" - Suomi: \"sairaala\"\nEesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"Internet\" - Suomi: \"",
+        "target": "['netti', 'kyberavaruus', 'verkko']",
+        "word original": "net"
+    },
+    "['nina', 'neem']": {
+        "prompt": "Eesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"kont\" - Suomi: \"luu\"\nEesti: \"s\u00fcda\" - Suomi: \"syd\u00e4n\"\nEesti: \"lihas\" - Suomi: \"lihaskudos\"\nEesti: \"inimf\u00fcsioloogia\" - Suomi: \"ihmisruumis\"\nEesti: \"nina\" - Suomi: \"",
+        "target": "['niemi', 'nokka', 'niemeke', 'nen\u00e4', 'hajuelin']",
+        "word original": "nose"
+    },
+    "['kontor', 'b\u00fcroo', 'asutus']": {
+        "prompt": "Eesti: \"ruut\" - Suomi: \"neli\u00f6\"\nEesti: \"M\u00e4lu\" - Suomi: \"muisti\"\nEesti: \"kits\" - Suomi: \"vuohi\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"voodi\" - Suomi: \"vuode\"\nEesti: \"kontor\" - Suomi: \"",
+        "target": "['virka', 'ty\u00f6huone', 'toimisto', 'virasto', 'viranomainen', 'ministeri\u00f6', 'valtion virasto', 'liittovaltion virasto', 'elin', 'laitos', 'taloustoimisto']",
+        "word original": "office"
+    },
+    "['oran\u017e']": {
+        "prompt": "Eesti: \"tulirelv\" - Suomi: \"ampuma-ase\"\nEesti: \"kraanikauss\" - Suomi: \"amme\"\nEesti: \"uss\" - Suomi: \"mato\"\nEesti: \"aken\" - Suomi: \"ikkuna\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"oran\u017e\" - Suomi: \"",
+        "target": "['oranssius', 'oranssi', 'oranssisuus']",
+        "word original": "orange"
+    },
+    "['ahi', 'pliit', 'Pliit']": {
+        "prompt": "Eesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"n\u00e4rv\" - Suomi: \"hermo\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"arve\" - Suomi: \"vesuri\"\nEesti: \"ahi\" - Suomi: \"",
+        "target": "['uuni', 'ilman esikuumennin', 'kasvihuone', 'kamiina', 'hella', 'liesi', 'keitin']",
+        "word original": "oven"
+    },
+    "['pliiats', 'sulg', 'sulepea']": {
+        "prompt": "Eesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"raudtees\u00f5iduk\" - Suomi: \"rautatieajoneuvo\"\nEesti: \"linn\" - Suomi: \"kaupunki\"\nEesti: \"t\u00fcdruk\" - Suomi: \"tytt\u00f6\"\nEesti: \"kraanikauss\" - Suomi: \"amme\"\nEesti: \"pliiats\" - Suomi: \"",
+        "target": "['lyijykyn\u00e4', 'kyn\u00e4', 'mustekyn\u00e4']",
+        "word original": "pencil"
+    },
+    "['siga', 'sigalane', 'Sus scrofa domestica']": {
+        "prompt": "Eesti: \"silm\" - Suomi: \"silm\u00e4muna\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"hoone\" - Suomi: \"julkinen rakennus\"\nEesti: \"kuu\" - Suomi: \"kuukausi\"\nEesti: \"video\" - Suomi: \"televisio\"\nEesti: \"siga\" - Suomi: \"",
+        "target": "['sika', 'siat', 'Siat', 'possu', 'Sus scrofa', 'sy\u00f6tt\u00f6karju']",
+        "word original": "pig"
+    },
+    "['lennuk', '\u00f5hus\u00f5iduk', '\u00d5hus\u00f5iduk', 'aeroplaan', 'tasand']": {
+        "prompt": "Eesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"leht\" - Suomi: \"lehvist\u00f6\"\nEesti: \"pirn\" - Suomi: \"hehkulamppu\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"lennuk\" - Suomi: \"",
+        "target": "['ilma-alus', 'lentokone', 'kone', 'taso', 'kerros', 'pinta']",
+        "word original": "plane"
+    },
+    "['ader']": {
+        "prompt": "Eesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"nahk\" - Suomi: \"iho\"\nEesti: \"piits\" - Suomi: \"ruoska\"\nEesti: \"ader\" - Suomi: \"",
+        "target": "['aura']",
+        "word original": "plough"
+    },
+    "['k\u00e4imla']": {
+        "prompt": "Eesti: \"kirik\" - Suomi: \"kirkko\"\nEesti: \"pesapall\" - Suomi: \"baseball\"\nEesti: \"pidur\" - Suomi: \"Jarru\"\nEesti: \"m\u00fcts\" - Suomi: \"hattu\"\nEesti: \"sipelgas\" - Suomi: \"muurahainen\"\nEesti: \"k\u00e4imla\" - Suomi: \"",
+        "target": "['potta', 'pytty', 'y\u00f6astia', 'k\u00e4ym\u00e4l\u00e4', 'p\u00f6ntt\u00f6', 'wc-p\u00f6ntt\u00f6', 'vessa', 'wc-istuin']",
+        "word original": "pot"
+    },
+    "['kartul', 'harilik kartul']": {
+        "prompt": "Eesti: \"Kook\" - Suomi: \"ruokakulttuuri\"\nEesti: \"Vahistamine\" - Suomi: \"pid\u00e4tys\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"kont\" - Suomi: \"luu\"\nEesti: \"hoone\" - Suomi: \"julkinen rakennus\"\nEesti: \"kartul\" - Suomi: \"",
+        "target": "['peruna', 'potaatti', 'pottu']",
+        "word original": "potato"
+    },
+    "['vangla']": {
+        "prompt": "Eesti: \"Kahetiivalised\" - Suomi: \"kaksisiipiset\"\nEesti: \"oran\u017e\" - Suomi: \"oranssius\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"relv\" - Suomi: \"ase\"\nEesti: \"siga\" - Suomi: \"sika\"\nEesti: \"vangla\" - Suomi: \"",
+        "target": "['linna', 'vankila', 'tyrm\u00e4']",
+        "word original": "prison"
+    },
+    "['Hiir', 'arvutihiir']": {
+        "prompt": "Eesti: \"nuga\" - Suomi: \"veitsi\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"seelik\" - Suomi: \"hame\"\nEesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"lambad\" - Suomi: \"lammas\"\nEesti: \"Hiir\" - Suomi: \"",
+        "target": "['hiiri', 'kotihiiret', 'Kotihiiret', 'tietokoneen hiiri']",
+        "word original": "rat"
+    },
+    "['arve', 'seaduseeln\u00f5u', 'eeln\u00f5u']": {
+        "prompt": "Eesti: \"sild\" - Suomi: \"silta\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"amortisaator\" - Suomi: \"iskunvaimennin\"\nEesti: \"komitee\" - Suomi: \"komitea\"\nEesti: \"arve\" - Suomi: \"",
+        "target": "['vesuri', 'Vesuri', 'sirppi', 'lakiehdotus', 'lakiesitys', 'lakialoite', 'lasku', 'tili', 'ravintolalasku', 'tavaralasku']",
+        "word original": "receipt"
+    },
+    "['ihunuhtlus']": {
+        "prompt": "Eesti: \"Sigar\" - Suomi: \"sikari\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"p\u00f6ial\" - Suomi: \"peukalo\"\nEesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"t\u00fcdruk\" - Suomi: \"tytt\u00f6\"\nEesti: \"ihunuhtlus\" - Suomi: \"",
+        "target": "['ruumiinrangaistus', 'ruumiillinen rangaistus']",
+        "word original": "rod"
+    },
+    "['katus']": {
+        "prompt": "Eesti: \"v\u00e4ikelaps\" - Suomi: \"pikkulapsi\"\nEesti: \"pirn\" - Suomi: \"hehkulamppu\"\nEesti: \"m\u00fcts\" - Suomi: \"hattu\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"rong\" - Suomi: \"juna\"\nEesti: \"katus\" - Suomi: \"",
+        "target": "['ulkokatto', 'katto']",
+        "word original": "roof"
+    },
+    "['purjekas', 'purjelaev']": {
+        "prompt": "Eesti: \"postmark\" - Suomi: \"postimerkki\"\nEesti: \"relv\" - Suomi: \"ase\"\nEesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"piits\" - Suomi: \"ruoska\"\nEesti: \"purjekas\" - Suomi: \"",
+        "target": "['purjealus', 'purjehdusalus', 'purjelaiva']",
+        "word original": "sail"
+    },
+    "['\u00fclikool', 'kool', 'akadeemia']": {
+        "prompt": "Eesti: \"Kast\" - Suomi: \"kasti\"\nEesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"vihmavari\" - Suomi: \"sateenvarjo\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"\u00fclikool\" - Suomi: \"",
+        "target": "['yliopisto', 'koulu', 'akatemia', 'tiedeakatemia', 'taideakatemia']",
+        "word original": "school"
+    },
+    "['k\u00e4\u00e4rid']": {
+        "prompt": "Eesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"Sokk\" - Suomi: \"sukka\"\nEesti: \"ahi\" - Suomi: \"uuni\"\nEesti: \"lambad\" - Suomi: \"lammas\"\nEesti: \"vihmavari\" - Suomi: \"sateenvarjo\"\nEesti: \"k\u00e4\u00e4rid\" - Suomi: \"",
+        "target": "['sakset']",
+        "word original": "scissors"
+    },
+    "['seeme']": {
+        "prompt": "Eesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"pidur\" - Suomi: \"Jarru\"\nEesti: \"lind\" - Suomi: \"linnut\"\nEesti: \"kits\" - Suomi: \"vuohi\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"seeme\" - Suomi: \"",
+        "target": "['siemen']",
+        "word original": "seed"
+    },
+    "['lambad', 'lammas']": {
+        "prompt": "Eesti: \"amortisaator\" - Suomi: \"iskunvaimennin\"\nEesti: \"sild\" - Suomi: \"silta\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"Hambad\" - Suomi: \"hammas\"\nEesti: \"k\u00fc\u00fcs\" - Suomi: \"kynsi\"\nEesti: \"lambad\" - Suomi: \"",
+        "target": "['lammas', 'lampaat', 'Ovis aries', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['Riiul', 'raamaturiiul', 'raamatukapp']": {
+        "prompt": "Eesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"k\u00fc\u00fcs\" - Suomi: \"kynsi\"\nEesti: \"huuled\" - Suomi: \"huuli\"\nEesti: \"\u00f5un\" - Suomi: \"omena\"\nEesti: \"Riiul\" - Suomi: \"",
+        "target": "['kirjahylly', 'Kirjahylly', 'kirjakaappi', 'hylly']",
+        "word original": "shelf"
+    },
+    "['laev', 'vees\u00f5iduk', 'Vees\u00f5iduk']": {
+        "prompt": "Eesti: \"Kirst\" - Suomi: \"Arkku\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"Kahetiivalised\" - Suomi: \"kaksisiipiset\"\nEesti: \"ruut\" - Suomi: \"neli\u00f6\"\nEesti: \"siga\" - Suomi: \"sika\"\nEesti: \"laev\" - Suomi: \"",
+        "target": "['laiva', 'alus', 'vesikulkuneuvo', 'vesialus']",
+        "word original": "ship"
+    },
+    "['s\u00e4rk']": {
+        "prompt": "Eesti: \"postmark\" - Suomi: \"postimerkki\"\nEesti: \"lusikas\" - Suomi: \"lusikka\"\nEesti: \"joonistus\" - Suomi: \"piirros\"\nEesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"s\u00fcda\" - Suomi: \"syd\u00e4n\"\nEesti: \"s\u00e4rk\" - Suomi: \"",
+        "target": "['paita', 'aluspaita', 'paitapusero']",
+        "word original": "shirt"
+    },
+    "['king', 'kingad']": {
+        "prompt": "Eesti: \"ader\" - Suomi: \"aura\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"pilv\" - Suomi: \"pilvi\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"pudel\" - Suomi: \"pullo\"\nEesti: \"king\" - Suomi: \"",
+        "target": "['kenk\u00e4']",
+        "word original": "tongue"
+    },
+    "['nahk']": {
+        "prompt": "Eesti: \"k\u00e4imla\" - Suomi: \"potta\"\nEesti: \"kornet\" - Suomi: \"munniharppu\"\nEesti: \"s\u00f5rm\" - Suomi: \"sormi\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"Kaar\" - Suomi: \"holvikaari\"\nEesti: \"nahk\" - Suomi: \"",
+        "target": "['iho', 'nahka', 'tegumentti', 'cutis']",
+        "word original": "skin"
+    },
+    "['seelik']": {
+        "prompt": "Eesti: \"rong\" - Suomi: \"juna\"\nEesti: \"k\u00e4sn\" - Suomi: \"sieniel\u00e4imet\"\nEesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"kael\" - Suomi: \"kaula\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"sunnuntai\"\nEesti: \"seelik\" - Suomi: \"",
+        "target": "['hame']",
+        "word original": "skirt"
+    },
+    "['madu', 'maolised']": {
+        "prompt": "Eesti: \"seeme\" - Suomi: \"siemen\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"ID-kaart\" - Suomi: \"henkil\u00f6kortti\"\nEesti: \"\u00f6konoomika\" - Suomi: \"talosel\u00e4m\u00e4\"\nEesti: \"madu\" - Suomi: \"",
+        "target": "['k\u00e4\u00e4rmeet', 'k\u00e4\u00e4rme']",
+        "word original": "snake"
+    },
+    "['Sokk']": {
+        "prompt": "Eesti: \"k\u00fc\u00fcs\" - Suomi: \"kynsi\"\nEesti: \"ihunuhtlus\" - Suomi: \"ruumiinrangaistus\"\nEesti: \"pudel\" - Suomi: \"pullo\"\nEesti: \"laud\" - Suomi: \"p\u00f6yt\u00e4\"\nEesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"Sokk\" - Suomi: \"",
+        "target": "['sukka', 'sulkutila', 'h\u00e4mmennys', 'p\u00f6kerrys', 't\u00e4r\u00e4hdys', 'tokkura']",
+        "word original": "sock"
+    },
+    "['k\u00e4sn', 'k\u00e4snad']": {
+        "prompt": "Eesti: \"s\u00f5rmik\" - Suomi: \"hansikas\"\nEesti: \"kell\" - Suomi: \"kello\"\nEesti: \"haamer\" - Suomi: \"vasara\"\nEesti: \"vars\" - Suomi: \"varsi\"\nEesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"k\u00e4sn\" - Suomi: \"",
+        "target": "['sieniel\u00e4imet', 'sieniel\u00e4in']",
+        "word original": "sponge"
+    },
+    "['lusikas']": {
+        "prompt": "Eesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"kraanikauss\" - Suomi: \"amme\"\nEesti: \"tiib\" - Suomi: \"siipi\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"lusikas\" - Suomi: \"",
+        "target": "['lusikka', 'kapusta']",
+        "word original": "spoon"
+    },
+    "['allikas', 'l\u00e4te', 'veesilm']": {
+        "prompt": "Eesti: \"laev\" - Suomi: \"laiva\"\nEesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"lennuk\" - Suomi: \"ilma-alus\"\nEesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"huuled\" - Suomi: \"huuli\"\nEesti: \"allikas\" - Suomi: \"",
+        "target": "['l\u00e4hde', 'ulosvirtaus', 'purkaus', 'luonnonl\u00e4hde', 'alku', 'alkuper\u00e4', 'juuristo', 'juuri', 'alkul\u00e4hde']",
+        "word original": "spring"
+    },
+    "['ruut']": {
+        "prompt": "Eesti: \"mootor\" - Suomi: \"moottori\"\nEesti: \"video\" - Suomi: \"televisio\"\nEesti: \"Riiul\" - Suomi: \"kirjahylly\"\nEesti: \"riietus\" - Suomi: \"vaatetus\"\nEesti: \"Hambad\" - Suomi: \"hammas\"\nEesti: \"ruut\" - Suomi: \"",
+        "target": "['neli\u00f6', 'nelikulmio', 'Neli\u00f6', 'toinen potenssi']",
+        "word original": "square"
+    },
+    "['postmark', 'mark']": {
+        "prompt": "Eesti: \"k\u00e4\u00e4rid\" - Suomi: \"sakset\"\nEesti: \"jalgratas\" - Suomi: \"polkupy\u00f6r\u00e4\"\nEesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"Hambad\" - Suomi: \"hammas\"\nEesti: \"laud\" - Suomi: \"p\u00f6yt\u00e4\"\nEesti: \"postmark\" - Suomi: \"",
+        "target": "['postimerkki', 'merkki']",
+        "word original": "stamp"
+    },
+    "['t\u00e4ht', 'pookstav', 'kirjat\u00e4ht', 'aabe', 'superstaar', 'sepp', 'talent', 'adept', 'staar', 'Adept', 'kuulsus']": {
+        "prompt": "Eesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"k\u00fc\u00fcs\" - Suomi: \"kynsi\"\nEesti: \"sild\" - Suomi: \"silta\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"sein\" - Suomi: \"sein\u00e4\"\nEesti: \"t\u00e4ht\" - Suomi: \"",
+        "target": "['t\u00e4hti', 'kiintot\u00e4hti', 'kirjain', 'aakkonen', 'aakkoskirjain', '-niekka', 'supert\u00e4hti', 'ekspertti', 'tuntija', 'asiantuntija', 'taituri', 'taitaja', 'Adepti', '\u00e4ss\u00e4', 'taitoniekka', 'adepti', 'huippu-', 'mestari', 'nero', 'virtuoosi', 'velho', 'huippu']",
+        "word original": "star"
+    },
+    "['vars']": {
+        "prompt": "Eesti: \"Kook\" - Suomi: \"ruokakulttuuri\"\nEesti: \"kedrus\" - Suomi: \"rihma\"\nEesti: \"pirn\" - Suomi: \"hehkulamppu\"\nEesti: \"jakk\" - Suomi: \"Jakki\"\nEesti: \"m\u00fcts\" - Suomi: \"hattu\"\nEesti: \"vars\" - Suomi: \"",
+        "target": "['varsi', 'Varsi']",
+        "word original": "stem"
+    },
+    "['Sigar']": {
+        "prompt": "Eesti: \"king\" - Suomi: \"kenk\u00e4\"\nEesti: \"kurk\" - Suomi: \"kurkku\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"ID-kaart\" - Suomi: \"henkil\u00f6kortti\"\nEesti: \"pliiats\" - Suomi: \"lyijykyn\u00e4\"\nEesti: \"Sigar\" - Suomi: \"",
+        "target": "['sikari']",
+        "word original": "stick"
+    },
+    "['Sukad']": {
+        "prompt": "Eesti: \"Sigar\" - Suomi: \"sikari\"\nEesti: \"nurk\" - Suomi: \"suplementtikulmat\"\nEesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"inimf\u00fcsioloogia\" - Suomi: \"ihmisruumis\"\nEesti: \"Labajalg\" - Suomi: \"jalkater\u00e4\"\nEesti: \"Sukad\" - Suomi: \"",
+        "target": "['sukka']",
+        "word original": "stocking"
+    },
+    "['k\u00f5ht', 'magu', 'Magu', 'taimetoitaine', 'toitumine', 'toiteelement', 'toitesool']": {
+        "prompt": "Eesti: \"n\u00e4gu\" - Suomi: \"naama\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"ruut\" - Suomi: \"neli\u00f6\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"saar\" - Suomi: \"saari\"\nEesti: \"k\u00f5ht\" - Suomi: \"",
+        "target": "['vatsa', 'maha', 'Mahalaukku', 'mahalaukku', 'masu', 'ravinto', 'ravinne', 'ravitsemus', 'muonavarat', 'ravitseminen', 'ruoka', 'ravinnonsaanti']",
+        "word original": "stomach"
+    },
+    "['M\u00e4lu', 'arvuti m\u00e4lu']": {
+        "prompt": "Eesti: \"karv\" - Suomi: \"karvoitus\"\nEesti: \"sipelgas\" - Suomi: \"muurahainen\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"vangla\" - Suomi: \"linna\"\nEesti: \"M\u00e4lu\" - Suomi: \"",
+        "target": "['muisti', 'Muisti', 'muistaminen', 'muistikortti', 'tietokonemuisti']",
+        "word original": "store"
+    },
+    "['p\u00fchap\u00e4ev']": {
+        "prompt": "Eesti: \"kala\" - Suomi: \"ruokakala\"\nEesti: \"kahvel\" - Suomi: \"haarukka\"\nEesti: \"sipelgas\" - Suomi: \"muurahainen\"\nEesti: \"juust\" - Suomi: \"juusto\"\nEesti: \"kartul\" - Suomi: \"peruna\"\nEesti: \"p\u00fchap\u00e4ev\" - Suomi: \"",
+        "target": "['sunnuntai', 'lepop\u00e4iv\u00e4', 'pyh\u00e4p\u00e4iv\u00e4', 'su', 'Dominicus']",
+        "word original": "sun"
+    },
+    "['laud']": {
+        "prompt": "Eesti: \"sulgloomad\" - Suomi: \"siipikarja\"\nEesti: \"ringjoon\" - Suomi: \"ympyr\u00e4\"\nEesti: \"org\" - Suomi: \"laakso\"\nEesti: \"n\u00e4rv\" - Suomi: \"hermo\"\nEesti: \"Kirst\" - Suomi: \"Arkku\"\nEesti: \"laud\" - Suomi: \"",
+        "target": "['p\u00f6yt\u00e4']",
+        "word original": "table"
+    },
+    "['saba', 'istmik', 'Istmik']": {
+        "prompt": "Eesti: \"ehtekivi\" - Suomi: \"jalokivi\"\nEesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"siga\" - Suomi: \"sika\"\nEesti: \"l\u00f5ug\" - Suomi: \"leuka\"\nEesti: \"allikas\" - Suomi: \"l\u00e4hde\"\nEesti: \"saba\" - Suomi: \"",
+        "target": "['perskannikka', 'kannikka', 'peppu', 'satula', 'takamus', 'istuin', 'per\u00e4', 'pylly', 'pakarat', 'persus', 'perse', 'pyrst\u00f6', 'takapuoli', 'ahteri', 'per\u00e4p\u00e4\u00e4', 'h\u00e4nt\u00e4']",
+        "word original": "tail"
+    },
+    "['kedrus', 'l\u00f5ng', 'niit']": {
+        "prompt": "Eesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"siga\" - Suomi: \"sika\"\nEesti: \"p\u00f5lv\" - Suomi: \"polvi\"\nEesti: \"video\" - Suomi: \"televisio\"\nEesti: \"s\u00e4rk\" - Suomi: \"paita\"\nEesti: \"kedrus\" - Suomi: \"",
+        "target": "['rihma', 'lanka', 'kuitu', 's\u00e4ie']",
+        "word original": "thread"
+    },
+    "['kurk', 'harilik kurk']": {
+        "prompt": "Eesti: \"n\u00e4gu\" - Suomi: \"naama\"\nEesti: \"lennuk\" - Suomi: \"ilma-alus\"\nEesti: \"joonistus\" - Suomi: \"piirros\"\nEesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"sulgloomad\" - Suomi: \"siipikarja\"\nEesti: \"kurk\" - Suomi: \"",
+        "target": "['kurkku', 'ruokakurkku', 'Cucumis sativus', 'pharynx', 'nielu']",
+        "word original": "throat"
+    },
+    "['p\u00f6ial']": {
+        "prompt": "Eesti: \"vihmavari\" - Suomi: \"sateenvarjo\"\nEesti: \"saba\" - Suomi: \"perskannikka\"\nEesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"tulirelv\" - Suomi: \"ampuma-ase\"\nEesti: \"t\u00e4ht\" - Suomi: \"t\u00e4hti\"\nEesti: \"p\u00f6ial\" - Suomi: \"",
+        "target": "['peukalo', 'pollex']",
+        "word original": "thumb"
+    },
+    "['Hambad', 'hammas']": {
+        "prompt": "Eesti: \"sild\" - Suomi: \"silta\"\nEesti: \"uksekell\" - Suomi: \"ovikello\"\nEesti: \"pesapall\" - Suomi: \"baseball\"\nEesti: \"Klaas\" - Suomi: \"lasi\"\nEesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"Hambad\" - Suomi: \"",
+        "target": "['hammas', 'Hammas']",
+        "word original": "tooth"
+    },
+    "['linn', 'pealinn', 'suurlinn', 'Suurlinn']": {
+        "prompt": "Eesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"s\u00f5rm\" - Suomi: \"sormi\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"kontor\" - Suomi: \"virka\"\nEesti: \"allikas\" - Suomi: \"l\u00e4hde\"\nEesti: \"linn\" - Suomi: \"",
+        "target": "['kaupunki', 'suurkaupunki', 'metropoli', 'kaupunkikeskus', 'pikkukaupunki']",
+        "word original": "town"
+    },
+    "['rong']": {
+        "prompt": "Eesti: \"s\u00f5lm\" - Suomi: \"solmu\"\nEesti: \"lennuk\" - Suomi: \"ilma-alus\"\nEesti: \"teekann\" - Suomi: \"teekannu\"\nEesti: \"s\u00f5rmik\" - Suomi: \"hansikas\"\nEesti: \"s\u00f5rmus\" - Suomi: \"sormus\"\nEesti: \"rong\" - Suomi: \"",
+        "target": "['juna', 'opettaa', 'harjoittaa']",
+        "word original": "train"
+    },
+    "['puu', 'puit', 'vili', 'puuvili']": {
+        "prompt": "Eesti: \"huuled\" - Suomi: \"huuli\"\nEesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"ahv\" - Suomi: \"apina\"\nEesti: \"k\u00e4ekell\" - Suomi: \"rannekello\"\nEesti: \"allikas\" - Suomi: \"l\u00e4hde\"\nEesti: \"puu\" - Suomi: \"",
+        "target": "['pintapuu', 'puuaines', 'hedelm\u00e4']",
+        "word original": "tree"
+    },
+    "['p\u00fcksid']": {
+        "prompt": "Eesti: \"nous\" - Suomi: \"Psyyke\"\nEesti: \"allikas\" - Suomi: \"l\u00e4hde\"\nEesti: \"kael\" - Suomi: \"kaula\"\nEesti: \"lind\" - Suomi: \"linnut\"\nEesti: \"nuga\" - Suomi: \"veitsi\"\nEesti: \"p\u00fcksid\" - Suomi: \"",
+        "target": "['housut']",
+        "word original": "trousers"
+    },
+    "['vihmavari']": {
+        "prompt": "Eesti: \"ID-kaart\" - Suomi: \"henkil\u00f6kortti\"\nEesti: \"ahi\" - Suomi: \"uuni\"\nEesti: \"poiss\" - Suomi: \"poika\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"Kaar\" - Suomi: \"holvikaari\"\nEesti: \"vihmavari\" - Suomi: \"",
+        "target": "['sateenvarjo']",
+        "word original": "umbrella"
+    },
+    "['sein', 'm\u00fc\u00fcr']": {
+        "prompt": "Eesti: \"inimf\u00fcsioloogia\" - Suomi: \"ihmisruumis\"\nEesti: \"Sigar\" - Suomi: \"sikari\"\nEesti: \"Labajalg\" - Suomi: \"jalkater\u00e4\"\nEesti: \"lambad\" - Suomi: \"lammas\"\nEesti: \"saba\" - Suomi: \"perskannikka\"\nEesti: \"sein\" - Suomi: \"",
+        "target": "['sein\u00e4', 'muuri']",
+        "word original": "wall"
+    },
+    "['k\u00e4ekell', 'kell']": {
+        "prompt": "Eesti: \"kell\" - Suomi: \"kello\"\nEesti: \"hoone\" - Suomi: \"julkinen rakennus\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"saba\" - Suomi: \"perskannikka\"\nEesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"k\u00e4ekell\" - Suomi: \"",
+        "target": "['rannekello', 'taskukello', 'kello']",
+        "word original": "watch"
+    },
+    "['jalgratas', 'ratas']": {
+        "prompt": "Eesti: \"koer\" - Suomi: \"koira\"\nEesti: \"relvaj\u00f5ud\" - Suomi: \"asevoimat\"\nEesti: \"pidur\" - Suomi: \"Jarru\"\nEesti: \"puu\" - Suomi: \"pintapuu\"\nEesti: \"kass\" - Suomi: \"mirri\"\nEesti: \"jalgratas\" - Suomi: \"",
+        "target": "['polkupy\u00f6r\u00e4', 'py\u00f6r\u00e4', 'velosipedi', 'fillari']",
+        "word original": "wheel"
+    },
+    "['piits']": {
+        "prompt": "Eesti: \"v\u00f5ti\" - Suomi: \"s\u00e4vellaji\"\nEesti: \"ruut\" - Suomi: \"neli\u00f6\"\nEesti: \"relv\" - Suomi: \"ase\"\nEesti: \"raamat\" - Suomi: \"kirja\"\nEesti: \"sulg\" - Suomi: \"h\u00f6yhenet\"\nEesti: \"piits\" - Suomi: \"",
+        "target": "['ruoska', 'piiska']",
+        "word original": "whip"
+    },
+    "['aken']": {
+        "prompt": "Eesti: \"Hari\" - Suomi: \"kyp\u00e4r\u00e4nkoriste\"\nEesti: \"arve\" - Suomi: \"vesuri\"\nEesti: \"purjekas\" - Suomi: \"purjealus\"\nEesti: \"hobune\" - Suomi: \"hevonen\"\nEesti: \"ihunuhtlus\" - Suomi: \"ruumiinrangaistus\"\nEesti: \"aken\" - Suomi: \"",
+        "target": "['ikkuna', 'akkuna']",
+        "word original": "window"
+    },
+    "['tiib']": {
+        "prompt": "Eesti: \"talu\" - Suomi: \"maatila\"\nEesti: \"saba\" - Suomi: \"perskannikka\"\nEesti: \"koer\" - Suomi: \"koira\"\nEesti: \"uks\" - Suomi: \"yksi\"\nEesti: \"joonistus\" - Suomi: \"piirros\"\nEesti: \"tiib\" - Suomi: \"",
+        "target": "['siipi']",
+        "word original": "wing"
+    },
+    "['uss', 'ussid', 'Ussid']": {
+        "prompt": "Eesti: \"vannituba\" - Suomi: \"kylpyhuone\"\nEesti: \"tellis\" - Suomi: \"tiili\"\nEesti: \"lipp\" - Suomi: \"lippu\"\nEesti: \"katus\" - Suomi: \"ulkokatto\"\nEesti: \"vars\" - Suomi: \"varsi\"\nEesti: \"uss\" - Suomi: \"",
+        "target": "['mato', 'toukka']",
+        "word original": "worm"
+    }
+}

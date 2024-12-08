@@ -1,0 +1,882 @@
+{
+    "['angle', 'adjacent angle', 'supplementary angles', 'Complementary angles', 'vertically opposite angle theorem', 'vertical angles']": {
+        "prompt": "English: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928\"\nEnglish: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0916\u093f\u0921\u093c\u0915\u0940\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"jail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u0932\"\nEnglish: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f\"\nEnglish: \"angle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u094b\u0923']",
+        "word original": "angle"
+    },
+    "['ant', 'emmet', 'pismire', 'Formicidae']": {
+        "prompt": "English: \"worm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0940\u0921\u093c\u093e\"\nEnglish: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928\"\nEnglish: \"square\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0930\u094d\u0917\"\nEnglish: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0917\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"ant\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u0940\u0902\u091f\u0940']",
+        "word original": "ant"
+    },
+    "['apple peel', 'apple']": {
+        "prompt": "English: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"hat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u094b\u092a\u0940\"\nEnglish: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u092f\"\nEnglish: \"watch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0949\u091a\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"apple peel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u0947\u092c']",
+        "word original": "apple"
+    },
+    "['arch']": {
+        "prompt": "English: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u094b\u0902\u0920\"\nEnglish: \"hen's egg\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0923\u094d\u0921\u093e\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939\"\nEnglish: \"oven\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0913\u0935\u0928\"\nEnglish: \"arch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u093e\u092a']",
+        "word original": "arch"
+    },
+    "['weapon', 'weapon system', 'arm', 'horn']": {
+        "prompt": "English: \"leaf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0924\u094d\u0924\u093e\"\nEnglish: \"tail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0924\u0921\u093c\"\nEnglish: \"horse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0921\u093c\u093e\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e\"\nEnglish: \"drop\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0942\u0902\u0926\"\nEnglish: \"weapon\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u0925\u093f\u092f\u093e\u0930', '\u0936\u0938\u094d\u0924\u094d\u0930', '\u0906\u092f\u0941\u0927', '\u0938\u0940\u0902\u0917']",
+        "word original": "arm"
+    },
+    "['armed forces', 'military', 'force', 'military unit', 'military force', 'war machine', 'armed services', 'military machine']": {
+        "prompt": "English: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"drop\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0942\u0902\u0926\"\nEnglish: \"oven\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0913\u0935\u0928\"\nEnglish: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u092f\"\nEnglish: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0917\"\nEnglish: \"armed forces\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0938\u094d\u0915\u0930', '\u0932\u0936\u0915\u0930', '\u0932\u0936\u094d\u0915\u0930', '\u0938\u0947\u0928\u093e', '\u092b\u094c\u091c', '\u092b\u093c\u094c\u091c']",
+        "word original": "army"
+    },
+    "['baby', 'infaneto', 'infant', 'babe']": {
+        "prompt": "English: \"nerve\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0902\u0924\u094d\u0930\u093f\u0915\u093e\"\nEnglish: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0930\u094d\u091a\"\nEnglish: \"movie\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"identity card\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0939\u091a\u093e\u0928 \u092a\u0924\u094d\u0930\"\nEnglish: \"scissors\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u0948\u0902\u091a\u0940\"\nEnglish: \"baby\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u091a\u094d\u091a\u093e', '\u0936\u093f\u0936\u0941']",
+        "word original": "baby"
+    },
+    "['ring', 'band', 'gang', 'pack', 'mob', 'boxing ring']": {
+        "prompt": "English: \"roof\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u0924\"\nEnglish: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0908\u0902\u091f\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"stocking\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0901\u0917\u0942\u0920\u0940', '\u091b\u0932\u094d\u0932\u093e', '\u0905\u0902\u0917\u0942\u0920\u0940', '\u0917\u093f\u0930\u094b\u0939']",
+        "word original": "ring"
+    },
+    "['sink', 'swallet', 'doline', 'sinkhole', 'shake hole', 'cenote', 'sink hole', 'swallow hole', 'shakehole', 'basin', 'kitchen sink']": {
+        "prompt": "English: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"monkey\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0902\u0926\u0930\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"sink\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u094b\u0932 \u0930\u0928\u094d\u0927\u094d\u0930', '\u091a\u093f\u0932\u092e\u091a\u0940']",
+        "word original": "basin"
+    },
+    "['bath', 'restroom', 'bathroom']": {
+        "prompt": "English: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"poultry\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0915\u094d\u0915\u0941\u091f\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"farm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093e\u0930\u094d\u092e\"\nEnglish: \"bath\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u093e\u0925\u0930\u0942\u092e', '\u0938\u094d\u0928\u093e\u0928\u093e\u0917\u093e\u0930', '\u0917\u0941\u0938\u0932\u0916\u093c\u093e\u0928\u093e', '\u0917\u093c\u0941\u0938\u0932\u0916\u093c\u093e\u0928\u093e', '\u0938\u094d\u0928\u093e\u0928\u0918\u0930']",
+        "word original": "bath"
+    },
+    "['bed']": {
+        "prompt": "English: \"oven\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0913\u0935\u0928\"\nEnglish: \"leaf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0924\u094d\u0924\u093e\"\nEnglish: \"note\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0948\u0902\u0915 \u0915\u0947 \u0928\u094b\u091f\"\nEnglish: \"boy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"camera\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0948\u092e\u0930\u093e\"\nEnglish: \"bed\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u093f\u0938\u094d\u0924\u0930', '\u092a\u0932\u0902\u0917', '\u092c\u093f\u091b\u094b\u0928\u093e', '\u092c\u093f\u091b\u094c\u0928\u093e', '\u0936\u092f\u094d\u092f\u093e']",
+        "word original": "bed"
+    },
+    "['bee', 'Anthophila']": {
+        "prompt": "English: \"marine sponge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u092a\u0902\u091c\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092e\u093e\u0936\u092f\"\nEnglish: \"shock absorber\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u0918\u093e\u0924 \u0905\u0935\u0936\u094b\u0937\u0915\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u0942\"\nEnglish: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940']",
+        "word original": "bee"
+    },
+    "['bell', 'buzzer', 'doorbell']": {
+        "prompt": "English: \"roof\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u0924\"\nEnglish: \"mouse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0939\u093e\"\nEnglish: \"movie\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"finger\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u0902\u0917\u0932\u0940\"\nEnglish: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0921\u093c\"\nEnglish: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u0902\u091f\u0940', '\u0926\u094d\u0935\u093e\u0930\u0918\u0923\u094d\u091f\u0940', '\u0926\u0930\u094d\u0935\u093e\u091c\u093c\u0940 \u0915\u0940 \u0918\u0902\u091f\u0940', '\u0926\u0930\u0935\u093e\u091c\u093c\u0947 \u0915\u0940 \u0918\u0902\u091f\u0940']",
+        "word original": "bell"
+    },
+    "['bird', 'Eu-']": {
+        "prompt": "English: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"needle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093f\u0932\u093e\u0908 \u0915\u0940 \u0938\u0942\u0908\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0917\"\nEnglish: \"weapon\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0925\u093f\u092f\u093e\u0930\"\nEnglish: \"bird\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u093f\u0921\u093c\u093f\u092f\u093e', '\u092a\u0915\u094d\u0937\u0940', 'Aves']",
+        "word original": "bird"
+    },
+    "['sword', 'brand', 'steel', 'blade']": {
+        "prompt": "English: \"arch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093e\u092a\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"computer memory\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0938\u094d\u092e\u0943\u0924\u093f\"\nEnglish: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u0932\u0935\u093e\u0930', '\u0936\u092e\u0936\u0947\u0930']",
+        "word original": "blade"
+    },
+    "['committee', 'commission']": {
+        "prompt": "English: \"Sunday\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0935\u093f\u0935\u093e\u0930\"\nEnglish: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0930\u094d\u091a\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092e\u093e\u0936\u092f\"\nEnglish: \"shirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u092e\u0940\u091c\u093c\"\nEnglish: \"committee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u092e\u0947\u091f\u0940', '\u0938\u092e\u093f\u0924\u093f']",
+        "word original": "board"
+    },
+    "['boat']": {
+        "prompt": "English: \"sailing ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0932-\u0928\u094c\u0915\u093e\"\nEnglish: \"chest\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0902\u0926\u0942\u0915\u093c\"\nEnglish: \"shelf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0915\"\nEnglish: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u0947\u0921\u093c\u0940', '\u0928\u094c\u0915\u093e', '\u092c\u0947\u0921\u093c\u093e', '\u0921\u094b\u0901\u0917\u093e', '\u0928\u093e\u0935', '\u0921\u094b\u0901\u0917\u0940', '\u0915\u0936\u094d\u0924\u0940']",
+        "word original": "boat"
+    },
+    "['bone', 'os']": {
+        "prompt": "English: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092f\u093e\u0928\"\nEnglish: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0908\u0902\u091f\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u0921\u094d\u0921\u0940', '\u0905\u0938\u094d\u0925\u093f']",
+        "word original": "bone"
+    },
+    "['book']": {
+        "prompt": "English: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f\"\nEnglish: \"fish\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u091b\u0932\u0940\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"bath\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0925\u0930\u0942\u092e\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u093f\u0924\u093e\u092c', '\u092a\u0941\u0938\u094d\u0924\u0915']",
+        "word original": "book"
+    },
+    "['boot', 'kicking', 'kick']": {
+        "prompt": "English: \"jail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u0932\"\nEnglish: \"hat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u094b\u092a\u0940\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"house\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0930\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"boot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0932\u093e\u0924']",
+        "word original": "boot"
+    },
+    "['bottle']": {
+        "prompt": "English: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"scissors\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u0948\u0902\u091a\u0940\"\nEnglish: \"watch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0949\u091a\"\nEnglish: \"flag\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0927\u094d\u0935\u091c\"\nEnglish: \"musculus\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0936\u0940\"\nEnglish: \"bottle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u094b\u0924\u0932', '\u0936\u0940\u0936\u093e', '\u0936\u0940\u0936\u0940']",
+        "word original": "bottle"
+    },
+    "['boxes', 'box']": {
+        "prompt": "English: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930\"\nEnglish: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u092f\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"cake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0915\"\nEnglish: \"boxes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['m']",
+        "word original": "box"
+    },
+    "['boy', 'heroin', 'diacetylmorphine', 'male child', 'son']": {
+        "prompt": "English: \"orangeness\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0930\u0902\u0917\u0940\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"glove\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0938\u094d\u0924\u093e\u0928\u093e\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"duct\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u0935\u093e\u0939\u0940 \u0938\u0947\u0924\u0941\"\nEnglish: \"boy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u0947\u0930\u094b\u0907\u0928', '\u0939\u0947\u0930\u094b\u0907\u0928 \u0926\u094d\u0930\u0941\u0917\u094d', '\u0932\u0921\u093c\u0915\u093e']",
+        "word original": "boy"
+    },
+    "['head', 'brain', 'mind', 'nous', 'psyche', 'Nous', 'caput', 'leader', 'director', 'boss', 'chief', 'managing director', 'manager', 'top dog', 'question']": {
+        "prompt": "English: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"gate\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u0928', '\u0938\u093f\u0930', '\u0938\u0930']",
+        "word original": "head"
+    },
+    "['brake', 'braking']": {
+        "prompt": "English: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e\"\nEnglish: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u094d\u0930\u0947\u0915']",
+        "word original": "brake"
+    },
+    "['economics', 'economic science', 'political economy']": {
+        "prompt": "English: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"bridge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u0924\u0941\"\nEnglish: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930', '\u0930\u093e\u091c\u0928\u0940\u0924\u093f\u0915 \u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930', '\u0905\u0930\u094d\u0925\u0928\u0940\u0924\u093f']",
+        "word original": "branch"
+    },
+    "['brick']": {
+        "prompt": "English: \"isle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u0940\u092a\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"circle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0943\u0924\u094d\u0924\"\nEnglish: \"fish\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u091b\u0932\u0940\"\nEnglish: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u092f\"\nEnglish: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0908\u0902\u091f']",
+        "word original": "brick"
+    },
+    "['bridge', 'span', 'list of Roman bridges']": {
+        "prompt": "English: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"clothes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u093f\u0927\u093e\u0928\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"bridge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u0947\u0924\u0941']",
+        "word original": "bridge"
+    },
+    "['brush', 'scrubland', 'shrubland']": {
+        "prompt": "English: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"finger\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u0902\u0917\u0932\u0940\"\nEnglish: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0917\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f', '\u092c\u094d\u0930\u0936', '\u092c\u0941\u0930\u0941\u0936', '\u091d\u093e\u0921\u093c\u0942']",
+        "word original": "brush"
+    },
+    "['bucket', 'pail', 'Pail']": {
+        "prompt": "English: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"corporal punishment\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u0926\u0923\u094d\u0921\"\nEnglish: \"cloud\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092d\u094d\u0930\"\nEnglish: \"movie\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"street\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0930\u094d\u0917\"\nEnglish: \"bucket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u093e\u0932\u094d\u091f\u0940']",
+        "word original": "bucket"
+    },
+    "['lightbulb', 'electric-light bulb', 'incandescent light bulb', 'electric light', 'electric bulb', 'bulb', 'incandescent lamp', 'light bulb']": {
+        "prompt": "English: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0908\u0902\u091f\"\nEnglish: \"chest\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0902\u0926\u0942\u0915\u093c\"\nEnglish: \"cake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0915\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c', '\u0924\u093e\u092a\u0926\u0940\u092a\u094d\u0924 \u0932\u0948\u092e\u094d\u092a', '\u0909\u0926\u094d\u0926\u0940\u092a\u094d\u0924 \u0926\u0940\u092a\u0915']",
+        "word original": "bulb"
+    },
+    "['button', 'curling', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"marine sponge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u092a\u0902\u091c\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"toes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0901\u0935 \u0915\u093e \u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['Curling']",
+        "word original": "button"
+    },
+    "['cake']": {
+        "prompt": "English: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"gate\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"marine sponge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u092a\u0902\u091c\"\nEnglish: \"cake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0947\u0915']",
+        "word original": "cake"
+    },
+    "['camera', 'photographic camera', 'still camera', 'movie camera', 'television camera', 'tv camera', 'professional video camera']": {
+        "prompt": "English: \"circle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0943\u0924\u094d\u0924\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"cup\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u092a\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"camera\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0948\u092e\u0930\u093e']",
+        "word original": "camera"
+    },
+    "['identity card', 'I.D.', 'ID', 'identity document', 'identification card', 'card', 'ID card']": {
+        "prompt": "English: \"marine sponge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u092a\u0902\u091c\"\nEnglish: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f\"\nEnglish: \"gate\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"camera\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0948\u092e\u0930\u093e\"\nEnglish: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"identity card\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0939\u091a\u093e\u0928 \u092a\u0924\u094d\u0930']",
+        "word original": "card"
+    },
+    "['carriage', 'railroad car', 'railway carriage', 'car', 'railcar', 'railway car', 'motor coach', 'rig', 'equipage']": {
+        "prompt": "English: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"cloud\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092d\u094d\u0930\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930\"\nEnglish: \"isle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u0940\u092a\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u093e\u0921\u093c\u0940']",
+        "word original": "carriage"
+    },
+    "['pussy', 'domestic cat', 'kitty-cat', 'cat', 'pussycat', 'kitty', 'puss', 'true cat', 'house cat']": {
+        "prompt": "English: \"committee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u092e\u0947\u091f\u0940\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u0926\u093e\"\nEnglish: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u093f\u0932\u094d\u0932\u0940', 'Felis silvestris catus']",
+        "word original": "cat"
+    },
+    "['cheese', 'YAMSHD']": {
+        "prompt": "English: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"angle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094b\u0923\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"arch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093e\u092a\"\nEnglish: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"cheese\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u0940\u091c\u093c', '\u092a\u0928\u0940\u0930']",
+        "word original": "cheese"
+    },
+    "['chest', 'breast', 'thorax', 'chest cavity', 'thoracic cavity', 'pectus']": {
+        "prompt": "English: \"clothes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u093f\u0927\u093e\u0928\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"needle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093f\u0932\u093e\u0908 \u0915\u0940 \u0938\u0942\u0908\"\nEnglish: \"boxes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"m\"\nEnglish: \"chest\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u0902\u0926\u0942\u0915\u093c', '\u0938\u0928\u094d\u0926\u0942\u0915\u093c', '\u0938\u0940\u0928\u093e', '\u091b\u093e\u0924\u0940']",
+        "word original": "chest"
+    },
+    "['chin', 'mentum']": {
+        "prompt": "English: \"cornet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0941\u0930\u0939\u0940\"\nEnglish: \"mouse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0939\u093e\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"valley\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u093e\u091f\u0940 - \u092a\u0930\u094d\u0935\u0924\u094b\u0902 \u092f\u093e \u0909\u0924\u094d\u0925\u093f\u0924 \u092d\u093e\u0917\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0928\u093f\u091a\u0932\u0940 \u091c\u093c\u092e\u0940\u0928 \u0935\u093e\u0932\u093e \u0939\u093f\u0938\u094d\u0938\u093e, \u0932\u092e\u094d\u092c\u093e\u0908 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0935\u093e\u0932\u093e\"\nEnglish: \"chin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0920\u094b\u0921\u093c\u0940', '\u0920\u0941\u0921\u094d\u0921\u0940', '\u091a\u093f\u092c\u0941\u0915']",
+        "word original": "chin"
+    },
+    "['church', 'church building']": {
+        "prompt": "English: \"girl\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u0921\u093c\u0915\u0940\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"bed\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0938\u094d\u0924\u0930\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u0930\u094d\u091a', '\u0915\u0932\u0940\u0938\u093e', '\u0917\u093f\u0930\u091c\u093e\u0918\u0930', '\u0917\u093f\u0930\u091c\u093e', '\u0915\u0932\u0940\u0938\u093f\u092f\u093e', '\u0917\u093f\u0930\u094d\u091c\u093e', '\u0917\u093f\u0930\u094d\u091c\u093e\u0918\u0930']",
+        "word original": "church"
+    },
+    "['circle', 'disk', 'disc']": {
+        "prompt": "English: \"pen\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0928\u093f\u0938\u093f\u0932\u093f\u0928\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\"\nEnglish: \"knee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0941\u091f\u0928\u093e\"\nEnglish: \"circle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0935\u0943\u0924\u094d\u0924', '\u091a\u0915\u094d\u0930', '\u091a\u0915\u094d\u0915\u093e', '\u0921\u093f\u0938\u094d\u0915']",
+        "word original": "circle"
+    },
+    "['clock']": {
+        "prompt": "English: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092f\u093e\u0928\"\nEnglish: \"duct\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u0935\u093e\u0939\u0940 \u0938\u0947\u0924\u0941\"\nEnglish: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0940\u0935\u093e\u0930\"\nEnglish: \"plume\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0902\u0916\"\nEnglish: \"clock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u0921\u093c\u0940', '\u0918\u0921\u0940']",
+        "word original": "clock"
+    },
+    "['cloud']": {
+        "prompt": "English: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"wing\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0915\u094d\u0937\"\nEnglish: \"knot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0902\u0920\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"stamp\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u093f\u0915\u091f\"\nEnglish: \"cloud\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u092d\u094d\u0930', '\u092c\u093e\u0926\u0932', '\u092e\u0947\u0918']",
+        "word original": "cloud"
+    },
+    "['jacket', 'coat']": {
+        "prompt": "English: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"bottle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094b\u0924\u0932\"\nEnglish: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0948\u0915\u0947\u091f', '\u0915\u094b\u091f']",
+        "word original": "coat"
+    },
+    "['taking into custody', 'arrest', 'collar', 'catch', 'apprehension', 'pinch']": {
+        "prompt": "English: \"cloud\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092d\u094d\u0930\"\nEnglish: \"lock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"sailing ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0932-\u0928\u094c\u0915\u093e\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"boy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"taking into custody\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940']",
+        "word original": "collar"
+    },
+    "['comb']": {
+        "prompt": "English: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"bridge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u0924\u0941\"\nEnglish: \"glove\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0938\u094d\u0924\u093e\u0928\u093e\"\nEnglish: \"seed\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u093e\u0928\u093e\"\nEnglish: \"stamp\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u093f\u0915\u091f\"\nEnglish: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0902\u0918\u093e']",
+        "word original": "comb"
+    },
+    "['cow', 'cattle', 'kine', 'oxen', 'Bos taurus', 'cows', 'moo-cow']": {
+        "prompt": "English: \"network\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0907\u0928\u094d\u091f\u0930\u0928\u0947\u091f\"\nEnglish: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0921\u093c\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"armed forces\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u0915\u0930\"\nEnglish: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u093e\u092f', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['cup', 'standing cup', 'cup with stem', 'drinking glass']": {
+        "prompt": "English: \"lock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"plume\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0902\u0916\"\nEnglish: \"boxes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"m\"\nEnglish: \"nerve\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0902\u0924\u094d\u0930\u093f\u0915\u093e\"\nEnglish: \"sink\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0932 \u0930\u0928\u094d\u0927\u094d\u0930\"\nEnglish: \"cup\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u092a', '\u092a\u094d\u092f\u093e\u0932\u093e', '\u0917\u093f\u0932\u093e\u0938']",
+        "word original": "cup"
+    },
+    "['curtain', 'drapery', 'drape', 'mantle', 'pall', 'altar cloth']": {
+        "prompt": "English: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"pen\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0928\u093f\u0938\u093f\u0932\u093f\u0928\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0921\u093c\"\nEnglish: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0930\u0926\u093e', '\u092a\u0930\u094d\u0926\u093e']",
+        "word original": "curtain"
+    },
+    "['shock absorber', 'shock', 'cushion']": {
+        "prompt": "English: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f\"\nEnglish: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"cheese\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0940\u091c\u093c\"\nEnglish: \"hen's egg\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0923\u094d\u0921\u093e\"\nEnglish: \"shock absorber\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u094d\u0930\u0918\u093e\u0924 \u0905\u0935\u0936\u094b\u0937\u0915']",
+        "word original": "cushion"
+    },
+    "['dog', 'Canis familiaris', 'domestic dog', 'Canis lupus familiaris']": {
+        "prompt": "English: \"note\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0948\u0902\u0915 \u0915\u0947 \u0928\u094b\u091f\"\nEnglish: \"girl\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u0921\u093c\u0915\u0940\"\nEnglish: \"star\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0930\u093e\"\nEnglish: \"bird\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093f\u0921\u093c\u093f\u092f\u093e\"\nEnglish: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"dog\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0941\u0924\u094d\u0924\u093e', 'Canis lupus familiaris']",
+        "word original": "dog"
+    },
+    "['door case', 'doorcase', 'door', 'door frame', 'doorway', 'doorframe']": {
+        "prompt": "English: \"fish\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u091b\u0932\u0940\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"stem\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0928\u093e\"\nEnglish: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u0926\u093e\"\nEnglish: \"watch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0949\u091a\"\nEnglish: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u094d\u0935\u093e\u0930', '\u0926\u0930\u0935\u093e\u091c\u093c\u093e', '\u0926\u0930', '\u092a\u094d\u0930\u0935\u0947\u0936', '\u0926\u0930\u0935\u093e\u091c\u093e']",
+        "word original": "door"
+    },
+    "['gate', 'lock', 'canal lock', 'lock chamber']": {
+        "prompt": "English: \"cornet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0941\u0930\u0939\u0940\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0940\u0935\u093e\u0930\"\nEnglish: \"gate\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0932\u092a\u093e\u0936']",
+        "word original": "drain"
+    },
+    "['picture', 'movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture show', 'moving-picture show', 'image', 'artist', 'painting', 'painter', 'art of painting', 'drawing', 'map', 'portraiture', 'design', 'illustration', 'figure', 'pattern', 'ikon', 'icon', 'photo', 'photograph', 'exposure', 'video']": {
+        "prompt": "English: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"arch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093e\u092a\"\nEnglish: \"apple peel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u092c\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092b\u093c\u093f\u0932\u094d\u092e', '\u091a\u093f\u0924\u094d\u0930\u0915\u0932\u093e', '\u0930\u0947\u0916\u093e\u091a\u093f\u0924\u094d\u0930', '\u091a\u093f\u0924\u094d\u0930', '\u092a\u094d\u0930\u0924\u093f\u092c\u093f\u092e\u094d\u092c', '\u092b\u093c\u094b\u091f\u094b', '\u0924\u0938\u094d\u0935\u0940\u0930', '\u092b\u093c\u094b\u091f\u094b\u0917\u094d\u0930\u093e\u092b\u093c', '\u092b\u094b\u091f\u094b\u0917\u094d\u0930\u093e\u092b\u0940', '\u092b\u094b\u091f\u094b', '\u091b\u093e\u092f\u093e\u091a\u093f\u0924\u094d\u0930', '\u092b\u094b\u091f\u094b\u0917\u094d\u0930\u093e\u092b']",
+        "word original": "drawer"
+    },
+    "['clothes', 'thing', 'things', 'garments', 'garment', 'apparel', 'raiment', 'clothing', 'wearable', 'article of clothing', 'wear', 'habiliment', 'vesture', 'dress', 'wearing apparel']": {
+        "prompt": "English: \"cloud\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092d\u094d\u0930\"\nEnglish: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0908\u0902\u091f\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u094b\u0902\u0920\"\nEnglish: \"hat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u094b\u092a\u0940\"\nEnglish: \"clothes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0930\u093f\u0927\u093e\u0928']",
+        "word original": "dress"
+    },
+    "['drop', 'cliff', 'drop-off', 'raindrop', 'drib', 'driblet']": {
+        "prompt": "English: \"duct\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u0935\u093e\u0939\u0940 \u0938\u0947\u0924\u0941\"\nEnglish: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"boot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0924\"\nEnglish: \"knot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0902\u0920\"\nEnglish: \"drop\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u0942\u0902\u0926']",
+        "word original": "drop"
+    },
+    "['ear', 'ears']": {
+        "prompt": "English: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"street\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0930\u094d\u0917\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u093e\u0928']",
+        "word original": "ear"
+    },
+    "[\"hen's egg\", \"chicken's egg\", 'chicken egg', 'egg', 'eggs', 'Eggs as food', 'insect egg']": {
+        "prompt": "English: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"clinic\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u092a\u0924\u093e\u0932\"\nEnglish: \"shirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u092e\u0940\u091c\u093c\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"hen's egg\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0923\u094d\u0921\u093e']",
+        "word original": "egg"
+    },
+    "['motor', 'electric motor', 'engine']": {
+        "prompt": "English: \"marine sponge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u092a\u0902\u091c\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930', '\u0907\u0902\u091c\u0928', '\u092e\u094b\u091f\u0930']",
+        "word original": "engine"
+    },
+    "['eye', 'eyes', 'eyeball', 'eye ball', 'optic', 'oculus', 'heart', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"finger\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u0902\u0917\u0932\u0940\"\nEnglish: \"toes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0901\u0935 \u0915\u093e \u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"stem\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0928\u093e\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"eye\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0906\u0901\u0916', '\u0906\u0902\u0916']",
+        "word original": "eye"
+    },
+    "['face', 'typeface', 'font', 'case', 'fount', 'human face', 'air', 'appearance', 'manner', 'demeanor', 'look', 'expression', 'mien', 'bearing', 'demeanour', 'facial expression', 'aspect']": {
+        "prompt": "English: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"poultry\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0915\u094d\u0915\u0941\u091f\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f', '\u091a\u0947\u0939\u0930\u093e', '\u092e\u0941\u0916\u0921\u093c\u093e', '\u092e\u0941\u0916']",
+        "word original": "face"
+    },
+    "['farm']": {
+        "prompt": "English: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"angle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094b\u0923\"\nEnglish: \"potato\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0906\u0932\u0942\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"cycle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u092f\u0915\u093f\u0932\"\nEnglish: \"farm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092b\u093c\u093e\u0930\u094d\u092e', '\u0916\u0947\u0924']",
+        "word original": "farm"
+    },
+    "['plume', 'feathers', 'feather', 'plumage', 'barbule']": {
+        "prompt": "English: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"boot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0924\"\nEnglish: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"arch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093e\u092a\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e\"\nEnglish: \"plume\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0902\u0916', '\u092a\u0930']",
+        "word original": "feather"
+    },
+    "['finger', 'the finger']": {
+        "prompt": "English: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"stem\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0928\u093e\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u093e\u0930\"\nEnglish: \"finger\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0909\u0902\u0917\u0932\u0940', '\u0905\u0902\u0917\u0941\u0932\u0940', '\u0905\u0902\u0917\u0941\u0932', '\u0905\u0902\u0917\u0941\u0936\u094d\u0924', '\u0905\u0902\u0917\u0941\u0932\u093f']",
+        "word original": "finger"
+    },
+    "['fish', 'food fish', 'fish as food', 'Pisces']": {
+        "prompt": "English: \"bottle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094b\u0924\u0932\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u0942\"\nEnglish: \"house\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0930\"\nEnglish: \"fish\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u091b\u0932\u0940', '\u092e\u091a\u094d\u091b\u0940', '\u092e\u0940\u0928', '\u092e\u093e\u0939\u0940', '\u092e\u0924\u094d\u0938\u094d\u092f', 'Pisces']",
+        "word original": "fish"
+    },
+    "['flag', 'penalty', 'Penalty']": {
+        "prompt": "English: \"knife\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u0941\u0930\u0940\"\nEnglish: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939\"\nEnglish: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"cheese\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0940\u091c\u093c\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"flag\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0927\u094d\u0935\u091c']",
+        "word original": "flag"
+    },
+    "['valley', 'dale', 'vale']": {
+        "prompt": "English: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"fish\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u091b\u0932\u0940\"\nEnglish: \"worm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0940\u0921\u093c\u093e\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\"\nEnglish: \"corporal punishment\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u0926\u0923\u094d\u0921\"\nEnglish: \"valley\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u093e\u091f\u0940 - \u092a\u0930\u094d\u0935\u0924\u094b\u0902 \u092f\u093e \u0909\u0924\u094d\u0925\u093f\u0924 \u092d\u093e\u0917\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0928\u093f\u091a\u0932\u0940 \u091c\u093c\u092e\u0940\u0928 \u0935\u093e\u0932\u093e \u0939\u093f\u0938\u094d\u0938\u093e, \u0932\u092e\u094d\u092c\u093e\u0908 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0935\u093e\u0932\u093e', '\u0918\u093e\u091f\u0940', '\u0935\u093e\u0926\u0940']",
+        "word original": "floor"
+    },
+    "['fly', 'Diptera']": {
+        "prompt": "English: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"finger\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u0902\u0917\u0932\u0940\"\nEnglish: \"knot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0902\u0920\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e', '\u092e\u0915\u094d\u0916\u0940']",
+        "word original": "fly"
+    },
+    "['human foot', 'foot', 'pes', 'Pes', 'Foot']": {
+        "prompt": "English: \"eye\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0906\u0901\u0916\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"Sunday\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0935\u093f\u0935\u093e\u0930\"\nEnglish: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u0926\u093e\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0948\u0930']",
+        "word original": "foot"
+    },
+    "['fork', 'tributary', 'feeder', 'confluent', 'affluent']": {
+        "prompt": "English: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"identity card\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0939\u091a\u093e\u0928 \u092a\u0924\u094d\u0930\"\nEnglish: \"stamp\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u093f\u0915\u091f\"\nEnglish: \"stocking\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0909\u092a\u0928\u0926\u0940', '\u0915\u093e\u0901\u091f\u093e', '\u0915\u093e\u0902\u091f\u093e']",
+        "word original": "fork"
+    },
+    "['poultry', 'fowl', 'domestic fowl', 'Galloanserae']": {
+        "prompt": "English: \"gate\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"knee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0941\u091f\u0928\u093e\"\nEnglish: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u0942\"\nEnglish: \"tooth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0928\u0935 \u0926\u093e\u0901\u0924\"\nEnglish: \"worm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0940\u0921\u093c\u093e\"\nEnglish: \"poultry\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0941\u0915\u094d\u0915\u0941\u091f', '\u092a\u094b\u0932\u094d\u091f\u094d\u0930\u0940']",
+        "word original": "fowl"
+    },
+    "['human body', 'human physiology', 'build', 'figure', 'soma', 'chassis', 'form', 'anatomy', 'shape', 'frame', 'physique', 'flesh', 'material body', 'physical body', 'bod']": {
+        "prompt": "English: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0940\u0935\u093e\u0930\"\nEnglish: \"farm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093e\u0930\u094d\u092e\"\nEnglish: \"hat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u094b\u092a\u0940\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092e\u093e\u0936\u092f\"\nEnglish: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u0928\u093e\u0935\u091f', '\u0926\u0947\u0939', '\u092e\u093e\u0928\u0935 \u0915\u093e\u0930\u094d\u092f\u093f\u0915\u0940', '\u092e\u093e\u0928\u0935 \u0936\u0930\u0940\u0930']",
+        "word original": "frame"
+    },
+    "['garden']": {
+        "prompt": "English: \"toilet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u094c\u091a\u093e\u0932\u092f\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"boxes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"m\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"gate\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u093e\u0917']",
+        "word original": "garden"
+    },
+    "['girl', 'young woman', 'miss', 'fille', 'missy', 'young lady', 'daughter', 'gf', 'girlfriend', 'lady friend']": {
+        "prompt": "English: \"cornet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0941\u0930\u0939\u0940\"\nEnglish: \"valley\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u093e\u091f\u0940 - \u092a\u0930\u094d\u0935\u0924\u094b\u0902 \u092f\u093e \u0909\u0924\u094d\u0925\u093f\u0924 \u092d\u093e\u0917\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0928\u093f\u091a\u0932\u0940 \u091c\u093c\u092e\u0940\u0928 \u0935\u093e\u0932\u093e \u0939\u093f\u0938\u094d\u0938\u093e, \u0932\u092e\u094d\u092c\u093e\u0908 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0935\u093e\u0932\u093e\"\nEnglish: \"boot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0924\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"girl\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0932\u0921\u093c\u0915\u0940', '\u092c\u0947\u091f\u0940', '\u092a\u0941\u0924\u094d\u0930\u0940', '\u0926\u0941\u0916\u093c\u094d\u0924\u0930', '\u0917\u0930\u094d\u0932\u092b\u094d\u0930\u0947\u0902\u0921', '\u0917\u0930\u094d\u0932\u092b\u093c\u094d\u0930\u0947\u0902\u0921', '\u092a\u094d\u0930\u0947\u092e\u093f\u0915\u093e']",
+        "word original": "girl"
+    },
+    "['glove']": {
+        "prompt": "English: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"oven\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0913\u0935\u0928\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"plough\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0902\u0917\u0932\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"glove\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u0938\u094d\u0924\u093e\u0928\u093e', '\u0926\u0938\u094d\u0924\u093e\u0928\u0947']",
+        "word original": "glove"
+    },
+    "['goat', 'domestic goat', 'caprine animal']": {
+        "prompt": "English: \"watch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0949\u091a\"\nEnglish: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"toes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0901\u0935 \u0915\u093e \u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"cycle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u092f\u0915\u093f\u0932\"\nEnglish: \"chin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0920\u094b\u0921\u093c\u0940\"\nEnglish: \"goat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u0915\u0930\u0940', 'Capra aegagrus hircus']",
+        "word original": "goat"
+    },
+    "['gun', 'ordnance', 'heavy weapon', 'artillery', 'firearm', 'fire arm', 'projectile weapon']": {
+        "prompt": "English: \"network\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0907\u0928\u094d\u091f\u0930\u0928\u0947\u091f\"\nEnglish: \"boxes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"m\"\nEnglish: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u0942\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092e\u093e\u0936\u092f\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e', '\u0905\u0917\u094d\u0928\u093f\u0936\u0938\u094d\u0924\u094d\u0930']",
+        "word original": "gun"
+    },
+    "['hair', 'pilus']": {
+        "prompt": "English: \"network\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0907\u0928\u094d\u091f\u0930\u0928\u0947\u091f\"\nEnglish: \"match\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0948\u091a\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"jail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u0932\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u093e\u0932']",
+        "word original": "root"
+    },
+    "['hammer', 'heroin', 'diacetylmorphine']": {
+        "prompt": "English: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u094b\u0902\u0920\"\nEnglish: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0930\u094d\u091a\"\nEnglish: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u0947\u0930\u094b\u0907\u0928', '\u0939\u0947\u0930\u094b\u0907\u0928 \u0926\u094d\u0930\u0941\u0917\u094d', '\u0939\u0925\u094c\u0921\u093c\u093e']",
+        "word original": "hammer"
+    },
+    "['hand', 'calligraphy', 'chirography', 'penmanship', 'manus', 'mitt', 'paw', 'Manus']": {
+        "prompt": "English: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"potato\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0906\u0932\u0942\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e\"\nEnglish: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928', '\u0939\u093e\u0925']",
+        "word original": "hand"
+    },
+    "['hat', 'chapeau', 'lid']": {
+        "prompt": "English: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"shock absorber\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u0918\u093e\u0924 \u0905\u0935\u0936\u094b\u0937\u0915\"\nEnglish: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0921\u093c\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"hat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091f\u094b\u092a\u0940', '\u091f\u094b\u092a']",
+        "word original": "hat"
+    },
+    "['heart', 'ticker', 'pump', 'Diaphragmatic surface of heart', 'human heart', 'cardiac chamber', 'affectionateness', 'philia', 'fondness', 'warmheartedness', 'affection', 'tenderness', 'warmness', 'affectio', 'eye', 'center', 'centre', 'middle']": {
+        "prompt": "English: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0917\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"cycle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u092f\u0915\u093f\u0932\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u0943\u0926\u092f', '\u092a\u094d\u0930\u0947\u092e', '\u0938\u094d\u0928\u0947\u0939', '\u0915\u0932\u094d\u092c', '\u0926\u093f\u0932', '\u0915\u093c\u0932\u094d\u092c']",
+        "word original": "pump"
+    },
+    "['cornet', 'mouth harp', 'trump', 'juice harp', \"Jew's trump\", 'Ozark harp', 'jaw harp', \"Jew's harp\", 'trumpet', 'guimbarde', 'trumpet player', 'trumpeter', 'horn']": {
+        "prompt": "English: \"armed forces\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u0915\u0930\"\nEnglish: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928\"\nEnglish: \"horse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0921\u093c\u093e\"\nEnglish: \"bath\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0925\u0930\u0942\u092e\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"cornet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u0941\u0930\u0939\u0940', '\u092d\u094b\u0902\u092a\u0942', '\u092d\u094b\u092a\u093e']",
+        "word original": "horn"
+    },
+    "['horse', 'Equus caballus']": {
+        "prompt": "English: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"domestic sheep\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092d\u0947\u0921\u093c\"\nEnglish: \"poultry\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0915\u094d\u0915\u0941\u091f\"\nEnglish: \"screw\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u091a\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"horse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u094b\u0921\u093c\u093e']",
+        "word original": "horse"
+    },
+    "['clinic', 'hospital', 'infirmary']": {
+        "prompt": "English: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u0926\u093e\"\nEnglish: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"agency\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u092b\u093c\u094d\u0924\u0930\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u092a\u0928\u0926\u0940\"\nEnglish: \"clinic\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0938\u094d\u092a\u0924\u093e\u0932', '\u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f', '\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e\u0932\u092f']",
+        "word original": "hospital"
+    },
+    "['house', 'home', 'dwelling', 'theater', 'theatre', 'playhouse', 'business firm', 'casino', 'establishment', 'firm', 'gambling casino', 'household', 'family', 'menage', 'private household', 'habitation', 'dwelling house', 'abode', 'domicile', 'Flotten, Hemmet och Sandl\u00e5dan', 'residence', 'auditorium', 'enterprise', 'concern', 'corporation', 'partnership', 'venture', 'company']": {
+        "prompt": "English: \"musculus\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0936\u0940\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e\"\nEnglish: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u094b\u0902\u0920\"\nEnglish: \"house\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u0930', '\u092e\u0915\u093e\u0928', '\u0928\u093e\u091f\u0915', '\u091c\u0941\u0906\u0916\u093e\u0928\u093e', '\u0915\u091c\u093c\u0940\u0928\u094b', '\u091c\u0941\u0906\u0918\u0930', '\u0915\u0948\u0938\u0940\u0928\u094b', '\u0915\u0948\u0938\u093f\u0928\u094b', '\u091c\u0928\u094d\u092e\u092d\u0942\u092e\u093f', '\u0917\u0943\u0939']",
+        "word original": "house"
+    },
+    "['isle', 'island']": {
+        "prompt": "English: \"chest\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0902\u0926\u0942\u0915\u093c\"\nEnglish: \"drop\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0942\u0902\u0926\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"isle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u094d\u0935\u0940\u092a']",
+        "word original": "island"
+    },
+    "['gemstone', 'gem', 'stone']": {
+        "prompt": "English: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"flag\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0927\u094d\u0935\u091c\"\nEnglish: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"gemstone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0930\u0924\u094d\u0928', '\u092a\u0924\u094d\u0925\u0930', '\u092e\u0923\u093f']",
+        "word original": "jewel"
+    },
+    "['teakettle', 'kettle', 'tea kettle', 'boiler']": {
+        "prompt": "English: \"note\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0948\u0902\u0915 \u0915\u0947 \u0928\u094b\u091f\"\nEnglish: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"tooth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0928\u0935 \u0926\u093e\u0901\u0924\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0947\u0924\u0932\u0940']",
+        "word original": "kettle"
+    },
+    "['key', 'tonality', 'graph', 'chart', 'button', 'push button', 'push', 'push-button']": {
+        "prompt": "English: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"sailing ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0932-\u0928\u094c\u0915\u093e\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"key\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u093e\u0932\u0940', '\u091a\u093e\u092c\u0940', '\u0932\u0947\u0916\u093e\u091a\u093f\u0924\u094d\u0930']",
+        "word original": "key"
+    },
+    "['knee', 'genu', 'human knee', 'knee joint', 'articulatio genus']": {
+        "prompt": "English: \"bird\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093f\u0921\u093c\u093f\u092f\u093e\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"poultry\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0915\u094d\u0915\u0941\u091f\"\nEnglish: \"camera\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0948\u092e\u0930\u093e\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"knee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0918\u0941\u091f\u0928\u093e']",
+        "word original": "knee"
+    },
+    "['knife']": {
+        "prompt": "English: \"ant\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0940\u0902\u091f\u0940\"\nEnglish: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\"\nEnglish: \"knife\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091b\u0941\u0930\u0940', '\u091a\u093e\u0915\u0942', '\u091a\u093e\u0915\u093c\u0942']",
+        "word original": "knife"
+    },
+    "['knot']": {
+        "prompt": "English: \"baby\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u091a\u094d\u091a\u093e\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"camera\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0948\u092e\u0930\u093e\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"knot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u093e\u0902\u0920']",
+        "word original": "knot"
+    },
+    "['leaf', 'foliage', 'leafage', 'Laphi']": {
+        "prompt": "English: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0916\u093f\u0921\u093c\u0915\u0940\"\nEnglish: \"bucket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\u094d\u091f\u0940\"\nEnglish: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"needle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093f\u0932\u093e\u0908 \u0915\u0940 \u0938\u0942\u0908\"\nEnglish: \"hen's egg\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0923\u094d\u0921\u093e\"\nEnglish: \"leaf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0924\u094d\u0924\u093e', '\u092a\u0924\u094d\u0924\u0940']",
+        "word original": "leaf"
+    },
+    "['pin', 'leg', 'legs', 'human leg', 'badge', 'fall', 'personal identification number', 'PIN number', 'Personal identification number']": {
+        "prompt": "English: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"bird\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093f\u0921\u093c\u093f\u092f\u093e\"\nEnglish: \"weapon\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0925\u093f\u092f\u093e\u0930\"\nEnglish: \"jail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u0932\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u093e\u092f\u093e', '\u092a\u0948\u0930', '\u092a\u093e\u0902\u0935', '\u092c\u0948\u091c', '\u0935\u094d\u092f\u0915\u094d\u0924\u093f\u0917\u0924 \u092a\u0939\u091a\u093e\u0928 \u0938\u0902\u0916\u094d\u092f\u093e']",
+        "word original": "pin"
+    },
+    "['library']": {
+        "prompt": "English: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"bottle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094b\u0924\u0932\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"musculus\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0936\u0940\"\nEnglish: \"cake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0915\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f']",
+        "word original": "library"
+    },
+    "['television', 'video', 'TV', 'telecasting', 'videotape recording', 'tv', 'telly', 'idiot box', 'tv set', 'television set', 'boob tube', 'google box', 'television receiver', 'goggle box']": {
+        "prompt": "English: \"cloud\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092d\u094d\u0930\"\nEnglish: \"dog\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0924\u094d\u0924\u093e\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928', '\u091f\u0940\u0935\u0940', '\u091f\u0947\u0932\u093f\u0935\u093f\u091c\u0928', '\u091f\u0947\u0932\u0940\u0935\u093f\u091c\u093c\u0928', '\u0935\u0940\u0921\u093f\u092f\u094b', '\u091f\u0947\u0932\u093f\u0935\u093f\u091c\u0928 \u0938\u0947\u091f']",
+        "word original": "line"
+    },
+    "['lips', 'lip']": {
+        "prompt": "English: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u092a\u0928\u0926\u0940\"\nEnglish: \"shirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u092e\u0940\u091c\u093c\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u094b\u0902\u0920', '\u0913\u0937\u094d\u0920']",
+        "word original": "lip"
+    },
+    "['lock', 'canal lock', 'lock chamber', 'ringlet', 'hair whorl', 'curl', 'whorl', 'wrestling lock']": {
+        "prompt": "English: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"domestic sheep\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092d\u0947\u0921\u093c\"\nEnglish: \"bird\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093f\u0921\u093c\u093f\u092f\u093e\"\nEnglish: \"clothes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u093f\u0927\u093e\u0928\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"lock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0932\u092a\u093e\u0936', '\u0924\u093e\u0932\u093e']",
+        "word original": "lock"
+    },
+    "['function', 'position', 'map', 'mapping', 'single-valued function', 'mathematical function', 'do', 'party']": {
+        "prompt": "English: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"tooth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0928\u0935 \u0926\u093e\u0901\u0924\"\nEnglish: \"gemstone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0924\u094d\u0928\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"bird\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093f\u0921\u093c\u093f\u092f\u093e\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092b\u0932\u0928', '\u092a\u094d\u0930\u0924\u093f\u091a\u093f\u0924\u094d\u0930\u0923', '\u0926\u093e\u0935\u0924']",
+        "word original": "map"
+    },
+    "['match', 'sporting event', 'sports competition', 'competitive sport', 'high-performance sport', 'friction match', 'lucifer']": {
+        "prompt": "English: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"tail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0924\u0921\u093c\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"match\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u0948\u091a', '\u092e\u093e\u091a\u093f\u0938']",
+        "word original": "match"
+    },
+    "['monkey']": {
+        "prompt": "English: \"dog\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0924\u094d\u0924\u093e\"\nEnglish: \"plough\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0902\u0917\u0932\"\nEnglish: \"toilet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u094c\u091a\u093e\u0932\u092f\"\nEnglish: \"stocking\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"monkey\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u0902\u0926\u0930']",
+        "word original": "monkey"
+    },
+    "['natural satellite', 'moon', 'moons']": {
+        "prompt": "English: \"cycle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u092f\u0915\u093f\u0932\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0930\u094d\u091a\"\nEnglish: \"monkey\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0902\u0926\u0930\"\nEnglish: \"pig\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0902\u0917\u0932\u0940 \u0938\u0942\u0905\u0930\"\nEnglish: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939']",
+        "word original": "moon"
+    },
+    "['mouth', 'oral cavity', 'oral fissure', 'rima oris', 'buccal cavity', 'vestibule of mouth']": {
+        "prompt": "English: \"mouse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0939\u093e\"\nEnglish: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"taking into custody\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940\"\nEnglish: \"boy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u0941\u0916', '\u092e\u0941\u0901\u0939']",
+        "word original": "mouth"
+    },
+    "['musculus', 'muscle']": {
+        "prompt": "English: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u093e\u0930\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"apple peel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u092c\"\nEnglish: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0916\u093f\u0921\u093c\u0915\u0940\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"musculus\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0947\u0936\u0940']",
+        "word original": "muscle"
+    },
+    "['fingernail', 'nail']": {
+        "prompt": "English: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"movie\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930\"\nEnglish: \"valley\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u093e\u091f\u0940 - \u092a\u0930\u094d\u0935\u0924\u094b\u0902 \u092f\u093e \u0909\u0924\u094d\u0925\u093f\u0924 \u092d\u093e\u0917\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0928\u093f\u091a\u0932\u0940 \u091c\u093c\u092e\u0940\u0928 \u0935\u093e\u0932\u093e \u0939\u093f\u0938\u094d\u0938\u093e, \u0932\u092e\u094d\u092c\u093e\u0908 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0935\u093e\u0932\u093e\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0928\u093e\u0916\u093c\u0941\u0928', '\u0928\u0916', '\u0928\u093e\u0916\u0942\u0928']",
+        "word original": "nail"
+    },
+    "['neck', 'Nixie', 'cervix', 'Cervix']": {
+        "prompt": "English: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"network\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0907\u0928\u094d\u091f\u0930\u0928\u0947\u091f\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092f\u093e\u0928\"\nEnglish: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u0930\u094d\u0926\u0928', '\u0917\u0930\u0926\u0928', '\u0915\u0902\u0920']",
+        "word original": "neck"
+    },
+    "['needle', 'sewing needle', 'hypodermic needle']": {
+        "prompt": "English: \"Sunday\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0935\u093f\u0935\u093e\u0930\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928\"\nEnglish: \"screw\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u091a\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"needle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u093f\u0932\u093e\u0908 \u0915\u0940 \u0938\u0942\u0908', '\u0938\u0942\u0908']",
+        "word original": "needle"
+    },
+    "['nerve', 'nervus']": {
+        "prompt": "English: \"musculus\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0936\u0940\"\nEnglish: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"street\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0930\u094d\u0917\"\nEnglish: \"goat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0915\u0930\u0940\"\nEnglish: \"brake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u094d\u0930\u0947\u0915\"\nEnglish: \"nerve\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u0902\u0924\u094d\u0930\u093f\u0915\u093e']",
+        "word original": "nerve"
+    },
+    "['network', 'Internet', 'computer network', 'internet', 'net', 'cyberspace', 'television broadcaster', 'television network', 'mesh', 'meshwork', 'meshing', 'knitting stitch']": {
+        "prompt": "English: \"poultry\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0915\u094d\u0915\u0941\u091f\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092e\u093e\u0936\u092f\"\nEnglish: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"network\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0907\u0928\u094d\u091f\u0930\u0928\u0947\u091f', '\u0938\u093e\u092f\u092c\u0930\u0938\u094d\u092a\u0947\u0938', '\u0905\u0902\u0924\u0930\u091c\u093e\u0932', '\u0907\u0902\u091f\u0930\u0928\u0947\u091f', '\u0905\u0902\u0924\u0930\u094d\u091c\u093e\u0932', '\u091c\u093e\u0932']",
+        "word original": "net"
+    },
+    "['nose', 'olfactory organ']": {
+        "prompt": "English: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u092e\u093e\u0936\u092f\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"nose\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0928\u093e\u0938\u093f\u0915\u093e', '\u0928\u093e\u0915']",
+        "word original": "nose"
+    },
+    "['nut', 'ballock', 'egg cell', 'testis', 'egg', 'orchis', 'ovum', 'ball', 'testicle', 'bollock', 'bollocks']": {
+        "prompt": "English: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"key\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0932\u0940\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092f\u093e\u0928\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0902\u0921', '\u0905\u0902\u0921\u0915\u094b\u0937', '\u0905\u0902\u0921\u093e', '\u0921\u093f\u0902\u092c', '\u092b\u093c\u094b\u0924\u093e']",
+        "word original": "nut"
+    },
+    "['agency', 'authority', 'office', 'federal agency', 'government agency', 'bureau', 'government office', 'means', 'way']": {
+        "prompt": "English: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"circle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0943\u0924\u094d\u0924\"\nEnglish: \"note\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0948\u0902\u0915 \u0915\u0947 \u0928\u094b\u091f\"\nEnglish: \"girl\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u0921\u093c\u0915\u0940\"\nEnglish: \"agency\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u092b\u093c\u094d\u0924\u0930', '\u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f', '\u090f\u091c\u0947\u0902\u0938\u0940', '\u092a\u094d\u0930\u093e\u0927\u093f\u0915\u093e\u0930']",
+        "word original": "office"
+    },
+    "['orangeness', 'orange']": {
+        "prompt": "English: \"boy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939\"\nEnglish: \"potato\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0906\u0932\u0942\"\nEnglish: \"cigar\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093f\u0917\u093e\u0930\"\nEnglish: \"library\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f\"\nEnglish: \"orangeness\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0928\u093e\u0930\u0902\u0917\u0940']",
+        "word original": "orange"
+    },
+    "['oven']": {
+        "prompt": "English: \"flag\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0927\u094d\u0935\u091c\"\nEnglish: \"apple peel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u092c\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"oven\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0913\u0935\u0928', '\u091a\u0942\u0932\u094d\u0939\u093e', '\u0924\u0928\u094d\u0926\u0942\u0930']",
+        "word original": "oven"
+    },
+    "['parcel', 'package', 'packet', 'bundle', 'share', 'portion']": {
+        "prompt": "English: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"leaf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0924\u094d\u0924\u093e\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u092a\u0928\u0926\u0940\"\nEnglish: \"thumb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"parcel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u0920\u0930\u0940', '\u092a\u0948\u0915\u0947\u091c', '\u092a\u0948\u0915\u0947\u091f', '\u0917\u0921\u094d\u0921\u0940']",
+        "word original": "parcel"
+    },
+    "['pen', 'penicillin']": {
+        "prompt": "English: \"parcel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0920\u0930\u0940\"\nEnglish: \"worm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0940\u0921\u093c\u093e\"\nEnglish: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0916\u093f\u0921\u093c\u0915\u0940\"\nEnglish: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u093e\u0930\"\nEnglish: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0940\u0935\u093e\u0930\"\nEnglish: \"pen\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0947\u0928\u093f\u0938\u093f\u0932\u093f\u0928', '\u0915\u093c\u0932\u092e', '\u092a\u0947\u0928', '\u0932\u0947\u0916\u0928\u0940']",
+        "word original": "pen"
+    },
+    "['pencil']": {
+        "prompt": "English: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940\"\nEnglish: \"shelf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0915\"\nEnglish: \"bridge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u0924\u0941\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u0926\u093e\"\nEnglish: \"pencil\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0947\u0928\u094d\u0938\u093f\u0932', '\u092a\u0947\u0902\u0938\u093f\u0932']",
+        "word original": "pencil"
+    },
+    "['movie', 'film', 'motion picture', 'motion-picture show', 'flick', 'moving picture', 'pic', 'picture', 'picture show', 'moving-picture show']": {
+        "prompt": "English: \"chin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0920\u094b\u0921\u093c\u0940\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0921\u093c\"\nEnglish: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u094b\u0902\u0920\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"movie\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092b\u093c\u093f\u0932\u094d\u092e']",
+        "word original": "picture"
+    },
+    "['pig', 'boar', 'wild hog', 'wild boar', 'Sus scrofa', 'wild pig', 'hog', 'grunter', 'squealer', 'Sus', 'pork', 'porc', 'pork meat', 'policeman', 'police officer', 'policewoman', 'cop', 'officer']": {
+        "prompt": "English: \"committee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u092e\u0947\u091f\u0940\"\nEnglish: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0908\u0902\u091f\"\nEnglish: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0916\u093f\u0921\u093c\u0915\u0940\"\nEnglish: \"sink\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0932 \u0930\u0928\u094d\u0927\u094d\u0930\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"pig\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0902\u0917\u0932\u0940 \u0938\u0942\u0905\u0930', '\u091c\u0902\u0917\u0932\u0940 \u0938\u0941\u0905\u0930', 'Sus scrofa', '\u0938\u0942\u0905\u0930', '\u0938\u0941\u0938', '\u0918\u0930\u0947\u0932\u0942 \u0938\u0941\u0905\u0930', 'Sus scrofa domestica', '\u0938\u0941\u0905\u0930 \u0915\u093e \u092e\u093e\u0902\u0938', '\u0938\u0942\u0905\u0930 \u0915\u093e \u092e\u093e\u0902\u0938', '\u0938\u0941\u0905\u0930 \u0915\u093e \u0917\u094b\u0936\u094d\u0924', '\u0938\u0941\u0905\u0930', '\u092a\u0941\u0932\u093f\u0938 \u0905\u0927\u093f\u0915\u093e\u0930\u0940', '\u092a\u0941\u0932\u093f\u0938\u0935\u093e\u0932\u093e', '\u0906\u0930\u0915\u094d\u0937\u0915', '\u092a\u0941\u0932\u093f\u0938\u092e\u0948\u0928']",
+        "word original": "pig"
+    },
+    "['duct', 'aqueduct', 'main pipe', 'conduit', 'water main', 'main', 'pipe', 'pipage', 'piping']": {
+        "prompt": "English: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"bucket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\u094d\u091f\u0940\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"duct\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0932\u0935\u093e\u0939\u0940 \u0938\u0947\u0924\u0941']",
+        "word original": "pipe"
+    },
+    "['aeroplane', 'aircraft', 'airplane', 'fixed-wing aircraft', 'plane']": {
+        "prompt": "English: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930\"\nEnglish: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0940\u0935\u093e\u0930\"\nEnglish: \"camera\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0948\u092e\u0930\u093e\"\nEnglish: \"hat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u094b\u092a\u0940\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0935\u093e\u092f\u0941\u092f\u093e\u0928', '\u0939\u0935\u093e\u0908 \u091c\u0939\u093e\u091c\u093c', '\u0935\u093e\u092f\u0941-\u092f\u093e\u0928', '\u0939\u0935\u093e\u0908 \u091c\u0939\u093e\u091c', '\u0935\u093f\u092e\u093e\u0928']",
+        "word original": "plane"
+    },
+    "['plough', 'plow']": {
+        "prompt": "English: \"valley\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u093e\u091f\u0940 - \u092a\u0930\u094d\u0935\u0924\u094b\u0902 \u092f\u093e \u0909\u0924\u094d\u0925\u093f\u0924 \u092d\u093e\u0917\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u0928\u093f\u091a\u0932\u0940 \u091c\u093c\u092e\u0940\u0928 \u0935\u093e\u0932\u093e \u0939\u093f\u0938\u094d\u0938\u093e, \u0932\u092e\u094d\u092c\u093e\u0908 \u092e\u0947\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0935\u093e\u0932\u093e\"\nEnglish: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u093e\u0930\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u092a\u0928\u0926\u0940\"\nEnglish: \"curtain\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u0926\u093e\"\nEnglish: \"sink\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0932 \u0930\u0928\u094d\u0927\u094d\u0930\"\nEnglish: \"plough\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0928\u093e\u0902\u0917\u0932', '\u0939\u0932']",
+        "word original": "plough"
+    },
+    "['pocket', 'trouser pocket']": {
+        "prompt": "English: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"clothes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u093f\u0927\u093e\u0928\"\nEnglish: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0947\u092c', '\u091a\u0947\u0926']",
+        "word original": "pocket"
+    },
+    "['toilet', 'can', 'lavatory', 'loo', 'commode', 'pot', 'throne', 'crapper', 'stool', 'potty', 'chamber pot', 'lav', 'privy', 'john', 'bathroom', 'washroom', 'restroom', 'bog', 'water closet', 'WC']": {
+        "prompt": "English: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u093e\u0930\"\nEnglish: \"lock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092a\u093e\u0936\"\nEnglish: \"needle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093f\u0932\u093e\u0908 \u0915\u0940 \u0938\u0942\u0908\"\nEnglish: \"apple peel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u092c\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"toilet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0936\u094c\u091a\u093e\u0932\u092f']",
+        "word original": "pot"
+    },
+    "['potato', 'tater', 'spud', 'murphy', 'white potato', 'Irish potato']": {
+        "prompt": "English: \"agency\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u092b\u093c\u094d\u0924\u0930\"\nEnglish: \"taking into custody\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940\"\nEnglish: \"scissors\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u0948\u0902\u091a\u0940\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"cup\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u092a\"\nEnglish: \"potato\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0906\u0932\u0942', 'Solanum tuberosum']",
+        "word original": "potato"
+    },
+    "['jail', 'prison', 'gaol', 'lockup', 'prison house', 'jailhouse', 'slammer', 'clink', 'pokey', 'poky']": {
+        "prompt": "English: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0932\u093e\"\nEnglish: \"jail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0947\u0932', '\u0915\u093e\u0930\u093e\u0917\u093e\u0930']",
+        "word original": "prison"
+    },
+    "['mouse', 'rat', 'Mus', 'computer mouse']": {
+        "prompt": "English: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u092f\"\nEnglish: \"street\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0930\u094d\u0917\"\nEnglish: \"baby\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u091a\u094d\u091a\u093e\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"mouse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u0942\u0939\u093e', '\u092e\u0942\u0937\u0915', '\u092e\u093e\u0909\u0938']",
+        "word original": "rat"
+    },
+    "['note', 'banknote', 'bill', 'bank note', 'greenback', 'bank bill', \"banker's bill\", 'Federal Reserve note', 'government note', 'Greenback', 'letter', 'missive', 'receipt', 'invoice', 'account', 'commentary', 'comment']": {
+        "prompt": "English: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"potato\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0906\u0932\u0942\"\nEnglish: \"goat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0915\u0930\u0940\"\nEnglish: \"note\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092c\u0948\u0902\u0915 \u0915\u0947 \u0928\u094b\u091f', '\u091a\u093f\u091f\u094d\u091f\u0940', '\u092a\u0924\u094d\u0930', '\u092c\u093f\u0932', '\u091a\u093e\u0932\u093e\u0928', '\u092c\u0940\u091c\u0915', '\u0907\u0928\u0935\u0949\u0907\u0938']",
+        "word original": "receipt"
+    },
+    "['corporal punishment']": {
+        "prompt": "English: \"plough\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0902\u0917\u0932\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"parcel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0920\u0930\u0940\"\nEnglish: \"computer memory\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0938\u094d\u092e\u0943\u0924\u093f\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"corporal punishment\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u0926\u0923\u094d\u0921']",
+        "word original": "rod"
+    },
+    "['roof']": {
+        "prompt": "English: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0930\u094d\u091a\"\nEnglish: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"farm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093e\u0930\u094d\u092e\"\nEnglish: \"isle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u0940\u092a\"\nEnglish: \"roof\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091b\u0924']",
+        "word original": "roof"
+    },
+    "['sailing ship', 'sail', 'sailing vessel']": {
+        "prompt": "English: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"seed\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u093e\u0928\u093e\"\nEnglish: \"clothes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0930\u093f\u0927\u093e\u0928\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"sailing ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u093e\u0932-\u0928\u094c\u0915\u093e', '\u092a\u093e\u0932\u091a\u0932\u093f\u0924 \u091c\u0939\u093e\u091c\u093c']",
+        "word original": "sail"
+    },
+    "['school', 'university', 'academy', 'faculty', 'staff', 'honorary society']": {
+        "prompt": "English: \"star\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0930\u093e\"\nEnglish: \"computer memory\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0938\u094d\u092e\u0943\u0924\u093f\"\nEnglish: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"knee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0941\u091f\u0928\u093e\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f', '\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f', '\u0938\u094d\u0915\u0942\u0932', '\u092a\u093e\u0920\u0936\u093e\u0932\u093e', '\u092e\u0926\u094d\u0930\u0938\u093e', '\u0938\u0902\u0915\u093e\u092f', '\u092b\u0948\u0915\u0932\u094d\u091f\u0940', '\u0905\u0915\u093e\u0926\u092e\u0940', '\u0915\u093e\u0932\u093f\u091c', '\u0935\u0940\u0926\u094d\u092f\u093e\u092a\u0940\u0920', '\u091c\u093e\u092e\u093f\u092f\u093e', '\u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940', '\u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f', '\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0928\u093f\u0932\u092f', '\u0935\u093f\u0926\u094d\u092f\u093e\u092a\u0940\u0920']",
+        "word original": "school"
+    },
+    "['scissors', 'pair of scissors']": {
+        "prompt": "English: \"stocking\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092f\u093e\u0928\"\nEnglish: \"mouse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0939\u093e\"\nEnglish: \"scissors\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u093c\u0948\u0902\u091a\u0940', '\u0915\u0948\u0902\u091a\u0940']",
+        "word original": "scissors"
+    },
+    "['screw', 'wood screw']": {
+        "prompt": "English: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u0942\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"screw\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0947\u091a', '\u092a\u0947\u0902\u091a']",
+        "word original": "screw"
+    },
+    "['seed']": {
+        "prompt": "English: \"match\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0948\u091a\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"identity card\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0939\u091a\u093e\u0928 \u092a\u0924\u094d\u0930\"\nEnglish: \"chin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0920\u094b\u0921\u093c\u0940\"\nEnglish: \"seed\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u093e\u0928\u093e', '\u092c\u0940\u091c']",
+        "word original": "seed"
+    },
+    "['domestic sheep', 'sheep', 'ovine', 'Ovis aries', 'domesticated sheep']": {
+        "prompt": "English: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"parcel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0920\u0930\u0940\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e\"\nEnglish: \"domestic sheep\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092d\u0947\u0921\u093c', 'Ovis aries']",
+        "word original": "sheep"
+    },
+    "['shelf']": {
+        "prompt": "English: \"horse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0921\u093c\u093e\"\nEnglish: \"roof\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u0924\"\nEnglish: \"monkey\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0902\u0926\u0930\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"shelf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u093e\u0915', '\u0924\u0916\u093c\u094d\u0924\u093e']",
+        "word original": "shelf"
+    },
+    "['ship']": {
+        "prompt": "English: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"boot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0924\"\nEnglish: \"Sunday\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0935\u093f\u0935\u093e\u0930\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091c\u0932\u092f\u093e\u0928']",
+        "word original": "ship"
+    },
+    "['shirt']": {
+        "prompt": "English: \"roof\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u0924\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"star\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0930\u093e\"\nEnglish: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"skirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u0915\u0930\u094d\u091f\"\nEnglish: \"shirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u093c\u092e\u0940\u091c\u093c']",
+        "word original": "shirt"
+    },
+    "['shoe']": {
+        "prompt": "English: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"thumb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"ring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0901\u0917\u0942\u0920\u0940\"\nEnglish: \"spoon\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u092e\u094d\u092e\u091a\"\nEnglish: \"street\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0930\u094d\u0917\"\nEnglish: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0936\u0942', '\u091c\u0942\u0924\u093e']",
+        "word original": "tongue"
+    },
+    "['skin', 'tegument', 'cutis', 'Cutis']": {
+        "prompt": "English: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"nut\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0921\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"pen\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0928\u093f\u0938\u093f\u0932\u093f\u0928\"\nEnglish: \"shirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u092e\u0940\u091c\u093c\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u094d\u0935\u091a\u093e']",
+        "word original": "skin"
+    },
+    "['skirt']": {
+        "prompt": "English: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"cornet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0941\u0930\u0939\u0940\"\nEnglish: \"nose\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0938\u093f\u0915\u093e\"\nEnglish: \"skirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u094d\u0915\u0930\u094d\u091f']",
+        "word original": "skirt"
+    },
+    "['snake', 'serpent', 'ophidian']": {
+        "prompt": "English: \"corporal punishment\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u0926\u0923\u094d\u0921\"\nEnglish: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"bath\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0925\u0930\u0942\u092e\"\nEnglish: \"nerve\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0902\u0924\u094d\u0930\u093f\u0915\u093e\"\nEnglish: \"armed forces\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u0915\u0930\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u093e\u0901\u092a', '\u0938\u0930\u094d\u092a', '\u0928\u093e\u0917']",
+        "word original": "snake"
+    },
+    "['sock']": {
+        "prompt": "English: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"scissors\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u0948\u0902\u091a\u0940\"\nEnglish: \"cigar\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093f\u0917\u093e\u0930\"\nEnglish: \"snake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u0901\u092a\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u094b\u091c\u093c\u093e']",
+        "word original": "sock"
+    },
+    "['marine sponge', 'sponges', 'poriferan', 'sponge', 'parazoan', 'Porifera']": {
+        "prompt": "English: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940\"\nEnglish: \"cornet\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0941\u0930\u0939\u0940\"\nEnglish: \"thumb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"marine sponge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u094d\u092a\u0902\u091c', 'Porifera']",
+        "word original": "sponge"
+    },
+    "['spoon']": {
+        "prompt": "English: \"boxes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"m\"\nEnglish: \"clock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0921\u093c\u0940\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"lips\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u094b\u0902\u0920\"\nEnglish: \"spoon\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u092e\u094d\u092e\u091a', '\u091a\u092e\u094d\u091a\u093e', '\u091a\u092e\u091a\u093e']",
+        "word original": "spoon"
+    },
+    "['spring', 'outpouring', 'outflow', 'fountain', 'natural spring', 'season', 'time of year', 'springtime']": {
+        "prompt": "English: \"brick\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0908\u0902\u091f\"\nEnglish: \"bone\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0921\u094d\u0921\u0940\"\nEnglish: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u093e\u0924\u093e\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"spring\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u093e\u0928\u0940 \u0915\u093e \u091a\u0936\u094d\u092e\u093e', '\u091a\u0936\u094d\u092e\u093e', '\u090b\u0924\u0941', '\u092e\u094c\u0938\u092e', '\u092c\u0938\u0902\u0924', '\u092c\u0939\u093e\u0930', '\u0935\u0938\u0902\u0924', '\u0935\u0938\u0928\u094d\u0924 \u090b\u0924\u0941', '\u0915\u092e\u093e\u0928\u0940']",
+        "word original": "spring"
+    },
+    "['square', 'town square', 'public square', 'foursquare', 'second power']": {
+        "prompt": "English: \"match\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0948\u091a\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"hand\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0915\u094d\u0937\u0930\u093e\u0902\u0915\u0928\"\nEnglish: \"mouth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0916\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"square\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0935\u0930\u094d\u0917', '\u091a\u094c\u0915', '\u0935\u0930\u094d\u0917\u093e\u0915\u093e\u0930']",
+        "word original": "square"
+    },
+    "['stamp', 'postage', 'postage stamp', 'seal ring', 'signet ring', 'seal']": {
+        "prompt": "English: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\"\nEnglish: \"mouse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0939\u093e\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"stamp\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091f\u093f\u0915\u091f', '\u0921\u093e\u0915 \u091f\u093f\u0915\u091f', '\u0921\u093e\u0915-\u091f\u093f\u0915\u091f', '\u0938\u094d\u091f\u093e\u092e\u094d\u092a', '\u0921\u093e\u0915 \u0915\u093e \u091f\u093f\u0915\u091f', '\u092e\u0941\u0939\u0930', '\u0938\u0947\u0905\u0932\u094d', '\u092e\u094b\u0939\u0930']",
+        "word original": "stamp"
+    },
+    "['star', 'asterisk', 'superstar', 'maven', 'intenditore', 'wiz', 'champion', 'whiz', 'mavin', 'hotshot', 'wizard', 'adept', 'genius', 'ace', 'virtuoso', 'sensation', 'whizz', 'Maven', 'principal', 'lead']": {
+        "prompt": "English: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"angle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094b\u0923\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"seed\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u093e\u0928\u093e\"\nEnglish: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0916\u093f\u0921\u093c\u0915\u0940\"\nEnglish: \"star\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u093e\u0930\u093e', '*', '\u0938\u0941\u092a\u0930\u0938\u093f\u0924\u093e\u0930\u093e', '\u0938\u093f\u0924\u093e\u0930\u093e', '\u092a\u094d\u0930\u0935\u0940\u0923', '\u0938\u094d\u091f\u093e\u0930', '\u0938\u0941\u092a\u0930\u0938\u094d\u091f\u093e\u0930']",
+        "word original": "star"
+    },
+    "['stem', 'stalk', 'plant stem']": {
+        "prompt": "English: \"isle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u0940\u092a\"\nEnglish: \"garden\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0917\"\nEnglish: \"pussy\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093f\u0932\u094d\u0932\u0940\"\nEnglish: \"arch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u093e\u092a\"\nEnglish: \"plough\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0902\u0917\u0932\"\nEnglish: \"stem\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u0928\u093e']",
+        "word original": "stem"
+    },
+    "['cigar']": {
+        "prompt": "English: \"weapon\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0925\u093f\u092f\u093e\u0930\"\nEnglish: \"hen's egg\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0923\u094d\u0921\u093e\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"brush\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u094d\u0937\u0941\u092a\u092d\u0942\u092e\u093f\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"cigar\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u093f\u0917\u093e\u0930']",
+        "word original": "stick"
+    },
+    "['stocking', 'stockings']": {
+        "prompt": "English: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"jacket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0948\u0915\u0947\u091f\"\nEnglish: \"stocking\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u094b\u091c\u093c\u093e']",
+        "word original": "stocking"
+    },
+    "['stomach', 'breadbasket', 'tummy', 'tum', 'body of stomach']": {
+        "prompt": "English: \"tooth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u093e\u0928\u0935 \u0926\u093e\u0901\u0924\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u092a\u0928\u0926\u0940\"\nEnglish: \"bridge\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u0924\u0941\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"pig\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0902\u0917\u0932\u0940 \u0938\u0942\u0905\u0930\"\nEnglish: \"stomach\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u092e\u093e\u0936\u092f', '\u0906\u092e\u093e\u0936\u092f']",
+        "word original": "stomach"
+    },
+    "['computer memory', 'computer storage', 'computer data storage', 'storage', 'memory', 'memory board', 'store']": {
+        "prompt": "English: \"stem\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0928\u093e\"\nEnglish: \"fork\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0909\u092a\u0928\u0926\u0940\"\nEnglish: \"neck\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u0930\u094d\u0926\u0928\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0902\u091f\u0930\"\nEnglish: \"knife\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091b\u0941\u0930\u0940\"\nEnglish: \"computer memory\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u0938\u094d\u092e\u0943\u0924\u093f']",
+        "word original": "store"
+    },
+    "['street']": {
+        "prompt": "English: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0921\u093c\"\nEnglish: \"human body\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0928\u093e\u0935\u091f\"\nEnglish: \"face\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0941\u0926\u094d\u0930\u0932\u093f\u092a\u093f\"\nEnglish: \"sock\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u094b\u091c\u093c\u093e\"\nEnglish: \"farm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093e\u0930\u094d\u092e\"\nEnglish: \"street\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u093e\u0930\u094d\u0917']",
+        "word original": "street"
+    },
+    "['Sunday', 'Sun', \"Lord's Day\", 'Dominicus']": {
+        "prompt": "English: \"scissors\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u0948\u0902\u091a\u0940\"\nEnglish: \"head\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0928\"\nEnglish: \"corporal punishment\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u0926\u0923\u094d\u0921\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"musculus\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0947\u0936\u0940\"\nEnglish: \"Sunday\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0930\u0935\u093f\u0935\u093e\u0930', '\u0906\u0926\u093f\u0924\u094d\u092f\u0935\u093e\u0930', '\u0907\u0924\u0935\u093e\u0930', '\u090f\u0924\u0935\u093e\u0930', '\u0938\u0942\u0930\u094d\u092f\u0935\u093e\u0930', '\u092d\u093e\u0928\u0941\u0935\u093e\u0930']",
+        "word original": "sun"
+    },
+    "['tail', 'nates', 'prat', 'fundament', 'ass cheek', 'tooshie', 'fanny', 'rear end', 'arse', 'can', 'seat', 'tush', 'hindquarters', 'derriere', 'tail end', 'hind end', 'bum', 'bottom', 'backside', 'buttocks', 'posterior', 'rump', 'butt', 'stern', 'rear', 'buns', 'butt cheek', 'ass', 'buttock', 'keister', 'behind', 'Anteversion']": {
+        "prompt": "English: \"cycle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u093e\u092f\u0915\u093f\u0932\"\nEnglish: \"fingernail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0916\u093c\u0941\u0928\"\nEnglish: \"human foot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0930\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"fish\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u091b\u0932\u0940\"\nEnglish: \"tail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091a\u0942\u0924\u0921\u093c', '\u0928\u093f\u0924\u092e\u094d\u092c', '\u0926\u0941\u092e', '\u092a\u0942\u0902\u091b', '\u092a\u0942\u0901\u091b', '\u092a\u0941\u091a\u094d\u091b']",
+        "word original": "tail"
+    },
+    "['thread', 'yarn', 'string', 'twine']": {
+        "prompt": "English: \"taking into custody\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940\"\nEnglish: \"clinic\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u092a\u0924\u093e\u0932\"\nEnglish: \"leaf\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0924\u094d\u0924\u093e\"\nEnglish: \"button\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"Curling\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0924\u093e\u0917\u093e', '\u0938\u0942\u0924', '\u0927\u093e\u0917\u093e', '\u0924\u0902\u0924', '\u0924\u093e\u0901\u0924', '\u0938\u0942\u0924\u094d\u0930', '\u0921\u094b\u0930\u093e', '\u0924\u0928\u094d\u0924\u0941', '\u0924\u093e\u0930']",
+        "word original": "thread"
+    },
+    "['throat', 'pharynx']": {
+        "prompt": "English: \"shoe\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u0942\"\nEnglish: \"taking into custody\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940\"\nEnglish: \"star\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0930\u093e\"\nEnglish: \"heart\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0943\u0926\u092f\"\nEnglish: \"bell\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u0902\u091f\u0940\"\nEnglish: \"throat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0917\u0932\u093e']",
+        "word original": "throat"
+    },
+    "['thumb', 'pollex']": {
+        "prompt": "English: \"comb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0902\u0918\u093e\"\nEnglish: \"nose\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0938\u093f\u0915\u093e\"\nEnglish: \"motor\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u092e\u094b\u091f\u0930\"\nEnglish: \"dog\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0941\u0924\u094d\u0924\u093e\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"thumb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0905\u0902\u0917\u0942\u0920\u093e', '\u0905\u0902\u0917\u0941\u0937\u094d\u0920']",
+        "word original": "thumb"
+    },
+    "['toes', 'baby toe', 'toe', 'little toe', 'pinky toe', 'fifth toe', 'second toe', 'third toe']": {
+        "prompt": "English: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939\"\nEnglish: \"star\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0930\u093e\"\nEnglish: \"gun\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094b\u092a\u0916\u093c\u093e\u0928\u093e\"\nEnglish: \"economics\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0930\u094d\u0925\u0936\u093e\u0938\u094d\u0924\u094d\u0930\"\nEnglish: \"tail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0942\u0924\u0921\u093c\"\nEnglish: \"toes\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u093e\u0901\u0935 \u0915\u093e \u0905\u0902\u0917\u0942\u0920\u093e']",
+        "word original": "toe"
+    },
+    "['tooth', 'teeth', 'human tooth']": {
+        "prompt": "English: \"sword\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0932\u0935\u093e\u0930\"\nEnglish: \"thumb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0902\u0917\u0942\u0920\u093e\"\nEnglish: \"thread\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u093e\u0917\u093e\"\nEnglish: \"bucket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\u094d\u091f\u0940\"\nEnglish: \"aeroplane\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093e\u092f\u0941\u092f\u093e\u0928\"\nEnglish: \"tooth\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092e\u093e\u0928\u0935 \u0926\u093e\u0901\u0924', '\u0926\u093e\u0901\u0924']",
+        "word original": "tooth"
+    },
+    "['passenger train', 'train', 'railroad train']": {
+        "prompt": "English: \"corporal punishment\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u0926\u0923\u094d\u0921\"\nEnglish: \"glove\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0938\u094d\u0924\u093e\u0928\u093e\"\nEnglish: \"clinic\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u092a\u0924\u093e\u0932\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\"\nEnglish: \"natural satellite\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0909\u092a\u0917\u094d\u0930\u0939\"\nEnglish: \"passenger train\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0930\u0947\u0932\u0917\u093e\u0921\u093c\u0940']",
+        "word original": "train"
+    },
+    "['tree']": {
+        "prompt": "English: \"hair\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\"\nEnglish: \"fly\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0921\u093f\u092a\u094d\u091f\u0947\u0930\u093e\"\nEnglish: \"orangeness\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0930\u0902\u0917\u0940\"\nEnglish: \"pocket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u092c\"\nEnglish: \"boat\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u0947\u0921\u093c\u0940\"\nEnglish: \"tree\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0947\u0921\u093c', '\u0935\u0943\u0915\u094d\u0937']",
+        "word original": "tree"
+    },
+    "['pants', 'trousers', 'pair of trousers', 'pant', 'trouser']": {
+        "prompt": "English: \"nose\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0928\u093e\u0938\u093f\u0915\u093e\"\nEnglish: \"hammer\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0939\u0947\u0930\u094b\u0907\u0928\"\nEnglish: \"hen's egg\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0923\u094d\u0921\u093e\"\nEnglish: \"chest\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0902\u0926\u0942\u0915\u093c\"\nEnglish: \"duct\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u0935\u093e\u0939\u0940 \u0938\u0947\u0924\u0941\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0948\u0902\u091f']",
+        "word original": "trousers"
+    },
+    "['umbrella']": {
+        "prompt": "English: \"apple peel\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u0947\u092c\"\nEnglish: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0940\u0935\u093e\u0930\"\nEnglish: \"book\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093f\u0924\u093e\u092c\"\nEnglish: \"function\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u0932\u0928\"\nEnglish: \"stamp\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091f\u093f\u0915\u091f\"\nEnglish: \"umbrella\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u091b\u093e\u0924\u093e']",
+        "word original": "umbrella"
+    },
+    "['wall']": {
+        "prompt": "English: \"horse\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0918\u094b\u0921\u093c\u093e\"\nEnglish: \"bucket\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092c\u093e\u0932\u094d\u091f\u0940\"\nEnglish: \"pin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u092f\u093e\"\nEnglish: \"clinic\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0905\u0938\u094d\u092a\u0924\u093e\u0932\"\nEnglish: \"school\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\"\nEnglish: \"wall\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0926\u0940\u0935\u093e\u0930']",
+        "word original": "wall"
+    },
+    "['watch', 'wrist watch', 'wristwatch', 'ticker']": {
+        "prompt": "English: \"wing\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0915\u094d\u0937\"\nEnglish: \"skirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0938\u094d\u0915\u0930\u094d\u091f\"\nEnglish: \"taking into custody\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093f\u0930\u092b\u093c\u094d\u0924\u093e\u0930\u0940\"\nEnglish: \"committee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u092e\u0947\u091f\u0940\"\nEnglish: \"stem\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u0928\u093e\"\nEnglish: \"watch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0935\u0949\u091a', '\u0918\u0921\u093c\u0940', '\u0918\u0921\u0940']",
+        "word original": "watch"
+    },
+    "['cycle', 'bicycle', 'bike', 'wheel', 'round', 'rhythm']": {
+        "prompt": "English: \"flag\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0927\u094d\u0935\u091c\"\nEnglish: \"girl\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u0921\u093c\u0915\u0940\"\nEnglish: \"sailing ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u093e\u0932-\u0928\u094c\u0915\u093e\"\nEnglish: \"skin\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0924\u094d\u0935\u091a\u093e\"\nEnglish: \"picture\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093f\u0932\u094d\u092e\"\nEnglish: \"cycle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0938\u093e\u092f\u0915\u093f\u0932', '\u0938\u093e\u0907\u0915\u0932', '\u092a\u0948\u0930\u0917\u093e\u0921\u093c\u0940', '\u0938\u093e\u0907\u0915\u093f\u0932']",
+        "word original": "wheel"
+    },
+    "['whip']": {
+        "prompt": "English: \"ear\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093e\u0928\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"watch\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0935\u0949\u091a\"\nEnglish: \"ship\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0932\u092f\u093e\u0928\"\nEnglish: \"shirt\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u093c\u092e\u0940\u091c\u093c\"\nEnglish: \"whip\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0939\u0902\u091f\u0930', '\u0915\u094b\u0921\u093c\u093e', '\u091a\u093e\u092c\u0941\u0915']",
+        "word original": "whip"
+    },
+    "['sill', 'window ledge', 'window', 'window sill', 'ledge-sill']": {
+        "prompt": "English: \"cake\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0915\"\nEnglish: \"television\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u0942\u0930\u0926\u0930\u094d\u0936\u0928\"\nEnglish: \"knot\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0902\u0920\"\nEnglish: \"pants\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092a\u0948\u0902\u091f\"\nEnglish: \"bee\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092e\u0927\u0941\u092e\u0915\u094d\u0916\u0940\"\nEnglish: \"sill\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0916\u093f\u0921\u093c\u0915\u0940']",
+        "word original": "window"
+    },
+    "['wing']": {
+        "prompt": "English: \"church\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091a\u0930\u094d\u091a\"\nEnglish: \"door case\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0926\u094d\u0935\u093e\u0930\"\nEnglish: \"pig\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0902\u0917\u0932\u0940 \u0938\u0942\u0905\u0930\"\nEnglish: \"Sunday\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0930\u0935\u093f\u0935\u093e\u0930\"\nEnglish: \"teakettle\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0915\u0947\u0924\u0932\u0940\"\nEnglish: \"wing\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u092a\u0915\u094d\u0937']",
+        "word original": "wing"
+    },
+    "['worm', 'European dragon']": {
+        "prompt": "English: \"farm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u092b\u093c\u093e\u0930\u094d\u092e\"\nEnglish: \"jail\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u091c\u0947\u0932\"\nEnglish: \"carriage\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u0921\u093c\u0940\"\nEnglish: \"cow\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0917\u093e\u092f\"\nEnglish: \"lightbulb\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"\u0932\u093e\u0908\u091f \u092c\u0932\u094d\u092c\"\nEnglish: \"worm\" - \u0939\u093f\u0928\u094d\u0926\u0940: \"",
+        "target": "['\u0915\u0940\u0921\u093c\u093e']",
+        "word original": "worm"
+    }
+}

@@ -1,0 +1,862 @@
+{
+    "['hoek', 'aanliggende hoek', 'aanliggend', 'invalshoek', 'straathoek']": {
+        "prompt": "Nederlands: \"comit\u00e9\" - Fran\u00e7ais: \"commission\"\nNederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"kam\" - Fran\u00e7ais: \"cr\u00eate\"\nNederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"hoek\" - Fran\u00e7ais: \"",
+        "target": "['angle', 'angles oppos\u00e9s par le sommet', 'angles suppl\u00e9mentaires', 'angles adjacents', 'angles compl\u00e9mentaires', 'coin', 'coin de rue']",
+        "word original": "angle"
+    },
+    "['mier', 'mieren']": {
+        "prompt": "Nederlands: \"maag\" - Fran\u00e7ais: \"estomac\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"sonnette\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"lover\" - Fran\u00e7ais: \"feuillage\"\nNederlands: \"mier\" - Fran\u00e7ais: \"",
+        "target": "['fourmi', 'Formicidae']",
+        "word original": "ant"
+    },
+    "['appelschil', 'appel']": {
+        "prompt": "Nederlands: \"knie\" - Fran\u00e7ais: \"genou\"\nNederlands: \"kaas\" - Fran\u00e7ais: \"fromage\"\nNederlands: \"gevogelte\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"oranje\" - Fran\u00e7ais: \"citrouille\"\nNederlands: \"vogel\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"appelschil\" - Fran\u00e7ais: \"",
+        "target": "['peau de pomme', 'pomme']",
+        "word original": "apple"
+    },
+    "['boog', 'boog en pijlen', 'pijl en boog', 'schietboog', 'vonk', 'vlamboog']": {
+        "prompt": "Nederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"honkbal\" - Fran\u00e7ais: \"baseball\"\nNederlands: \"mes\" - Fran\u00e7ais: \"couteau\"\nNederlands: \"boog\" - Fran\u00e7ais: \"",
+        "target": "['arc', 'arc \u00e0 fl\u00e8che', 'arc et fl\u00e8che', 'arc \u00e9lectrique', '\u00e9tincelle \u00e9lectrique', 'd\u00e9charge \u00e9lectrique', 'Arc \u00e9lectrique', 'arc \u00e0 fl\u00e8ches']",
+        "word original": "arch"
+    },
+    "['wapen', 'blazonry', 'heraldisch wapen', 'rijkswapen', 'blazoen', 'staatswapen', 'wapenschild', 'gevechtswapen', 'strijdmiddel', 'ammunitie', 'munitie']": {
+        "prompt": "Nederlands: \"pijp\" - Fran\u00e7ais: \"conduite principale\"\nNederlands: \"bakoven\" - Fran\u00e7ais: \"four\"\nNederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"factuur\" - Fran\u00e7ais: \"anicroche\"\nNederlands: \"varken\" - Fran\u00e7ais: \"porc\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"",
+        "target": "['blasonnement', 'blason', 'armes', 'armoiries', 'arme', \"syst\u00e8me d'armes\"]",
+        "word original": "arm"
+    },
+    "['strijdkrachten', 'weermacht', 'krijgsmacht', 'leger', 'strijdmacht', 'troepen', 'heerschaar', 'troep', 'landleger', 'manschappen', 'troepenmacht', 'landmacht', 'landstrijdkrachten', 'heir', 'armee', 'legerschaar', 'arm\u00e9e', 'reguliere krijgsmacht', 'heer']": {
+        "prompt": "Nederlands: \"factuur\" - Fran\u00e7ais: \"anicroche\"\nNederlands: \"gebitselement\" - Fran\u00e7ais: \"dents\"\nNederlands: \"kop\" - Fran\u00e7ais: \"chevelure\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"strijdkrachten\" - Fran\u00e7ais: \"",
+        "target": "['forces arm\u00e9es', 'arm\u00e9e', 'machine de guerre', 'troupes', 'arm\u00e9e de terre', 'Arm\u00e9e r\u00e9guli\u00e8re', 'arm\u00e9e r\u00e9guli\u00e8re']",
+        "word original": "army"
+    },
+    "['baby', 'zuigeling', 'kleintje', 'infant', 'kleine', 'b\u00e9b\u00e9', 'kindje']": {
+        "prompt": "Nederlands: \"appelschil\" - Fran\u00e7ais: \"peau de pomme\"\nNederlands: \"strijdkrachten\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"bibliotheek\" - Fran\u00e7ais: \"librairie\"\nNederlands: \"maan\" - Fran\u00e7ais: \"satellite artificiel\"\nNederlands: \"baby\" - Fran\u00e7ais: \"",
+        "target": "['nourrisson', 'nourisson', 'b\u00e9b\u00e9', 'enfant en bas \u00e2ge', 'poupon', 'enfant']",
+        "word original": "baby"
+    },
+    "['tas', 'handtas', 'Handtas', 'tasje', 'kop', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'zak', 'papieren tas', 'buil']": {
+        "prompt": "Nederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"kat\" - Fran\u00e7ais: \"minou\"\nNederlands: \"trompet\" - Fran\u00e7ais: \"citaro\"\nNederlands: \"bakoven\" - Fran\u00e7ais: \"four\"\nNederlands: \"boot\" - Fran\u00e7ais: \"navire\"\nNederlands: \"tas\" - Fran\u00e7ais: \"",
+        "target": "['sac \u00e0 main', 'porte-monnaie', 'tasse', 'verre', 'coupe', 'sac', 'sac plastique', 'sac de caisse', 'sac en papier']",
+        "word original": "bag"
+    },
+    "['honkbal']": {
+        "prompt": "Nederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"toilet\" - Fran\u00e7ais: \"toilette\"\nNederlands: \"edelsteen\" - Fran\u00e7ais: \"joyau\"\nNederlands: \"honkbal\" - Fran\u00e7ais: \"",
+        "target": "['baseball']",
+        "word original": "ball"
+    },
+    "['ring', 'Rocade', 'sluipweg', 'ringweg', 'rondweg', 'wegomleiding']": {
+        "prompt": "Nederlands: \"kop\" - Fran\u00e7ais: \"chevelure\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"val\" - Fran\u00e7ais: \"pi\u00e9geage\"\nNederlands: \"ring\" - Fran\u00e7ais: \"",
+        "target": "['ceinture p\u00e9riph\u00e9rique', 'p\u00e9riph\u00e9rique', 'd\u00e9viation', 'contournement', 'rocade', 'anneau', 'bague']",
+        "word original": "ring"
+    },
+    "['bassin', 'stuwmeer', 'spaarbekken', 'waterbekken', 'waterbassin', 'waterreservoir', 'wastafel', 'bekken', 'gootsteen', 'afwasbak', 'dok']": {
+        "prompt": "Nederlands: \"muizen en ratten van de Oude Wereld\" - Fran\u00e7ais: \"souris\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"schaar\" - Fran\u00e7ais: \"crustac\u00e9\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"",
+        "target": "['lac artificiel', 'bassin de retenue', 'lac de barrage', 'r\u00e9servoir', \"r\u00e9servoir d'eau\", 'barrage', 'lavabo', '\u00e9vier', 'darse']",
+        "word original": "basin"
+    },
+    "['wasgelegenheid', 'badkamer', 'badkuip', 'bad']": {
+        "prompt": "Nederlands: \"schip\" - Fran\u00e7ais: \"navire\"\nNederlands: \"fotocamera\" - Fran\u00e7ais: \"appareil photographique\"\nNederlands: \"vork\" - Fran\u00e7ais: \"intersection\"\nNederlands: \"vogel\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"bibliotheek\" - Fran\u00e7ais: \"librairie\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"",
+        "target": "['salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'toilette']",
+        "word original": "bath"
+    },
+    "['bij', 'honingbij', 'imme', 'bijen']": {
+        "prompt": "Nederlands: \"knoop\" - Fran\u00e7ais: \"n\u0153ud\"\nNederlands: \"zwavelstokje\" - Fran\u00e7ais: \"allumette\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"vel\" - Fran\u00e7ais: \"peau\"\nNederlands: \"bij\" - Fran\u00e7ais: \"",
+        "target": "['abeille']",
+        "word original": "bee"
+    },
+    "['deurbel', 'bel', 'zoemer', 'huisbel', 'klingel', 'schel', 'door Bell', 'ding-dong']": {
+        "prompt": "Nederlands: \"functie\" - Fran\u00e7ais: \"fonction\"\nNederlands: \"lijfstraf\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"factuur\" - Fran\u00e7ais: \"anicroche\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"",
+        "target": "['sonnette']",
+        "word original": "bell"
+    },
+    "['vogel', 'vogels', 'Eu-', 'vogeltje']": {
+        "prompt": "Nederlands: \"trein\" - Fran\u00e7ais: \"train\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"pluim\" - Fran\u00e7ais: \"plumage\"\nNederlands: \"vogel\" - Fran\u00e7ais: \"",
+        "target": "['oiseau']",
+        "word original": "bird"
+    },
+    "['zwaard', 'degen']": {
+        "prompt": "Nederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"poort\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"hond\" - Fran\u00e7ais: \"chien\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9p\u00e9e', 'glaive', 'lame']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'commissie', 'kamer', 'cie', 'college']": {
+        "prompt": "Nederlands: \"factuur\" - Fran\u00e7ais: \"anicroche\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"comit\u00e9\" - Fran\u00e7ais: \"",
+        "target": "['commission']",
+        "word original": "board"
+    },
+    "['boot', 'schip', 'kiel', 'laars', 'bot', 'laarsje']": {
+        "prompt": "Nederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"kleine teen\" - Fran\u00e7ais: \"orteil\"\nNederlands: \"zak\" - Fran\u00e7ais: \"renvoi\"\nNederlands: \"zenuw\" - Fran\u00e7ais: \"nerf\"\nNederlands: \"pluim\" - Fran\u00e7ais: \"plumage\"\nNederlands: \"boot\" - Fran\u00e7ais: \"",
+        "target": "['navire', 'bateau', 'nacelle', 'barque', 'canot', 'bottine', 'botte', 'soulier', 'chaussure']",
+        "word original": "boat"
+    },
+    "['knok', 'been', 'bot', 'knook', 'beenweefsel', 'botje', 'graat']": {
+        "prompt": "Nederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"schaar\" - Fran\u00e7ais: \"crustac\u00e9\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"gloeilamp\" - Fran\u00e7ais: \"ampoule\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"organisme\"\nNederlands: \"knok\" - Fran\u00e7ais: \"",
+        "target": "['os']",
+        "word original": "bone"
+    },
+    "['boek', 'boeken', 'album', 'boekwerk', 'boekje']": {
+        "prompt": "Nederlands: \"hoek\" - Fran\u00e7ais: \"angle\"\nNederlands: \"polshorloge\" - Fran\u00e7ais: \"bracelet-montre\"\nNederlands: \"kin\" - Fran\u00e7ais: \"menton\"\nNederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"organisme\"\nNederlands: \"boek\" - Fran\u00e7ais: \"",
+        "target": "['livre']",
+        "word original": "book"
+    },
+    "['fles']": {
+        "prompt": "Nederlands: \"polshorloge\" - Fran\u00e7ais: \"bracelet-montre\"\nNederlands: \"zenuw\" - Fran\u00e7ais: \"nerf\"\nNederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"comit\u00e9\" - Fran\u00e7ais: \"commission\"\nNederlands: \"kin\" - Fran\u00e7ais: \"menton\"\nNederlands: \"fles\" - Fran\u00e7ais: \"",
+        "target": "['bouteille']",
+        "word original": "bottle"
+    },
+    "['dozen', 'doos', 'bak']": {
+        "prompt": "Nederlands: \"ei\" - Fran\u00e7ais: \"\u0153uf de poule\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"schip\" - Fran\u00e7ais: \"navire\"\nNederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"tronie\" - Fran\u00e7ais: \"face\"\nNederlands: \"dozen\" - Fran\u00e7ais: \"",
+        "target": "['caisse', 'bo\u00eete']",
+        "word original": "box"
+    },
+    "['joch', 'jong', 'knul', 'gozer', 'knaap', 'jongen']": {
+        "prompt": "Nederlands: \"geit\" - Fran\u00e7ais: \"ch\u00e8vre\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"sok\" - Fran\u00e7ais: \"condom\"\nNederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"oogbol\" - Fran\u00e7ais: \"yeux\"\nNederlands: \"joch\" - Fran\u00e7ais: \"",
+        "target": "['gar\u00e7on']",
+        "word original": "boy"
+    },
+    "['brein', 'verstand', 'psyche', 'Nous', 'geest', 'nous', 'denkvermogen', 'rede', 'hersenen', 'hersens', 'zenuwcentrum', 'geestvermogen']": {
+        "prompt": "Nederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"aap\" - Fran\u00e7ais: \"singe\"\nNederlands: \"factuur\" - Fran\u00e7ais: \"anicroche\"\nNederlands: \"polshorloge\" - Fran\u00e7ais: \"bracelet-montre\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"brein\" - Fran\u00e7ais: \"",
+        "target": "['psych\u00e9', 'esprit', 'no\u00fbs', 'No\u00fbs', 'cerveau', 't\u00eate', 'cervelle', 'enc\u00e9phale', 'raison', 'intellect']",
+        "word original": "head"
+    },
+    "['rem', 'remmen']": {
+        "prompt": "Nederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"functie\" - Fran\u00e7ais: \"fonction\"\nNederlands: \"zaad\" - Fran\u00e7ais: \"graine\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"rem\" - Fran\u00e7ais: \"",
+        "target": "['freinage', 'frein']",
+        "word original": "brake"
+    },
+    "['economie', 'politieke economie', 'economisch systeem']": {
+        "prompt": "Nederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"opslagmedium\" - Fran\u00e7ais: \"m\u00e9moire\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"economie\" - Fran\u00e7ais: \"",
+        "target": "['science \u00e9conomique', '\u00e9conomie', '\u00e9conomie politique', 'sciences \u00e9conomiques', 'Sciences \u00e9conomiques', 'syst\u00e8me \u00e9conomique', 'r\u00e9gime \u00e9conomique']",
+        "word original": "branch"
+    },
+    "['klinker', 'baksteen', 'metselsteen', 'beschermengel', 'kanjer', 'toeverlaat']": {
+        "prompt": "Nederlands: \"bibliotheek\" - Fran\u00e7ais: \"librairie\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"ploeg\" - Fran\u00e7ais: \"charrue\"\nNederlands: \"klinker\" - Fran\u00e7ais: \"",
+        "target": "['brique']",
+        "word original": "brick"
+    },
+    "['brug', 'lijst van Romeinse bruggen']": {
+        "prompt": "Nederlands: \"pluim\" - Fran\u00e7ais: \"plumage\"\nNederlands: \"oor\" - Fran\u00e7ais: \"OMS\"\nNederlands: \"draad\" - Fran\u00e7ais: \"fil\"\nNederlands: \"zondag\" - Fran\u00e7ais: \"dimanche\"\nNederlands: \"schokbreker\" - Fran\u00e7ais: \"amortisseur\"\nNederlands: \"brug\" - Fran\u00e7ais: \"",
+        "target": "['pont', 'liste de ponts romains', 'passerelle']",
+        "word original": "bridge"
+    },
+    "['borstel', 'haarborstel', 'verfborstel', 'tandenborstel', 'stoffer', 'kwast']": {
+        "prompt": "Nederlands: \"dozen\" - Fran\u00e7ais: \"caisse\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"wand\" - Fran\u00e7ais: \"mur\"\nNederlands: \"klauw\" - Fran\u00e7ais: \"main\"\nNederlands: \"borstel\" - Fran\u00e7ais: \"",
+        "target": "['brosse', 'brosse \u00e0 cheveux']",
+        "word original": "brush"
+    },
+    "['emmer']": {
+        "prompt": "Nederlands: \"kar\" - Fran\u00e7ais: \"voiture\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"ei\" - Fran\u00e7ais: \"\u0153uf de poule\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"opslagmedium\" - Fran\u00e7ais: \"m\u00e9moire\"\nNederlands: \"emmer\" - Fran\u00e7ais: \"",
+        "target": "['seau', 'chaudi\u00e8re', 'bac', 'baquet']",
+        "word original": "bucket"
+    },
+    "['gloeilamp', 'elektrisch licht', 'peer']": {
+        "prompt": "Nederlands: \"maag\" - Fran\u00e7ais: \"estomac\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"corps humain\"\nNederlands: \"zenuw\" - Fran\u00e7ais: \"nerf\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"gloeilamp\" - Fran\u00e7ais: \"",
+        "target": "['ampoule', 'lampe incandescente', 'lampe \u00e0 incandescence', 'ampoule \u00e0 incandescence', 'lampe \u00e9lectrique', 'lampe']",
+        "word original": "bulb"
+    },
+    "['knoop']": {
+        "prompt": "Nederlands: \"oor\" - Fran\u00e7ais: \"OMS\"\nNederlands: \"benen\" - Fran\u00e7ais: \"jambe\"\nNederlands: \"zon\" - Fran\u00e7ais: \"\u00e9toile\"\nNederlands: \"dak\" - Fran\u00e7ais: \"toit\"\nNederlands: \"ploeg\" - Fran\u00e7ais: \"charrue\"\nNederlands: \"knoop\" - Fran\u00e7ais: \"",
+        "target": "['n\u0153ud', 'bouton']",
+        "word original": "knot"
+    },
+    "['fotocamera', 'camera', 'videocamera', 'filmcamera', 'fototoestel']": {
+        "prompt": "Nederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"functie\" - Fran\u00e7ais: \"fonction\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"fotocamera\" - Fran\u00e7ais: \"",
+        "target": "['appareil photographique', 'cam\u00e9ra', 'appareil photo']",
+        "word original": "camera"
+    },
+    "['identiteitsbewijs', 'legitimatiebewijs', 'identiteitskaart', 'legitimatiepapier', 'persoonsbewijs', 'legitimatiekaart', 'legitimatie']": {
+        "prompt": "Nederlands: \"schokbreker\" - Fran\u00e7ais: \"amortisseur\"\nNederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"identiteitsbewijs\" - Fran\u00e7ais: \"",
+        "target": "[\"carte d'identification\", \"carte d'identit\u00e9\", \"pi\u00e8ce d'identit\u00e9\", 'carte d\u2019identit\u00e9', 'pi\u00e8ce d\u2019identit\u00e9', 'carte', 'document']",
+        "word original": "card"
+    },
+    "['kar', 'auto', 'automobiel', 'wagen', 'motorrijtuig', 'fiets', 'velo', 'rijwiel', 'stalen ros', 'handkar', 'ossenwagen', 'handwagen', 'skelter', 'trapauto']": {
+        "prompt": "Nederlands: \"fotocamera\" - Fran\u00e7ais: \"appareil photographique\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"hoek\" - Fran\u00e7ais: \"angle\"\nNederlands: \"kar\" - Fran\u00e7ais: \"",
+        "target": "['voiture', 'bagnole', 'automobile', 'auto', 'char', 'v\u00e9lo', 'bicyclette', 'petite reine', 'v\u00e9locip\u00e8de', 'charrette', 'charrette \u00e0 bras', 'voiture \u00e0 bras', 'voiturette']",
+        "word original": "cart"
+    },
+    "['wagon', 'spoorwagen', 'spoorvoertuig', 'rijtuig', 'motorrijtuig', 'railvoertuig', 'motorwagen', 'spoorrijtuig', 'treinwagon', 'koets', 'break', 'brik', 'janplezier']": {
+        "prompt": "Nederlands: \"station\" - Fran\u00e7ais: \"gare\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"paraplu\" - Fran\u00e7ais: \"p\u00e9pin\"\nNederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"tronie\" - Fran\u00e7ais: \"face\"\nNederlands: \"wagon\" - Fran\u00e7ais: \"",
+        "target": "['v\u00e9hicule ferroviaire', 'automotrice', 'autorail', 'automotrice tractrice', 'v\u00e9hicule ferroviaire remorqu\u00e9', 'v\u00e9hicule automoteur', 'voiture', 'carrosse', '\u00e9quipage', 'voiture \u00e0 cheval']",
+        "word original": "carriage"
+    },
+    "['kat', 'huiskat']": {
+        "prompt": "Nederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"duim\" - Fran\u00e7ais: \"pouce\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"optrekje\" - Fran\u00e7ais: \"domicile\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"kat\" - Fran\u00e7ais: \"",
+        "target": "['minou', 'chat', 'chat domestique']",
+        "word original": "cat"
+    },
+    "['kaas']": {
+        "prompt": "Nederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"zenuw\" - Fran\u00e7ais: \"nerf\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"tuin\" - Fran\u00e7ais: \"jardin\"\nNederlands: \"vleugel\" - Fran\u00e7ais: \"aile\"\nNederlands: \"kaas\" - Fran\u00e7ais: \"",
+        "target": "['fromage']",
+        "word original": "cheese"
+    },
+    "['kist', 'toestel', 'vliegtuig', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']": {
+        "prompt": "Nederlands: \"ploeg\" - Fran\u00e7ais: \"charrue\"\nNederlands: \"tafel\" - Fran\u00e7ais: \"table\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"kist\" - Fran\u00e7ais: \"",
+        "target": "['appareil volant', 'a\u00e9ronef', 'avion', 'a\u00e9roplane', 'coffre', 'malle']",
+        "word original": "chest"
+    },
+    "['kin', 'kinnebak']": {
+        "prompt": "Nederlands: \"gloeilamp\" - Fran\u00e7ais: \"ampoule\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"kous\" - Fran\u00e7ais: \"bas\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"kin\" - Fran\u00e7ais: \"",
+        "target": "['menton']",
+        "word original": "chin"
+    },
+    "['kerk', 'kerkgebouw', 'godshuis']": {
+        "prompt": "Nederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nNederlands: \"vinger\" - Fran\u00e7ais: \"doigt d'honneur\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"spons\" - Fran\u00e7ais: \"\u00e9ponge\"\nNederlands: \"kerk\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9glise']",
+        "word original": "church"
+    },
+    "['kring', 'cirkel']": {
+        "prompt": "Nederlands: \"zaad\" - Fran\u00e7ais: \"graine\"\nNederlands: \"vel\" - Fran\u00e7ais: \"peau\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"appelschil\" - Fran\u00e7ais: \"peau de pomme\"\nNederlands: \"draad\" - Fran\u00e7ais: \"fil\"\nNederlands: \"kring\" - Fran\u00e7ais: \"",
+        "target": "['cercle', 'rond']",
+        "word original": "circle"
+    },
+    "['uurwerk', 'klok', 'horloge', 'teller', 'klokken', 'kilometerteller', 'polshorloge', 'klokje']": {
+        "prompt": "Nederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"vinger\" - Fran\u00e7ais: \"doigt d'honneur\"\nNederlands: \"wand\" - Fran\u00e7ais: \"mur\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"uurwerk\" - Fran\u00e7ais: \"",
+        "target": "['horloge', 'pendule', 'bracelet-montre', 'montre', 'montre-bracelet']",
+        "word original": "clock"
+    },
+    "['wolk']": {
+        "prompt": "Nederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"raam\" - Fran\u00e7ais: \"rebord\"\nNederlands: \"theeketel\" - Fran\u00e7ais: \"bouilloire \u00e0 th\u00e9\"\nNederlands: \"schip\" - Fran\u00e7ais: \"navire\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"wolk\" - Fran\u00e7ais: \"",
+        "target": "['nuage']",
+        "word original": "cloud"
+    },
+    "['jas', 'jack', 'mantel', 'overjas']": {
+        "prompt": "Nederlands: \"lijfstraf\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nNederlands: \"vaan\" - Fran\u00e7ais: \"drapeau\"\nNederlands: \"vinger\" - Fran\u00e7ais: \"doigt d'honneur\"\nNederlands: \"poort\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"oranje\" - Fran\u00e7ais: \"citrouille\"\nNederlands: \"jas\" - Fran\u00e7ais: \"",
+        "target": "['veste', 'paletot', 'pardessus', 'manteau']",
+        "word original": "coat"
+    },
+    "['aanhouding', 'grijpen', 'vastgrijpen', 'arrestatie', 'arrest', 'stilstand']": {
+        "prompt": "Nederlands: \"straat\" - Fran\u00e7ais: \"route\"\nNederlands: \"geit\" - Fran\u00e7ais: \"ch\u00e8vre\"\nNederlands: \"zeilschip\" - Fran\u00e7ais: \"voilier\"\nNederlands: \"voet\" - Fran\u00e7ais: \"pieds\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"",
+        "target": "['arrestation']",
+        "word original": "collar"
+    },
+    "['kam', 'bergkam', 'heuvelrug', 'heuvelkam']": {
+        "prompt": "Nederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"hoek\" - Fran\u00e7ais: \"angle\"\nNederlands: \"spons\" - Fran\u00e7ais: \"\u00e9ponge\"\nNederlands: \"ei\" - Fran\u00e7ais: \"\u0153uf de poule\"\nNederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"kam\" - Fran\u00e7ais: \"",
+        "target": "['cr\u00eate']",
+        "word original": "comb"
+    },
+    "['rundvee', 'rund', 'runderen', 'Bos taurus', 'beesten', 'vee', 'Bos primigenius taurus']": {
+        "prompt": "Nederlands: \"kous\" - Fran\u00e7ais: \"bas\"\nNederlands: \"kop\" - Fran\u00e7ais: \"chevelure\"\nNederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"knie\" - Fran\u00e7ais: \"genou\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"rundvee\" - Fran\u00e7ais: \"",
+        "target": "['vache', 'b\u00e9tail', 'bovins', 'Bos taurus', 'bos taurus', 'Bos primigenius taurus']",
+        "word original": "cow"
+    },
+    "['kop', 'haar', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'pruik', 'huizenblok', 'blok', 'woningblok', 'woonblok', 'bouwblok', 'tas', 'drinkglas', 'bokaal', 'beker op voet', 'bak', 'beker', 'baas', 'bazin', 'leider', 'op uw plaatsen, klaar, af!', 'moer', 'Moer', 'teelbal', 'zot', 'zottin', 'gekkin', 'gek', 'bal']": {
+        "prompt": "Nederlands: \"vinger\" - Fran\u00e7ais: \"doigt d'honneur\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"vuisthamer\" - Fran\u00e7ais: \"marteau\"\nNederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"kleine teen\" - Fran\u00e7ais: \"orteil\"\nNederlands: \"kop\" - Fran\u00e7ais: \"",
+        "target": "['chevelure', 'pelage', 'cheveux', 'poil', 'p\u00e2t\u00e9', 'bloc', '\u00eelot urbain', 'tasse', 'verre', 'coupe', 't\u00eate', '\u00e9crou']",
+        "word original": "cup"
+    },
+    "['gordijn', 'voorhangsel', 'lijkkleed', 'doek']": {
+        "prompt": "Nederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"gloeilamp\" - Fran\u00e7ais: \"ampoule\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"sonnette\"\nNederlands: \"oranje\" - Fran\u00e7ais: \"citrouille\"\nNederlands: \"paraplu\" - Fran\u00e7ais: \"p\u00e9pin\"\nNederlands: \"gordijn\" - Fran\u00e7ais: \"",
+        "target": "['rideau']",
+        "word original": "curtain"
+    },
+    "['schokbreker', 'schokdemper', 'schok', 'kussen']": {
+        "prompt": "Nederlands: \"trein\" - Fran\u00e7ais: \"train\"\nNederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"lover\" - Fran\u00e7ais: \"feuillage\"\nNederlands: \"schaar\" - Fran\u00e7ais: \"crustac\u00e9\"\nNederlands: \"tuin\" - Fran\u00e7ais: \"jardin\"\nNederlands: \"schokbreker\" - Fran\u00e7ais: \"",
+        "target": "['amortisseur', 'coussin']",
+        "word original": "cushion"
+    },
+    "['hond', 'Canis lupus familiaris', 'joekel']": {
+        "prompt": "Nederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"raam\" - Fran\u00e7ais: \"rebord\"\nNederlands: \"bron\" - Fran\u00e7ais: \"source\"\nNederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"theeketel\" - Fran\u00e7ais: \"bouilloire \u00e0 th\u00e9\"\nNederlands: \"hond\" - Fran\u00e7ais: \"",
+        "target": "['chien', 'Canis lupus familiaris', 'canis familiaris']",
+        "word original": "dog"
+    },
+    "['poort', 'portier', 'deur', 'hek', 'toegangshek', 'spoorboom', 'gate', 'overwegboom', 'interface']": {
+        "prompt": "Nederlands: \"vuisthamer\" - Fran\u00e7ais: \"marteau\"\nNederlands: \"hond\" - Fran\u00e7ais: \"chien\"\nNederlands: \"tronie\" - Fran\u00e7ais: \"face\"\nNederlands: \"uurwerk\" - Fran\u00e7ais: \"horloge\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"poort\" - Fran\u00e7ais: \"",
+        "target": "['encadrement de porte', 'porte', 'porti\u00e8re', 'huis', 'interface', 'port']",
+        "word original": "door"
+    },
+    "['deur', 'poort', 'portier']": {
+        "prompt": "Nederlands: \"kar\" - Fran\u00e7ais: \"voiture\"\nNederlands: \"fiets\" - Fran\u00e7ais: \"v\u00e9lo\"\nNederlands: \"spons\" - Fran\u00e7ais: \"\u00e9ponge\"\nNederlands: \"wolk\" - Fran\u00e7ais: \"nuage\"\nNederlands: \"gloeilamp\" - Fran\u00e7ais: \"ampoule\"\nNederlands: \"deur\" - Fran\u00e7ais: \"",
+        "target": "['encadrement de porte', 'porte', 'porti\u00e8re', 'huis']",
+        "word original": "drain"
+    },
+    "['afbeelding', 'schilder', 'verven', 'plaatje', 'schilderen', 'kunstschilder', 'schilderkunst', 'geschilder', 'schilderij', 'schilderstuk', 'schilderwerk', 'doek', 'vertaling', 'weergave', 'vertalen', 'menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'personage', 'vlees', 'functie', 'wiskundige functie', 'enkelwaardige functie', 'tekening', 'tekenkunst', 'prent', 'illustratie', 'portret']": {
+        "prompt": "Nederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"kist\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"gebitselement\" - Fran\u00e7ais: \"dents\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"",
+        "target": "['peinture', 'artiste peintre', 'peintre', 'image', 'tableau', 'rendu', 'rendu graphique', 'traduction', 'version', 'corps humain', 'carrure', 'physiologie humaine', 'ossature', 'forme', 'figure', 'chair', 'silhouette', 'physique', 'Corps humain', 'fonction', 'application', 'fonction monovalu\u00e9e', 'illustration', 'reproduction', 'dessin', 'ic\u00f4ne']",
+        "word original": "drawer"
+    },
+    "['kledij', 'kledingstuk', 'kleren', 'kleding', 'goed', 'japon', 'gewaad', 'jurk', 'kleed', 'als de kat van huis is, dansen de muizen op tafel', 'gelegenheidskleding', 'uitdossing', 'uitmonstering', 'dos', 'dracht']": {
+        "prompt": "Nederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"zondag\" - Fran\u00e7ais: \"dimanche\"\nNederlands: \"kledij\" - Fran\u00e7ais: \"",
+        "target": "['fringue', 'v\u00eatements', 'habit', 'v\u00eatement', 'habillement', 'habits', 'fringues', 'tenue', 'robe', 'atours']",
+        "word original": "dress"
+    },
+    "['druppel', 'regendruppel', 'val', 'afgrond', 'vallen', 'drup', 'parel', 'drop']": {
+        "prompt": "Nederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"fiets\" - Fran\u00e7ais: \"v\u00e9lo\"\nNederlands: \"tas\" - Fran\u00e7ais: \"sac \u00e0 main\"\nNederlands: \"mond\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nNederlands: \"kleine teen\" - Fran\u00e7ais: \"orteil\"\nNederlands: \"druppel\" - Fran\u00e7ais: \"",
+        "target": "['goutte de pluie', 'goutte']",
+        "word original": "drop"
+    },
+    "['oor', 'Wereldgezondheidsorganisatie', 'wat', 'WGO', 'tofu', 'wie', 'oren', 'gehoororgaan', 'handvat', 'heft', 'hengsel', 'handgreep', 'handel', 'kruk']": {
+        "prompt": "Nederlands: \"vuisthamer\" - Fran\u00e7ais: \"marteau\"\nNederlands: \"oogbol\" - Fran\u00e7ais: \"yeux\"\nNederlands: \"vogel\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"corps humain\"\nNederlands: \"oor\" - Fran\u00e7ais: \"",
+        "target": "['OMS', 'Organisation mondiale de la sant\u00e9', 'oreille', 'oreilles', 'poign\u00e9e', 'manche', 'levier', 'barre de man\u0153uvre', 'tirette', 'manette', 'mancheron', 'anse', 'ch\u00e2sse']",
+        "word original": "ear"
+    },
+    "['ei', 'kippenei', 'kuiken', 'schaapskop', 'oetlul', 'drol', 'sufkut', 'stommerik', 'jojo', 'kloris', 'gehaktbal', 'boerenlul', 'steenezel', 'sufferd', 'hansworst', 'kwezel', 'nitwit', 'oen', 'oelewapper', 'zultkop', 'kalf', 'weetniet', 'ezel', 'dommerik', 'stommerd', 'bal gehakt', 'onbenul', 'zakkenwasser', 'uil', 'ezelsveulen', 'domme gans', 'eikel', 'droplul', 'uilskuiken', 'domoor', 'rund', 'leeghoofd', 'uilenbal', 'kalfskop', 'eend', 'dombo', 'oliebol', 'kaffer', 'hals', 'druiloor', 'koe', 'minkukel', 'flapdrol', 'stommeling', 'sufkont', 'stomkop', 'eendenkuiken', 'Moron', 'idioot', 'imbeciel', 'waanzinnige', 'kretijn', 'cretin', 'gek', 'gestoorde', 'mongool', 'debiel', 'mogool', 'geesteszieke', 'krankzinnige']": {
+        "prompt": "Nederlands: \"kledij\" - Fran\u00e7ais: \"fringue\"\nNederlands: \"strijdkrachten\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"varken\" - Fran\u00e7ais: \"porc\"\nNederlands: \"ei\" - Fran\u00e7ais: \"",
+        "target": "['\u0153uf de poule', '\u0153uf', 'oeuf', 'ben\u00eat', 'idiot', 'buse', 'balourd', 'cr\u00e9tin', 'b\u00eata', 'fada', 'couillon', 'imb\u00e9cile', 'sot', 'b\u00eate', 'abruti', 'andouille', 'bourrique', 'retard\u00e9', 'arri\u00e9r\u00e9 mental', 'abrutie', 'idiote', 'connard']",
+        "word original": "egg"
+    },
+    "['motor', 'motorfiets', 'gemotoriseerde twee- of driewieler', 'machine', 'motorrijwiel', 'aandrijving', 'locomotief', 'elektromotor', 'scheurijzer']": {
+        "prompt": "Nederlands: \"strijdkrachten\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"zondag\" - Fran\u00e7ais: \"dimanche\"\nNederlands: \"motor\" - Fran\u00e7ais: \"",
+        "target": "['motocyclette', 'moto', 'v\u00e9lomoteur', 'motocycle', 'v\u00e9lo', 'moteur']",
+        "word original": "engine"
+    },
+    "['oogbol', 'ogen', 'oogappel', 'oog', 'kijker', 'kijkers']": {
+        "prompt": "Nederlands: \"boot\" - Fran\u00e7ais: \"navire\"\nNederlands: \"schroef\" - Fran\u00e7ais: \"vis de fixation\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"vissen\" - Fran\u00e7ais: \"poisson\"\nNederlands: \"oogbol\" - Fran\u00e7ais: \"",
+        "target": "['yeux', \"globe de l'oeil\", '\u0153il', 'globe oculaire']",
+        "word original": "eye"
+    },
+    "['tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'postzegel', 'toet']": {
+        "prompt": "Nederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"duim\" - Fran\u00e7ais: \"pouce\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"boog\" - Fran\u00e7ais: \"arc\"\nNederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"tronie\" - Fran\u00e7ais: \"",
+        "target": "['face', 'figure', 'visage']",
+        "word original": "face"
+    },
+    "['boerenbedrijf', 'boerderij', 'hoeve', 'hofstede', 'boerenhofstede', 'landbouwbedrijf', 'boerenhofstee', 'hofstee']": {
+        "prompt": "Nederlands: \"vaan\" - Fran\u00e7ais: \"drapeau\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"paraplu\" - Fran\u00e7ais: \"p\u00e9pin\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"",
+        "target": "['ferme', 'exploitation agricole', 'domaine']",
+        "word original": "farm"
+    },
+    "['pluim', 'veer', 'pluimage', 'gevederte', 'verenkleed', 'al gezien al gedaan', 'veder']": {
+        "prompt": "Nederlands: \"schroef\" - Fran\u00e7ais: \"vis de fixation\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"wolk\" - Fran\u00e7ais: \"nuage\"\nNederlands: \"lijfstraf\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"pluim\" - Fran\u00e7ais: \"",
+        "target": "['plumage', 'barbule', 'plume', 'plum\u00e9e', 'pennage']",
+        "word original": "feather"
+    },
+    "['vinger', 'middelvinger', 'the finger', 'digit', 'Digit', 'teen', 'cijfer']": {
+        "prompt": "Nederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"vierkant\" - Fran\u00e7ais: \"carr\u00e9\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"klauw\" - Fran\u00e7ais: \"main\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"vinger\" - Fran\u00e7ais: \"",
+        "target": "[\"doigt d'honneur\", 'doigt', 'dactyle', 'orteil']",
+        "word original": "finger"
+    },
+    "['vissen', 'vis', 'het vissen', 'sportvissen', 'Pisces']": {
+        "prompt": "Nederlands: \"trein\" - Fran\u00e7ais: \"train\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"wolk\" - Fran\u00e7ais: \"nuage\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"dozen\" - Fran\u00e7ais: \"caisse\"\nNederlands: \"vissen\" - Fran\u00e7ais: \"",
+        "target": "['poisson', 'p\u00eache', 'p\u00eache sportive', 'Pisces']",
+        "word original": "fish"
+    },
+    "['vaan', 'vlag']": {
+        "prompt": "Nederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"kerk\" - Fran\u00e7ais: \"\u00e9glise\"\nNederlands: \"vork\" - Fran\u00e7ais: \"intersection\"\nNederlands: \"schaar\" - Fran\u00e7ais: \"crustac\u00e9\"\nNederlands: \"vaan\" - Fran\u00e7ais: \"",
+        "target": "['drapeau']",
+        "word original": "flag"
+    },
+    "['dal', 'vallei']": {
+        "prompt": "Nederlands: \"gordijn\" - Fran\u00e7ais: \"rideau\"\nNederlands: \"kledij\" - Fran\u00e7ais: \"fringue\"\nNederlands: \"vlieg\" - Fran\u00e7ais: \"dipt\u00e8re\"\nNederlands: \"mes\" - Fran\u00e7ais: \"couteau\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"dal\" - Fran\u00e7ais: \"",
+        "target": "['vall\u00e9e', 'val']",
+        "word original": "floor"
+    },
+    "['vlieg', 'tweevleugeligen']": {
+        "prompt": "Nederlands: \"zon\" - Fran\u00e7ais: \"\u00e9toile\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"sonnette\"\nNederlands: \"strijdkrachten\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nNederlands: \"ploeg\" - Fran\u00e7ais: \"charrue\"\nNederlands: \"kar\" - Fran\u00e7ais: \"voiture\"\nNederlands: \"vlieg\" - Fran\u00e7ais: \"",
+        "target": "['dipt\u00e8re', 'Diptera', 'mouche']",
+        "word original": "fly"
+    },
+    "['voet', 'Engelse voet', 'voeten', 'poot', 'pootje', 'fase', 'looptijd', 'Looptijd', 'blok', 'trimester', 'term', 'basis', 'pijler', 'grondslag', 'substantie', 'hoeksteen', 'fundament', 'initia', 'grond', 'ondergrond']": {
+        "prompt": "Nederlands: \"knie\" - Fran\u00e7ais: \"genou\"\nNederlands: \"identiteitsbewijs\" - Fran\u00e7ais: \"carte d'identification\"\nNederlands: \"edelsteen\" - Fran\u00e7ais: \"joyau\"\nNederlands: \"schip\" - Fran\u00e7ais: \"navire\"\nNederlands: \"gloeilamp\" - Fran\u00e7ais: \"ampoule\"\nNederlands: \"voet\" - Fran\u00e7ais: \"",
+        "target": "['pieds', 'pied', 'p\u00e9riode', 'phase', 'Court terme', 'court terme', 'base', 'fondement', 'fondation', 'pierre angulaire']",
+        "word original": "foot"
+    },
+    "['vork', 'kruising', 'T-splitsing', 'kruispunt', 'zijweg', 'splitsing']": {
+        "prompt": "Nederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"spier\" - Fran\u00e7ais: \"muscle\"\nNederlands: \"tafel\" - Fran\u00e7ais: \"table\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"trompet\" - Fran\u00e7ais: \"citaro\"\nNederlands: \"vork\" - Fran\u00e7ais: \"",
+        "target": "['intersection', 'bifurcation', 'carrefour', 'croisement', 'fourchette']",
+        "word original": "fork"
+    },
+    "['gevogelte', 'vogel', 'vogels', 'Eu-', 'vogeltje']": {
+        "prompt": "Nederlands: \"pijp\" - Fran\u00e7ais: \"conduite principale\"\nNederlands: \"opslagmedium\" - Fran\u00e7ais: \"m\u00e9moire\"\nNederlands: \"bibliotheek\" - Fran\u00e7ais: \"librairie\"\nNederlands: \"klauw\" - Fran\u00e7ais: \"main\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"gevogelte\" - Fran\u00e7ais: \"",
+        "target": "['oiseau']",
+        "word original": "fowl"
+    },
+    "['menselijke verrichtingsleer', 'menselijk lichaam', 'skelet', 'geraamte', 'figuur', 'vorm', 'bouw', 'cijfer', 'afbeelding', 'personage', 'vlees']": {
+        "prompt": "Nederlands: \"schaap\" - Fran\u00e7ais: \"mouton\"\nNederlands: \"vel\" - Fran\u00e7ais: \"peau\"\nNederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"sonnette\"\nNederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"",
+        "target": "['corps humain', 'carrure', 'physiologie humaine', 'ossature', 'forme', 'figure', 'chair', 'silhouette', 'physique', 'Corps humain']",
+        "word original": "frame"
+    },
+    "['tuin', 'hof']": {
+        "prompt": "Nederlands: \"straat\" - Fran\u00e7ais: \"route\"\nNederlands: \"uurwerk\" - Fran\u00e7ais: \"horloge\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"spons\" - Fran\u00e7ais: \"\u00e9ponge\"\nNederlands: \"geit\" - Fran\u00e7ais: \"ch\u00e8vre\"\nNederlands: \"tuin\" - Fran\u00e7ais: \"",
+        "target": "['jardin']",
+        "word original": "garden"
+    },
+    "['meisje', 'griet', 'meiske', 'meid', 'vrouw', 'juffie', 'juf', 'jongedame', 'jongejuffrouw', 'kamermeisje', 'bediende', 'dienstmeid', 'dienstbode', 'dienstmeisje', 'werkmeid', 'maagd', 'dienares', 'vriendin', 'vriendinnetje', 'grietje']": {
+        "prompt": "Nederlands: \"straat\" - Fran\u00e7ais: \"route\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"economie\" - Fran\u00e7ais: \"science \u00e9conomique\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"",
+        "target": "['fille', 'femme', 'jeune femme', 'jeune fille', 'femme de m\u00e9nage', 'bonne \u00e0 tout faire', 'servante', 'bonne', 'domestique', 'petite copine', 'petite amie', 'copine']",
+        "word original": "girl"
+    },
+    "['handschoen', 'want']": {
+        "prompt": "Nederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"sok\" - Fran\u00e7ais: \"condom\"\nNederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"handschoen\" - Fran\u00e7ais: \"",
+        "target": "['gant']",
+        "word original": "glove"
+    },
+    "['geit', 'Capra aegagrus hircus']": {
+        "prompt": "Nederlands: \"strijdkrachten\" - Fran\u00e7ais: \"forces arm\u00e9es\"\nNederlands: \"handschoen\" - Fran\u00e7ais: \"gant\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"organisme\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"geit\" - Fran\u00e7ais: \"",
+        "target": "['ch\u00e8vre']",
+        "word original": "goat"
+    },
+    "['geweer', 'vuurwapen', 'projectielwapen', 'pistool', 'kanon', 'stuk', 'karabijn', 'schietijzer', 'schietgeweer', 'proppenschieter', 'spuit', 'proppeschieter']": {
+        "prompt": "Nederlands: \"zenuw\" - Fran\u00e7ais: \"nerf\"\nNederlands: \"station\" - Fran\u00e7ais: \"gare\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"sonnette\"\nNederlands: \"trompet\" - Fran\u00e7ais: \"citaro\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"",
+        "target": "['arme \u00e0 feu', 'arme de projectile', 'pistolet', 'fusil', 'Fusil pour enfants', 'fusil pour enfants']",
+        "word original": "gun"
+    },
+    "['haar', 'informatietechnologie', 'hem', 'hun', 'zijn', 'hij', 'tikkertje', 'kuif', 'hoofd', 'beharing', 'hoofdhaar', 'haardos', 'kop', 'pruik']": {
+        "prompt": "Nederlands: \"gordijn\" - Fran\u00e7ais: \"rideau\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"organisme\"\nNederlands: \"voet\" - Fran\u00e7ais: \"pieds\"\nNederlands: \"kop\" - Fran\u00e7ais: \"chevelure\"\nNederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"haar\" - Fran\u00e7ais: \"",
+        "target": "[\"technologie de l'information\", 'chevelure', 'pelage', 'cheveux', 'poil', 'cheveu', 'tif']",
+        "word original": "root"
+    },
+    "['vuisthamer', 'hamer', 'vuist']": {
+        "prompt": "Nederlands: \"identiteitsbewijs\" - Fran\u00e7ais: \"carte d'identification\"\nNederlands: \"fotocamera\" - Fran\u00e7ais: \"appareil photographique\"\nNederlands: \"dozen\" - Fran\u00e7ais: \"caisse\"\nNederlands: \"borstel\" - Fran\u00e7ais: \"brosse\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"vuisthamer\" - Fran\u00e7ais: \"",
+        "target": "['marteau']",
+        "word original": "hammer"
+    },
+    "['klauw', 'hand', 'poot', 'klauwen', 'klavier', 'fik', 'vlerken', 'kluif', 'tengels', 'knijper', 'klavieren', 'fikken', 'afschurving', 'schaafwond', 'abrasie', 'krab', 'geseling', 'krauw']": {
+        "prompt": "Nederlands: \"val\" - Fran\u00e7ais: \"pi\u00e9geage\"\nNederlands: \"ploeg\" - Fran\u00e7ais: \"charrue\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"paraplu\" - Fran\u00e7ais: \"p\u00e9pin\"\nNederlands: \"klauw\" - Fran\u00e7ais: \"",
+        "target": "['main', 'patte', 'abrasion', 'excoriation']",
+        "word original": "hand"
+    },
+    "['hoed', 'Chapeau!']": {
+        "prompt": "Nederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"knie\" - Fran\u00e7ais: \"genou\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"dak\" - Fran\u00e7ais: \"toit\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"",
+        "target": "['chapeau', 'Chapeau!', 'couvercle', 'casquette']",
+        "word original": "hat"
+    },
+    "['hart', 'human heart', 'hartkamer', 'lever', 'tikkertje', 'tikker', 'rikketik', 'affectie', 'Philia', 'genegenheid', 'kern']": {
+        "prompt": "Nederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"moer\" - Fran\u00e7ais: \"zone humide\"\nNederlands: \"uurwerk\" - Fran\u00e7ais: \"horloge\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"station\" - Fran\u00e7ais: \"gare\"\nNederlands: \"hart\" - Fran\u00e7ais: \"",
+        "target": "['c\u0153ur', 'myocarde', 'c\u0153ur humain', 'cavit\u00e9 cardiaque', 'Philia', 'affection', 'philia', 'centre']",
+        "word original": "pump"
+    },
+    "['val', 'het in klemmen vangen', 'dierenval', 'klem', 'zwanenhals', 'druppel', 'regendruppel', 'afgrond', 'vallen', 'drup', 'parel', 'drop', 'schuinte', 'glooiing', 'helling']": {
+        "prompt": "Nederlands: \"optrekje\" - Fran\u00e7ais: \"domicile\"\nNederlands: \"hoek\" - Fran\u00e7ais: \"angle\"\nNederlands: \"mond\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"brug\" - Fran\u00e7ais: \"pont\"\nNederlands: \"val\" - Fran\u00e7ais: \"",
+        "target": "['pi\u00e9geage', 'collet', 'pi\u00e8ge', 'pi\u00e9geage animal', 'trappe', 'goutte de pluie', 'goutte', 'inclinaison', 'pente']",
+        "word original": "hook"
+    },
+    "['trompet', 'trompetist', 'cornet', 'mondharp', 'kornet', 'cornet \u00e0 pistons']": {
+        "prompt": "Nederlands: \"comit\u00e9\" - Fran\u00e7ais: \"commission\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"economie\" - Fran\u00e7ais: \"science \u00e9conomique\"\nNederlands: \"maag\" - Fran\u00e7ais: \"estomac\"\nNederlands: \"poort\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"trompet\" - Fran\u00e7ais: \"",
+        "target": "['citaro', 'trompe-laquais', 'campurgne', 'guimbarde', 'trompettiste', 'harpe \u00e0 bouche', 'trompette tsigane', 'hanche-en-ruban', 'trompe de B\u00e9arn', 'cornet', 'trompette', 'cornet \u00e0 pistons', 'corne']",
+        "word original": "horn"
+    },
+    "['paard', 'peerd', 'viervoeter', 'ros', 'ridder']": {
+        "prompt": "Nederlands: \"kam\" - Fran\u00e7ais: \"cr\u00eate\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"kat\" - Fran\u00e7ais: \"minou\"\nNederlands: \"paard\" - Fran\u00e7ais: \"",
+        "target": "['cheval', 'equus caballus', 'chevalier', 'Chevalerie', 'chevalerie']",
+        "word original": "horse"
+    },
+    "['verpleeginrichting', 'kliniek', 'hospitaal', 'ziekenhuis', 'ziekenzaal', 'gasthuis']": {
+        "prompt": "Nederlands: \"zeilschip\" - Fran\u00e7ais: \"voilier\"\nNederlands: \"tronie\" - Fran\u00e7ais: \"face\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"oor\" - Fran\u00e7ais: \"OMS\"\nNederlands: \"wolk\" - Fran\u00e7ais: \"nuage\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"",
+        "target": "['h\u00f4pital', 'hosto', 'infirmerie']",
+        "word original": "hospital"
+    },
+    "['optrekje', 'woning', 'onderdak', 'woonplaats', 'huis', 'verblijf', 'domicilie', 'woonhuis', 'huisje', 'cottage', 'bungalow', 'arbeiderswoning', 'semi-bungalow', 'buitenhuis', 'tehuis', 'honk', 'home', 'thuis', 'woonadres', 'huisvesting', 'woonst', 'residentie', 'heem', 'behuizing', 'woongelegenheid', 'woonruimte']": {
+        "prompt": "Nederlands: \"uurwerk\" - Fran\u00e7ais: \"horloge\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"knoop\" - Fran\u00e7ais: \"n\u0153ud\"\nNederlands: \"kist\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"optrekje\" - Fran\u00e7ais: \"",
+        "target": "['domicile', 'maison', 'bungalow', 'cottage', 'maisonnette', 'chaumi\u00e8re', 'habitation', 'r\u00e9sidence', 'logement', 'foyer', 'demeure']",
+        "word original": "house"
+    },
+    "['eiland', 'enclave']": {
+        "prompt": "Nederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"fiets\" - Fran\u00e7ais: \"v\u00e9lo\"\nNederlands: \"rok\" - Fran\u00e7ais: \"habit de soir\u00e9e\"\nNederlands: \"trein\" - Fran\u00e7ais: \"train\"\nNederlands: \"zaad\" - Fran\u00e7ais: \"graine\"\nNederlands: \"eiland\" - Fran\u00e7ais: \"",
+        "target": "['ile', '\u00eele']",
+        "word original": "island"
+    },
+    "['edelsteen', 'ruwe (half)edelsteen', 'steen']": {
+        "prompt": "Nederlands: \"eiland\" - Fran\u00e7ais: \"ile\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"gevogelte\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"edelsteen\" - Fran\u00e7ais: \"",
+        "target": "['joyau', 'gemme', 'pierre pr\u00e9cieuse', 'Gemme']",
+        "word original": "jewel"
+    },
+    "['theeketel', 'ketel', 'fluitketel', 'soepkip', 'waterketel']": {
+        "prompt": "Nederlands: \"spier\" - Fran\u00e7ais: \"muscle\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"kring\" - Fran\u00e7ais: \"cercle\"\nNederlands: \"varken\" - Fran\u00e7ais: \"porc\"\nNederlands: \"bibliotheek\" - Fran\u00e7ais: \"librairie\"\nNederlands: \"theeketel\" - Fran\u00e7ais: \"",
+        "target": "['bouilloire \u00e0 th\u00e9', 'bouilloire']",
+        "word original": "kettle"
+    },
+    "['sleutel', 'tonaliteit', 'toonsoort', 'toets', 'Engelse sleutel', 'steeksleutel', 'moersleutel', 'schroefsleutel', 'fietssleutel', 'moeilijk afscheid', 'verdriet', 'ruk']": {
+        "prompt": "Nederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"tronie\" - Fran\u00e7ais: \"face\"\nNederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"wand\" - Fran\u00e7ais: \"mur\"\nNederlands: \"sleutel\" - Fran\u00e7ais: \"",
+        "target": "['tonalit\u00e9', 'clef', 'cl\u00e9', 'cl\u00e9 de serrage', 'clef \u00e0 \u00e9crous', 'serre-\u00e9crou']",
+        "word original": "key"
+    },
+    "['knie', 'knietje']": {
+        "prompt": "Nederlands: \"bij\" - Fran\u00e7ais: \"abeille\"\nNederlands: \"tuin\" - Fran\u00e7ais: \"jardin\"\nNederlands: \"emmer\" - Fran\u00e7ais: \"seau\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Fran\u00e7ais: \"souris\"\nNederlands: \"bakoven\" - Fran\u00e7ais: \"four\"\nNederlands: \"knie\" - Fran\u00e7ais: \"",
+        "target": "['genou']",
+        "word original": "knee"
+    },
+    "['mes']": {
+        "prompt": "Nederlands: \"oranje\" - Fran\u00e7ais: \"citrouille\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"sok\" - Fran\u00e7ais: \"condom\"\nNederlands: \"handschoen\" - Fran\u00e7ais: \"gant\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Fran\u00e7ais: \"souris\"\nNederlands: \"mes\" - Fran\u00e7ais: \"",
+        "target": "['couteau']",
+        "word original": "knife"
+    },
+    "['lover', 'gebladerte', 'blad', 'Laphi', 'blaadje', 'minnaar', 'minnares', 'vereerder', 'lieveling', 'hartje', 'kloris', 'hartenlap', 'vriend', 'hartendief', 'aanbidder', 'schattebout', 'hartediefje', 'vrindje', 'lief', 'lieverdje', 'lieverd', 'liefste', 'hartendiefje', 'liefje', 'vriendin', 'beminde', 'geliefde', 'vrijer', 'galant']": {
+        "prompt": "Nederlands: \"boek\" - Fran\u00e7ais: \"livre\"\nNederlands: \"opslagmedium\" - Fran\u00e7ais: \"m\u00e9moire\"\nNederlands: \"zeilschip\" - Fran\u00e7ais: \"voilier\"\nNederlands: \"borstel\" - Fran\u00e7ais: \"brosse\"\nNederlands: \"bron\" - Fran\u00e7ais: \"source\"\nNederlands: \"lover\" - Fran\u00e7ais: \"",
+        "target": "['feuillage', 'feuille', 'amoureux', 'amoureuse', 'amant']",
+        "word original": "leaf"
+    },
+    "['benen', 'been', 'poot', 'stelt', 'menselijke been', 'onderdanen', 'onderdaan']": {
+        "prompt": "Nederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"rundvee\" - Fran\u00e7ais: \"vache\"\nNederlands: \"functie\" - Fran\u00e7ais: \"fonction\"\nNederlands: \"vuisthamer\" - Fran\u00e7ais: \"marteau\"\nNederlands: \"benen\" - Fran\u00e7ais: \"",
+        "target": "['jambe', 'membre inf\u00e9rieur', 'patte', 'jambes', 'membre inf\u00e9rieur humain']",
+        "word original": "pin"
+    },
+    "['bibliotheek', 'boekerij', 'boekenkast', 'boekenverzameling']": {
+        "prompt": "Nederlands: \"schaap\" - Fran\u00e7ais: \"mouton\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"boom\" - Fran\u00e7ais: \"arbre\"\nNederlands: \"vinger\" - Fran\u00e7ais: \"doigt d'honneur\"\nNederlands: \"bibliotheek\" - Fran\u00e7ais: \"",
+        "target": "['librairie', 'biblioth\u00e8que']",
+        "word original": "library"
+    },
+    "['video', 'televisie', 'videotechniek', 'kijkbuis', 'beeldomroep']": {
+        "prompt": "Nederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"vel\" - Fran\u00e7ais: \"peau\"\nNederlands: \"vissen\" - Fran\u00e7ais: \"poisson\"\nNederlands: \"bron\" - Fran\u00e7ais: \"source\"\nNederlands: \"video\" - Fran\u00e7ais: \"",
+        "target": "['t\u00e9l\u00e9vision', 'vid\u00e9o', 't\u00e9l\u00e9']",
+        "word original": "line"
+    },
+    "['lip', 'lippen', 'grote bek', 'grote mond', 'tegenspraak']": {
+        "prompt": "Nederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"vinger\" - Fran\u00e7ais: \"doigt d'honneur\"\nNederlands: \"kist\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"corps humain\"\nNederlands: \"lip\" - Fran\u00e7ais: \"",
+        "target": "['l\u00e8vres', 'l\u00e8vre']",
+        "word original": "lip"
+    },
+    "['functie', 'betrekking', 'werk', 'baan', 'zakenwereld', 'beroep', 'nering', 'onderneming', 'zaak', 'job', 'zakenleven', 'arbeid', 'bezigheid', 'zaken', 'day job', 'dienstverband', 'vak', 'positie', 'm\u00e9tier', 'professie', 'post', 'stiel', 'afbeelding', 'wiskundige functie', 'enkelwaardige functie']": {
+        "prompt": "Nederlands: \"kist\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"corps humain\"\nNederlands: \"schokbreker\" - Fran\u00e7ais: \"amortisseur\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"functie\" - Fran\u00e7ais: \"",
+        "target": "['fonction', 'travail', 'emploi', 'entreprise', 'profession', 'm\u00e9tier', 'occupation', 'job', 'day job', 'boulot', 'poste', 'affaire', 't\u00e2che', 'application', 'fonction monovalu\u00e9e']",
+        "word original": "map"
+    },
+    "['zwavelstokje', 'lucifer']": {
+        "prompt": "Nederlands: \"dak\" - Fran\u00e7ais: \"toit\"\nNederlands: \"straat\" - Fran\u00e7ais: \"route\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"stengel\" - Fran\u00e7ais: \"tige\"\nNederlands: \"maan\" - Fran\u00e7ais: \"satellite artificiel\"\nNederlands: \"zwavelstokje\" - Fran\u00e7ais: \"",
+        "target": "['allumette']",
+        "word original": "match"
+    },
+    "['aap', 'apen']": {
+        "prompt": "Nederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"fles\" - Fran\u00e7ais: \"bouteille\"\nNederlands: \"zaad\" - Fran\u00e7ais: \"graine\"\nNederlands: \"aap\" - Fran\u00e7ais: \"",
+        "target": "['singe']",
+        "word original": "monkey"
+    },
+    "['maan', 'satelliet', 'kunstmaan', 'wachter', 'bijplaneet', 'trawant']": {
+        "prompt": "Nederlands: \"fles\" - Fran\u00e7ais: \"bouteille\"\nNederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"zenuw\" - Fran\u00e7ais: \"nerf\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"maan\" - Fran\u00e7ais: \"",
+        "target": "['satellite artificiel', 'satellite', 'orbiteur', 'lune']",
+        "word original": "moon"
+    },
+    "['mond', 'bek', 'muil', 'riviermond', 'monding', 'reukorgaan', 'snufferd', 'snotkoker', 'neus']": {
+        "prompt": "Nederlands: \"kin\" - Fran\u00e7ais: \"menton\"\nNederlands: \"varken\" - Fran\u00e7ais: \"porc\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"mond\" - Fran\u00e7ais: \"",
+        "target": "['cavit\u00e9 buccale', 'bouche', 'cavit\u00e9 orale', 'gueule', 'vestibule de la bouche']",
+        "word original": "mouth"
+    },
+    "['spier', 'spierweefsel']": {
+        "prompt": "Nederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"handschoen\" - Fran\u00e7ais: \"gant\"\nNederlands: \"rok\" - Fran\u00e7ais: \"habit de soir\u00e9e\"\nNederlands: \"spier\" - Fran\u00e7ais: \"",
+        "target": "['muscle']",
+        "word original": "muscle"
+    },
+    "['vingernagel', 'nagel']": {
+        "prompt": "Nederlands: \"vissen\" - Fran\u00e7ais: \"poisson\"\nNederlands: \"kerk\" - Fran\u00e7ais: \"\u00e9glise\"\nNederlands: \"aap\" - Fran\u00e7ais: \"singe\"\nNederlands: \"bakoven\" - Fran\u00e7ais: \"four\"\nNederlands: \"vogel\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"vingernagel\" - Fran\u00e7ais: \"",
+        "target": "['ongle']",
+        "word original": "nail"
+    },
+    "['hals', 'nek', 'flessenhals', 'keel', 'gorgel', 'farynx', 'strot', 'kuiken', 'schaapskop', 'oetlul', 'drol', 'sufkut', 'stommerik', 'jojo', 'kloris', 'gehaktbal', 'boerenlul', 'steenezel', 'sufferd', 'hansworst', 'kwezel', 'nitwit', 'oen', 'oelewapper', 'zultkop', 'kalf', 'weetniet', 'ezel', 'dommerik', 'stommerd', 'bal gehakt', 'onbenul', 'zakkenwasser', 'uil', 'ezelsveulen', 'domme gans', 'eikel', 'droplul', 'uilskuiken', 'ei', 'domoor', 'rund', 'leeghoofd', 'uilenbal', 'kalfskop', 'eend', 'dombo', 'oliebol', 'kaffer', 'druiloor', 'koe', 'minkukel', 'flapdrol', 'stommeling', 'sufkont', 'stomkop', 'eendenkuiken', 'Moron', 'idioot', 'imbeciel', 'waanzinnige', 'kretijn', 'cretin', 'gek', 'gestoorde', 'mongool', 'debiel', 'mogool', 'geesteszieke', 'krankzinnige']": {
+        "prompt": "Nederlands: \"honkbal\" - Fran\u00e7ais: \"baseball\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"moer\" - Fran\u00e7ais: \"zone humide\"\nNederlands: \"hals\" - Fran\u00e7ais: \"",
+        "target": "['cou', 'nuque', 'gorge', 'pharynx', 'ben\u00eat', 'idiot', 'buse', 'balourd', 'cr\u00e9tin', 'b\u00eata', 'fada', 'couillon', 'imb\u00e9cile', 'sot', 'b\u00eate', 'abruti', 'andouille', 'bourrique', 'retard\u00e9', 'arri\u00e9r\u00e9 mental', 'abrutie', 'idiote', 'connard']",
+        "word original": "throat"
+    },
+    "['naald', 'injectienaald']": {
+        "prompt": "Nederlands: \"sok\" - Fran\u00e7ais: \"condom\"\nNederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"trompet\" - Fran\u00e7ais: \"citaro\"\nNederlands: \"val\" - Fran\u00e7ais: \"pi\u00e9geage\"\nNederlands: \"station\" - Fran\u00e7ais: \"gare\"\nNederlands: \"naald\" - Fran\u00e7ais: \"",
+        "target": "['aiguille \u00e0 coudre', 'aiguille', 'aiguille hypodermique', \"canule d'injection\"]",
+        "word original": "needle"
+    },
+    "['zenuw']": {
+        "prompt": "Nederlands: \"kerk\" - Fran\u00e7ais: \"\u00e9glise\"\nNederlands: \"gloeilamp\" - Fran\u00e7ais: \"ampoule\"\nNederlands: \"schokbreker\" - Fran\u00e7ais: \"amortisseur\"\nNederlands: \"kous\" - Fran\u00e7ais: \"bas\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"zenuw\" - Fran\u00e7ais: \"",
+        "target": "['nerf']",
+        "word original": "nerve"
+    },
+    "['netwerk', 'computernetwerk', 'Internet', 'cyberspace', 'internet', 'gaas', 'net', 'breisteek', 'vangnet']": {
+        "prompt": "Nederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"kerk\" - Fran\u00e7ais: \"\u00e9glise\"\nNederlands: \"kam\" - Fran\u00e7ais: \"cr\u00eate\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"",
+        "target": "['internet', 'r\u00e9seau informatique', 'r\u00e9seau', 'Internet', 'cyberespace', 'filet', 'maille de tricot', 'maillage', 'tissus']",
+        "word original": "net"
+    },
+    "['neus', 'snufferd', 'snotkoker', 'reukorgaan', 'mond', 'muil']": {
+        "prompt": "Nederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"mier\" - Fran\u00e7ais: \"fourmi\"\nNederlands: \"hond\" - Fran\u00e7ais: \"chien\"\nNederlands: \"boek\" - Fran\u00e7ais: \"livre\"\nNederlands: \"mond\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nNederlands: \"neus\" - Fran\u00e7ais: \"",
+        "target": "['nez', 'pif', 'bouche', 'vestibule de la bouche']",
+        "word original": "nose"
+    },
+    "['moer', 'waterrijk gebied', 'drasland', 'vochtgebied', 'zomp', 'broekland', 'moerasland', 'waterland', 'moeras', 'slijkland', 'donk', 'moerasgebied', 'broek', 'dras', 'teelbal', 'zot', 'zottin', 'kop', 'gekkin', 'gek', 'bal']": {
+        "prompt": "Nederlands: \"fiets\" - Fran\u00e7ais: \"v\u00e9lo\"\nNederlands: \"geit\" - Fran\u00e7ais: \"ch\u00e8vre\"\nNederlands: \"boek\" - Fran\u00e7ais: \"livre\"\nNederlands: \"kous\" - Fran\u00e7ais: \"bas\"\nNederlands: \"patat\" - Fran\u00e7ais: \"patate\"\nNederlands: \"moer\" - Fran\u00e7ais: \"",
+        "target": "['zone humide', 'marais', '\u00e9crou']",
+        "word original": "nut"
+    },
+    "['kantoor', 'autoriteit', 'bureau', 'bureel', 'expert', 'agentschap', 'overheidsagentschap', 'dienst', 'overheidsinstelling', 'kantoorgebouw', 'kabinet']": {
+        "prompt": "Nederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"trein\" - Fran\u00e7ais: \"train\"\nNederlands: \"boom\" - Fran\u00e7ais: \"arbre\"\nNederlands: \"boek\" - Fran\u00e7ais: \"livre\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"",
+        "target": "['organisme', 'autorit\u00e9', 'agence', 'bureau', 'agence publique', 'minist\u00e8re', 'office', 'administration f\u00e9d\u00e9rale']",
+        "word original": "office"
+    },
+    "['oranje', 'pompoen', 'tomaat', 'tomatenplant', 'pumpkin', 'goud', 'guld', 'amber']": {
+        "prompt": "Nederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"hond\" - Fran\u00e7ais: \"chien\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"mond\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nNederlands: \"oranje\" - Fran\u00e7ais: \"",
+        "target": "['citrouille', 'tomate', 'orange', 'or', 'ambre']",
+        "word original": "orange"
+    },
+    "['bakoven', 'oven']": {
+        "prompt": "Nederlands: \"vleugel\" - Fran\u00e7ais: \"aile\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"organisme\"\nNederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"bakoven\" - Fran\u00e7ais: \"",
+        "target": "['four']",
+        "word original": "oven"
+    },
+    "['varken', 'zwijn', 'echte zwijnen', 'krulstaart']": {
+        "prompt": "Nederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"lepel\" - Fran\u00e7ais: \"cuill\u00e8re\"\nNederlands: \"varken\" - Fran\u00e7ais: \"",
+        "target": "['porc', 'cochon', 'Sus', 'Sus scrofa domestica']",
+        "word original": "pig"
+    },
+    "['pijp', 'waterleiding', 'leiding', 'buis', 'leidingwerk', 'kanaal', 'pijpje', 'koker']": {
+        "prompt": "Nederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"druppel\" - Fran\u00e7ais: \"goutte de pluie\"\nNederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"trompet\" - Fran\u00e7ais: \"citaro\"\nNederlands: \"pijp\" - Fran\u00e7ais: \"",
+        "target": "['conduite principale', 'tuyau', 'conduit', 'canalisation', 'pipe', 'tube']",
+        "word original": "pipe"
+    },
+    "['vliegtuig', 'toestel', 'kist', 'vliegmachine', 'luchtvaartuig', 'zij is bewusteloos']": {
+        "prompt": "Nederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"oor\" - Fran\u00e7ais: \"OMS\"\nNederlands: \"comit\u00e9\" - Fran\u00e7ais: \"commission\"\nNederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"boot\" - Fran\u00e7ais: \"navire\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"",
+        "target": "['appareil volant', 'a\u00e9ronef', 'avion', 'a\u00e9roplane']",
+        "word original": "plane"
+    },
+    "['ploeg', 'team', 'sportploeg', 'rockgroep', 'rockband', 'crew', 'bemanning']": {
+        "prompt": "Nederlands: \"oor\" - Fran\u00e7ais: \"OMS\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"boek\" - Fran\u00e7ais: \"livre\"\nNederlands: \"ploeg\" - Fran\u00e7ais: \"",
+        "target": "['charrue', '\u00e9quipe', 'groupe', 'groupe de rock', '\u00e9quipage', 'gang']",
+        "word original": "plough"
+    },
+    "['zak', 'ontslag', 'gedwongen ontslag', 'uitstoot', 'tas', 'papieren tas', 'buil', 'broekzak']": {
+        "prompt": "Nederlands: \"vlieg\" - Fran\u00e7ais: \"dipt\u00e8re\"\nNederlands: \"video\" - Fran\u00e7ais: \"t\u00e9l\u00e9vision\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"zak\" - Fran\u00e7ais: \"",
+        "target": "['renvoi', 'licenciement', 'paquet', 'limogeage', 'fin du rapport de travail', 'cong\u00e9', 'sac', 'sac plastique', 'sac de caisse', 'sac en papier', 'poche', 'poche pantalon', 'poche de pantalon']",
+        "word original": "pocket"
+    },
+    "['toilet', 'wc', 'pispot', 'po', 'nachtspiegel', 'pot', 'piespot', 'wasgelegenheid', 'badkamer', 'badkuip', 'bad', 'privaat', 'closet', 'wc-pot', 'retirade', 'herentoilet', 'toiletpot', 'schijthuis', 'gemak', 'kakdoos', 'plee', 'poepdoos', 'doos', 'bestekamer']": {
+        "prompt": "Nederlands: \"kar\" - Fran\u00e7ais: \"voiture\"\nNederlands: \"kaas\" - Fran\u00e7ais: \"fromage\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"spons\" - Fran\u00e7ais: \"\u00e9ponge\"\nNederlands: \"kat\" - Fran\u00e7ais: \"minou\"\nNederlands: \"toilet\" - Fran\u00e7ais: \"",
+        "target": "['toilette', 'toilettes', 'pot de chambre', 'pot', 'salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'cabinet de toilette']",
+        "word original": "pot"
+    },
+    "['patat', 'aardappel', 'pieper', 'knol', 'kind', 'friet', 'jongere', 'jongeling', 'minderjarige', 'ding', 'patates frites', 'frieten', 'frietjes', 'frites', 'patatje', 'frietje']": {
+        "prompt": "Nederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"gevogelte\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"tafel\" - Fran\u00e7ais: \"table\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"patat\" - Fran\u00e7ais: \"",
+        "target": "['patate', 'pomme de terre', 'mineur', 'frite', 'gosse', 'enfant', 'pomme frite', 'jeune', 'responsabilit\u00e9 p\u00e9nale des mineurs', 'pommes frites', 'frites', 'pommes allumettes']",
+        "word original": "potato"
+    },
+    "['nor', 'bajes', 'bak', 'cachot', 'lik', 'gevangenis', 'gevang', 'strafinrichting', 'kerker', 'penitentiaire inrichting', 'huis van bewaring', 'strafgevangenis', 'gevangenhuis', 'kot', 'petoet', 'kast', 'rijkshotel', 'pot']": {
+        "prompt": "Nederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"knoop\" - Fran\u00e7ais: \"n\u0153ud\"\nNederlands: \"vissen\" - Fran\u00e7ais: \"poisson\"\nNederlands: \"fles\" - Fran\u00e7ais: \"bouteille\"\nNederlands: \"nor\" - Fran\u00e7ais: \"",
+        "target": "['prison', 'p\u00e9nitencier', 't\u00f4le', 'trou', 'placard', 'taule', 'ge\u00f4le', 'cabane']",
+        "word original": "prison"
+    },
+    "['muizen en ratten van de Oude Wereld', 'Muis', 'muis', 'Mus', 'muisje']": {
+        "prompt": "Nederlands: \"brug\" - Fran\u00e7ais: \"pont\"\nNederlands: \"vlieg\" - Fran\u00e7ais: \"dipt\u00e8re\"\nNederlands: \"patat\" - Fran\u00e7ais: \"patate\"\nNederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"muizen en ratten van de Oude Wereld\" - Fran\u00e7ais: \"",
+        "target": "['souris', 'rat', 'Mus']",
+        "word original": "rat"
+    },
+    "['factuur', 'Hiep', 'hiep', 'snoeimes', 'rekening', 'beer', 'telling', 'nota', 'verslag', 'berekening']": {
+        "prompt": "Nederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"lepel\" - Fran\u00e7ais: \"cuill\u00e8re\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"dal\" - Fran\u00e7ais: \"vall\u00e9e\"\nNederlands: \"factuur\" - Fran\u00e7ais: \"",
+        "target": "['anicroche', 'serpe', 'serpette', 'serpe de guerre', 'note', 'facture', 'addition', 'compte']",
+        "word original": "receipt"
+    },
+    "['lijfstraf']": {
+        "prompt": "Nederlands: \"spons\" - Fran\u00e7ais: \"\u00e9ponge\"\nNederlands: \"lover\" - Fran\u00e7ais: \"feuillage\"\nNederlands: \"klinker\" - Fran\u00e7ais: \"brique\"\nNederlands: \"bakoven\" - Fran\u00e7ais: \"four\"\nNederlands: \"wapen\" - Fran\u00e7ais: \"blasonnement\"\nNederlands: \"lijfstraf\" - Fran\u00e7ais: \"",
+        "target": "['ch\u00e2timent corporel']",
+        "word original": "rod"
+    },
+    "['dak']": {
+        "prompt": "Nederlands: \"zak\" - Fran\u00e7ais: \"renvoi\"\nNederlands: \"vissen\" - Fran\u00e7ais: \"poisson\"\nNederlands: \"bij\" - Fran\u00e7ais: \"abeille\"\nNederlands: \"tas\" - Fran\u00e7ais: \"sac \u00e0 main\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"dak\" - Fran\u00e7ais: \"",
+        "target": "['toit']",
+        "word original": "roof"
+    },
+    "['zeilschip']": {
+        "prompt": "Nederlands: \"zaad\" - Fran\u00e7ais: \"graine\"\nNederlands: \"zwaard\" - Fran\u00e7ais: \"\u00e9p\u00e9e\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"kous\" - Fran\u00e7ais: \"bas\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"zeilschip\" - Fran\u00e7ais: \"",
+        "target": "['voilier']",
+        "word original": "sail"
+    },
+    "['universiteit', 'academie', 'school', 'genootschap', 'maatschappij', 'college', 'unief', 'universitair']": {
+        "prompt": "Nederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"kantoor\" - Fran\u00e7ais: \"organisme\"\nNederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"vierkant\" - Fran\u00e7ais: \"carr\u00e9\"\nNederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"",
+        "target": "['acad\u00e9mie', 'universit\u00e9', '\u00e9cole', 'coll\u00e8ge', 'univ', 'fac']",
+        "word original": "school"
+    },
+    "['schaar', 'kreeftachtigen', 'schaaldieren', 'schaaldier']": {
+        "prompt": "Nederlands: \"maan\" - Fran\u00e7ais: \"satellite artificiel\"\nNederlands: \"identiteitsbewijs\" - Fran\u00e7ais: \"carte d'identification\"\nNederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"uurwerk\" - Fran\u00e7ais: \"horloge\"\nNederlands: \"rok\" - Fran\u00e7ais: \"habit de soir\u00e9e\"\nNederlands: \"schaar\" - Fran\u00e7ais: \"",
+        "target": "['crustac\u00e9', 'crustac\u00e9s', 'paire de ciseaux', 'ciseaux']",
+        "word original": "scissors"
+    },
+    "['schroef', 'vijs']": {
+        "prompt": "Nederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"hoed\" - Fran\u00e7ais: \"chapeau\"\nNederlands: \"mond\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nNederlands: \"knoop\" - Fran\u00e7ais: \"n\u0153ud\"\nNederlands: \"kam\" - Fran\u00e7ais: \"cr\u00eate\"\nNederlands: \"schroef\" - Fran\u00e7ais: \"",
+        "target": "['vis de fixation', 'vis']",
+        "word original": "screw"
+    },
+    "['zaad']": {
+        "prompt": "Nederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"polshorloge\" - Fran\u00e7ais: \"bracelet-montre\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"corps humain\"\nNederlands: \"zaad\" - Fran\u00e7ais: \"",
+        "target": "['graine', 'semence']",
+        "word original": "seed"
+    },
+    "['schaap', 'schaapachtigen', 'Ovis orientalis aries', 'Ovis aries']": {
+        "prompt": "Nederlands: \"maag\" - Fran\u00e7ais: \"estomac\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"hoek\" - Fran\u00e7ais: \"angle\"\nNederlands: \"spier\" - Fran\u00e7ais: \"muscle\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"schaap\" - Fran\u00e7ais: \"",
+        "target": "['mouton', 'ovid\u00e9', 'Ovis aries', 'mouton domestique', 'Ovis orientalis aries']",
+        "word original": "sheep"
+    },
+    "['plank', 'lat', 'board', 'houtvezelplaat', 'houtboard', 'schap', 'legplank', 'rek met planken', 'rek', 'opslagplank', 'hoedeplank', 'hoedenplank']": {
+        "prompt": "Nederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"deurbel\" - Fran\u00e7ais: \"sonnette\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"boot\" - Fran\u00e7ais: \"navire\"\nNederlands: \"kring\" - Fran\u00e7ais: \"cercle\"\nNederlands: \"plank\" - Fran\u00e7ais: \"",
+        "target": "['planche', 'rayon', '\u00e9tag\u00e8re', 'tablard', 'tablette']",
+        "word original": "shelf"
+    },
+    "['schip', 'kiel', 'boot', 'vaartuig', 'watervaartuig']": {
+        "prompt": "Nederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"vel\" - Fran\u00e7ais: \"peau\"\nNederlands: \"hart\" - Fran\u00e7ais: \"c\u0153ur\"\nNederlands: \"kam\" - Fran\u00e7ais: \"cr\u00eate\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"schip\" - Fran\u00e7ais: \"",
+        "target": "['navire', 'bateau', 'nacelle', 'barque', 'canot', 'vaisseau', 'embarcation']",
+        "word original": "ship"
+    },
+    "['schoen', 'aansteker']": {
+        "prompt": "Nederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"staart\" - Fran\u00e7ais: \"queue\"\nNederlands: \"vork\" - Fran\u00e7ais: \"intersection\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"appelschil\" - Fran\u00e7ais: \"peau de pomme\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"",
+        "target": "['soulier', 'tatane', 'chaussure', 'pompe', 'grolle', 'godasse']",
+        "word original": "tongue"
+    },
+    "['vel', 'huid', 'skinhead', 'onderhuid', 'bont', 'pels', 'vacht', 'blad', 'papier', 'velletje', 'blaadje']": {
+        "prompt": "Nederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"lijfstraf\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"kin\" - Fran\u00e7ais: \"menton\"\nNederlands: \"vel\" - Fran\u00e7ais: \"",
+        "target": "['peau', 't\u00e9gument', 'cuir', 'fourrure', 'd\u00e9pouille', 'feuille', 'papier']",
+        "word original": "skin"
+    },
+    "['rok', 'rokkostuum', 'Rokkostuum', 'full-dress', 'galakleding', 'gala', 'galakostuum']": {
+        "prompt": "Nederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"kleine teen\" - Fran\u00e7ais: \"orteil\"\nNederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"schokbreker\" - Fran\u00e7ais: \"amortisseur\"\nNederlands: \"rok\" - Fran\u00e7ais: \"",
+        "target": "['habit de soir\u00e9e', 'queue-de-pie', 'habit', 'queue-de-morue', 'pile', 'jupe']",
+        "word original": "skirt"
+    },
+    "['slang', 'serpent', 'slangen']": {
+        "prompt": "Nederlands: \"val\" - Fran\u00e7ais: \"pi\u00e9geage\"\nNederlands: \"borstel\" - Fran\u00e7ais: \"brosse\"\nNederlands: \"boom\" - Fran\u00e7ais: \"arbre\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"lip\" - Fran\u00e7ais: \"l\u00e8vres\"\nNederlands: \"slang\" - Fran\u00e7ais: \"",
+        "target": "['serpent', 'ophidien', 'serpentes']",
+        "word original": "snake"
+    },
+    "['sok', 'condoom', 'kapotje', 'rubbertje', 'regenjasje', 'capotje', 'ballon', 'overjas']": {
+        "prompt": "Nederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"mond\" - Fran\u00e7ais: \"cavit\u00e9 buccale\"\nNederlands: \"kaas\" - Fran\u00e7ais: \"fromage\"\nNederlands: \"kat\" - Fran\u00e7ais: \"minou\"\nNederlands: \"fles\" - Fran\u00e7ais: \"bouteille\"\nNederlands: \"sok\" - Fran\u00e7ais: \"",
+        "target": "['condom', 'capote', 'pr\u00e9servatif', 'capote anglaise', 'chaussette', 'bas']",
+        "word original": "sock"
+    },
+    "['spons', 'sponzen', 'sponsdieren']": {
+        "prompt": "Nederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"benen\" - Fran\u00e7ais: \"jambe\"\nNederlands: \"voet\" - Fran\u00e7ais: \"pieds\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"garen\" - Fran\u00e7ais: \"fil\"\nNederlands: \"spons\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9ponge', '\u00e9ponges', 'Porifera', 'parazoaire']",
+        "word original": "sponge"
+    },
+    "['lepel']": {
+        "prompt": "Nederlands: \"wagon\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nNederlands: \"kerk\" - Fran\u00e7ais: \"\u00e9glise\"\nNederlands: \"wasgelegenheid\" - Fran\u00e7ais: \"salle de bain\"\nNederlands: \"varken\" - Fran\u00e7ais: \"porc\"\nNederlands: \"afbeelding\" - Fran\u00e7ais: \"peinture\"\nNederlands: \"lepel\" - Fran\u00e7ais: \"",
+        "target": "['cuill\u00e8re', 'cuiller']",
+        "word original": "spoon"
+    },
+    "['bron', 'wel', 'fontein', 'bestaansmiddelen', 'grondstof', 'hulpbron', 'natuurlijke hulpbron', 'put', 'boorput', 'aanvang', 'oorsprong', 'start', 'begin', 'herkomst', 'wortel', 'origine', 'oerbron', 'kiem']": {
+        "prompt": "Nederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"kar\" - Fran\u00e7ais: \"voiture\"\nNederlands: \"sok\" - Fran\u00e7ais: \"condom\"\nNederlands: \"gevogelte\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"lijfstraf\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nNederlands: \"bron\" - Fran\u00e7ais: \"",
+        "target": "['source', 'ressource', 'puits', 'origine', 'd\u00e9but', 'racine']",
+        "word original": "spring"
+    },
+    "['vierkant', 'carr\u00e9']": {
+        "prompt": "Nederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"gordijn\" - Fran\u00e7ais: \"rideau\"\nNederlands: \"theeketel\" - Fran\u00e7ais: \"bouilloire \u00e0 th\u00e9\"\nNederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"vogel\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"vierkant\" - Fran\u00e7ais: \"",
+        "target": "['carr\u00e9']",
+        "word original": "square"
+    },
+    "['postzegel', 'zegel', 'herenakkoord', 'tronie', 'smoel', 'aangezicht', 'gelaat', 'gezicht', 'snoet', 'fieselefacie', 'bakkes', 'porem', 'snufferd', 'ponem', 'facie', 'snuit', 'smoelwerk', 'fieselemie', 'aanschijn', 'toetje', 'toet']": {
+        "prompt": "Nederlands: \"vuisthamer\" - Fran\u00e7ais: \"marteau\"\nNederlands: \"edelsteen\" - Fran\u00e7ais: \"joyau\"\nNederlands: \"bibliotheek\" - Fran\u00e7ais: \"librairie\"\nNederlands: \"schroef\" - Fran\u00e7ais: \"vis de fixation\"\nNederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"postzegel\" - Fran\u00e7ais: \"",
+        "target": "['timbre-poste', 'timbre', 'timbre postal', 'face', 'figure', 'visage']",
+        "word original": "stamp"
+    },
+    "['zon', 'ster', 'sterretje']": {
+        "prompt": "Nederlands: \"ploeg\" - Fran\u00e7ais: \"charrue\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"boot\" - Fran\u00e7ais: \"navire\"\nNederlands: \"kring\" - Fran\u00e7ais: \"cercle\"\nNederlands: \"zon\" - Fran\u00e7ais: \"",
+        "target": "['\u00e9toile']",
+        "word original": "star"
+    },
+    "['station', 'treinstation', 'stationsgebouw', 'spoorwegstation', 'post', 'halte', 'wachtpost']": {
+        "prompt": "Nederlands: \"sigaar\" - Fran\u00e7ais: \"Scirpoides holoschoenus\"\nNederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"oogbol\" - Fran\u00e7ais: \"yeux\"\nNederlands: \"brug\" - Fran\u00e7ais: \"pont\"\nNederlands: \"station\" - Fran\u00e7ais: \"",
+        "target": "['gare', 'gare ferroviaire', 'gare de chemin de fer', 'poste']",
+        "word original": "station"
+    },
+    "['stengel', 'halm', 'steel', 'stok', 'stam', 'grondwoord', 'voorsteven']": {
+        "prompt": "Nederlands: \"boog\" - Fran\u00e7ais: \"arc\"\nNederlands: \"identiteitsbewijs\" - Fran\u00e7ais: \"carte d'identification\"\nNederlands: \"optrekje\" - Fran\u00e7ais: \"domicile\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"mes\" - Fran\u00e7ais: \"couteau\"\nNederlands: \"stengel\" - Fran\u00e7ais: \"",
+        "target": "['tige']",
+        "word original": "stem"
+    },
+    "['sigaar', 'Kogelbies', 'grote lisdodde', 'Grote lisdodde', 'kogelbies']": {
+        "prompt": "Nederlands: \"postzegel\" - Fran\u00e7ais: \"timbre-poste\"\nNederlands: \"zon\" - Fran\u00e7ais: \"\u00e9toile\"\nNederlands: \"boog\" - Fran\u00e7ais: \"arc\"\nNederlands: \"gordijn\" - Fran\u00e7ais: \"rideau\"\nNederlands: \"wagon\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nNederlands: \"sigaar\" - Fran\u00e7ais: \"",
+        "target": "['Scirpoides holoschoenus', 'massette \u00e0 larges feuilles', 'scirpe', 'jonc', 'Massette \u00e0 larges feuilles', 'cigare']",
+        "word original": "stick"
+    },
+    "['kous', 'kousje']": {
+        "prompt": "Nederlands: \"naald\" - Fran\u00e7ais: \"aiguille \u00e0 coudre\"\nNederlands: \"schaar\" - Fran\u00e7ais: \"crustac\u00e9\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"kous\" - Fran\u00e7ais: \"",
+        "target": "['bas']",
+        "word original": "stocking"
+    },
+    "['maag', 'buik', 'familielid', 'verwant', 'bloedverwant', 'naverwant']": {
+        "prompt": "Nederlands: \"broek\" - Fran\u00e7ais: \"marais\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"aap\" - Fran\u00e7ais: \"singe\"\nNederlands: \"universiteit\" - Fran\u00e7ais: \"acad\u00e9mie\"\nNederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"maag\" - Fran\u00e7ais: \"",
+        "target": "['estomac', 'ventre', 'parent', 'g\u00e9niteur', 'g\u00e9nitrice']",
+        "word original": "stomach"
+    },
+    "['opslagmedium', 'geheugen', 'computergeheugen', 'intern geheugen', 'geheugeneenheid']": {
+        "prompt": "Nederlands: \"eiland\" - Fran\u00e7ais: \"ile\"\nNederlands: \"oranje\" - Fran\u00e7ais: \"citrouille\"\nNederlands: \"bij\" - Fran\u00e7ais: \"abeille\"\nNederlands: \"postzegel\" - Fran\u00e7ais: \"timbre-poste\"\nNederlands: \"baby\" - Fran\u00e7ais: \"nourrisson\"\nNederlands: \"opslagmedium\" - Fran\u00e7ais: \"",
+        "target": "['m\u00e9moire', 'm\u00e9moire informatique', 'm\u00e9moire de stockage']",
+        "word original": "store"
+    },
+    "['straat', 'baan', 'weg', 'traject', 'route', 'kasseiweg', 'straatweg', 'steenweg']": {
+        "prompt": "Nederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"identiteitsbewijs\" - Fran\u00e7ais: \"carte d'identification\"\nNederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"gebitselement\" - Fran\u00e7ais: \"dents\"\nNederlands: \"kring\" - Fran\u00e7ais: \"cercle\"\nNederlands: \"straat\" - Fran\u00e7ais: \"",
+        "target": "['route', 'itin\u00e9raire', 'chemin', 'rue']",
+        "word original": "street"
+    },
+    "['zondag']": {
+        "prompt": "Nederlands: \"ei\" - Fran\u00e7ais: \"\u0153uf de poule\"\nNederlands: \"kleine teen\" - Fran\u00e7ais: \"orteil\"\nNederlands: \"vleugel\" - Fran\u00e7ais: \"aile\"\nNederlands: \"lepel\" - Fran\u00e7ais: \"cuill\u00e8re\"\nNederlands: \"schaap\" - Fran\u00e7ais: \"mouton\"\nNederlands: \"zondag\" - Fran\u00e7ais: \"",
+        "target": "['dimanche', 'jour du Seigneur', 'Dimanche']",
+        "word original": "sun"
+    },
+    "['tafel']": {
+        "prompt": "Nederlands: \"fotocamera\" - Fran\u00e7ais: \"appareil photographique\"\nNederlands: \"ring\" - Fran\u00e7ais: \"ceinture p\u00e9riph\u00e9rique\"\nNederlands: \"rem\" - Fran\u00e7ais: \"freinage\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"joch\" - Fran\u00e7ais: \"gar\u00e7on\"\nNederlands: \"tafel\" - Fran\u00e7ais: \"",
+        "target": "['table']",
+        "word original": "table"
+    },
+    "['staart']": {
+        "prompt": "Nederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"zon\" - Fran\u00e7ais: \"\u00e9toile\"\nNederlands: \"maag\" - Fran\u00e7ais: \"estomac\"\nNederlands: \"tafel\" - Fran\u00e7ais: \"table\"\nNederlands: \"staart\" - Fran\u00e7ais: \"",
+        "target": "['queue']",
+        "word original": "tail"
+    },
+    "['garen', 'draad', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees']": {
+        "prompt": "Nederlands: \"vissen\" - Fran\u00e7ais: \"poisson\"\nNederlands: \"patat\" - Fran\u00e7ais: \"patate\"\nNederlands: \"bassin\" - Fran\u00e7ais: \"lac artificiel\"\nNederlands: \"wand\" - Fran\u00e7ais: \"mur\"\nNederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"garen\" - Fran\u00e7ais: \"",
+        "target": "['fil', 'fil textile', 'ficelle', 'corde']",
+        "word original": "thread"
+    },
+    "['duim', 'inch']": {
+        "prompt": "Nederlands: \"zwavelstokje\" - Fran\u00e7ais: \"allumette\"\nNederlands: \"netwerk\" - Fran\u00e7ais: \"internet\"\nNederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"fouet\"\nNederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"duim\" - Fran\u00e7ais: \"",
+        "target": "['pouce']",
+        "word original": "thumb"
+    },
+    "['kleine teen', 'tenen', 'teen', 'kom nou']": {
+        "prompt": "Nederlands: \"verpleeginrichting\" - Fran\u00e7ais: \"h\u00f4pital\"\nNederlands: \"vliegtuig\" - Fran\u00e7ais: \"appareil volant\"\nNederlands: \"postzegel\" - Fran\u00e7ais: \"timbre-poste\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"kleine teen\" - Fran\u00e7ais: \"",
+        "target": "['orteil', 'doigt de pied', 'doigts de pied', 'petit orteil']",
+        "word original": "toe"
+    },
+    "['gebitselement', 'tand', 'tanden', 'menselijke tand']": {
+        "prompt": "Nederlands: \"trompet\" - Fran\u00e7ais: \"citaro\"\nNederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"kledij\" - Fran\u00e7ais: \"fringue\"\nNederlands: \"klinker\" - Fran\u00e7ais: \"brique\"\nNederlands: \"nor\" - Fran\u00e7ais: \"prison\"\nNederlands: \"gebitselement\" - Fran\u00e7ais: \"",
+        "target": "['dents', 'dent', 'dent humaine']",
+        "word original": "tooth"
+    },
+    "['trein', 'konvooi', 'karavaan', 'versnelling', 'aandrijflijn', 'derailleur']": {
+        "prompt": "Nederlands: \"worm\" - Fran\u00e7ais: \"dragon\"\nNederlands: \"kam\" - Fran\u00e7ais: \"cr\u00eate\"\nNederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"paard\" - Fran\u00e7ais: \"cheval\"\nNederlands: \"boom\" - Fran\u00e7ais: \"arbre\"\nNederlands: \"trein\" - Fran\u00e7ais: \"",
+        "target": "['train', 'convoi', 'vitesse', 'groupe motopropulseur', 'engrenage']",
+        "word original": "train"
+    },
+    "['boom']": {
+        "prompt": "Nederlands: \"dak\" - Fran\u00e7ais: \"toit\"\nNederlands: \"val\" - Fran\u00e7ais: \"pi\u00e9geage\"\nNederlands: \"aap\" - Fran\u00e7ais: \"singe\"\nNederlands: \"vork\" - Fran\u00e7ais: \"intersection\"\nNederlands: \"straat\" - Fran\u00e7ais: \"route\"\nNederlands: \"boom\" - Fran\u00e7ais: \"",
+        "target": "['arbre']",
+        "word original": "tree"
+    },
+    "['broek', 'moeras', 'zwamp']": {
+        "prompt": "Nederlands: \"schaap\" - Fran\u00e7ais: \"mouton\"\nNederlands: \"pluim\" - Fran\u00e7ais: \"plumage\"\nNederlands: \"hond\" - Fran\u00e7ais: \"chien\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"stengel\" - Fran\u00e7ais: \"tige\"\nNederlands: \"broek\" - Fran\u00e7ais: \"",
+        "target": "['marais', 'swamp', 'mar\u00e9cage', 'falzar', 'falzard', 'b\u00e9noche', 'fendard', 'futal', 'fute', 'froc', 'pantalon', 'b\u00e9nard']",
+        "word original": "trousers"
+    },
+    "['paraplu', 'regenscherm']": {
+        "prompt": "Nederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"hals\" - Fran\u00e7ais: \"cou\"\nNederlands: \"raam\" - Fran\u00e7ais: \"rebord\"\nNederlands: \"duim\" - Fran\u00e7ais: \"pouce\"\nNederlands: \"paraplu\" - Fran\u00e7ais: \"",
+        "target": "['p\u00e9pin', 'parapluie', 'p\u00e9broque', 'riflard', 'en-cas', 'ombrelle']",
+        "word original": "umbrella"
+    },
+    "['wand', 'muur']": {
+        "prompt": "Nederlands: \"hond\" - Fran\u00e7ais: \"chien\"\nNederlands: \"brein\" - Fran\u00e7ais: \"psych\u00e9\"\nNederlands: \"aanhouding\" - Fran\u00e7ais: \"arrestation\"\nNederlands: \"geweer\" - Fran\u00e7ais: \"arme \u00e0 feu\"\nNederlands: \"neus\" - Fran\u00e7ais: \"nez\"\nNederlands: \"wand\" - Fran\u00e7ais: \"",
+        "target": "['mur']",
+        "word original": "wall"
+    },
+    "['polshorloge', 'klokje', 'horloge', 'klok', 'uurwerk']": {
+        "prompt": "Nederlands: \"wolk\" - Fran\u00e7ais: \"nuage\"\nNederlands: \"zeilschip\" - Fran\u00e7ais: \"voilier\"\nNederlands: \"kring\" - Fran\u00e7ais: \"cercle\"\nNederlands: \"kar\" - Fran\u00e7ais: \"voiture\"\nNederlands: \"knie\" - Fran\u00e7ais: \"genou\"\nNederlands: \"polshorloge\" - Fran\u00e7ais: \"",
+        "target": "['bracelet-montre', 'montre', 'montre-bracelet']",
+        "word original": "watch"
+    },
+    "['fiets', 'kar', 'velo', 'rijwiel', 'stalen ros', 'wielrennen', 'wielrennen voor vrouwen', 'fietsen']": {
+        "prompt": "Nederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"lijfstraf\" - Fran\u00e7ais: \"ch\u00e2timent corporel\"\nNederlands: \"oranje\" - Fran\u00e7ais: \"citrouille\"\nNederlands: \"geit\" - Fran\u00e7ais: \"ch\u00e8vre\"\nNederlands: \"boerenbedrijf\" - Fran\u00e7ais: \"ferme\"\nNederlands: \"fiets\" - Fran\u00e7ais: \"",
+        "target": "['v\u00e9lo', 'bicyclette', 'petite reine', 'v\u00e9locip\u00e8de', 'cyclisme', 'Cyclisme f\u00e9minin']",
+        "word original": "wheel"
+    },
+    "['zweep']": {
+        "prompt": "Nederlands: \"vogel\" - Fran\u00e7ais: \"oiseau\"\nNederlands: \"schoen\" - Fran\u00e7ais: \"soulier\"\nNederlands: \"schaap\" - Fran\u00e7ais: \"mouton\"\nNederlands: \"deur\" - Fran\u00e7ais: \"encadrement de porte\"\nNederlands: \"vuisthamer\" - Fran\u00e7ais: \"marteau\"\nNederlands: \"zweep\" - Fran\u00e7ais: \"",
+        "target": "['fouet']",
+        "word original": "whip"
+    },
+    "['raam', 'venstertablet', 'venster', 'glasraam', 'vensterraam', 'licht', 'raampje']": {
+        "prompt": "Nederlands: \"paraplu\" - Fran\u00e7ais: \"p\u00e9pin\"\nNederlands: \"menselijke verrichtingsleer\" - Fran\u00e7ais: \"corps humain\"\nNederlands: \"haar\" - Fran\u00e7ais: \"technologie de l'information\"\nNederlands: \"draad\" - Fran\u00e7ais: \"fil\"\nNederlands: \"eiland\" - Fran\u00e7ais: \"ile\"\nNederlands: \"raam\" - Fran\u00e7ais: \"",
+        "target": "['rebord', 'fen\u00eatre', 'rebord de fen\u00eatre']",
+        "word original": "window"
+    },
+    "['vleugel', 'vlerk', 'wiek']": {
+        "prompt": "Nederlands: \"optrekje\" - Fran\u00e7ais: \"domicile\"\nNederlands: \"plank\" - Fran\u00e7ais: \"planche\"\nNederlands: \"jas\" - Fran\u00e7ais: \"veste\"\nNederlands: \"boom\" - Fran\u00e7ais: \"arbre\"\nNederlands: \"bij\" - Fran\u00e7ais: \"abeille\"\nNederlands: \"vleugel\" - Fran\u00e7ais: \"",
+        "target": "['aile']",
+        "word original": "wing"
+    },
+    "['draad', 'garen', 'twijn', 'koord', 'streng', 'tweern', 'paktouw', 'bindtouw', 'bindgaren', 'touw', 'pees', 'snoer', 'elektriciteitsdraad', 'ader']": {
+        "prompt": "Nederlands: \"ei\" - Fran\u00e7ais: \"\u0153uf de poule\"\nNederlands: \"slang\" - Fran\u00e7ais: \"serpent\"\nNederlands: \"schokbreker\" - Fran\u00e7ais: \"amortisseur\"\nNederlands: \"rundvee\" - Fran\u00e7ais: \"vache\"\nNederlands: \"kin\" - Fran\u00e7ais: \"menton\"\nNederlands: \"draad\" - Fran\u00e7ais: \"",
+        "target": "['fil', 'fil textile', 'ficelle', 'corde', 'fil m\u00e9tallique']",
+        "word original": "wire"
+    },
+    "['worm', 'draak', 'Draak', 'pier', 'wormen', 'regenworm', 'aardworm', 'wurm']": {
+        "prompt": "Nederlands: \"knok\" - Fran\u00e7ais: \"os\"\nNederlands: \"motor\" - Fran\u00e7ais: \"motocyclette\"\nNederlands: \"emmer\" - Fran\u00e7ais: \"seau\"\nNederlands: \"wagon\" - Fran\u00e7ais: \"v\u00e9hicule ferroviaire\"\nNederlands: \"meisje\" - Fran\u00e7ais: \"fille\"\nNederlands: \"worm\" - Fran\u00e7ais: \"",
+        "target": "['dragon', 'ver']",
+        "word original": "worm"
+    }
+}

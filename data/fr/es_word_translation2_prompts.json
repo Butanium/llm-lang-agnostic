@@ -1,0 +1,887 @@
+{
+    "['angle', 'angles oppos\u00e9s par le sommet', 'angles suppl\u00e9mentaires', 'angles adjacents', 'angles compl\u00e9mentaires', 'coin']": {
+        "prompt": "Fran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"v\u00e9lo\" - Espa\u00f1ol: \"bicicleta\"\nFran\u00e7ais: \"charrue\" - Espa\u00f1ol: \"arado\"\nFran\u00e7ais: \"fringue\" - Espa\u00f1ol: \"ropa\"\nFran\u00e7ais: \"angle\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1ngulo', '\u00e1ngulos suplementarios', '\u00e1ngulos consecutivos', '\u00c1ngulos consecutivos', '\u00e1ngulos opuestos por el v\u00e9rtice', '\u00e1ngulos complementarios', '\u00c1ngulos complementarios', 'rinc\u00f3n', 'esquina']",
+        "word original": "angle"
+    },
+    "['fourmi', 'Formicidae']": {
+        "prompt": "Fran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"piano\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"arresto\"\nFran\u00e7ais: \"fourmi\" - Espa\u00f1ol: \"",
+        "target": "['hormiga', 'Formicidae', 'formicidae']",
+        "word original": "ant"
+    },
+    "['peau de pomme', 'pomme']": {
+        "prompt": "Fran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"porc\" - Espa\u00f1ol: \"marrano\"\nFran\u00e7ais: \"coffre\" - Espa\u00f1ol: \"ba\u00fal\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"peau de pomme\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1scara de manzana', 'manzana']",
+        "word original": "apple"
+    },
+    "['arc', 'arc \u00e0 fl\u00e8che', 'arc et fl\u00e8che', 'arc \u00e9lectrique', '\u00e9tincelle \u00e9lectrique', 'd\u00e9charge \u00e9lectrique', 'Arc \u00e9lectrique', 'arc \u00e0 fl\u00e8ches']": {
+        "prompt": "Fran\u00e7ais: \"fil\" - Espa\u00f1ol: \"Elephantidae\"\nFran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"esponja\"\nFran\u00e7ais: \"bouche\" - Espa\u00f1ol: \"cavidad oral\"\nFran\u00e7ais: \"toilette\" - Espa\u00f1ol: \"maquillaje\"\nFran\u00e7ais: \"joyau\" - Espa\u00f1ol: \"joyer\u00eda\"\nFran\u00e7ais: \"arc\" - Espa\u00f1ol: \"",
+        "target": "['arco y flecha', 'arco', 'chispa', 'arco el\u00e9ctrico', 'descarga el\u00e9ctrica', 'chispa el\u00e9ctrica', 'centella', 'arco voltaico']",
+        "word original": "arch"
+    },
+    "['arme']": {
+        "prompt": "Fran\u00e7ais: \"singe\" - Espa\u00f1ol: \"primates\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"hervidor\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"arme\" - Espa\u00f1ol: \"",
+        "target": "['arma']",
+        "word original": "arm"
+    },
+    "['forces arm\u00e9es', 'arm\u00e9e', 'machine de guerre', 'troupes']": {
+        "prompt": "Fran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"prison\" - Espa\u00f1ol: \"c\u00e1rcel\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"comit\u00e9\" - Espa\u00f1ol: \"comisi\u00f3n\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Espa\u00f1ol: \"",
+        "target": "['fuerza', 'fuerzas armadas', 'ej\u00e9rcito', 'FAS', 'las fuerzas armadas']",
+        "word original": "army"
+    },
+    "['nourrisson', 'nourisson', 'b\u00e9b\u00e9', 'enfant en bas \u00e2ge', 'poupon', 'enfant']": {
+        "prompt": "Fran\u00e7ais: \"doigt\" - Espa\u00f1ol: \"peineta\"\nFran\u00e7ais: \"domicile\" - Espa\u00f1ol: \"casa\"\nFran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"seau\" - Espa\u00f1ol: \"balde\"\nFran\u00e7ais: \"drapeau\" - Espa\u00f1ol: \"bandera\"\nFran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"",
+        "target": "['ni\u00f1o', 'beb\u00e9', 'ni\u00f1o de pecho', 'ni\u00f1a de pecho', 'ni\u00f1a', 'nene', 'infante', 'guagua', 'lactante', 'neonato', 'rorro', 'bebe', 'criatura']",
+        "word original": "baby"
+    },
+    "['anneau', 'bague']": {
+        "prompt": "Fran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"rebord\" - Espa\u00f1ol: \"ventana\"\nFran\u00e7ais: \"gorge\" - Espa\u00f1ol: \"ca\u00f1\u00f3n\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"hervidor\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"",
+        "target": "['anillo', 'alianza', 'sortija']",
+        "word original": "ring"
+    },
+    "['lavabo', '\u00e9vier']": {
+        "prompt": "Fran\u00e7ais: \"oiseau\" - Espa\u00f1ol: \"p\u00e1jaro\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"fourmi\" - Espa\u00f1ol: \"hormiga\"\nFran\u00e7ais: \"peigne\" - Espa\u00f1ol: \"peine\"\nFran\u00e7ais: \"lavabo\" - Espa\u00f1ol: \"",
+        "target": "['pila', 'lavatorio', 'aljofaina', 'palangana', 'jofaina', 'lavamanos', 'fregadero']",
+        "word original": "basin"
+    },
+    "['salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'toilette', 'cabinet de toilette']": {
+        "prompt": "Fran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"video\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"salle de bain\" - Espa\u00f1ol: \"",
+        "target": "['ba\u00f1o', 'cuarto de ba\u00f1o', 'lavabo', 'aseo', 'excusado', 'inodoro', 'retrete', 'lav', 'lata', 'v\u00e1ter']",
+        "word original": "bath"
+    },
+    "['lit', 'couche']": {
+        "prompt": "Fran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"cheval\" - Espa\u00f1ol: \"caballo\"\nFran\u00e7ais: \"l\u00e8vres\" - Espa\u00f1ol: \"labio\"\nFran\u00e7ais: \"moteur\" - Espa\u00f1ol: \"motor\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"",
+        "target": "['cama', 'piltra', 'catre', 'sobre', 'lecho']",
+        "word original": "bed"
+    },
+    "['abeille']": {
+        "prompt": "Fran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"plateau\" - Espa\u00f1ol: \"meseta\"\nFran\u00e7ais: \"rebord\" - Espa\u00f1ol: \"ventana\"\nFran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"piano\"\nFran\u00e7ais: \"graine\" - Espa\u00f1ol: \"semilla\"\nFran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"",
+        "target": "['abeja', 'Anthophila', 'anthophila']",
+        "word original": "bee"
+    },
+    "['sonnette', 'carillon', 'gong', 'cloche']": {
+        "prompt": "Fran\u00e7ais: \"angle\" - Espa\u00f1ol: \"\u00e1ngulo\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"chemise\" - Espa\u00f1ol: \"camisa\"\nFran\u00e7ais: \"caisse\" - Espa\u00f1ol: \"carro\"\nFran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"",
+        "target": "['juego de campanas', 'campanas tubulares', 'carill\u00f3n', 'gong', 'timbre', 'campanilla de puerta']",
+        "word original": "bell"
+    },
+    "['baie']": {
+        "prompt": "Fran\u00e7ais: \"souris\" - Espa\u00f1ol: \"rata\"\nFran\u00e7ais: \"muscle\" - Espa\u00f1ol: \"m\u00fasculo\"\nFran\u00e7ais: \"livre\" - Espa\u00f1ol: \"libro\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"",
+        "target": "['bah\u00eda']",
+        "word original": "berry"
+    },
+    "['oiseau']": {
+        "prompt": "Fran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"ferme\" - Espa\u00f1ol: \"granja\"\nFran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"posici\u00f3n\"\nFran\u00e7ais: \"h\u00f4pital\" - Espa\u00f1ol: \"hospital\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nFran\u00e7ais: \"oiseau\" - Espa\u00f1ol: \"",
+        "target": "['p\u00e1jaro', 'ave', 'aves']",
+        "word original": "bird"
+    },
+    "['\u00e9p\u00e9e', 'glaive', 'lame']": {
+        "prompt": "Fran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"fourmi\" - Espa\u00f1ol: \"hormiga\"\nFran\u00e7ais: \"prison\" - Espa\u00f1ol: \"c\u00e1rcel\"\nFran\u00e7ais: \"bateau\" - Espa\u00f1ol: \"barco\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"",
+        "target": "['espada', 'garrancha']",
+        "word original": "blade"
+    },
+    "['comit\u00e9', 'commission']": {
+        "prompt": "Fran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"volaille\" - Espa\u00f1ol: \"pollo\"\nFran\u00e7ais: \"salle de bain\" - Espa\u00f1ol: \"ba\u00f1o\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"biblioteca\"\nFran\u00e7ais: \"nuage\" - Espa\u00f1ol: \"nube\"\nFran\u00e7ais: \"comit\u00e9\" - Espa\u00f1ol: \"",
+        "target": "['comisi\u00f3n']",
+        "word original": "board"
+    },
+    "['bateau', 'navire', 'nacelle', 'barque', 'canot']": {
+        "prompt": "Fran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"biblioteca\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"chica\"\nFran\u00e7ais: \"bas\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"bateau\" - Espa\u00f1ol: \"",
+        "target": "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'bote', 'barca', 'barcos']",
+        "word original": "boat"
+    },
+    "['os', 'SE', \"syst\u00e8me d'exploitation\", 'syst\u00e8me d\u2019exploitation']": {
+        "prompt": "Fran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"moteur\" - Espa\u00f1ol: \"motor\"\nFran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"ampoule\" - Espa\u00f1ol: \"bombillo\"\nFran\u00e7ais: \"domicile\" - Espa\u00f1ol: \"casa\"\nFran\u00e7ais: \"os\" - Espa\u00f1ol: \"",
+        "target": "['sistema operativo', 'SO', 'hueso']",
+        "word original": "bone"
+    },
+    "['livre', 'livre sterling', '\u00a3']": {
+        "prompt": "Fran\u00e7ais: \"pont\" - Espa\u00f1ol: \"puente\"\nFran\u00e7ais: \"ile\" - Espa\u00f1ol: \"isla\"\nFran\u00e7ais: \"peau de pomme\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"chaussette\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"livre\" - Espa\u00f1ol: \"",
+        "target": "['libro', 'libra esterlina', 'libra', 'libras esterlinas', 'esterlina', '\u00a3', 'lb']",
+        "word original": "book"
+    },
+    "['bouteille']": {
+        "prompt": "Fran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"yeux\" - Espa\u00f1ol: \"ojos\"\nFran\u00e7ais: \"arme\" - Espa\u00f1ol: \"arma\"\nFran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"esponja\"\nFran\u00e7ais: \"ch\u00e2timent corporel\" - Espa\u00f1ol: \"castigo corporal\"\nFran\u00e7ais: \"bouteille\" - Espa\u00f1ol: \"",
+        "target": "['botella', 'frasco']",
+        "word original": "bottle"
+    },
+    "['caisse', 'voiture', 'bagnole', 'automobile', 'auto', 'char', 'bo\u00eete']": {
+        "prompt": "Fran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"estomac\" - Espa\u00f1ol: \"est\u00f3mago\"\nFran\u00e7ais: \"falzar\" - Espa\u00f1ol: \"pantal\u00f3n\"\nFran\u00e7ais: \"volaille\" - Espa\u00f1ol: \"pollo\"\nFran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"caisse\" - Espa\u00f1ol: \"",
+        "target": "['carro', 'coche', 'autom\u00f3vil', 'auto', 'veh\u00edculo', 'm\u00e1quina', 'turismo', 'cajas', 'caja']",
+        "word original": "box"
+    },
+    "['gar\u00e7on', 'serveur', 'fils']": {
+        "prompt": "Fran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"gar\u00e7on\" - Espa\u00f1ol: \"",
+        "target": "['ni\u00f1o', 'chico', 'jovencito', 'joven', 'muchacho', 'ni\u00f1o var\u00f3n', 'garz\u00f3n', 'chaval', 'mozo', 'mesera', 'mesero', 'camarera', 'camarero', 'hijo']",
+        "word original": "boy"
+    },
+    "['psych\u00e9', 'esprit', 'no\u00fbs', 'No\u00fbs', 'cerveau', 't\u00eate']": {
+        "prompt": "Fran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"hoja\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"drapeau\" - Espa\u00f1ol: \"bandera\"\nFran\u00e7ais: \"doigt\" - Espa\u00f1ol: \"peineta\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"",
+        "target": "['mente', 'psique', 'Mente', 'Nous', 'nous', 'cabeza', 'cerebro']",
+        "word original": "head"
+    },
+    "['freinage', 'frein']": {
+        "prompt": "Fran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"distrito municipal\"\nFran\u00e7ais: \"veste\" - Espa\u00f1ol: \"casaca\"\nFran\u00e7ais: \"freinage\" - Espa\u00f1ol: \"",
+        "target": "['freno']",
+        "word original": "brake"
+    },
+    "['science \u00e9conomique', '\u00e9conomie', '\u00e9conomie politique', 'sciences \u00e9conomiques', 'Sciences \u00e9conomiques']": {
+        "prompt": "Fran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"juego de campanas\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"four\" - Espa\u00f1ol: \"horno\"\nFran\u00e7ais: \"science \u00e9conomique\" - Espa\u00f1ol: \"",
+        "target": "['econom\u00eda', 'econom\u00eda pol\u00edtica', 'econ\u00f3micas', 'ciencias econ\u00f3micas']",
+        "word original": "branch"
+    },
+    "['brique']": {
+        "prompt": "Fran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"peau de pomme\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nFran\u00e7ais: \"fringue\" - Espa\u00f1ol: \"ropa\"\nFran\u00e7ais: \"angle\" - Espa\u00f1ol: \"\u00e1ngulo\"\nFran\u00e7ais: \"brique\" - Espa\u00f1ol: \"",
+        "target": "['ladrillo']",
+        "word original": "brick"
+    },
+    "['pont', 'liste de ponts romains', 'passerelle']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"chaussette\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"c\u00edrculo\"\nFran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"distrito municipal\"\nFran\u00e7ais: \"chien\" - Espa\u00f1ol: \"perra\"\nFran\u00e7ais: \"pont\" - Espa\u00f1ol: \"",
+        "target": "['puente', 'b\u00f3veda']",
+        "word original": "bridge"
+    },
+    "['brosse', 'brosse \u00e0 cheveux']": {
+        "prompt": "Fran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Espa\u00f1ol: \"terciopelo\"\nFran\u00e7ais: \"four\" - Espa\u00f1ol: \"horno\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"techumbre\"\nFran\u00e7ais: \"nigga\" - Espa\u00f1ol: \"negro\"\nFran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"",
+        "target": "['cepillo del pelo', 'cepillo', 'brocha', 'pincel', 'escobilla']",
+        "word original": "brush"
+    },
+    "['seau', 'chaudi\u00e8re', 'bac', 'baquet']": {
+        "prompt": "Fran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"piano\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"peigne\" - Espa\u00f1ol: \"peine\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"seau\" - Espa\u00f1ol: \"",
+        "target": "['balde', 'cubo', 'pozal', 'tobo', 'cubeta']",
+        "word original": "bucket"
+    },
+    "['ampoule', 'lampe incandescente', 'lampe \u00e0 incandescence', 'ampoule \u00e0 incandescence', 'lampe \u00e9lectrique', 'lampe']": {
+        "prompt": "Fran\u00e7ais: \"genou\" - Espa\u00f1ol: \"rodilla\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"ampoule\" - Espa\u00f1ol: \"",
+        "target": "['bombillo', 'bombilla incandescente', 'l\u00e1mpara incandescente', 'ampolla el\u00e9ctrica', 'bombilla', 'ampolleta', 'luz el\u00e9ctrica', 'l\u00e1mpara de incandescencia']",
+        "word original": "bulb"
+    },
+    "['g\u00e2teau']": {
+        "prompt": "Fran\u00e7ais: \"nerf\" - Espa\u00f1ol: \"nervio\"\nFran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"distrito municipal\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"",
+        "target": "['pastel', 'torta', 'bizcocho', 'cake', 'coca', 'tarta']",
+        "word original": "cake"
+    },
+    "['appareil photographique', 'cam\u00e9ra', 'appareil photo']": {
+        "prompt": "Fran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"caisse\" - Espa\u00f1ol: \"carro\"\nFran\u00e7ais: \"gar\u00e7on\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"sombrero\"\nFran\u00e7ais: \"carte d'identification\" - Espa\u00f1ol: \"documento nacional de identidad\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1mara fotogr\u00e1fica', 'c\u00e1mara']",
+        "word original": "camera"
+    },
+    "[\"carte d'identification\", \"carte d'identit\u00e9\", \"pi\u00e8ce d'identit\u00e9\", 'carte d\u2019identit\u00e9', 'pi\u00e8ce d\u2019identit\u00e9', 'carte', 'document']": {
+        "prompt": "Fran\u00e7ais: \"livre\" - Espa\u00f1ol: \"libro\"\nFran\u00e7ais: \"oiseau\" - Espa\u00f1ol: \"p\u00e1jaro\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"carte d'identification\" - Espa\u00f1ol: \"",
+        "target": "['documento nacional de identidad', 'carn\u00e9 de identidad', 'c\u00e9dula de identidad', 'carnet de identidad', 'DNI', 'credencial', 'carnet']",
+        "word original": "card"
+    },
+    "['v\u00e9hicule ferroviaire', 'wagon', 'automotrice', 'autorail', 'automotrice tractrice', 'v\u00e9hicule ferroviaire remorqu\u00e9', 'v\u00e9hicule automoteur', 'voiture', 'carrosse', '\u00e9quipage', 'voiture \u00e0 cheval']": {
+        "prompt": "Fran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"distrito municipal\"\nFran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"domicile\" - Espa\u00f1ol: \"casa\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Espa\u00f1ol: \"",
+        "target": "['vag\u00f3n', 'veh\u00edculo ferroviario', 'Automotor', 'automotor', 'material remolcado', 'vag\u00f3n de ferrocarril', 'Coche automotor', 'coche', 'tren', 'carruaje', 'carroza', 'carruaje de lujo', 'coche de caballos']",
+        "word original": "carriage"
+    },
+    "['minou', 'chat', 'chat domestique']": {
+        "prompt": "Fran\u00e7ais: \"organisme\" - Espa\u00f1ol: \"autoridad\"\nFran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"falzar\" - Espa\u00f1ol: \"pantal\u00f3n\"\nFran\u00e7ais: \"coffre\" - Espa\u00f1ol: \"ba\u00fal\"\nFran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"hoja\"\nFran\u00e7ais: \"minou\" - Espa\u00f1ol: \"",
+        "target": "['gato', 'gata', 'gato dom\u00e9stico', 'Felis silvestris catus', 'felis silvestris catus']",
+        "word original": "cat"
+    },
+    "['fromage']": {
+        "prompt": "Fran\u00e7ais: \"ver\" - Espa\u00f1ol: \"gusano\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"singe\" - Espa\u00f1ol: \"primates\"\nFran\u00e7ais: \"doigt\" - Espa\u00f1ol: \"peineta\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"fromage\" - Espa\u00f1ol: \"",
+        "target": "['queso']",
+        "word original": "cheese"
+    },
+    "['coffre', 'malle', 'coffre-fort']": {
+        "prompt": "Fran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"nerf\" - Espa\u00f1ol: \"nervio\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"coffre\" - Espa\u00f1ol: \"",
+        "target": "['ba\u00fal', 'arc\u00f3n', 'arca', 'cofre', 'caja fuerte', 'caja de seguridad']",
+        "word original": "chest"
+    },
+    "['menton']": {
+        "prompt": "Fran\u00e7ais: \"carr\u00e9\" - Espa\u00f1ol: \"almohadilla\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"fouet\" - Espa\u00f1ol: \"fuete\"\nFran\u00e7ais: \"freinage\" - Espa\u00f1ol: \"freno\"\nFran\u00e7ais: \"yeux\" - Espa\u00f1ol: \"ojos\"\nFran\u00e7ais: \"menton\" - Espa\u00f1ol: \"",
+        "target": "['barbilla', 'ment\u00f3n', 'pera', 'barba']",
+        "word original": "chin"
+    },
+    "['\u00e9glise']": {
+        "prompt": "Fran\u00e7ais: \"allumette\" - Espa\u00f1ol: \"f\u00f3sforo\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"conduite principale\" - Espa\u00f1ol: \"ducto\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Espa\u00f1ol: \"fuerza\"\nFran\u00e7ais: \"colis\" - Espa\u00f1ol: \"haz\"\nFran\u00e7ais: \"\u00e9glise\" - Espa\u00f1ol: \"",
+        "target": "['iglesia']",
+        "word original": "church"
+    },
+    "['cercle', 'rond']": {
+        "prompt": "Fran\u00e7ais: \"h\u00f4pital\" - Espa\u00f1ol: \"hospital\"\nFran\u00e7ais: \"horloge\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"l\u00e8vres\" - Espa\u00f1ol: \"labio\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"",
+        "target": "['c\u00edrculo', 'circunferencia']",
+        "word original": "circle"
+    },
+    "['horloge', 'pendule']": {
+        "prompt": "Fran\u00e7ais: \"l\u00e8vres\" - Espa\u00f1ol: \"labio\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"cheval\" - Espa\u00f1ol: \"caballo\"\nFran\u00e7ais: \"joyau\" - Espa\u00f1ol: \"joyer\u00eda\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"arma de fuego\"\nFran\u00e7ais: \"horloge\" - Espa\u00f1ol: \"",
+        "target": "['reloj']",
+        "word original": "clock"
+    },
+    "['nuage']": {
+        "prompt": "Fran\u00e7ais: \"doigt\" - Espa\u00f1ol: \"peineta\"\nFran\u00e7ais: \"horloge\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"navire\" - Espa\u00f1ol: \"barco\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"brique\" - Espa\u00f1ol: \"ladrillo\"\nFran\u00e7ais: \"nuage\" - Espa\u00f1ol: \"",
+        "target": "['nube', 'nubes']",
+        "word original": "cloud"
+    },
+    "['veste', 'paletot', 'pardessus', 'manteau']": {
+        "prompt": "Fran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"abeja\"\nFran\u00e7ais: \"toilette\" - Espa\u00f1ol: \"maquillaje\"\nFran\u00e7ais: \"veste\" - Espa\u00f1ol: \"",
+        "target": "['casaca', 'saco', 'abrigo', 'chaqueta', 'chamarra', 'cazadora', 'chumpa', 'jacket', 'campera', 'chompa']",
+        "word original": "coat"
+    },
+    "['arrestation']": {
+        "prompt": "Fran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"conduite principale\" - Espa\u00f1ol: \"ducto\"\nFran\u00e7ais: \"source\" - Espa\u00f1ol: \"manantial\"\nFran\u00e7ais: \"amortisseur\" - Espa\u00f1ol: \"amortiguador\"\nFran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"",
+        "target": "['arresto', 'detenci\u00f3n']",
+        "word original": "collar"
+    },
+    "['peigne']": {
+        "prompt": "Fran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Espa\u00f1ol: \"terciopelo\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"video\"\nFran\u00e7ais: \"peigne\" - Espa\u00f1ol: \"",
+        "target": "['peine']",
+        "word original": "comb"
+    },
+    "['velours c\u00f4tel\u00e9', 'velours']": {
+        "prompt": "Fran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"horloge\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"jardin\" - Espa\u00f1ol: \"jard\u00edn\"\nFran\u00e7ais: \"\u00e9toile\" - Espa\u00f1ol: \"estrella\"\nFran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Espa\u00f1ol: \"",
+        "target": "['terciopelo', 'velludo']",
+        "word original": "cord"
+    },
+    "['vache', 'b\u00e9tail', 'bovins', 'Bos taurus', 'bos taurus', 'Bos primigenius taurus', 'boeuf', 'b\u0153uf', 'viande de boeuf', 'viande de b\u0153uf', 'viande bovine']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"salle de bain\" - Espa\u00f1ol: \"ba\u00f1o\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"u\u00f1a\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"fourmi\" - Espa\u00f1ol: \"hormiga\"\nFran\u00e7ais: \"vache\" - Espa\u00f1ol: \"",
+        "target": "['ganado bovino', 'vaca', 'Bos taurus', 'ganado', 'Bos primigenius taurus', 'toro', 'Bos Taurus', 'ganado vacuno', 'bovino', 'vacas', 'bueyes', 'bovinos', 'vacuno', 'carne de vaca', 'carne de vacuno', 'carne de res', 'boeuf', 'carne de buey', 'buey', 'vaquita']",
+        "word original": "cow"
+    },
+    "['tasse', 'verre', 'coupe', 'mug', 'chope']": {
+        "prompt": "Fran\u00e7ais: \"falzar\" - Espa\u00f1ol: \"pantal\u00f3n\"\nFran\u00e7ais: \"genou\" - Espa\u00f1ol: \"rodilla\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"charrue\" - Espa\u00f1ol: \"arado\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"tasse\" - Espa\u00f1ol: \"",
+        "target": "['taza', 'copa', 'vaso', 'taza de pi\u00e9', 'taz\u00f3n', 'jarro']",
+        "word original": "cup"
+    },
+    "['rideau']": {
+        "prompt": "Fran\u00e7ais: \"patate\" - Espa\u00f1ol: \"patata\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"joyau\" - Espa\u00f1ol: \"joyer\u00eda\"\nFran\u00e7ais: \"minou\" - Espa\u00f1ol: \"gato\"\nFran\u00e7ais: \"arbre\" - Espa\u00f1ol: \"\u00e1rbol\"\nFran\u00e7ais: \"rideau\" - Espa\u00f1ol: \"",
+        "target": "['cortina', 'cortinaje', 'cortinas']",
+        "word original": "curtain"
+    },
+    "['amortisseur', 'coussin']": {
+        "prompt": "Fran\u00e7ais: \"n\u0153ud\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"menton\" - Espa\u00f1ol: \"barbilla\"\nFran\u00e7ais: \"moteur\" - Espa\u00f1ol: \"motor\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"amortisseur\" - Espa\u00f1ol: \"",
+        "target": "['amortiguador']",
+        "word original": "cushion"
+    },
+    "['chien', 'Canis lupus familiaris', 'canis familiaris']": {
+        "prompt": "Fran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"bas\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"cheval\" - Espa\u00f1ol: \"caballo\"\nFran\u00e7ais: \"chien\" - Espa\u00f1ol: \"",
+        "target": "['perra', 'can', 'canino', 'perro', 'Canis lupus familiaris', 'Canis familiaris', 'perros', 'canis familiaris', 'perro dom\u00e9stico']",
+        "word original": "dog"
+    },
+    "['encadrement de porte', 'porte', 'porti\u00e8re', 'huis']": {
+        "prompt": "Fran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"chemise\" - Espa\u00f1ol: \"camisa\"\nFran\u00e7ais: \"\u00e9toile\" - Espa\u00f1ol: \"estrella\"\nFran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"piano\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"encadrement de porte\" - Espa\u00f1ol: \"",
+        "target": "['puerta', 'marco de puerta', 'seguro']",
+        "word original": "door"
+    },
+    "['porte', 'encadrement de porte', 'porti\u00e8re', 'huis']": {
+        "prompt": "Fran\u00e7ais: \"pouce\" - Espa\u00f1ol: \"pulgada\"\nFran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"esponja\"\nFran\u00e7ais: \"tige\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"porte\" - Espa\u00f1ol: \"",
+        "target": "['puerta', 'marco de puerta', 'seguro', 'verja', 'barrera', 'port\u00f3n']",
+        "word original": "drain"
+    },
+    "['illustration', 'figure', 'image', 'reproduction', 'dessin', 'ic\u00f4ne', 'graphique', 'diagramme', 'plan', 'sch\u00e9ma', 'projet']": {
+        "prompt": "Fran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"amortisseur\" - Espa\u00f1ol: \"amortiguador\"\nFran\u00e7ais: \"organisme\" - Espa\u00f1ol: \"autoridad\"\nFran\u00e7ais: \"os\" - Espa\u00f1ol: \"sistema operativo\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"",
+        "target": "['ilustraci\u00f3n', 'figura', 'retrato', 'dibujo', 'imagen', 'croquis', 'esquema', 'foto', 'fotograf\u00eda', 'arte', 'gr\u00e1fico', 'gr\u00e1ficos', 'obra de arte', 'Gr\u00e1fico', 'diagrama']",
+        "word original": "drawer"
+    },
+    "['fringue', 'v\u00eatements', 'habit', 'v\u00eatement', 'habillement', 'habits', 'fringues', 'tenue']": {
+        "prompt": "Fran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"nuage\" - Espa\u00f1ol: \"nube\"\nFran\u00e7ais: \"fromage\" - Espa\u00f1ol: \"queso\"\nFran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"fringue\" - Espa\u00f1ol: \"",
+        "target": "['ropa', 'prenda', 'vestuario', 'indumentaria', 'traje', 'vestimenta', 'atav\u00edo', 'vestido', 'habiliment']",
+        "word original": "dress"
+    },
+    "['goutte de pluie', 'eau de pluie', 'flotte', 'pluie', 'eau pluviale', 'goutte']": {
+        "prompt": "Fran\u00e7ais: \"bas\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"pied\" - Espa\u00f1ol: \"pies\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"genou\" - Espa\u00f1ol: \"rodilla\"\nFran\u00e7ais: \"paire de ciseaux\" - Espa\u00f1ol: \"sax\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"",
+        "target": "['agua pluvial', 'lluvia', 'agua de lluvia', 'precipitaci\u00f3n', 'aguacero', 'gota', 'gota de lluvia', 'gota de agua', 'l\u00e1grima']",
+        "word original": "drop"
+    },
+    "['oreille', 'oreilles']": {
+        "prompt": "Fran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"mur\" - Espa\u00f1ol: \"pared\"\nFran\u00e7ais: \"jupe\" - Espa\u00f1ol: \"falda\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"oreille\" - Espa\u00f1ol: \"",
+        "target": "['o\u00eddo', 'orejas', 'oreja']",
+        "word original": "ear"
+    },
+    "['\u0153uf de poule', '\u0153uf']": {
+        "prompt": "Fran\u00e7ais: \"rue\" - Espa\u00f1ol: \"carretera\"\nFran\u00e7ais: \"bouche\" - Espa\u00f1ol: \"cavidad oral\"\nFran\u00e7ais: \"arme\" - Espa\u00f1ol: \"arma\"\nFran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"fromage\" - Espa\u00f1ol: \"queso\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"",
+        "target": "['huevo de gallina', 'huevo']",
+        "word original": "egg"
+    },
+    "['moteur', 'Motor']": {
+        "prompt": "Fran\u00e7ais: \"aile\" - Espa\u00f1ol: \"ala\"\nFran\u00e7ais: \"rebord\" - Espa\u00f1ol: \"ventana\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"clef\" - Espa\u00f1ol: \"llave\"\nFran\u00e7ais: \"dents\" - Espa\u00f1ol: \"diente\"\nFran\u00e7ais: \"moteur\" - Espa\u00f1ol: \"",
+        "target": "['motor', 'locomotora', 'motor t\u00e9rmico', 'm\u00e1quina']",
+        "word original": "engine"
+    },
+    "['yeux', \"globe de l'oeil\", '\u0153il', 'globe oculaire']": {
+        "prompt": "Fran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Espa\u00f1ol: \"vag\u00f3n\"\nFran\u00e7ais: \"chemise\" - Espa\u00f1ol: \"camisa\"\nFran\u00e7ais: \"brique\" - Espa\u00f1ol: \"ladrillo\"\nFran\u00e7ais: \"falzar\" - Espa\u00f1ol: \"pantal\u00f3n\"\nFran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"yeux\" - Espa\u00f1ol: \"",
+        "target": "['ojos', 'ojo', 'globo ocular', 'oculus']",
+        "word original": "eye"
+    },
+    "['face', 'figure', 'visage', 'verso', 'avers', 'aspect', 'facette']": {
+        "prompt": "Fran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"bateau\" - Espa\u00f1ol: \"barco\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"os\" - Espa\u00f1ol: \"sistema operativo\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"face\" - Espa\u00f1ol: \"",
+        "target": "['rostro', 'cara', 'jeta', 'faz', 'rostro humano', 'reverso', 'anverso', 'dorso', 'rev\u00e9s', 'faceta', 'aspecto']",
+        "word original": "face"
+    },
+    "['ferme', 'exploitation agricole', 'domaine', 'boite', 'entreprise', 'bo\u00eete', 'soci\u00e9t\u00e9', 'firme']": {
+        "prompt": "Fran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"chica\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"\u00e9toile\" - Espa\u00f1ol: \"estrella\"\nFran\u00e7ais: \"ferme\" - Espa\u00f1ol: \"",
+        "target": "['granja', 'fundo', 'explotaci\u00f3n agr\u00edcola', 'finca', 'caser\u00edo', 'cortijo', 'heredad', 'estancia', 'hacienda', 'mas\u00eda', 'firma', 'compa\u00f1\u00eda', 'empresa', 'casa', 'empresas']",
+        "word original": "farm"
+    },
+    "['plumage', 'barbule', 'plume', 'plum\u00e9e', 'pennage']": {
+        "prompt": "Fran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"main\" - Espa\u00f1ol: \"juego de naipes\"\nFran\u00e7ais: \"mouton\" - Espa\u00f1ol: \"oveja\"\nFran\u00e7ais: \"freinage\" - Espa\u00f1ol: \"freno\"\nFran\u00e7ais: \"plumage\" - Espa\u00f1ol: \"",
+        "target": "['pluma', 'plumaje', 'barbillas', 'b\u00e1rbulas']",
+        "word original": "feather"
+    },
+    "['doigt', \"doigt d'honneur\", 'dactyle', 'orteil']": {
+        "prompt": "Fran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"u\u00f1a\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"hervidor\"\nFran\u00e7ais: \"peau de pomme\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nFran\u00e7ais: \"doigt\" - Espa\u00f1ol: \"",
+        "target": "['peineta', 'corte de manga', 'higa', 'dedo', 'd\u00edgito', 'dedos de la mano', 'dedo de la mano']",
+        "word original": "finger"
+    },
+    "['poisson', 'Pisces']": {
+        "prompt": "Fran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"joyau\" - Espa\u00f1ol: \"joyer\u00eda\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"cuill\u00e8re\" - Espa\u00f1ol: \"cuchara\"\nFran\u00e7ais: \"poisson\" - Espa\u00f1ol: \"",
+        "target": "['pescado', 'pez', 'Pisces', 'pisces', 'peces', 'piscis']",
+        "word original": "fish"
+    },
+    "['drapeau']": {
+        "prompt": "Fran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"arresto\"\nFran\u00e7ais: \"science \u00e9conomique\" - Espa\u00f1ol: \"econom\u00eda\"\nFran\u00e7ais: \"mur\" - Espa\u00f1ol: \"pared\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"source\" - Espa\u00f1ol: \"manantial\"\nFran\u00e7ais: \"drapeau\" - Espa\u00f1ol: \"",
+        "target": "['bandera', 'pabell\u00f3n']",
+        "word original": "flag"
+    },
+    "['vall\u00e9e', 'val']": {
+        "prompt": "Fran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"conduite principale\" - Espa\u00f1ol: \"ducto\"\nFran\u00e7ais: \"crayon\" - Espa\u00f1ol: \"l\u00e1piz\"\nFran\u00e7ais: \"\u00e9toile\" - Espa\u00f1ol: \"estrella\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"",
+        "target": "['dolina', 'valle', 'val']",
+        "word original": "floor"
+    },
+    "['dipt\u00e8re', 'Diptera', 'mouche']": {
+        "prompt": "Fran\u00e7ais: \"internet\" - Espa\u00f1ol: \"red de computadoras\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"hervidor\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"c\u00edrculo\"\nFran\u00e7ais: \"seau\" - Espa\u00f1ol: \"balde\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"",
+        "target": "['mosca', 'mosco', 'Diptera']",
+        "word original": "fly"
+    },
+    "['pied', 'pieds', 'fondation', 'substruction', 'soubassement', 'infrastructure', 'substructure', 'fondement', 'base']": {
+        "prompt": "Fran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"aile\" - Espa\u00f1ol: \"ala\"\nFran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"pied\" - Espa\u00f1ol: \"",
+        "target": "['pies', 'pie', 'pes', 'pata', 'base', 'subestructura', 'cimentaci\u00f3n', 'cimiento', 'fundaci\u00f3n', 'fundamento']",
+        "word original": "foot"
+    },
+    "['fourchette']": {
+        "prompt": "Fran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"plumage\" - Espa\u00f1ol: \"pluma\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"conduite principale\" - Espa\u00f1ol: \"ducto\"\nFran\u00e7ais: \"os\" - Espa\u00f1ol: \"sistema operativo\"\nFran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"",
+        "target": "['tenedor']",
+        "word original": "fork"
+    },
+    "['volaille', 'poulet', 'viande de poulet']": {
+        "prompt": "Fran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"cuill\u00e8re\" - Espa\u00f1ol: \"cuchara\"\nFran\u00e7ais: \"comit\u00e9\" - Espa\u00f1ol: \"comisi\u00f3n\"\nFran\u00e7ais: \"seau\" - Espa\u00f1ol: \"balde\"\nFran\u00e7ais: \"volaille\" - Espa\u00f1ol: \"",
+        "target": "['pollo', 'carne de pollo', 'gallina', 'gallus gallus', 'poulet']",
+        "word original": "fowl"
+    },
+    "['corps humain', 'carrure', 'physiologie humaine', 'ossature', 'forme', 'figure', 'chair', 'silhouette', 'physique', 'Corps humain']": {
+        "prompt": "Fran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"posici\u00f3n\"\nFran\u00e7ais: \"station\" - Espa\u00f1ol: \"estaci\u00f3n de ferrocarril\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"v\u00e9lo\" - Espa\u00f1ol: \"bicicleta\"\nFran\u00e7ais: \"timbre-poste\" - Espa\u00f1ol: \"estampilla\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"",
+        "target": "['constituci\u00f3n', 'complexi\u00f3n', 'fisiolog\u00eda humana', 'cuerpo humano', 'figura', 'f\u00edsico', 'osamenta', 'esqueleto', 'forma', 'soma', 'cuerpo', 'carne', 'anatom\u00eda']",
+        "word original": "frame"
+    },
+    "['jardin']": {
+        "prompt": "Fran\u00e7ais: \"mouton\" - Espa\u00f1ol: \"oveja\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"chica\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"video\"\nFran\u00e7ais: \"cheval\" - Espa\u00f1ol: \"caballo\"\nFran\u00e7ais: \"jardin\" - Espa\u00f1ol: \"",
+        "target": "['jard\u00edn']",
+        "word original": "garden"
+    },
+    "['fille', 'femme', 'jeune femme', 'jeune fille', 'petite copine', 'petite amie', 'copine']": {
+        "prompt": "Fran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"juego de campanas\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"drapeau\" - Espa\u00f1ol: \"bandera\"\nFran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"abeja\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"",
+        "target": "['chica', 'joven', 'jovencita', 'muchacha', 'ni\u00f1a', 'mujer', 'se\u00f1orito', 'chico', 'se\u00f1orita', 'mujercita', 'hija', 'hijo', 'novia', 'pareja', 'compa\u00f1era', 'prometida', 'compa\u00f1era sentimental']",
+        "word original": "girl"
+    },
+    "['gant']": {
+        "prompt": "Fran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"nuage\" - Espa\u00f1ol: \"nube\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"yeux\" - Espa\u00f1ol: \"ojos\"\nFran\u00e7ais: \"bouche\" - Espa\u00f1ol: \"cavidad oral\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"",
+        "target": "['guante']",
+        "word original": "glove"
+    },
+    "['ch\u00e8vre']": {
+        "prompt": "Fran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"u\u00f1a\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"aiguille\" - Espa\u00f1ol: \"desv\u00edo\"\nFran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"ch\u00e8vre\" - Espa\u00f1ol: \"",
+        "target": "['cabra', 'chivo', 'cabr\u00f3n', 'capra aegagrus hircus', 'ganado cabr\u00edo']",
+        "word original": "goat"
+    },
+    "['arme \u00e0 feu', 'arme de projectile', 'pistolet']": {
+        "prompt": "Fran\u00e7ais: \"main\" - Espa\u00f1ol: \"juego de naipes\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"techumbre\"\nFran\u00e7ais: \"livre\" - Espa\u00f1ol: \"libro\"\nFran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"hoja\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"",
+        "target": "['arma de fuego', 'arma de proyectil', 'ca\u00f1\u00f3n', 'ob\u00fas', 'escopeta', 'arma', 'pistola']",
+        "word original": "gun"
+    },
+    "['chevelure', 'pelage', 'cheveux', 'poil']": {
+        "prompt": "Fran\u00e7ais: \"poisson\" - Espa\u00f1ol: \"pescado\"\nFran\u00e7ais: \"estomac\" - Espa\u00f1ol: \"est\u00f3mago\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"v\u00e9lo\" - Espa\u00f1ol: \"bicicleta\"\nFran\u00e7ais: \"voilier\" - Espa\u00f1ol: \"barco de vela\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"",
+        "target": "['cabello', 'pelo']",
+        "word original": "root"
+    },
+    "['marteau', 'forte-piano', 'piano-forte', 'piano']": {
+        "prompt": "Fran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"hoja\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"biblioteca\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"veste\" - Espa\u00f1ol: \"casaca\"\nFran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"",
+        "target": "['piano', 'pianoforte', 'forte-piano', 'martillo']",
+        "word original": "hammer"
+    },
+    "['main', 'jeu de cartes', 'cartes', 'Jeu de cartes', 'patte']": {
+        "prompt": "Fran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"lavabo\" - Espa\u00f1ol: \"pila\"\nFran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"posici\u00f3n\"\nFran\u00e7ais: \"muscle\" - Espa\u00f1ol: \"m\u00fasculo\"\nFran\u00e7ais: \"fromage\" - Espa\u00f1ol: \"queso\"\nFran\u00e7ais: \"main\" - Espa\u00f1ol: \"",
+        "target": "['juego de naipes', 'juego de cartas', 'mano', 'palma', 'zarpa', 'manus', 'pata']",
+        "word original": "hand"
+    },
+    "['chapeau', 'Chapeau!', 'couvercle', 'casquette']": {
+        "prompt": "Fran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"poche\" - Espa\u00f1ol: \"bolsa de pl\u00e1stico\"\nFran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"",
+        "target": "['sombrero', 'Chap\u00f3']",
+        "word original": "hat"
+    },
+    "['c\u0153ur', 'myocarde', 'c\u0153ur humain', 'cavit\u00e9 cardiaque', 'Philia', 'affection', 'philia', 'centre']": {
+        "prompt": "Fran\u00e7ais: \"bouche\" - Espa\u00f1ol: \"cavidad oral\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"arbre\" - Espa\u00f1ol: \"\u00e1rbol\"\nFran\u00e7ais: \"\u00e9glise\" - Espa\u00f1ol: \"iglesia\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"",
+        "target": "['coraz\u00f3n', 'c\u00e1mara card\u00edaca', 'coraz\u00f3n humano', 'philia', 'afecto', 'filia', 'simpat\u00eda', 'ternura', 'afecci\u00f3n', 'afici\u00f3n', 'amor', 'apego', 'afectividad', 'cari\u00f1o']",
+        "word original": "pump"
+    },
+    "['citaro', 'trompe-laquais', 'campurgne', 'guimbarde', 'trompettiste', 'harpe \u00e0 bouche', 'trompette tsigane', 'hanche-en-ruban', 'trompe de B\u00e9arn', 'cornet', 'trompette', 'cornet \u00e0 pistons', 'corne']": {
+        "prompt": "Fran\u00e7ais: \"singe\" - Espa\u00f1ol: \"primates\"\nFran\u00e7ais: \"h\u00f4pital\" - Espa\u00f1ol: \"hospital\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"arma de fuego\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"",
+        "target": "['guimbarda', 'arpa de boca', 'birimbao', 'trompe', 'guimbarde', 'trompeta', 'corneta', 'trompetista']",
+        "word original": "horn"
+    },
+    "['cheval', 'equus caballus']": {
+        "prompt": "Fran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"oiseau\" - Espa\u00f1ol: \"p\u00e1jaro\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"chemise\" - Espa\u00f1ol: \"camisa\"\nFran\u00e7ais: \"cheval\" - Espa\u00f1ol: \"",
+        "target": "['caballo', 'Equus ferus caballus', 'yegua', 'equinos']",
+        "word original": "horse"
+    },
+    "['h\u00f4pital', 'hosto', 'infirmerie']": {
+        "prompt": "Fran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"prison\" - Espa\u00f1ol: \"c\u00e1rcel\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"video\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"h\u00f4pital\" - Espa\u00f1ol: \"",
+        "target": "['hospital', 'cl\u00ednica', 'enfermer\u00eda', 'hospitales']",
+        "word original": "hospital"
+    },
+    "['domicile', 'maison', 'habitation', 'r\u00e9sidence', 'logement', 'foyer', 'demeure']": {
+        "prompt": "Fran\u00e7ais: \"carr\u00e9\" - Espa\u00f1ol: \"almohadilla\"\nFran\u00e7ais: \"paire de ciseaux\" - Espa\u00f1ol: \"sax\"\nFran\u00e7ais: \"tige\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"rue\" - Espa\u00f1ol: \"carretera\"\nFran\u00e7ais: \"domicile\" - Espa\u00f1ol: \"",
+        "target": "['casa', 'hogar', 'residencia', 'morada', 'alojamiento', 'domicilio', 'habit\u00e1culo', 'vivienda', 'vasa', 'habitaci\u00f3n', 'piso']",
+        "word original": "house"
+    },
+    "['ile', '\u00eele']": {
+        "prompt": "Fran\u00e7ais: \"main\" - Espa\u00f1ol: \"juego de naipes\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"ile\" - Espa\u00f1ol: \"",
+        "target": "['isla', 'islas']",
+        "word original": "island"
+    },
+    "['joyau', 'jaoillerie', 'joaillerie', 'bijoux']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9glise\" - Espa\u00f1ol: \"iglesia\"\nFran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"amortisseur\" - Espa\u00f1ol: \"amortiguador\"\nFran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"joyau\" - Espa\u00f1ol: \"",
+        "target": "['joyer\u00eda', 'joyas', 'alhajas', 'joya']",
+        "word original": "jewel"
+    },
+    "['bouilloire \u00e0 th\u00e9', 'bouilloire']": {
+        "prompt": "Fran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"sombrero\"\nFran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"arresto\"\nFran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"",
+        "target": "['hervidor', 'caldera', 'calentador', 'Caldera']",
+        "word original": "kettle"
+    },
+    "['clef', 'cl\u00e9', 'cl\u00e9 de serrage', 'clef \u00e0 \u00e9crous', 'serre-\u00e9crou']": {
+        "prompt": "Fran\u00e7ais: \"gorge\" - Espa\u00f1ol: \"ca\u00f1\u00f3n\"\nFran\u00e7ais: \"charrue\" - Espa\u00f1ol: \"arado\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"four\" - Espa\u00f1ol: \"horno\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"video\"\nFran\u00e7ais: \"clef\" - Espa\u00f1ol: \"",
+        "target": "['llave', 'clave', 'llave inglesa', 'llave de tuerca', 'llave fija']",
+        "word original": "key"
+    },
+    "['genou']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"fourmi\" - Espa\u00f1ol: \"hormiga\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"ch\u00e2timent corporel\" - Espa\u00f1ol: \"castigo corporal\"\nFran\u00e7ais: \"caisse\" - Espa\u00f1ol: \"carro\"\nFran\u00e7ais: \"genou\" - Espa\u00f1ol: \"",
+        "target": "['rodilla', 'articulaci\u00f3n de la rodilla', 'genu', 'hinojo']",
+        "word original": "knee"
+    },
+    "['couteau']": {
+        "prompt": "Fran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"graine\" - Espa\u00f1ol: \"semilla\"\nFran\u00e7ais: \"fourmi\" - Espa\u00f1ol: \"hormiga\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"",
+        "target": "['cuchillo']",
+        "word original": "knife"
+    },
+    "['n\u0153ud', 'tige']": {
+        "prompt": "Fran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"sombrero\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"n\u0153ud\" - Espa\u00f1ol: \"",
+        "target": "['tallo', 'nudo', 'lazo']",
+        "word original": "knot"
+    },
+    "['feuillage', 'feuille']": {
+        "prompt": "Fran\u00e7ais: \"ferme\" - Espa\u00f1ol: \"granja\"\nFran\u00e7ais: \"cuill\u00e8re\" - Espa\u00f1ol: \"cuchara\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"techumbre\"\nFran\u00e7ais: \"arme\" - Espa\u00f1ol: \"arma\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"",
+        "target": "['hoja', 'follaje', 'Laphi']",
+        "word original": "leaf"
+    },
+    "['jambe', 'membre inf\u00e9rieur', 'patte', 'jambes', 'membre inf\u00e9rieur humain']": {
+        "prompt": "Fran\u00e7ais: \"fil\" - Espa\u00f1ol: \"Elephantidae\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"colis\" - Espa\u00f1ol: \"haz\"\nFran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"arresto\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"u\u00f1a\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"",
+        "target": "['extremidad inferior', 'pata', 'pierna', 'piernas', 'miembro inferior', 'miembro inferior humano']",
+        "word original": "pin"
+    },
+    "['biblioth\u00e8que', 'librairie']": {
+        "prompt": "Fran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"minou\" - Espa\u00f1ol: \"gato\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"os\" - Espa\u00f1ol: \"sistema operativo\"\nFran\u00e7ais: \"volaille\" - Espa\u00f1ol: \"pollo\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"",
+        "target": "['biblioteca', 'librer\u00eda']",
+        "word original": "library"
+    },
+    "['t\u00e9l\u00e9vision', 'vid\u00e9o', 't\u00e9l\u00e9', 't\u00e9loche', 't\u00e9l\u00e9viseur']": {
+        "prompt": "Fran\u00e7ais: \"porc\" - Espa\u00f1ol: \"marrano\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Espa\u00f1ol: \"fuerza\"\nFran\u00e7ais: \"arme\" - Espa\u00f1ol: \"arma\"\nFran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"",
+        "target": "['video', 'televisi\u00f3n', 'v\u00eddeo', 'tele', 'televisor', 'tv', 'television', 'TV', 'caja idiota', 'aparato de televisi\u00f3n', 'caja tonta']",
+        "word original": "line"
+    },
+    "['l\u00e8vres', 'l\u00e8vre']": {
+        "prompt": "Fran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"oiseau\" - Espa\u00f1ol: \"p\u00e1jaro\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"forces arm\u00e9es\" - Espa\u00f1ol: \"fuerza\"\nFran\u00e7ais: \"l\u00e8vres\" - Espa\u00f1ol: \"",
+        "target": "['labio', 'labios']",
+        "word original": "lip"
+    },
+    "['boucle', \"boucle d'oreille\", 'boucle d\u2019oreille', '\u00e9pi de cheveux', 'Pijpenkrul']": {
+        "prompt": "Fran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"veste\" - Espa\u00f1ol: \"casaca\"\nFran\u00e7ais: \"drapeau\" - Espa\u00f1ol: \"bandera\"\nFran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"",
+        "target": "['zarcillo', 'arete', 'pendiente', 'aro', 'arito', 'caravana', 'pantalla', 'chapa', 'arracada', 'rizo', 'tirabuz\u00f3n', 'bucle', 'Tirabuz\u00f3n', 'sortija', 'rulo', 'onda', 'mecha', 'caracol', 'chicho']",
+        "word original": "lock"
+    },
+    "['fonction', 'application', 'fonction monovalu\u00e9e', 'emploi', 'position', 'place', 'situation']": {
+        "prompt": "Fran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"nuage\" - Espa\u00f1ol: \"nube\"\nFran\u00e7ais: \"minou\" - Espa\u00f1ol: \"gato\"\nFran\u00e7ais: \"arc\" - Espa\u00f1ol: \"arco y flecha\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"",
+        "target": "['posici\u00f3n', 'funci\u00f3n matem\u00e1tica', 'aplicaci\u00f3n', 'funci\u00f3n', 'mapa', 'funci\u00f3n monovaluada', 'correspondencia un\u00edvoca', 'correspondencia', 'empleo', 'puesto', 'oficina', 'cargo', 'lugar']",
+        "word original": "map"
+    },
+    "['allumette']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"esponja\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"bouche\" - Espa\u00f1ol: \"cavidad oral\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"allumette\" - Espa\u00f1ol: \"",
+        "target": "['f\u00f3sforo', 'cerilla', 'cerillo', 'mixto', 'misto', 'lucifer', 'fosforo']",
+        "word original": "match"
+    },
+    "['singe', 'primates', 'primate']": {
+        "prompt": "Fran\u00e7ais: \"horloge\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"biblioteca\"\nFran\u00e7ais: \"rebord\" - Espa\u00f1ol: \"ventana\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"arma de fuego\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"singe\" - Espa\u00f1ol: \"",
+        "target": "['primates', 'primate', 'mono', 'mico', 'simio']",
+        "word original": "monkey"
+    },
+    "['lune', 'satellite artificiel', 'satellite', 'orbiteur']": {
+        "prompt": "Fran\u00e7ais: \"salle de bain\" - Espa\u00f1ol: \"ba\u00f1o\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"arme\" - Espa\u00f1ol: \"arma\"\nFran\u00e7ais: \"chien\" - Espa\u00f1ol: \"perra\"\nFran\u00e7ais: \"ampoule\" - Espa\u00f1ol: \"bombillo\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"",
+        "target": "['sat\u00e9lite artificial', 'sat\u00e9lite', 'satelite', 'orbitador']",
+        "word original": "moon"
+    },
+    "['bouche', 'cavit\u00e9 buccale', 'cavit\u00e9 orale', 'gueule', 'vestibule de la bouche']": {
+        "prompt": "Fran\u00e7ais: \"v\u00e9lo\" - Espa\u00f1ol: \"bicicleta\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"c\u00edrculo\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"lit\" - Espa\u00f1ol: \"cama\"\nFran\u00e7ais: \"crayon\" - Espa\u00f1ol: \"l\u00e1piz\"\nFran\u00e7ais: \"bouche\" - Espa\u00f1ol: \"",
+        "target": "['cavidad oral', 'boca', 'cavidad bucal', 'desembocadura', 'rima oris', 'nariz']",
+        "word original": "mouth"
+    },
+    "['muscle']": {
+        "prompt": "Fran\u00e7ais: \"aiguille\" - Espa\u00f1ol: \"desv\u00edo\"\nFran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"abeja\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"muscle\" - Espa\u00f1ol: \"",
+        "target": "['m\u00fasculo', 'tejido muscular']",
+        "word original": "muscle"
+    },
+    "['ongle']": {
+        "prompt": "Fran\u00e7ais: \"ver\" - Espa\u00f1ol: \"gusano\"\nFran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"esponja\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"estomac\" - Espa\u00f1ol: \"est\u00f3mago\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"",
+        "target": "['u\u00f1a', 'garra']",
+        "word original": "nail"
+    },
+    "['cou', 'nuque']": {
+        "prompt": "Fran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"dedo\"\nFran\u00e7ais: \"chaussette\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"ver\" - Espa\u00f1ol: \"gusano\"\nFran\u00e7ais: \"salle de bain\" - Espa\u00f1ol: \"ba\u00f1o\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"",
+        "target": "['cuello', 'pescuezo', 'nuca', 'cerviz']",
+        "word original": "neck"
+    },
+    "['aiguille', 'aiguillage', 'curseur', 'pointeur', 'aiguille hypodermique', \"canule d'injection\", '\u00e9pingle']": {
+        "prompt": "Fran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"livre\" - Espa\u00f1ol: \"libro\"\nFran\u00e7ais: \"rideau\" - Espa\u00f1ol: \"cortina\"\nFran\u00e7ais: \"chien\" - Espa\u00f1ol: \"perra\"\nFran\u00e7ais: \"aiguille\" - Espa\u00f1ol: \"",
+        "target": "['desv\u00edo', 'aguja', 'desviaci\u00f3n', 'interruptor', 'puntero', 'cursor', 'Cursor', 'aguja hipod\u00e9rmica']",
+        "word original": "needle"
+    },
+    "['nerf']": {
+        "prompt": "Fran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"livre\" - Espa\u00f1ol: \"libro\"\nFran\u00e7ais: \"clef\" - Espa\u00f1ol: \"llave\"\nFran\u00e7ais: \"poisson\" - Espa\u00f1ol: \"pescado\"\nFran\u00e7ais: \"source\" - Espa\u00f1ol: \"manantial\"\nFran\u00e7ais: \"nerf\" - Espa\u00f1ol: \"",
+        "target": "['nervio', 'nervus']",
+        "word original": "nerve"
+    },
+    "['internet', 'r\u00e9seau informatique', 'r\u00e9seau', 'cyberespace']": {
+        "prompt": "Fran\u00e7ais: \"mouton\" - Espa\u00f1ol: \"oveja\"\nFran\u00e7ais: \"aile\" - Espa\u00f1ol: \"ala\"\nFran\u00e7ais: \"fouet\" - Espa\u00f1ol: \"fuete\"\nFran\u00e7ais: \"peau de pomme\" - Espa\u00f1ol: \"c\u00e1scara de manzana\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"internet\" - Espa\u00f1ol: \"",
+        "target": "['red de computadoras', 'red de ordenadores', 'red inform\u00e1tica', 'red', 'ciberespacio']",
+        "word original": "net"
+    },
+    "['nez', 'pif']": {
+        "prompt": "Fran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"yeux\" - Espa\u00f1ol: \"ojos\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"seau\" - Espa\u00f1ol: \"balde\"\nFran\u00e7ais: \"velours c\u00f4tel\u00e9\" - Espa\u00f1ol: \"terciopelo\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"",
+        "target": "['nariz', '\u00f3rgano olfactivo', 'olfato']",
+        "word original": "nose"
+    },
+    "['organisme', 'autorit\u00e9', 'agence', 'bureau', 'agence publique', 'minist\u00e8re', 'office', 'administration f\u00e9d\u00e9rale', '\u00eatre']": {
+        "prompt": "Fran\u00e7ais: \"ch\u00e2timent corporel\" - Espa\u00f1ol: \"castigo corporal\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"bateau\" - Espa\u00f1ol: \"barco\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"ver\" - Espa\u00f1ol: \"gusano\"\nFran\u00e7ais: \"organisme\" - Espa\u00f1ol: \"",
+        "target": "['autoridad', 'agencia', 'oficina', 'organismo p\u00fablico', 'oficina gubernamental', 'organismo aut\u00f3nomo', 'departamento', 'ser', 'ser vivo', 'organismo', 'organismos', 'criatura']",
+        "word original": "office"
+    },
+    "['four']": {
+        "prompt": "Fran\u00e7ais: \"os\" - Espa\u00f1ol: \"sistema operativo\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"voilier\" - Espa\u00f1ol: \"barco de vela\"\nFran\u00e7ais: \"fil\" - Espa\u00f1ol: \"Elephantidae\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nFran\u00e7ais: \"four\" - Espa\u00f1ol: \"",
+        "target": "['horno', 'estufa']",
+        "word original": "oven"
+    },
+    "['colis', 'paquet', 'faisceau', 'fagot', 'paquetage']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"esponja\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"plumage\" - Espa\u00f1ol: \"pluma\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"u\u00f1a\"\nFran\u00e7ais: \"dents\" - Espa\u00f1ol: \"diente\"\nFran\u00e7ais: \"colis\" - Espa\u00f1ol: \"",
+        "target": "['haz', 'fajo', 'paquete', 'atado', 'mazo', 'bulto', 'l\u00edo']",
+        "word original": "parcel"
+    },
+    "['stylographe', 'stylo plume', 'stylo \u00e0 plume', 'stylo-plume', 'Stylo-plume', 'stylo \u00e0 encre', 'stylo']": {
+        "prompt": "Fran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"abeja\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"jupe\" - Espa\u00f1ol: \"falda\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"",
+        "target": "['pluma estilogr\u00e1fica', 'pluma fuente', 'pluma', 'estil\u00f3grafo', 'estilogr\u00e1fica', 'boli', 'bol\u00edgrafo']",
+        "word original": "pen"
+    },
+    "['crayon']": {
+        "prompt": "Fran\u00e7ais: \"\u00e9toile\" - Espa\u00f1ol: \"estrella\"\nFran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"distrito municipal\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"c\u00edrculo\"\nFran\u00e7ais: \"crayon\" - Espa\u00f1ol: \"",
+        "target": "['l\u00e1piz']",
+        "word original": "pencil"
+    },
+    "['porc', 'cochon', 'Sus', 'Sus scrofa domestica', 'viande de porc']": {
+        "prompt": "Fran\u00e7ais: \"forces arm\u00e9es\" - Espa\u00f1ol: \"fuerza\"\nFran\u00e7ais: \"fromage\" - Espa\u00f1ol: \"queso\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"mur\" - Espa\u00f1ol: \"pared\"\nFran\u00e7ais: \"patate\" - Espa\u00f1ol: \"patata\"\nFran\u00e7ais: \"porc\" - Espa\u00f1ol: \"",
+        "target": "['marrano', 'puerco', 'cerdo', 'cochino', 'Sus', 'Sus scrofa domestica', 'cochi', 'gocho', 'gorrino', 'coch\u00edn', 'guarro', 'cuchi', 'chon', 'sus', 'chancho', 'tunco', 'cuto', 'cocho', 'cerdo gru\u00f1\u00f3n', 'Sus scrofa', 'carne de cerdo']",
+        "word original": "pig"
+    },
+    "['conduite principale', 'aqueduc', 'tuyau', 'conduit', 'canalisation']": {
+        "prompt": "Fran\u00e7ais: \"encadrement de porte\" - Espa\u00f1ol: \"puerta\"\nFran\u00e7ais: \"carr\u00e9\" - Espa\u00f1ol: \"almohadilla\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"n\u0153ud\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"sombrero\"\nFran\u00e7ais: \"conduite principale\" - Espa\u00f1ol: \"",
+        "target": "['ducto', 'tuber\u00eda', 'conducto', 'conducto de agua', 'acueducto', 'Tuber\u00eda', 'tuber\u00edas', 'ca\u00f1er\u00eda']",
+        "word original": "pipe"
+    },
+    "['a\u00e9roplane', 'avion']": {
+        "prompt": "Fran\u00e7ais: \"aiguille\" - Espa\u00f1ol: \"desv\u00edo\"\nFran\u00e7ais: \"ver\" - Espa\u00f1ol: \"gusano\"\nFran\u00e7ais: \"salle de bain\" - Espa\u00f1ol: \"ba\u00f1o\"\nFran\u00e7ais: \"rideau\" - Espa\u00f1ol: \"cortina\"\nFran\u00e7ais: \"seau\" - Espa\u00f1ol: \"balde\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"",
+        "target": "['avi\u00f3n', 'aeroplano', 'Avi\u00f3n', 'aeronave']",
+        "word original": "plane"
+    },
+    "['charrue']": {
+        "prompt": "Fran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"caisse\" - Espa\u00f1ol: \"carro\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"cheval\" - Espa\u00f1ol: \"caballo\"\nFran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"juego de campanas\"\nFran\u00e7ais: \"charrue\" - Espa\u00f1ol: \"",
+        "target": "['arado', 'arar', 'arada']",
+        "word original": "plough"
+    },
+    "['poche', 'sac plastique', 'cornet', 'poche pantalon', 'poche de pantalon']": {
+        "prompt": "Fran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"arresto\"\nFran\u00e7ais: \"singe\" - Espa\u00f1ol: \"primates\"\nFran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"abeja\"\nFran\u00e7ais: \"brosse\" - Espa\u00f1ol: \"cepillo del pelo\"\nFran\u00e7ais: \"poche\" - Espa\u00f1ol: \"",
+        "target": "['bolsa de pl\u00e1stico', 'bolsa pl\u00e1stica', 'bolsillo', 'bolsa']",
+        "word original": "pocket"
+    },
+    "['toilette', 'maquillage', 'cosm\u00e9tique', 'toilettes', 'pot de chambre', 'pot', 'salle de bain', 'salle de bains', 'Mod\u00e8le:Autres langues', 'bain', 'cabinet de toilette', 'lavage', 'laver', 'hygi\u00e8ne du corps']": {
+        "prompt": "Fran\u00e7ais: \"porte\" - Espa\u00f1ol: \"puerta\"\nFran\u00e7ais: \"aiguille\" - Espa\u00f1ol: \"desv\u00edo\"\nFran\u00e7ais: \"horloge\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"carr\u00e9\" - Espa\u00f1ol: \"almohadilla\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"toilette\" - Espa\u00f1ol: \"",
+        "target": "['maquillaje', 'cosm\u00e9tico', 'afeite', 'inodoro', 'bacineta', 'bacinica', 'pelela', 'bacinilla', 'orinal', 'excusado', 'vater', 'servicio', 'cagadero', 'water-closet', 'lavabo', 'aseo', 'taza', 'ba\u00f1o', 'w\u00e1ter', 'retrete', 'cuarto de ba\u00f1o', 'lav', 'lata', 'v\u00e1ter', 'lavado', 'colada', 'jabonadura']",
+        "word original": "pot"
+    },
+    "['patate', 'pomme de terre']": {
+        "prompt": "Fran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"hervidor\"\nFran\u00e7ais: \"porc\" - Espa\u00f1ol: \"marrano\"\nFran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"posici\u00f3n\"\nFran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"piano\"\nFran\u00e7ais: \"patate\" - Espa\u00f1ol: \"",
+        "target": "['patata', 'papa', 'Solanum tuberosum', 'tater']",
+        "word original": "potato"
+    },
+    "['prison', 'p\u00e9nitencier', 't\u00f4le', 'trou', 'placard', 'taule', 'ge\u00f4le', 'cabane']": {
+        "prompt": "Fran\u00e7ais: \"gorge\" - Espa\u00f1ol: \"ca\u00f1\u00f3n\"\nFran\u00e7ais: \"source\" - Espa\u00f1ol: \"manantial\"\nFran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"posici\u00f3n\"\nFran\u00e7ais: \"aiguille\" - Espa\u00f1ol: \"desv\u00edo\"\nFran\u00e7ais: \"h\u00f4pital\" - Espa\u00f1ol: \"hospital\"\nFran\u00e7ais: \"prison\" - Espa\u00f1ol: \"",
+        "target": "['c\u00e1rcel', 'prisi\u00f3n', 'penitenciar\u00eda', 'gayola', 'calabozo', 'penal', 'gobi', 'talego', 'presidio', 'pokey', 'trullo', 'penalti']",
+        "word original": "prison"
+    },
+    "['souris', 'rat', 'Mus']": {
+        "prompt": "Fran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"arma de fuego\"\nFran\u00e7ais: \"four\" - Espa\u00f1ol: \"horno\"\nFran\u00e7ais: \"\u00e9glise\" - Espa\u00f1ol: \"iglesia\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"arrestation\" - Espa\u00f1ol: \"arresto\"\nFran\u00e7ais: \"souris\" - Espa\u00f1ol: \"",
+        "target": "['rata', 'rat\u00f3n', 'rat\u00f3n o rata', 'Mus', 'mouse']",
+        "word original": "rat"
+    },
+    "['note', 'billet', 'billet de banque', 'facture', 'greenback', 'Greenback', 'addition', 'compte', 'score']": {
+        "prompt": "Fran\u00e7ais: \"train\" - Espa\u00f1ol: \"tren\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"juego de campanas\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"porte\" - Espa\u00f1ol: \"puerta\"\nFran\u00e7ais: \"note\" - Espa\u00f1ol: \"",
+        "target": "['billete de banco', 'billete', 'papel moneda', 'letra', 'factura', 'albar\u00e1n', 'recibo', 'cuenta', 'nota', 'puntuaci\u00f3n', 'calificaci\u00f3n']",
+        "word original": "receipt"
+    },
+    "['ch\u00e2timent corporel']": {
+        "prompt": "Fran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"voilier\" - Espa\u00f1ol: \"barco de vela\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"station\" - Espa\u00f1ol: \"estaci\u00f3n de ferrocarril\"\nFran\u00e7ais: \"lavabo\" - Espa\u00f1ol: \"pila\"\nFran\u00e7ais: \"ch\u00e2timent corporel\" - Espa\u00f1ol: \"",
+        "target": "['castigo corporal', 'castigo f\u00edsico']",
+        "word original": "rod"
+    },
+    "['toit']": {
+        "prompt": "Fran\u00e7ais: \"aile\" - Espa\u00f1ol: \"ala\"\nFran\u00e7ais: \"volaille\" - Espa\u00f1ol: \"pollo\"\nFran\u00e7ais: \"plumage\" - Espa\u00f1ol: \"pluma\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"yeux\" - Espa\u00f1ol: \"ojos\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"",
+        "target": "['techumbre', 'techo', 'cubierta', 'tejado']",
+        "word original": "roof"
+    },
+    "['voilier']": {
+        "prompt": "Fran\u00e7ais: \"mouton\" - Espa\u00f1ol: \"oveja\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"singe\" - Espa\u00f1ol: \"primates\"\nFran\u00e7ais: \"voilier\" - Espa\u00f1ol: \"",
+        "target": "['barco de vela', 'embarcaci\u00f3n a vela', 'velero', 'embarcaci\u00f3n de vela', 'balandra']",
+        "word original": "sail"
+    },
+    "['acad\u00e9mie', 'universit\u00e9', '\u00e9cole', 'coll\u00e8ge', 'univ', 'fac']": {
+        "prompt": "Fran\u00e7ais: \"allumette\" - Espa\u00f1ol: \"f\u00f3sforo\"\nFran\u00e7ais: \"dents\" - Espa\u00f1ol: \"diente\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"chica\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"stylographe\" - Espa\u00f1ol: \"pluma estilogr\u00e1fica\"\nFran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"",
+        "target": "['universidad', 'academia', 'escuela', 'colegio', 'centro docente', 'instituto', 'college']",
+        "word original": "school"
+    },
+    "['paire de ciseaux', 'ciseaux']": {
+        "prompt": "Fran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"fil\" - Espa\u00f1ol: \"Elephantidae\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"station\" - Espa\u00f1ol: \"estaci\u00f3n de ferrocarril\"\nFran\u00e7ais: \"genou\" - Espa\u00f1ol: \"rodilla\"\nFran\u00e7ais: \"paire de ciseaux\" - Espa\u00f1ol: \"",
+        "target": "['sax', 'tijeras', 'tijera']",
+        "word original": "scissors"
+    },
+    "['vis', 'vis de fixation']": {
+        "prompt": "Fran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"mur\" - Espa\u00f1ol: \"pared\"\nFran\u00e7ais: \"pont\" - Espa\u00f1ol: \"puente\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"muscle\" - Espa\u00f1ol: \"m\u00fasculo\"\nFran\u00e7ais: \"vis\" - Espa\u00f1ol: \"",
+        "target": "['tornillo', 'tirafondo', 'tirafondos', 'rosca', 'tuerca de tornillo de potencia', 'tuerca husillo']",
+        "word original": "screw"
+    },
+    "['graine', 'semence']": {
+        "prompt": "Fran\u00e7ais: \"porc\" - Espa\u00f1ol: \"marrano\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"chica\"\nFran\u00e7ais: \"chaussette\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"plumage\" - Espa\u00f1ol: \"pluma\"\nFran\u00e7ais: \"mouton\" - Espa\u00f1ol: \"oveja\"\nFran\u00e7ais: \"graine\" - Espa\u00f1ol: \"",
+        "target": "['semilla', 'pepita', 'simiente']",
+        "word original": "seed"
+    },
+    "['mouton', 'ovid\u00e9', 'Ovis aries', 'mouton domestique', 'Ovis orientalis aries']": {
+        "prompt": "Fran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"minou\" - Espa\u00f1ol: \"gato\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"plateau\" - Espa\u00f1ol: \"meseta\"\nFran\u00e7ais: \"lune\" - Espa\u00f1ol: \"sat\u00e9lite artificial\"\nFran\u00e7ais: \"mouton\" - Espa\u00f1ol: \"",
+        "target": "['oveja', 'oveja dom\u00e9stica', 'ovino', 'Ovis orientalis aries', 'Ovis aries', 'ganado ovino', 'ganado lanar', 'ardia']",
+        "word original": "sheep"
+    },
+    "['rayon', 'ra\u00efon municipal', 'district municipal', '\u00e9tag\u00e8re', 'tablard', 'tablette', 'faisceau lumineux', 'rayon lumineux', 'irradiation']": {
+        "prompt": "Fran\u00e7ais: \"doigt\" - Espa\u00f1ol: \"peineta\"\nFran\u00e7ais: \"timbre-poste\" - Espa\u00f1ol: \"estampilla\"\nFran\u00e7ais: \"plateau\" - Espa\u00f1ol: \"meseta\"\nFran\u00e7ais: \"abeille\" - Espa\u00f1ol: \"abeja\"\nFran\u00e7ais: \"vache\" - Espa\u00f1ol: \"ganado bovino\"\nFran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"",
+        "target": "['distrito municipal', 'estante', 'repisa', 'anaquel', 'balda', 'entrepa\u00f1o', 'estanter\u00eda', 'rayo', 'rayo luminoso', 'rayo de luz', 'haz', 'haz de luz', 'irradiaci\u00f3n']",
+        "word original": "shelf"
+    },
+    "['navire', 'bateau', 'vaisseau', 'embarcation']": {
+        "prompt": "Fran\u00e7ais: \"allumette\" - Espa\u00f1ol: \"f\u00f3sforo\"\nFran\u00e7ais: \"crayon\" - Espa\u00f1ol: \"l\u00e1piz\"\nFran\u00e7ais: \"tasse\" - Espa\u00f1ol: \"taza\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"techumbre\"\nFran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"sombrero\"\nFran\u00e7ais: \"navire\" - Espa\u00f1ol: \"",
+        "target": "['barco', 'buque', 'navio', 'nav\u00edo', 'embarcaci\u00f3n', 'nave', 'bajel', 'casco', 'vaso']",
+        "word original": "ship"
+    },
+    "['chemise']": {
+        "prompt": "Fran\u00e7ais: \"l\u00e8vres\" - Espa\u00f1ol: \"labio\"\nFran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"hoja\"\nFran\u00e7ais: \"peigne\" - Espa\u00f1ol: \"peine\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"chien\" - Espa\u00f1ol: \"perra\"\nFran\u00e7ais: \"chemise\" - Espa\u00f1ol: \"",
+        "target": "['camisa']",
+        "word original": "shirt"
+    },
+    "['soulier', 'tatane', 'chaussure', 'pompe', 'grolle', 'godasse', 'bottine', 'botte']": {
+        "prompt": "Fran\u00e7ais: \"ampoule\" - Espa\u00f1ol: \"bombillo\"\nFran\u00e7ais: \"arbre\" - Espa\u00f1ol: \"\u00e1rbol\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"biblioteca\"\nFran\u00e7ais: \"tige\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"",
+        "target": "['zapato', 'bota']",
+        "word original": "tongue"
+    },
+    "['peau', 't\u00e9gument', 'cuir', 'fourrure', 'd\u00e9pouille']": {
+        "prompt": "Fran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"bouteille\" - Espa\u00f1ol: \"botella\"\nFran\u00e7ais: \"aile\" - Espa\u00f1ol: \"ala\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"peau\" - Espa\u00f1ol: \"",
+        "target": "['piel', 'cutis', 'tegumento', 'cuero', 'pelaje']",
+        "word original": "skin"
+    },
+    "['jupe']": {
+        "prompt": "Fran\u00e7ais: \"fouet\" - Espa\u00f1ol: \"fuete\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"ile\" - Espa\u00f1ol: \"isla\"\nFran\u00e7ais: \"ferme\" - Espa\u00f1ol: \"granja\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"jupe\" - Espa\u00f1ol: \"",
+        "target": "['falda', 'saya', 'enaguas', 'pollera']",
+        "word original": "skirt"
+    },
+    "['serpent', 'ophidien', 'serpentes']": {
+        "prompt": "Fran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"ampoule\" - Espa\u00f1ol: \"bombillo\"\nFran\u00e7ais: \"bouteille\" - Espa\u00f1ol: \"botella\"\nFran\u00e7ais: \"estomac\" - Espa\u00f1ol: \"est\u00f3mago\"\nFran\u00e7ais: \"biblioth\u00e8que\" - Espa\u00f1ol: \"biblioteca\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"",
+        "target": "['sierpe', 'serpiente', 'ofidio', 'culebra', 'Serpentes', 'v\u00edbora', 'serpentes', 'serpientes']",
+        "word original": "snake"
+    },
+    "['chaussette', 'bas']": {
+        "prompt": "Fran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"ferme\" - Espa\u00f1ol: \"granja\"\nFran\u00e7ais: \"n\u0153ud\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"pied\" - Espa\u00f1ol: \"pies\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"techumbre\"\nFran\u00e7ais: \"chaussette\" - Espa\u00f1ol: \"",
+        "target": "['calcet\u00edn', 'media', 'calcetines']",
+        "word original": "sock"
+    },
+    "['nigga', 'noir', 'black', 'n\u00e8gre', 'Histoire du terme \u00ab n\u00e8gre', 'N\u00e9gro\u00efde', 'n\u00e9gro\u00efde', 'N\u00e8gre']": {
+        "prompt": "Fran\u00e7ais: \"nuage\" - Espa\u00f1ol: \"nube\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"citaro\" - Espa\u00f1ol: \"guimbarda\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"nigga\" - Espa\u00f1ol: \"",
+        "target": "['negro', 'negroide', 'negra']",
+        "word original": "spade"
+    },
+    "['\u00e9ponge', '\u00e9ponges', 'Porifera', 'parazoaire']": {
+        "prompt": "Fran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"drapeau\" - Espa\u00f1ol: \"bandera\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"crayon\" - Espa\u00f1ol: \"l\u00e1piz\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"\u00e9ponge\" - Espa\u00f1ol: \"",
+        "target": "['esponja', 'esponjas', 'por\u00edferos', 'Porifera', 'poriferan', 'parazoan', 'por\u00edforo', 'porifera']",
+        "word original": "sponge"
+    },
+    "['cuill\u00e8re', 'cuiller']": {
+        "prompt": "Fran\u00e7ais: \"four\" - Espa\u00f1ol: \"horno\"\nFran\u00e7ais: \"illustration\" - Espa\u00f1ol: \"ilustraci\u00f3n\"\nFran\u00e7ais: \"fille\" - Espa\u00f1ol: \"chica\"\nFran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"dipt\u00e8re\" - Espa\u00f1ol: \"mosca\"\nFran\u00e7ais: \"cuill\u00e8re\" - Espa\u00f1ol: \"",
+        "target": "['cuchara']",
+        "word original": "spoon"
+    },
+    "['source', 'origine', 'd\u00e9but', 'racine']": {
+        "prompt": "Fran\u00e7ais: \"graine\" - Espa\u00f1ol: \"semilla\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"bas\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"g\u00e2teau\" - Espa\u00f1ol: \"pastel\"\nFran\u00e7ais: \"source\" - Espa\u00f1ol: \"",
+        "target": "['manantial', 'fuente', 'vertiente', 'surtidor', 'brollador', 'fuente natural', 'emanaci\u00f3n', 'ra\u00edz', 'inicio', 'origen', 'venero', 'nacimiento', 'germen', 'principio']",
+        "word original": "spring"
+    },
+    "['carr\u00e9', 'Croisillon', 'croisillon', 'carr\u00e9 en je broertjte']": {
+        "prompt": "Fran\u00e7ais: \"cigare\" - Espa\u00f1ol: \"cigarro\"\nFran\u00e7ais: \"toit\" - Espa\u00f1ol: \"techumbre\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"nez\" - Espa\u00f1ol: \"nariz\"\nFran\u00e7ais: \"goutte de pluie\" - Espa\u00f1ol: \"agua pluvial\"\nFran\u00e7ais: \"carr\u00e9\" - Espa\u00f1ol: \"",
+        "target": "['almohadilla', 'cuadrado', 'cuadro', 'cuadrado perfecto']",
+        "word original": "square"
+    },
+    "['timbre-poste', 'timbre', 'timbre postal']": {
+        "prompt": "Fran\u00e7ais: \"seau\" - Espa\u00f1ol: \"balde\"\nFran\u00e7ais: \"arc\" - Espa\u00f1ol: \"arco y flecha\"\nFran\u00e7ais: \"corps humain\" - Espa\u00f1ol: \"constituci\u00f3n\"\nFran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"arma de fuego\"\nFran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"timbre-poste\" - Espa\u00f1ol: \"",
+        "target": "['estampilla', 'timbre postal', 'sello', 'sello postal', 'timbre', 'porte', 'franqueo', 'sello de correos']",
+        "word original": "stamp"
+    },
+    "['\u00e9toile', 'superstar', 'sp\u00e9cialiste', 'vedette', 'connaisseur', 'as', 'machine', 'expert', 'champion', 'Maven', 'virtuose', 'g\u00e9nie', 'b\u00eate', 'effet superstar', 'star', 'sommit\u00e9']": {
+        "prompt": "Fran\u00e7ais: \"veste\" - Espa\u00f1ol: \"casaca\"\nFran\u00e7ais: \"pont\" - Espa\u00f1ol: \"puente\"\nFran\u00e7ais: \"domicile\" - Espa\u00f1ol: \"casa\"\nFran\u00e7ais: \"lavabo\" - Espa\u00f1ol: \"pila\"\nFran\u00e7ais: \"t\u00e9l\u00e9vision\" - Espa\u00f1ol: \"video\"\nFran\u00e7ais: \"\u00e9toile\" - Espa\u00f1ol: \"",
+        "target": "['estrella', 'astro', 'superestrella', 'entendida', 'entendido', 'Adepto', 'adepto', 'Maven', 'experta', 'experto', 'diestro', 'crack', 'asistente', 'virtuoso', 'ducho', 'genio', 'maven', 'mavin', 'as', 'wiz', 'hacha']",
+        "word original": "star"
+    },
+    "['station', 'gare', 'gare ferroviaire', 'gare de chemin de fer']": {
+        "prompt": "Fran\u00e7ais: \"tasse\" - Espa\u00f1ol: \"taza\"\nFran\u00e7ais: \"chemise\" - Espa\u00f1ol: \"camisa\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nFran\u00e7ais: \"moteur\" - Espa\u00f1ol: \"motor\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"station\" - Espa\u00f1ol: \"",
+        "target": "['estaci\u00f3n de ferrocarril', 'estaci\u00f3n de tren', 'estaci\u00f3n ferroviaria', 'estaci\u00f3n', 'estaci\u00f3n de ferrocarriles', 'train depot', 'estaci\u00f3n de trenes', 'terminal de ferrocarriles']",
+        "word original": "station"
+    },
+    "['tige', 'cylindre']": {
+        "prompt": "Fran\u00e7ais: \"oiseau\" - Espa\u00f1ol: \"p\u00e1jaro\"\nFran\u00e7ais: \"rayon\" - Espa\u00f1ol: \"distrito municipal\"\nFran\u00e7ais: \"v\u00e9hicule ferroviaire\" - Espa\u00f1ol: \"vag\u00f3n\"\nFran\u00e7ais: \"colis\" - Espa\u00f1ol: \"haz\"\nFran\u00e7ais: \"\u0153uf de poule\" - Espa\u00f1ol: \"huevo de gallina\"\nFran\u00e7ais: \"tige\" - Espa\u00f1ol: \"",
+        "target": "['tallo', 'cilindro']",
+        "word original": "stem"
+    },
+    "['cigare']": {
+        "prompt": "Fran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"precio\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"c\u00edrculo\"\nFran\u00e7ais: \"pied\" - Espa\u00f1ol: \"pies\"\nFran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"ch\u00e2timent corporel\" - Espa\u00f1ol: \"castigo corporal\"\nFran\u00e7ais: \"cigare\" - Espa\u00f1ol: \"",
+        "target": "['cigarro', 'puro', 'cigarro puro', 'cigarrillo', 'chicote', 'tagarnina']",
+        "word original": "stick"
+    },
+    "['bas', 'chaussette', 'fond']": {
+        "prompt": "Fran\u00e7ais: \"joyau\" - Espa\u00f1ol: \"joyer\u00eda\"\nFran\u00e7ais: \"bouteille\" - Espa\u00f1ol: \"botella\"\nFran\u00e7ais: \"bouilloire \u00e0 th\u00e9\" - Espa\u00f1ol: \"hervidor\"\nFran\u00e7ais: \"\u00e9glise\" - Espa\u00f1ol: \"iglesia\"\nFran\u00e7ais: \"cou\" - Espa\u00f1ol: \"cuello\"\nFran\u00e7ais: \"bas\" - Espa\u00f1ol: \"",
+        "target": "['calcet\u00edn', 'media', 'calcetines', 'parte inferior']",
+        "word original": "stocking"
+    },
+    "['estomac', 'ventre']": {
+        "prompt": "Fran\u00e7ais: \"fringue\" - Espa\u00f1ol: \"ropa\"\nFran\u00e7ais: \"poisson\" - Espa\u00f1ol: \"pescado\"\nFran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"paire de ciseaux\" - Espa\u00f1ol: \"sax\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"estomac\" - Espa\u00f1ol: \"",
+        "target": "['est\u00f3mago', 'barriga', 'panza', 'buche', 'tum', 'granero']",
+        "word original": "stomach"
+    },
+    "['m\u00e9moire', 'm\u00e9moire informatique', 'm\u00e9moire de stockage']": {
+        "prompt": "Fran\u00e7ais: \"souris\" - Espa\u00f1ol: \"rata\"\nFran\u00e7ais: \"feuillage\" - Espa\u00f1ol: \"hoja\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"poche\" - Espa\u00f1ol: \"bolsa de pl\u00e1stico\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"reloj\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"",
+        "target": "['memoria', 'dispositivo de almacenamiento', 'memoria principal', 'memoria inform\u00e1tica', 'memoria computacional', 'almacenar', 'almac\u00e9n', 'almacenamiento', 'tarjeta de memoria', 'almacenamiento computacional']",
+        "word original": "store"
+    },
+    "['rue', 'route', 'itin\u00e9raire', 'chemin']": {
+        "prompt": "Fran\u00e7ais: \"toilette\" - Espa\u00f1ol: \"maquillaje\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"fringue\" - Espa\u00f1ol: \"ropa\"\nFran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"ongle\" - Espa\u00f1ol: \"u\u00f1a\"\nFran\u00e7ais: \"rue\" - Espa\u00f1ol: \"",
+        "target": "['carretera', 'calle', 'camino', 'itinerario', 'ruta', 'rua']",
+        "word original": "street"
+    },
+    "['dimanche', 'jour du Seigneur']": {
+        "prompt": "Fran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"veste\" - Espa\u00f1ol: \"casaca\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"paraguas\"\nFran\u00e7ais: \"face\" - Espa\u00f1ol: \"rostro\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"",
+        "target": "['domingo', 'D\u00eda del Se\u00f1or', 'd\u00eda del Senyor', 'dom']",
+        "word original": "sun"
+    },
+    "['queue', 'verge', 'zob', 'membre', 'p\u00e9nis', 'zizi', 'bite', 'membre viril', \"p\u00e9nis d'oiseau\", 'P\u00e9nis']": {
+        "prompt": "Fran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"organisme\" - Espa\u00f1ol: \"autoridad\"\nFran\u00e7ais: \"science \u00e9conomique\" - Espa\u00f1ol: \"econom\u00eda\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"",
+        "target": "['verga', 'pijo', 'pene', 'polla', 'poronga', 'miembro', 'garompa', 'poste', 'carajo', 'pirulo', 'pito', 'pija', 'pipe', 'tranca', 'pene de los mam\u00edferos', 'pirula', 'chota', 'papirola', 'falo', 'cola']",
+        "word original": "tail"
+    },
+    "['fil', 'Elephantidae', 'elephantidae', 'fil textile', 'ficelle', 'corde', 'fil m\u00e9tallique']": {
+        "prompt": "Fran\u00e7ais: \"l\u00e8vres\" - Espa\u00f1ol: \"labio\"\nFran\u00e7ais: \"nourrisson\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"falzar\" - Espa\u00f1ol: \"pantal\u00f3n\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nFran\u00e7ais: \"timbre-poste\" - Espa\u00f1ol: \"estampilla\"\nFran\u00e7ais: \"fil\" - Espa\u00f1ol: \"",
+        "target": "['Elephantidae', 'elef\u00e1ntidos', 'familia Elephantidae', 'hilo', 'hebra', 'hilado', 'lana', 'hilaza', 'cordel', 'mecate', 'cuerda', 'guita', 'bramante', 'cord\u00f3n', 'cable', 'alambre']",
+        "word original": "thread"
+    },
+    "['gorge', 'canyon', 'canon', 'ca\u00f1on', 'pharynx']": {
+        "prompt": "Fran\u00e7ais: \"fonction\" - Espa\u00f1ol: \"posici\u00f3n\"\nFran\u00e7ais: \"internet\" - Espa\u00f1ol: \"red de computadoras\"\nFran\u00e7ais: \"conduite principale\" - Espa\u00f1ol: \"ducto\"\nFran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"rideau\" - Espa\u00f1ol: \"cortina\"\nFran\u00e7ais: \"gorge\" - Espa\u00f1ol: \"",
+        "target": "['ca\u00f1\u00f3n', 'desfiladero', 'ca\u00f1\u00f3', 'canon', 'congosto', 'can\u00f3n', 'barranca', 'garganta', 'faringe']",
+        "word original": "throat"
+    },
+    "['pouce']": {
+        "prompt": "Fran\u00e7ais: \"jupe\" - Espa\u00f1ol: \"falda\"\nFran\u00e7ais: \"cigare\" - Espa\u00f1ol: \"cigarro\"\nFran\u00e7ais: \"chaussette\" - Espa\u00f1ol: \"calcet\u00edn\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"brique\" - Espa\u00f1ol: \"ladrillo\"\nFran\u00e7ais: \"pouce\" - Espa\u00f1ol: \"",
+        "target": "['pulgada', 'pulgar', 'dedo pulgar', 'dedo', 'pollex', 'dedo gordo']",
+        "word original": "thumb"
+    },
+    "['tarif', 'prix', 'frais administratifs', 'taxe', 'honoraires']": {
+        "prompt": "Fran\u00e7ais: \"peigne\" - Espa\u00f1ol: \"peine\"\nFran\u00e7ais: \"dimanche\" - Espa\u00f1ol: \"domingo\"\nFran\u00e7ais: \"vis\" - Espa\u00f1ol: \"tornillo\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"peau\" - Espa\u00f1ol: \"piel\"\nFran\u00e7ais: \"tarif\" - Espa\u00f1ol: \"",
+        "target": "['precio', 'canon', 'precio unitario', 'importe', 'da\u00f1o', 'condiciones', 'honorario', 'tasa', 'tarifa', 'cuota', 'honorarios', 'estipendio', 'pasaje', 'billete']",
+        "word original": "ticket"
+    },
+    "['orteil', 'doigt', 'dactyle', 'doigt de pied', 'doigts de pied', 'petit orteil']": {
+        "prompt": "Fran\u00e7ais: \"allumette\" - Espa\u00f1ol: \"f\u00f3sforo\"\nFran\u00e7ais: \"gar\u00e7on\" - Espa\u00f1ol: \"ni\u00f1o\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"chapeau\" - Espa\u00f1ol: \"sombrero\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"orteil\" - Espa\u00f1ol: \"",
+        "target": "['dedo', 'd\u00edgito', 'dedos del pie', 'dedo peque\u00f1o del pie', 'dedo de pie', 'dedo del pie', 'dedo me\u00f1ique', 'ortejo', 'me\u00f1ique del pie']",
+        "word original": "toe"
+    },
+    "['dents', 'dent', 'dent humaine']": {
+        "prompt": "Fran\u00e7ais: \"serpent\" - Espa\u00f1ol: \"sierpe\"\nFran\u00e7ais: \"queue\" - Espa\u00f1ol: \"verga\"\nFran\u00e7ais: \"domicile\" - Espa\u00f1ol: \"casa\"\nFran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"couteau\" - Espa\u00f1ol: \"cuchillo\"\nFran\u00e7ais: \"dents\" - Espa\u00f1ol: \"",
+        "target": "['diente', 'dientes', 'diente humano']",
+        "word original": "tooth"
+    },
+    "['train', 'convoi', 'vitesse', 'groupe motopropulseur', 'engrenage']": {
+        "prompt": "Fran\u00e7ais: \"fourchette\" - Espa\u00f1ol: \"tenedor\"\nFran\u00e7ais: \"anneau\" - Espa\u00f1ol: \"anillo\"\nFran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"juego de campanas\"\nFran\u00e7ais: \"note\" - Espa\u00f1ol: \"billete de banco\"\nFran\u00e7ais: \"jambe\" - Espa\u00f1ol: \"extremidad inferior\"\nFran\u00e7ais: \"train\" - Espa\u00f1ol: \"",
+        "target": "['tren', 'ferrocarril', 'locomotora', 'trenes', 'convoy', 'procesi\u00f3n', 'cola', 'cambio', 'reductores de velocidad', 'tren de potencia', 'Sistema de propulsi\u00f3n', 'Reductores de velocidad', 'sistema de propulsi\u00f3n', 'marcha', 'engranaje']",
+        "word original": "train"
+    },
+    "['plateau', 'estrade', 'sc\u00e8ne']": {
+        "prompt": "Fran\u00e7ais: \"lavabo\" - Espa\u00f1ol: \"pila\"\nFran\u00e7ais: \"dents\" - Espa\u00f1ol: \"diente\"\nFran\u00e7ais: \"science \u00e9conomique\" - Espa\u00f1ol: \"econom\u00eda\"\nFran\u00e7ais: \"pouce\" - Espa\u00f1ol: \"pulgada\"\nFran\u00e7ais: \"menton\" - Espa\u00f1ol: \"barbilla\"\nFran\u00e7ais: \"plateau\" - Espa\u00f1ol: \"",
+        "target": "['meseta', 'mesa', 'aljarafe', 'altiplano', 'ajarafe', 'altiplan\u00edcie', 'escenario', 'escena']",
+        "word original": "tray"
+    },
+    "['arbre']": {
+        "prompt": "Fran\u00e7ais: \"poisson\" - Espa\u00f1ol: \"pescado\"\nFran\u00e7ais: \"soulier\" - Espa\u00f1ol: \"zapato\"\nFran\u00e7ais: \"fil\" - Espa\u00f1ol: \"Elephantidae\"\nFran\u00e7ais: \"ferme\" - Espa\u00f1ol: \"granja\"\nFran\u00e7ais: \"timbre-poste\" - Espa\u00f1ol: \"estampilla\"\nFran\u00e7ais: \"arbre\" - Espa\u00f1ol: \"",
+        "target": "['\u00e1rbol', 'arbol']",
+        "word original": "tree"
+    },
+    "['falzar', 'falzard', 'b\u00e9noche', 'fendard', 'futal', 'fute', 'froc', 'pantalon', 'b\u00e9nard']": {
+        "prompt": "Fran\u00e7ais: \"os\" - Espa\u00f1ol: \"sistema operativo\"\nFran\u00e7ais: \"four\" - Espa\u00f1ol: \"horno\"\nFran\u00e7ais: \"\u00e9p\u00e9e\" - Espa\u00f1ol: \"espada\"\nFran\u00e7ais: \"acad\u00e9mie\" - Espa\u00f1ol: \"universidad\"\nFran\u00e7ais: \"crayon\" - Espa\u00f1ol: \"l\u00e1piz\"\nFran\u00e7ais: \"falzar\" - Espa\u00f1ol: \"",
+        "target": "['pantal\u00f3n', 'pantalones', 'herales']",
+        "word original": "trousers"
+    },
+    "['p\u00e9pin', 'parapluie', 'p\u00e9broque', 'riflard', 'en-cas', 'ombrelle']": {
+        "prompt": "Fran\u00e7ais: \"mur\" - Espa\u00f1ol: \"pared\"\nFran\u00e7ais: \"colis\" - Espa\u00f1ol: \"haz\"\nFran\u00e7ais: \"chevelure\" - Espa\u00f1ol: \"cabello\"\nFran\u00e7ais: \"n\u0153ud\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"source\" - Espa\u00f1ol: \"manantial\"\nFran\u00e7ais: \"p\u00e9pin\" - Espa\u00f1ol: \"",
+        "target": "['paraguas', 'sombrilla', 'parasol']",
+        "word original": "umbrella"
+    },
+    "['mur']": {
+        "prompt": "Fran\u00e7ais: \"nerf\" - Espa\u00f1ol: \"nervio\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"charrue\" - Espa\u00f1ol: \"arado\"\nFran\u00e7ais: \"vall\u00e9e\" - Espa\u00f1ol: \"dolina\"\nFran\u00e7ais: \"mur\" - Espa\u00f1ol: \"",
+        "target": "['pared', 'muro', 'muralla']",
+        "word original": "wall"
+    },
+    "['bracelet-montre', 'montre', 'montre-bracelet']": {
+        "prompt": "Fran\u00e7ais: \"rue\" - Espa\u00f1ol: \"carretera\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nFran\u00e7ais: \"baie\" - Espa\u00f1ol: \"bah\u00eda\"\nFran\u00e7ais: \"prison\" - Espa\u00f1ol: \"c\u00e1rcel\"\nFran\u00e7ais: \"main\" - Espa\u00f1ol: \"juego de naipes\"\nFran\u00e7ais: \"bracelet-montre\" - Espa\u00f1ol: \"",
+        "target": "['reloj', 'reloj de pulsera', 'peluco', 'reloj pulsera']",
+        "word original": "watch"
+    },
+    "['v\u00e9lo', 'bicyclette', 'petite reine', 'v\u00e9locip\u00e8de', 'motocyclette', 'moto', 'v\u00e9lomoteur', 'motocycle', 'cyclisme', 'Cyclisme f\u00e9minin']": {
+        "prompt": "Fran\u00e7ais: \"tasse\" - Espa\u00f1ol: \"taza\"\nFran\u00e7ais: \"nigga\" - Espa\u00f1ol: \"negro\"\nFran\u00e7ais: \"psych\u00e9\" - Espa\u00f1ol: \"mente\"\nFran\u00e7ais: \"boucle\" - Espa\u00f1ol: \"zarcillo\"\nFran\u00e7ais: \"appareil photographique\" - Espa\u00f1ol: \"c\u00e1mara fotogr\u00e1fica\"\nFran\u00e7ais: \"v\u00e9lo\" - Espa\u00f1ol: \"",
+        "target": "['bicicleta', 'bici', 'bicicletas', 'motocicleta', 'motora', 'motor', 'moto', 'motociclo', 'ciclismo', 'ciclismo femenino']",
+        "word original": "wheel"
+    },
+    "['fouet']": {
+        "prompt": "Fran\u00e7ais: \"ampoule\" - Espa\u00f1ol: \"bombillo\"\nFran\u00e7ais: \"prison\" - Espa\u00f1ol: \"c\u00e1rcel\"\nFran\u00e7ais: \"tige\" - Espa\u00f1ol: \"tallo\"\nFran\u00e7ais: \"charrue\" - Espa\u00f1ol: \"arado\"\nFran\u00e7ais: \"mur\" - Espa\u00f1ol: \"pared\"\nFran\u00e7ais: \"fouet\" - Espa\u00f1ol: \"",
+        "target": "['fuete', 'flagelo', 'l\u00e1tigo', 'fusta']",
+        "word original": "whip"
+    },
+    "['rebord', 'fen\u00eatre', 'rebord de fen\u00eatre', 'marge', 'bord', 'fronti\u00e8re', 'limite']": {
+        "prompt": "Fran\u00e7ais: \"arme \u00e0 feu\" - Espa\u00f1ol: \"arma de fuego\"\nFran\u00e7ais: \"sonnette\" - Espa\u00f1ol: \"juego de campanas\"\nFran\u00e7ais: \"allumette\" - Espa\u00f1ol: \"f\u00f3sforo\"\nFran\u00e7ais: \"gorge\" - Espa\u00f1ol: \"ca\u00f1\u00f3n\"\nFran\u00e7ais: \"chien\" - Espa\u00f1ol: \"perra\"\nFran\u00e7ais: \"rebord\" - Espa\u00f1ol: \"",
+        "target": "['ventana', 'borde', 'l\u00edmite', 'per\u00edmetro', 'margen', 'frontera']",
+        "word original": "window"
+    },
+    "['aile']": {
+        "prompt": "Fran\u00e7ais: \"a\u00e9roplane\" - Espa\u00f1ol: \"avi\u00f3n\"\nFran\u00e7ais: \"marteau\" - Espa\u00f1ol: \"piano\"\nFran\u00e7ais: \"volaille\" - Espa\u00f1ol: \"pollo\"\nFran\u00e7ais: \"livre\" - Espa\u00f1ol: \"libro\"\nFran\u00e7ais: \"cercle\" - Espa\u00f1ol: \"c\u00edrculo\"\nFran\u00e7ais: \"aile\" - Espa\u00f1ol: \"",
+        "target": "['ala']",
+        "word original": "wing"
+    },
+    "['ver']": {
+        "prompt": "Fran\u00e7ais: \"coffre\" - Espa\u00f1ol: \"ba\u00fal\"\nFran\u00e7ais: \"gant\" - Espa\u00f1ol: \"guante\"\nFran\u00e7ais: \"m\u00e9moire\" - Espa\u00f1ol: \"memoria\"\nFran\u00e7ais: \"station\" - Espa\u00f1ol: \"estaci\u00f3n de ferrocarril\"\nFran\u00e7ais: \"c\u0153ur\" - Espa\u00f1ol: \"coraz\u00f3n\"\nFran\u00e7ais: \"ver\" - Espa\u00f1ol: \"",
+        "target": "['gusano', 'verme']",
+        "word original": "worm"
+    }
+}
