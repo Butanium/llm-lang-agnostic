@@ -9,6 +9,9 @@ def load_cloze(lang):
     path = DATA_PATH / lang / "cloze_dataset.csv"
     return pd.read_csv(path)
 
+def load_synset(lang):
+    path = DATA_PATH / lang / "synset_dataset.csv"
+    return pd.read_csv(path)
 
 def get_word_translation_dataset(
     source_lang: str,
@@ -44,6 +47,11 @@ def get_cloze_dataset(
     do_sample=True,
     drop_no_defs=False,
 ):
+    """
+    Load the cloze dataset for the given languages. Columns are:
+    - word_original: the original word associated with the synset
+    - synset: the synset associated with the word
+    """
     if isinstance(langs, str):
         langs = [langs]
     dfs = {}

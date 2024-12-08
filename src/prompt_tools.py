@@ -4,12 +4,20 @@ from itertools import product
 from copy import deepcopy
 from typing import Optional, Callable
 from dataclasses import dataclass
-from .utils import (
-    get_tokenizer,
-    ulist,
-    process_tokens,
-    process_tokens_with_tokenization,
-)
+try:
+    from utils import (
+        get_tokenizer,
+        ulist,
+        process_tokens,
+        process_tokens_with_tokenization,
+    )
+except ModuleNotFoundError:
+    from .utils import (
+        get_tokenizer,
+        ulist,
+        process_tokens,
+        process_tokens_with_tokenization,
+    )
 import torch as th
 import re
 
