@@ -37,14 +37,17 @@ if __name__ == "__main__":
         action="store_true",
         help="Use Transformer Lens",
     )
-    parser.add_argument("--exp-id")
+    parser.add_argument("--exp-id", required=False)
     args, unknown = parser.parse_known_args()
     kwargs = dict(vars(args))
     notebook = kwargs.pop("notebook")
     save_path = root / "results" / notebook
     save_path.mkdir(exist_ok=True, parents=True)
     source_notebook_path = notebook_root / f"{notebook}.ipynb"
-    exp_id = str(int(time())) + "_" + kwargs.get("exp_id", generate_slug(2))
+    exp_id = kwargs.get("exp_id", generate_slug(2))
+    if exp_id is None:
+        exp_id = generate_slug(2)
+    exp_id = str(int(time())) + "_" + exp_id
     target_notebook_path = save_path / (
         args.model.replace("/", "_") + f"_{exp_id}.ipynb"
     )

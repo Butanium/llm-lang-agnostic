@@ -5,7 +5,7 @@ from warnings import warn
 from cache_decorator import Cache
 import ast
 from emoji import emoji_count
-
+from random import sample
 import babelnet as bn
 from babelnet.sense import BabelLemmaType, BabelSense
 from babelnet import BabelSynset
@@ -14,7 +14,7 @@ from babelnet import BabelSynset
 from babelnet.api import BabelAPIType, _api_type
 from pathlib import Path
 
-DATA_PATH = Path(__file__).parent.parent / "data"
+DATA_PATH = Path(__file__).parent.parent.parent / "data"
 
 
 def BabelCache(**kwargs):
@@ -241,3 +241,4 @@ def filter_translations(
                 break
     print(f"Filtered to {len(translation_df)} translations")
     return translation_df
+    

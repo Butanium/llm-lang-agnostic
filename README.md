@@ -12,7 +12,10 @@ chmod +x compute_results.sh
 ```
 
 # Datasets used in the paper
-The code to rebuild the datasets is located in the `build_datasets` folder but are provided in the repo because you'd need to ask for extra Babelnet API credits / ask for the local index (and make them run 👻) which you don't want to.
+The code to rebuild the datasets is located in the `build_datasets` folder but are provided in the repo because you'd need to ask for extra Babelnet API credits / ask for the local index (and make them run 👻) which you don't want to. If you want to do so, make sure to install `babelnet` using:
+```bash
+pip install --ignore-requires-python babelnet cache_decorator emoji
+```
 
 ## `word_translation.csv`
 Those files are computed using the `main_translation_dataset` function of `build_dataset/build_bn_dataset.py`.
