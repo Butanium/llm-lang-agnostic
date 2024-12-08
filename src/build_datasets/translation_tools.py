@@ -241,4 +241,3 @@ def filter_translations(
                 break
     print(f"Filtered to {len(translation_df)} translations")
     return translation_df
-    

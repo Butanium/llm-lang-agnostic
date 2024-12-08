@@ -15,7 +15,7 @@ from translation_tools import (
     id_to_bn_lang,
     get_synset_from_id,
     DATA_PATH,
-    _sense_filter
+    _sense_filter,
 )
 from prompt_tools import prompts_from_df
 from emoji import emoji_count
@@ -170,13 +170,20 @@ def generate_bn_cloze_dataset(lang, placeholder="___"):
 
 
 def build_bn_dataset(
-    input_lang, out_langs, expand=False, use_tqdm=False, name="word_translation2", synset_file="basic_english_synset.csv"
+    input_lang,
+    out_langs,
+    expand=False,
+    use_tqdm=False,
+    name="word_translation2",
+    synset_file="basic_english_synset.csv",
 ):
     print(f"{input_lang} -> {out_langs}")
     synset_df = pd.read_csv(DATA_PATH / synset_file)
     synsets = synset_df["synset"]
     words_original_df = synset_df["word_original"]
-    synsets = [get_synset_from_id(synset_id, to_langs=input_lang) for synset_id in synsets]
+    synsets = [
+        get_synset_from_id(synset_id, to_langs=input_lang) for synset_id in synsets
+    ]
     words = []
     words_original = []
     for synset, word_original in zip(synsets, words_original_df):
@@ -216,7 +223,9 @@ def build_bn_dataset(
                 "target": str(row[target_lang]),
                 "word original": str(row["word_original"]),
             }
-        with open(DATA_PATH / f"{input_lang}/{target_lang}_{name}_prompts.json", "w") as f:
+        with open(
+            DATA_PATH / f"{input_lang}/{target_lang}_{name}_prompts.json", "w"
+        ) as f:
             json.dump(json_dic, f, indent=4)
     print(f"Done {input_lang}")
 
@@ -246,7 +255,21 @@ def build_synset_dataset(words, lang, use_tqdm=False):
 
 def main_translation_dataset(args):
     parser = ArgumentParser()
-    langs = ["fr", "de", "ru", "en", "zh", "es", "ja", "ko", "et", "fi", "nl", "hi", "it"]
+    langs = [
+        "fr",
+        "de",
+        "ru",
+        "en",
+        "zh",
+        "es",
+        "ja",
+        "ko",
+        "et",
+        "fi",
+        "nl",
+        "hi",
+        "it",
+    ]
     parser.add_argument("--in-langs", "-i", nargs="+", default=langs)
     parser.add_argument("--out-langs", "-o", nargs="+", default=langs)
     parser.add_argument("--expand", "-e", action="store_true")
@@ -258,7 +281,9 @@ def main_translation_dataset(args):
     expand = args.expand
 
     def process_item(input_lang):
-        build_bn_dataset(input_lang, out_langs, expand, use_tqdm=args.tqdm, name=args.name)
+        build_bn_dataset(
+            input_lang, out_langs, expand, use_tqdm=args.tqdm, name=args.name
+        )
 
     with ThreadPoolExecutor(max_workers=30) as executor:
         results = list(executor.map(process_item, langs))
