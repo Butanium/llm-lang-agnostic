@@ -39,7 +39,6 @@ from nnterp.interventions import (
     patchscope_generate,
     steer,
     skip_layers,
-    patch_attention_lens,
     patch_object_attn_lens,
 )
 

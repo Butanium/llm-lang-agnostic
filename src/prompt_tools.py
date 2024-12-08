@@ -201,6 +201,8 @@ lang2name = {
     "A": "A",
     "B": "B",
 }
+
+
 def get_df_iterrrows(df, words, words_column):
     if words is None:
         iterrrows = df.iterrows()
@@ -378,7 +380,16 @@ def random_prompts(df, tokenizer, n=5, **kwargs):
     return prompts
 
 
-def def_prompt(df, tokenizer, lang, latent_langs=None, use_word_to_def=False, words=None, words_column="word_original", **kwargs):
+def def_prompt(
+    df,
+    tokenizer,
+    lang,
+    latent_langs=None,
+    use_word_to_def=False,
+    words=None,
+    words_column="word_original",
+    **kwargs,
+):
     if latent_langs is None:
         latent_langs = []
     prompts = translation_prompts(

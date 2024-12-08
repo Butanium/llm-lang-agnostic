@@ -15,10 +15,12 @@ def get_word_translation_dataset(
     target_langs: str | list[str],
     num_words: None | int = None,
     do_sample=True,
+    v2=True,
 ):
+    num = "2" if v2 else ""
     if isinstance(target_langs, str):
         target_langs = [target_langs]
-    df = pd.read_csv(DATA_PATH / source_lang / "word_translation.csv")
+    df = pd.read_csv(DATA_PATH / source_lang / f"word_translation{num}.csv")
     if num_words is not None:
         if do_sample:
             df = df.sample(num_words)
