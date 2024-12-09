@@ -1,7 +1,9 @@
 from nnsight import LanguageModel
 from nnsight.models.UnifiedTransformer import UnifiedTransformer
 import re
-
+import numpy as np
+import numpy as np
+import scipy.stats as stats
 
 def ulist(lst):
     """
@@ -126,3 +128,19 @@ def process_tokens_with_tokenization(
             ):
                 final_tokens.append(token_with_start_of_word)
     return ulist(final_tokens)
+
+
+def mean_no_none(lst):
+    filtered = [x for x in lst if x is not None]
+    if len(filtered) == 0:
+        return None
+    return np.mean(filtered)
+
+
+def ci_no_none(lst, confidence=0.95):
+    filtered = [x for x in lst if x is not None]
+    if len(filtered) == 0:
+        return None
+    sem = stats.sem(filtered)  # Standard error of the mean
+    h = sem * stats.t.ppf((1 + confidence) / 2., len(filtered) - 1)  # Confidence interval
+    return h

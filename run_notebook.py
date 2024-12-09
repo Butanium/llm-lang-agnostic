@@ -13,6 +13,8 @@ if __name__ == "__main__":
     t = time()
     parser = ArgumentParser()
     parser.add_argument("--notebook", "-n", type=str, required=True)
+    parser.add_argument("--no-delete", "-nd", action="store_true")
+
     parser.add_argument("--model", "-m", type=str, required=True)
     parser.add_argument("--model-path", type=str)
     parser.add_argument(
@@ -41,6 +43,7 @@ if __name__ == "__main__":
     args, unknown = parser.parse_known_args()
     kwargs = dict(vars(args))
     notebook = kwargs.pop("notebook")
+    no_delete = kwargs.pop("no_delete")
     save_path = root / "results" / notebook
     save_path.mkdir(exist_ok=True, parents=True)
     source_notebook_path = notebook_root / f"{notebook}.ipynb"
@@ -70,8 +73,11 @@ if __name__ == "__main__":
         print(e)
         if isinstance(e, pm.PapermillExecutionError):
             print("Error in notebook")
-        delete = input(f"Delete notebook {target_notebook_path} ? (y/n)")
-        if delete.lower() == "y":
-            target_notebook_path.unlink()
+        if not no_delete:
+            delete = input(f"Delete notebook {target_notebook_path} ? (y/n)")
+            if delete.lower() == "y":
+                target_notebook_path.unlink()
+            else:
+                print(f"Notebook saved to {target_notebook_path}")
         else:
-            print(f"Notebook saved")
+            print(f"Notebook saved to {target_notebook_path}")
