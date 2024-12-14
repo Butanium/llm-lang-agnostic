@@ -1,5 +1,4 @@
-from nnsight import LanguageModel
-from nnsight.models.UnifiedTransformer import UnifiedTransformer
+import json
 import re
 import numpy as np
 import numpy as np
@@ -10,18 +9,6 @@ def ulist(lst):
     Returns a list with unique elements from the input list.
     """
     return list(dict.fromkeys(lst))
-
-
-def get_tokenizer(model_or_tokenizer):
-    """
-    Returns the tokenizer of the given model or the given tokenizer.
-    """
-    if isinstance(model_or_tokenizer, LanguageModel) or isinstance(
-        model_or_tokenizer, UnifiedTransformer
-    ):
-        return model_or_tokenizer.tokenizer
-    return model_or_tokenizer
-
 
 SPACE_TOKENS = ["▁", "Ġ", " "]
 
@@ -144,3 +131,9 @@ def ci_no_none(lst, confidence=0.95):
     sem = stats.sem(filtered)  # Standard error of the mean
     h = sem * stats.t.ppf((1 + confidence) / 2., len(filtered) - 1)  # Confidence interval
     return h
+
+
+def load_dict(file):
+    with open(file, "r") as f:
+        json_dic = json.load(f)
+    return json_dic

@@ -6,14 +6,12 @@ from typing import Optional, Callable
 from dataclasses import dataclass
 try:
     from utils import (
-        get_tokenizer,
         ulist,
         process_tokens,
         process_tokens_with_tokenization,
     )
 except ModuleNotFoundError:
     from .utils import (
-        get_tokenizer,
         ulist,
         process_tokens,
         process_tokens_with_tokenization,
@@ -41,7 +39,6 @@ class Prompt:
             if augment_token
             else (lambda s: process_tokens_with_tokenization(s, tokenizer))
         )
-        tokenizer = get_tokenizer(tokenizer)
         target_tokens = process_toks(target_strings)
         latent_tokens = {
             lang: process_toks(words) for lang, words in latent_strings.items()
@@ -109,14 +106,14 @@ lang2name = {
 }
 
 
-def get_df_iterrrows(df, words, words_column):
-    if words is None:
+def get_df_iterrrows(df, concepts, concepts_column):
+    if concepts is None:
         iterrrows = df.iterrows()
     else:
-        if isinstance(words, str):
-            words = [words]
-        words_idx = [df.index[df[words_column] == w] for w in words]
-        for i, word in enumerate(words):
+        if isinstance(concepts, str):
+            concepts = [concepts]
+        words_idx = [df.index[df[concepts_column] == w] for w in concepts]
+        for i, word in enumerate(concepts):
             if len(words_idx[i]) == 0:
                 raise ValueError(f"Word {word} not found in dataframe")
             if len(words_idx[i]) > 1:
@@ -135,8 +132,8 @@ def prompts_from_df(
     input_lang_name=None,
     target_lang_name=None,
     cut_at_obj=False,
-    words: None | str | list[str] = None,
-    words_column="word_original",
+    concepts: None | str | list[str] = None,
+    concepts_column="word_original",
 ):
     prompts = []
     pref_input = (
@@ -149,7 +146,7 @@ def prompts_from_df(
         pref_input += ": "
     if pref_target:
         pref_target += ": "
-    for idx, row in get_df_iterrrows(df, words, words_column):
+    for idx, row in get_df_iterrrows(df, concepts, concepts_column):
         idxs = df.index.tolist()
         idxs.remove(idx)
         fs_idxs = sample(idxs, n)
@@ -186,8 +183,8 @@ def translation_prompts(
     target_lang_name=None,
     cut_at_obj=False,
     return_strings=False,
-    words: None | str | list[str] = None,
-    words_column="word_original",
+    concepts: None | str | list[str] = None,
+    concepts_column="word_original",
 ) -> list[Prompt] | list[str]:
     """
     Get a translation prompt from input_lang to target_lang for each row in the dataframe.
@@ -221,12 +218,12 @@ def translation_prompts(
         input_lang_name=input_lang_name,
         target_lang_name=target_lang_name,
         cut_at_obj=cut_at_obj,
-        words=words,
-        words_column=words_column,
+        concepts=concepts,
+        concepts_column=concepts_column,
     )
     if return_strings:
         return prompts_str
-    for prompt, (_, row) in zip(prompts_str, get_df_iterrrows(df, words, words_column)):
+    for prompt, (_, row) in zip(prompts_str, get_df_iterrrows(df, concepts, concepts_column)):
         target_words = row[target_lang]
         if only_best and isinstance(target_words, list):
             target_words = target_words[0]
@@ -292,8 +289,8 @@ def def_prompt(
     lang,
     latent_langs=None,
     use_word_to_def=False,
-    words=None,
-    words_column="word_original",
+    concepts=None,
+    concepts_column="word_original",
     **kwargs,
 ):
     if latent_langs is None:
@@ -310,11 +307,11 @@ def def_prompt(
         + [f"senses_{lang}", f"definitions_wo_ref_{lang}"],
         input_lang_name="",
         target_lang_name="",
-        words=words,
-        words_column=words_column,
+        concepts=concepts,
+        concepts_column=concepts_column,
         **kwargs,
     )
-    for p, (_, row) in zip(prompts, get_df_iterrrows(df, words, words_column)):
+    for p, (_, row) in zip(prompts, get_df_iterrrows(df, concepts, concepts_column)):
         p.target_strings = (
             p.latent_strings[f"senses_{lang}"]
             if not use_word_to_def
