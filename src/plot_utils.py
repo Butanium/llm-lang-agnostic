@@ -26,20 +26,21 @@ def get_layout_kwargs(title):
     )
 
 
-subplot_kwargs = dict(
-    vertical_spacing=0.1,
-    horizontal_spacing=0.1,
-)
+def get_subplot_kwargs(vertical_legend=False):
+    return dict(
+        vertical_spacing=0.2 if vertical_legend else 0.1,
+        horizontal_spacing=0.1,
+    )
 
 
-def plot_defs_comparison(result_dict, from_what, title=None, path=None, exp_id=None):
+def plot_defs_comparison(result_dict, from_what, title=None, path=None, show=True):
     titles = {
         "max sim": "Max Similarity with GT Defs",
         "mean sim": "Mean Similarity with GT Defs",
         "sim w mean": "Similarity with Mean Embedding of GT Defs",
         "sim w mean fst": "Sim with Mean Emb of GT Defs (w/o first)",
         "mean sim with others": "Mean Similarity with Other Words",
-        "max sim with others": "Max Similarity with Other Words",
+        "mean max sim with others": "Mean Max Similarity with Other Words",
     }
     metrics = list(titles.keys())
     values = {
@@ -47,7 +48,10 @@ def plot_defs_comparison(result_dict, from_what, title=None, path=None, exp_id=N
         for m in metrics
     }
     fig = make_subplots(
-        rows=2, cols=3, subplot_titles=[titles[m] for m in metrics], **subplot_kwargs
+        rows=2,
+        cols=3,
+        subplot_titles=[titles[m] for m in metrics],
+        **get_subplot_kwargs(),
     )
     for i, (name, vals) in enumerate(values.items()):
         fig.add_trace(
@@ -88,9 +92,10 @@ def plot_defs_comparison(result_dict, from_what, title=None, path=None, exp_id=N
         showlegend=True,
         **get_layout_kwargs(True),
     )
-    fig.show()
+    if show:
+        fig.show()
     if path is not None:
-        fig.write_image(path / f"{exp_id}_{from_what}_defs_comparison.png", scale=3)
+        fig.write_image(path / f"{from_what}_defs_comparison.png", scale=3)
     return fig
 
 
@@ -101,14 +106,15 @@ def plot_compare_setup(result_dict, path=None, title=None, exp_id=None, show=Tru
         "sim w mean": "Similarity with Mean Embedding of GT Defs",
         "sim w mean fst": "Similarity with Mean Embedding of GT Defs (w/o first)",
         "mean sim with others": "Mean Similarity with Other Words",
-        "max sim with others": "Max Similarity with Other Words",
+        "mean max sim with others": "Mean Max Similarity with Other Words",
     }
     title = "" if title is None else "<br>" + title
     layout_kwargs = get_layout_kwargs(title)
 
     metrics = list(titles.keys())
     means = {}
-    for source in ["from trans", "from def", "baseline", "rnd gt"]:
+    sources = list(list(result_dict.values())[0].keys())
+    for source in sources:
         means[source] = {
             metric: mean_no_none(
                 [result_dict[word][source][metric] for word in result_dict]
@@ -117,13 +123,20 @@ def plot_compare_setup(result_dict, path=None, title=None, exp_id=None, show=Tru
         }
 
     fig = make_subplots(
-        rows=2, cols=3, subplot_titles=[titles[m] for m in metrics], **subplot_kwargs
+        rows=2,
+        cols=3,
+        subplot_titles=[titles[m] for m in metrics],
+        **get_subplot_kwargs(True),
     )
     colors = {
         "from trans": "blue",
+        "from single trans": "cyan",
         "from def": "red",
-        "baseline": "green",
+        "from single def": "orange",
+        "prompting": "green",
+        "word patch": "lightgreen",
         "rnd gt": "purple",
+        "repeat word": "pink",
     }
     for i, metric in enumerate(metrics):
         row = (i // 3) + 1
@@ -168,16 +181,13 @@ def plot_compare_setup(result_dict, path=None, title=None, exp_id=None, show=Tru
     if show:
         fig.show()
     if path is not None:
-        fig.write_image(path / f"{exp_id}_defs_comparison.png", scale=3)
+        fig.write_image(path / f"defs_comparison.png", scale=3)
     fig2 = make_subplots(
-        rows=2, cols=3, subplot_titles=[titles[m] for m in metrics], **subplot_kwargs
+        rows=2,
+        cols=3,
+        subplot_titles=[titles[m] for m in metrics],
+        **get_subplot_kwargs(),
     )
-    colors = {
-        "from trans": "blue",
-        "from def": "red",
-        "baseline": "green",
-        "rnd gt": "purple",
-    }
     for i, metric in enumerate(metrics):
         row = (i // 3) + 1
         col = (i % 3) + 1
@@ -200,6 +210,7 @@ def plot_compare_setup(result_dict, path=None, title=None, exp_id=None, show=Tru
             fig2.update_yaxes(title_text="Count", row=row, col=col)
         if row == 2:
             fig2.update_xaxes(title_text="Score", row=row, col=col, range=[0, 1])
+    layout_kwargs
     fig2.update_layout(
         title_text="Distribution of Metrics Across Definition Sources" + title,
         showlegend=True,
@@ -209,5 +220,128 @@ def plot_compare_setup(result_dict, path=None, title=None, exp_id=None, show=Tru
     if show:
         fig2.show()
     if path is not None:
-        fig2.write_image(path / f"{exp_id}_defs_histogram.png", scale=3)
+        fig2.write_image(path / f"defs_histogram.png", scale=3)
+    return fig, fig2
+
+
+def plot_losses_comparison(result_dict, path=None, title=None, show=True):
+    titles = {
+        "max loss": "Max Loss",
+        "mean loss": "Mean Loss",
+        "min loss": "Min Loss",
+        "mean loss with others": "Mean Loss with Other Concepts",
+        "mean max loss with others": "Mean Max Loss with Other Concepts",
+        "mean min loss with others": "Mean Min Loss with Other Concepts",
+    }
+    title = "" if title is None else "<br>" + title
+    layout_kwargs = get_layout_kwargs(title)
+
+    metrics = list(titles.keys())
+    means = {}
+    sources = list(list(result_dict.values())[0].keys())
+    for source in sources:
+        means[source] = {
+            metric: mean_no_none(
+                [result_dict[word][source][metric] for word in result_dict]
+            )
+            for metric in metrics
+        }
+
+    fig = make_subplots(
+        rows=2,
+        cols=3,
+        subplot_titles=[titles[m] for m in metrics],
+        **get_subplot_kwargs(True),
+    )
+    colors = {
+        "from trans": "blue",
+        "from single trans": "cyan",
+        "from def": "red",
+        "from single def": "orange",
+        "prompting": "green",
+        "word patch": "lightgreen",
+        "rnd gt": "purple",
+        "repeat word": "pink",
+    }
+    for i, metric in enumerate(metrics):
+        row = (i // 3) + 1
+        col = (i % 3) + 1
+
+        y_values = [means[source][metric] for source in means.keys()]
+        cis = []
+        for source in means.keys():
+            values = [result_dict[word][source][metric] for word in result_dict]
+            ci = ci_no_none(values)
+            cis.append(ci)
+        fig.add_trace(
+            go.Bar(
+                x=list(means.keys()),
+                y=y_values,
+                name=titles[metric],
+                marker_color=[colors[source] for source in means.keys()],
+                error_y=dict(type="data", array=cis, visible=True, color="black"),
+            ),
+            row=row,
+            col=col,
+        )
+        if col == 1:
+            fig.update_yaxes(
+                title_text="Mean Score with 95% CI",
+                title_standoff=15,
+                row=row,
+                col=col,
+            )
+        fig.update_yaxes(row=row, col=col, gridcolor="rgba(0,0,0,0.1)", showgrid=True)
+        if row == 2:
+            fig.update_xaxes(title_text="Source", title_standoff=15, row=row, col=col)
+    fig.update_yaxes(matches="y")
+    fig.update_layout(
+        title_text="Mean Metrics Across Definition Sources (with 95% Confidence Intervals)"
+        + (f"{title}" if title else ""),
+        showlegend=False,
+        **layout_kwargs,
+    )
+    if show:
+        fig.show()
+    if path is not None:
+        fig.write_image(path / f"losses_comparison.png", scale=3)
+    fig2 = make_subplots(
+        rows=2,
+        cols=3,
+        subplot_titles=[titles[m] for m in metrics],
+        **get_subplot_kwargs(),
+    )
+    for i, metric in enumerate(metrics):
+        row = (i // 3) + 1
+        col = (i % 3) + 1
+        for source in means.keys():
+            values = [result_dict[word][source][metric] for word in result_dict]
+            fig2.add_trace(
+                go.Histogram(
+                    x=values,
+                    name=source,
+                    showlegend=i == 0,
+                    marker_color=colors[source],
+                    opacity=0.75,
+                    nbinsx=20,
+                    bingroup="b",
+                ),
+                row=row,
+                col=col,
+            )
+        if col == 1:
+            fig2.update_yaxes(title_text="Count", row=row, col=col)
+        if row == 2:
+            fig2.update_xaxes(title_text="Score", row=row, col=col)
+    layout_kwargs
+    fig2.update_layout(
+        title_text="Distribution of Metrics Across Definition Sources" + title,
+        showlegend=True,
+        barmode="group",
+        **layout_kwargs,
+    )
+    if show:
+        fig2.show()
+    if path is not None:
+        fig2.write_image(path / f"losses_histogram.png", scale=3)
     return fig, fig2
