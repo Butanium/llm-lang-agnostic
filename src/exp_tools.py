@@ -3,7 +3,7 @@ import torch as th
 from torch.utils.data import DataLoader
 import pandas as pd
 from tqdm.auto import tqdm
-from nnsight.models.UnifiedTransformer import UnifiedTransformer
+from nnterp.utils import UnifiedTransformer
 from nnsight import LanguageModel
 from typing import Callable
 from interventions import TargetPrompt

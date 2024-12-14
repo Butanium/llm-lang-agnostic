@@ -1,17 +1,12 @@
 import math
 import os
 from matplotlib import pyplot as plt
-import matplotlib as mpl
 import seaborn as sns
 import numpy as np
 import pandas as pd
-import torch as th
 from matplotlib import markers, font_manager
 from pathlib import Path
-from contextlib import nullcontext
 from IPython.display import display
-from nnsight import LanguageModel
-from nnsight.models.UnifiedTransformer import UnifiedTransformer
 from nnterp.display import plot_topk_tokens
 
 PATH = Path(os.path.dirname(os.path.realpath(__file__))).parent
