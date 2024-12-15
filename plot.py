@@ -1,12 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from src.utils import mean_no_none, load_dict, ci_no_none
-to_en = "/dlabscratch1/cdumas/thinking-lang/results/Llama-2-7b-hf/mean_repr_def/de-it_nl-fi_zh-es_es-ru_ru-ko-en/1733920826_frisky-trout/defs_comparison.json"
-to_en = load_dict(to_en)
-to_zh = "/dlabscratch1/cdumas/thinking-lang/results/Llama-2-7b-hf/mean_repr_def/de-it_nl-fi_zh-es_es-ru_ru-ko-zh/1733920826_frisky-trout/defs_comparison.json"
-to_zh = load_dict(to_zh)
-to_fr = "/dlabscratch1/cdumas/thinking-lang/results/Llama-2-7b-hf/mean_repr_def/en-ko_en-ja_en-et_en-fi-fr/1733920826_frisky-trout/defs_comparison.json"
-to_fr = load_dict(to_fr)
 
 # Define consistent colors and method names
 METHOD_COLORS = {
@@ -37,11 +31,9 @@ methods = ['Multi-Source Translation', 'Multi-Source Definition',
         'Word Patching', 'Prompting', 'Repeat Word']
 
 # Data and titles
-datasets = [to_en, to_zh, to_fr]
-titles = ['English', 'Chinese', 'French']
 
 
-def main_merged_no_xticks_with_legend(datasets=datasets, titles=titles, plot_name="similarities"):
+def main_merged_no_xticks_with_legend(datasets, titles, plot_name="similarities"):
     plt.rcParams.update({'font.size': 14 *2,
                         'axes.titlesize': 28,
                         'axes.labelsize': 14 *2,
